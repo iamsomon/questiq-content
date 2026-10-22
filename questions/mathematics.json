@@ -1,0 +1,442 @@
+[
+  {
+    "id": "mathematics_product_term_0001",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется результат умножения?",
+        "explanation": "Произведение получают умножением. При делении результат называют частным."
+      },
+      "en": {
+        "question": "What is the result of multiplication called?",
+        "explanation": "Multiplication gives a product; division gives a quotient."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Произведение",
+        "en": "Product"
+      },
+      {
+        "id": "o1",
+        "ru": "Сумма",
+        "en": "Sum"
+      },
+      {
+        "id": "o2",
+        "ru": "Разность",
+        "en": "Difference"
+      },
+      {
+        "id": "o3",
+        "ru": "Частное",
+        "en": "Quotient"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_constant_term_0001",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в алгебре называют величину, значение которой не меняется?",
+        "explanation": "Константа имеет фиксированное значение, тогда как значение переменной может изменяться."
+      },
+      "en": {
+        "question": "What is a quantity whose value does not change called in algebra?",
+        "explanation": "A constant has a fixed value, while a variable may take different values."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Константа",
+        "en": "Constant"
+      },
+      {
+        "id": "o1",
+        "ru": "Переменная",
+        "en": "Variable"
+      },
+      {
+        "id": "o2",
+        "ru": "Частное",
+        "en": "Quotient"
+      },
+      {
+        "id": "o3",
+        "ru": "Неравенство",
+        "en": "Inequality"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_cube_value_0001",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 3³?",
+        "explanation": "3³ означает 3 × 3 × 3, то есть 27. Показатель степени задаёт число множителей."
+      },
+      "en": {
+        "question": "What is 3³?",
+        "explanation": "3³ means 3 × 3 × 3, which is 27; the exponent counts the factors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "27",
+        "en": "27"
+      },
+      {
+        "id": "o1",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o2",
+        "ru": "18",
+        "en": "18"
+      },
+      {
+        "id": "o3",
+        "ru": "81",
+        "en": "81"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_order_operations_0001",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 2 + 3 × 4?",
+        "explanation": "Сначала выполняют умножение: 3 × 4 = 12. Затем прибавляют 2."
+      },
+      "en": {
+        "question": "What is 2 + 3 × 4?",
+        "explanation": "Multiplication comes first: 3 × 4 = 12. Then add 2."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o1",
+        "ru": "20",
+        "en": "20"
+      },
+      {
+        "id": "o2",
+        "ru": "24",
+        "en": "24"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_parentheses_0001",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно (2 + 3) × 4?",
+        "explanation": "Сначала вычисляют выражение в скобках: 2 + 3 = 5. Затем 5 умножают на 4."
+      },
+      "en": {
+        "question": "What is (2 + 3) × 4?",
+        "explanation": "Evaluate the parentheses first: 2 + 3 = 5. Then multiply 5 by 4."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "20",
+        "en": "20"
+      },
+      {
+        "id": "o1",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o2",
+        "ru": "24",
+        "en": "24"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_equation_sign_0001",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой знак обязательно отличает уравнение от выражения?",
+        "explanation": "Уравнение утверждает равенство двух выражений и содержит знак =."
+      },
+      "en": {
+        "question": "Which sign distinguishes an equation from an expression?",
+        "explanation": "An equation states that two expressions are equal and contains an equals sign."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Знак равенства",
+        "en": "Equals sign"
+      },
+      {
+        "id": "o1",
+        "ru": "Знак умножения",
+        "en": "Multiplication sign"
+      },
+      {
+        "id": "o2",
+        "ru": "Знак сложения",
+        "en": "Plus sign"
+      },
+      {
+        "id": "o3",
+        "ru": "Знак степени",
+        "en": "Exponent notation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_exponent_order_0001",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 2 × 3²?",
+        "explanation": "Сначала вычисляют степень: 3² = 9. Затем умножают 9 на 2."
+      },
+      "en": {
+        "question": "What is 2 × 3²?",
+        "explanation": "Evaluate the exponent first: 3² = 9. Then multiply 9 by 2."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "18",
+        "en": "18"
+      },
+      {
+        "id": "o1",
+        "ru": "36",
+        "en": "36"
+      },
+      {
+        "id": "o2",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_division_left_0001",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 24 ÷ 3 × 2?",
+        "explanation": "Умножение и деление имеют одинаковый приоритет: их выполняют слева направо."
+      },
+      "en": {
+        "question": "What is 24 ÷ 3 × 2?",
+        "explanation": "Multiplication and division have equal priority and are evaluated from left to right."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "16",
+        "en": "16"
+      },
+      {
+        "id": "o1",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o2",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_nested_operations_0001",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 5² − 3 × (4 + 2)?",
+        "explanation": "Скобки дают 6, степень — 25. Затем 25 − 3 × 6 = 7."
+      },
+      "en": {
+        "question": "What is 5² − 3 × (4 + 2)?",
+        "explanation": "The parentheses give 6 and the exponent gives 25. Then 25 − 3 × 6 = 7."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "132",
+        "en": "132"
+      },
+      {
+        "id": "o2",
+        "ru": "19",
+        "en": "19"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_substitution_0001",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 2x² + 1, если x = 3?",
+        "explanation": "Подставляем 3: 2 × 3² + 1 = 2 × 9 + 1 = 19."
+      },
+      "en": {
+        "question": "What is 2x² + 1 when x = 3?",
+        "explanation": "Substitute 3: 2 × 3² + 1 = 2 × 9 + 1 = 19."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "19",
+        "en": "19"
+      },
+      {
+        "id": "o1",
+        "ru": "37",
+        "en": "37"
+      },
+      {
+        "id": "o2",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o3",
+        "ru": "10",
+        "en": "10"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    "image": null
+  }
+]

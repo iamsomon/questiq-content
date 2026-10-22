@@ -1,0 +1,442 @@
+[
+  {
+    "id": "chemistry_first_element_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой элемент имеет атомный номер 1?",
+        "explanation": "Водород открывает периодическую таблицу. Его химический символ — H."
+      },
+      "en": {
+        "question": "Which element has atomic number 1?",
+        "explanation": "Hydrogen begins the periodic table and has the symbol H."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Водород",
+        "en": "Hydrogen"
+      },
+      {
+        "id": "o1",
+        "ru": "Гелий",
+        "en": "Helium"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислород",
+        "en": "Oxygen"
+      },
+      {
+        "id": "o3",
+        "ru": "Углерод",
+        "en": "Carbon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_iron_symbol_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой элемент обозначают символом Fe?",
+        "explanation": "Fe — символ железа, элемента с атомным номером 26."
+      },
+      "en": {
+        "question": "Which element has the symbol Fe?",
+        "explanation": "Fe is the symbol for iron, the element with atomic number 26."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Железо",
+        "en": "Iron"
+      },
+      {
+        "id": "o1",
+        "ru": "Фтор",
+        "en": "Fluorine"
+      },
+      {
+        "id": "o2",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      },
+      {
+        "id": "o3",
+        "ru": "Франций",
+        "en": "Francium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_gold_symbol_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический символ принадлежит золоту?",
+        "explanation": "Золото обозначается Au. Похожий символ Ag относится к серебру."
+      },
+      "en": {
+        "question": "What is the chemical symbol for gold?",
+        "explanation": "Gold has the symbol Au; the similar symbol Ag belongs to silver."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Au",
+        "en": "Au"
+      },
+      {
+        "id": "o1",
+        "ru": "Ag",
+        "en": "Ag"
+      },
+      {
+        "id": "o2",
+        "ru": "Al",
+        "en": "Al"
+      },
+      {
+        "id": "o3",
+        "ru": "Ar",
+        "en": "Ar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_oxygen_number_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой атомный номер у кислорода?",
+        "explanation": "Кислород имеет атомный номер 8 и символ O."
+      },
+      "en": {
+        "question": "What is the atomic number of oxygen?",
+        "explanation": "Oxygen has atomic number 8 and the symbol O."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o1",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o2",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_mercury_state_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой из этих металлов жидкий при обычной комнатной температуре?",
+        "explanation": "Ртуть при комнатной температуре жидкая. В таблице она обозначается Hg."
+      },
+      "en": {
+        "question": "Which of these metals is liquid at ordinary room temperature?",
+        "explanation": "Mercury is liquid at room temperature and has the symbol Hg."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ртуть",
+        "en": "Mercury"
+      },
+      {
+        "id": "o1",
+        "ru": "Железо",
+        "en": "Iron"
+      },
+      {
+        "id": "o2",
+        "ru": "Золото",
+        "en": "Gold"
+      },
+      {
+        "id": "o3",
+        "ru": "Натрий",
+        "en": "Sodium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_noble_gas_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой из перечисленных элементов относится к благородным газам?",
+        "explanation": "Гелий входит в группу благородных газов и имеет атомный номер 2."
+      },
+      "en": {
+        "question": "Which of these elements is a noble gas?",
+        "explanation": "Helium belongs to the noble gases and has atomic number 2."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гелий",
+        "en": "Helium"
+      },
+      {
+        "id": "o1",
+        "ru": "Хлор",
+        "en": "Chlorine"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислород",
+        "en": "Oxygen"
+      },
+      {
+        "id": "o3",
+        "ru": "Водород",
+        "en": "Hydrogen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_alkali_metal_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой из этих элементов является щелочным металлом?",
+        "explanation": "Натрий — щелочной металл с символом Na и атомным номером 11."
+      },
+      "en": {
+        "question": "Which of these elements is an alkali metal?",
+        "explanation": "Sodium is an alkali metal with symbol Na and atomic number 11."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Натрий",
+        "en": "Sodium"
+      },
+      {
+        "id": "o1",
+        "ru": "Кремний",
+        "en": "Silicon"
+      },
+      {
+        "id": "o2",
+        "ru": "Хлор",
+        "en": "Chlorine"
+      },
+      {
+        "id": "o3",
+        "ru": "Гелий",
+        "en": "Helium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_carbon_number_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой элемент имеет атомный номер 6?",
+        "explanation": "Углерод обозначается C и занимает шестое место в периодической таблице."
+      },
+      "en": {
+        "question": "Which element has atomic number 6?",
+        "explanation": "Carbon has the symbol C and is the sixth element in the periodic table."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Углерод",
+        "en": "Carbon"
+      },
+      {
+        "id": "o1",
+        "ru": "Азот",
+        "en": "Nitrogen"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислород",
+        "en": "Oxygen"
+      },
+      {
+        "id": "o3",
+        "ru": "Бор",
+        "en": "Boron"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_metalloid_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой из этих элементов относят к металлоидам?",
+        "explanation": "Кремний относится к металлоидам. Его символ — Si, атомный номер — 14."
+      },
+      "en": {
+        "question": "Which of these elements is classified as a metalloid?",
+        "explanation": "Silicon is a metalloid with symbol Si and atomic number 14."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кремний",
+        "en": "Silicon"
+      },
+      {
+        "id": "o1",
+        "ru": "Натрий",
+        "en": "Sodium"
+      },
+      {
+        "id": "o2",
+        "ru": "Золото",
+        "en": "Gold"
+      },
+      {
+        "id": "o3",
+        "ru": "Гелий",
+        "en": "Helium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_halogen_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе относят хлор?",
+        "explanation": "Хлор — галоген с символом Cl и атомным номером 17."
+      },
+      "en": {
+        "question": "Which group does chlorine belong to?",
+        "explanation": "Chlorine is a halogen with symbol Cl and atomic number 17."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Галогены",
+        "en": "Halogens"
+      },
+      {
+        "id": "o1",
+        "ru": "Благородные газы",
+        "en": "Noble gases"
+      },
+      {
+        "id": "o2",
+        "ru": "Щелочные металлы",
+        "en": "Alkali metals"
+      },
+      {
+        "id": "o3",
+        "ru": "Лантаноиды",
+        "en": "Lanthanides"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+    ],
+    "image": null
+  }
+]

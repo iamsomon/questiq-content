@@ -1,0 +1,442 @@
+[
+  {
+    "id": "biology_protein_blocks_0001",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из каких молекул состоят цепочки белков?",
+        "explanation": "Белки состоят из цепочек аминокислот, которые затем складываются в определённую структуру."
+      },
+      "en": {
+        "question": "What molecules form protein chains?",
+        "explanation": "Proteins are chains of amino acids that fold into a particular structure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аминокислоты",
+        "en": "Amino acids"
+      },
+      {
+        "id": "o1",
+        "ru": "Нуклеотиды",
+        "en": "Nucleotides"
+      },
+      {
+        "id": "o2",
+        "ru": "Жирные кислоты",
+        "en": "Fatty acids"
+      },
+      {
+        "id": "o3",
+        "ru": "Моносахариды",
+        "en": "Monosaccharides"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_hereditary_molecule_0001",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая молекула хранит генетическую информацию в хромосомах человека?",
+        "explanation": "Хромосомы содержат ДНК. Последовательность её оснований кодирует наследственную информацию."
+      },
+      "en": {
+        "question": "Which molecule stores genetic information in human chromosomes?",
+        "explanation": "Chromosomes contain DNA, whose base sequence encodes genetic information."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДНК",
+        "en": "DNA"
+      },
+      {
+        "id": "o1",
+        "ru": "Гемоглобин",
+        "en": "Haemoglobin"
+      },
+      {
+        "id": "o2",
+        "ru": "Крахмал",
+        "en": "Starch"
+      },
+      {
+        "id": "o3",
+        "ru": "Коллаген",
+        "en": "Collagen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_nucleus_location_0001",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где находятся хромосомы в обычной ядросодержащей клетке человека?",
+        "explanation": "Ядро отделено мембраной от цитоплазмы и содержит хромосомы клетки."
+      },
+      "en": {
+        "question": "Where are chromosomes located in a typical human cell with a nucleus?",
+        "explanation": "A membrane separates the nucleus from the cytoplasm; the nucleus contains the cell’s chromosomes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В ядре",
+        "en": "In the nucleus"
+      },
+      {
+        "id": "o1",
+        "ru": "В лизосомах",
+        "en": "In lysosomes"
+      },
+      {
+        "id": "o2",
+        "ru": "В аппарате Гольджи",
+        "en": "In the Golgi apparatus"
+      },
+      {
+        "id": "o3",
+        "ru": "В рибосомах",
+        "en": "In ribosomes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_mitosis_0001",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется деление ядра клетки с сохранением числа хромосом?",
+        "explanation": "При митозе копии хромосом распределяются между двумя новыми ядрами."
+      },
+      "en": {
+        "question": "What is nuclear division that preserves chromosome number called?",
+        "explanation": "During mitosis, chromosome copies are distributed between two new nuclei."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Митоз",
+        "en": "Mitosis"
+      },
+      {
+        "id": "o1",
+        "ru": "Мейоз",
+        "en": "Meiosis"
+      },
+      {
+        "id": "o2",
+        "ru": "Транскрипция",
+        "en": "Transcription"
+      },
+      {
+        "id": "o3",
+        "ru": "Трансляция",
+        "en": "Translation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_ribosome_role_0001",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая клеточная структура служит местом синтеза белка?",
+        "explanation": "Рибосома считывает матричную РНК и собирает цепочку аминокислот."
+      },
+      "en": {
+        "question": "Which cellular structure is a site of protein synthesis?",
+        "explanation": "A ribosome reads messenger RNA and assembles an amino acid chain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рибосома",
+        "en": "Ribosome"
+      },
+      {
+        "id": "o1",
+        "ru": "Лизосома",
+        "en": "Lysosome"
+      },
+      {
+        "id": "o2",
+        "ru": "Вакуоль",
+        "en": "Vacuole"
+      },
+      {
+        "id": "o3",
+        "ru": "Клеточная мембрана",
+        "en": "Cell membrane"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_dna_replication_0001",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется копирование ДНК перед делением клетки?",
+        "explanation": "Репликация создаёт копию ДНК, чтобы дочерние клетки получили генетическую информацию."
+      },
+      "en": {
+        "question": "What is the copying of DNA before cell division called?",
+        "explanation": "Replication copies DNA so daughter cells receive genetic information."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Репликация",
+        "en": "Replication"
+      },
+      {
+        "id": "o1",
+        "ru": "Трансляция",
+        "en": "Translation"
+      },
+      {
+        "id": "o2",
+        "ru": "Диффузия",
+        "en": "Diffusion"
+      },
+      {
+        "id": "o3",
+        "ru": "Осмос",
+        "en": "Osmosis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_adenine_partner_0001",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким основанием аденин образует пару в обычной двуцепочечной ДНК?",
+        "explanation": "В ДНК аденин образует пару с тимином, а гуанин — с цитозином."
+      },
+      "en": {
+        "question": "Which base pairs with adenine in ordinary double-stranded DNA?",
+        "explanation": "In DNA, adenine pairs with thymine, while guanine pairs with cytosine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тимин",
+        "en": "Thymine"
+      },
+      {
+        "id": "o1",
+        "ru": "Цитозин",
+        "en": "Cytosine"
+      },
+      {
+        "id": "o2",
+        "ru": "Гуанин",
+        "en": "Guanine"
+      },
+      {
+        "id": "o3",
+        "ru": "Урацил",
+        "en": "Uracil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_mutation_definition_0001",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют изменение последовательности ДНК?",
+        "explanation": "Мутация — изменение последовательности ДНК; она не обязательно приводит к болезни."
+      },
+      "en": {
+        "question": "What is a change in a DNA sequence called?",
+        "explanation": "A mutation changes a DNA sequence and does not necessarily cause disease."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мутация",
+        "en": "Mutation"
+      },
+      {
+        "id": "o1",
+        "ru": "Диффузия",
+        "en": "Diffusion"
+      },
+      {
+        "id": "o2",
+        "ru": "Фотосинтез",
+        "en": "Photosynthesis"
+      },
+      {
+        "id": "o3",
+        "ru": "Осмос",
+        "en": "Osmosis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_rna_base_0001",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое основание обычно используется в РНК вместо тимина?",
+        "explanation": "В РНК используется урацил. Сахар её нуклеотидов — рибоза, а не дезоксирибоза."
+      },
+      "en": {
+        "question": "Which base is usually used in RNA instead of thymine?",
+        "explanation": "RNA uses uracil, and its nucleotides contain ribose rather than deoxyribose."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Урацил",
+        "en": "Uracil"
+      },
+      {
+        "id": "o1",
+        "ru": "Аденин",
+        "en": "Adenine"
+      },
+      {
+        "id": "o2",
+        "ru": "Гуанин",
+        "en": "Guanine"
+      },
+      {
+        "id": "o3",
+        "ru": "Цитозин",
+        "en": "Cytosine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_nucleolus_role_0001",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая структура ядра участвует в образовании и сборке рибосом?",
+        "explanation": "В ядрышке образуется рибосомная РНК и собираются компоненты рибосом."
+      },
+      "en": {
+        "question": "Which structure within the nucleus helps produce and assemble ribosomes?",
+        "explanation": "The nucleolus produces ribosomal RNA and assembles ribosome components."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ядрышко",
+        "en": "Nucleolus"
+      },
+      {
+        "id": "o1",
+        "ru": "Центромера",
+        "en": "Centromere"
+      },
+      {
+        "id": "o2",
+        "ru": "Теломера",
+        "en": "Telomere"
+      },
+      {
+        "id": "o3",
+        "ru": "Лизосома",
+        "en": "Lysosome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary"
+    ],
+    "image": null
+  }
+]

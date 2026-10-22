@@ -1,43 +1,59 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 20,
+  "approvedQuestions": 60,
   "draftQuestions": 0,
-  "playableCategories": 1,
+  "playableCategories": 5,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
   "revokedCount": 0,
   "categories": [
     {
       "id": "physics",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "chemistry",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "biology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "mathematics",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "astronomy",

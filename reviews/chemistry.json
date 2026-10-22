@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chemistry_first_element_0001",
+    "status": "approved",
+    "sha256": "499a97a2c20dc71825d51aa5bca436670cdfc3fd26ee06a917c2f1327b734c85",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Hydrogen begins the periodic table and has the symbol H.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_iron_symbol_0001",
+    "status": "approved",
+    "sha256": "bfd390f0d91160a85540b1a7ffef409a4de2843216ba7d42df653c91c81afd98",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Fe is the symbol for iron, the element with atomic number 26.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_gold_symbol_0001",
+    "status": "approved",
+    "sha256": "481f0ac9b49e28884cdcae461f5b16e3416e4989c6d106a63102eec508d677c3",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Gold has the symbol Au; the similar symbol Ag belongs to silver.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_oxygen_number_0001",
+    "status": "approved",
+    "sha256": "39c78c3c5e7332b7f8e1c0da102c35cd5d8d14dc3b5659c0d0681a667533ed72",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Oxygen has atomic number 8 and the symbol O.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_mercury_state_0001",
+    "status": "approved",
+    "sha256": "353a9092c41c88c20a56c446003d54827a05ec54081336f8b566b9c1ddf26772",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Mercury is liquid at room temperature and has the symbol Hg.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_noble_gas_0001",
+    "status": "approved",
+    "sha256": "d50245461015ff11cc82220320bd811e9a79cb80f08dc9a6dd0e8cd0c1157a97",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Helium belongs to the noble gases and has atomic number 2.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_alkali_metal_0001",
+    "status": "approved",
+    "sha256": "69198e34fdcc6367047625f0aa70c4973f04fa8c789f4f32a853d8da0b6467b5",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Sodium is an alkali metal with symbol Na and atomic number 11.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_carbon_number_0001",
+    "status": "approved",
+    "sha256": "8174923718abbcb42a9befb9b0e8540b9f38d65d0d75c2427f6b5c6484bc623b",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Carbon has the symbol C and is the sixth element in the periodic table.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_metalloid_0001",
+    "status": "approved",
+    "sha256": "7354a37cac260f2c057711de814e70bbbfaf98758f49a0ebccb3589ad129b17f",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Silicon is a metalloid with symbol Si and atomic number 14.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_halogen_0001",
+    "status": "approved",
+    "sha256": "12e2a4699a546005468b1ee40073dd4fdb99f6aef985628b63b44028180ec8e5",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON",
+        "claim": "Chlorine is a halogen with symbol Cl and atomic number 17.",
+        "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
+      }
+    ]
+  }
+]

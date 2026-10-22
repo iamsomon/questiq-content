@@ -10,7 +10,7 @@ def digest(value):return hashlib.sha256(encoded(value)).hexdigest()
 def load(path,default=None):return json.loads(path.read_text()) if path.exists() else default
 def require(ok,message):
  if not ok:raise ValueError(message)
-def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum())
+def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum() or c in '+−-×÷*/^=()[]²³')
 def check_question(q,categories):
  require(set(q)=={'id','categoryId','difficulty','type','revision','localizations','options','correctOptionId','sources','image'},'Unexpected/missing question fields')
  name=q['id'];require(isinstance(name,str) and re.fullmatch(r'[a-z0-9_]{5,80}',name),f'Invalid ID: {name}')

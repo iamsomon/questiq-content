@@ -1,0 +1,442 @@
+[
+  {
+    "id": "physics_length_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая основная единица длины используется в СИ?",
+        "explanation": "Метр — основная единица длины. Для массы в СИ используется килограмм."
+      },
+      "en": {
+        "question": "What is the SI base unit of length?",
+        "explanation": "The metre is the base unit of length; mass uses the kilogram."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метр",
+        "en": "Metre"
+      },
+      {
+        "id": "o1",
+        "ru": "Литр",
+        "en": "Litre"
+      },
+      {
+        "id": "o2",
+        "ru": "Грамм",
+        "en": "Gram"
+      },
+      {
+        "id": "o3",
+        "ru": "Секунда",
+        "en": "Second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_mass_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая основная единица массы используется в СИ?",
+        "explanation": "Основная единица массы — килограмм, а не грамм. Ньютон измеряет силу."
+      },
+      "en": {
+        "question": "What is the SI base unit of mass?",
+        "explanation": "The kilogram, rather than the gram, is the base unit of mass. The newton measures force."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Килограмм",
+        "en": "Kilogram"
+      },
+      {
+        "id": "o1",
+        "ru": "Грамм",
+        "en": "Gram"
+      },
+      {
+        "id": "o2",
+        "ru": "Ньютон",
+        "en": "Newton"
+      },
+      {
+        "id": "o3",
+        "ru": "Литр",
+        "en": "Litre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_time_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая единица является основной единицей времени в СИ?",
+        "explanation": "Минуты и часы выражаются через секунду — основную единицу времени в СИ."
+      },
+      "en": {
+        "question": "Which unit is the SI base unit of time?",
+        "explanation": "Minutes and hours are expressed in seconds, the SI base unit of time."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Секунда",
+        "en": "Second"
+      },
+      {
+        "id": "o1",
+        "ru": "Минута",
+        "en": "Minute"
+      },
+      {
+        "id": "o2",
+        "ru": "Час",
+        "en": "Hour"
+      },
+      {
+        "id": "o3",
+        "ru": "Сутки",
+        "en": "Day"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_current_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется основная единица силы электрического тока?",
+        "explanation": "Электрический ток измеряют в амперах. Вольт — единица напряжения."
+      },
+      "en": {
+        "question": "What is the SI base unit of electric current?",
+        "explanation": "Electric current is measured in amperes; voltage is measured in volts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ампер",
+        "en": "Ampere"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o2",
+        "ru": "Ом",
+        "en": "Ohm"
+      },
+      {
+        "id": "o3",
+        "ru": "Ватт",
+        "en": "Watt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_temperature_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая единица в СИ используется для термодинамической температуры?",
+        "explanation": "Термодинамическую температуру выражают в кельвинах. Название единицы пишется без слова «градус»."
+      },
+      "en": {
+        "question": "Which SI unit measures thermodynamic temperature?",
+        "explanation": "Thermodynamic temperature is expressed in kelvins, without the word degree."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кельвин",
+        "en": "Kelvin"
+      },
+      {
+        "id": "o1",
+        "ru": "Джоуль",
+        "en": "Joule"
+      },
+      {
+        "id": "o2",
+        "ru": "Паскаль",
+        "en": "Pascal"
+      },
+      {
+        "id": "o3",
+        "ru": "Моль",
+        "en": "Mole"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_amount_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется основная единица количества вещества?",
+        "explanation": "Моль измеряет количество вещества, а не его массу или объём."
+      },
+      "en": {
+        "question": "What is the SI base unit of amount of substance?",
+        "explanation": "The mole measures amount of substance, rather than mass or volume."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Моль",
+        "en": "Mole"
+      },
+      {
+        "id": "o1",
+        "ru": "Килограмм",
+        "en": "Kilogram"
+      },
+      {
+        "id": "o2",
+        "ru": "Кандела",
+        "en": "Candela"
+      },
+      {
+        "id": "o3",
+        "ru": "Литр",
+        "en": "Litre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_light_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая основная единица СИ измеряет силу света?",
+        "explanation": "Кандела — основная единица силы света, одной из семи основных величин СИ."
+      },
+      "en": {
+        "question": "Which SI base unit measures luminous intensity?",
+        "explanation": "The candela is the base unit of luminous intensity, one of the seven SI base quantities."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кандела",
+        "en": "Candela"
+      },
+      {
+        "id": "o1",
+        "ru": "Кельвин",
+        "en": "Kelvin"
+      },
+      {
+        "id": "o2",
+        "ru": "Моль",
+        "en": "Mole"
+      },
+      {
+        "id": "o3",
+        "ru": "Ампер",
+        "en": "Ampere"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bipm.org/en/measurement-units/si-base-units"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_force_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каких единицах СИ измеряют силу?",
+        "explanation": "Ньютон равен кг·м/с²: такая сила сообщает массе 1 кг ускорение 1 м/с²."
+      },
+      "en": {
+        "question": "Which SI unit measures force?",
+        "explanation": "One newton is one kg·m/s²: it gives a mass of 1 kg an acceleration of 1 m/s²."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ньютон",
+        "en": "Newton"
+      },
+      {
+        "id": "o1",
+        "ru": "Джоуль",
+        "en": "Joule"
+      },
+      {
+        "id": "o2",
+        "ru": "Ватт",
+        "en": "Watt"
+      },
+      {
+        "id": "o3",
+        "ru": "Паскаль",
+        "en": "Pascal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_energy_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется единица энергии в СИ?",
+        "explanation": "Джоуль — единица энергии и работы. Один джоуль равен одному ньютон-метру."
+      },
+      "en": {
+        "question": "What is the SI unit of energy?",
+        "explanation": "The joule measures energy and work. One joule equals one newton-metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джоуль",
+        "en": "Joule"
+      },
+      {
+        "id": "o1",
+        "ru": "Ньютон",
+        "en": "Newton"
+      },
+      {
+        "id": "o2",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o3",
+        "ru": "Герц",
+        "en": "Hertz"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_pressure_unit_0001",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен один паскаль?",
+        "explanation": "Паскаль — единица давления: сила в один ньютон, распределённая на площадь один квадратный метр."
+      },
+      "en": {
+        "question": "What is one pascal equal to?",
+        "explanation": "A pascal measures pressure: a force of one newton distributed over one square metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Одному ньютону на квадратный метр",
+        "en": "One newton per square metre"
+      },
+      {
+        "id": "o1",
+        "ru": "Одному джоулю в секунду",
+        "en": "One joule per second"
+      },
+      {
+        "id": "o2",
+        "ru": "Одному метру в секунду",
+        "en": "One metre per second"
+      },
+      {
+        "id": "o3",
+        "ru": "Одному кулону в секунду",
+        "en": "One coulomb per second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  }
+]
