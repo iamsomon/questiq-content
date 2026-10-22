@@ -1,0 +1,446 @@
+[
+  {
+    "id": "ancient_world_cuneiform_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая древняя письменность получила название от клиновидных знаков?",
+        "explanation": "В Месопотамии такие знаки вдавливали в мягкую глину концом тростниковой или деревянной палочки. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "Which ancient writing system takes its name from wedge-shaped signs?",
+        "explanation": "In Mesopotamia, such signs were impressed into soft clay with a reed or wooden stylus. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клинопись",
+        "en": "Cuneiform"
+      },
+      {
+        "id": "o1",
+        "ru": "Египетские иероглифы",
+        "en": "Egyptian hieroglyphs"
+      },
+      {
+        "id": "o2",
+        "ru": "Финикийское письмо",
+        "en": "Phoenician script"
+      },
+      {
+        "id": "o3",
+        "ru": "Линейное письмо Б",
+        "en": "Linear B"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#ancient-world-cuneiform-0001",
+      "https://www.metmuseum.org/essays/the-origins-of-writing",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_khufu_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для какого фараона была построена Великая пирамида в Гизе?",
+        "explanation": "Её относят к Древнему царству и IV династии."
+      },
+      "en": {
+        "question": "For which pharaoh was the Great Pyramid at Giza built?",
+        "explanation": "It belongs to the Old Kingdom and the Fourth Dynasty."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хуфу (Хеопс)",
+        "en": "Khufu (Cheops)"
+      },
+      {
+        "id": "o1",
+        "ru": "Джосер",
+        "en": "Djoser"
+      },
+      {
+        "id": "o2",
+        "ru": "Снофру",
+        "en": "Snefru"
+      },
+      {
+        "id": "o3",
+        "ru": "Рамсес II",
+        "en": "Ramesses II"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://egyptianmuseumcairo.eg/historical-timeline/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_vesuvius_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вулкан погреб под изверженными материалами Помпеи в 79 году н. э.?",
+        "explanation": "Извержение затронуло также Геркуланум; погребённые здания сохранили свидетельства римской жизни."
+      },
+      "en": {
+        "question": "Which volcano buried Pompeii under volcanic material in AD 79?",
+        "explanation": "The eruption also struck Herculaneum; buried buildings preserved evidence of Roman life."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Везувий",
+        "en": "Vesuvius"
+      },
+      {
+        "id": "o1",
+        "ru": "Этна",
+        "en": "Etna"
+      },
+      {
+        "id": "o2",
+        "ru": "Стромболи",
+        "en": "Stromboli"
+      },
+      {
+        "id": "o3",
+        "ru": "Вулькано",
+        "en": "Vulcano"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/829/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_papyrus_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из чего древние египтяне делали листы папируса для письма?",
+        "explanation": "Полоски укладывали слоями и сушили под давлением."
+      },
+      "en": {
+        "question": "What did ancient Egyptians use to make papyrus writing sheets?",
+        "explanation": "Strips were laid in layers and dried under pressure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Из сердцевины стеблей растения",
+        "en": "The pith of plant stalks"
+      },
+      {
+        "id": "o1",
+        "ru": "Из обработанных шкур",
+        "en": "Prepared animal skins"
+      },
+      {
+        "id": "o2",
+        "ru": "Из обожжённой глины",
+        "en": "Fired clay"
+      },
+      {
+        "id": "o3",
+        "ru": "Из тонких медных пластин",
+        "en": "Thin copper plates"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_upper_egypt_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком направлении от Нижнего Египта располагался Верхний Египет?",
+        "explanation": "Нижний Египет соответствовал области дельты Нила, Верхний — южной части долины. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "In which direction from Lower Egypt was Upper Egypt located?",
+        "explanation": "Lower Egypt corresponded to the Nile Delta, while Upper Egypt lay in the southern valley. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "К югу",
+        "en": "South"
+      },
+      {
+        "id": "o1",
+        "ru": "К северу",
+        "en": "North"
+      },
+      {
+        "id": "o2",
+        "ru": "К востоку",
+        "en": "East"
+      },
+      {
+        "id": "o3",
+        "ru": "К западу",
+        "en": "West"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#ancient-world-upper-egypt-0001",
+      "https://egyptianmuseumcairo.eg/historical-timeline/",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_qin_emperor_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С погребальным комплексом какого правителя связана знаменитая Терракотовая армия?",
+        "explanation": "Это первый император объединённой державы Цинь; объединение датируют 221 годом до н. э."
+      },
+      "en": {
+        "question": "The famous Terracotta Army belongs to the burial complex of which ruler?",
+        "explanation": "He was the first emperor of the unified Qin state; unification is dated to 221 BC."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цинь Шихуанди",
+        "en": "Qin Shi Huang"
+      },
+      {
+        "id": "o1",
+        "ru": "Хань У-ди",
+        "en": "Emperor Wu of Han"
+      },
+      {
+        "id": "o2",
+        "ru": "Тан Тай-цзун",
+        "en": "Emperor Taizong of Tang"
+      },
+      {
+        "id": "o3",
+        "ru": "Юнлэ",
+        "en": "Yongle Emperor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/441/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_parthenon_deity_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой богине был посвящён афинский Парфенон?",
+        "explanation": "В главном зале стояла созданная Фидием статуя богини из золота и слоновой кости."
+      },
+      "en": {
+        "question": "To which goddess was the Parthenon in Athens dedicated?",
+        "explanation": "The main chamber held Pheidias’s gold-and-ivory statue of the goddess."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афине",
+        "en": "Athena"
+      },
+      {
+        "id": "o1",
+        "ru": "Гере",
+        "en": "Hera"
+      },
+      {
+        "id": "o2",
+        "ru": "Артемиде",
+        "en": "Artemis"
+      },
+      {
+        "id": "o3",
+        "ru": "Афродите",
+        "en": "Aphrodite"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_rosetta_scholar_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто расшифровал египетские иероглифы в 1822 году, опираясь на Розеттский камень?",
+        "explanation": "Камень стал ключом к чтению древнеегипетских текстов благодаря сопоставлению надписей."
+      },
+      "en": {
+        "question": "Who deciphered Egyptian hieroglyphs in 1822 using the Rosetta Stone?",
+        "explanation": "Comparing the inscriptions on the stone provided a key to reading ancient Egyptian texts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жан-Франсуа Шампольон",
+        "en": "Jean-François Champollion"
+      },
+      {
+        "id": "o1",
+        "ru": "Говард Картер",
+        "en": "Howard Carter"
+      },
+      {
+        "id": "o2",
+        "ru": "Генрих Шлиман",
+        "en": "Heinrich Schliemann"
+      },
+      {
+        "id": "o3",
+        "ru": "Артур Эванс",
+        "en": "Arthur Evans"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://rosetta-stone.dh.uni-leipzig.de/rs/the-rosetta-stone/index.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_colosseum_opening_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году н. э. Тит устроил игры по случаю открытия Колизея?",
+        "explanation": "Празднества по случаю открытия амфитеатра продолжались сто дней."
+      },
+      "en": {
+        "question": "In which year AD did Titus hold games to mark the opening of the Colosseum?",
+        "explanation": "The celebrations marking the amphitheater’s opening lasted one hundred days."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o1",
+        "ru": "44",
+        "en": "44"
+      },
+      {
+        "id": "o2",
+        "ru": "117",
+        "en": "117"
+      },
+      {
+        "id": "o3",
+        "ru": "212",
+        "en": "212"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://colosseo.it/en/event/blood-and-the-arena/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ancient_world_terracotta_discovery_0001",
+    "categoryId": "ancient_world",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году была обнаружена Терракотовая армия у мавзолея первого императора Цинь?",
+        "explanation": "Скульптуры изображают воинов, лошадей и колесницы погребального комплекса."
+      },
+      "en": {
+        "question": "In which year was the Terracotta Army at the first Qin emperor’s mausoleum discovered?",
+        "explanation": "The sculptures depict warriors, horses and chariots in the burial complex."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1974",
+        "en": "1974"
+      },
+      {
+        "id": "o1",
+        "ru": "1922",
+        "en": "1922"
+      },
+      {
+        "id": "o2",
+        "ru": "1949",
+        "en": "1949"
+      },
+      {
+        "id": "o3",
+        "ru": "1987",
+        "en": "1987"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/441/"
+    ],
+    "image": null
+  }
+]

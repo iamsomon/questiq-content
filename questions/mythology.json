@@ -1,0 +1,444 @@
+[
+  {
+    "id": "mythology_olympus_0001",
+    "categoryId": "mythology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой горе, согласно древнегреческим мифам, жили олимпийские боги?",
+        "explanation": "Это мифологический дом богов; Зевс возглавлял олимпийский пантеон. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "On which mountain did the Olympian gods live according to ancient Greek myths?",
+        "explanation": "This was the gods’ mythical home; Zeus headed the Olympian pantheon. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Олимп",
+        "en": "Olympus"
+      },
+      {
+        "id": "o1",
+        "ru": "Парнас",
+        "en": "Parnassus"
+      },
+      {
+        "id": "o2",
+        "ru": "Этна",
+        "en": "Etna"
+      },
+      {
+        "id": "o3",
+        "ru": "Ида",
+        "en": "Ida"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#mythology-olympus-0001",
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_poseidon_0001",
+    "categoryId": "mythology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто был богом моря в древнегреческой мифологии?",
+        "explanation": "По мифам, его братья Зевс и Аид властвовали над небом и подземным миром."
+      },
+      "en": {
+        "question": "Who was the god of the sea in ancient Greek mythology?",
+        "explanation": "In the myths, his brothers Zeus and Hades ruled the sky and Underworld."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Посейдон",
+        "en": "Poseidon"
+      },
+      {
+        "id": "o1",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o2",
+        "ru": "Гефест",
+        "en": "Hephaistos"
+      },
+      {
+        "id": "o3",
+        "ru": "Аполлон",
+        "en": "Apollo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_artemis_0001",
+    "categoryId": "mythology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая древнегреческая богиня покровительствовала охоте?",
+        "explanation": "Её часто изображали с луком и колчаном; Аполлон считался её братом-близнецом."
+      },
+      "en": {
+        "question": "Which ancient Greek goddess was a patron of hunting?",
+        "explanation": "She was often shown with a bow and quiver; Apollo was her twin brother."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Артемида",
+        "en": "Artemis"
+      },
+      {
+        "id": "o1",
+        "ru": "Афродита",
+        "en": "Aphrodite"
+      },
+      {
+        "id": "o2",
+        "ru": "Гера",
+        "en": "Hera"
+      },
+      {
+        "id": "o3",
+        "ru": "Деметра",
+        "en": "Demeter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_mjolnir_0001",
+    "categoryId": "mythology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое оружие называлось Мьёльнир в скандинавских мифах?",
+        "explanation": "Им владел Тор, сражавшийся с великанами."
+      },
+      "en": {
+        "question": "What kind of weapon was Mjölnir in Norse mythology?",
+        "explanation": "It belonged to Thor, who fought giants."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Молот",
+        "en": "Hammer"
+      },
+      {
+        "id": "o1",
+        "ru": "Копьё",
+        "en": "Spear"
+      },
+      {
+        "id": "o2",
+        "ru": "Меч",
+        "en": "Sword"
+      },
+      {
+        "id": "o3",
+        "ru": "Лук",
+        "en": "Bow"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://historiska.se/en/explore-history/history-hub/thor-god-of-thunder/"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_hermes_0001",
+    "categoryId": "mythology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой бог выполнял роль вестника в древнегреческих мифах?",
+        "explanation": "Среди его атрибутов — крылатые сандалии и жезл глашатая."
+      },
+      "en": {
+        "question": "Which god served as a messenger in ancient Greek myths?",
+        "explanation": "His attributes include winged sandals and a herald’s staff."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гермес",
+        "en": "Hermes"
+      },
+      {
+        "id": "o1",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o2",
+        "ru": "Посейдон",
+        "en": "Poseidon"
+      },
+      {
+        "id": "o3",
+        "ru": "Гефест",
+        "en": "Hephaistos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_dionysos_0001",
+    "categoryId": "mythology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой древнегреческий бог связан с вином и театром?",
+        "explanation": "Его почитание связывало виноделие, празднества и театральные представления."
+      },
+      "en": {
+        "question": "Which ancient Greek god is associated with wine and theater?",
+        "explanation": "His worship connected winemaking, festivals and theatrical performances."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дионис",
+        "en": "Dionysos"
+      },
+      {
+        "id": "o1",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o2",
+        "ru": "Аид",
+        "en": "Hades"
+      },
+      {
+        "id": "o3",
+        "ru": "Гермес",
+        "en": "Hermes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_odin_ravens_0001",
+    "categoryId": "mythology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какими птицами были Хугин и Мунин, спутники Одина?",
+        "explanation": "В мифах они облетали мир и сообщали Одину об увиденном."
+      },
+      "en": {
+        "question": "What birds were Huginn and Muninn, Odin’s companions?",
+        "explanation": "In the myths, they flew around the world and reported what they saw to Odin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Воронами",
+        "en": "Ravens"
+      },
+      {
+        "id": "o1",
+        "ru": "Орлами",
+        "en": "Eagles"
+      },
+      {
+        "id": "o2",
+        "ru": "Соколами",
+        "en": "Falcons"
+      },
+      {
+        "id": "o3",
+        "ru": "Совами",
+        "en": "Owls"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://historiska.se/utforska-historien/kunskapsbank/oden-gudarnas-ledare/"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_anubis_0001",
+    "categoryId": "mythology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С головой какого животного обычно изображали древнеегипетского Анубиса?",
+        "explanation": "Он был связан с бальзамированием и охраной погребений."
+      },
+      "en": {
+        "question": "With the head of which animal was the ancient Egyptian Anubis commonly depicted?",
+        "explanation": "He was associated with embalming and the protection of graves."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шакала",
+        "en": "Jackal"
+      },
+      {
+        "id": "o1",
+        "ru": "Кошки",
+        "en": "Cat"
+      },
+      {
+        "id": "o2",
+        "ru": "Сокола",
+        "en": "Falcon"
+      },
+      {
+        "id": "o3",
+        "ru": "Крокодила",
+        "en": "Crocodile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://egyptianmuseum.org/deities-Anubis"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_athena_bird_0001",
+    "categoryId": "mythology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая птица была священной для Афины в древнегреческой традиции?",
+        "explanation": "С богиней связывали также оливковое дерево, ткачество и ремёсла."
+      },
+      "en": {
+        "question": "Which bird was sacred to Athena in ancient Greek tradition?",
+        "explanation": "The goddess was also associated with the olive tree, weaving and crafts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сова",
+        "en": "Owl"
+      },
+      {
+        "id": "o1",
+        "ru": "Павлин",
+        "en": "Peacock"
+      },
+      {
+        "id": "o2",
+        "ru": "Голубь",
+        "en": "Dove"
+      },
+      {
+        "id": "o3",
+        "ru": "Лебедь",
+        "en": "Swan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_thoth_0001",
+    "categoryId": "mythology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой древнеегипетский бог считался покровителем писцов?",
+        "explanation": "Его изображали ибисом или павианом и связывали с письмом и знанием."
+      },
+      "en": {
+        "question": "Which ancient Egyptian god was a patron of scribes?",
+        "explanation": "He was depicted as an ibis or baboon and associated with writing and knowledge."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тот",
+        "en": "Thoth"
+      },
+      {
+        "id": "o1",
+        "ru": "Собек",
+        "en": "Sobek"
+      },
+      {
+        "id": "o2",
+        "ru": "Сет",
+        "en": "Seth"
+      },
+      {
+        "id": "o3",
+        "ru": "Анубис",
+        "en": "Anubis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://egyptianmuseum.org/deities-thoth"
+    ],
+    "image": null
+  }
+]

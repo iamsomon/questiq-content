@@ -1,0 +1,192 @@
+[
+  {
+    "id": "plants_chloroplast_0001",
+    "status": "approved",
+    "sha256": "c405ffb06ac8644fb8f441de85ebca23b51bc4f4859859756faea1d5903419ca",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+        "location": "Main Structures: chloroplasts and thylakoid membranes",
+        "claim": "In which plant-cell organelle does photosynthesis take place? Answer: Chloroplast. Chlorophyll in thylakoid membranes absorbs light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Chloroplast and thylakoid chlorophyll are confirmed in Biology 2e 8.1. Nucleus, mitochondrion and Golgi have other roles; none is the plant photosynthetic organelle. RU organelle terms match EN singulars."
+  },
+  {
+    "id": "plants_cactus_spines_0001",
+    "status": "approved",
+    "sha256": "0b076122cf9052542e7c6e6e8f10dd9a2b04fa89f8962a6dee7f5ad64838966b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "location": "Figure 30.35(a): modified leaves and photosynthetic stem",
+        "claim": "Which organs became spines in the prickly pear cactus? Answer: Leaves. This shape reduces water loss; photosynthesis takes place in green stems."
+      }
+    ],
+    "reviewNotes": "Figure 30.35 specifically identifies prickly-pear spines as modified leaves and green stems as photosynthetic. The scope is this cactus, avoiding other kinds of thorns. Root, petal and stamen are distinct plant organs in both languages."
+  },
+  {
+    "id": "plants_coast_redwood_0001",
+    "status": "approved",
+    "sha256": "06b8534f1182e5dbed795e30997100c098a7773e78e339e836160bb9c404ea64",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "location": "Figure 30.31: coastal redwoods, tallest trees",
+        "claim": "Which species is known for the tallest living trees? Answer: Coast redwood. The species is Sequoia sempervirens; height is distinct from trunk volume. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Figure 30.31 identifies Sequoia sempervirens as the tallest tree species, not the greatest-volume giant sequoia. Douglas fir is corrected to pseudotsuga in Russian; all four options are different tree taxa. No changing individual-tree height record is asserted."
+  },
+  {
+    "id": "plants_flytrap_leaves_0001",
+    "status": "approved",
+    "sha256": "78649cfb7f5d672b6f5c02fcc83f04b67d2ec3d731f339a872b199bf7ca3a692",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.kew.org/read-and-watch/carnivorous-plants",
+        "location": "Venus flytraps: modified trap leaves; trigger hairs; lobes of a leaf",
+        "claim": "Which organ of a Venus flytrap forms its snapping trap? Answer: Leaf. Sensitive hairs inside the trap respond to contact with prey."
+      }
+    ],
+    "reviewNotes": "Changed draft plural to one leaf after checking Kew: its two lobes belong to the same modified leaf. Root, flower and fruit do not form the trap. Kew confirms sensory hairs; the claim does not reproduce the textbook's misleading two-leaves wording."
+  },
+  {
+    "id": "plants_guard_cells_0001",
+    "status": "approved",
+    "sha256": "bdaa7b6c8b42f8725dafc7a988ef56bd3e2699ba063bd0c76d352d9df2655465",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "location": "Control of Transpiration: two guard cells surrounding stomata",
+        "claim": "Which cells regulate the opening and closing of a leaf stoma? Answer: Guard cells. By changing shape, a pair of these cells regulates gas exchange and water-vapor loss. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Transport section confirms paired guard cells open/close stomata. Replaced source's membrane/cytoplasm/cellulose with other cell types, removing its category mismatch. RU 'Камера охраны' corrected to 'Замыкающие клетки'; both questions ask regulation, not generic passage."
+  },
+  {
+    "id": "plants_transpiration_0001",
+    "status": "approved",
+    "sha256": "fd086b2d06b6bffd4b3dd8b67f3b5c57581ab63bd86524199286874a961823a3",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "location": "Movement of Water and Minerals in the Xylem: transpiration",
+        "claim": "What is the loss of water from a plant as vapor called? Answer: Transpiration. Evaporation at leaf surfaces helps create tension in the xylem. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Xylem section defines water-vapor loss as transpiration and links evaporation to tension. Condensation is opposite phase change, fermentation a biochemical process, crystallization solid formation. RU/EN questions and explanations have equal scope."
+  },
+  {
+    "id": "plants_negative_gravitropism_0001",
+    "status": "approved",
+    "sha256": "501e311e26cea0a198f70c136a085bf530adcdc304a626648aa8fe80e9221ed7",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "location": "Plant Responses to Gravity: upward shoot growth",
+        "claim": "What is shoot growth against the direction of gravity called? Answer: Negative gravitropism. The response to gravity differs from phototropism, a response to light direction. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Gravity section explicitly distinguishes negative shoot gravitropism from positive root response. The stem's gravity direction is specified, not inferred from illumination. Phototropism answers describe another stimulus. Both languages preserve 'against gravity'."
+  },
+  {
+    "id": "plants_ethylene_0001",
+    "status": "approved",
+    "sha256": "ca0691f4d035d401fabd6cd5635e019d2e6014b7659c8db1de99bc9f320afc44",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "location": "Ethylene: volatile hormone; paper bag and neighboring fruit",
+        "claim": "Which gaseous plant hormone promotes fruit ripening? Answer: Ethylene. Gas released by one ripening fruit can accelerate the ripening of nearby fruit."
+      }
+    ],
+    "reviewNotes": "Ethylene section confirms volatile gas and fruit ripening, including neighboring fruit. Other named hormones are not gaseous; this qualifier resolves overlapping effects on fruit development. Names and explanation are equivalent RU/EN."
+  },
+  {
+    "id": "plants_phytochrome_0001",
+    "status": "approved",
+    "sha256": "a5690d88e8d63ffcd58e53d158ca82a836cb7f44cf337b3bfa96553d5bf9d642",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "location": "The Phytochrome System: red/far-red photointerconvertible forms",
+        "claim": "Which plant photoreceptor switches between Pr and Pfr forms? Answer: Phytochrome. The forms differ in their absorption of red and far-red light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Red/far-red section explicitly names Pr/Pfr as phytochrome forms. Rewrote broad original flowering question to the distinctive photoreceptor forms so auxin/gibberellin involvement cannot create another answer. Phototropin, cryptochrome and chlorophyll do not have these forms."
+  },
+  {
+    "id": "plants_oxygen_source_0001",
+    "status": "approved",
+    "sha256": "2475f28779b957efbca386e97c1f1f36494806dffd1b76e0b6063d84d5c1fbc8",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+        "location": "Photosystem II: water splitting and diatomic oxygen",
+        "claim": "Which substance supplies the O₂ released by a plant during photosynthesis? Answer: Water (H₂O). Water is split in the light reactions; two water molecules supply one O₂ molecule. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Photosystem II section confirms two H2O split for one diatomic O2. CO2 supplies carbon rather than released oxygen; H2O2 decomposition is not the specified photosynthetic source, and CO is not that substrate. Subscripts and compound names match RU/EN."
+  }
+]

@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "version": "c014cf6931bcd769446c02f5ed6beb7a973899ddb9278d51b2347f9f8e84575d",
+  "version": "354481a4b4cf9e32c07b14814b267bae39ddf45dd1ff39db3ed1852fca5e16f3",
   "revokedIds": [],
   "packs": [
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "ancient_world",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/ancient_world-6675aa8ef925c541.json",
+      "sha256": "6675aa8ef925c541e8f8f64bc12927ce245cb8505a9bd7d566fbdc413234e23b",
+      "size": 10429
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "ancient_world",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/ancient_world-6675aa8ef925c541.json",
+      "sha256": "6675aa8ef925c541e8f8f64bc12927ce245cb8505a9bd7d566fbdc413234e23b",
+      "size": 10429
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "animals",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/animals-bedde73536ad907d.json",
       "sha256": "bedde73536ad907d0f72510c53df2a8df0315c5920648218e2aabb7f5a9d8521",
@@ -246,6 +262,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "human_body",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/human_body-d7311fcf563a75b8.json",
+      "sha256": "d7311fcf563a75b8677bea58b407cf142208bad6e2203b0ceed5381c2d025129",
+      "size": 11067
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "human_body",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/human_body-d7311fcf563a75b8.json",
+      "sha256": "d7311fcf563a75b8677bea58b407cf142208bad6e2203b0ceed5381c2d025129",
+      "size": 11067
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "information_technology",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-ea1137862fab0916.json",
       "sha256": "ea1137862fab091651039f2c5d3a340c95ed6438e88c09df77d44ad6fb102e45",
@@ -310,6 +342,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "mythology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mythology-5e580dfff45591d9.json",
+      "sha256": "5e580dfff45591d97bfa77aaa65414a04f4e8fc8c24ea33f04610bb98b7722ab",
+      "size": 9018
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "mythology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mythology-5e580dfff45591d9.json",
+      "sha256": "5e580dfff45591d97bfa77aaa65414a04f4e8fc8c24ea33f04610bb98b7722ab",
+      "size": 9018
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "natural_wonders",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
       "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
@@ -370,6 +418,22 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
       "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
       "size": 8756
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "plants",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/plants-1b6c7fc9783fbca0.json",
+      "sha256": "1b6c7fc9783fbca04ca44bb5eacfbe0d46857f5426f4e97c5f2a5d51fd089f8e",
+      "size": 12624
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "plants",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/plants-1b6c7fc9783fbca0.json",
+      "sha256": "1b6c7fc9783fbca04ca44bb5eacfbe0d46857f5426f4e97c5f2a5d51fd089f8e",
+      "size": 12624
     },
     {
       "schemaVersion": 1,

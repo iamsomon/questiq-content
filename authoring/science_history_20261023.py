@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT, EVIDENCE = [], {}
 LICENSE = 'https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt'
-CREDITS = 'https://github.com/iamsomon/questiq-content/blob/main/credits/global_mmlu_20261023.md'
+CREDITS = 'https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md'
 
 
 def add(cat, slug, level, ru, en, options, fr, fe, url, location, source_id=None):
