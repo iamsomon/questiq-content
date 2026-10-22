@@ -103,8 +103,9 @@ class ParallelQaTests(unittest.TestCase):
                 self.assertNotIn('approved', row)
                 self.assertNotIn('humanApproved', row)
         playable = content.report()
-        self.assertEqual(playable['approvedQuestions'], 190)
-        self.assertEqual(playable['remainingQuestions'], 9810)
+        released = sum(len(json.loads(path.read_text())) for path in (ROOT/'questions').glob('*.json'))
+        self.assertEqual(playable['approvedQuestions'], released)
+        self.assertEqual(playable['remainingQuestions'], sum(row['remaining'] for row in playable['categories']))
 
 
 if __name__ == '__main__':

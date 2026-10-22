@@ -1,0 +1,11 @@
+# Платный источник с русским языком
+
+Проверено 23 октября 2026: [The Trivia API](https://the-trivia-api.com/) показывает 14 354 вопроса, четыре варианта в `text_choice`, 10 основных категорий и тематические теги. Переводы, включая русский, создаются LLM и доступны в Complete. Цена [Complete](https://the-trivia-api.com/pricing/) в Chrome — **$39,99 в месяц**. Value ($9,99) и Regular ($19,99) переводы не включают. Подписка не оформлялась, платный доступ не обходился.
+
+Это кандидат для ускорения адаптации, а не подтверждённое решение всех требований Questiq: объяснения в показанном формате API отсутствуют, категории нужно сопоставить с нашими 50 направлениями, переводы и ответы требуют проверки. Бесплатная лицензия — NonCommercial; на сайте для коммерческой работы предлагается подписка.
+
+Публичные страницы не подтвердили право выгрузить всю платную базу в открытый GitHub и продолжать коммерческую офлайн-раздачу после отмены подписки. Оплата API сама по себе не доказывает эти дополнительные права. До получения условий полный платный дамп здесь не публикуется. Для разговора владельца с поставщиком подготовлен текст ниже; от нашего имени он не отправлялся.
+
+> We are developing Questiq, an ad-supported iOS trivia app (bundle ID tj.stark.questiq), in Russian and English. We are considering your Complete plan. Does the commercial license permit bulk export of at least 10,000 text-choice questions in both languages, storage in a public GitHub content repository, redistribution as downloadable question packs, and permanent offline caching on users' devices? Can exported questions remain in use after a subscription ends? May we edit translations, add explanations and map tags to our categories? Please provide the applicable written license, attribution requirements, export limits and any separate dataset license price. We will not publish your paid database before these terms are confirmed.
+
+После получения разрешённого экспорта ключ API хранится только локально/в защищённых настройках импорта; ключи не попадают ни в приложение, ни в публичный GitHub. Если поставщик разрешит только работу через собственный API, это иной механизм доставки и не соответствует текущему требованию публичного GitHub и постоянного офлайна.
