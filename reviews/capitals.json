@@ -1,0 +1,182 @@
+[
+  {
+    "id": "capitals_france_0001",
+    "status": "approved",
+    "sha256": "23c2f787e0d1fcaf1c4d54c8629b0b7a7bf0977c6876e16cd914c7da25d99177",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of France? Correct: Paris. Paris lies in the Northern Hemisphere, at nearly 49° north.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_germany_0001",
+    "status": "approved",
+    "sha256": "1ef9d81ebfb7a93971ebbfe77e61465b5ff85ce7a5a8d5830d419b6c3b8bd0cb",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Germany? Correct: Berlin. Berlin lies farther north than Paris, at about 52.5° north.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_japan_0001",
+    "status": "approved",
+    "sha256": "7816319ff8d23fd1e96a1f3bbf8873cdb7c5b9364d5e02dc89d0b70719c59999",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Japan? Correct: Tokyo. Tokyo lies north of the equator and east of the Greenwich meridian.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_egypt_0001",
+    "status": "approved",
+    "sha256": "f3603cdff56f4e9f5de6f4f26a7d1efe42e985375d93585f0b95939015defc39",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Egypt? Correct: Cairo. Cairo is located at about 30° north.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_australia_0001",
+    "status": "approved",
+    "sha256": "933fdabcdb10d5123c021f2ca0b237d5d974660aa5f540e72af1051a611ecf85",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Australia? Correct: Canberra. Canberra lies in the Southern Hemisphere, at about 35° south.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_canada_0001",
+    "status": "approved",
+    "sha256": "2101ad43eb92e79d0e9204fcfe69541f73706688849df46d8c6ab210a171f934",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Canada? Correct: Ottawa. Ottawa lies just north of the Northern Hemisphere’s 45th parallel.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_turkiye_0001",
+    "status": "approved",
+    "sha256": "8d102401fc49e04552ca35fa88fde3ec2f6c2c1e53f9994b80ad2225249bf25c",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Türkiye? Correct: Ankara. Ankara lies east of the Greenwich meridian and north of the equator.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_india_0001",
+    "status": "approved",
+    "sha256": "7685a32043f801cd2491557c16fc9285ba10f3a3504cf3e9d635a2a4c85ce254",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of India? Correct: New Delhi. New Delhi lies north of the equator, at about 29° north.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_kenya_0001",
+    "status": "approved",
+    "sha256": "b97fceb471816057c28b033048b82215fa97c4c6f9fede31516ac18fe63ea629",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Kenya? Correct: Nairobi. Nairobi lies just south of the equator, at about 1.3° south.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  },
+  {
+    "id": "capitals_brazil_0001",
+    "status": "approved",
+    "sha256": "d5b86757bde2cd025afb6bb6a07d2bf4f5b51c77991df7981a80175c9c70655a",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+        "claim": "Which city is the capital of Brazil? Correct: Brasília. Brasília lies in both the Southern and Western Hemispheres.",
+        "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
+      }
+    ]
+  }
+]

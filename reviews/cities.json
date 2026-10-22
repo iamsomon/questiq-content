@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cities_paris_seine_0001",
+    "status": "approved",
+    "sha256": "209d5898b618d9d9846a5a05f11d067dfc3fa0cdeb108f7d72f079b54b3787f4",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/600/",
+        "claim": "Which river runs through the historic centre of Paris? Correct: Seine. The banks of the Seine connect Paris landmarks including the Louvre and Notre-Dame.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_athens_parthenon_0001",
+    "status": "approved",
+    "sha256": "1b351595d0adc7e99712efd8be9beca65e475862dbd213057d557aad968158c3",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/404/",
+        "claim": "Which city is home to the Parthenon on the Acropolis? Correct: Athens. The Parthenon is one of the monuments built on the Athenian Acropolis in the fifth century BCE.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_venice_lagoon_0001",
+    "status": "approved",
+    "sha256": "269eeb5799df80e92a573f9c2331bdd40af4d80826a2b9dbee8cd2e1bffe4830",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/394/",
+        "claim": "Which city stands on islands in a lagoon of the same name? Correct: Venice. Historic Venice developed on lagoon islands; UNESCO describes a group of 118 islands.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_istanbul_hagia_sophia_0001",
+    "status": "approved",
+    "sha256": "2af55c93b1447028255149236565d61599cd31a7e48bbffe0ad184789df48bb1",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/356/",
+        "claim": "Which city is home to Hagia Sophia? Correct: Istanbul. The sixth-century Hagia Sophia is part of the Historic Areas of Istanbul.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_prague_charles_bridge_0001",
+    "status": "approved",
+    "sha256": "e6149a438831058e008fce0629559d7629bc12b1fed54d4c9d5dfa981d1c6467",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/616/",
+        "claim": "Which city is home to Charles Bridge? Correct: Prague. Charles Bridge is part of Prague’s historic centre, alongside Prague Castle.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_granada_alhambra_0001",
+    "status": "approved",
+    "sha256": "193fc8592020364df59ed98791883994e3184661090965bc0f60892774f151f3",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/314/",
+        "claim": "Which Spanish city is home to the Alhambra? Correct: Granada. The Alhambra and Generalife gardens form part of a shared World Heritage site in Granada.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_florence_uffizi_0001",
+    "status": "approved",
+    "sha256": "a32883e66f782cb5b32d62685220b630e40e39866d137dfaee978744ffbb90e7",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/174/",
+        "claim": "Which city is home to the Uffizi Gallery? Correct: Florence. The Uffizi is a landmark of Florence, a historic centre of Renaissance art.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_rome_pantheon_0001",
+    "status": "approved",
+    "sha256": "bd6994ccee570e0b50ccd7b49e3701e7d2adafb8637b79df7a8ced094fa8fd02",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/91/",
+        "claim": "In which city does the ancient Roman Pantheon survive? Correct: Rome. The Pantheon is part of Rome’s historic heritage, alongside the forums and Trajan’s Column.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_seville_giralda_0001",
+    "status": "approved",
+    "sha256": "0bc6299f869d1991e93e6c84a0c5cd072a72bb8fa8fe8110ee51525355fb95ad",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/383/",
+        "claim": "Which city is known for the Giralda tower? Correct: Seville. The Giralda forms part of Seville’s cathedral complex.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  },
+  {
+    "id": "cities_kyoto_capital_0001",
+    "status": "approved",
+    "sha256": "daa1c1eb040b75beacf5b594f5b84a6cf72eb845440f9a2709ba13cd9853dd2d",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/688/",
+        "claim": "Which Japanese city was founded as an imperial capital in 794? Correct: Kyoto. Kyoto remained the imperial capital until the mid-nineteenth century.",
+        "location": "UNESCO World Heritage property Description: named monument, city, river or foundation date"
+      }
+    ]
+  }
+]

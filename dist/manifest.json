@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "3eadd5f96ab6c817a285c43f69b7906628bbfbc4529bd3f8a1c65ed05597c6f0",
+  "version": "1b6309cc4dbcc3f8d83164b897677226a599e861bac758f7df5ea7aab49736ee",
   "revokedIds": [],
   "packs": [
     {
@@ -38,6 +38,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "capitals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/capitals-f5c3408712cd8b1e.json",
+      "sha256": "f5c3408712cd8b1e78287c9079954cdc619fc09083b0be4a040eab98739b2b89",
+      "size": 8094
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "capitals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/capitals-f5c3408712cd8b1e.json",
+      "sha256": "f5c3408712cd8b1e78287c9079954cdc619fc09083b0be4a040eab98739b2b89",
+      "size": 8094
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "chemistry",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
       "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
@@ -54,6 +70,54 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "cities",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
+      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
+      "size": 8490
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "cities",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
+      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
+      "size": 8490
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "countries",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
+      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
+      "size": 9073
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "countries",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
+      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
+      "size": 9073
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "flags",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/flags-8210a7b5e6d5de9d.json",
+      "sha256": "8210a7b5e6d5de9d7b3a4e7750f60894d83f1087e6af4a1ccb107d7a5e70df2e",
+      "size": 9108
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "flags",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/flags-8210a7b5e6d5de9d.json",
+      "sha256": "8210a7b5e6d5de9d7b3a4e7750f60894d83f1087e6af4a1ccb107d7a5e70df2e",
+      "size": 9108
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "mathematics",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
       "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
@@ -66,6 +130,22 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
       "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
       "size": 7798
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "natural_wonders",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
+      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
+      "size": 9301
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "natural_wonders",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
+      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
+      "size": 9301
     },
     {
       "schemaVersion": 1,

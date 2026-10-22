@@ -1,0 +1,442 @@
+[
+  {
+    "id": "cities_paris_seine_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая река проходит через исторический центр Парижа?",
+        "explanation": "Берега Сены объединяют многие памятники Парижа, включая Лувр и собор Парижской Богоматери."
+      },
+      "en": {
+        "question": "Which river runs through the historic centre of Paris?",
+        "explanation": "The banks of the Seine connect Paris landmarks including the Louvre and Notre-Dame."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сена",
+        "en": "Seine"
+      },
+      {
+        "id": "o1",
+        "ru": "Темза",
+        "en": "Thames"
+      },
+      {
+        "id": "o2",
+        "ru": "Тибр",
+        "en": "Tiber"
+      },
+      {
+        "id": "o3",
+        "ru": "Дунай",
+        "en": "Danube"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/600/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_athens_parthenon_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе находится Парфенон на Акрополе?",
+        "explanation": "Парфенон — один из памятников афинского Акрополя, созданных в V веке до н. э."
+      },
+      "en": {
+        "question": "Which city is home to the Parthenon on the Acropolis?",
+        "explanation": "The Parthenon is one of the monuments built on the Athenian Acropolis in the fifth century BCE."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o1",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o2",
+        "ru": "Стамбул",
+        "en": "Istanbul"
+      },
+      {
+        "id": "o3",
+        "ru": "Александрия",
+        "en": "Alexandria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/404/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_venice_lagoon_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город расположен на островах одноимённой лагуны?",
+        "explanation": "Историческая Венеция возникла на островах лагуны. В описании ЮНЕСКО указаны 118 островов."
+      },
+      "en": {
+        "question": "Which city stands on islands in a lagoon of the same name?",
+        "explanation": "Historic Venice developed on lagoon islands; UNESCO describes a group of 118 islands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Венеция",
+        "en": "Venice"
+      },
+      {
+        "id": "o1",
+        "ru": "Флоренция",
+        "en": "Florence"
+      },
+      {
+        "id": "o2",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o3",
+        "ru": "Севилья",
+        "en": "Seville"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/394/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_istanbul_hagia_sophia_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе находится собор Святой Софии — Айя-София?",
+        "explanation": "Айя-София VI века входит в исторические районы Стамбула."
+      },
+      "en": {
+        "question": "Which city is home to Hagia Sophia?",
+        "explanation": "The sixth-century Hagia Sophia is part of the Historic Areas of Istanbul."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стамбул",
+        "en": "Istanbul"
+      },
+      {
+        "id": "o1",
+        "ru": "Анкара",
+        "en": "Ankara"
+      },
+      {
+        "id": "o2",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o3",
+        "ru": "Салоники",
+        "en": "Thessaloniki"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/356/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_prague_charles_bridge_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе находится Карлов мост?",
+        "explanation": "Карлов мост входит в исторический центр Праги вместе с Пражским Градом."
+      },
+      "en": {
+        "question": "Which city is home to Charles Bridge?",
+        "explanation": "Charles Bridge is part of Prague’s historic centre, alongside Prague Castle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o1",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      },
+      {
+        "id": "o2",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o3",
+        "ru": "Варшава",
+        "en": "Warsaw"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/616/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_granada_alhambra_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком испанском городе находится Альгамбра?",
+        "explanation": "Альгамбра и сады Хенералифе входят в общий объект Всемирного наследия в Гранаде."
+      },
+      "en": {
+        "question": "Which Spanish city is home to the Alhambra?",
+        "explanation": "The Alhambra and Generalife gardens form part of a shared World Heritage site in Granada."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гранада",
+        "en": "Granada"
+      },
+      {
+        "id": "o1",
+        "ru": "Севилья",
+        "en": "Seville"
+      },
+      {
+        "id": "o2",
+        "ru": "Кордова",
+        "en": "Córdoba"
+      },
+      {
+        "id": "o3",
+        "ru": "Толедо",
+        "en": "Toledo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/314/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_florence_uffizi_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе расположена галерея Уффици?",
+        "explanation": "Уффици — один из памятников Флоренции, исторического центра искусства Возрождения."
+      },
+      "en": {
+        "question": "Which city is home to the Uffizi Gallery?",
+        "explanation": "The Uffizi is a landmark of Florence, a historic centre of Renaissance art."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Флоренция",
+        "en": "Florence"
+      },
+      {
+        "id": "o1",
+        "ru": "Милан",
+        "en": "Milan"
+      },
+      {
+        "id": "o2",
+        "ru": "Венеция",
+        "en": "Venice"
+      },
+      {
+        "id": "o3",
+        "ru": "Неаполь",
+        "en": "Naples"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/174/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_rome_pantheon_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе сохранился древнеримский Пантеон?",
+        "explanation": "Пантеон входит в историческое наследие Рима наряду с форумами и колонной Траяна."
+      },
+      "en": {
+        "question": "In which city does the ancient Roman Pantheon survive?",
+        "explanation": "The Pantheon is part of Rome’s historic heritage, alongside the forums and Trajan’s Column."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o3",
+        "ru": "Стамбул",
+        "en": "Istanbul"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/91/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_seville_giralda_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город известен башней Хиральда?",
+        "explanation": "Хиральда входит в ансамбль кафедрального собора Севильи."
+      },
+      "en": {
+        "question": "Which city is known for the Giralda tower?",
+        "explanation": "The Giralda forms part of Seville’s cathedral complex."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Севилья",
+        "en": "Seville"
+      },
+      {
+        "id": "o1",
+        "ru": "Гранада",
+        "en": "Granada"
+      },
+      {
+        "id": "o2",
+        "ru": "Мадрид",
+        "en": "Madrid"
+      },
+      {
+        "id": "o3",
+        "ru": "Валенсия",
+        "en": "Valencia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/383/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_kyoto_capital_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой японский город был основан как императорская столица в 794 году?",
+        "explanation": "Киото оставался императорской столицей до середины XIX века."
+      },
+      "en": {
+        "question": "Which Japanese city was founded as an imperial capital in 794?",
+        "explanation": "Kyoto remained the imperial capital until the mid-nineteenth century."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Киото",
+        "en": "Kyoto"
+      },
+      {
+        "id": "o1",
+        "ru": "Токио",
+        "en": "Tokyo"
+      },
+      {
+        "id": "o2",
+        "ru": "Осака",
+        "en": "Osaka"
+      },
+      {
+        "id": "o3",
+        "ru": "Кобе",
+        "en": "Kobe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/688/"
+    ],
+    "image": null
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "countries_japan_region_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой части Азии находится Япония по классификации ООН?",
+        "explanation": "Восточная Азия включает Японию и Монголию."
+      },
+      "en": {
+        "question": "In which part of Asia does the UN classify Japan?",
+        "explanation": "Eastern Asia includes Japan and Mongolia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Западная Азия",
+        "en": "Western Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_morocco_region_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой части Африки ООН относит Марокко?",
+        "explanation": "В Северную Африку также входят Египет и Тунис."
+      },
+      "en": {
+        "question": "In which part of Africa does the UN place Morocco?",
+        "explanation": "Northern Africa also includes Egypt and Tunisia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная Африка",
+        "en": "Northern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_peru_region_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой части Америки находится Перу?",
+        "explanation": "В статистической схеме ООН Перу входит в Южную Америку вместе с Бразилией."
+      },
+      "en": {
+        "question": "In which part of the Americas is Peru?",
+        "explanation": "The UN groups Peru and Brazil in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o2",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      },
+      {
+        "id": "o3",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_canada_region_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому региону ООН относит Канаду?",
+        "explanation": "В статистической схеме ООН Канада отнесена к Северной Америке."
+      },
+      "en": {
+        "question": "Which UN region includes Canada?",
+        "explanation": "The UN statistical scheme places Canada in Northern America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o2",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o3",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_nepal_region_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой части Азии ООН относит Непал?",
+        "explanation": "В статистической схеме ООН Непал и Пакистан входят в Южную Азию."
+      },
+      "en": {
+        "question": "In which part of Asia does the UN place Nepal?",
+        "explanation": "The UN groups Nepal and Pakistan in Southern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Юго-Восточная Азия",
+        "en": "South-eastern Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_norway_region_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой части Европы ООН относит Норвегию?",
+        "explanation": "В Северную Европу в этой схеме входят Норвегия и Швеция."
+      },
+      "en": {
+        "question": "In which part of Europe does the UN place Norway?",
+        "explanation": "This scheme places Norway and Sweden in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная Европа",
+        "en": "Northern Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Европа",
+        "en": "Western Europe"
+      },
+      {
+        "id": "o2",
+        "ru": "Южная Европа",
+        "en": "Southern Europe"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Европа",
+        "en": "Eastern Europe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_poland_region_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому региону относится Польша именно в статистической схеме ООН M49?",
+        "explanation": "M49 относит Польшу к Восточной Европе. Другие географические схемы могут использовать иные границы регионов."
+      },
+      "en": {
+        "question": "Which region includes Poland specifically in the UN M49 statistical scheme?",
+        "explanation": "M49 places Poland in Eastern Europe; other geographic schemes may group countries differently."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Восточная Европа",
+        "en": "Eastern Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Северная Европа",
+        "en": "Northern Europe"
+      },
+      {
+        "id": "o2",
+        "ru": "Западная Европа",
+        "en": "Western Europe"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Европа",
+        "en": "Southern Europe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_italy_region_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой части Европы ООН относит Италию?",
+        "explanation": "В статистической схеме ООН Италия и Мальта входят в Южную Европу."
+      },
+      "en": {
+        "question": "In which part of Europe does the UN place Italy?",
+        "explanation": "The UN groups Italy and Malta in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Европа",
+        "en": "Southern Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Северная Европа",
+        "en": "Northern Europe"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Европа",
+        "en": "Eastern Europe"
+      },
+      {
+        "id": "o3",
+        "ru": "Западная Европа",
+        "en": "Western Europe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_fiji_region_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой группе островов Океании ООН классифицирует Фиджи?",
+        "explanation": "Фиджи относится к Меланезии, как и Папуа — Новая Гвинея."
+      },
+      "en": {
+        "question": "In which Oceanian island group does the UN classify Fiji?",
+        "explanation": "Fiji is grouped in Melanesia, as is Papua New Guinea."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Меланезия",
+        "en": "Melanesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Микронезия",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Полинезия",
+        "en": "Polynesia"
+      },
+      {
+        "id": "o3",
+        "ru": "Австралия и Новая Зеландия",
+        "en": "Australia and New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_samoa_region_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе Океании ООН относит Самоа?",
+        "explanation": "Самоа и Тонга входят в Полинезию."
+      },
+      "en": {
+        "question": "Which Oceanian group includes Samoa in the UN scheme?",
+        "explanation": "Samoa and Tonga are grouped in Polynesia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Полинезия",
+        "en": "Polynesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Меланезия",
+        "en": "Melanesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Микронезия",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o3",
+        "ru": "Австралия и Новая Зеландия",
+        "en": "Australia and New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/overview/"
+    ],
+    "image": null
+  }
+]

@@ -119,6 +119,46 @@
     "revision": 1,
     "sha256": "e1e1c80f03e3f5d77a9c3be1a71078a0db75fae493270acde2bfe718c0dc1dab"
   },
+  "capitals_australia_0001": {
+    "revision": 1,
+    "sha256": "933fdabcdb10d5123c021f2ca0b237d5d974660aa5f540e72af1051a611ecf85"
+  },
+  "capitals_brazil_0001": {
+    "revision": 1,
+    "sha256": "d5b86757bde2cd025afb6bb6a07d2bf4f5b51c77991df7981a80175c9c70655a"
+  },
+  "capitals_canada_0001": {
+    "revision": 1,
+    "sha256": "2101ad43eb92e79d0e9204fcfe69541f73706688849df46d8c6ab210a171f934"
+  },
+  "capitals_egypt_0001": {
+    "revision": 1,
+    "sha256": "f3603cdff56f4e9f5de6f4f26a7d1efe42e985375d93585f0b95939015defc39"
+  },
+  "capitals_france_0001": {
+    "revision": 1,
+    "sha256": "23c2f787e0d1fcaf1c4d54c8629b0b7a7bf0977c6876e16cd914c7da25d99177"
+  },
+  "capitals_germany_0001": {
+    "revision": 1,
+    "sha256": "1ef9d81ebfb7a93971ebbfe77e61465b5ff85ce7a5a8d5830d419b6c3b8bd0cb"
+  },
+  "capitals_india_0001": {
+    "revision": 1,
+    "sha256": "7685a32043f801cd2491557c16fc9285ba10f3a3504cf3e9d635a2a4c85ce254"
+  },
+  "capitals_japan_0001": {
+    "revision": 1,
+    "sha256": "7816319ff8d23fd1e96a1f3bbf8873cdb7c5b9364d5e02dc89d0b70719c59999"
+  },
+  "capitals_kenya_0001": {
+    "revision": 1,
+    "sha256": "b97fceb471816057c28b033048b82215fa97c4c6f9fede31516ac18fe63ea629"
+  },
+  "capitals_turkiye_0001": {
+    "revision": 1,
+    "sha256": "8d102401fc49e04552ca35fa88fde3ec2f6c2c1e53f9994b80ad2225249bf25c"
+  },
   "chemistry_alkali_metal_0001": {
     "revision": 1,
     "sha256": "69198e34fdcc6367047625f0aa70c4973f04fa8c789f4f32a853d8da0b6467b5"
@@ -159,6 +199,126 @@
     "revision": 1,
     "sha256": "39c78c3c5e7332b7f8e1c0da102c35cd5d8d14dc3b5659c0d0681a667533ed72"
   },
+  "cities_athens_parthenon_0001": {
+    "revision": 1,
+    "sha256": "1b351595d0adc7e99712efd8be9beca65e475862dbd213057d557aad968158c3"
+  },
+  "cities_florence_uffizi_0001": {
+    "revision": 1,
+    "sha256": "a32883e66f782cb5b32d62685220b630e40e39866d137dfaee978744ffbb90e7"
+  },
+  "cities_granada_alhambra_0001": {
+    "revision": 1,
+    "sha256": "193fc8592020364df59ed98791883994e3184661090965bc0f60892774f151f3"
+  },
+  "cities_istanbul_hagia_sophia_0001": {
+    "revision": 1,
+    "sha256": "2af55c93b1447028255149236565d61599cd31a7e48bbffe0ad184789df48bb1"
+  },
+  "cities_kyoto_capital_0001": {
+    "revision": 1,
+    "sha256": "daa1c1eb040b75beacf5b594f5b84a6cf72eb845440f9a2709ba13cd9853dd2d"
+  },
+  "cities_paris_seine_0001": {
+    "revision": 1,
+    "sha256": "209d5898b618d9d9846a5a05f11d067dfc3fa0cdeb108f7d72f079b54b3787f4"
+  },
+  "cities_prague_charles_bridge_0001": {
+    "revision": 1,
+    "sha256": "e6149a438831058e008fce0629559d7629bc12b1fed54d4c9d5dfa981d1c6467"
+  },
+  "cities_rome_pantheon_0001": {
+    "revision": 1,
+    "sha256": "bd6994ccee570e0b50ccd7b49e3701e7d2adafb8637b79df7a8ced094fa8fd02"
+  },
+  "cities_seville_giralda_0001": {
+    "revision": 1,
+    "sha256": "0bc6299f869d1991e93e6c84a0c5cd072a72bb8fa8fe8110ee51525355fb95ad"
+  },
+  "cities_venice_lagoon_0001": {
+    "revision": 1,
+    "sha256": "269eeb5799df80e92a573f9c2331bdd40af4d80826a2b9dbee8cd2e1bffe4830"
+  },
+  "countries_canada_region_0001": {
+    "revision": 1,
+    "sha256": "981819bc99b06d67cc522d62253da8ce770d4443b14aff519b15430839162793"
+  },
+  "countries_fiji_region_0001": {
+    "revision": 1,
+    "sha256": "5d831e94ff5fb3c9d42d6ef83879504846fcc830357aa92cf3d1d153becbc9ce"
+  },
+  "countries_italy_region_0001": {
+    "revision": 1,
+    "sha256": "aeef17154e9488b1eb2d1de21f1b83a2c75a5771e2a59a2544539ebf117e612f"
+  },
+  "countries_japan_region_0001": {
+    "revision": 1,
+    "sha256": "0de07cd5321d11775597fda94d85898d61a30f854ed0f8ba8f8adde3158b0b20"
+  },
+  "countries_morocco_region_0001": {
+    "revision": 1,
+    "sha256": "a1064bb8fd7be9b6b9bcf063317d9984ef115d3fda8d151d8b4c0ff532ed2c2a"
+  },
+  "countries_nepal_region_0001": {
+    "revision": 1,
+    "sha256": "18ebf9647259fbe3a54529b9e7e1e9daf3021f1ef6166cc4e8565301a0a88463"
+  },
+  "countries_norway_region_0001": {
+    "revision": 1,
+    "sha256": "2b6957a2cae97ffaba146ddcc14819fb4ab00aecaafca7fcf704fdafb0815e27"
+  },
+  "countries_peru_region_0001": {
+    "revision": 1,
+    "sha256": "8732fb258a9d274d6f8395eb9103b33a8ed6f12974e7d19ddaaf3e47eabe8c59"
+  },
+  "countries_poland_region_0001": {
+    "revision": 1,
+    "sha256": "7fc82455ae40daa5ded7026792e7a0ababfc6973d84cf98a056ba537fa91dd99"
+  },
+  "countries_samoa_region_0001": {
+    "revision": 1,
+    "sha256": "1736f292ec973aeeccc2ba1087160a2af0d277c3c25f9dbac2d965e3ae31a54b"
+  },
+  "flags_canada_leaf_0001": {
+    "revision": 1,
+    "sha256": "fea0811737429a12a39564910678c4e2c08b106924940cba6888476a76556fff"
+  },
+  "flags_france_colours_0001": {
+    "revision": 1,
+    "sha256": "68a08dba00af38c75694bdc93bb307c58200740772b8b80b2fc7241448af416a"
+  },
+  "flags_germany_colours_0001": {
+    "revision": 1,
+    "sha256": "58f3432a697adb971f5de6187ad5de0f98e2968572c7e0d87a628093946ad5f8"
+  },
+  "flags_italy_stripes_0001": {
+    "revision": 1,
+    "sha256": "7986ae0a41e26f1879098d00c9f7c66352649a0eb02b85b845d6e94d9a648858"
+  },
+  "flags_japan_sun_0001": {
+    "revision": 1,
+    "sha256": "da5640a305ac57de85233ed886254680c20c409bee767d3fd77ae71a689edd42"
+  },
+  "flags_kazakhstan_eagle_0001": {
+    "revision": 1,
+    "sha256": "945cc5e9ce85fb697d0411ef7f6c637b332f48f32a7ee219ace8316fe01a90e6"
+  },
+  "flags_swiss_shape_0001": {
+    "revision": 1,
+    "sha256": "70734429f4671c9acfb0605796f5aaf4238ee0fd9deae565e491f7f8fa7e440d"
+  },
+  "flags_tajikistan_stars_0001": {
+    "revision": 1,
+    "sha256": "a5ffe6810b42b8909041cddcc066aa235271768afd8184e3d2b9c142257d6fea"
+  },
+  "flags_uk_crosses_0001": {
+    "revision": 1,
+    "sha256": "049726dfe090ae6abfe686e5bf20f86cea781b4baffecd5091e45f2cce803f40"
+  },
+  "flags_usa_stripes_0001": {
+    "revision": 1,
+    "sha256": "febb21001ceac0870ff8f82b122974144807de3cabcde45f6e8a437234d362e4"
+  },
   "mathematics_constant_term_0001": {
     "revision": 1,
     "sha256": "277695cfdf12ca8293698b6dd738766f8eebdc1bcc000f39bc5cdf7a3aa6904a"
@@ -198,6 +358,46 @@
   "mathematics_substitution_0001": {
     "revision": 1,
     "sha256": "a7c92f3686e93df8a08d4a0baf34ba0f3975a0e4643169a1f9fd7150dca8b6cd"
+  },
+  "natural_wonders_baikal_deepest_0001": {
+    "revision": 1,
+    "sha256": "28e8a53feb391043ab0356cdf7b880a18a7a392847225469e108996b2b84034d"
+  },
+  "natural_wonders_barrier_reef_builders_0001": {
+    "revision": 1,
+    "sha256": "4547619808da3668376245ace53ec62f48e9e2ebd01a68bf891c517a821b4f1d"
+  },
+  "natural_wonders_cappadocia_erosion_0001": {
+    "revision": 1,
+    "sha256": "85eb487474f20ddf6e947398b2575b24358e0e492b63f446a4bdf9e6efee53a6"
+  },
+  "natural_wonders_galapagos_ocean_0001": {
+    "revision": 1,
+    "sha256": "b6cbe5c2eca7cce39ad888b9bffe1e5df4429655b79f2231bb3ee8fbc85efb58"
+  },
+  "natural_wonders_grand_canyon_river_0001": {
+    "revision": 1,
+    "sha256": "da50ccfc31119f2a34290d7639b9b5cea09acae3eae007b83312919c8fd9df8c"
+  },
+  "natural_wonders_huangshan_rock_0001": {
+    "revision": 1,
+    "sha256": "454efc0b72a70c6228deefbfd87f9e2de4e9b91f97f5b4cd32479d49c3953b16"
+  },
+  "natural_wonders_iguazu_border_0001": {
+    "revision": 1,
+    "sha256": "f6effb41932930c28d3b3e74a97546d59319c407810f6cecf2f8924617ef9088"
+  },
+  "natural_wonders_komodo_animals_0001": {
+    "revision": 1,
+    "sha256": "145b4792dfe0272cc2b985657b224b7f53193c2e753a5b434bddb912db480e1e"
+  },
+  "natural_wonders_serengeti_migration_0001": {
+    "revision": 1,
+    "sha256": "1f5de18577e1338cfdfbb969ba8ea60fdf597e27884753e08116a5a41aaaf46a"
+  },
+  "natural_wonders_victoria_river_0001": {
+    "revision": 1,
+    "sha256": "bffc2217fe5a390f580bd206616832119a409a486d7924caecc34831ed0f18be"
   },
   "physics_amount_unit_0001": {
     "revision": 1,

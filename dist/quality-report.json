@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 60,
+  "approvedQuestions": 110,
   "draftQuestions": 0,
-  "playableCategories": 5,
+  "playableCategories": 10,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
   "revokedCount": 0,
@@ -69,43 +69,63 @@
     },
     {
       "id": "countries",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "capitals",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "flags",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "cities",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "natural_wonders",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "ancient_world",

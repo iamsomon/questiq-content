@@ -80,6 +80,7 @@ def build(root,base):
  uri=urlsplit(base);require(uri.scheme=='https' and uri.hostname and not uri.username and not uri.query and not uri.fragment,'HTTPS base URL required')
  cats,items,reviews,revoked=inventory(root);approved=sorted([q for stage,q in items if stage=='questions'],key=lambda q:q['id'])
  registry=load(root/'catalog/revisions.json',{})
+ require((set(registry)-{q['id'] for q in approved}).issubset(revoked),'Removing a published question requires an explicit revocation')
  for q in approved:
   old=registry.get(q['id']);h=digest(q)
   if old:require(q['revision']>=old['revision'] and (h==old['sha256'] or q['revision']>old['revision']),f"{q['id']}: changing published content requires a higher revision")

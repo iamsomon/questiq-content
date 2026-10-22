@@ -33,4 +33,8 @@ class PipelineTests(unittest.TestCase):
  def test_duplicate_across_draft_and_release_denied(self):
   self.save();self.approve();self.save('drafts')
   with self.assertRaisesRegex(ValueError,'Duplicate ID'):c.inventory(self.root)
+ def test_removed_published_id_requires_revocation(self):
+  self.save();self.approve();c.build(self.root,'https://example.org/dist')
+  removed=self.items.pop()['id'];self.save();self.approve()
+  with self.assertRaisesRegex(ValueError,'explicit revocation'):c.build(self.root,'https://example.org/dist')
 if __name__=='__main__':unittest.main()

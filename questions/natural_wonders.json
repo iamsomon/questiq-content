@@ -1,0 +1,442 @@
+[
+  {
+    "id": "natural_wonders_grand_canyon_river_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая река прорезала Большой каньон в Аризоне?",
+        "explanation": "Большой каньон образован эрозией, связанной с рекой Колорадо."
+      },
+      "en": {
+        "question": "Which river carved the Grand Canyon in Arizona?",
+        "explanation": "The Grand Canyon was shaped by erosion associated with the Colorado River."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колорадо",
+        "en": "Colorado"
+      },
+      {
+        "id": "o1",
+        "ru": "Миссисипи",
+        "en": "Mississippi"
+      },
+      {
+        "id": "o2",
+        "ru": "Амазонка",
+        "en": "Amazon"
+      },
+      {
+        "id": "o3",
+        "ru": "Нил",
+        "en": "Nile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/75/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_barrier_reef_builders_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие животные создают рифовые структуры Большого Барьерного рифа?",
+        "explanation": "Большой Барьерный риф у северо-востока Австралии состоит из множества коралловых рифов."
+      },
+      "en": {
+        "question": "Which animals build the reef structures of the Great Barrier Reef?",
+        "explanation": "The Great Barrier Reef off north-eastern Australia consists of many coral reefs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коралловые полипы",
+        "en": "Coral polyps"
+      },
+      {
+        "id": "o1",
+        "ru": "Медузы",
+        "en": "Jellyfish"
+      },
+      {
+        "id": "o2",
+        "ru": "Морские звёзды",
+        "en": "Starfish"
+      },
+      {
+        "id": "o3",
+        "ru": "Крабы",
+        "en": "Crabs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/154/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_baikal_deepest_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое озеро является самым глубоким в мире?",
+        "explanation": "Байкал в Сибири также относится к древнейшим озёрам Земли."
+      },
+      "en": {
+        "question": "Which lake is the deepest in the world?",
+        "explanation": "Lake Baikal in Siberia is also among the oldest lakes on Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Байкал",
+        "en": "Lake Baikal"
+      },
+      {
+        "id": "o1",
+        "ru": "Виктория",
+        "en": "Lake Victoria"
+      },
+      {
+        "id": "o2",
+        "ru": "Ладожское",
+        "en": "Lake Ladoga"
+      },
+      {
+        "id": "o3",
+        "ru": "Верхнее",
+        "en": "Lake Superior"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/754/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_galapagos_ocean_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком океане находятся Галапагосские острова?",
+        "explanation": "Изоляция вулканических островов в Тихом океане способствовала появлению необычных местных видов."
+      },
+      "en": {
+        "question": "In which ocean are the Galápagos Islands?",
+        "explanation": "Isolation of these volcanic Pacific islands helped distinctive local species evolve."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тихий",
+        "en": "Pacific"
+      },
+      {
+        "id": "o1",
+        "ru": "Атлантический",
+        "en": "Atlantic"
+      },
+      {
+        "id": "o2",
+        "ru": "Индийский",
+        "en": "Indian"
+      },
+      {
+        "id": "o3",
+        "ru": "Северный Ледовитый",
+        "en": "Arctic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_victoria_river_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой реке находится водопад Виктория?",
+        "explanation": "Замбези падает в глубокие базальтовые ущелья, образуя водопад Виктория."
+      },
+      "en": {
+        "question": "On which river are Victoria Falls?",
+        "explanation": "The Zambezi drops into deep basalt gorges at Victoria Falls."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Замбези",
+        "en": "Zambezi"
+      },
+      {
+        "id": "o1",
+        "ru": "Конго",
+        "en": "Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Нил",
+        "en": "Nile"
+      },
+      {
+        "id": "o3",
+        "ru": "Нигер",
+        "en": "Niger"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/509/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_komodo_animals_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие крупные пресмыкающиеся дали название национальному парку Комодо?",
+        "explanation": "Комодские вараны — гигантские ящерицы, охраняемые в этом островном парке."
+      },
+      "en": {
+        "question": "Which large reptiles gave Komodo National Park its name?",
+        "explanation": "Komodo dragons are giant lizards protected in this island national park."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Комодские вараны",
+        "en": "Komodo dragons"
+      },
+      {
+        "id": "o1",
+        "ru": "Нильские крокодилы",
+        "en": "Nile crocodiles"
+      },
+      {
+        "id": "o2",
+        "ru": "Зелёные игуаны",
+        "en": "Green iguanas"
+      },
+      {
+        "id": "o3",
+        "ru": "Гаттерии",
+        "en": "Tuataras"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/609/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_serengeti_migration_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каким ежегодным природным событием особенно известен Серенгети?",
+        "explanation": "По саванне перемещаются огромные стада гну, зебр и газелей."
+      },
+      "en": {
+        "question": "Which annual natural event is the Serengeti especially known for?",
+        "explanation": "Large herds of wildebeest, zebras and gazelles move across the savannah."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Миграцией копытных",
+        "en": "Migration of hoofed mammals"
+      },
+      {
+        "id": "o1",
+        "ru": "Миграцией китов",
+        "en": "Migration of whales"
+      },
+      {
+        "id": "o2",
+        "ru": "Нерестом лососей",
+        "en": "Salmon spawning"
+      },
+      {
+        "id": "o3",
+        "ru": "Выходом морских черепах",
+        "en": "Sea turtle nesting"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/156/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_iguazu_border_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На границе каких стран находятся водопады Игуасу?",
+        "explanation": "Комплекс водопадов пересекает границу Аргентины и Бразилии."
+      },
+      "en": {
+        "question": "On the border of which countries are Iguazu Falls?",
+        "explanation": "The waterfall complex straddles the Argentina–Brazil border."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина и Бразилия",
+        "en": "Argentina and Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили и Перу",
+        "en": "Chile and Peru"
+      },
+      {
+        "id": "o2",
+        "ru": "Боливия и Парагвай",
+        "en": "Bolivia and Paraguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Венесуэла и Колумбия",
+        "en": "Venezuela and Colombia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/303/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_huangshan_rock_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из какой горной породы сложены знаменитые пики Хуаншаня?",
+        "explanation": "Гранитные пики — характерная особенность ландшафта Хуаншаня в Китае."
+      },
+      "en": {
+        "question": "Which rock forms the famous peaks of Huangshan?",
+        "explanation": "Granite peaks are a defining feature of Huangshan’s landscape in China."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гранит",
+        "en": "Granite"
+      },
+      {
+        "id": "o1",
+        "ru": "Мел",
+        "en": "Chalk"
+      },
+      {
+        "id": "o2",
+        "ru": "Уголь",
+        "en": "Coal"
+      },
+      {
+        "id": "o3",
+        "ru": "Каменная соль",
+        "en": "Rock salt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/547/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_cappadocia_erosion_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой процесс сформировал характерный рельеф Гёреме в Каппадокии?",
+        "explanation": "Эрозия создала рельеф Гёреме, где люди вырубали в скалах святилища и жилища."
+      },
+      "en": {
+        "question": "Which process sculpted Göreme’s distinctive landscape in Cappadocia?",
+        "explanation": "Erosion shaped Göreme’s landscape, where people carved sanctuaries and dwellings into rock."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эрозия",
+        "en": "Erosion"
+      },
+      {
+        "id": "o1",
+        "ru": "Рост кораллов",
+        "en": "Coral growth"
+      },
+      {
+        "id": "o2",
+        "ru": "Образование торфяников",
+        "en": "Peat formation"
+      },
+      {
+        "id": "o3",
+        "ru": "Накопление морского льда",
+        "en": "Sea ice accumulation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/357/"
+    ],
+    "image": null
+  }
+]

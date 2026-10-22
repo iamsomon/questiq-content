@@ -1,0 +1,442 @@
+[
+  {
+    "id": "flags_canada_leaf_0001",
+    "categoryId": "flags",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лист какого дерева изображён на флаге Канады?",
+        "explanation": "Красный кленовый лист на канадском флаге имеет одиннадцать вершин."
+      },
+      "en": {
+        "question": "A leaf from which tree appears on Canada’s flag?",
+        "explanation": "The red maple leaf on Canada’s flag has eleven points."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клён",
+        "en": "Maple"
+      },
+      {
+        "id": "o1",
+        "ru": "Дуб",
+        "en": "Oak"
+      },
+      {
+        "id": "o2",
+        "ru": "Берёза",
+        "en": "Birch"
+      },
+      {
+        "id": "o3",
+        "ru": "Олива",
+        "en": "Olive"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.canada.ca/en/canadian-heritage/services/flag-canada-description.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_japan_sun_0001",
+    "categoryId": "flags",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой символ находится в центре белого флага Японии?",
+        "explanation": "Красный диск символизирует восходящее солнце; флаг также называют Хиномару."
+      },
+      "en": {
+        "question": "Which symbol is centred on Japan’s white flag?",
+        "explanation": "The red disc represents the rising sun; the flag is also called Hinomaru."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Красный солнечный диск",
+        "en": "A red sun disc"
+      },
+      {
+        "id": "o1",
+        "ru": "Синяя звезда",
+        "en": "A blue star"
+      },
+      {
+        "id": "o2",
+        "ru": "Зелёный полумесяц",
+        "en": "A green crescent"
+      },
+      {
+        "id": "o3",
+        "ru": "Золотая корона",
+        "en": "A gold crown"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.japan.go.jp/japan/flagandanthem/index.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_france_colours_0001",
+    "categoryId": "flags",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие три цвета составляют французский триколор?",
+        "explanation": "Сине-бело-красный триколор — национальный символ Франции, закреплённый в её конституции."
+      },
+      "en": {
+        "question": "Which three colours make up the French tricolour?",
+        "explanation": "The blue, white and red tricolour is France’s constitutionally recognised national emblem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Синий, белый, красный",
+        "en": "Blue, white and red"
+      },
+      {
+        "id": "o1",
+        "ru": "Зелёный, белый, красный",
+        "en": "Green, white and red"
+      },
+      {
+        "id": "o2",
+        "ru": "Чёрный, красный, золотой",
+        "en": "Black, red and gold"
+      },
+      {
+        "id": "o3",
+        "ru": "Красный, белый, зелёный",
+        "en": "Red, white and green"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.elysee.fr/en/french-presidency/the-french-flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_germany_colours_0001",
+    "categoryId": "flags",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие цвета входят в государственный флаг Германии?",
+        "explanation": "Чёрный, красный и золотой стали цветами флага ФРГ в 1949 году."
+      },
+      "en": {
+        "question": "Which colours appear on Germany’s federal flag?",
+        "explanation": "Black, red and gold became the flag colours of the Federal Republic in 1949."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чёрный, красный, золотой",
+        "en": "Black, red and gold"
+      },
+      {
+        "id": "o1",
+        "ru": "Чёрный, белый, красный",
+        "en": "Black, white and red"
+      },
+      {
+        "id": "o2",
+        "ru": "Синий, белый, красный",
+        "en": "Blue, white and red"
+      },
+      {
+        "id": "o3",
+        "ru": "Красный, белый, зелёный",
+        "en": "Red, white and green"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bundestag.de/en/parliament/symbols/flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_swiss_shape_0001",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую форму имеет государственный флаг Швейцарии?",
+        "explanation": "Белый крест помещён в центре красного квадрата."
+      },
+      "en": {
+        "question": "What shape is Switzerland’s national flag?",
+        "explanation": "A white cross is centred on a red square."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Квадрат",
+        "en": "Square"
+      },
+      {
+        "id": "o1",
+        "ru": "Треугольник",
+        "en": "Triangle"
+      },
+      {
+        "id": "o2",
+        "ru": "Круг",
+        "en": "Circle"
+      },
+      {
+        "id": "o3",
+        "ru": "Два соединённых треугольника",
+        "en": "Two joined triangles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_italy_stripes_0001",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как расположены три равные полосы государственного флага Италии?",
+        "explanation": "Итальянский триколор состоит из равных вертикальных полос зелёного, белого и красного цветов."
+      },
+      "en": {
+        "question": "How are the three equal bands of Italy’s national flag arranged?",
+        "explanation": "The Italian tricolour has equal vertical green, white and red bands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вертикально",
+        "en": "Vertically"
+      },
+      {
+        "id": "o1",
+        "ru": "Горизонтально",
+        "en": "Horizontally"
+      },
+      {
+        "id": "o2",
+        "ru": "По диагонали",
+        "en": "Diagonally"
+      },
+      {
+        "id": "o3",
+        "ru": "В виде вложенных квадратов",
+        "en": "As nested squares"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.quirinale.it/it/pagine/italian-tricolour-flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_kazakhstan_eagle_0001",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая птица изображена под солнцем на флаге Казахстана?",
+        "explanation": "На голубом полотнище золотой степной орёл изображён парящим под солнцем."
+      },
+      "en": {
+        "question": "Which bird appears below the sun on Kazakhstan’s flag?",
+        "explanation": "A golden steppe eagle soars beneath the sun on the sky-blue field."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Степной орёл",
+        "en": "Steppe eagle"
+      },
+      {
+        "id": "o1",
+        "ru": "Белый лебедь",
+        "en": "White swan"
+      },
+      {
+        "id": "o2",
+        "ru": "Павлин",
+        "en": "Peacock"
+      },
+      {
+        "id": "o3",
+        "ru": "Журавль",
+        "en": "Crane"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.akorda.kz/en/state_symbols/kazakhstan_flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_usa_stripes_0001",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что обозначают 13 полос на флаге США?",
+        "explanation": "Полосы сохраняют память о первоначальных тринадцати колониях."
+      },
+      "en": {
+        "question": "What do the 13 stripes on the US flag represent?",
+        "explanation": "The stripes commemorate the original thirteen colonies."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Первые 13 колоний",
+        "en": "The original 13 colonies"
+      },
+      {
+        "id": "o1",
+        "ru": "13 первых президентов",
+        "en": "The first 13 presidents"
+      },
+      {
+        "id": "o2",
+        "ru": "13 горных хребтов",
+        "en": "13 mountain ranges"
+      },
+      {
+        "id": "o3",
+        "ru": "13 крупных рек",
+        "en": "13 major rivers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usa.gov/flag"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_tajikistan_stars_0001",
+    "categoryId": "flags",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько звёзд расположено над короной на флаге Таджикистана?",
+        "explanation": "Семь золотых звёзд образуют полукруг над короной на белой полосе."
+      },
+      "en": {
+        "question": "How many stars appear above the crown on Tajikistan’s flag?",
+        "explanation": "Seven gold stars form a semicircle above the crown on the white band."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://egov.tj/article/35?lang=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_uk_crosses_0001",
+    "categoryId": "flags",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько геральдических крестов объединяет британский Union Flag?",
+        "explanation": "Он сочетает кресты святого Георгия, святого Андрея и святого Патрика."
+      },
+      "en": {
+        "question": "How many heraldic crosses are combined in the British Union Flag?",
+        "explanation": "It combines the crosses of St George, St Andrew and St Patrick."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o3",
+        "ru": "5",
+        "en": "5"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.royal.uk/union-jack"
+    ],
+    "image": null
+  }
+]
