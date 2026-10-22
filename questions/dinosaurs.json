@@ -1,0 +1,442 @@
+[
+  {
+    "id": "dinosaurs_triceratops_name_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название «трицератопс»?",
+        "explanation": "Два рога располагались над глазами, ещё один — на носу."
+      },
+      "en": {
+        "question": "What does the name Triceratops mean?",
+        "explanation": "Two horns were above the eyes and another was on the nose."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трёхрогая морда",
+        "en": "Three-horned face"
+      },
+      {
+        "id": "o1",
+        "ru": "Быстрый охотник",
+        "en": "Fast hunter"
+      },
+      {
+        "id": "o2",
+        "ru": "Двуногий ящер",
+        "en": "Two-legged lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Колючий хвост",
+        "en": "Spiny tail"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_triceratops_diet_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чем питался трицератопс?",
+        "explanation": "Клюв и режущие зубы помогали обрабатывать жёсткую растительность."
+      },
+      "en": {
+        "question": "What did Triceratops eat?",
+        "explanation": "Its beak and shearing teeth helped it process tough vegetation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Растениями",
+        "en": "Plants"
+      },
+      {
+        "id": "o1",
+        "ru": "Рыбой",
+        "en": "Fish"
+      },
+      {
+        "id": "o2",
+        "ru": "Мелкими млекопитающими",
+        "en": "Small mammals"
+      },
+      {
+        "id": "o3",
+        "ru": "Только насекомыми",
+        "en": "Only insects"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_stegosaurus_defence_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое оружие стегозавр использовал для защиты от хищников?",
+        "explanation": "Сильный хвост с шипами мог отпугнуть нападавшего."
+      },
+      "en": {
+        "question": "What weapon did Stegosaurus use against predators?",
+        "explanation": "Its powerful spiked tail could deter an attacker."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шипы на хвосте",
+        "en": "Tail spikes"
+      },
+      {
+        "id": "o1",
+        "ru": "Рог на носу",
+        "en": "A nose horn"
+      },
+      {
+        "id": "o2",
+        "ru": "Ядовитые клыки",
+        "en": "Venomous fangs"
+      },
+      {
+        "id": "o3",
+        "ru": "Когти на крыльях",
+        "en": "Wing claws"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_stegosaurus_period_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком периоде жил стегозавр?",
+        "explanation": "Стегозавр жил в поздней юре, задолго до конца мелового периода."
+      },
+      "en": {
+        "question": "In which geological period did Stegosaurus live?",
+        "explanation": "Stegosaurus lived in the Late Jurassic, long before the end of the Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юрском",
+        "en": "Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Кембрийском",
+        "en": "Cambrian"
+      },
+      {
+        "id": "o2",
+        "ru": "Девонском",
+        "en": "Devonian"
+      },
+      {
+        "id": "o3",
+        "ru": "Пермском",
+        "en": "Permian"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_stegosaurus_plates_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где располагались костные пластины стегозавра?",
+        "explanation": "Пластины не крепились непосредственно к остальному скелету."
+      },
+      "en": {
+        "question": "Where were the bony plates of Stegosaurus located?",
+        "explanation": "The plates were not attached directly to the rest of its skeleton."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В коже вдоль спины",
+        "en": "In the skin along its back"
+      },
+      {
+        "id": "o1",
+        "ru": "Внутри хвоста",
+        "en": "Inside its tail"
+      },
+      {
+        "id": "o2",
+        "ru": "На нижней челюсти",
+        "en": "On its lower jaw"
+      },
+      {
+        "id": "o3",
+        "ru": "Под стопами",
+        "en": "Under its feet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_living_dinosaurs_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая современная группа животных относится к динозаврам?",
+        "explanation": "Птицы — сохранившаяся ветвь динозавров."
+      },
+      "en": {
+        "question": "Which living group of animals belongs to the dinosaurs?",
+        "explanation": "Birds are the surviving branch of the dinosaur family tree."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Птицы",
+        "en": "Birds"
+      },
+      {
+        "id": "o1",
+        "ru": "Змеи",
+        "en": "Snakes"
+      },
+      {
+        "id": "o2",
+        "ru": "Летучие мыши",
+        "en": "Bats"
+      },
+      {
+        "id": "o3",
+        "ru": "Черепахи",
+        "en": "Turtles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_pterosaurs_group_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе относились птерозавры?",
+        "explanation": "Птерозавры были архозаврами, но не динозаврами."
+      },
+      "en": {
+        "question": "Which group did pterosaurs belong to?",
+        "explanation": "Pterosaurs were archosaurs, but they were not dinosaurs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Летающие пресмыкающиеся",
+        "en": "Flying reptiles"
+      },
+      {
+        "id": "o1",
+        "ru": "Птицы мезозоя",
+        "en": "Mesozoic birds"
+      },
+      {
+        "id": "o2",
+        "ru": "Летающие млекопитающие",
+        "en": "Flying mammals"
+      },
+      {
+        "id": "o3",
+        "ru": "Морские амфибии",
+        "en": "Marine amphibians"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_dinosaur_stance_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое положение конечностей характерно для динозавров?",
+        "explanation": "Прямостоящая постановка отличает их от многих других пресмыкающихся."
+      },
+      "en": {
+        "question": "What limb position is characteristic of dinosaurs?",
+        "explanation": "An upright stance distinguishes them from many other reptiles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Под туловищем",
+        "en": "Beneath the body"
+      },
+      {
+        "id": "o1",
+        "ru": "Растопырены в стороны",
+        "en": "Sprawling to the sides"
+      },
+      {
+        "id": "o2",
+        "ru": "Только перед туловищем",
+        "en": "Only in front of the body"
+      },
+      {
+        "id": "o3",
+        "ru": "Сложены над спиной",
+        "en": "Folded over the back"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_velociraptor_origin_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости велоцираптора?",
+        "explanation": "Этот небольшой хищный теропод жил в позднем меловом периоде."
+      },
+      "en": {
+        "question": "In which of these countries have Velociraptor fossils been found?",
+        "explanation": "This small carnivorous theropod lived in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      },
+      {
+        "id": "o1",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o2",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o3",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_dimetrodon_0001",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих животных не было динозавром?",
+        "explanation": "Диметродон принадлежал к другой эволюционной ветви и жил раньше динозавров."
+      },
+      "en": {
+        "question": "Which of these animals was not a dinosaur?",
+        "explanation": "Dimetrodon belonged to a different evolutionary branch and lived before dinosaurs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диметродон",
+        "en": "Dimetrodon"
+      },
+      {
+        "id": "o1",
+        "ru": "Трицератопс",
+        "en": "Triceratops"
+      },
+      {
+        "id": "o2",
+        "ru": "Стегозавр",
+        "en": "Stegosaurus"
+      },
+      {
+        "id": "o3",
+        "ru": "Диплодок",
+        "en": "Diplodocus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+    ],
+    "image": null
+  }
+]

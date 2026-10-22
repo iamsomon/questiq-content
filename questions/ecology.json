@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ecology_compost_process_0001",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит с органическими отходами при компостировании?",
+        "explanation": "Результат можно использовать для улучшения почвы."
+      },
+      "en": {
+        "question": "What happens to organic waste during composting?",
+        "explanation": "The resulting material can be used to improve soil."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аэробное микробное разложение",
+        "en": "Aerobic microbial decomposition"
+      },
+      {
+        "id": "o1",
+        "ru": "Высокотемпературный обжиг",
+        "en": "High-temperature firing"
+      },
+      {
+        "id": "o2",
+        "ru": "Механическое прессование",
+        "en": "Mechanical compaction"
+      },
+      {
+        "id": "o3",
+        "ru": "Полное замораживание",
+        "en": "Complete freezing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/recycle/composting-home"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_compost_oxygen_0001",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой газ необходим для обычного аэробного компостирования?",
+        "explanation": "Микроорганизмам нужны также вода и питательные вещества."
+      },
+      "en": {
+        "question": "Which gas is needed for ordinary aerobic composting?",
+        "explanation": "Microorganisms also need water and nutrients."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кислород",
+        "en": "Oxygen"
+      },
+      {
+        "id": "o1",
+        "ru": "Азот",
+        "en": "Nitrogen"
+      },
+      {
+        "id": "o2",
+        "ru": "Метан",
+        "en": "Methane"
+      },
+      {
+        "id": "o3",
+        "ru": "Углекислый газ",
+        "en": "Carbon dioxide"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/recycle/composting-home"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_vermicompost_0001",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие животные помогают получать вермикомпост?",
+        "explanation": "Это один из способов переработки пищевых остатков дома."
+      },
+      "en": {
+        "question": "Which animals help produce vermicompost?",
+        "explanation": "This is one way to process food scraps at home."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Черви",
+        "en": "Worms"
+      },
+      {
+        "id": "o1",
+        "ru": "Улитки",
+        "en": "Snails"
+      },
+      {
+        "id": "o2",
+        "ru": "Термиты",
+        "en": "Termites"
+      },
+      {
+        "id": "o3",
+        "ru": "Муравьи",
+        "en": "Ants"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/recycle/composting-home"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_compost_water_0001",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как добавление компоста влияет на удержание воды почвой?",
+        "explanation": "Почва лучше переносит периоды засухи и сильных дождей."
+      },
+      "en": {
+        "question": "How does adding compost affect the soil’s ability to retain water?",
+        "explanation": "The soil becomes more resilient during drought and heavy rainfall."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Повышает способность удерживать влагу",
+        "en": "Increases water-holding capacity"
+      },
+      {
+        "id": "o1",
+        "ru": "Ускоряет поверхностный сток",
+        "en": "Speeds up surface runoff"
+      },
+      {
+        "id": "o2",
+        "ru": "Усиливает водоотталкивание",
+        "en": "Increases water repellency"
+      },
+      {
+        "id": "o3",
+        "ru": "Оставляет удержание воды неизменным",
+        "en": "Leaves water retention unchanged"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/recycle/composting-home"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_ozone_layer_0001",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "От какого излучения защищает озоновый слой?",
+        "explanation": "Озон особенно важен для поглощения диапазона UVB."
+      },
+      "en": {
+        "question": "Which radiation does the ozone layer help protect us from?",
+        "explanation": "Ozone is especially important for absorbing UVB radiation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ультрафиолетового",
+        "en": "Ultraviolet"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиоволн AM",
+        "en": "AM radio waves"
+      },
+      {
+        "id": "o2",
+        "ru": "Микроволн печи",
+        "en": "Oven microwaves"
+      },
+      {
+        "id": "o3",
+        "ru": "Звуковых волн",
+        "en": "Sound waves"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_ozone_stratosphere_0001",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком слое атмосферы сосредоточена основная часть озона?",
+        "explanation": "Этот слой расположен над тропосферой, где формируется большая часть погоды."
+      },
+      "en": {
+        "question": "Which atmospheric layer contains most atmospheric ozone?",
+        "explanation": "It lies above the troposphere, where most weather occurs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стратосфера",
+        "en": "Stratosphere"
+      },
+      {
+        "id": "o1",
+        "ru": "Тропосфера",
+        "en": "Troposphere"
+      },
+      {
+        "id": "o2",
+        "ru": "Мезосфера",
+        "en": "Mesosphere"
+      },
+      {
+        "id": "o3",
+        "ru": "Термосфера",
+        "en": "Thermosphere"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_ozone_atoms_0001",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько атомов кислорода в молекуле озона?",
+        "explanation": "Озон отличается составом молекулы от обычного двухатомного кислорода."
+      },
+      "en": {
+        "question": "How many oxygen atoms are in an ozone molecule?",
+        "explanation": "Its molecular structure differs from ordinary two-atom oxygen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_greenhouse_gas_0001",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой из этих газов относится к парниковым?",
+        "explanation": "Парниковые газы удерживают тепло в атмосфере."
+      },
+      "en": {
+        "question": "Which of these is a greenhouse gas?",
+        "explanation": "Greenhouse gases trap heat in the atmosphere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Углекислый газ",
+        "en": "Carbon dioxide"
+      },
+      {
+        "id": "o1",
+        "ru": "Азот",
+        "en": "Nitrogen"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислород",
+        "en": "Oxygen"
+      },
+      {
+        "id": "o3",
+        "ru": "Аргон",
+        "en": "Argon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_landfill_methane_0001",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой парниковый газ образуется при разложении органики на свалках?",
+        "explanation": "Свалки — один из источников выбросов этого газа."
+      },
+      "en": {
+        "question": "Which greenhouse gas is produced when organic waste decays in landfills?",
+        "explanation": "Landfills are one source of emissions of this gas."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метан",
+        "en": "Methane"
+      },
+      {
+        "id": "o1",
+        "ru": "Озон",
+        "en": "Ozone"
+      },
+      {
+        "id": "o2",
+        "ru": "Гексафторид серы",
+        "en": "Sulfur hexafluoride"
+      },
+      {
+        "id": "o3",
+        "ru": "Тетрафторметан",
+        "en": "Carbon tetrafluoride"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_plant_carbon_0001",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "При каком процессе растения используют углекислый газ для образования органических веществ?",
+        "explanation": "Углерод включается в органическое вещество растений."
+      },
+      "en": {
+        "question": "Which process uses carbon dioxide to form organic matter in plants?",
+        "explanation": "The carbon becomes part of the plants’ organic material."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фотосинтез",
+        "en": "Photosynthesis"
+      },
+      {
+        "id": "o1",
+        "ru": "Клеточное дыхание",
+        "en": "Cellular respiration"
+      },
+      {
+        "id": "o2",
+        "ru": "Транспирация",
+        "en": "Transpiration"
+      },
+      {
+        "id": "o3",
+        "ru": "Брожение",
+        "en": "Fermentation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/earth/earth-observatory/the-carbon-cycle/"
+    ],
+    "image": null
+  }
+]

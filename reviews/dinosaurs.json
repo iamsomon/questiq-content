@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dinosaurs_triceratops_name_0001",
+    "status": "approved",
+    "sha256": "214a3ec5d7a10e35c740b6ab335dbac345f86547f6a8e4c0dc89d212d9be6b74",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html",
+        "location": "Name meaning; description",
+        "claim": "What does the name Triceratops mean? Answer: Three-horned face. Two horns were above the eyes and another was on the nose."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_triceratops_diet_0001",
+    "status": "approved",
+    "sha256": "367edd1b7f064c88560f3fdaff484462a3b71bee9093e3dbef543275ce70f7be",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html",
+        "location": "Diet; teeth; food",
+        "claim": "What did Triceratops eat? Answer: Plants. Its beak and shearing teeth helped it process tough vegetation."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_stegosaurus_defence_0001",
+    "status": "approved",
+    "sha256": "d80728b967db835326e79107a662968e784a574328f651c5e32308980f67212e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+        "location": "Defence paragraph",
+        "claim": "What weapon did Stegosaurus use against predators? Answer: Tail spikes. Its powerful spiked tail could deter an attacker."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_stegosaurus_period_0001",
+    "status": "approved",
+    "sha256": "5a787452e5cebc533ea905bcc403ff85a022269809b088048dd553175d107bcf",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+        "location": "When it lived",
+        "claim": "In which geological period did Stegosaurus live? Answer: Jurassic. Stegosaurus lived in the Late Jurassic, long before the end of the Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_stegosaurus_plates_0001",
+    "status": "approved",
+    "sha256": "c570f64da1a7e418159b01e989e85ed3566975bd86a07d2d3f1fac0febc80670",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+        "location": "Plates embedded in skin",
+        "claim": "Where were the bony plates of Stegosaurus located? Answer: In the skin along its back. The plates were not attached directly to the rest of its skeleton."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_living_dinosaurs_0001",
+    "status": "approved",
+    "sha256": "583f39e6dfb89ba7d643ef6057347b617e57d7442ee9c8c3946e665fcd2eb223",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html",
+        "location": "Living dinosaurs: birds",
+        "claim": "Which living group of animals belongs to the dinosaurs? Answer: Birds. Birds are the surviving branch of the dinosaur family tree."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_pterosaurs_group_0001",
+    "status": "approved",
+    "sha256": "069c06fe1ba634a6684c5d5128f74c2933bc413ad473de2a34b1244d0a8343ed",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html",
+        "location": "Other prehistoric reptiles",
+        "claim": "Which group did pterosaurs belong to? Answer: Flying reptiles. Pterosaurs were archosaurs, but they were not dinosaurs."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_dinosaur_stance_0001",
+    "status": "approved",
+    "sha256": "8b23c5c313a25886640903f01b853e3dd108534e689117f8482b1266a6a2b6f7",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html",
+        "location": "Main characteristics: upright stance",
+        "claim": "What limb position is characteristic of dinosaurs? Answer: Beneath the body. An upright stance distinguishes them from many other reptiles."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_velociraptor_origin_0001",
+    "status": "approved",
+    "sha256": "6dc07dcebe0f577f1e5f869a8c4629b2846fd415ffa6cef06c997d42848a8836",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html",
+        "location": "Found in; when it lived",
+        "claim": "In which of these countries have Velociraptor fossils been found? Answer: Mongolia. This small carnivorous theropod lived in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_dimetrodon_0001",
+    "status": "approved",
+    "sha256": "e86c550a6f84c594c31d02a8d74b38d90455539c75eaa830047ffb4eba04abd3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html",
+        "location": "Other prehistoric reptiles: Dimetrodon",
+        "claim": "Which of these animals was not a dinosaur? Answer: Dimetrodon. Dimetrodon belonged to a different evolutionary branch and lived before dinosaurs."
+      }
+    ]
+  }
+]

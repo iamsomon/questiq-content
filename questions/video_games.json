@@ -1,0 +1,442 @@
+[
+  {
+    "id": "video_games_ps1_japan_year_0001",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году первая PlayStation вышла в Японии?",
+        "explanation": "В Северной Америке и Европе её выпуск состоялся в следующем году."
+      },
+      "en": {
+        "question": "In which year was the original PlayStation released in Japan?",
+        "explanation": "North America and Europe received the console the following year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1994",
+        "en": "1994"
+      },
+      {
+        "id": "o1",
+        "ru": "1984",
+        "en": "1984"
+      },
+      {
+        "id": "o2",
+        "ru": "2004",
+        "en": "2004"
+      },
+      {
+        "id": "o3",
+        "ru": "2014",
+        "en": "2014"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps1_disc_0001",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каких носителях распространялись игры первой PlayStation?",
+        "explanation": "Оптические диски позволяли хранить больше данных, чем картриджи того времени."
+      },
+      "en": {
+        "question": "Which medium carried games for the original PlayStation?",
+        "explanation": "Optical discs could hold more data than contemporary cartridges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "CD-ROM",
+        "en": "CD-ROM"
+      },
+      {
+        "id": "o1",
+        "ru": "UMD",
+        "en": "UMD"
+      },
+      {
+        "id": "o2",
+        "ru": "Blu-ray",
+        "en": "Blu-ray"
+      },
+      {
+        "id": "o3",
+        "ru": "HD DVD",
+        "en": "HD DVD"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps1_chip_0001",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой процессор использовала первая PlayStation?",
+        "explanation": "Это был 32-разрядный процессор, рассчитанный в том числе на трёхмерную графику."
+      },
+      "en": {
+        "question": "Which CPU did the original PlayStation use?",
+        "explanation": "It was a 32-bit processor used for tasks including 3D graphics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "R3000",
+        "en": "R3000"
+      },
+      {
+        "id": "o1",
+        "ru": "Emotion Engine",
+        "en": "Emotion Engine"
+      },
+      {
+        "id": "o2",
+        "ru": "Cell",
+        "en": "Cell"
+      },
+      {
+        "id": "o3",
+        "ru": "Motorola 68000",
+        "en": "Motorola 68000"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps2_japan_year_0001",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году PlayStation 2 поступила в продажу в Японии?",
+        "explanation": "Японский запуск состоялся в марте, европейский — в ноябре того же года."
+      },
+      "en": {
+        "question": "In which year did PlayStation 2 go on sale in Japan?",
+        "explanation": "It launched in Japan in March and in Europe in November of the same year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2000",
+        "en": "2000"
+      },
+      {
+        "id": "o1",
+        "ru": "1990",
+        "en": "1990"
+      },
+      {
+        "id": "o2",
+        "ru": "2005",
+        "en": "2005"
+      },
+      {
+        "id": "o3",
+        "ru": "2010",
+        "en": "2010"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps2_dvd_0001",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой формат видео PlayStation 2 позволяла смотреть без отдельного плеера?",
+        "explanation": "Встроенное воспроизведение фильмов делало консоль домашним мультимедийным устройством."
+      },
+      "en": {
+        "question": "Which video format could PlayStation 2 play without a separate player?",
+        "explanation": "Built-in movie playback made the console a home multimedia device."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "DVD",
+        "en": "DVD"
+      },
+      {
+        "id": "o1",
+        "ru": "Blu-ray",
+        "en": "Blu-ray"
+      },
+      {
+        "id": "o2",
+        "ru": "HD DVD",
+        "en": "HD DVD"
+      },
+      {
+        "id": "o3",
+        "ru": "UMD Video",
+        "en": "UMD Video"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps2_cpu_0001",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как назывался центральный процессор PlayStation 2?",
+        "explanation": "Процессор участвовал в создании сложных для своего времени игровых изображений."
+      },
+      "en": {
+        "question": "What was the CPU of PlayStation 2 called?",
+        "explanation": "The processor helped produce complex game imagery for its era."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Emotion Engine",
+        "en": "Emotion Engine"
+      },
+      {
+        "id": "o1",
+        "ru": "Cell Broadband Engine",
+        "en": "Cell Broadband Engine"
+      },
+      {
+        "id": "o2",
+        "ru": "Xenon",
+        "en": "Xenon"
+      },
+      {
+        "id": "o3",
+        "ru": "Tegra X1",
+        "en": "Tegra X1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps2_slim_0001",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называлась более тонкая версия PlayStation 2, выпущенная в 2004 году?",
+        "explanation": "Уменьшенная модель получила встроенный Ethernet-порт для сетевой игры."
+      },
+      "en": {
+        "question": "What was the thinner PlayStation 2 model released in 2004 called?",
+        "explanation": "The smaller model included an Ethernet port for online play."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "PS2 Slim",
+        "en": "PS2 Slim"
+      },
+      {
+        "id": "o1",
+        "ru": "PS2 Pro",
+        "en": "PS2 Pro"
+      },
+      {
+        "id": "o2",
+        "ru": "PS2 Go",
+        "en": "PS2 Go"
+      },
+      {
+        "id": "o3",
+        "ru": "PS2 Classic",
+        "en": "PS2 Classic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_ps2_network_0001",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое дополнение помогало ранним моделям PS2 подключаться к сети?",
+        "explanation": "Адаптер устанавливался сзади и давал консоли сетевое соединение."
+      },
+      "en": {
+        "question": "Which accessory enabled early PS2 models to connect online?",
+        "explanation": "The adapter fitted at the back and provided a network connection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Network Adaptor",
+        "en": "Network Adaptor"
+      },
+      {
+        "id": "o1",
+        "ru": "PlayTV",
+        "en": "PlayTV"
+      },
+      {
+        "id": "o2",
+        "ru": "PS VR",
+        "en": "PS VR"
+      },
+      {
+        "id": "o3",
+        "ru": "PocketStation",
+        "en": "PocketStation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_guitar_hero_debut_0001",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой консоли в 2005 году началась серия Guitar Hero?",
+        "explanation": "Музыкальная игра предлагала исполнять рок-композиции с контроллером-гитарой."
+      },
+      "en": {
+        "question": "On which console did the Guitar Hero series begin in 2005?",
+        "explanation": "The music game let players perform rock tracks using a guitar controller."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "PlayStation 2",
+        "en": "PlayStation 2"
+      },
+      {
+        "id": "o1",
+        "ru": "Nintendo 64",
+        "en": "Nintendo 64"
+      },
+      {
+        "id": "o2",
+        "ru": "Sega Saturn",
+        "en": "Sega Saturn"
+      },
+      {
+        "id": "o3",
+        "ru": "PlayStation 4",
+        "en": "PlayStation 4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_singstar_play_0001",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой аксессуар нужен игрокам в караоке-серии SingStar?",
+        "explanation": "Серия оценивала вокальное исполнение знакомых песен."
+      },
+      "en": {
+        "question": "Which accessory do players use in the karaoke series SingStar?",
+        "explanation": "The series scored players’ vocal performances of familiar songs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Микрофон",
+        "en": "Microphone"
+      },
+      {
+        "id": "o1",
+        "ru": "Руль",
+        "en": "Steering wheel"
+      },
+      {
+        "id": "o2",
+        "ru": "Световой пистолет",
+        "en": "Light gun"
+      },
+      {
+        "id": "o3",
+        "ru": "Танцевальный коврик",
+        "en": "Dance mat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+    ],
+    "image": null
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "literature_pride_author_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Гордость и предубеждение»?",
+        "explanation": "В центре истории — Элизабет и её отношения с мистером Дарси."
+      },
+      "en": {
+        "question": "Who wrote Pride and Prejudice?",
+        "explanation": "The story centers on Elizabeth and her relationship with Mr. Darcy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o1",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o2",
+        "ru": "Джордж Элиот",
+        "en": "George Eliot"
+      },
+      {
+        "id": "o3",
+        "ru": "Эмили Бронте",
+        "en": "Emily Brontë"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_pride_family_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую фамилию носит семья Элизабет в «Гордости и предубеждении»?",
+        "explanation": "Элизабет — одна из пяти дочерей в семье."
+      },
+      "en": {
+        "question": "What is Elizabeth’s family name in Pride and Prejudice?",
+        "explanation": "Elizabeth is one of five daughters in the family."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Беннет",
+        "en": "Bennet"
+      },
+      {
+        "id": "o1",
+        "ru": "Дарси",
+        "en": "Darcy"
+      },
+      {
+        "id": "o2",
+        "ru": "Бингли",
+        "en": "Bingley"
+      },
+      {
+        "id": "o3",
+        "ru": "Коллинз",
+        "en": "Collins"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_alice_author_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Алису в Стране чудес»?",
+        "explanation": "Приключение начинается с необычного кролика с часами."
+      },
+      "en": {
+        "question": "Who wrote Alice’s Adventures in Wonderland?",
+        "explanation": "The adventure begins with an unusual rabbit carrying a watch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o1",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      },
+      {
+        "id": "o2",
+        "ru": "Джеймс Барри",
+        "en": "J. M. Barrie"
+      },
+      {
+        "id": "o3",
+        "ru": "Алан Милн",
+        "en": "A. A. Milne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/11/pg11-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_alice_rabbit_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За кем Алиса следует в кроличью нору?",
+        "explanation": "Алиса замечает часы, которые кролик достаёт из кармана жилета."
+      },
+      "en": {
+        "question": "Whom does Alice follow down the rabbit hole?",
+        "explanation": "Alice notices the watch the rabbit takes from his waistcoat pocket."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белый Кролик",
+        "en": "The White Rabbit"
+      },
+      {
+        "id": "o1",
+        "ru": "Чеширский Кот",
+        "en": "The Cheshire Cat"
+      },
+      {
+        "id": "o2",
+        "ru": "Мартовский Заяц",
+        "en": "The March Hare"
+      },
+      {
+        "id": "o3",
+        "ru": "Безумный Шляпник",
+        "en": "The Mad Hatter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/11/pg11-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_frankenstein_author_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал роман «Франкенштейн»?",
+        "explanation": "Подзаголовок произведения отсылает к мифу о Прометее."
+      },
+      "en": {
+        "question": "Who wrote the novel Frankenstein?",
+        "explanation": "The novel’s subtitle refers to the myth of Prometheus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мэри Шелли",
+        "en": "Mary Shelley"
+      },
+      {
+        "id": "o1",
+        "ru": "Брэм Стокер",
+        "en": "Bram Stoker"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o3",
+        "ru": "Герберт Уэллс",
+        "en": "H. G. Wells"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/84/pg84-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_frankenstein_creator_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут учёного, создавшего живое существо в романе Шелли?",
+        "explanation": "Франкенштейн — фамилия создателя, а не собственное имя существа."
+      },
+      "en": {
+        "question": "What is the name of the scientist who creates a living being in Shelley’s novel?",
+        "explanation": "Frankenstein is the creator’s surname, not the creature’s personal name."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виктор Франкенштейн",
+        "en": "Victor Frankenstein"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Клерваль",
+        "en": "Henry Clerval"
+      },
+      {
+        "id": "o2",
+        "ru": "Роберт Уолтон",
+        "en": "Robert Walton"
+      },
+      {
+        "id": "o3",
+        "ru": "Альфонс Франкенштейн",
+        "en": "Alphonse Frankenstein"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/84/pg84-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_moby_author_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал роман «Моби Дик»?",
+        "explanation": "Историю плавания рассказывает моряк Измаил."
+      },
+      "en": {
+        "question": "Who wrote Moby-Dick?",
+        "explanation": "The voyage is narrated by the sailor Ishmael."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Герман Мелвилл",
+        "en": "Herman Melville"
+      },
+      {
+        "id": "o1",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o2",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      },
+      {
+        "id": "o3",
+        "ru": "Фенимор Купер",
+        "en": "James Fenimore Cooper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_moby_ship_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется китобойное судно капитана Ахава?",
+        "explanation": "Команда отправляется на этом судне в погоню за белым китом."
+      },
+      "en": {
+        "question": "What is the name of Captain Ahab’s whaling ship?",
+        "explanation": "The crew sails aboard it in pursuit of the white whale."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пекод",
+        "en": "Pequod"
+      },
+      {
+        "id": "o1",
+        "ru": "Эспаньола",
+        "en": "Hispaniola"
+      },
+      {
+        "id": "o2",
+        "ru": "Наутилус",
+        "en": "Nautilus"
+      },
+      {
+        "id": "o3",
+        "ru": "Пилигрим",
+        "en": "Pilgrim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_holmes_author_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто создал Шерлока Холмса?",
+        "explanation": "Во многих рассказах о сыщике повествует его друг Ватсон."
+      },
+      "en": {
+        "question": "Who created Sherlock Holmes?",
+        "explanation": "Many stories about the detective are narrated by his friend Watson."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      },
+      {
+        "id": "o1",
+        "ru": "Агата Кристи",
+        "en": "Agatha Christie"
+      },
+      {
+        "id": "o2",
+        "ru": "Уилки Коллинз",
+        "en": "Wilkie Collins"
+      },
+      {
+        "id": "o3",
+        "ru": "Гилберт Честертон",
+        "en": "G. K. Chesterton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_watson_profession_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова профессия доктора Ватсона, друга Холмса?",
+        "explanation": "В начале сборника Ватсон упоминает возвращение к медицинской практике."
+      },
+      "en": {
+        "question": "What is the profession of Holmes’s friend Dr. Watson?",
+        "explanation": "Early in the collection, Watson mentions returning to medical practice."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Врач",
+        "en": "Physician"
+      },
+      {
+        "id": "o1",
+        "ru": "Адвокат",
+        "en": "Lawyer"
+      },
+      {
+        "id": "o2",
+        "ru": "Архитектор",
+        "en": "Architect"
+      },
+      {
+        "id": "o3",
+        "ru": "Журналист",
+        "en": "Journalist"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
+    ],
+    "image": null
+  }
+]

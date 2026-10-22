@@ -1,0 +1,442 @@
+[
+  {
+    "id": "animals_giraffe_height_0001",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое наземное животное самое высокое?",
+        "explanation": "Длинные шея и ноги позволяют жирафу доставать высокие ветви."
+      },
+      "en": {
+        "question": "Which land animal is the tallest?",
+        "explanation": "Its long neck and legs help a giraffe reach high branches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жираф",
+        "en": "Giraffe"
+      },
+      {
+        "id": "o1",
+        "ru": "Слон",
+        "en": "Elephant"
+      },
+      {
+        "id": "o2",
+        "ru": "Носорог",
+        "en": "Rhinoceros"
+      },
+      {
+        "id": "o3",
+        "ru": "Бегемот",
+        "en": "Hippopotamus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/giraffe"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_giraffe_neck_0001",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько шейных позвонков обычно у жирафа?",
+        "explanation": "Их столько же, сколько у человека, но каждый позвонок значительно длиннее."
+      },
+      "en": {
+        "question": "How many neck vertebrae does a giraffe normally have?",
+        "explanation": "The number matches humans, but each vertebra is much longer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o2",
+        "ru": "21",
+        "en": "21"
+      },
+      {
+        "id": "o3",
+        "ru": "28",
+        "en": "28"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/giraffe"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_giraffe_relative_0001",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное — ближайший современный родственник жирафа?",
+        "explanation": "Окапи и жираф относятся к семейству жирафовых."
+      },
+      "en": {
+        "question": "Which animal is the giraffe’s closest living relative?",
+        "explanation": "The okapi and giraffe belong to the giraffe family."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Окапи",
+        "en": "Okapi"
+      },
+      {
+        "id": "o1",
+        "ru": "Зебра",
+        "en": "Zebra"
+      },
+      {
+        "id": "o2",
+        "ru": "Лось",
+        "en": "Moose"
+      },
+      {
+        "id": "o3",
+        "ru": "Верблюд",
+        "en": "Camel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/giraffe"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_cheetah_sprint_0001",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое наземное млекопитающее быстрее всех бежит на короткой дистанции?",
+        "explanation": "Гепард — спринтер: высокую скорость он поддерживает недолго."
+      },
+      "en": {
+        "question": "Which land mammal runs fastest over a short distance?",
+        "explanation": "Cheetahs are sprinters and cannot sustain their top speed for long."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гепард",
+        "en": "Cheetah"
+      },
+      {
+        "id": "o1",
+        "ru": "Лев",
+        "en": "Lion"
+      },
+      {
+        "id": "o2",
+        "ru": "Волк",
+        "en": "Wolf"
+      },
+      {
+        "id": "o3",
+        "ru": "Гиена",
+        "en": "Hyena"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/cheetah"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_cheetah_tail_0001",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что помогает гепарду удерживать направление при быстром беге?",
+        "explanation": "Хвост работает как руль и помогает управлять движением."
+      },
+      "en": {
+        "question": "What helps a cheetah steer while running fast?",
+        "explanation": "The tail acts as a rudder to help the animal maintain direction."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Длинный хвост",
+        "en": "A long tail"
+      },
+      {
+        "id": "o1",
+        "ru": "Грива на шее",
+        "en": "A neck mane"
+      },
+      {
+        "id": "o2",
+        "ru": "Удлинённые уши",
+        "en": "Elongated ears"
+      },
+      {
+        "id": "o3",
+        "ru": "Пятна на шерсти",
+        "en": "Coat spots"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/cheetah"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_panda_diet_0001",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое растение составляет основу рациона большой панды?",
+        "explanation": "Панда ест побеги и листья, снимая с побегов жёсткий наружный слой."
+      },
+      "en": {
+        "question": "Which plant makes up most of a giant panda’s diet?",
+        "explanation": "Pandas eat shoots and leaves, peeling the tough outer layers from stalks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бамбук",
+        "en": "Bamboo"
+      },
+      {
+        "id": "o1",
+        "ru": "Эвкалипт",
+        "en": "Eucalyptus"
+      },
+      {
+        "id": "o2",
+        "ru": "Кактус",
+        "en": "Cactus"
+      },
+      {
+        "id": "o3",
+        "ru": "Папоротник",
+        "en": "Fern"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/giant-panda"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_panda_thumb_0001",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из чего образован «ложный большой палец» большой панды?",
+        "explanation": "Эта кость помогает панде удерживать и поворачивать бамбуковые стебли."
+      },
+      "en": {
+        "question": "What forms a giant panda’s “false thumb”?",
+        "explanation": "This bone helps pandas grasp and manipulate bamboo stalks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Увеличенная кость запястья",
+        "en": "An enlarged wrist bone"
+      },
+      {
+        "id": "o1",
+        "ru": "Дополнительный коготь",
+        "en": "An extra claw"
+      },
+      {
+        "id": "o2",
+        "ru": "Сросшиеся два пальца",
+        "en": "Two fused digits"
+      },
+      {
+        "id": "o3",
+        "ru": "Хрящевой отросток локтя",
+        "en": "A cartilage projection of the elbow"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/giant-panda"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_platypus_eggs_0001",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих млекопитающих откладывает яйца?",
+        "explanation": "Утконос относится к однопроходным; детёнышей он кормит молоком."
+      },
+      "en": {
+        "question": "Which of these mammals lays eggs?",
+        "explanation": "Platypuses are monotremes and feed their young with milk."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Утконос",
+        "en": "Platypus"
+      },
+      {
+        "id": "o1",
+        "ru": "Выдра",
+        "en": "Otter"
+      },
+      {
+        "id": "o2",
+        "ru": "Бобр",
+        "en": "Beaver"
+      },
+      {
+        "id": "o3",
+        "ru": "Дельфин",
+        "en": "Dolphin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/platypus"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_platypus_bill_0001",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие сигналы помогает обнаруживать клюв утконоса при поиске добычи?",
+        "explanation": "Электрорецепторы помогают искать добычу, когда глаза под водой закрыты."
+      },
+      "en": {
+        "question": "Which signals does a platypus’s bill detect when it searches for prey?",
+        "explanation": "Electroreceptors help locate prey while its eyes are closed underwater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Электрические импульсы",
+        "en": "Electrical impulses"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиоволны FM",
+        "en": "FM radio waves"
+      },
+      {
+        "id": "o2",
+        "ru": "Рентгеновские лучи",
+        "en": "X-rays"
+      },
+      {
+        "id": "o3",
+        "ru": "Ультрафиолетовый свет",
+        "en": "Ultraviolet light"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/platypus"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_platypus_habitat_0001",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой воде утконосы обычно ищут пищу?",
+        "explanation": "Они обитают преимущественно в ручьях, реках, озёрах и прудах."
+      },
+      "en": {
+        "question": "In what kind of water do platypuses usually forage?",
+        "explanation": "They live mainly in streams, rivers, lakes and ponds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В пресной",
+        "en": "Fresh water"
+      },
+      {
+        "id": "o1",
+        "ru": "В открытом океане",
+        "en": "The open ocean"
+      },
+      {
+        "id": "o2",
+        "ru": "В солёных озёрах",
+        "en": "Salt lakes"
+      },
+      {
+        "id": "o3",
+        "ru": "В глубоководных морях",
+        "en": "Deep seas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/platypus"
+    ],
+    "image": null
+  }
+]

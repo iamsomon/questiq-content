@@ -1,0 +1,442 @@
+[
+  {
+    "id": "cartoons_woody_toy_0001",
+    "categoryId": "cartoons",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую игрушку представляет Вуди из «Истории игрушек»?",
+        "explanation": "У Вуди есть шнурок, включающий голосовой механизм."
+      },
+      "en": {
+        "question": "What kind of toy is Woody in Toy Story?",
+        "explanation": "Woody has a pull-string voice box."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ковбой",
+        "en": "Cowboy"
+      },
+      {
+        "id": "o1",
+        "ru": "Космонавт",
+        "en": "Astronaut"
+      },
+      {
+        "id": "o2",
+        "ru": "Пират",
+        "en": "Pirate"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыцарь",
+        "en": "Knight"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/toy-story"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_buzz_role_0001",
+    "categoryId": "cartoons",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кем считает себя Базз Лайтер в начале «Истории игрушек»?",
+        "explanation": "Он уверен, что выполняет задание Звёздного командования."
+      },
+      "en": {
+        "question": "What does Buzz Lightyear believe himself to be at the start of Toy Story?",
+        "explanation": "He believes he is on a mission for Star Command."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Космическим рейнджером",
+        "en": "A space ranger"
+      },
+      {
+        "id": "o1",
+        "ru": "Морским капитаном",
+        "en": "A sea captain"
+      },
+      {
+        "id": "o2",
+        "ru": "Королём",
+        "en": "A king"
+      },
+      {
+        "id": "o3",
+        "ru": "Детективом",
+        "en": "A detective"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/toy-story"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_nemo_father_0001",
+    "categoryId": "cartoons",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут отца Немо?",
+        "explanation": "Отец отправляется через океан, чтобы вернуть сына домой."
+      },
+      "en": {
+        "question": "What is Nemo’s father’s name?",
+        "explanation": "His father travels across the ocean to bring him home."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марлин",
+        "en": "Marlin"
+      },
+      {
+        "id": "o1",
+        "ru": "Брюс",
+        "en": "Bruce"
+      },
+      {
+        "id": "o2",
+        "ru": "Джилл",
+        "en": "Gill"
+      },
+      {
+        "id": "o3",
+        "ru": "Найджел",
+        "en": "Nigel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/finding-nemo"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_nemo_species_0001",
+    "categoryId": "cartoons",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому виду рыб относятся Немо и Марлин?",
+        "explanation": "Их дом находится в актинии на Большом Барьерном рифе."
+      },
+      "en": {
+        "question": "What kind of fish are Nemo and Marlin?",
+        "explanation": "Their home is an anemone on the Great Barrier Reef."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рыбы-клоуны",
+        "en": "Clownfish"
+      },
+      {
+        "id": "o1",
+        "ru": "Рыбы-хирурги",
+        "en": "Surgeonfish"
+      },
+      {
+        "id": "o2",
+        "ru": "Рыбы-бабочки",
+        "en": "Butterflyfish"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыбы-ангелы",
+        "en": "Angelfish"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/finding-nemo"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_remy_species_0001",
+    "categoryId": "cartoons",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное Реми из «Рататуя»?",
+        "explanation": "Герой мечтает стать поваром, несмотря на отношение людей к грызунам."
+      },
+      "en": {
+        "question": "What animal is Remy in Ratatouille?",
+        "explanation": "He dreams of becoming a chef despite people’s attitudes toward rodents."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крыса",
+        "en": "Rat"
+      },
+      {
+        "id": "o1",
+        "ru": "Мышь",
+        "en": "Mouse"
+      },
+      {
+        "id": "o2",
+        "ru": "Хомяк",
+        "en": "Hamster"
+      },
+      {
+        "id": "o3",
+        "ru": "Белка",
+        "en": "Squirrel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/ratatouille"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_ratatouille_city_0001",
+    "categoryId": "cartoons",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе Реми стремится стать поваром?",
+        "explanation": "Он оказывается под рестораном своего кумира Огюста Гюсто."
+      },
+      "en": {
+        "question": "In which city does Remy pursue his dream of becoming a chef?",
+        "explanation": "He finds himself beneath the restaurant of his hero Auguste Gusteau."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o1",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o2",
+        "ru": "Мадрид",
+        "en": "Madrid"
+      },
+      {
+        "id": "o3",
+        "ru": "Прага",
+        "en": "Prague"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/ratatouille"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_monsters_factory_0001",
+    "categoryId": "cartoons",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что перерабатывает фабрика в начале «Корпорации монстров»?",
+        "explanation": "Работа Салли связана с посещением детских комнат."
+      },
+      "en": {
+        "question": "What does the factory process at the beginning of Monsters, Inc.?",
+        "explanation": "Sulley’s job involves visiting children’s bedrooms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Детские крики",
+        "en": "Children’s screams"
+      },
+      {
+        "id": "o1",
+        "ru": "Солнечный свет",
+        "en": "Sunlight"
+      },
+      {
+        "id": "o2",
+        "ru": "Морскую воду",
+        "en": "Seawater"
+      },
+      {
+        "id": "o3",
+        "ru": "Металлолом",
+        "en": "Scrap metal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/monsters-inc"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_monsters_boo_0001",
+    "categoryId": "cartoons",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как Салли называет девочку, попавшую в мир монстров?",
+        "explanation": "Появление человеческого ребёнка нарушает привычную жизнь Монстрополиса."
+      },
+      "en": {
+        "question": "What does Sulley call the girl who enters the monster world?",
+        "explanation": "A human child’s arrival disrupts the usual life of Monstropolis."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бу",
+        "en": "Boo"
+      },
+      {
+        "id": "o1",
+        "ru": "Райли",
+        "en": "Riley"
+      },
+      {
+        "id": "o2",
+        "ru": "Джесси",
+        "en": "Jessie"
+      },
+      {
+        "id": "o3",
+        "ru": "Мерида",
+        "en": "Merida"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/monsters-inc"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_walle_job_0001",
+    "categoryId": "cartoons",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для какой работы был создан ВАЛЛ·И?",
+        "explanation": "Робот прессует оставшиеся на Земле отходы в кубики."
+      },
+      "en": {
+        "question": "What task was WALL-E built to perform?",
+        "explanation": "The robot compacts waste left on Earth into cubes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Убирать мусор",
+        "en": "Clean up trash"
+      },
+      {
+        "id": "o1",
+        "ru": "Строить космические корабли",
+        "en": "Build spacecraft"
+      },
+      {
+        "id": "o2",
+        "ru": "Готовить еду",
+        "en": "Cook meals"
+      },
+      {
+        "id": "o3",
+        "ru": "Управлять погодой",
+        "en": "Control the weather"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/wall-e"
+    ],
+    "image": null
+  },
+  {
+    "id": "cartoons_walle_eve_0001",
+    "categoryId": "cartoons",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут робота-разведчика, с которым знакомится ВАЛЛ·И?",
+        "explanation": "Она ищет свидетельства того, что Земля снова пригодна для жизни."
+      },
+      "en": {
+        "question": "What is the name of the probe robot WALL-E meets?",
+        "explanation": "She searches for evidence that Earth can support life again."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ЕВА",
+        "en": "EVE"
+      },
+      {
+        "id": "o1",
+        "ru": "МО",
+        "en": "M-O"
+      },
+      {
+        "id": "o2",
+        "ru": "АВТО",
+        "en": "AUTO"
+      },
+      {
+        "id": "o3",
+        "ru": "БЁРН·И",
+        "en": "BURN-E"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.pixar.com/wall-e"
+    ],
+    "image": null
+  }
+]

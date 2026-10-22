@@ -1,0 +1,182 @@
+[
+  {
+    "id": "architecture_taj_material_0001",
+    "status": "approved",
+    "sha256": "f37c482721592c61f8b2f44d4df98d25e52677d971f9f4d3026210af18e20c15",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/252/",
+        "location": "Description",
+        "claim": "Which stone forms the main structure of the Taj Mahal? Answer: White marble. The mausoleum stands in the Indian city of Agra."
+      }
+    ]
+  },
+  {
+    "id": "architecture_taj_patron_0001",
+    "status": "approved",
+    "sha256": "30b39d5bedb9f026b957f7469b902883ca35ba600d4b198f49e3c2579d2492c4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/252/",
+        "location": "Description",
+        "claim": "Which ruler commissioned the Taj Mahal? Answer: Shah Jahan. The building commemorates his wife."
+      }
+    ]
+  },
+  {
+    "id": "architecture_taj_function_0001",
+    "status": "approved",
+    "sha256": "c1ce06bf38e86a9d7feb0cca0b393f533a25d21a75bdd9fc158e4b42d2deb07c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/252/",
+        "location": "Description: mausoleum",
+        "claim": "What was the principal purpose of the Taj Mahal? Answer: Mausoleum. The monument belongs to the architecture of the Mughal Empire."
+      }
+    ]
+  },
+  {
+    "id": "architecture_sydney_architect_0001",
+    "status": "approved",
+    "sha256": "c59a5262d346869d2c14a706db54b9fa1289bfcbe5d9111d869b9f93f248b147",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/166/",
+        "location": "Description: international jury",
+        "claim": "Whose design was chosen for the Sydney Opera House? Answer: Jørn Utzon. The Danish architect won the international competition in 1957."
+      }
+    ]
+  },
+  {
+    "id": "architecture_sydney_opening_0001",
+    "status": "approved",
+    "sha256": "6325fb2c96f0406e14a8373d0fb0e38a64ec361030716aebafa2c18e45b08c0d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/166/",
+        "location": "Description: inaugurated",
+        "claim": "In which year was the Sydney Opera House inaugurated? Answer: 1973. The building became a major work of twentieth-century architecture."
+      }
+    ]
+  },
+  {
+    "id": "architecture_sydney_roof_0001",
+    "status": "approved",
+    "sha256": "2e03dbc6a58862447ad715935589f5c6791ce4bb9be28cf46d052634b9626e21",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/166/",
+        "location": "Description: interlocking shells",
+        "claim": "Which forms make up the famous roof of the Sydney Opera House? Answer: Vaulted shells. The shells are grouped over the halls and a restaurant."
+      }
+    ]
+  },
+  {
+    "id": "architecture_jerusalem_dome_0001",
+    "status": "approved",
+    "sha256": "8708ac0819ed06bf088a7d2ddbf5d2235b1d92bedd4e2c0668d9379add1b4681",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/148/",
+        "location": "Description: Dome of the Rock",
+        "claim": "In which century was the Dome of the Rock in Jerusalem built? Answer: 7th. The monument’s decoration includes geometric and floral motifs."
+      }
+    ]
+  },
+  {
+    "id": "architecture_kathmandu_groups_0001",
+    "status": "approved",
+    "sha256": "90731a5b41d45d36cc14ff81b80e612d382d8d688a916fd81c2e1fcfcf9be0eb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/121/",
+        "location": "Description: seven groups",
+        "claim": "How many monument zones form UNESCO’s Kathmandu Valley property? Answer: 7. The property includes palace squares, Buddhist stupas and Hindu temples."
+      }
+    ]
+  },
+  {
+    "id": "architecture_kathmandu_stupa_0001",
+    "status": "approved",
+    "sha256": "37a16f28302fc78643daabca9c20052414f224708d33f53115bffda2d80eb5d8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/121/",
+        "location": "Description: Buddhist stupas",
+        "claim": "Which of these Kathmandu Valley monuments is a Buddhist stupa? Answer: Bauddhanath. UNESCO lists Bauddhanath alongside the Swayambhu stupa."
+      }
+    ]
+  },
+  {
+    "id": "architecture_taj_century_0001",
+    "status": "approved",
+    "sha256": "b0d2befe47ddcc317c149a70df9568dee93dd82862f6bfcdb58ba7bda838aa62",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/252/",
+        "location": "Description: construction dates",
+        "claim": "In which century was the Taj Mahal built? Answer: 17th. UNESCO dates construction of the mausoleum to 1631–1648."
+      }
+    ]
+  }
+]

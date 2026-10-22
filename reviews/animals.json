@@ -1,0 +1,182 @@
+[
+  {
+    "id": "animals_giraffe_height_0001",
+    "status": "approved",
+    "sha256": "e32af30b280cbca3c8fcc5fa9a365dce6cd6e44a0cf12e6f041935ed6d7c5b39",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "location": "About: height and legs",
+        "claim": "Which land animal is the tallest? Answer: Giraffe. Its long neck and legs help a giraffe reach high branches."
+      }
+    ]
+  },
+  {
+    "id": "animals_giraffe_neck_0001",
+    "status": "approved",
+    "sha256": "bd06bac5b8581d8931c0c17bc2b7f11e848c186e422220e4962ffb34347b5df8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "location": "About: neck vertebrae",
+        "claim": "How many neck vertebrae does a giraffe normally have? Answer: 7. The number matches humans, but each vertebra is much longer."
+      }
+    ]
+  },
+  {
+    "id": "animals_giraffe_relative_0001",
+    "status": "approved",
+    "sha256": "34e1fc05cbe4edf060dd379e557cbfc712edaf59a7635fce8ec687de2a332861",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "location": "About: closest relative; family",
+        "claim": "Which animal is the giraffe’s closest living relative? Answer: Okapi. The okapi and giraffe belong to the giraffe family."
+      }
+    ]
+  },
+  {
+    "id": "animals_cheetah_sprint_0001",
+    "status": "approved",
+    "sha256": "167b2c2fe13ce3e51c22e588411c19ca514b1b1e9f4e4dc58b85b439e3548fec",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/cheetah",
+        "location": "About: fastest land mammal",
+        "claim": "Which land mammal runs fastest over a short distance? Answer: Cheetah. Cheetahs are sprinters and cannot sustain their top speed for long."
+      }
+    ]
+  },
+  {
+    "id": "animals_cheetah_tail_0001",
+    "status": "approved",
+    "sha256": "ec7ee34a2cf870b9b8aa5a32d7505aaaff008b06423f6a1aff19dbd6c4c23a68",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/cheetah",
+        "location": "About: tail as rudder",
+        "claim": "What helps a cheetah steer while running fast? Answer: A long tail. The tail acts as a rudder to help the animal maintain direction."
+      }
+    ]
+  },
+  {
+    "id": "animals_panda_diet_0001",
+    "status": "approved",
+    "sha256": "ace660565ddcc214f04d4f492f9de242227fc48824c4f3b83bc44cf8659effd0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/giant-panda",
+        "location": "Habitat and diet",
+        "claim": "Which plant makes up most of a giant panda’s diet? Answer: Bamboo. Pandas eat shoots and leaves, peeling the tough outer layers from stalks."
+      }
+    ]
+  },
+  {
+    "id": "animals_panda_thumb_0001",
+    "status": "approved",
+    "sha256": "4cf1a5e4c69b2105f3606fbcd316cd8298ee0649d4892c1a724c074245cba754",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/giant-panda",
+        "location": "Habitat and diet: pseudo-thumb",
+        "claim": "What forms a giant panda’s “false thumb”? Answer: An enlarged wrist bone. This bone helps pandas grasp and manipulate bamboo stalks."
+      }
+    ]
+  },
+  {
+    "id": "animals_platypus_eggs_0001",
+    "status": "approved",
+    "sha256": "de3e25702f74f1d9090385c9e1522416208a983f56d08a3d672f0f9fd94c7c14",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/platypus",
+        "location": "About: egg-laying mammals",
+        "claim": "Which of these mammals lays eggs? Answer: Platypus. Platypuses are monotremes and feed their young with milk."
+      }
+    ]
+  },
+  {
+    "id": "animals_platypus_bill_0001",
+    "status": "approved",
+    "sha256": "eebe59161e4ca185e898da420e86e14a98de05713523bbee5b4af6cafc35a929",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/platypus",
+        "location": "About: electroreceptors",
+        "claim": "Which signals does a platypus’s bill detect when it searches for prey? Answer: Electrical impulses. Electroreceptors help locate prey while its eyes are closed underwater."
+      }
+    ]
+  },
+  {
+    "id": "animals_platypus_habitat_0001",
+    "status": "approved",
+    "sha256": "3288d5087f8640a3a00493f89f3960b36a18c80702261afb741030d8bb5113b3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/platypus",
+        "location": "Habitat and diet: freshwater",
+        "claim": "In what kind of water do platypuses usually forage? Answer: Fresh water. They live mainly in streams, rivers, lakes and ponds."
+      }
+    ]
+  }
+]

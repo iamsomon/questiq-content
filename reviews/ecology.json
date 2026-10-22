@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ecology_compost_process_0001",
+    "status": "approved",
+    "sha256": "12a5135498f25e38f0c328839bc9ab18881acfede070f46e878e55330f5eca03",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/recycle/composting-home",
+        "location": "What is Composting?",
+        "claim": "What happens to organic waste during composting? Answer: Aerobic microbial decomposition. The resulting material can be used to improve soil."
+      }
+    ]
+  },
+  {
+    "id": "ecology_compost_oxygen_0001",
+    "status": "approved",
+    "sha256": "0b65177d890041488bd80ca14c1b5b1944838c5dac840a33654671c801306360",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/recycle/composting-home",
+        "location": "What is Composting?",
+        "claim": "Which gas is needed for ordinary aerobic composting? Answer: Oxygen. Microorganisms also need water and nutrients."
+      }
+    ]
+  },
+  {
+    "id": "ecology_vermicompost_0001",
+    "status": "approved",
+    "sha256": "ed1d29f140a2f130aaf584cc57c6050e5d4556737ff496b6413798571be75ab5",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/recycle/composting-home",
+        "location": "Worm Composting (Vermicomposting)",
+        "claim": "Which animals help produce vermicompost? Answer: Worms. This is one way to process food scraps at home."
+      }
+    ]
+  },
+  {
+    "id": "ecology_compost_water_0001",
+    "status": "approved",
+    "sha256": "6a49a8a9eb5f56c8bf365986c6bd6f4365d8be61bd0636bf31f8bd40551c8dca",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/recycle/composting-home",
+        "location": "Benefits: flood and drought resilience",
+        "claim": "How does adding compost affect the soil’s ability to retain water? Answer: Increases water-holding capacity. The soil becomes more resilient during drought and heavy rainfall."
+      }
+    ]
+  },
+  {
+    "id": "ecology_ozone_layer_0001",
+    "status": "approved",
+    "sha256": "8e3b4080881b766e065824d42d07427e54a5d24870fefd09e2649007b4f71506",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science",
+        "location": "Ozone layer; UVB",
+        "claim": "Which radiation does the ozone layer help protect us from? Answer: Ultraviolet. Ozone is especially important for absorbing UVB radiation."
+      }
+    ]
+  },
+  {
+    "id": "ecology_ozone_stratosphere_0001",
+    "status": "approved",
+    "sha256": "557d0ae8e32d66d81c41044201b0e007ef228671a5d807826b11c05f523211f9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science",
+        "location": "I. The Ozone Layer",
+        "claim": "Which atmospheric layer contains most atmospheric ozone? Answer: Stratosphere. It lies above the troposphere, where most weather occurs."
+      }
+    ]
+  },
+  {
+    "id": "ecology_ozone_atoms_0001",
+    "status": "approved",
+    "sha256": "de862852ae83401baf413436a9e7f077317d0561d63847c0a1a758c920d340ed",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science",
+        "location": "I. The Ozone Layer: molecule",
+        "claim": "How many oxygen atoms are in an ozone molecule? Answer: 3. Its molecular structure differs from ordinary two-atom oxygen."
+      }
+    ]
+  },
+  {
+    "id": "ecology_greenhouse_gas_0001",
+    "status": "approved",
+    "sha256": "b3cd3aeb76aa5c7593a64a5cbb12e25755b23f4d8e9e2a9079f4da8711941064",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/ghgemissions/overview-greenhouse-gases",
+        "location": "Greenhouse Gas Emissions Overview",
+        "claim": "Which of these is a greenhouse gas? Answer: Carbon dioxide. Greenhouse gases trap heat in the atmosphere."
+      }
+    ]
+  },
+  {
+    "id": "ecology_landfill_methane_0001",
+    "status": "approved",
+    "sha256": "6865aa82371c64ab9940f9e3dfa29882d822d82c59bc8a570d3035fcc55a8517",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/ghgemissions/overview-greenhouse-gases",
+        "location": "Methane",
+        "claim": "Which greenhouse gas is produced when organic waste decays in landfills? Answer: Methane. Landfills are one source of emissions of this gas."
+      }
+    ]
+  },
+  {
+    "id": "ecology_plant_carbon_0001",
+    "status": "approved",
+    "sha256": "603e3ce9855d9d1c1cdfb512f489c242b317a93ea1409a8278e1353f159c8adc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-carbon-cycle/",
+        "location": "The Fast Carbon Cycle: photosynthesis",
+        "claim": "Which process uses carbon dioxide to form organic matter in plants? Answer: Photosynthesis. The carbon becomes part of the plants’ organic material."
+      }
+    ]
+  }
+]

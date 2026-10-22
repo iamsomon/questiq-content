@@ -1,0 +1,182 @@
+[
+  {
+    "id": "painting_nighthawks_author_0001",
+    "status": "approved",
+    "sha256": "162b1b68bab9136f79f333d858b0fe2f233ee5fb9f0dd7047fdfa74c03c1b4f6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/111628",
+        "location": "artist_title; date_display",
+        "claim": "Who painted Nighthawks? Answer: Edward Hopper. The painting dates to 1942."
+      }
+    ]
+  },
+  {
+    "id": "painting_nighthawks_medium_0001",
+    "status": "approved",
+    "sha256": "eeadcd251a0ace0265083703e32f6a95f951738a149c49ffe94575588ab631a8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/111628",
+        "location": "medium_display; collection record",
+        "claim": "Which medium did Edward Hopper use for Nighthawks? Answer: Oil on canvas. The work belongs to the Art Institute of Chicago collection."
+      }
+    ]
+  },
+  {
+    "id": "painting_bedroom_author_0001",
+    "status": "approved",
+    "sha256": "16e64698cde5cf14e577bd9fca51bd5c9098cde638c366df6b7657700099d705",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/28560",
+        "location": "artist_title; date_display",
+        "claim": "Who painted The Bedroom held by the Art Institute of Chicago? Answer: Vincent van Gogh. The Chicago version of the painting dates to 1889."
+      }
+    ]
+  },
+  {
+    "id": "painting_bedroom_date_0001",
+    "status": "approved",
+    "sha256": "bb2983cf1b6b4c10b98eb49205d158d55aa4cacd2cb5c483d2c977f44b04a0eb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/28560",
+        "location": "date_display; medium_display",
+        "claim": "What is the date of the Chicago version of Van Gogh’s The Bedroom? Answer: 1889. It is an oil painting on canvas."
+      }
+    ]
+  },
+  {
+    "id": "painting_grande_jatte_author_0001",
+    "status": "approved",
+    "sha256": "6d1526f2623df6d43bdd614025cfc43e6d5779266fc95ce1a8ed7fd2ffc52ec2",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/27992",
+        "location": "artist_title; date_display",
+        "claim": "Who painted A Sunday on La Grande Jatte? Answer: Georges Seurat. The main painting dates to 1884–1886."
+      }
+    ]
+  },
+  {
+    "id": "painting_grande_jatte_technique_0001",
+    "status": "approved",
+    "sha256": "cbd342283dcd4c154332105e0b5911d19d73b74cd59dedd4b855459fbe39946c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/27992",
+        "location": "Description: dots, dashes and pointillist technique",
+        "claim": "Which technique characterizes Seurat’s A Sunday on La Grande Jatte? Answer: Pointillism. Dots and short strokes of color combine into forms when seen from a distance."
+      }
+    ]
+  },
+  {
+    "id": "painting_american_gothic_author_0001",
+    "status": "approved",
+    "sha256": "2ab2f1286c0ab4576e63a4c257ee9ed2180f0d032955784bad474110447c65c9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/6565",
+        "location": "artist_title; date_display",
+        "claim": "Who painted American Gothic? Answer: Grant Wood. The painting was created in 1930."
+      }
+    ]
+  },
+  {
+    "id": "painting_american_gothic_daughter_0001",
+    "status": "approved",
+    "sha256": "1ae6fab0dd1f7a796425a7c46edd49e022cde1addd8e02b46e9cecb2be52cbde",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/6565",
+        "location": "Description: farmer and his daughter; rural values",
+        "claim": "According to the museum, how is the woman related to the farmer in American Gothic? Answer: Daughter. Wood wanted to convey traditional rural American values."
+      }
+    ]
+  },
+  {
+    "id": "painting_water_lilies_author_0001",
+    "status": "approved",
+    "sha256": "3ff509f58dca1aedee9e248cc661a2b3d0d9ada03afb9b36d074854b841843aa",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/16568",
+        "location": "artist_title; date_display; medium_display",
+        "claim": "Who painted the 1906 Water Lilies in the Art Institute of Chicago? Answer: Claude Monet. This work is painted in oil on canvas."
+      }
+    ]
+  },
+  {
+    "id": "painting_water_lilies_garden_0001",
+    "status": "approved",
+    "sha256": "6c2214c7f713208660f418053ad1436a3b930137b051128e1b5f9f4701261601",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/16568",
+        "location": "Description: Giverny water garden",
+        "claim": "In which French village was Monet’s garden that inspired his Water Lilies? Answer: Giverny. The artist created a water garden there with a pond and Japanese bridge."
+      }
+    ]
+  }
+]
