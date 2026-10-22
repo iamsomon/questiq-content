@@ -10,7 +10,7 @@ def digest(value):return hashlib.sha256(encoded(value)).hexdigest()
 def load(path,default=None):return json.loads(path.read_text()) if path.exists() else default
 def require(ok,message):
  if not ok:raise ValueError(message)
-def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum())
+def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum() or c in '+−-×÷*/^=()[]²³')
 def check_question(q,categories):
  require(set(q)=={'id','categoryId','difficulty','type','revision','localizations','options','correctOptionId','sources','image'},'Unexpected/missing question fields')
  name=q['id'];require(isinstance(name,str) and re.fullmatch(r'[a-z0-9_]{5,80}',name),f'Invalid ID: {name}')
@@ -80,6 +80,7 @@ def build(root,base):
  uri=urlsplit(base);require(uri.scheme=='https' and uri.hostname and not uri.username and not uri.query and not uri.fragment,'HTTPS base URL required')
  cats,items,reviews,revoked=inventory(root);approved=sorted([q for stage,q in items if stage=='questions'],key=lambda q:q['id'])
  registry=load(root/'catalog/revisions.json',{})
+ require((set(registry)-{q['id'] for q in approved}).issubset(revoked),'Removing a published question requires an explicit revocation')
  for q in approved:
   old=registry.get(q['id']);h=digest(q)
   if old:require(q['revision']>=old['revision'] and (h==old['sha256'] or q['revision']>old['revision']),f"{q['id']}: changing published content requires a higher revision")
@@ -90,7 +91,11 @@ def build(root,base):
  manifest={'schemaVersion':1,'version':digest({'questions':approved,'revoked':sorted(revoked)}),'revokedIds':sorted(revoked),'packs':[]}
  keep=set()
  for c in sorted({q['categoryId'] for q in approved}):
-  batch=[q for q in approved if q['categoryId']==c];require(len(batch)>=10,f'{c}: fewer than ten approved questions')
+  batch=[q for q in approved if q['categoryId']==c]
+  # A correction must be publishable immediately, even if revoking one fact
+  # leaves fewer than ten in its category. Omit that pack until replenished;
+  # keep the cumulative revocation in the manifest so old clients remove it.
+  if len(batch)<10:continue
   payload=encoded(batch)+b'\n';require(len(payload)<=2097152,f'{c}: pack exceeds byte budget')
   sha=hashlib.sha256(payload).hexdigest();name=f'{c}-{sha[:16]}.json';keep.add(name);(packs/name).write_bytes(payload)
   for lang in ['ru','en']:manifest['packs'].append({'schemaVersion':1,'locale':lang,'category':c,'url':base.rstrip('/')+'/packs/'+name,'sha256':sha,'size':len(payload)})

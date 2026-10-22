@@ -1,0 +1,882 @@
+[
+  {
+    "id": "astronomy_nearest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета находится ближе всего к Солнцу?",
+        "explanation": "Меркурий — ближайшая к Солнцу планета. Его орбита лежит внутри орбиты Венеры."
+      },
+      "en": {
+        "question": "Which planet is closest to the Sun?",
+        "explanation": "Mercury is the closest planet to the Sun. Its orbit lies inside the orbit of Venus."
+      }
+    },
+    "options": [
+      {
+        "id": "mercury",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      }
+    ],
+    "correctOptionId": "mercury",
+    "sources": [
+      "https://science.nasa.gov/mercury/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_smallest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая из восьми планет Солнечной системы самая маленькая?",
+        "explanation": "Меркурий — самая маленькая из восьми планет. Он лишь немного больше Луны."
+      },
+      "en": {
+        "question": "Which of the eight solar system planets is the smallest?",
+        "explanation": "Mercury is the smallest of the eight planets. It is only slightly larger than the Moon."
+      }
+    },
+    "options": [
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "mercury",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      }
+    ],
+    "correctOptionId": "mercury",
+    "sources": [
+      "https://science.nasa.gov/mercury/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_hottest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой планете самая высокая температура поверхности?",
+        "explanation": "Плотная атмосфера Венеры удерживает тепло благодаря сильному парниковому эффекту."
+      },
+      "en": {
+        "question": "Which planet has the hottest surface?",
+        "explanation": "The dense atmosphere of Venus traps heat through an intense greenhouse effect."
+      }
+    },
+    "options": [
+      {
+        "id": "mercury",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "venus",
+    "sources": [
+      "https://science.nasa.gov/venus/venus-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_venus_order_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета вторая по удалённости от Солнца?",
+        "explanation": "Венера обращается вокруг Солнца между орбитами Меркурия и Земли."
+      },
+      "en": {
+        "question": "Which planet is second from the Sun?",
+        "explanation": "Venus orbits the Sun between the orbits of Mercury and Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      }
+    ],
+    "correctOptionId": "venus",
+    "sources": [
+      "https://science.nasa.gov/venus/venus-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_earth_order_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета третья по удалённости от Солнца?",
+        "explanation": "Земля — третья планета от Солнца. Её орбита находится между Венерой и Марсом."
+      },
+      "en": {
+        "question": "Which planet is third from the Sun?",
+        "explanation": "Earth is the third planet from the Sun. Its orbit lies between Venus and Mars."
+      }
+    },
+    "options": [
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "mercury",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      }
+    ],
+    "correctOptionId": "earth",
+    "sources": [
+      "https://science.nasa.gov/earth/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_rocky_largest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая из планет земной группы самая большая?",
+        "explanation": "Земля — крупнейшая из четырёх каменистых планет: Меркурия, Венеры, Земли и Марса."
+      },
+      "en": {
+        "question": "Which terrestrial planet is the largest?",
+        "explanation": "Earth is the largest of the four rocky planets: Mercury, Venus, Earth and Mars."
+      }
+    },
+    "options": [
+      {
+        "id": "mercury",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      }
+    ],
+    "correctOptionId": "earth",
+    "sources": [
+      "https://science.nasa.gov/earth/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_red_planet_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету называют Красной?",
+        "explanation": "Соединения железа в грунте Марса окисляются и придают поверхности красноватый оттенок."
+      },
+      "en": {
+        "question": "Which planet is called the Red Planet?",
+        "explanation": "Iron minerals in Martian soil oxidize, giving the surface its reddish appearance."
+      }
+    },
+    "options": [
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "mars",
+    "sources": [
+      "https://science.nasa.gov/mars/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_mars_order_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета четвёртая по удалённости от Солнца?",
+        "explanation": "Марс обращается вокруг Солнца за Землёй и перед главным поясом астероидов."
+      },
+      "en": {
+        "question": "Which planet is fourth from the Sun?",
+        "explanation": "Mars is the fourth planet from the Sun, orbiting beyond Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "mars",
+    "sources": [
+      "https://science.nasa.gov/mars/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_largest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета Солнечной системы самая большая?",
+        "explanation": "Юпитер — крупнейшая планета Солнечной системы. Его диаметр намного больше земного."
+      },
+      "en": {
+        "question": "Which planet in the solar system is the largest?",
+        "explanation": "Jupiter is the largest planet in the solar system, with a diameter far greater than Earth’s."
+      }
+    },
+    "options": [
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "jupiter",
+    "sources": [
+      "https://science.nasa.gov/jupiter/jupiter-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_shortest_day_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какой планеты самый короткий период вращения вокруг оси?",
+        "explanation": "Юпитер совершает оборот вокруг оси примерно за 9,9 часа — быстрее других планет."
+      },
+      "en": {
+        "question": "Which planet has the shortest rotation period?",
+        "explanation": "Jupiter rotates once in about 9.9 hours, faster than the other planets."
+      }
+    },
+    "options": [
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      }
+    ],
+    "correctOptionId": "jupiter",
+    "sources": [
+      "https://science.nasa.gov/jupiter/jupiter-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_saturn_order_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета шестая по удалённости от Солнца?",
+        "explanation": "Сатурн расположен между Юпитером и Ураном. Это шестая планета от Солнца."
+      },
+      "en": {
+        "question": "Which planet is sixth from the Sun?",
+        "explanation": "Saturn lies between Jupiter and Uranus. It is the sixth planet from the Sun."
+      }
+    },
+    "options": [
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "saturn",
+    "sources": [
+      "https://science.nasa.gov/saturn/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_second_largest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета вторая по размеру после Юпитера?",
+        "explanation": "Сатурн — вторая по размеру планета Солнечной системы и газовый гигант."
+      },
+      "en": {
+        "question": "Which planet is second in size after Jupiter?",
+        "explanation": "Saturn is the second-largest planet in the solar system and a gas giant."
+      }
+    },
+    "options": [
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "saturn",
+    "sources": [
+      "https://science.nasa.gov/saturn/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_sideways_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета из-за наклона оси словно вращается лёжа на боку?",
+        "explanation": "Ось вращения Урана сильно наклонена. Поэтому его движение напоминает катящийся шар."
+      },
+      "en": {
+        "question": "Which planet appears to rotate on its side because of its axial tilt?",
+        "explanation": "Uranus has an extreme axial tilt, making it appear to roll along its orbit."
+      }
+    },
+    "options": [
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "earth",
+        "ru": "Земля",
+        "en": "Earth"
+      }
+    ],
+    "correctOptionId": "uranus",
+    "sources": [
+      "https://science.nasa.gov/uranus/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_herschel_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету открыл Уильям Гершель в 1781 году?",
+        "explanation": "Уран стал первой планетой, открытой с помощью телескопа. Открытие сделал Уильям Гершель."
+      },
+      "en": {
+        "question": "Which planet did William Herschel discover in 1781?",
+        "explanation": "Uranus was the first planet discovered with a telescope, by William Herschel."
+      }
+    },
+    "options": [
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "uranus",
+    "sources": [
+      "https://science.nasa.gov/uranus/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_farthest_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая из восьми планет находится дальше всего от Солнца?",
+        "explanation": "Нептун — восьмая и самая далёкая от Солнца из восьми планет."
+      },
+      "en": {
+        "question": "Which of the eight planets is farthest from the Sun?",
+        "explanation": "Neptune is the eighth and most distant of the eight planets."
+      }
+    },
+    "options": [
+      {
+        "id": "uranus",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "jupiter",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "neptune",
+    "sources": [
+      "https://science.nasa.gov/neptune/neptune-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_predicted_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету обнаружили в 1846 году после математического предсказания её положения?",
+        "explanation": "Отклонения орбиты Урана помогли предсказать положение Нептуна, который затем нашли наблюдением."
+      },
+      "en": {
+        "question": "Which planet was found in 1846 after its position was mathematically predicted?",
+        "explanation": "Irregularities in Uranus’s orbit helped predict Neptune’s position before it was observed."
+      }
+    },
+    "options": [
+      {
+        "id": "mars",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "neptune",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "venus",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "saturn",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "neptune",
+    "sources": [
+      "https://science.nasa.gov/neptune/neptune-facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_sun_star_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чем является Солнце?",
+        "explanation": "Солнце — звезда в центре Солнечной системы. Планеты обращаются вокруг него."
+      },
+      "en": {
+        "question": "What kind of object is the Sun?",
+        "explanation": "The Sun is the star at the centre of the solar system. The planets orbit it."
+      }
+    },
+    "options": [
+      {
+        "id": "star",
+        "ru": "Звезда",
+        "en": "A star"
+      },
+      {
+        "id": "planet",
+        "ru": "Планета",
+        "en": "A planet"
+      },
+      {
+        "id": "comet",
+        "ru": "Комета",
+        "en": "A comet"
+      },
+      {
+        "id": "moon",
+        "ru": "Спутник",
+        "en": "A moon"
+      }
+    ],
+    "correctOptionId": "star",
+    "sources": [
+      "https://science.nasa.gov/sun/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_photosphere_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется видимая поверхность Солнца?",
+        "explanation": "Видимый слой Солнца называют фотосферой. Твёрдой поверхности у Солнца нет."
+      },
+      "en": {
+        "question": "What is the Sun’s visible surface called?",
+        "explanation": "The visible layer of the Sun is the photosphere. The Sun has no solid surface."
+      }
+    },
+    "options": [
+      {
+        "id": "photosphere",
+        "ru": "Фотосфера",
+        "en": "Photosphere"
+      },
+      {
+        "id": "corona",
+        "ru": "Корона",
+        "en": "Corona"
+      },
+      {
+        "id": "core",
+        "ru": "Ядро",
+        "en": "Core"
+      },
+      {
+        "id": "mantle",
+        "ru": "Мантия",
+        "en": "Mantle"
+      }
+    ],
+    "correctOptionId": "photosphere",
+    "sources": [
+      "https://science.nasa.gov/sun/facts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_planet_count_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько планет в Солнечной системе?",
+        "explanation": "В Солнечной системе восемь планет. Плутон относится к карликовым планетам."
+      },
+      "en": {
+        "question": "How many planets are in the solar system?",
+        "explanation": "The solar system has eight planets. Pluto is classified as a dwarf planet."
+      }
+    },
+    "options": [
+      {
+        "id": "seven",
+        "ru": "Семь",
+        "en": "Seven"
+      },
+      {
+        "id": "eight",
+        "ru": "Восемь",
+        "en": "Eight"
+      },
+      {
+        "id": "nine",
+        "ru": "Девять",
+        "en": "Nine"
+      },
+      {
+        "id": "ten",
+        "ru": "Десять",
+        "en": "Ten"
+      }
+    ],
+    "correctOptionId": "eight",
+    "sources": [
+      "https://science.nasa.gov/solar-system/planets/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_inner_type_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют четыре внутренние каменистые планеты Солнечной системы?",
+        "explanation": "Меркурий, Венера, Земля и Марс — планеты земной группы с каменистой поверхностью."
+      },
+      "en": {
+        "question": "What are the four inner rocky planets of the solar system called?",
+        "explanation": "Mercury, Venus, Earth and Mars are terrestrial planets with rocky surfaces."
+      }
+    },
+    "options": [
+      {
+        "id": "terrestrial",
+        "ru": "Планеты земной группы",
+        "en": "Terrestrial planets"
+      },
+      {
+        "id": "gas",
+        "ru": "Газовые гиганты",
+        "en": "Gas giants"
+      },
+      {
+        "id": "ice",
+        "ru": "Ледяные гиганты",
+        "en": "Ice giants"
+      },
+      {
+        "id": "dwarf",
+        "ru": "Карликовые планеты",
+        "en": "Dwarf planets"
+      }
+    ],
+    "correctOptionId": "terrestrial",
+    "sources": [
+      "https://science.nasa.gov/solar-system/planets/"
+    ],
+    "image": null
+  }
+]

@@ -1,91 +1,131 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 0,
-  "draftQuestions": 20,
-  "playableCategories": 0,
+  "approvedQuestions": 110,
+  "draftQuestions": 0,
+  "playableCategories": 10,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
   "revokedCount": 0,
   "categories": [
     {
       "id": "physics",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "chemistry",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "biology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "mathematics",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "astronomy",
-      "approved": 0,
-      "draft": 20,
+      "approved": 20,
+      "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 10,
+        "medium": 6,
+        "hard": 4
+      },
+      "playable": true
     },
     {
       "id": "countries",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "capitals",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "flags",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "cities",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "natural_wonders",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true
     },
     {
       "id": "ancient_world",

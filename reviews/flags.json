@@ -1,0 +1,182 @@
+[
+  {
+    "id": "flags_canada_leaf_0001",
+    "status": "approved",
+    "sha256": "fea0811737429a12a39564910678c4e2c08b106924940cba6888476a76556fff",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-description.html",
+        "claim": "A leaf from which tree appears on Canada’s flag? Correct: Maple. The red maple leaf on Canada’s flag has eleven points.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_japan_sun_0001",
+    "status": "approved",
+    "sha256": "da5640a305ac57de85233ed886254680c20c409bee767d3fd77ae71a689edd42",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.japan.go.jp/japan/flagandanthem/index.html",
+        "claim": "Which symbol is centred on Japan’s white flag? Correct: A red sun disc. The red disc represents the rising sun; the flag is also called Hinomaru.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_france_colours_0001",
+    "status": "approved",
+    "sha256": "68a08dba00af38c75694bdc93bb307c58200740772b8b80b2fc7241448af416a",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.elysee.fr/en/french-presidency/the-french-flag",
+        "claim": "Which three colours make up the French tricolour? Correct: Blue, white and red. The blue, white and red tricolour is France’s constitutionally recognised national emblem.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_germany_colours_0001",
+    "status": "approved",
+    "sha256": "58f3432a697adb971f5de6187ad5de0f98e2968572c7e0d87a628093946ad5f8",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bundestag.de/en/parliament/symbols/flag",
+        "claim": "Which colours appear on Germany’s federal flag? Correct: Black, red and gold. Black, red and gold became the flag colours of the Federal Republic in 1949.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_swiss_shape_0001",
+    "status": "approved",
+    "sha256": "70734429f4671c9acfb0605796f5aaf4238ee0fd9deae565e491f7f8fa7e440d",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag",
+        "claim": "What shape is Switzerland’s national flag? Correct: Square. A white cross is centred on a red square.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_italy_stripes_0001",
+    "status": "approved",
+    "sha256": "7986ae0a41e26f1879098d00c9f7c66352649a0eb02b85b845d6e94d9a648858",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.quirinale.it/it/pagine/italian-tricolour-flag",
+        "claim": "How are the three equal bands of Italy’s national flag arranged? Correct: Vertically. The Italian tricolour has equal vertical green, white and red bands.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_kazakhstan_eagle_0001",
+    "status": "approved",
+    "sha256": "945cc5e9ce85fb697d0411ef7f6c637b332f48f32a7ee219ace8316fe01a90e6",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.akorda.kz/en/state_symbols/kazakhstan_flag",
+        "claim": "Which bird appears below the sun on Kazakhstan’s flag? Correct: Steppe eagle. A golden steppe eagle soars beneath the sun on the sky-blue field.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_usa_stripes_0001",
+    "status": "approved",
+    "sha256": "febb21001ceac0870ff8f82b122974144807de3cabcde45f6e8a437234d362e4",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usa.gov/flag",
+        "claim": "What do the 13 stripes on the US flag represent? Correct: The original 13 colonies. The stripes commemorate the original thirteen colonies.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_tajikistan_stars_0001",
+    "status": "approved",
+    "sha256": "a5ffe6810b42b8909041cddcc066aa235271768afd8184e3d2b9c142257d6fea",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://egov.tj/article/35?lang=en",
+        "claim": "How many stars appear above the crown on Tajikistan’s flag? Correct: 7. Seven gold stars form a semicircle above the crown on the white band.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  },
+  {
+    "id": "flags_uk_crosses_0001",
+    "status": "approved",
+    "sha256": "049726dfe090ae6abfe686e5bf20f86cea781b4baffecd5091e45f2cce803f40",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.royal.uk/union-jack",
+        "claim": "How many heraldic crosses are combined in the British Union Flag? Correct: 3. It combines the crosses of St George, St Andrew and St Patrick.",
+        "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
+      }
+    ]
+  }
+]

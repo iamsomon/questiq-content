@@ -1,0 +1,182 @@
+[
+  {
+    "id": "physics_length_unit_0001",
+    "status": "approved",
+    "sha256": "12a6e84203db7d577c84bad1e8224b2fe9d29185cf4cc5f830578629844b0598",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "The metre is the base unit of length; mass uses the kilogram.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_mass_unit_0001",
+    "status": "approved",
+    "sha256": "fb92f72f18734867d1486d77178ef28db79a2bf38fbdf47dba65b462e7218263",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "The kilogram, rather than the gram, is the base unit of mass. The newton measures force.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_time_unit_0001",
+    "status": "approved",
+    "sha256": "a86e0b72796dff03603d8a9f022078a457ea015b20bdab2fcaf608c50bcd84ee",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "Minutes and hours are expressed in seconds, the SI base unit of time.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_current_unit_0001",
+    "status": "approved",
+    "sha256": "75038c9e896c25d9f0f90b98fb27fae19436c16e2f8550eea24a86db21d06e75",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "Electric current is measured in amperes; voltage is measured in volts.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_temperature_unit_0001",
+    "status": "approved",
+    "sha256": "6ee04620e75ffa70c21ed94745abf39783b8a2b481cac1edef8b73643946fd60",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "Thermodynamic temperature is expressed in kelvins, without the word degree.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_amount_unit_0001",
+    "status": "approved",
+    "sha256": "3bc3c097ecac5af87f63e66ab417be88d44e80f5d5bf781dadbc3756629cc63f",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "The mole measures amount of substance, rather than mass or volume.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_light_unit_0001",
+    "status": "approved",
+    "sha256": "b717eedefec616330a8d86f32ea7bc29c49635c419e8ecc2859a2ed40cdb662a",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "claim": "The candela is the base unit of luminous intensity, one of the seven SI base quantities.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_force_unit_0001",
+    "status": "approved",
+    "sha256": "94e6bff4fbcaa1ae4cfbc55f12e7eb41894c220b810726337b2735b6d8598558",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "claim": "One newton is one kg·m/s²: it gives a mass of 1 kg an acceleration of 1 m/s².",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_energy_unit_0001",
+    "status": "approved",
+    "sha256": "d0033ebafe1dbbee188b47d8f7da3eba79cedca8a43654cf53d07f66ac0e8e41",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "claim": "The joule measures energy and work. One joule equals one newton-metre.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  },
+  {
+    "id": "physics_pressure_unit_0001",
+    "status": "approved",
+    "sha256": "11d82af595f10decaf9faff3e7bcd533dd85c3a6eadacf057f676a77a1394328",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "claim": "A pascal measures pressure: a force of one newton distributed over one square metre.",
+        "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
+      }
+    ]
+  }
+]

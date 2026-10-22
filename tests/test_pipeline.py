@@ -8,7 +8,7 @@ class PipelineTests(unittest.TestCase):
   for d in ['questions','drafts','reviews','catalog','dist']: (self.root/d).mkdir()
   shutil.copy2(c.ROOT/'catalog/categories.json',self.root/'catalog/categories.json')
   (self.root/'revoked.json').write_text('[]')
-  self.items=json.loads((c.ROOT/'drafts/astronomy-legacy.json').read_text())[:10]
+  self.items=json.loads((c.ROOT/'tests/fixtures/astronomy.json').read_text())[:10]
  def tearDown(self):self.tmp.cleanup()
  def save(self,stage='questions'):
   (self.root/stage/'astronomy.json').write_text(json.dumps(self.items))
@@ -33,4 +33,15 @@ class PipelineTests(unittest.TestCase):
  def test_duplicate_across_draft_and_release_denied(self):
   self.save();self.approve();self.save('drafts')
   with self.assertRaisesRegex(ValueError,'Duplicate ID'):c.inventory(self.root)
+ def test_removed_published_id_requires_revocation(self):
+  self.save();self.approve();c.build(self.root,'https://example.org/dist')
+  removed=self.items.pop()['id'];self.save();self.approve()
+  with self.assertRaisesRegex(ValueError,'explicit revocation'):c.build(self.root,'https://example.org/dist')
+ def test_urgent_revocation_publishes_without_a_replacement_question(self):
+  self.save();self.approve();c.build(self.root,'https://example.org/dist')
+  removed=self.items.pop()['id'];self.save();self.approve()
+  (self.root/'revoked.json').write_text(json.dumps([removed]))
+  manifest=c.build(self.root,'https://example.org/dist')
+  self.assertIn(removed,manifest['revokedIds']);self.assertEqual(manifest['packs'],[])
+  self.assertEqual(c.report(self.root)['playableCategories'],0)
 if __name__=='__main__':unittest.main()

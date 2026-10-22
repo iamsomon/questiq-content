@@ -15,6 +15,7 @@ python3 tools/content.py validate
 python3 tools/content.py report
 python3 tools/content.py build --base-url https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist
 python3 -m unittest discover -s tests
+python3 tools/check_links.py
 ```
 
 Изменения идут через ветку и Pull Request. Публикация требует предметной и языковой проверки; простое прохождение CI не подтверждает истинность факта. Сначала исправляют вопрос и повышают `revision`, затем пересобирают `dist/`. Отозванные ID сохраняются в `revoked.json` навсегда.

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mathematics_product_term_0001",
+    "status": "approved",
+    "sha256": "40b817a5b4a72c5b1d75ee8106161d906ea60a717db86be2070aafa5f374ae96",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Multiplication gives a product; division gives a quotient.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_constant_term_0001",
+    "status": "approved",
+    "sha256": "277695cfdf12ca8293698b6dd738766f8eebdc1bcc000f39bc5cdf7a3aa6904a",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "A constant has a fixed value, while a variable may take different values.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_cube_value_0001",
+    "status": "approved",
+    "sha256": "8d4055bfdc296088a5a1196897ccff825c390ed730dc63caab8a89d186ea03b0",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "3³ means 3 × 3 × 3, which is 27; the exponent counts the factors.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_order_operations_0001",
+    "status": "approved",
+    "sha256": "39e4b7c5585dd613d81733f960910e5e1f6c3a7a19ce6d728282e531839c3c8b",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Multiplication comes first: 3 × 4 = 12. Then add 2.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_parentheses_0001",
+    "status": "approved",
+    "sha256": "c2170e3918bcfc8b0d4a5cdd12f8ae48c35cc81e46e8d6746e704fba26b86c04",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Evaluate the parentheses first: 2 + 3 = 5. Then multiply 5 by 4.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_equation_sign_0001",
+    "status": "approved",
+    "sha256": "2802e9ae33e837ecfe7c08918c198fa38655cfebc80955b9f0ecbd3ce5a16c2e",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "An equation states that two expressions are equal and contains an equals sign.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_exponent_order_0001",
+    "status": "approved",
+    "sha256": "c241910e1cdf4964a5ee39a64ff2531219ca3b862e49aea8805cf4af191832f6",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Evaluate the exponent first: 3² = 9. Then multiply 9 by 2.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_division_left_0001",
+    "status": "approved",
+    "sha256": "6e0ab66bb34424ef4f5ed168b402a4a401f1dc07179fe560522c01555b2d5e77",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Multiplication and division have equal priority and are evaluated from left to right.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_nested_operations_0001",
+    "status": "approved",
+    "sha256": "a781d932a24b8a443c1ef1aad0d144c579087096d72cc4ab4cb269cabd7c1afc",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "The parentheses give 6 and the exponent gives 25. Then 25 − 3 × 6 = 7.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  },
+  {
+    "id": "mathematics_substitution_0001",
+    "status": "approved",
+    "sha256": "a7c92f3686e93df8a08d4a0baf34ba0f3975a0e4643169a1f9fd7150dca8b6cd",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra",
+        "claim": "Substitute 3: 2 × 3² + 1 = 2 × 9 + 1 = 19.",
+        "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
+      }
+    ]
+  }
+]

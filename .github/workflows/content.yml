@@ -17,7 +17,12 @@ jobs:
           python3 tools/content.py build --base-url https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist
           git diff --exit-code -- dist catalog/revisions.json
       - run: python3 tools/content.py report > quality-report.json
+      - name: Rate-limited source link report
+        run: python3 tools/check_links.py
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: content-quality
-          path: quality-report.json
+          path: |
+            quality-report.json
+            link-report.json

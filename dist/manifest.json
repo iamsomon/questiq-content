@@ -1,6 +1,167 @@
 {
   "schemaVersion": 1,
-  "version": "54875d29dba5accc761dccfa871418e978dac48ca9ab1f877ae0c5ee97b03749",
+  "version": "1b6309cc4dbcc3f8d83164b897677226a599e861bac758f7df5ea7aab49736ee",
   "revokedIds": [],
-  "packs": []
+  "packs": [
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "astronomy",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
+      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
+      "size": 17493
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "astronomy",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
+      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
+      "size": 17493
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "biology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/biology-45be24200e36246c.json",
+      "sha256": "45be24200e36246c21dea486181ee91ad6fc60e8ad46184725327f12ad421133",
+      "size": 9097
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "biology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/biology-45be24200e36246c.json",
+      "sha256": "45be24200e36246c21dea486181ee91ad6fc60e8ad46184725327f12ad421133",
+      "size": 9097
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "capitals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/capitals-f5c3408712cd8b1e.json",
+      "sha256": "f5c3408712cd8b1e78287c9079954cdc619fc09083b0be4a040eab98739b2b89",
+      "size": 8094
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "capitals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/capitals-f5c3408712cd8b1e.json",
+      "sha256": "f5c3408712cd8b1e78287c9079954cdc619fc09083b0be4a040eab98739b2b89",
+      "size": 8094
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "chemistry",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
+      "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
+      "size": 8033
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "chemistry",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
+      "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
+      "size": 8033
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "cities",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
+      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
+      "size": 8490
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "cities",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
+      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
+      "size": 8490
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "countries",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
+      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
+      "size": 9073
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "countries",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
+      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
+      "size": 9073
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "flags",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/flags-8210a7b5e6d5de9d.json",
+      "sha256": "8210a7b5e6d5de9d7b3a4e7750f60894d83f1087e6af4a1ccb107d7a5e70df2e",
+      "size": 9108
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "flags",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/flags-8210a7b5e6d5de9d.json",
+      "sha256": "8210a7b5e6d5de9d7b3a4e7750f60894d83f1087e6af4a1ccb107d7a5e70df2e",
+      "size": 9108
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "mathematics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
+      "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
+      "size": 7798
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "mathematics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
+      "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
+      "size": 7798
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "natural_wonders",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
+      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
+      "size": 9301
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "natural_wonders",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
+      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
+      "size": 9301
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "physics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
+      "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
+      "size": 8756
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "physics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
+      "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
+      "size": 8756
+    }
+  ]
 }

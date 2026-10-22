@@ -1,0 +1,182 @@
+[
+  {
+    "id": "natural_wonders_grand_canyon_river_0001",
+    "status": "approved",
+    "sha256": "da50ccfc31119f2a34290d7639b9b5cea09acae3eae007b83312919c8fd9df8c",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/75/",
+        "claim": "Which river carved the Grand Canyon in Arizona? Correct: Colorado. The Grand Canyon was shaped by erosion associated with the Colorado River.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_barrier_reef_builders_0001",
+    "status": "approved",
+    "sha256": "4547619808da3668376245ace53ec62f48e9e2ebd01a68bf891c517a821b4f1d",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/154/",
+        "claim": "Which animals build the reef structures of the Great Barrier Reef? Correct: Coral polyps. The Great Barrier Reef off north-eastern Australia consists of many coral reefs.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_baikal_deepest_0001",
+    "status": "approved",
+    "sha256": "28e8a53feb391043ab0356cdf7b880a18a7a392847225469e108996b2b84034d",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/754/",
+        "claim": "Which lake is the deepest in the world? Correct: Lake Baikal. Lake Baikal in Siberia is also among the oldest lakes on Earth.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_galapagos_ocean_0001",
+    "status": "approved",
+    "sha256": "b6cbe5c2eca7cce39ad888b9bffe1e5df4429655b79f2231bb3ee8fbc85efb58",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1/",
+        "claim": "In which ocean are the Galápagos Islands? Correct: Pacific. Isolation of these volcanic Pacific islands helped distinctive local species evolve.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_victoria_river_0001",
+    "status": "approved",
+    "sha256": "bffc2217fe5a390f580bd206616832119a409a486d7924caecc34831ed0f18be",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/509/",
+        "claim": "On which river are Victoria Falls? Correct: Zambezi. The Zambezi drops into deep basalt gorges at Victoria Falls.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_komodo_animals_0001",
+    "status": "approved",
+    "sha256": "145b4792dfe0272cc2b985657b224b7f53193c2e753a5b434bddb912db480e1e",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/609/",
+        "claim": "Which large reptiles gave Komodo National Park its name? Correct: Komodo dragons. Komodo dragons are giant lizards protected in this island national park.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_serengeti_migration_0001",
+    "status": "approved",
+    "sha256": "1f5de18577e1338cfdfbb969ba8ea60fdf597e27884753e08116a5a41aaaf46a",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/156/",
+        "claim": "Which annual natural event is the Serengeti especially known for? Correct: Migration of hoofed mammals. Large herds of wildebeest, zebras and gazelles move across the savannah.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_iguazu_border_0001",
+    "status": "approved",
+    "sha256": "f6effb41932930c28d3b3e74a97546d59319c407810f6cecf2f8924617ef9088",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/303/",
+        "claim": "On the border of which countries are Iguazu Falls? Correct: Argentina and Brazil. The waterfall complex straddles the Argentina–Brazil border.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_huangshan_rock_0001",
+    "status": "approved",
+    "sha256": "454efc0b72a70c6228deefbfd87f9e2de4e9b91f97f5b4cd32479d49c3953b16",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/547/",
+        "claim": "Which rock forms the famous peaks of Huangshan? Correct: Granite. Granite peaks are a defining feature of Huangshan’s landscape in China.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  },
+  {
+    "id": "natural_wonders_cappadocia_erosion_0001",
+    "status": "approved",
+    "sha256": "85eb487474f20ddf6e947398b2575b24358e0e492b63f446a4bdf9e6efee53a6",
+    "author": "Codex authored geography introduction",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN copy pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/357/",
+        "claim": "Which process sculpted Göreme’s distinctive landscape in Cappadocia? Correct: Erosion. Erosion shaped Göreme’s landscape, where people carved sanctuaries and dwellings into rock.",
+        "location": "UNESCO World Heritage property Description: named river, ecosystem, geology or protected species"
+      }
+    ]
+  }
+]

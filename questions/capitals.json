@@ -1,0 +1,442 @@
+[
+  {
+    "id": "capitals_france_0001",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Франции?",
+        "explanation": "Париж расположен в Северном полушарии, почти на 49° северной широты."
+      },
+      "en": {
+        "question": "Which city is the capital of France?",
+        "explanation": "Paris lies in the Northern Hemisphere, at nearly 49° north."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o1",
+        "ru": "Лион",
+        "en": "Lyon"
+      },
+      {
+        "id": "o2",
+        "ru": "Марсель",
+        "en": "Marseille"
+      },
+      {
+        "id": "o3",
+        "ru": "Ницца",
+        "en": "Nice"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_germany_0001",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Германии?",
+        "explanation": "Берлин расположен севернее Парижа: его широта составляет около 52,5° с. ш."
+      },
+      "en": {
+        "question": "Which city is the capital of Germany?",
+        "explanation": "Berlin lies farther north than Paris, at about 52.5° north."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берлин",
+        "en": "Berlin"
+      },
+      {
+        "id": "o1",
+        "ru": "Мюнхен",
+        "en": "Munich"
+      },
+      {
+        "id": "o2",
+        "ru": "Гамбург",
+        "en": "Hamburg"
+      },
+      {
+        "id": "o3",
+        "ru": "Кёльн",
+        "en": "Cologne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_japan_0001",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Японии?",
+        "explanation": "Токио находится к северу от экватора и к востоку от Гринвичского меридиана."
+      },
+      "en": {
+        "question": "Which city is the capital of Japan?",
+        "explanation": "Tokyo lies north of the equator and east of the Greenwich meridian."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Токио",
+        "en": "Tokyo"
+      },
+      {
+        "id": "o1",
+        "ru": "Осака",
+        "en": "Osaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Киото",
+        "en": "Kyoto"
+      },
+      {
+        "id": "o3",
+        "ru": "Нагоя",
+        "en": "Nagoya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_egypt_0001",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Египта?",
+        "explanation": "Каир расположен примерно на 30° северной широты."
+      },
+      "en": {
+        "question": "Which city is the capital of Egypt?",
+        "explanation": "Cairo is located at about 30° north."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Каир",
+        "en": "Cairo"
+      },
+      {
+        "id": "o1",
+        "ru": "Александрия",
+        "en": "Alexandria"
+      },
+      {
+        "id": "o2",
+        "ru": "Луксор",
+        "en": "Luxor"
+      },
+      {
+        "id": "o3",
+        "ru": "Асуан",
+        "en": "Aswan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_australia_0001",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Австралии?",
+        "explanation": "Канберра расположена в Южном полушарии, примерно на 35° южной широты."
+      },
+      "en": {
+        "question": "Which city is the capital of Australia?",
+        "explanation": "Canberra lies in the Southern Hemisphere, at about 35° south."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канберра",
+        "en": "Canberra"
+      },
+      {
+        "id": "o1",
+        "ru": "Сидней",
+        "en": "Sydney"
+      },
+      {
+        "id": "o2",
+        "ru": "Мельбурн",
+        "en": "Melbourne"
+      },
+      {
+        "id": "o3",
+        "ru": "Перт",
+        "en": "Perth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_canada_0001",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Канады?",
+        "explanation": "Оттава находится немного севернее 45-й параллели Северного полушария."
+      },
+      "en": {
+        "question": "Which city is the capital of Canada?",
+        "explanation": "Ottawa lies just north of the Northern Hemisphere’s 45th parallel."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оттава",
+        "en": "Ottawa"
+      },
+      {
+        "id": "o1",
+        "ru": "Торонто",
+        "en": "Toronto"
+      },
+      {
+        "id": "o2",
+        "ru": "Ванкувер",
+        "en": "Vancouver"
+      },
+      {
+        "id": "o3",
+        "ru": "Монреаль",
+        "en": "Montreal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_turkiye_0001",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Турции?",
+        "explanation": "Анкара расположена восточнее Гринвичского меридиана и севернее экватора."
+      },
+      "en": {
+        "question": "Which city is the capital of Türkiye?",
+        "explanation": "Ankara lies east of the Greenwich meridian and north of the equator."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Анкара",
+        "en": "Ankara"
+      },
+      {
+        "id": "o1",
+        "ru": "Стамбул",
+        "en": "Istanbul"
+      },
+      {
+        "id": "o2",
+        "ru": "Измир",
+        "en": "Izmir"
+      },
+      {
+        "id": "o3",
+        "ru": "Анталья",
+        "en": "Antalya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_india_0001",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Индии?",
+        "explanation": "Нью-Дели расположен к северу от экватора, примерно на 29° северной широты."
+      },
+      "en": {
+        "question": "Which city is the capital of India?",
+        "explanation": "New Delhi lies north of the equator, at about 29° north."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нью-Дели",
+        "en": "New Delhi"
+      },
+      {
+        "id": "o1",
+        "ru": "Мумбаи",
+        "en": "Mumbai"
+      },
+      {
+        "id": "o2",
+        "ru": "Калькутта",
+        "en": "Kolkata"
+      },
+      {
+        "id": "o3",
+        "ru": "Ченнаи",
+        "en": "Chennai"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_kenya_0001",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Кении?",
+        "explanation": "Найроби находится чуть южнее экватора, примерно на 1,3° южной широты."
+      },
+      "en": {
+        "question": "Which city is the capital of Kenya?",
+        "explanation": "Nairobi lies just south of the equator, at about 1.3° south."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Найроби",
+        "en": "Nairobi"
+      },
+      {
+        "id": "o1",
+        "ru": "Момбаса",
+        "en": "Mombasa"
+      },
+      {
+        "id": "o2",
+        "ru": "Кисуму",
+        "en": "Kisumu"
+      },
+      {
+        "id": "o3",
+        "ru": "Накуру",
+        "en": "Nakuru"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_brazil_0001",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Бразилии?",
+        "explanation": "Бразилиа расположена в Южном и Западном полушариях."
+      },
+      "en": {
+        "question": "Which city is the capital of Brazil?",
+        "explanation": "Brasília lies in both the Southern and Western Hemispheres."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилиа",
+        "en": "Brasília"
+      },
+      {
+        "id": "o1",
+        "ru": "Рио-де-Жанейро",
+        "en": "Rio de Janeiro"
+      },
+      {
+        "id": "o2",
+        "ru": "Сан-Паулу",
+        "en": "São Paulo"
+      },
+      {
+        "id": "o3",
+        "ru": "Салвадор",
+        "en": "Salvador"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.worldbank.org/v2/country?format=json&per_page=400"
+    ],
+    "image": null
+  }
+]

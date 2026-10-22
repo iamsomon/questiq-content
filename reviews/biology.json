@@ -1,0 +1,182 @@
+[
+  {
+    "id": "biology_protein_blocks_0001",
+    "status": "approved",
+    "sha256": "82881081d16db0fda922a5d5abce452ef128bfeb64f5203596a5e018a4d5546f",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "Proteins are chains of amino acids that fold into a particular structure.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_hereditary_molecule_0001",
+    "status": "approved",
+    "sha256": "070a27f1a3ebceb280f31d2fd5760ee3edd5f78802cc338cc1765dab776a9564",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "Chromosomes contain DNA, whose base sequence encodes genetic information.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_nucleus_location_0001",
+    "status": "approved",
+    "sha256": "4c46d271ede196222660040381553ec9f8a98347fc4c8eaff3774b4540cfac02",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "A membrane separates the nucleus from the cytoplasm; the nucleus contains the cell’s chromosomes.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_mitosis_0001",
+    "status": "approved",
+    "sha256": "c22bb0beeb6922df608960161c2fa4af2843f181f57058e70b15d31c5e4f7e7b",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "During mitosis, chromosome copies are distributed between two new nuclei.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_ribosome_role_0001",
+    "status": "approved",
+    "sha256": "d0ff9b3ae049ab7f91132abea8d7cbdc5945815945acd3e2874833dd1a52a658",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "A ribosome reads messenger RNA and assembles an amino acid chain.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_dna_replication_0001",
+    "status": "approved",
+    "sha256": "e9ed3c8d3eaaa6c58c89e9d22066359e0751043d764f0c06e73ca22354c7761a",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "Replication copies DNA so daughter cells receive genetic information.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_adenine_partner_0001",
+    "status": "approved",
+    "sha256": "0534e11f633f5cb5100777128d6e5d552f4a1a4326954e60d3f7c98156819032",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "In DNA, adenine pairs with thymine, while guanine pairs with cytosine.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_mutation_definition_0001",
+    "status": "approved",
+    "sha256": "10365ba353d1b090289c99d146eeec44f27c62aae976114b8afba21f68390018",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "A mutation changes a DNA sequence and does not necessarily cause disease.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_rna_base_0001",
+    "status": "approved",
+    "sha256": "e1e1c80f03e3f5d77a9c3be1a71078a0db75fae493270acde2bfe718c0dc1dab",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "RNA uses uracil, and its nucleotides contain ribose rather than deoxyribose.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  },
+  {
+    "id": "biology_nucleolus_role_0001",
+    "status": "approved",
+    "sha256": "a57e6748e293e154c52cb69328dd54e36fdd79c367de0b042b4a161cf5f4afec",
+    "author": "Codex authored science introduction",
+    "factReviewer": "Codex separate source and calculation pass",
+    "languageReviewer": "Codex separate RU/EN and distractor pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary",
+        "claim": "The nucleolus produces ribosomal RNA and assembles ribosome components.",
+        "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
+      }
+    ]
+  }
+]
