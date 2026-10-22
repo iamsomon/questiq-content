@@ -1,0 +1,192 @@
+[
+  {
+    "id": "human_body_iris_0001",
+    "status": "approved",
+    "sha256": "5ada457c2197f48a3ec7fd67df6877d2d89050fccfd7bb0a45cf59fa47f0e601",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work",
+        "location": "Iris: colored part controlling pupil size",
+        "claim": "What is the colored part of the eye surrounding the pupil called? Answer: Iris. It changes pupil size and helps regulate how much light enters the eye. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "NEI identifies the iris as colored tissue controlling pupil size. Cornea is transparent, retina light-sensitive tissue and lens focusing tissue; all are eye structures. Source's Russian 'ирис/ученик' and unrelated cochlea distractor are corrected."
+  },
+  {
+    "id": "human_body_paired_kidneys_0001",
+    "status": "approved",
+    "sha256": "a82d0f1cec570164af3494d3f5d9877b1da40b01ccec7b91bd49ff7e6c631e3a",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+        "location": "Opening: two bean-shaped organs, one on each side of spine",
+        "claim": "Which of these organs is paired in typical human anatomy? Answer: Kidney. Two kidneys lie on opposite sides of the spine and filter blood. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "NIDDK explicitly describes two kidneys on opposite sides of the spine. Liver, stomach and gallbladder are unpaired in typical anatomy. 'Typical/обычное строение' avoids claiming everyone has two kidneys; source's mistranslated 'пару А' removed."
+  },
+  {
+    "id": "human_body_bladder_0001",
+    "status": "approved",
+    "sha256": "cabe3cbd47c725f9f1b29c5d45ce8d22d1450b9ccdc2306a86ba2339f98723c3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+        "location": "Opening: ureters carry urine to bladder for storage",
+        "claim": "In which organ is urine stored before leaving the body? Answer: Urinary bladder. Urine reaches this organ from the kidneys through the ureters."
+      }
+    ],
+    "reviewNotes": "NIDDK states urine flows via ureters into the bladder for storage. Gallbladder stores bile; stomach and pancreas do not store urine. RU uses мочеточники, not мочеиспускательный канал, matching EN ureters."
+  },
+  {
+    "id": "human_body_heart_chambers_0001",
+    "status": "approved",
+    "sha256": "590c1af56af9a4016cf6a87fcba744ca2530779152d5e0a159c700aec2db60c4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/heart/anatomy",
+        "location": "Heart chambers: two atria and two ventricles",
+        "claim": "How many chambers does a normal human heart have? Answer: 4. The two upper chambers are atria and the two lower chambers are ventricles."
+      }
+    ],
+    "reviewNotes": "NHLBI anatomy explicitly gives four chambers: two atria and two ventricles. Other counts are incompatible with specified normal human anatomy. Numerals identical in both locales; no physiological diagnosis or treatment advice."
+  },
+  {
+    "id": "human_body_alveoli_0001",
+    "status": "approved",
+    "sha256": "aa551d10b30ef174141aecc430d1ae2709c8a5d4e20ecb05131b91a5f1c72fd9",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/lungs/respiratory-system",
+        "location": "Air fills your lung’s air sacs; Oxygen flows into your blood",
+        "claim": "What are the tiny air sacs in the lungs where gas exchange occurs called? Answer: Alveoli. Across their walls, oxygen enters the blood and carbon dioxide moves from blood into air. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "NHLBI confirms air sacs at bronchiole ends and oxygen/CO2 exchange with surrounding capillaries. Changed original to ask for air sacs: capillaries also participate in exchange but are blood vessels, so cannot be second correct answer. Bronchi and bronchioles are tubes."
+  },
+  {
+    "id": "human_body_cochlea_0001",
+    "status": "approved",
+    "sha256": "b47cb730a44872cce31e17db794427564c044bc6278dce5d9b7815f1bb6dae8e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+        "location": "Steps 3–4: snail-shaped cochlea, fluid and hair cells",
+        "claim": "Which fluid-filled structure in the inner ear has a spiral shape? Answer: Cochlea. It contains sensory hair cells that help detect sound."
+      }
+    ],
+    "reviewNotes": "NIDCD steps 3–4 explicitly identify the fluid-filled snail-shaped cochlea and sensory hair cells. Eardrum, auditory tube and pinna are neither this inner-ear structure nor spiral fluid-filled sensory organ. Russian улитка and English cochlea refer to the same structure."
+  },
+  {
+    "id": "human_body_bile_producer_0001",
+    "status": "approved",
+    "sha256": "2f2289e8d7682676fb7dd8888baa343ee5ab5ec8c0988c8c146eb8fa0f941910",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+        "location": "How does my digestive system break food into small parts? Liver and Gallbladder",
+        "claim": "Which organ produces bile? Answer: Liver. The gallbladder stores it; bile helps digest fats."
+      }
+    ],
+    "reviewNotes": "NIDDK distinguishes liver producing bile from gallbladder storing it. Pancreas supplies pancreatic juice and stomach gastric juice. Both languages ask production, not storage; explanation keeps the distinction and fat digestion."
+  },
+  {
+    "id": "human_body_olfactory_location_0001",
+    "status": "approved",
+    "sha256": "d961abc18b66d8685cfdea46e120fa54e7a56152bae8412d89bec9694783f22a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nidcd.nih.gov/health/smell-disorders",
+        "location": "How does your sense of smell work? Small patch high inside nose",
+        "claim": "Where are the sensory neurons that detect odors located? Answer: High inside the nasal cavity. Odor molecules stimulate their receptors, and signals then travel to the brain."
+      }
+    ],
+    "reviewNotes": "NIDCD locates olfactory sensory neurons in a small patch high inside the nose, with receptors sending signals to the brain. Other locations are not this odor receptor epithelium; question says odor-detecting neurons rather than all sensory neurons."
+  },
+  {
+    "id": "human_body_ileum_0001",
+    "status": "approved",
+    "sha256": "df642fa54a368f748317ee8b0ca2f4280b8fc72a36f39b93a85287262053e16f",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+        "location": "What is the digestive system? Three parts of small intestine versus large intestine",
+        "claim": "Which of these structures is part of the small intestine? Answer: Ileum. It is the final section, following the duodenum and jejunum. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "NIDDK lists duodenum, jejunum and ileum as small intestine, versus cecum and colon as large intestine. Ileum last section confirmed. No alternate correct structure among distractors; Russian подвздошная is distinct from подвздошная кость/ilium."
+  },
+  {
+    "id": "human_body_nephron_0001",
+    "status": "approved",
+    "sha256": "3e270c8efb1c84ad207bfc4653efa7042f847808bb09a24e445e55e0f7572bc0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+        "location": "How do my kidneys work? Nephron includes glomerulus and tubule",
+        "claim": "What is the kidney unit in which blood is filtered and urine is formed called? Answer: Nephron. It includes a glomerulus and a tubule that returns needed substances to the blood."
+      }
+    ],
+    "reviewNotes": "NIDDK explicitly names nephron as kidney filtering unit including glomerulus and tubule returning needed substances. Neuron, alveolus and osteon are structural units of other tissues. Both locales ask a unit, not the whole kidney or a single glomerulus."
+  }
+]

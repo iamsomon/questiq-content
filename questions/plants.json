@@ -1,0 +1,456 @@
+[
+  {
+    "id": "plants_chloroplast_0001",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой органелле растительной клетки происходит фотосинтез?",
+        "explanation": "Хлорофилл в мембранах тилакоидов поглощает свет. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "In which plant-cell organelle does photosynthesis take place?",
+        "explanation": "Chlorophyll in thylakoid membranes absorbs light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хлоропласт",
+        "en": "Chloroplast"
+      },
+      {
+        "id": "o1",
+        "ru": "Митохондрия",
+        "en": "Mitochondrion"
+      },
+      {
+        "id": "o2",
+        "ru": "Ядро",
+        "en": "Nucleus"
+      },
+      {
+        "id": "o3",
+        "ru": "Аппарат Гольджи",
+        "en": "Golgi apparatus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-chloroplast-0001",
+      "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_cactus_spines_0001",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие органы у кактуса опунции превратились в колючки?",
+        "explanation": "Такая форма уменьшает потерю воды; фотосинтез идёт в зелёных стеблях."
+      },
+      "en": {
+        "question": "Which organs became spines in the prickly pear cactus?",
+        "explanation": "This shape reduces water loss; photosynthesis takes place in green stems."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Листья",
+        "en": "Leaves"
+      },
+      {
+        "id": "o1",
+        "ru": "Корни",
+        "en": "Roots"
+      },
+      {
+        "id": "o2",
+        "ru": "Лепестки",
+        "en": "Petals"
+      },
+      {
+        "id": "o3",
+        "ru": "Тычинки",
+        "en": "Stamens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_coast_redwood_0001",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вид известен самыми высокими современными деревьями?",
+        "explanation": "Научное название вида — Sequoia sempervirens; речь идёт о высоте, а не объёме ствола. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "Which species is known for the tallest living trees?",
+        "explanation": "The species is Sequoia sempervirens; height is distinct from trunk volume. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Секвойя вечнозелёная",
+        "en": "Coast redwood"
+      },
+      {
+        "id": "o1",
+        "ru": "Секвойядендрон гигантский",
+        "en": "Giant sequoia"
+      },
+      {
+        "id": "o2",
+        "ru": "Ель ситхинская",
+        "en": "Sitka spruce"
+      },
+      {
+        "id": "o3",
+        "ru": "Псевдотсуга Мензиса",
+        "en": "Douglas fir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-coast-redwood-0001",
+      "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_flytrap_leaves_0001",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган венериной мухоловки образует захлопывающуюся ловушку?",
+        "explanation": "Чувствительные волоски внутри ловушки реагируют на прикосновения добычи."
+      },
+      "en": {
+        "question": "Which organ of a Venus flytrap forms its snapping trap?",
+        "explanation": "Sensitive hairs inside the trap respond to contact with prey."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лист",
+        "en": "Leaf"
+      },
+      {
+        "id": "o1",
+        "ru": "Корень",
+        "en": "Root"
+      },
+      {
+        "id": "o2",
+        "ru": "Цветок",
+        "en": "Flower"
+      },
+      {
+        "id": "o3",
+        "ru": "Плод",
+        "en": "Fruit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.kew.org/read-and-watch/carnivorous-plants"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_guard_cells_0001",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие клетки регулируют открытие и закрытие устьица листа?",
+        "explanation": "Изменяя форму, пара этих клеток регулирует газообмен и потерю водяного пара. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "Which cells regulate the opening and closing of a leaf stoma?",
+        "explanation": "By changing shape, a pair of these cells regulates gas exchange and water-vapor loss. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Замыкающие клетки",
+        "en": "Guard cells"
+      },
+      {
+        "id": "o1",
+        "ru": "Корневые волоски",
+        "en": "Root hair cells"
+      },
+      {
+        "id": "o2",
+        "ru": "Ситовидные элементы",
+        "en": "Sieve elements"
+      },
+      {
+        "id": "o3",
+        "ru": "Клетки пробки",
+        "en": "Cork cells"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-guard-cells-0001",
+      "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_transpiration_0001",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется потеря растением воды в виде пара?",
+        "explanation": "Испарение воды с поверхности листьев помогает создавать тягу в ксилеме. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "What is the loss of water from a plant as vapor called?",
+        "explanation": "Evaporation at leaf surfaces helps create tension in the xylem. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Транспирация",
+        "en": "Transpiration"
+      },
+      {
+        "id": "o1",
+        "ru": "Конденсация",
+        "en": "Condensation"
+      },
+      {
+        "id": "o2",
+        "ru": "Ферментация",
+        "en": "Fermentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Кристаллизация",
+        "en": "Crystallization"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-transpiration-0001",
+      "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_negative_gravitropism_0001",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется рост побега против направления силы тяжести?",
+        "explanation": "Реакцию на силу тяжести отличают от фототропизма — реакции на направление света. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "What is shoot growth against the direction of gravity called?",
+        "explanation": "The response to gravity differs from phototropism, a response to light direction. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отрицательный гравитропизм",
+        "en": "Negative gravitropism"
+      },
+      {
+        "id": "o1",
+        "ru": "Положительный гравитропизм",
+        "en": "Positive gravitropism"
+      },
+      {
+        "id": "o2",
+        "ru": "Положительный фототропизм",
+        "en": "Positive phototropism"
+      },
+      {
+        "id": "o3",
+        "ru": "Отрицательный фототропизм",
+        "en": "Negative phototropism"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-negative-gravitropism-0001",
+      "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_ethylene_0001",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой газообразный растительный гормон способствует созреванию плодов?",
+        "explanation": "Выделяемый одним созревающим плодом газ может ускорять созревание соседних."
+      },
+      "en": {
+        "question": "Which gaseous plant hormone promotes fruit ripening?",
+        "explanation": "Gas released by one ripening fruit can accelerate the ripening of nearby fruit."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Этилен",
+        "en": "Ethylene"
+      },
+      {
+        "id": "o1",
+        "ru": "Ауксин",
+        "en": "Auxin"
+      },
+      {
+        "id": "o2",
+        "ru": "Цитокинин",
+        "en": "Cytokinin"
+      },
+      {
+        "id": "o3",
+        "ru": "Абсцизовая кислота",
+        "en": "Abscisic acid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_phytochrome_0001",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой растительный фоторецептор переключается между формами Pr и Pfr?",
+        "explanation": "Эти формы различаются поглощением красного и дальнего красного света. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "Which plant photoreceptor switches between Pr and Pfr forms?",
+        "explanation": "The forms differ in their absorption of red and far-red light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фитохром",
+        "en": "Phytochrome"
+      },
+      {
+        "id": "o1",
+        "ru": "Фототропин",
+        "en": "Phototropin"
+      },
+      {
+        "id": "o2",
+        "ru": "Криптохром",
+        "en": "Cryptochrome"
+      },
+      {
+        "id": "o3",
+        "ru": "Хлорофилл a",
+        "en": "Chlorophyll a"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-phytochrome-0001",
+      "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_oxygen_source_0001",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из какого вещества образуется выделяемый растением O₂ при фотосинтезе?",
+        "explanation": "В световых реакциях вода расщепляется; для одной молекулы O₂ нужны две молекулы воды. Адаптация: Global-MMLU, Cohere Labs и др., Apache 2.0."
+      },
+      "en": {
+        "question": "Which substance supplies the O₂ released by a plant during photosynthesis?",
+        "explanation": "Water is split in the light reactions; two water molecules supply one O₂ molecule. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вода (H₂O)",
+        "en": "Water (H₂O)"
+      },
+      {
+        "id": "o1",
+        "ru": "Углекислый газ (CO₂)",
+        "en": "Carbon dioxide (CO₂)"
+      },
+      {
+        "id": "o2",
+        "ru": "Пероксид водорода (H₂O₂)",
+        "en": "Hydrogen peroxide (H₂O₂)"
+      },
+      {
+        "id": "o3",
+        "ru": "Угарный газ (CO)",
+        "en": "Carbon monoxide (CO)"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-oxygen-source-0001",
+      "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+      "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+    ],
+    "image": null
+  }
+]

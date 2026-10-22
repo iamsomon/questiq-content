@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mythology_olympus_0001",
+    "status": "approved",
+    "sha256": "598a630322bf8e1d9e3a3b4522889d43406b8798ef72a8e6c7f4c37d06c2fcbf",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Pantheon paragraph: Mount Olympus, home of gods",
+        "claim": "On which mountain did the Olympian gods live according to ancient Greek myths? Answer: Olympus. This was the gods’ mythical home; Zeus headed the Olympian pantheon. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Met essay identifies Mount Olympus as mythic home and Zeus foremost. Replaced source's planet and hall options with mountains, so all options fit question class. Scope explicitly ancient Greek myth, not a factual claim that gods live there."
+  },
+  {
+    "id": "mythology_poseidon_0001",
+    "status": "approved",
+    "sha256": "951e516d3fcd933161b46eeeeb1668203974cb44f90bcf8de009b3df34e3d6e8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Zeus paragraph: brothers Hades and Poseidon, their domains",
+        "claim": "Who was the god of the sea in ancient Greek mythology? Answer: Poseidon. In the myths, his brothers Zeus and Hades ruled the sky and Underworld."
+      }
+    ],
+    "reviewNotes": "Met essay assigns sea to Poseidon, Underworld to Hades, sky to Zeus. Ares, Hephaistos and Apollo are other Greek gods with different domains in the same source. Neutral myth attribution and brothers in explanation match both locales."
+  },
+  {
+    "id": "mythology_artemis_0001",
+    "status": "approved",
+    "sha256": "6f1df4f88749d2b80c86e417c665aa1f7399399cd1de29b505c9eacce93cc77b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Apollo paragraph: Artemis, hunting, bow and quiver",
+        "claim": "Which ancient Greek goddess was a patron of hunting? Answer: Artemis. She was often shown with a bow and quiver; Apollo was her twin brother."
+      }
+    ],
+    "reviewNotes": "Met essay names Artemis patroness of hunting, Apollo's twin, bow and quiver. Aphrodite, Hera and Demeter are distinct goddesses; question is standard hunting patronage rather than any myth involving an animal. RU/EN names are conventional."
+  },
+  {
+    "id": "mythology_mjolnir_0001",
+    "status": "approved",
+    "sha256": "90101d1016c6849a6bcc0995b56fe0fa935955cb6c10e470b2b7391ae730a479",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://historiska.se/en/explore-history/history-hub/thor-god-of-thunder/",
+        "location": "Mjölnir – Thor’s mighty hammer",
+        "claim": "What kind of weapon was Mjölnir in Norse mythology? Answer: Hammer. It belonged to Thor, who fought giants."
+      }
+    ],
+    "reviewNotes": "Swedish History Museum names Mjölnir a hammer belonging to Thor in his struggle with giants. Spear, sword and bow are different weapon types. Question is about Norse mythology, not Marvel; transliteration Мьёльнир checked."
+  },
+  {
+    "id": "mythology_hermes_0001",
+    "status": "approved",
+    "sha256": "038d7d0cbd3206ebd1696001948c36bfc94d3bdcd5ce2ce52cfa5c1fb0c9738e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Apollo paragraph: Hermes, winged sandals and herald’s staff",
+        "claim": "Which god served as a messenger in ancient Greek myths? Answer: Hermes. His attributes include winged sandals and a herald’s staff."
+      }
+    ],
+    "reviewNotes": "Met explicitly identifies Hermes messenger with winged sandals and herald staff. Ares, Poseidon and Hephaistos are not the messenger deity among these options. Both question and explanation preserve this specific role without claiming there are no other messengers in Greek myth."
+  },
+  {
+    "id": "mythology_dionysos_0001",
+    "status": "approved",
+    "sha256": "be5c00fdb9d0ade27c09c4eae77377ccff801a5cf3cac4d9847f733a8af2a3e4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Other important deities: Dionysos, wine and theater",
+        "claim": "Which ancient Greek god is associated with wine and theater? Answer: Dionysos. His worship connected winemaking, festivals and theatrical performances."
+      }
+    ],
+    "reviewNotes": "Met names Dionysos god of wine and theater. Neither Ares, Hades nor Hermes has this combined patronage. Wording uses 'associated' rather than an absolute exclusivity assertion; Dionysos/Дионис names match."
+  },
+  {
+    "id": "mythology_odin_ravens_0001",
+    "status": "approved",
+    "sha256": "28dcc9ae808cae95c16bc1cd83caa4a57d0d3b55fcb5e8a577b2b1ee52e72ee0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://historiska.se/utforska-historien/kunskapsbank/oden-gudarnas-ledare/",
+        "location": "Oden har flera djur: two ravens Hugin och Munin report what they saw",
+        "claim": "What birds were Huginn and Muninn, Odin’s companions? Answer: Ravens. In the myths, they flew around the world and reported what they saw to Odin."
+      }
+    ],
+    "reviewNotes": "Swedish History Museum's Swedish text says 'två korpar, Hugin och Munin' fly around and report observations. Korpar is ravens, not eagles/falcons/owls. Avoided source's confusing name-etymology gloss; Russian вороны is the intended raven plural, not вороны/crows as a separate option."
+  },
+  {
+    "id": "mythology_anubis_0001",
+    "status": "approved",
+    "sha256": "8ceefa27a9c0fb67eaecb1f9d7e87474ea55667533987fb4026b5fe774500125",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://egyptianmuseum.org/deities-Anubis",
+        "location": "Anubis: black head of a jackal; cemeteries and embalming",
+        "claim": "With the head of which animal was the ancient Egyptian Anubis commonly depicted? Answer: Jackal. He was associated with embalming and the protection of graves."
+      }
+    ],
+    "reviewNotes": "Egyptian Museum identifies black jackal head and cemeteries/embalming roles. Cat, falcon and crocodile correspond to other iconographic traditions, not this depiction. 'Commonly/обычно' allows varied forms and avoids absolute depiction claims."
+  },
+  {
+    "id": "mythology_athena_bird_0001",
+    "status": "approved",
+    "sha256": "9ee6376068cefc8ad5ffcf2ebc4abc9a0b2de730754d0a39074160f42765a0fd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "location": "Wise Athena paragraph: owl, olive tree, weaving and carpentry",
+        "claim": "Which bird was sacred to Athena in ancient Greek tradition? Answer: Owl. The goddess was also associated with the olive tree, weaving and crafts."
+      }
+    ],
+    "reviewNotes": "Met lists owl and olive sacred to Athena along with weaving/carpentry. Peacock, dove and swan are distinct symbolic birds, not the conventional Athena bird. Both localizations specify ancient Greek tradition and avoid broad zoological claims."
+  },
+  {
+    "id": "mythology_thoth_0001",
+    "status": "approved",
+    "sha256": "f6bfecd1cac6bd1794eecdede507dc1ba5adfed343a4918e80d0033242630aae",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://egyptianmuseum.org/deities-thoth",
+        "location": "Thoth: patron of scribes; ibis or baboon; art of writing",
+        "claim": "Which ancient Egyptian god was a patron of scribes? Answer: Thoth. He was depicted as an ibis or baboon and associated with writing and knowledge."
+      }
+    ],
+    "reviewNotes": "Egyptian Museum calls Thoth patron of scribes, associated with writing and knowledge, ibis or baboon depiction. Sobek, Seth and Anubis are different deities. RU Тот corresponds to Thoth and писцы to scribes; no claim of a single invariant creation myth."
+  }
+]

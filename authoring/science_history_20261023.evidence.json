@@ -1,0 +1,282 @@
+{
+  "plants_chloroplast_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+    "location": "Main Structures: chloroplasts and thylakoid membranes",
+    "claim": "In which plant-cell organelle does photosynthesis take place? Answer: Chloroplast. Chlorophyll in thylakoid membranes absorbs light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/222",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_cactus_spines_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+    "location": "Figure 30.35(a): modified leaves and photosynthetic stem",
+    "claim": "Which organs became spines in the prickly pear cactus? Answer: Leaves. This shape reduces water loss; photosynthesis takes place in green stems.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "plants_coast_redwood_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+    "location": "Figure 30.31: coastal redwoods, tallest trees",
+    "claim": "Which species is known for the tallest living trees? Answer: Coast redwood. The species is Sequoia sempervirens; height is distinct from trunk volume. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/371",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_flytrap_leaves_0001": {
+    "url": "https://www.kew.org/read-and-watch/carnivorous-plants",
+    "location": "Venus flytraps: modified trap leaves; trigger hairs; lobes of a leaf",
+    "claim": "Which organ of a Venus flytrap forms its snapping trap? Answer: Leaf. Sensitive hairs inside the trap respond to contact with prey.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "plants_guard_cells_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+    "location": "Control of Transpiration: two guard cells surrounding stomata",
+    "claim": "Which cells regulate the opening and closing of a leaf stoma? Answer: Guard cells. By changing shape, a pair of these cells regulates gas exchange and water-vapor loss. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/537",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_transpiration_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+    "location": "Movement of Water and Minerals in the Xylem: transpiration",
+    "claim": "What is the loss of water from a plant as vapor called? Answer: Transpiration. Evaporation at leaf surfaces helps create tension in the xylem. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/702",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_negative_gravitropism_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+    "location": "Plant Responses to Gravity: upward shoot growth",
+    "claim": "What is shoot growth against the direction of gravity called? Answer: Negative gravitropism. The response to gravity differs from phototropism, a response to light direction. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "high_school_biology/test/175",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_ethylene_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+    "location": "Ethylene: volatile hormone; paper bag and neighboring fruit",
+    "claim": "Which gaseous plant hormone promotes fruit ripening? Answer: Ethylene. Gas released by one ripening fruit can accelerate the ripening of nearby fruit.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "plants_phytochrome_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+    "location": "The Phytochrome System: red/far-red photointerconvertible forms",
+    "claim": "Which plant photoreceptor switches between Pr and Pfr forms? Answer: Phytochrome. The forms differ in their absorption of red and far-red light. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "high_school_biology/test/176",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "plants_oxygen_source_0001": {
+    "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+    "location": "Photosystem II: water splitting and diatomic oxygen",
+    "claim": "Which substance supplies the O₂ released by a plant during photosynthesis? Answer: Water (H₂O). Water is split in the light reactions; two water molecules supply one O₂ molecule. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "high_school_biology/test/275",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "human_body_iris_0001": {
+    "url": "https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work",
+    "location": "Iris: colored part controlling pupil size",
+    "claim": "What is the colored part of the eye surrounding the pupil called? Answer: Iris. It changes pupil size and helps regulate how much light enters the eye. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/314",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "human_body_paired_kidneys_0001": {
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "location": "Opening: two bean-shaped organs, one on each side of spine",
+    "claim": "Which of these organs is paired in typical human anatomy? Answer: Kidney. Two kidneys lie on opposite sides of the spine and filter blood. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/569",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "human_body_bladder_0001": {
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "location": "Opening: ureters carry urine to bladder for storage",
+    "claim": "In which organ is urine stored before leaving the body? Answer: Urinary bladder. Urine reaches this organ from the kidneys through the ureters.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "human_body_heart_chambers_0001": {
+    "url": "https://www.nhlbi.nih.gov/health/heart/anatomy",
+    "location": "Heart chambers: two atria and two ventricles",
+    "claim": "How many chambers does a normal human heart have? Answer: 4. The two upper chambers are atria and the two lower chambers are ventricles.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "human_body_alveoli_0001": {
+    "url": "https://www.nhlbi.nih.gov/health/lungs/respiratory-system",
+    "location": "Air fills your lung’s air sacs; Oxygen flows into your blood",
+    "claim": "What are the tiny air sacs in the lungs where gas exchange occurs called? Answer: Alveoli. Across their walls, oxygen enters the blood and carbon dioxide moves from blood into air. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "anatomy/test/113",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "human_body_cochlea_0001": {
+    "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+    "location": "Steps 3–4: snail-shaped cochlea, fluid and hair cells",
+    "claim": "Which fluid-filled structure in the inner ear has a spiral shape? Answer: Cochlea. It contains sensory hair cells that help detect sound.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "human_body_bile_producer_0001": {
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "location": "How does my digestive system break food into small parts? Liver and Gallbladder",
+    "claim": "Which organ produces bile? Answer: Liver. The gallbladder stores it; bile helps digest fats.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "human_body_olfactory_location_0001": {
+    "url": "https://www.nidcd.nih.gov/health/smell-disorders",
+    "location": "How does your sense of smell work? Small patch high inside nose",
+    "claim": "Where are the sensory neurons that detect odors located? Answer: High inside the nasal cavity. Odor molecules stimulate their receptors, and signals then travel to the brain.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "human_body_ileum_0001": {
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+    "location": "What is the digestive system? Three parts of small intestine versus large intestine",
+    "claim": "Which of these structures is part of the small intestine? Answer: Ileum. It is the final section, following the duodenum and jejunum. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "anatomy/test/120",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "human_body_nephron_0001": {
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "location": "How do my kidneys work? Nephron includes glomerulus and tubule",
+    "claim": "What is the kidney unit in which blood is filtered and urine is formed called? Answer: Nephron. It includes a glomerulus and a tubule that returns needed substances to the blood.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_olympus_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Pantheon paragraph: Mount Olympus, home of gods",
+    "claim": "On which mountain did the Olympian gods live according to ancient Greek myths? Answer: Olympus. This was the gods’ mythical home; Zeus headed the Olympian pantheon. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "miscellaneous/test/651",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "mythology_poseidon_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Zeus paragraph: brothers Hades and Poseidon, their domains",
+    "claim": "Who was the god of the sea in ancient Greek mythology? Answer: Poseidon. In the myths, his brothers Zeus and Hades ruled the sky and Underworld.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_artemis_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Apollo paragraph: Artemis, hunting, bow and quiver",
+    "claim": "Which ancient Greek goddess was a patron of hunting? Answer: Artemis. She was often shown with a bow and quiver; Apollo was her twin brother.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_mjolnir_0001": {
+    "url": "https://historiska.se/en/explore-history/history-hub/thor-god-of-thunder/",
+    "location": "Mjölnir – Thor’s mighty hammer",
+    "claim": "What kind of weapon was Mjölnir in Norse mythology? Answer: Hammer. It belonged to Thor, who fought giants.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_hermes_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Apollo paragraph: Hermes, winged sandals and herald’s staff",
+    "claim": "Which god served as a messenger in ancient Greek myths? Answer: Hermes. His attributes include winged sandals and a herald’s staff.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_dionysos_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Other important deities: Dionysos, wine and theater",
+    "claim": "Which ancient Greek god is associated with wine and theater? Answer: Dionysos. His worship connected winemaking, festivals and theatrical performances.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_odin_ravens_0001": {
+    "url": "https://historiska.se/utforska-historien/kunskapsbank/oden-gudarnas-ledare/",
+    "location": "Oden har flera djur: two ravens Hugin och Munin report what they saw",
+    "claim": "What birds were Huginn and Muninn, Odin’s companions? Answer: Ravens. In the myths, they flew around the world and reported what they saw to Odin.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_anubis_0001": {
+    "url": "https://egyptianmuseum.org/deities-Anubis",
+    "location": "Anubis: black head of a jackal; cemeteries and embalming",
+    "claim": "With the head of which animal was the ancient Egyptian Anubis commonly depicted? Answer: Jackal. He was associated with embalming and the protection of graves.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_athena_bird_0001": {
+    "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+    "location": "Wise Athena paragraph: owl, olive tree, weaving and carpentry",
+    "claim": "Which bird was sacred to Athena in ancient Greek tradition? Answer: Owl. The goddess was also associated with the olive tree, weaving and crafts.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "mythology_thoth_0001": {
+    "url": "https://egyptianmuseum.org/deities-thoth",
+    "location": "Thoth: patron of scribes; ibis or baboon; art of writing",
+    "claim": "Which ancient Egyptian god was a patron of scribes? Answer: Thoth. He was depicted as an ibis or baboon and associated with writing and knowledge.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_cuneiform_0001": {
+    "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+    "location": "Clay medium; wedge-shaped signs; Latin cuneus",
+    "claim": "Which ancient writing system takes its name from wedge-shaped signs? Answer: Cuneiform. In Mesopotamia, such signs were impressed into soft clay with a reed or wooden stylus. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "prehistory/test/17",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "ancient_world_khufu_0001": {
+    "url": "https://egyptianmuseumcairo.eg/historical-timeline/",
+    "location": "Old Kingdom: Snefru, founder of Fourth Dynasty; Khufu and Great Pyramid",
+    "claim": "For which pharaoh was the Great Pyramid at Giza built? Answer: Khufu (Cheops). It belongs to the Old Kingdom and the Fourth Dynasty.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_vesuvius_0001": {
+    "url": "https://whc.unesco.org/en/list/829/",
+    "location": "Description: Vesuvius, AD 79, Pompei and Herculaneum; day/month deliberately omitted",
+    "claim": "Which volcano buried Pompeii under volcanic material in AD 79? Answer: Vesuvius. The eruption also struck Herculaneum; buried buildings preserved evidence of Roman life.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_papyrus_0001": {
+    "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+    "location": "Writing surface: strips of pith from stalk, layered and dried under pressure",
+    "claim": "What did ancient Egyptians use to make papyrus writing sheets? Answer: The pith of plant stalks. Strips were laid in layers and dried under pressure.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_upper_egypt_0001": {
+    "url": "https://egyptianmuseumcairo.eg/historical-timeline/",
+    "location": "Predynastic – Early Dynastic Period: Delta (Lower Egypt), south (Upper Egypt)",
+    "claim": "In which direction from Lower Egypt was Upper Egypt located? Answer: South. Lower Egypt corresponded to the Nile Delta, while Upper Egypt lay in the southern valley. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0.",
+    "sourceId": "prehistory/test/212",
+    "authorship": "Global-MMLU adaptation"
+  },
+  "ancient_world_qin_emperor_0001": {
+    "url": "https://whc.unesco.org/en/list/441/",
+    "location": "Description and criterion (vi): Qin Shi Huang, first unification in 221 BCE",
+    "claim": "The famous Terracotta Army belongs to the burial complex of which ruler? Answer: Qin Shi Huang. He was the first emperor of the unified Qin state; unification is dated to 221 BC.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_parthenon_deity_0001": {
+    "url": "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery",
+    "location": "The Parthenon: temple of Athena Parthenos; gold-and-ivory statue by Pheidias",
+    "claim": "To which goddess was the Parthenon in Athens dedicated? Answer: Athena. The main chamber held Pheidias’s gold-and-ivory statue of the goddess.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_rosetta_scholar_0001": {
+    "url": "https://rosetta-stone.dh.uni-leipzig.de/rs/the-rosetta-stone/index.html",
+    "location": "The Rosetta Stone: Champollion deciphered hieroglyphs in 1822",
+    "claim": "Who deciphered Egyptian hieroglyphs in 1822 using the Rosetta Stone? Answer: Jean-François Champollion. Comparing the inscriptions on the stone provided a key to reading ancient Egyptian texts.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_colosseum_opening_0001": {
+    "url": "https://colosseo.it/en/event/blood-and-the-arena/",
+    "location": "Opening paragraph: Titus, June–September 80 AD, 100 days; read via direct HTTPS after web timeout",
+    "claim": "In which year AD did Titus hold games to mark the opening of the Colosseum? Answer: 80. The celebrations marking the amphitheater’s opening lasted one hundred days.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  },
+  "ancient_world_terracotta_discovery_0001": {
+    "url": "https://whc.unesco.org/en/list/441/",
+    "location": "Description: archaeological discovery in 1974; statues, horses and chariots",
+    "claim": "In which year was the Terracotta Army at the first Qin emperor’s mausoleum discovered? Answer: 1974. The sculptures depict warriors, horses and chariots in the burial complex.",
+    "sourceId": null,
+    "authorship": "Original bilingual wording"
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ancient_world_cuneiform_0001",
+    "status": "approved",
+    "sha256": "c7825aac32621609ff75caef629b69f5614d39534cb7e70a93d59cea6b043450",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+        "location": "Clay medium; wedge-shaped signs; Latin cuneus",
+        "claim": "Which ancient writing system takes its name from wedge-shaped signs? Answer: Cuneiform. In Mesopotamia, such signs were impressed into soft clay with a reed or wooden stylus. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Met derives cuneiform from Latin wedge and describes reed/wood stylus signs in clay. Replaced source's disputed absolute 'earliest writing' assertion with a specific etymological fact. Hieroglyphs, Phoenician script and Linear B have different names; no mixed script/medium options."
+  },
+  {
+    "id": "ancient_world_khufu_0001",
+    "status": "approved",
+    "sha256": "a5be0d190b6e0bc1f41cdc27c9a0cf615b7acf0ab21d4eb00106f6912138f377",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://egyptianmuseumcairo.eg/historical-timeline/",
+        "location": "Old Kingdom: Snefru, founder of Fourth Dynasty; Khufu and Great Pyramid",
+        "claim": "For which pharaoh was the Great Pyramid at Giza built? Answer: Khufu (Cheops). It belongs to the Old Kingdom and the Fourth Dynasty."
+      }
+    ],
+    "reviewNotes": "Cairo museum Old Kingdom section assigns Great Pyramid to Khufu, in Fourth Dynasty context. Djoser is linked to Saqqara and Snefru to Meidum/Dahshur; Ramesses II is a later pharaoh. Khufu/Cheops aliases share one option; RU/EN refer to the same Great Pyramid."
+  },
+  {
+    "id": "ancient_world_vesuvius_0001",
+    "status": "approved",
+    "sha256": "749d6ffb822fae63908abd99e676637e810a66a3c24cf0178200ed0b68438d59",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/829/",
+        "location": "Description: Vesuvius, AD 79, Pompei and Herculaneum; day/month deliberately omitted",
+        "claim": "Which volcano buried Pompeii under volcanic material in AD 79? Answer: Vesuvius. The eruption also struck Herculaneum; buried buildings preserved evidence of Roman life."
+      }
+    ],
+    "reviewNotes": "UNESCO confirms Vesuvius, Pompeii/Herculaneum, AD 79. Omitted contested day and month from the older page. Etna, Stromboli and Vulcano are different volcanoes. Explanation is an original factual summary, not copied UNESCO description."
+  },
+  {
+    "id": "ancient_world_papyrus_0001",
+    "status": "approved",
+    "sha256": "6dc866a27896131e02bdd9fd594748820a234692db545094afe41bf7e3f190ea",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+        "location": "Writing surface: strips of pith from stalk, layered and dried under pressure",
+        "claim": "What did ancient Egyptians use to make papyrus writing sheets? Answer: The pith of plant stalks. Strips were laid in layers and dried under pressure."
+      }
+    ],
+    "reviewNotes": "Met describes papyrus from layered stalk pith dried under pressure. Skin is parchment, clay tablets and metal plates different writing media. All options answer 'made from what'; RU/EN preserve material rather than claiming papyrus is modern wood-pulp paper."
+  },
+  {
+    "id": "ancient_world_upper_egypt_0001",
+    "status": "approved",
+    "sha256": "f2e4c29c9fb5d56c902990772251381ac3d8b2f778860e4fb8ce9cf65037c945",
+    "author": "Codex selected Global-MMLU adaptation",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://egyptianmuseumcairo.eg/historical-timeline/",
+        "location": "Predynastic – Early Dynastic Period: Delta (Lower Egypt), south (Upper Egypt)",
+        "claim": "In which direction from Lower Egypt was Upper Egypt located? Answer: South. Lower Egypt corresponded to the Nile Delta, while Upper Egypt lay in the southern valley. Adaptation: Global-MMLU, Cohere Labs et al., Apache 2.0."
+      }
+    ],
+    "reviewNotes": "Cairo museum explicitly places Lower Egypt in Delta and Upper Egypt in south. Compass distractors distinct; no inversion from English blank to misleading Russian noun fragment. Both languages ask relative location, not altitude."
+  },
+  {
+    "id": "ancient_world_qin_emperor_0001",
+    "status": "approved",
+    "sha256": "1e05a26053591fe08943ff86a30a2ab2db3dc2e17fd21f86bb2b9b1aaf931a5c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/441/",
+        "location": "Description and criterion (vi): Qin Shi Huang, first unification in 221 BCE",
+        "claim": "The famous Terracotta Army belongs to the burial complex of which ruler? Answer: Qin Shi Huang. He was the first emperor of the unified Qin state; unification is dated to 221 BC."
+      }
+    ],
+    "reviewNotes": "UNESCO description and criterion (vi) identify Qin Shi Huang's mausoleum/army and unification 221 BCE. Other named emperors belong to Han, Tang and Ming, not Qin. RU Цинь not Цин/Qing; both locales specify burial complex."
+  },
+  {
+    "id": "ancient_world_parthenon_deity_0001",
+    "status": "approved",
+    "sha256": "21019c7334e617a3290df87ec19d2b6ebc42079e4267ef3d7f712f7d78b44f6f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery",
+        "location": "The Parthenon: temple of Athena Parthenos; gold-and-ivory statue by Pheidias",
+        "claim": "To which goddess was the Parthenon in Athens dedicated? Answer: Athena. The main chamber held Pheidias’s gold-and-ivory statue of the goddess."
+      }
+    ],
+    "reviewNotes": "Acropolis Museum identifies temple of Athena Parthenos and Pheidias's gold-and-ivory statue. Hera, Artemis and Aphrodite are different goddesses. Distinct from existing question asking city location and new owl attribute question; asks dedication of a specific monument."
+  },
+  {
+    "id": "ancient_world_rosetta_scholar_0001",
+    "status": "approved",
+    "sha256": "bc6e27a875007812ad24c1d4557258419b39c6bf7ec556a17a06720b326af92a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://rosetta-stone.dh.uni-leipzig.de/rs/the-rosetta-stone/index.html",
+        "location": "The Rosetta Stone: Champollion deciphered hieroglyphs in 1822",
+        "claim": "Who deciphered Egyptian hieroglyphs in 1822 using the Rosetta Stone? Answer: Jean-François Champollion. Comparing the inscriptions on the stone provided a key to reading ancient Egyptian texts."
+      }
+    ],
+    "reviewNotes": "Leipzig Rosetta Stone project names J.-F. Champollion and 1822. Carter, Schliemann and Evans worked on different archaeological subjects. Does not adopt page's imprecise 'trilingual' wording; comparing inscriptions is the supported explanation."
+  },
+  {
+    "id": "ancient_world_colosseum_opening_0001",
+    "status": "approved",
+    "sha256": "9c08063bb456bdf3df616820cfe6e37c30ca05b1a61913e9e9691b3f5db97aa6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://colosseo.it/en/event/blood-and-the-arena/",
+        "location": "Opening paragraph: Titus, June–September 80 AD, 100 days; read via direct HTTPS after web timeout",
+        "claim": "In which year AD did Titus hold games to mark the opening of the Colosseum? Answer: 80. The celebrations marking the amphitheater’s opening lasted one hundred days."
+      }
+    ],
+    "reviewNotes": "Read complete opening paragraph via direct HTTPS when browser extractor timed out: Titus, 80 AD, 100 days. 44, 117 and 212 are not the opening games year. RU/EN explicitly AD/н. э.; imperial reign and festival scope fixed."
+  },
+  {
+    "id": "ancient_world_terracotta_discovery_0001",
+    "status": "approved",
+    "sha256": "1841f10452e709e81b8dd1c624d140512daa342d722f281b3d8bf8ec91ad0c79",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/441/",
+        "location": "Description: archaeological discovery in 1974; statues, horses and chariots",
+        "claim": "In which year was the Terracotta Army at the first Qin emperor’s mausoleum discovered? Answer: 1974. The sculptures depict warriors, horses and chariots in the burial complex."
+      }
+    ],
+    "reviewNotes": "UNESCO gives discovery 1974 and describes warriors, horses and chariots. Other dates do not answer archaeological discovery: 1987 was inscription, not excavation discovery. Scope is army discovery, not when the already visible tomb mound became known. Both languages match."
+  }
+]

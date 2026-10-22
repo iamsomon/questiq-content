@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 270,
+  "approvedQuestions": 310,
   "draftQuestions": 0,
-  "playableCategories": 26,
+  "playableCategories": 30,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 9730,
+  "remainingQuestions": 9690,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -201,17 +201,21 @@
     },
     {
       "id": "ancient_world",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -336,17 +340,21 @@
     },
     {
       "id": "mythology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -370,17 +378,21 @@
     },
     {
       "id": "plants",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -767,17 +779,21 @@
     },
     {
       "id": "human_body",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
