@@ -1,0 +1,302 @@
+[
+  {
+    "id": "physics",
+    "group": "science",
+    "ru": "Физика",
+    "en": "Physics"
+  },
+  {
+    "id": "chemistry",
+    "group": "science",
+    "ru": "Химия",
+    "en": "Chemistry"
+  },
+  {
+    "id": "biology",
+    "group": "science",
+    "ru": "Биология",
+    "en": "Biology"
+  },
+  {
+    "id": "mathematics",
+    "group": "science",
+    "ru": "Математика",
+    "en": "Mathematics"
+  },
+  {
+    "id": "astronomy",
+    "group": "science",
+    "ru": "Астрономия",
+    "en": "Astronomy"
+  },
+  {
+    "id": "countries",
+    "group": "geography",
+    "ru": "Страны",
+    "en": "Countries"
+  },
+  {
+    "id": "capitals",
+    "group": "geography",
+    "ru": "Столицы",
+    "en": "Capitals"
+  },
+  {
+    "id": "flags",
+    "group": "geography",
+    "ru": "Флаги",
+    "en": "Flags"
+  },
+  {
+    "id": "cities",
+    "group": "geography",
+    "ru": "Города",
+    "en": "Cities"
+  },
+  {
+    "id": "natural_wonders",
+    "group": "geography",
+    "ru": "Чудеса природы",
+    "en": "Natural wonders"
+  },
+  {
+    "id": "ancient_world",
+    "group": "history",
+    "ru": "Древний мир",
+    "en": "Ancient world"
+  },
+  {
+    "id": "middle_ages",
+    "group": "history",
+    "ru": "Средневековье",
+    "en": "Middle Ages"
+  },
+  {
+    "id": "modern_history",
+    "group": "history",
+    "ru": "Новая и новейшая история",
+    "en": "Modern history"
+  },
+  {
+    "id": "civilizations",
+    "group": "history",
+    "ru": "Цивилизации",
+    "en": "Civilizations"
+  },
+  {
+    "id": "historical_figures",
+    "group": "history",
+    "ru": "Исторические личности",
+    "en": "Historical figures"
+  },
+  {
+    "id": "islam",
+    "group": "religion_culture",
+    "ru": "Ислам",
+    "en": "Islam"
+  },
+  {
+    "id": "christianity",
+    "group": "religion_culture",
+    "ru": "Христианство",
+    "en": "Christianity"
+  },
+  {
+    "id": "buddhism",
+    "group": "religion_culture",
+    "ru": "Буддизм",
+    "en": "Buddhism"
+  },
+  {
+    "id": "world_religions",
+    "group": "religion_culture",
+    "ru": "Религии мира",
+    "en": "World religions"
+  },
+  {
+    "id": "mythology",
+    "group": "religion_culture",
+    "ru": "Мифология",
+    "en": "Mythology"
+  },
+  {
+    "id": "animals",
+    "group": "nature",
+    "ru": "Животные",
+    "en": "Animals"
+  },
+  {
+    "id": "plants",
+    "group": "nature",
+    "ru": "Растения",
+    "en": "Plants"
+  },
+  {
+    "id": "oceans",
+    "group": "nature",
+    "ru": "Океаны",
+    "en": "Oceans"
+  },
+  {
+    "id": "dinosaurs",
+    "group": "nature",
+    "ru": "Динозавры",
+    "en": "Dinosaurs"
+  },
+  {
+    "id": "ecology",
+    "group": "nature",
+    "ru": "Экология",
+    "en": "Ecology"
+  },
+  {
+    "id": "information_technology",
+    "group": "technology",
+    "ru": "Информационные технологии",
+    "en": "Information technology"
+  },
+  {
+    "id": "artificial_intelligence",
+    "group": "technology",
+    "ru": "Искусственный интеллект",
+    "en": "Artificial intelligence"
+  },
+  {
+    "id": "inventions",
+    "group": "technology",
+    "ru": "Изобретения",
+    "en": "Inventions"
+  },
+  {
+    "id": "internet",
+    "group": "technology",
+    "ru": "Интернет",
+    "en": "Internet"
+  },
+  {
+    "id": "space_technology",
+    "group": "technology",
+    "ru": "Космические технологии",
+    "en": "Space technology"
+  },
+  {
+    "id": "painting",
+    "group": "arts",
+    "ru": "Живопись",
+    "en": "Painting"
+  },
+  {
+    "id": "architecture",
+    "group": "arts",
+    "ru": "Архитектура",
+    "en": "Architecture"
+  },
+  {
+    "id": "literature",
+    "group": "arts",
+    "ru": "Литература",
+    "en": "Literature"
+  },
+  {
+    "id": "music",
+    "group": "arts",
+    "ru": "Музыка",
+    "en": "Music"
+  },
+  {
+    "id": "cinema",
+    "group": "arts",
+    "ru": "Кино",
+    "en": "Cinema"
+  },
+  {
+    "id": "football",
+    "group": "sports",
+    "ru": "Футбол",
+    "en": "Football"
+  },
+  {
+    "id": "basketball",
+    "group": "sports",
+    "ru": "Баскетбол",
+    "en": "Basketball"
+  },
+  {
+    "id": "olympics",
+    "group": "sports",
+    "ru": "Олимпийские игры",
+    "en": "Olympics"
+  },
+  {
+    "id": "tennis",
+    "group": "sports",
+    "ru": "Теннис",
+    "en": "Tennis"
+  },
+  {
+    "id": "sports_records",
+    "group": "sports",
+    "ru": "Спортивные рекорды",
+    "en": "Sports records"
+  },
+  {
+    "id": "food",
+    "group": "everyday",
+    "ru": "Еда",
+    "en": "Food"
+  },
+  {
+    "id": "health",
+    "group": "everyday",
+    "ru": "Здоровье",
+    "en": "Health"
+  },
+  {
+    "id": "cars",
+    "group": "everyday",
+    "ru": "Автомобили",
+    "en": "Cars"
+  },
+  {
+    "id": "economics",
+    "group": "everyday",
+    "ru": "Экономика",
+    "en": "Economics"
+  },
+  {
+    "id": "human_body",
+    "group": "everyday",
+    "ru": "Организм человека",
+    "en": "Human body"
+  },
+  {
+    "id": "video_games",
+    "group": "entertainment",
+    "ru": "Видеоигры",
+    "en": "Video games"
+  },
+  {
+    "id": "cartoons",
+    "group": "entertainment",
+    "ru": "Мультфильмы",
+    "en": "Cartoons"
+  },
+  {
+    "id": "television",
+    "group": "entertainment",
+    "ru": "Телевидение",
+    "en": "Television"
+  },
+  {
+    "id": "celebrities",
+    "group": "entertainment",
+    "ru": "Знаменитости",
+    "en": "Celebrities"
+  },
+  {
+    "id": "pop_culture",
+    "group": "entertainment",
+    "ru": "Поп-культура",
+    "en": "Pop culture"
+  }
+]

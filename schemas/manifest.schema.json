@@ -1,0 +1,13 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Questiq content manifest",
+  "type":"object",
+  "additionalProperties":false,
+  "required":["version","schemaVersion","packs"],
+  "properties":{
+    "version":{"type":"string","minLength":1,"maxLength":80},
+    "schemaVersion":{"const":1},
+    "revokedIds":{"type":"array","uniqueItems":true,"maxItems":10000,"items":{"type":"string","pattern":"^[a-z0-9_]{5,80}$"}},
+    "packs":{"type":"array","maxItems":100,"items":{"type":"object","additionalProperties":false,"required":["schemaVersion","locale","category","url","sha256","size"],"properties":{"schemaVersion":{"const":1},"locale":{"enum":["ru","en"]},"category":{"type":"string","pattern":"^[a-z_]+$"},"url":{"type":"string","pattern":"^https://","format":"uri"},"sha256":{"type":"string","pattern":"^[0-9a-f]{64}$"},"size":{"type":"integer","minimum":1,"maximum":2097152}}}}
+  }
+}

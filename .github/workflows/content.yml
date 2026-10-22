@@ -1,0 +1,23 @@
+name: Content quality
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python3 tools/content.py validate
+      - run: python3 -m unittest discover -s tests
+      - name: Verify reproducible published output
+        run: |
+          python3 tools/content.py build --base-url https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist
+          git diff --exit-code -- dist catalog/revisions.json
+      - run: python3 tools/content.py report > quality-report.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: content-quality
+          path: quality-report.json

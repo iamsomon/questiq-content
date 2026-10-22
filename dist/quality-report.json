@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "approvedQuestions": 0,
+  "draftQuestions": 20,
+  "playableCategories": 0,
+  "humanApprovedQuestions": 0,
+  "targetQuestions": 10000,
+  "revokedCount": 0,
+  "categories": [
+    {
+      "id": "physics",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "chemistry",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "biology",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "mathematics",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "astronomy",
+      "approved": 0,
+      "draft": 20,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "countries",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "capitals",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "flags",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "cities",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "natural_wonders",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "ancient_world",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "middle_ages",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "modern_history",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "civilizations",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "historical_figures",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "islam",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "christianity",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "buddhism",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "world_religions",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "mythology",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "animals",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "plants",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "oceans",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "dinosaurs",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "ecology",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "information_technology",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "artificial_intelligence",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "inventions",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "internet",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "space_technology",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "painting",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "architecture",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "literature",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "music",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "cinema",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "football",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "basketball",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "olympics",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "tennis",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "sports_records",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "food",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "health",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "cars",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "economics",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "human_body",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "video_games",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "cartoons",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "television",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "celebrities",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    },
+    {
+      "id": "pop_culture",
+      "approved": 0,
+      "draft": 0,
+      "humanApproved": 0,
+      "difficulty": {},
+      "playable": false
+    }
+  ]
+}

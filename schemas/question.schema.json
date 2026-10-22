@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/questiq/question.schema.json",
+  "title": "Questiq single-choice question",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "categoryId", "difficulty", "type", "localizations", "options", "correctOptionId", "sources", "image", "revision"],
+  "properties": {
+    "id": {"type":"string", "pattern":"^[a-z0-9_]{5,80}$"},
+    "categoryId": {"type":"string", "pattern":"^[a-z_]+$"},
+    "difficulty": {"enum":["easy","medium","hard"]},
+    "type": {"const":"single_choice"},
+    "revision": {"type":"integer", "minimum":1},
+    "localizations": {
+      "type":"object", "required":["ru","en"], "additionalProperties":false,
+      "properties": {
+        "ru":{"$ref":"#/$defs/locale"},
+        "en":{"$ref":"#/$defs/locale"}
+      }
+    },
+    "options": {"type":"array", "minItems":2, "maxItems":6, "items":{"type":"object", "additionalProperties":false, "required":["id","ru","en"], "properties":{"id":{"type":"string", "pattern":"^[a-z0-9_]+$"}, "ru":{"type":"string", "minLength":1}, "en":{"type":"string", "minLength":1}}}},
+    "correctOptionId":{"type":"string", "minLength":1},
+    "sources":{"type":"array", "minItems":1, "items":{"type":"string", "format":"uri"}},
+    "image":{"oneOf":[{"type":"null"},{"type":"object", "additionalProperties":false, "required":["url","required","fit","aspectRatio","attribution","license"], "properties":{"url":{"type":"string", "format":"uri", "pattern":"^https://"}, "required":{"type":"boolean"}, "fit":{"enum":["contain","cover"]}, "aspectRatio":{"type":"number", "exclusiveMinimum":0}, "attribution":{"type":"string", "minLength":1}, "license":{"type":"string", "minLength":1}}}]}
+  },
+  "$defs":{"locale":{"type":"object", "additionalProperties":false, "required":["question","explanation"], "properties":{"question":{"type":"string", "minLength":5}, "explanation":{"type":"string", "minLength":10}}}}
+}
