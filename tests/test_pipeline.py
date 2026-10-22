@@ -8,7 +8,7 @@ class PipelineTests(unittest.TestCase):
   for d in ['questions','drafts','reviews','catalog','dist']: (self.root/d).mkdir()
   shutil.copy2(c.ROOT/'catalog/categories.json',self.root/'catalog/categories.json')
   (self.root/'revoked.json').write_text('[]')
-  self.items=json.loads((c.ROOT/'drafts/astronomy-legacy.json').read_text())[:10]
+  self.items=json.loads((c.ROOT/'tests/fixtures/astronomy.json').read_text())[:10]
  def tearDown(self):self.tmp.cleanup()
  def save(self,stage='questions'):
   (self.root/stage/'astronomy.json').write_text(json.dumps(self.items))

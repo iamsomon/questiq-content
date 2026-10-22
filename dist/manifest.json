@@ -1,6 +1,23 @@
 {
   "schemaVersion": 1,
-  "version": "54875d29dba5accc761dccfa871418e978dac48ca9ab1f877ae0c5ee97b03749",
+  "version": "8e2bb2f729f26a93a8e885573834d912df08868f4817b46aad22af1689f5d007",
   "revokedIds": [],
-  "packs": []
+  "packs": [
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "astronomy",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
+      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
+      "size": 17493
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "astronomy",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
+      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
+      "size": 17493
+    }
+  ]
 }

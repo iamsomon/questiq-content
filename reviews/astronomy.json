@@ -1,0 +1,362 @@
+[
+  {
+    "id": "astronomy_nearest_0001",
+    "status": "approved",
+    "sha256": "3a5da36fc16a0ee93e032810dd6ba7f52459ed9000656c0968f873798e57b8be",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mercury/facts/",
+        "claim": "Mercury is the closest planet to the Sun. Its orbit lies inside the orbit of Venus.",
+        "location": "Mercury Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_smallest_0001",
+    "status": "approved",
+    "sha256": "fff1f933b549ddebf9f47a589193061b6535647754432a5792d2804205f3e957",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mercury/facts/",
+        "claim": "Mercury is the smallest of the eight planets. It is only slightly larger than the Moon.",
+        "location": "Mercury Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_hottest_0001",
+    "status": "approved",
+    "sha256": "89930e9939432a6eceadcbb893a5bc7725622cc0313a06fafd99bdf18716c4a3",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/venus/venus-facts/",
+        "claim": "The dense atmosphere of Venus traps heat through an intense greenhouse effect.",
+        "location": "Venus Facts: Introduction and Atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_venus_order_0001",
+    "status": "approved",
+    "sha256": "bc4b96e0fb45ea5fe1e50eea7cdd6567e31c68a6e7101f4e4ac09727d7128aed",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/venus/venus-facts/",
+        "claim": "Venus orbits the Sun between the orbits of Mercury and Earth.",
+        "location": "Venus Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_earth_order_0001",
+    "status": "approved",
+    "sha256": "56304413d2ac8d530fa8a3be06555a43e0609e9811427c7c8a3bc4363a91f722",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/earth/facts/",
+        "claim": "Earth is the third planet from the Sun. Its orbit lies between Venus and Mars.",
+        "location": "NASA About the Planets: Earth Facts"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_rocky_largest_0001",
+    "status": "approved",
+    "sha256": "b82ddfe7fee4b2bdf8219e214b3576881bf0bc5f8c31cb85309140adf6a891f5",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/earth/facts/",
+        "claim": "Earth is the largest of the four rocky planets: Mercury, Venus, Earth and Mars.",
+        "location": "Earth Facts: Introduction"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_red_planet_0001",
+    "status": "approved",
+    "sha256": "9a5dd55b0354d81c1b9e815b09b5a5ccdf75e19088ca604ce9a375558275c087",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mars/facts/",
+        "claim": "Iron minerals in Martian soil oxidize, giving the surface its reddish appearance.",
+        "location": "Mars Facts: Namesake and Surface"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_mars_order_0001",
+    "status": "approved",
+    "sha256": "0a522f0b4c06271d2200376be99b0ff8c7371fc0b1a6dc982655e066bb0d3adf",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mars/facts/",
+        "claim": "Mars is the fourth planet from the Sun, orbiting beyond Earth.",
+        "location": "Mars Facts: Formation"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_largest_0001",
+    "status": "approved",
+    "sha256": "ac2665f28bb72345dd639b89d76f33dec0d86cd8289deff601acc0c2db846b2d",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+        "claim": "Jupiter is the largest planet in the solar system, with a diameter far greater than Earth’s.",
+        "location": "Jupiter Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_shortest_day_0001",
+    "status": "approved",
+    "sha256": "c9aa9b089af0da581e106e6b1709e128b4f7c06ff0347568eb6fddc8d54a5440",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-facts/",
+        "claim": "Jupiter rotates once in about 9.9 hours, faster than the other planets.",
+        "location": "Jupiter Facts: Orbit and Rotation"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_saturn_order_0001",
+    "status": "approved",
+    "sha256": "b508cbecd3f670ae2ece833f6358b3518154597587ecf7eb2102824c91c7bfb6",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/saturn/facts/",
+        "claim": "Saturn lies between Jupiter and Uranus. It is the sixth planet from the Sun.",
+        "location": "Saturn Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_second_largest_0001",
+    "status": "approved",
+    "sha256": "1c6e099517d5a41c066932dcd1430422f5a99a35f768a4b08d31987ef52f3b4b",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/saturn/facts/",
+        "claim": "Saturn is the second-largest planet in the solar system and a gas giant.",
+        "location": "Saturn Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_sideways_0001",
+    "status": "approved",
+    "sha256": "311ce8e61d89854387df505775e2c21b5edf9d72b7e1df9d4a9487ba0145c8ea",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/uranus/facts/",
+        "claim": "Uranus has an extreme axial tilt, making it appear to roll along its orbit.",
+        "location": "Uranus Facts: Introduction"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_herschel_0001",
+    "status": "approved",
+    "sha256": "0b2baffaf3cc17c4cb79e0463bae504428287a575be7726646c02bc0faa9e86e",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/uranus/facts/",
+        "claim": "Uranus was the first planet discovered with a telescope, by William Herschel.",
+        "location": "Uranus Facts: Introduction"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_farthest_0001",
+    "status": "approved",
+    "sha256": "05b1ed44811c0b16547ccaec19ff0d97ab092b13604cdf95145dcfe6006009df",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/neptune/neptune-facts/",
+        "claim": "Neptune is the eighth and most distant of the eight planets.",
+        "location": "Neptune Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_predicted_0001",
+    "status": "approved",
+    "sha256": "818188e59831df61a70cef91f3e6806978a8ffde580284de9d31cdbc470c8a3e",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/neptune/neptune-facts/",
+        "claim": "Irregularities in Uranus’s orbit helped predict Neptune’s position before it was observed.",
+        "location": "Neptune Facts: Discovery and Namesake"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_sun_star_0001",
+    "status": "approved",
+    "sha256": "6d16e8f15cdd32a6fea2843b183cf265984a9217b6c45c46474c0594a6dbf95f",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "claim": "The Sun is the star at the centre of the solar system. The planets orbit it.",
+        "location": "Sun Facts: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_photosphere_0001",
+    "status": "approved",
+    "sha256": "7c8d9b59192fd5d63fbd3cc26011dfecaa2747203f54f1a8e4a878208cad5bb3",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "claim": "The visible layer of the Sun is the photosphere. The Sun has no solid surface.",
+        "location": "Sun Facts: Surface"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_planet_count_0001",
+    "status": "approved",
+    "sha256": "8d5045ef0fb036102e6f70ae46e4b1ed149d1dc005c242a43f0e32f56c796fa4",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/solar-system/planets/",
+        "claim": "The solar system has eight planets. Pluto is classified as a dwarf planet.",
+        "location": "About the Planets: opening summary"
+      }
+    ]
+  },
+  {
+    "id": "astronomy_inner_type_0001",
+    "status": "approved",
+    "sha256": "75beceac3e6de558c419dea591eda886ba16fee398f8d84d91f9dc109e48c789",
+    "author": "Codex initial Questiq authoring",
+    "factReviewer": "Codex source verification pass",
+    "languageReviewer": "Codex RU/EN comparison pass",
+    "checkedAt": "2026-10-22",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/solar-system/planets/",
+        "claim": "Mercury, Venus, Earth and Mars are terrestrial planets with rocky surfaces.",
+        "location": "About the Planets: Inner Planets"
+      }
+    ]
+  }
+]

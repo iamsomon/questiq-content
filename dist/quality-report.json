@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 0,
-  "draftQuestions": 20,
-  "playableCategories": 0,
+  "approvedQuestions": 20,
+  "draftQuestions": 0,
+  "playableCategories": 1,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
   "revokedCount": 0,
@@ -41,11 +41,15 @@
     },
     {
       "id": "astronomy",
-      "approved": 0,
-      "draft": 20,
+      "approved": 20,
+      "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 10,
+        "medium": 6,
+        "hard": 4
+      },
+      "playable": true
     },
     {
       "id": "countries",
