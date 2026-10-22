@@ -1,0 +1,182 @@
+[
+  {
+    "id": "internet_web_internet_0001",
+    "status": "approved",
+    "sha256": "b0e839934c79d1581917cb991c3383665a2755ab0d4f3874c99cc153abe3a204",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Internet and the web",
+        "claim": "The Internet connects networks; the Web uses that infrastructure to deliver pages.",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "id": "internet_router_0001",
+    "status": "approved",
+    "sha256": "a83b86fb5535bec711fcf3b2aeaf1003e1398d3c6c32c6f8a631aff2f4cec780",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "A network of networks",
+        "claim": "A router forwards a packet toward its destination using IP addressing.",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "id": "internet_domain_name_0001",
+    "status": "approved",
+    "sha256": "313bcad5388f613d56ba10f03c52a2e5365927e5a29fd9583a868001ce0c845e",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Domain names",
+        "claim": "A domain name gives people a memorable way to address an Internet resource.",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "id": "internet_isp_0001",
+    "status": "approved",
+    "sha256": "1d0ea0a05deff934d60aed4ecb533891fe6571ee22366a77faab5962f961294d",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "A network of networks",
+        "claim": "Providers connect their networks to others to carry Internet traffic.",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "id": "internet_http_roles_0001",
+    "status": "approved",
+    "sha256": "efe055386d469e89945e940bfc6de000834a6b889436c0d6f1a05ee1bce9a606",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Client: the user-agent",
+        "claim": "In HTTP, the client sends a request and the server returns a response.",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      }
+    ]
+  },
+  {
+    "id": "internet_http_status_0001",
+    "status": "approved",
+    "sha256": "4ff78fcc8c50a74707b8971911b13be02da9d1b93a7c9cbf318108ca8991f174",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "HTTP messages / Responses",
+        "claim": "The status code indicates success, redirection, or a request error.",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      }
+    ]
+  },
+  {
+    "id": "internet_http_body_0001",
+    "status": "approved",
+    "sha256": "cdb8b3e731929f92a42152a6fc78a9b19abef7433f05978e651addc3043e4c03",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Responses",
+        "claim": "Headers describe the response; its optional body carries the resource.",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      }
+    ]
+  },
+  {
+    "id": "internet_http_stateless_0001",
+    "status": "approved",
+    "sha256": "69bc41b3ddfee795cfc7b1f075d10c0e329295563d2a92b8b30d74c562e80658",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "HTTP is stateless, but not sessionless",
+        "claim": "Cookies can link requests into a session although HTTP itself is stateless.",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      }
+    ]
+  },
+  {
+    "id": "internet_proxy_role_0001",
+    "status": "approved",
+    "sha256": "acab4402415fb4c2ff8a92d2550f172c68df70f79e5ee8b451ebaea624695445",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Proxies",
+        "claim": "A proxy forwards messages and may also cache or filter them.",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      }
+    ]
+  },
+  {
+    "id": "internet_mac_ip_0001",
+    "status": "approved",
+    "sha256": "a0737183520f99665cd57b588745f331bff09bd838d6d0ecc49d9986dee8cb5a",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "A simple network",
+        "claim": "A switch associates network-interface MAC addresses with its ports.",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      }
+    ]
+  }
+]

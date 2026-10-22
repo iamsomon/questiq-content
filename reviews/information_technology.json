@@ -1,0 +1,182 @@
+[
+  {
+    "id": "information_technology_comment_marker_0001",
+    "status": "approved",
+    "sha256": "3025606e37c85b2293aba841d559c80accc8ab5b945840e484bfee2649423bb1",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "opening paragraph",
+        "claim": "A comment runs from the # character to the end of the physical line.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_string_type_0001",
+    "status": "approved",
+    "sha256": "317e233c3ce66d7a85dc92e5d2d9b8ea64bd63ca44eea2d028905cf8ca8bc30c",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Text",
+        "claim": "Strings store text and may use single or double quotation marks.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_list_brackets_0001",
+    "status": "approved",
+    "sha256": "273e00b10070a7a3c67dcd18389d966ff0a49a24bcee2a4b91fd2769a9906c59",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Lists",
+        "claim": "A list is an ordered sequence with comma-separated items.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_assignment_0001",
+    "status": "approved",
+    "sha256": "b2b2ecd87147b59dccbfa780f90b931d6de4bd041950d6b29bf60501e0f58350",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Numbers",
+        "claim": "A single = assigns a value, while == tests equality.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_zero_index_0001",
+    "status": "approved",
+    "sha256": "ac231cad4a56b874d9d639b24be8a57c0a8df4b7682431a68eceb49d48a4ea5f",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Text / indexing",
+        "claim": "Index 0 selects the first character; negative indices count from the end.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_power_operator_0001",
+    "status": "approved",
+    "sha256": "9313eb921bc2315b84a46a50dce50f0ea39ba7e42910fcd940412c59d72c3693",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Numbers",
+        "claim": "The ** operator denotes exponentiation; ^ performs bitwise exclusive OR.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_remainder_operator_0001",
+    "status": "approved",
+    "sha256": "cee728303fa7a0cbba88b7cff34098262bbdeed13f2fd9b79a6e015b222939e3",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Numbers",
+        "claim": "The % operator gives the remainder; // performs floor division.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_list_append_0001",
+    "status": "approved",
+    "sha256": "2322cf0c38218c59d2a4f9d87b48783814096a00816a9216869b2c71aa7d5d46",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Lists",
+        "claim": "The append method modifies a list by adding its argument at the end.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_string_immutable_0001",
+    "status": "approved",
+    "sha256": "015e1ccdd147347b81b1bbf3033be5c4d0a109a21d0f6dc1bc6bfeee04b8f79e",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Text / immutable strings",
+        "claim": "Strings are immutable; changing text requires creating a new string.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  },
+  {
+    "id": "information_technology_slice_end_0001",
+    "status": "approved",
+    "sha256": "2932a962747312e3bf1953312f0443a5d05d92d88fea46073c7831b6bea8677d",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Text / slicing",
+        "claim": "A slice includes its start and excludes its end, allowing adjacent slices to fit together.",
+        "url": "https://docs.python.org/3/tutorial/introduction.html"
+      }
+    ]
+  }
+]

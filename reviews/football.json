@@ -1,0 +1,182 @@
+[
+  {
+    "id": "football_eleven_players_0001",
+    "status": "approved",
+    "sha256": "5823c58556397599808c53bd6ed61db08492647fee6251095a339b8b956c4f23",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 3.1; IFAB 2026/27 checked 2026-10-23",
+        "claim": "One of those players must be the goalkeeper.",
+        "url": "https://www.theifab.com/laws/latest/the-players/"
+      }
+    ]
+  },
+  {
+    "id": "football_half_duration_0001",
+    "status": "approved",
+    "sha256": "a07ba3cf1858c44d4acec67fa072d3b5f5893508bc7ce00b036f902781c73a8e",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 7.1; IFAB 2026/27 checked 2026-10-23",
+        "claim": "Normal playing time has two equal halves, with allowance for time lost.",
+        "url": "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+      }
+    ]
+  },
+  {
+    "id": "football_ball_shape_0001",
+    "status": "approved",
+    "sha256": "225de076d0be0d034b5ac2458e18bd74c14c31770c649d3ece58b904b6705c0a",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 2.1; IFAB 2026/27 checked 2026-10-23",
+        "claim": "The laws specify the ball’s shape, material, circumference, mass, and pressure.",
+        "url": "https://www.theifab.com/laws/latest/the-ball/"
+      }
+    ]
+  },
+  {
+    "id": "football_touchline_0001",
+    "status": "approved",
+    "sha256": "478471ecfaf1fe30e52e04e1e3fcf361aa434cba2ae7c660dd2ef19578024f83",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 1.2–1.3; IFAB 2026/27 checked 2026-10-23",
+        "claim": "Touchlines are longer than goal lines and bound the sides of the pitch.",
+        "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+      }
+    ]
+  },
+  {
+    "id": "football_goal_width_0001",
+    "status": "approved",
+    "sha256": "2fdfc541ba30ffebc8415acc78b21905bc66597447cd43bcff302d4a2dff589f",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 1.10; IFAB 2026/27 checked 2026-10-23",
+        "claim": "Standard goals are 7.32 m wide and 2.44 m high to the underside of the crossbar.",
+        "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+      }
+    ]
+  },
+  {
+    "id": "football_penalty_mark_0001",
+    "status": "approved",
+    "sha256": "206da246a20e25794bfb176848e627ad1f5dedd5093d4e562d54003ee31eec59",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 1.6; IFAB 2026/27 checked 2026-10-23",
+        "claim": "The penalty mark is opposite the center of the goal within the penalty area.",
+        "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+      }
+    ]
+  },
+  {
+    "id": "football_halftime_limit_0001",
+    "status": "approved",
+    "sha256": "ab70a1f589bdb9d738960be35d01a08eb1853bce6e55cc032f17c3a4465aecce",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 7.2; IFAB 2026/27 checked 2026-10-23",
+        "claim": "Competition rules specify the interval; changing it requires the referee’s permission.",
+        "url": "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+      }
+    ]
+  },
+  {
+    "id": "football_entire_ball_out_0001",
+    "status": "approved",
+    "sha256": "5bf67411f4226e65f791721ad0d6a69c05f6d9778e2f8347b71befb0dd8a3bae",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 9.1; IFAB 2026/27 checked 2026-10-23",
+        "claim": "The whole ball must cross the line, whether on the ground or in the air.",
+        "url": "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/"
+      }
+    ]
+  },
+  {
+    "id": "football_corner_radius_0001",
+    "status": "approved",
+    "sha256": "07e1f5cbe7a5dfb0473c2b53864ff4c8f6991cc9b246690812e734f069c1dbaf",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 1.7; IFAB 2026/27 checked 2026-10-23",
+        "claim": "The corner area is a quarter-circle centered at the corner flagpost.",
+        "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+      }
+    ]
+  },
+  {
+    "id": "football_center_radius_0001",
+    "status": "approved",
+    "sha256": "97a75c24fbee86a8e46ac44250062ca7411d0421cd79e7df593d215c92657369",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Law 1.2; IFAB 2026/27 checked 2026-10-23",
+        "claim": "The circle is drawn around the center mark on the halfway line.",
+        "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+      }
+    ]
+  }
+]

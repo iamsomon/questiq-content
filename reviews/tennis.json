@@ -1,0 +1,182 @@
+[
+  {
+    "id": "tennis_love_score_0001",
+    "status": "approved",
+    "sha256": "c230b058f9a8a1b5889e70243e0b3acad88cc19d3665d068233cf1cb62e1cbee",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 5(a), printed p. 5",
+        "claim": "A standard game starts at zero, called love in tennis scoring.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_deuce_score_0001",
+    "status": "approved",
+    "sha256": "c34ed16f26aebab903549e8abffcbb3add15550ae645020cce7d30a028c248d1",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 5(a), p. 5",
+        "claim": "After deuce, two consecutive points are needed to win a standard game.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_diagonal_serve_0001",
+    "status": "approved",
+    "sha256": "d80e9ca52862c0bfe5900414eef5493d8f163525a973026925616260d11da991",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 17, p. 8",
+        "claim": "A serve crosses the net and lands in the diagonally opposite service court.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_line_touch_0001",
+    "status": "approved",
+    "sha256": "ae77bae77a4e14e8f8652209d3128167b3442e95e1ff8a9d1c97d32e3fc4c664",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 12, p. 7",
+        "claim": "A line is part of the court area it bounds.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_court_length_0001",
+    "status": "approved",
+    "sha256": "97a64235f57fc2478162ab7162d4fbc10e1b5356bf5bbeb223ca81e436e18808",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 1, p. 2",
+        "claim": "Singles and doubles courts have the same length but different widths.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_singles_width_0001",
+    "status": "approved",
+    "sha256": "5f4c672a0d4910adf9e9f57ef43ad1632cd2a660d9c728909087ab7b069062cf",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 1, p. 2",
+        "claim": "The doubles alleys increase the court width to 10.97 m.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_first_serve_side_0001",
+    "status": "approved",
+    "sha256": "e8a4afee1b488429855a5a72612578ea90c38c0de50a93eb3d3918e9ecd7ec23",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 17, p. 8",
+        "claim": "The server then alternates between the right and left halves.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_tiebreak_margin_0001",
+    "status": "approved",
+    "sha256": "d914ed609c4cbd9bf5077eb3e4262523bc3a9f51f94fb7c30e32aad5773d4360",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 5(b), p. 5",
+        "claim": "The tie-break continues until one player or team leads by two points.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_tiebreak_service_0001",
+    "status": "approved",
+    "sha256": "49d5c39c74a8a1bce918216ee51aa045d4c9e459745296f0e239aadf34e220c3",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 5(b), p. 5",
+        "claim": "The initial server serves one point; turns of two points follow.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tennis_change_ends_0001",
+    "status": "approved",
+    "sha256": "efe8891ac233c94a9ef0b4606c0e26e1cf8d0d2b9e3c39ce9fd32381327af09d",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Rule 10, p. 7",
+        "claim": "The standard rule changes ends every six points; approved alternative formats can differ.",
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      }
+    ]
+  }
+]

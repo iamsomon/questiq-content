@@ -1,0 +1,182 @@
+[
+  {
+    "id": "space_technology_first_moon_mission_0001",
+    "status": "approved",
+    "sha256": "9f22433059c877fb6838addcec9d0d5a57c21a32629c1951b356e0c0af771c0e",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "mission overview",
+        "claim": "Apollo 11 landed on the Moon in July 1969.",
+        "url": "https://www.nasa.gov/mission/apollo-11/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_armstrong_first_0001",
+    "status": "approved",
+    "sha256": "1f31a81b8742486d016816dba810f7279e86ff4521e1da7875ab07bf741e5d06",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Who Was Neil Armstrong?",
+        "claim": "Armstrong stepped out first, followed by Aldrin.",
+        "url": "https://www.nasa.gov/mission/apollo-11/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_eagle_module_0001",
+    "status": "approved",
+    "sha256": "967f92df57cdae64de46d69da9928e0acf67839ebd4a86a2387c07541440d8e0",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Eagle captions / rendezvous image",
+        "claim": "Eagle carried Armstrong and Aldrin to the Moon while Collins remained in orbit.",
+        "url": "https://www.nasa.gov/mission/apollo-11/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_voyager_record_0001",
+    "status": "approved",
+    "sha256": "27eb433acd615787418b22e0cde47fbceaded008b6c9927b39fb231337f9e2eb",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Golden Phonograph Record questions",
+        "claim": "The record carries sounds and images representing Earth.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_collins_role_0001",
+    "status": "approved",
+    "sha256": "68c471c3e3960a8259a9fcd020a35b076f435e475201c306e8222efb6795de8a",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Michael Collins / rendezvous caption",
+        "claim": "Collins piloted the command module and rendezvoused with the returning lunar module.",
+        "url": "https://www.nasa.gov/mission/apollo-11/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_voyager_uranus_neptune_0001",
+    "status": "approved",
+    "sha256": "6cfcd328448b104d1bcef7691ecb85fb27aa628a65b3177dde4fbaea1b84cdc7",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Did either of the Voyagers visit Pluto?",
+        "claim": "After Jupiter and Saturn, Voyager 2 continued to the two outer planets.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_pale_blue_dot_0001",
+    "status": "approved",
+    "sha256": "6a07301628c8797ba5f292c74e92af121962f107424349f26493c176ea942c9d",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "last images / February 14, 1990",
+        "claim": "Voyager 1’s cameras were pointed back to make a portrait of the solar system.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_io_volcanoes_0001",
+    "status": "approved",
+    "sha256": "93483e2d15534a9d883a50f11de01bcd083ae0d047d396f1138e414a4f28854e",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "What were the most important discoveries?",
+        "claim": "It was the first observation of active volcanism on another solar-system body.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_heliosphere_boundary_0001",
+    "status": "approved",
+    "sha256": "c1ff0448a760f021cc3c6bf506e0a149f02db72c1beda2af87dc6c75c3ceed90",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Have any human-made objects ever exited the solar system?",
+        "claim": "Leaving the heliosphere does not mean the spacecraft has passed the entire Oort Cloud.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  },
+  {
+    "id": "space_technology_titan_trajectory_0001",
+    "status": "approved",
+    "sha256": "8a50a56464d83e5f46933fbc878cf572c22fb7f446f6396356114fc4d5f5fdd8",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Did either of the Voyagers visit Pluto?",
+        "claim": "The Titan encounter sent the spacecraft out of the planetary plane, ending further planetary flybys.",
+        "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      }
+    ]
+  }
+]

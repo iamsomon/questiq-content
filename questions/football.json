@@ -1,0 +1,442 @@
+[
+  {
+    "id": "football_eleven_players_0001",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько игроков максимум начинает матч в одной команде в обычном футболе 11×11?",
+        "explanation": "Один из этих игроков обязательно выполняет роль вратаря."
+      },
+      "en": {
+        "question": "What is the maximum number of players starting for one team in standard 11-a-side football?",
+        "explanation": "One of those players must be the goalkeeper."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o2",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-players/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_half_duration_0001",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько минут обычно длится один тайм взрослого футбольного матча?",
+        "explanation": "Основное время состоит из двух равных таймов; судья добавляет потерянное время."
+      },
+      "en": {
+        "question": "How many minutes is a normal half in an adult football match?",
+        "explanation": "Normal playing time has two equal halves, with allowance for time lost."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "45",
+        "en": "45"
+      },
+      {
+        "id": "o1",
+        "ru": "40",
+        "en": "40"
+      },
+      {
+        "id": "o2",
+        "ru": "30",
+        "en": "30"
+      },
+      {
+        "id": "o3",
+        "ru": "50",
+        "en": "50"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_ball_shape_0001",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую форму должен иметь футбольный мяч по правилам IFAB?",
+        "explanation": "Правила определяют форму, материал, окружность, массу и давление мяча."
+      },
+      "en": {
+        "question": "What shape must the ball have under IFAB football laws?",
+        "explanation": "The laws specify the ball’s shape, material, circumference, mass, and pressure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сферическую",
+        "en": "Spherical"
+      },
+      {
+        "id": "o1",
+        "ru": "Овальную",
+        "en": "Oval"
+      },
+      {
+        "id": "o2",
+        "ru": "Кубическую",
+        "en": "Cubic"
+      },
+      {
+        "id": "o3",
+        "ru": "Цилиндрическую",
+        "en": "Cylindrical"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-ball/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_touchline_0001",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют длинную боковую границу футбольного поля?",
+        "explanation": "Боковые линии длиннее линий ворот и ограничивают поле по сторонам."
+      },
+      "en": {
+        "question": "What is the long side boundary of a football pitch called?",
+        "explanation": "Touchlines are longer than goal lines and bound the sides of the pitch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боковая линия",
+        "en": "Touchline"
+      },
+      {
+        "id": "o1",
+        "ru": "Линия ворот",
+        "en": "Goal line"
+      },
+      {
+        "id": "o2",
+        "ru": "Средняя линия",
+        "en": "Halfway line"
+      },
+      {
+        "id": "o3",
+        "ru": "Линия штрафной площади",
+        "en": "Penalty-area line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_goal_width_0001",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каково расстояние между внутренними краями стоек полноразмерных футбольных ворот?",
+        "explanation": "Стандартная ширина ворот — 7,32 м, высота до нижнего края перекладины — 2,44 м."
+      },
+      "en": {
+        "question": "What is the distance between the inner edges of full-size football goalposts?",
+        "explanation": "Standard goals are 7.32 m wide and 2.44 m high to the underside of the crossbar."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7,32 м",
+        "en": "7.32 m"
+      },
+      {
+        "id": "o1",
+        "ru": "6 м",
+        "en": "6 m"
+      },
+      {
+        "id": "o2",
+        "ru": "8 м",
+        "en": "8 m"
+      },
+      {
+        "id": "o3",
+        "ru": "5,50 м",
+        "en": "5.50 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_penalty_mark_0001",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком расстоянии от линии ворот расположена отметка пенальти в футболе 11×11?",
+        "explanation": "Отметка находится напротив середины ворот внутри штрафной площади."
+      },
+      "en": {
+        "question": "How far from the goal line is the penalty mark in 11-a-side football?",
+        "explanation": "The penalty mark is opposite the center of the goal within the penalty area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11 м",
+        "en": "11 m"
+      },
+      {
+        "id": "o1",
+        "ru": "9,15 м",
+        "en": "9.15 m"
+      },
+      {
+        "id": "o2",
+        "ru": "16,5 м",
+        "en": "16.5 m"
+      },
+      {
+        "id": "o3",
+        "ru": "5,5 м",
+        "en": "5.5 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_halftime_limit_0001",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова максимальная обычная продолжительность перерыва между таймами по IFAB 2026/27?",
+        "explanation": "Продолжительность указывают правила соревнования, а изменение требует разрешения судьи."
+      },
+      "en": {
+        "question": "What is the normal maximum half-time interval under IFAB 2026/27?",
+        "explanation": "Competition rules specify the interval; changing it requires the referee’s permission."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15 минут",
+        "en": "15 minutes"
+      },
+      {
+        "id": "o1",
+        "ru": "10 минут",
+        "en": "10 minutes"
+      },
+      {
+        "id": "o2",
+        "ru": "20 минут",
+        "en": "20 minutes"
+      },
+      {
+        "id": "o3",
+        "ru": "30 минут",
+        "en": "30 minutes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_entire_ball_out_0001",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда мяч пересекает боковую линию и выходит из игры в футболе?",
+        "explanation": "Вся сфера мяча должна пересечь линию по земле или по воздуху."
+      },
+      "en": {
+        "question": "When does a football crossing the touchline go out of play?",
+        "explanation": "The whole ball must cross the line, whether on the ground or in the air."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Когда пересёк её целиком",
+        "en": "When it has wholly crossed it"
+      },
+      {
+        "id": "o1",
+        "ru": "Когда коснулся линии",
+        "en": "When it touches the line"
+      },
+      {
+        "id": "o2",
+        "ru": "Когда пересёк её наполовину",
+        "en": "When half has crossed"
+      },
+      {
+        "id": "o3",
+        "ru": "Когда пересёк её центр",
+        "en": "When its center has crossed"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_corner_radius_0001",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков радиус угловой дуги на стандартном футбольном поле?",
+        "explanation": "Угловую зону обозначают четвертью окружности с центром у углового флагштока."
+      },
+      "en": {
+        "question": "What is the radius of the corner arc on a standard football pitch?",
+        "explanation": "The corner area is a quarter-circle centered at the corner flagpost."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1 м",
+        "en": "1 m"
+      },
+      {
+        "id": "o1",
+        "ru": "2 м",
+        "en": "2 m"
+      },
+      {
+        "id": "o2",
+        "ru": "5,5 м",
+        "en": "5.5 m"
+      },
+      {
+        "id": "o3",
+        "ru": "9,15 м",
+        "en": "9.15 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_center_radius_0001",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков радиус центрального круга футбольного поля?",
+        "explanation": "Круг проводят вокруг центральной отметки на средней линии."
+      },
+      "en": {
+        "question": "What is the radius of the center circle on a football pitch?",
+        "explanation": "The circle is drawn around the center mark on the halfway line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "9,15 м",
+        "en": "9.15 m"
+      },
+      {
+        "id": "o1",
+        "ru": "11 м",
+        "en": "11 m"
+      },
+      {
+        "id": "o2",
+        "ru": "5,5 м",
+        "en": "5.5 m"
+      },
+      {
+        "id": "o3",
+        "ru": "16,5 м",
+        "en": "16.5 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theifab.com/laws/latest/the-field-of-play/"
+    ],
+    "image": null
+  }
+]

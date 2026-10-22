@@ -1,4 +1,44 @@
 {
+  "artificial_intelligence_cluster_labels_0001": {
+    "revision": 1,
+    "sha256": "6db4e63d53a073ec8f75b8be10c7f76a4c6896ad82cd46e20bdfc7cc5beacd23"
+  },
+  "artificial_intelligence_data_training_0001": {
+    "revision": 1,
+    "sha256": "982833b65f5471da0326d63a9977b8b28718076443a7196012e6fff4e6c9a234"
+  },
+  "artificial_intelligence_generative_output_0001": {
+    "revision": 1,
+    "sha256": "99f47a188e3a7f48059e00e0b2c26403a8fa2af7d42bb7c015e78324f64220d2"
+  },
+  "artificial_intelligence_labeled_examples_0001": {
+    "revision": 1,
+    "sha256": "1b0b31ecc56628a4d9532b2a8c759d68254b6637d7b622e7d8102285b1f5c954"
+  },
+  "artificial_intelligence_multiclass_0001": {
+    "revision": 1,
+    "sha256": "5f9f41f02e5b279b69b7717dae44b7d8d9dfdac2300a5c3bd633e88e11188fc3"
+  },
+  "artificial_intelligence_policy_0001": {
+    "revision": 1,
+    "sha256": "08bfb6752cd9687e641a51a86499ad51fa216336174e6cd90f9ba41057de0563"
+  },
+  "artificial_intelligence_regression_price_0001": {
+    "revision": 1,
+    "sha256": "ee8c7bc48808ce527f6a747e3a577f3628b3d407685794ca57046daf6cf1e5a2"
+  },
+  "artificial_intelligence_reward_learning_0001": {
+    "revision": 1,
+    "sha256": "9099e0a55016df2b5c9d5f2a5de139e6bece4f60da66ccbe45023983ec92bb22"
+  },
+  "artificial_intelligence_spam_task_0001": {
+    "revision": 1,
+    "sha256": "30a51f7f9370bd3738333f6581e8a14738190acde180a86bcc50116460640f32"
+  },
+  "artificial_intelligence_unlabeled_groups_0001": {
+    "revision": 1,
+    "sha256": "2fd1b9d1d26712134b299b4cb2a1d2322ee01541100d33d2a5e3cd1b1a9dacee"
+  },
   "astronomy_earth_order_0001": {
     "revision": 1,
     "sha256": "56304413d2ac8d530fa8a3be06555a43e0609e9811427c7c8a3bc4363a91f722"
@@ -78,6 +118,46 @@
   "astronomy_venus_order_0001": {
     "revision": 1,
     "sha256": "bc4b96e0fb45ea5fe1e50eea7cdd6567e31c68a6e7101f4e4ac09727d7128aed"
+  },
+  "basketball_accidental_own_basket_0001": {
+    "revision": 1,
+    "sha256": "c2507d523a3bfa5bdf4b00fc635493d843f6669a757bf2270194c4bad361e78a"
+  },
+  "basketball_court_dimensions_0001": {
+    "revision": 1,
+    "sha256": "5a70beea6519be8c37bba9377614ebe11bbbc0e316d60c04d29be0b0618938c1"
+  },
+  "basketball_court_players_0001": {
+    "revision": 1,
+    "sha256": "2a571305ec6768243fc263ea7bd6f28211c05cde48a21b6223987139ce6a6366"
+  },
+  "basketball_foul_limit_0001": {
+    "revision": 1,
+    "sha256": "ecaf458addb93ea30fda5bf0e83893f53795beed0861f127ad6374d2740004d9"
+  },
+  "basketball_free_throw_value_0001": {
+    "revision": 1,
+    "sha256": "919aaeca8666157a930d36594a635c6e0e298727066840ca4a668ac2c3743e81"
+  },
+  "basketball_offensive_rebound_0001": {
+    "revision": 1,
+    "sha256": "1c275793f00cf6f516605b485db115d3714ea4a57300119bd62e3d224de5555b"
+  },
+  "basketball_outside_arc_0001": {
+    "revision": 1,
+    "sha256": "e77a0473c077d6f562d8c740f523956f28c000708e8a954ed1e5ad12ff945dc6"
+  },
+  "basketball_overtime_length_0001": {
+    "revision": 1,
+    "sha256": "28b136ac183af40e43b3dc56c62719de783cd77f5dea8ae67d9d4769a9a79f5b"
+  },
+  "basketball_quarter_time_0001": {
+    "revision": 1,
+    "sha256": "cf3512830c2b99a04aa098df2da851a4de000fea0333ec2541efee764541a2c2"
+  },
+  "basketball_shot_clock_0001": {
+    "revision": 1,
+    "sha256": "c057f17c2d6562f76090aa78131dd83bbc1291b42df8ab851992d612490806ba"
   },
   "biology_adenine_partner_0001": {
     "revision": 1,
@@ -319,6 +399,126 @@
     "revision": 1,
     "sha256": "febb21001ceac0870ff8f82b122974144807de3cabcde45f6e8a437234d362e4"
   },
+  "football_ball_shape_0001": {
+    "revision": 1,
+    "sha256": "225de076d0be0d034b5ac2458e18bd74c14c31770c649d3ece58b904b6705c0a"
+  },
+  "football_center_radius_0001": {
+    "revision": 1,
+    "sha256": "97a75c24fbee86a8e46ac44250062ca7411d0421cd79e7df593d215c92657369"
+  },
+  "football_corner_radius_0001": {
+    "revision": 1,
+    "sha256": "07e1f5cbe7a5dfb0473c2b53864ff4c8f6991cc9b246690812e734f069c1dbaf"
+  },
+  "football_eleven_players_0001": {
+    "revision": 1,
+    "sha256": "5823c58556397599808c53bd6ed61db08492647fee6251095a339b8b956c4f23"
+  },
+  "football_entire_ball_out_0001": {
+    "revision": 1,
+    "sha256": "5bf67411f4226e65f791721ad0d6a69c05f6d9778e2f8347b71befb0dd8a3bae"
+  },
+  "football_goal_width_0001": {
+    "revision": 1,
+    "sha256": "2fdfc541ba30ffebc8415acc78b21905bc66597447cd43bcff302d4a2dff589f"
+  },
+  "football_half_duration_0001": {
+    "revision": 1,
+    "sha256": "a07ba3cf1858c44d4acec67fa072d3b5f5893508bc7ce00b036f902781c73a8e"
+  },
+  "football_halftime_limit_0001": {
+    "revision": 1,
+    "sha256": "ab70a1f589bdb9d738960be35d01a08eb1853bce6e55cc032f17c3a4465aecce"
+  },
+  "football_penalty_mark_0001": {
+    "revision": 1,
+    "sha256": "206da246a20e25794bfb176848e627ad1f5dedd5093d4e562d54003ee31eec59"
+  },
+  "football_touchline_0001": {
+    "revision": 1,
+    "sha256": "478471ecfaf1fe30e52e04e1e3fcf361aa434cba2ae7c660dd2ef19578024f83"
+  },
+  "information_technology_assignment_0001": {
+    "revision": 1,
+    "sha256": "b2b2ecd87147b59dccbfa780f90b931d6de4bd041950d6b29bf60501e0f58350"
+  },
+  "information_technology_comment_marker_0001": {
+    "revision": 1,
+    "sha256": "3025606e37c85b2293aba841d559c80accc8ab5b945840e484bfee2649423bb1"
+  },
+  "information_technology_list_append_0001": {
+    "revision": 1,
+    "sha256": "2322cf0c38218c59d2a4f9d87b48783814096a00816a9216869b2c71aa7d5d46"
+  },
+  "information_technology_list_brackets_0001": {
+    "revision": 1,
+    "sha256": "273e00b10070a7a3c67dcd18389d966ff0a49a24bcee2a4b91fd2769a9906c59"
+  },
+  "information_technology_power_operator_0001": {
+    "revision": 1,
+    "sha256": "9313eb921bc2315b84a46a50dce50f0ea39ba7e42910fcd940412c59d72c3693"
+  },
+  "information_technology_remainder_operator_0001": {
+    "revision": 1,
+    "sha256": "cee728303fa7a0cbba88b7cff34098262bbdeed13f2fd9b79a6e015b222939e3"
+  },
+  "information_technology_slice_end_0001": {
+    "revision": 1,
+    "sha256": "2932a962747312e3bf1953312f0443a5d05d92d88fea46073c7831b6bea8677d"
+  },
+  "information_technology_string_immutable_0001": {
+    "revision": 1,
+    "sha256": "015e1ccdd147347b81b1bbf3033be5c4d0a109a21d0f6dc1bc6bfeee04b8f79e"
+  },
+  "information_technology_string_type_0001": {
+    "revision": 1,
+    "sha256": "317e233c3ce66d7a85dc92e5d2d9b8ea64bd63ca44eea2d028905cf8ca8bc30c"
+  },
+  "information_technology_zero_index_0001": {
+    "revision": 1,
+    "sha256": "ac231cad4a56b874d9d639b24be8a57c0a8df4b7682431a68eceb49d48a4ea5f"
+  },
+  "internet_domain_name_0001": {
+    "revision": 1,
+    "sha256": "313bcad5388f613d56ba10f03c52a2e5365927e5a29fd9583a868001ce0c845e"
+  },
+  "internet_http_body_0001": {
+    "revision": 1,
+    "sha256": "cdb8b3e731929f92a42152a6fc78a9b19abef7433f05978e651addc3043e4c03"
+  },
+  "internet_http_roles_0001": {
+    "revision": 1,
+    "sha256": "efe055386d469e89945e940bfc6de000834a6b889436c0d6f1a05ee1bce9a606"
+  },
+  "internet_http_stateless_0001": {
+    "revision": 1,
+    "sha256": "69bc41b3ddfee795cfc7b1f075d10c0e329295563d2a92b8b30d74c562e80658"
+  },
+  "internet_http_status_0001": {
+    "revision": 1,
+    "sha256": "4ff78fcc8c50a74707b8971911b13be02da9d1b93a7c9cbf318108ca8991f174"
+  },
+  "internet_isp_0001": {
+    "revision": 1,
+    "sha256": "1d0ea0a05deff934d60aed4ecb533891fe6571ee22366a77faab5962f961294d"
+  },
+  "internet_mac_ip_0001": {
+    "revision": 1,
+    "sha256": "a0737183520f99665cd57b588745f331bff09bd838d6d0ecc49d9986dee8cb5a"
+  },
+  "internet_proxy_role_0001": {
+    "revision": 1,
+    "sha256": "acab4402415fb4c2ff8a92d2550f172c68df70f79e5ee8b451ebaea624695445"
+  },
+  "internet_router_0001": {
+    "revision": 1,
+    "sha256": "a83b86fb5535bec711fcf3b2aeaf1003e1398d3c6c32c6f8a631aff2f4cec780"
+  },
+  "internet_web_internet_0001": {
+    "revision": 1,
+    "sha256": "b0e839934c79d1581917cb991c3383665a2755ab0d4f3874c99cc153abe3a204"
+  },
   "mathematics_constant_term_0001": {
     "revision": 1,
     "sha256": "277695cfdf12ca8293698b6dd738766f8eebdc1bcc000f39bc5cdf7a3aa6904a"
@@ -399,6 +599,46 @@
     "revision": 1,
     "sha256": "bffc2217fe5a390f580bd206616832119a409a486d7924caecc34831ed0f18be"
   },
+  "oceans_bleaching_0001": {
+    "revision": 1,
+    "sha256": "11b2ffca535a9649da9f7664d9cc73c6817111a70c6811745a1782740254bcb5"
+  },
+  "oceans_conveyor_drivers_0001": {
+    "revision": 1,
+    "sha256": "4d4c3ed98514091201dc3fd63bd637c2b35f5abd40d5c1d0cdef7a173b3a6b2f"
+  },
+  "oceans_coral_animals_0001": {
+    "revision": 1,
+    "sha256": "fefe043a6442e004c91f20ed4bfb6aa7cecbc75e0f62a88bc8012fca4bb6545d"
+  },
+  "oceans_coral_skeleton_0001": {
+    "revision": 1,
+    "sha256": "c9f832ff5700cf78c05d3023c863ef9856deaec635fee161e5a61bebe7fc6efb"
+  },
+  "oceans_depth_pressure_0001": {
+    "revision": 1,
+    "sha256": "d8fe9ee9198d6c5bf4b78474bbcd80ca8f5c91e7437d3843a5d381f8099d7276"
+  },
+  "oceans_surface_coverage_0001": {
+    "revision": 1,
+    "sha256": "d4a5b66676d39bdf3240993276ac841ebfa157f215f2498fb0b60da3e7b1fbe0"
+  },
+  "oceans_symbiont_benefit_0001": {
+    "revision": 1,
+    "sha256": "691ca5a9294efd29bd9f47f32f966a8d1d2a3259c052d751db58b5fdc4344d11"
+  },
+  "oceans_tidal_forces_0001": {
+    "revision": 1,
+    "sha256": "e62805d112375f2220ffdad43f699c949d40e8a5f2f4fef033ea27fc89d5c49f"
+  },
+  "oceans_tidal_range_0001": {
+    "revision": 1,
+    "sha256": "0b66022bd678edefe5962b16299cbda082c9ab175da50923403e931d88c68920"
+  },
+  "oceans_water_reservoir_0001": {
+    "revision": 1,
+    "sha256": "cfa60372686ce841b0ab06a2e59c021ab23b944349e349eed79d98f42192e020"
+  },
   "physics_amount_unit_0001": {
     "revision": 1,
     "sha256": "3bc3c097ecac5af87f63e66ab417be88d44e80f5d5bf781dadbc3756629cc63f"
@@ -438,5 +678,85 @@
   "physics_time_unit_0001": {
     "revision": 1,
     "sha256": "a86e0b72796dff03603d8a9f022078a457ea015b20bdab2fcaf608c50bcd84ee"
+  },
+  "space_technology_armstrong_first_0001": {
+    "revision": 1,
+    "sha256": "1f31a81b8742486d016816dba810f7279e86ff4521e1da7875ab07bf741e5d06"
+  },
+  "space_technology_collins_role_0001": {
+    "revision": 1,
+    "sha256": "68c471c3e3960a8259a9fcd020a35b076f435e475201c306e8222efb6795de8a"
+  },
+  "space_technology_eagle_module_0001": {
+    "revision": 1,
+    "sha256": "967f92df57cdae64de46d69da9928e0acf67839ebd4a86a2387c07541440d8e0"
+  },
+  "space_technology_first_moon_mission_0001": {
+    "revision": 1,
+    "sha256": "9f22433059c877fb6838addcec9d0d5a57c21a32629c1951b356e0c0af771c0e"
+  },
+  "space_technology_heliosphere_boundary_0001": {
+    "revision": 1,
+    "sha256": "c1ff0448a760f021cc3c6bf506e0a149f02db72c1beda2af87dc6c75c3ceed90"
+  },
+  "space_technology_io_volcanoes_0001": {
+    "revision": 1,
+    "sha256": "93483e2d15534a9d883a50f11de01bcd083ae0d047d396f1138e414a4f28854e"
+  },
+  "space_technology_pale_blue_dot_0001": {
+    "revision": 1,
+    "sha256": "6a07301628c8797ba5f292c74e92af121962f107424349f26493c176ea942c9d"
+  },
+  "space_technology_titan_trajectory_0001": {
+    "revision": 1,
+    "sha256": "8a50a56464d83e5f46933fbc878cf572c22fb7f446f6396356114fc4d5f5fdd8"
+  },
+  "space_technology_voyager_record_0001": {
+    "revision": 1,
+    "sha256": "27eb433acd615787418b22e0cde47fbceaded008b6c9927b39fb231337f9e2eb"
+  },
+  "space_technology_voyager_uranus_neptune_0001": {
+    "revision": 1,
+    "sha256": "6cfcd328448b104d1bcef7691ecb85fb27aa628a65b3177dde4fbaea1b84cdc7"
+  },
+  "tennis_change_ends_0001": {
+    "revision": 1,
+    "sha256": "efe8891ac233c94a9ef0b4606c0e26e1cf8d0d2b9e3c39ce9fd32381327af09d"
+  },
+  "tennis_court_length_0001": {
+    "revision": 1,
+    "sha256": "97a64235f57fc2478162ab7162d4fbc10e1b5356bf5bbeb223ca81e436e18808"
+  },
+  "tennis_deuce_score_0001": {
+    "revision": 1,
+    "sha256": "c34ed16f26aebab903549e8abffcbb3add15550ae645020cce7d30a028c248d1"
+  },
+  "tennis_diagonal_serve_0001": {
+    "revision": 1,
+    "sha256": "d80e9ca52862c0bfe5900414eef5493d8f163525a973026925616260d11da991"
+  },
+  "tennis_first_serve_side_0001": {
+    "revision": 1,
+    "sha256": "e8a4afee1b488429855a5a72612578ea90c38c0de50a93eb3d3918e9ecd7ec23"
+  },
+  "tennis_line_touch_0001": {
+    "revision": 1,
+    "sha256": "ae77bae77a4e14e8f8652209d3128167b3442e95e1ff8a9d1c97d32e3fc4c664"
+  },
+  "tennis_love_score_0001": {
+    "revision": 1,
+    "sha256": "c230b058f9a8a1b5889e70243e0b3acad88cc19d3665d068233cf1cb62e1cbee"
+  },
+  "tennis_singles_width_0001": {
+    "revision": 1,
+    "sha256": "5f4c672a0d4910adf9e9f57ef43ad1632cd2a660d9c728909087ab7b069062cf"
+  },
+  "tennis_tiebreak_margin_0001": {
+    "revision": 1,
+    "sha256": "d914ed609c4cbd9bf5077eb3e4262523bc3a9f51f94fb7c30e32aad5773d4360"
+  },
+  "tennis_tiebreak_service_0001": {
+    "revision": 1,
+    "sha256": "49d5c39c74a8a1bce918216ee51aa045d4c9e459745296f0e239aadf34e220c3"
   }
 }

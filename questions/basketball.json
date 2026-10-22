@@ -1,0 +1,442 @@
+[
+  {
+    "id": "basketball_court_players_0001",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько игроков команда выставляет на площадку в начале матча FIBA 5×5?",
+        "explanation": "Заявка может быть больше, но одновременно команда выставляет пять игроков."
+      },
+      "en": {
+        "question": "How many players does a team field at the start of a FIBA 5-on-5 basketball game?",
+        "explanation": "The team roster may be larger, but five players take the court at a time."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o2",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_free_throw_value_0001",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько очков приносит точный штрафной бросок в баскетболе?",
+        "explanation": "Штрафной отличается по стоимости от бросков с игры."
+      },
+      "en": {
+        "question": "How many points is a successful basketball free throw worth?",
+        "explanation": "A free throw has a different point value from a field goal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_outside_arc_0001",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько очков даёт точный бросок из-за трёхочковой линии?",
+        "explanation": "Трёхочковая стоимость зависит от места, откуда выпущен мяч."
+      },
+      "en": {
+        "question": "How many points is a successful shot released from beyond the three-point line worth?",
+        "explanation": "The three-point value depends on where the shot is released."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_overtime_length_0001",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько минут длится один овертайм по правилам FIBA 2024 года?",
+        "explanation": "При новой ничьей играют следующий пятиминутный овертайм."
+      },
+      "en": {
+        "question": "How long is one overtime under the 2024 FIBA rules?",
+        "explanation": "Another five-minute overtime is played if the score remains tied."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_quarter_time_0001",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько минут длится четверть в баскетболе по правилам FIBA 2024 года?",
+        "explanation": "Матч состоит из четырёх четвертей; часы останавливают по правилам игры."
+      },
+      "en": {
+        "question": "How many minutes is a quarter under the 2024 FIBA rules?",
+        "explanation": "The game has four quarters, with the clock stopped as the rules require."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o1",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o2",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o3",
+        "ru": "8",
+        "en": "8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_court_dimensions_0001",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каковы размеры игровой площадки FIBA 5×5 по правилам 2024 года?",
+        "explanation": "Размеры измеряют от внутренних краёв ограничивающих линий."
+      },
+      "en": {
+        "question": "What are the court dimensions for FIBA 5-on-5 under the 2024 rules?",
+        "explanation": "Dimensions are measured from the inner edges of the boundary lines."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "28 × 15 м",
+        "en": "28 × 15 m"
+      },
+      {
+        "id": "o1",
+        "ru": "23,77 × 8,23 м",
+        "en": "23.77 × 8.23 m"
+      },
+      {
+        "id": "o2",
+        "ru": "40 × 20 м",
+        "en": "40 × 20 m"
+      },
+      {
+        "id": "o3",
+        "ru": "18 × 9 м",
+        "en": "18 × 9 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_shot_clock_0001",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков обычный лимит времени на бросок при новом владении в FIBA 2024?",
+        "explanation": "До сигнала мяч должен покинуть руку, а затем коснуться кольца или попасть в корзину."
+      },
+      "en": {
+        "question": "What is the normal shot-clock limit for a new possession in FIBA 2024?",
+        "explanation": "The ball must leave the hand before the signal and then touch the ring or enter the basket."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "24 секунды",
+        "en": "24 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "20 секунд",
+        "en": "20 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "30 секунд",
+        "en": "30 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "45 секунд",
+        "en": "45 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_foul_limit_0001",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "После скольких фолов игрок должен покинуть игру по правилам FIBA 2024 года?",
+        "explanation": "Игрок с пятью фолами заменяется и больше не участвует в этой игре."
+      },
+      "en": {
+        "question": "After how many fouls must a player leave the game under the 2024 FIBA rules?",
+        "explanation": "A player with five fouls is replaced and cannot take further part in that game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o2",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o3",
+        "ru": "7",
+        "en": "7"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_offensive_rebound_0001",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "До какого значения сбрасывают таймер после подбора своей командой мяча, коснувшегося кольца соперника, в FIBA 2024?",
+        "explanation": "При таком подборе своей атаки дают 14 секунд, а при владении соперника — 24."
+      },
+      "en": {
+        "question": "To what is the shot clock reset after the same team regains the ball following contact with the opponents’ ring in FIBA 2024?",
+        "explanation": "That offensive recovery gets 14 seconds; an opponents’ recovery gets 24."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "14 секунд",
+        "en": "14 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "24 секунды",
+        "en": "24 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "8 секунд",
+        "en": "8 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "10 секунд",
+        "en": "10 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_accidental_own_basket_0001",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько очков засчитывают сопернику за случайное попадание игрока в свою корзину по FIBA 2024?",
+        "explanation": "Случайное попадание записывают как два очка; намеренное является нарушением."
+      },
+      "en": {
+        "question": "How many points do opponents receive for an accidental own basket under FIBA 2024?",
+        "explanation": "An accidental own basket counts two points; a deliberate one is a violation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "0",
+        "en": "0"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  }
+]

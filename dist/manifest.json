@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "version": "1b6309cc4dbcc3f8d83164b897677226a599e861bac758f7df5ea7aab49736ee",
+  "version": "727d3ec8bcc43488416160fe88c3094ca7b659e541a20463128ee2485db58597",
   "revokedIds": [],
   "packs": [
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "artificial_intelligence",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/artificial_intelligence-475e354a10042436.json",
+      "sha256": "475e354a100424366c9535b5c6f3b25412b39803ed37681f64847772a3d0a782",
+      "size": 10991
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "artificial_intelligence",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/artificial_intelligence-475e354a10042436.json",
+      "sha256": "475e354a100424366c9535b5c6f3b25412b39803ed37681f64847772a3d0a782",
+      "size": 10991
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "astronomy",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
       "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
@@ -18,6 +34,22 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
       "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
       "size": 17493
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "basketball",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/basketball-feecc1cf31c08b35.json",
+      "sha256": "feecc1cf31c08b35973e7d34a1dfa13687ee2859173eda920cdb5b4948aa3497",
+      "size": 9247
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "basketball",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/basketball-feecc1cf31c08b35.json",
+      "sha256": "feecc1cf31c08b35973e7d34a1dfa13687ee2859173eda920cdb5b4948aa3497",
+      "size": 9247
     },
     {
       "schemaVersion": 1,
@@ -118,6 +150,54 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "football",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/football-06b9fabdbf524d2b.json",
+      "sha256": "06b9fabdbf524d2b181399abef6e5d7f1b0e232056159ea3dec7061adb13be26",
+      "size": 9144
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "football",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/football-06b9fabdbf524d2b.json",
+      "sha256": "06b9fabdbf524d2b181399abef6e5d7f1b0e232056159ea3dec7061adb13be26",
+      "size": 9144
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "information_technology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-ea1137862fab0916.json",
+      "sha256": "ea1137862fab091651039f2c5d3a340c95ed6438e88c09df77d44ad6fb102e45",
+      "size": 8925
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "information_technology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-ea1137862fab0916.json",
+      "sha256": "ea1137862fab091651039f2c5d3a340c95ed6438e88c09df77d44ad6fb102e45",
+      "size": 8925
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "internet",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/internet-b88ba58f5029399b.json",
+      "sha256": "b88ba58f5029399b52360051aa47e33ffe9215b5c4a6b031a565f81810c4327a",
+      "size": 10546
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "internet",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/internet-b88ba58f5029399b.json",
+      "sha256": "b88ba58f5029399b52360051aa47e33ffe9215b5c4a6b031a565f81810c4327a",
+      "size": 10546
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "mathematics",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
       "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
@@ -150,6 +230,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "oceans",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/oceans-40ff329b7d2fc2f5.json",
+      "sha256": "40ff329b7d2fc2f55e065cbdd3106bc921a6211cc2837aaaf23c54dab9bb7a5e",
+      "size": 10067
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "oceans",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/oceans-40ff329b7d2fc2f5.json",
+      "sha256": "40ff329b7d2fc2f55e065cbdd3106bc921a6211cc2837aaaf23c54dab9bb7a5e",
+      "size": 10067
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "physics",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
       "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
@@ -162,6 +258,38 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
       "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
       "size": 8756
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "space_technology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/space_technology-751f1838d3043abd.json",
+      "sha256": "751f1838d3043abd7a523a5a357aecb92b977292d8cf975e8a45ecae41e8ac9d",
+      "size": 9742
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "space_technology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/space_technology-751f1838d3043abd.json",
+      "sha256": "751f1838d3043abd7a523a5a357aecb92b977292d8cf975e8a45ecae41e8ac9d",
+      "size": 9742
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "tennis",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/tennis-f3e4b1a3ae6f1745.json",
+      "sha256": "f3e4b1a3ae6f17455db3b30020b97101a80467cb9f5b80d367b2eb285461117b",
+      "size": 9816
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "tennis",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/tennis-f3e4b1a3ae6f1745.json",
+      "sha256": "f3e4b1a3ae6f17455db3b30020b97101a80467cb9f5b80d367b2eb285461117b",
+      "size": 9816
     }
   ]
 }

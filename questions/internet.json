@@ -1,0 +1,442 @@
+[
+  {
+    "id": "internet_web_internet_0001",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как соотносятся Всемирная паутина и Интернет?",
+        "explanation": "Интернет соединяет сети; веб использует эту инфраструктуру для передачи страниц."
+      },
+      "en": {
+        "question": "How are the Web and the Internet related?",
+        "explanation": "The Internet connects networks; the Web uses that infrastructure to deliver pages."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Веб — один из сервисов Интернета",
+        "en": "The Web is one Internet service"
+      },
+      {
+        "id": "o1",
+        "ru": "Это полностью одинаковые понятия",
+        "en": "They are exactly the same thing"
+      },
+      {
+        "id": "o2",
+        "ru": "Интернет — один из сайтов веба",
+        "en": "The Internet is one website"
+      },
+      {
+        "id": "o3",
+        "ru": "Веб работает только в локальной сети",
+        "en": "The Web only works on a local network"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_router_0001",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство пересылает пакеты между разными сетями?",
+        "explanation": "Маршрутизатор выбирает, куда направить пакет по IP-адресу назначения."
+      },
+      "en": {
+        "question": "Which device forwards packets between different networks?",
+        "explanation": "A router forwards a packet toward its destination using IP addressing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Маршрутизатор",
+        "en": "Router"
+      },
+      {
+        "id": "o1",
+        "ru": "Сетевой коммутатор второго уровня",
+        "en": "Layer-2 switch"
+      },
+      {
+        "id": "o2",
+        "ru": "Сетевой концентратор",
+        "en": "Network hub"
+      },
+      {
+        "id": "o3",
+        "ru": "Повторитель сигнала",
+        "en": "Signal repeater"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_domain_name_0001",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что представляет собой example.com в адресе сайта?",
+        "explanation": "Доменное имя позволяет обращаться к ресурсу по запоминаемому имени."
+      },
+      "en": {
+        "question": "What is example.com in a website address?",
+        "explanation": "A domain name gives people a memorable way to address an Internet resource."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доменное имя",
+        "en": "A domain name"
+      },
+      {
+        "id": "o1",
+        "ru": "Сетевой протокол",
+        "en": "A network protocol"
+      },
+      {
+        "id": "o2",
+        "ru": "Номер порта",
+        "en": "A port number"
+      },
+      {
+        "id": "o3",
+        "ru": "Путь к файлу",
+        "en": "A file path"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_isp_0001",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется организация, предоставляющая доступ к Интернету?",
+        "explanation": "Сети провайдеров соединяются друг с другом и передают трафик."
+      },
+      "en": {
+        "question": "What is an organization that provides Internet access called?",
+        "explanation": "Providers connect their networks to others to carry Internet traffic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Интернет-провайдер",
+        "en": "Internet service provider"
+      },
+      {
+        "id": "o1",
+        "ru": "Доменный регистратор",
+        "en": "Domain registrar"
+      },
+      {
+        "id": "o2",
+        "ru": "Поисковая система",
+        "en": "Search engine"
+      },
+      {
+        "id": "o3",
+        "ru": "Центр сертификации",
+        "en": "Certificate authority"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_http_roles_0001",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто обычно отправляет HTTP-запрос при открытии страницы?",
+        "explanation": "В модели HTTP клиент посылает запрос, а сервер возвращает ответ."
+      },
+      "en": {
+        "question": "Who usually sends the HTTP request when a page is opened?",
+        "explanation": "In HTTP, the client sends a request and the server returns a response."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Браузер-клиент",
+        "en": "The browser client"
+      },
+      {
+        "id": "o1",
+        "ru": "Сервер страницы",
+        "en": "The page server"
+      },
+      {
+        "id": "o2",
+        "ru": "DNS-резолвер",
+        "en": "The DNS resolver"
+      },
+      {
+        "id": "o3",
+        "ru": "Центр сертификации",
+        "en": "The certificate authority"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_http_status_0001",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что сообщает код состояния HTTP в ответе сервера?",
+        "explanation": "Код состояния сообщает об успехе, перенаправлении или ошибке запроса."
+      },
+      "en": {
+        "question": "What does an HTTP response status code convey?",
+        "explanation": "The status code indicates success, redirection, or a request error."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Результат обработки запроса",
+        "en": "The outcome of the request"
+      },
+      {
+        "id": "o1",
+        "ru": "Адрес сетевого интерфейса",
+        "en": "The network-interface address"
+      },
+      {
+        "id": "o2",
+        "ru": "Ключ шифрования сеанса",
+        "en": "The session encryption key"
+      },
+      {
+        "id": "o3",
+        "ru": "Порядковый номер пакета",
+        "en": "The packet sequence number"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_http_body_0001",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой части HTTP-ответа обычно передают сам HTML-документ?",
+        "explanation": "Заголовки описывают ответ, а необязательное тело содержит передаваемый ресурс."
+      },
+      "en": {
+        "question": "Which part of an HTTP response usually carries the HTML document?",
+        "explanation": "Headers describe the response; its optional body carries the resource."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В теле ответа",
+        "en": "The response body"
+      },
+      {
+        "id": "o1",
+        "ru": "В коде состояния",
+        "en": "The status code"
+      },
+      {
+        "id": "o2",
+        "ru": "В строке версии протокола",
+        "en": "The protocol version line"
+      },
+      {
+        "id": "o3",
+        "ru": "В поле Content-Type",
+        "en": "The Content-Type field"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_http_stateless_0001",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает, что HTTP — протокол без состояния?",
+        "explanation": "Cookie могут связывать запросы в сеанс, хотя сам HTTP не хранит его состояние."
+      },
+      "en": {
+        "question": "What does it mean that HTTP is stateless?",
+        "explanation": "Cookies can link requests into a session although HTTP itself is stateless."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Запросы сами по себе независимы",
+        "en": "Requests are independent by themselves"
+      },
+      {
+        "id": "o1",
+        "ru": "Сервер не может отправлять файлы",
+        "en": "Servers cannot send files"
+      },
+      {
+        "id": "o2",
+        "ru": "Браузер не может хранить cookie",
+        "en": "Browsers cannot store cookies"
+      },
+      {
+        "id": "o3",
+        "ru": "Все ответы всегда одинаковы",
+        "en": "All responses are identical"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_proxy_role_0001",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется посредник, пересылающий HTTP-сообщения между клиентом и сервером?",
+        "explanation": "Прокси может пересылать сообщения и выполнять кеширование или фильтрацию."
+      },
+      "en": {
+        "question": "What is an intermediary that forwards HTTP messages between client and server called?",
+        "explanation": "A proxy forwards messages and may also cache or filter them."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прокси",
+        "en": "A proxy"
+      },
+      {
+        "id": "o1",
+        "ru": "DNS-зона",
+        "en": "A DNS zone"
+      },
+      {
+        "id": "o2",
+        "ru": "Сетевой сокет",
+        "en": "A network socket"
+      },
+      {
+        "id": "o3",
+        "ru": "Доменный суффикс",
+        "en": "A domain suffix"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_mac_ip_0001",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой адрес коммутатор использует для доставки кадров внутри локальной сети?",
+        "explanation": "Коммутатор связывает MAC-адреса сетевых интерфейсов со своими портами."
+      },
+      "en": {
+        "question": "Which address does a switch use to deliver frames within a local network?",
+        "explanation": "A switch associates network-interface MAC addresses with its ports."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "MAC-адрес",
+        "en": "MAC address"
+      },
+      {
+        "id": "o1",
+        "ru": "URL страницы",
+        "en": "Page URL"
+      },
+      {
+        "id": "o2",
+        "ru": "Доменное имя",
+        "en": "Domain name"
+      },
+      {
+        "id": "o3",
+        "ru": "Номер TCP-порта",
+        "en": "TCP port number"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+    ],
+    "image": null
+  }
+]

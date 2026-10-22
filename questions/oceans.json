@@ -1,0 +1,442 @@
+[
+  {
+    "id": "oceans_surface_coverage_0001",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую долю поверхности Земли занимает океан?",
+        "explanation": "Следовательно, на сушу приходится менее трети поверхности Земли."
+      },
+      "en": {
+        "question": "How much of Earth’s surface is covered by the ocean?",
+        "explanation": "Consequently, land occupies less than one third of Earth’s surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Более 70%",
+        "en": "More than 70%"
+      },
+      {
+        "id": "o1",
+        "ru": "Около 30%",
+        "en": "About 30%"
+      },
+      {
+        "id": "o2",
+        "ru": "Около 10%",
+        "en": "About 10%"
+      },
+      {
+        "id": "o3",
+        "ru": "Менее 5%",
+        "en": "Less than 5%"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/oceanwater.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_water_reservoir_0001",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где находится около 97% всей воды Земли?",
+        "explanation": "На ледники, подземные воды, реки и другие резервуары приходится малая доля."
+      },
+      "en": {
+        "question": "Where is about 97% of Earth’s water found?",
+        "explanation": "Glaciers, groundwater, rivers, and other reservoirs hold a much smaller share."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В океане",
+        "en": "In the ocean"
+      },
+      {
+        "id": "o1",
+        "ru": "В реках",
+        "en": "In rivers"
+      },
+      {
+        "id": "o2",
+        "ru": "В атмосфере",
+        "en": "In the atmosphere"
+      },
+      {
+        "id": "o3",
+        "ru": "В пресных озёрах",
+        "en": "In freshwater lakes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/oceanwater.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_coral_animals_0001",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому царству живых организмов относятся кораллы?",
+        "explanation": "Коралловые полипы ловят пищу щупальцами, хотя многие живут с водорослями-симбионтами."
+      },
+      "en": {
+        "question": "To which kingdom of life do corals belong?",
+        "explanation": "Coral polyps capture food with tentacles, although many also host symbiotic algae."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Животные",
+        "en": "Animals"
+      },
+      {
+        "id": "o1",
+        "ru": "Растения",
+        "en": "Plants"
+      },
+      {
+        "id": "o2",
+        "ru": "Грибы",
+        "en": "Fungi"
+      },
+      {
+        "id": "o3",
+        "ru": "Бактерии",
+        "en": "Bacteria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_pressure_0001",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как меняется давление воды с увеличением глубины океана?",
+        "explanation": "Чем глубже объект, тем больше столб воды над ним и гидростатическое давление."
+      },
+      "en": {
+        "question": "How does water pressure change as ocean depth increases?",
+        "explanation": "A deeper object has a larger water column above it and greater hydrostatic pressure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Возрастает",
+        "en": "It increases"
+      },
+      {
+        "id": "o1",
+        "ru": "Убывает",
+        "en": "It decreases"
+      },
+      {
+        "id": "o2",
+        "ru": "Остаётся постоянным",
+        "en": "It stays constant"
+      },
+      {
+        "id": "o3",
+        "ru": "Становится нулевым",
+        "en": "It becomes zero"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/pressure.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_tidal_forces_0001",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Притяжение каких небесных тел в основном определяет океанские приливы?",
+        "explanation": "Приливные волны возникают под действием гравитации Луны и Солнца."
+      },
+      "en": {
+        "question": "The gravity of which celestial bodies mainly determines ocean tides?",
+        "explanation": "Tidal waves arise in response to the gravitational forces of the Moon and Sun."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луны и Солнца",
+        "en": "The Moon and the Sun"
+      },
+      {
+        "id": "o1",
+        "ru": "Марса и Венеры",
+        "en": "Mars and Venus"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитера и Сатурна",
+        "en": "Jupiter and Saturn"
+      },
+      {
+        "id": "o3",
+        "ru": "Полярной звезды и Сириуса",
+        "en": "Polaris and Sirius"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/tides.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_tidal_range_0001",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют величиной прилива?",
+        "explanation": "Это разность высот уровня моря при приливе и отливе в данном месте."
+      },
+      "en": {
+        "question": "What is the tidal range?",
+        "explanation": "It is the difference in sea level between high and low tide at a location."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Разность уровней полной и малой воды",
+        "en": "The difference between high and low water"
+      },
+      {
+        "id": "o1",
+        "ru": "Время между двумя приливами",
+        "en": "The time between two high tides"
+      },
+      {
+        "id": "o2",
+        "ru": "Скорость приливного течения",
+        "en": "The tidal-current speed"
+      },
+      {
+        "id": "o3",
+        "ru": "Расстояние между гребнями волн",
+        "en": "The distance between wave crests"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/tides.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_bleaching_0001",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит при обесцвечивании коралла из-за потери водорослей-симбионтов?",
+        "explanation": "Обесцвеченный коралл ещё может быть жив, но становится более уязвимым."
+      },
+      "en": {
+        "question": "What happens when a coral bleaches after losing its symbiotic algae?",
+        "explanation": "A bleached coral may still be alive but is more vulnerable."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Он белеет и испытывает стресс",
+        "en": "It turns white and is stressed"
+      },
+      {
+        "id": "o1",
+        "ru": "Он темнеет из-за избытка пигмента",
+        "en": "It darkens from extra pigment"
+      },
+      {
+        "id": "o2",
+        "ru": "Он обязательно сразу умирает",
+        "en": "It necessarily dies at once"
+      },
+      {
+        "id": "o3",
+        "ru": "Он становится устойчивее к стрессу",
+        "en": "It becomes more resistant to stress"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_conveyor_drivers_0001",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие свойства воды определяют термохалинную циркуляцию океана?",
+        "explanation": "Эти свойства влияют на плотность: холодная солёная вода склонна погружаться."
+      },
+      "en": {
+        "question": "Which water properties drive thermohaline ocean circulation?",
+        "explanation": "These properties affect density: cold, salty water tends to sink."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Температура и солёность",
+        "en": "Temperature and salinity"
+      },
+      {
+        "id": "o1",
+        "ru": "Цвет и прозрачность",
+        "en": "Color and clarity"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислотность и запах",
+        "en": "Acidity and smell"
+      },
+      {
+        "id": "o3",
+        "ru": "Высота волн и освещённость",
+        "en": "Wave height and illumination"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/conveyor.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_coral_skeleton_0001",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из какого вещества преимущественно состоит твёрдый скелет каменистых кораллов?",
+        "explanation": "Полипы откладывают карбонат кальция, постепенно формируя известняковую основу рифа."
+      },
+      "en": {
+        "question": "What is the main substance in the hard skeleton of stony corals?",
+        "explanation": "Polyps deposit calcium carbonate, gradually forming a reef’s limestone framework."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Карбонат кальция",
+        "en": "Calcium carbonate"
+      },
+      {
+        "id": "o1",
+        "ru": "Диоксид кремния",
+        "en": "Silicon dioxide"
+      },
+      {
+        "id": "o2",
+        "ru": "Хлорид натрия",
+        "en": "Sodium chloride"
+      },
+      {
+        "id": "o3",
+        "ru": "Оксид железа",
+        "en": "Iron oxide"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_symbiont_benefit_0001",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что водоросли-симбионты дают кораллу при фотосинтезе?",
+        "explanation": "Водоросли получают защищённое место, а коралл — часть продуктов фотосинтеза."
+      },
+      "en": {
+        "question": "What do symbiotic algae supply to a coral through photosynthesis?",
+        "explanation": "The algae gain a protected habitat, and the coral receives photosynthetic products."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кислород и органические вещества",
+        "en": "Oxygen and organic products"
+      },
+      {
+        "id": "o1",
+        "ru": "Азот и метан",
+        "en": "Nitrogen and methane"
+      },
+      {
+        "id": "o2",
+        "ru": "Только углекислый газ",
+        "en": "Only carbon dioxide"
+      },
+      {
+        "id": "o3",
+        "ru": "Хлор и водород",
+        "en": "Chlorine and hydrogen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/coral.html"
+    ],
+    "image": null
+  }
+]
