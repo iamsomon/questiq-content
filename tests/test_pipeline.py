@@ -37,4 +37,11 @@ class PipelineTests(unittest.TestCase):
   self.save();self.approve();c.build(self.root,'https://example.org/dist')
   removed=self.items.pop()['id'];self.save();self.approve()
   with self.assertRaisesRegex(ValueError,'explicit revocation'):c.build(self.root,'https://example.org/dist')
+ def test_urgent_revocation_publishes_without_a_replacement_question(self):
+  self.save();self.approve();c.build(self.root,'https://example.org/dist')
+  removed=self.items.pop()['id'];self.save();self.approve()
+  (self.root/'revoked.json').write_text(json.dumps([removed]))
+  manifest=c.build(self.root,'https://example.org/dist')
+  self.assertIn(removed,manifest['revokedIds']);self.assertEqual(manifest['packs'],[])
+  self.assertEqual(c.report(self.root)['playableCategories'],0)
 if __name__=='__main__':unittest.main()

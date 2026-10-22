@@ -91,7 +91,11 @@ def build(root,base):
  manifest={'schemaVersion':1,'version':digest({'questions':approved,'revoked':sorted(revoked)}),'revokedIds':sorted(revoked),'packs':[]}
  keep=set()
  for c in sorted({q['categoryId'] for q in approved}):
-  batch=[q for q in approved if q['categoryId']==c];require(len(batch)>=10,f'{c}: fewer than ten approved questions')
+  batch=[q for q in approved if q['categoryId']==c]
+  # A correction must be publishable immediately, even if revoking one fact
+  # leaves fewer than ten in its category. Omit that pack until replenished;
+  # keep the cumulative revocation in the manifest so old clients remove it.
+  if len(batch)<10:continue
   payload=encoded(batch)+b'\n';require(len(payload)<=2097152,f'{c}: pack exceeds byte budget')
   sha=hashlib.sha256(payload).hexdigest();name=f'{c}-{sha[:16]}.json';keep.add(name);(packs/name).write_bytes(payload)
   for lang in ['ru','en']:manifest['packs'].append({'schemaVersion':1,'locale':lang,'category':c,'url':base.rstrip('/')+'/packs/'+name,'sha256':sha,'size':len(payload)})
