@@ -74,7 +74,7 @@ def import_archive(path, destination):
             if not member.isfile():
                 continue
             if len(parts) == 2 and parts[-1] == 'LICENCE':
-                (destination/'LICENSE-CC-BY-SA-4.0.txt').write_bytes(archive.extractfile(member).read())
+                (destination/'LICENSE-CC-BY-SA-4.0.txt').write_bytes(archive.extractfile(member).read().rstrip()+b'\n')
             if len(parts) != 3 or parts[-2] != 'data' or not parts[-1].endswith('.json'):
                 continue
             raw = archive.extractfile(member).read()
