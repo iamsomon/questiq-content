@@ -1,4 +1,6 @@
 import importlib.util
+import hashlib
+import json
 import unittest
 from pathlib import Path
 
@@ -49,6 +51,26 @@ class CandidateTests(unittest.TestCase):
         self.assertEqual(report['targetComplete'], all(r['remaining'] == 0 and not any(r['difficultyRemaining'].values()) for r in report['categories']))
         self.assertEqual(report['remainingQuestions'], sum(r['remaining'] for r in report['categories']))
         self.assertEqual(report['approvedQuestions'], sum(r['approved'] for r in report['categories']))
+
+    def test_pinned_research_queue_has_license_provenance_and_no_approvals(self):
+        path = ROOT / 'research/candidates/open-trivia-qa.jsonl'
+        rows = [json.loads(line) for line in path.read_text().splitlines()]
+        report = json.loads(path.with_suffix('.report.json').read_text())
+        self.assertEqual(len(rows), 10000)
+        self.assertEqual(len({r['candidateId'] for r in rows}), 10000)
+        self.assertEqual(len({collector.normal(r['questionEn']) for r in rows}), 10000)
+        self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), report['queueSha256'])
+        for row in rows:
+            self.assertEqual(row['sourceCommit'], collector.COMMIT)
+            self.assertTrue(row['source'].startswith(collector.BASE + '/categories/'))
+            self.assertGreater(row['sourceLine'], 0)
+            self.assertEqual(row['status'], 'unverified_source_candidate')
+            self.assertEqual(row['license'], 'CC-BY-SA-4.0')
+            self.assertTrue(row['attribution'])
+            self.assertEqual(len(row['optionsEn']), 4)
+            self.assertIn(row['sourceCorrectIndex'], range(4))
+            self.assertNotIn('approved', row)
+            self.assertNotIn('humanApproved', row)
 
 if __name__ == '__main__':
     unittest.main()
