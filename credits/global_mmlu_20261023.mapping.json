@@ -1,0 +1,114 @@
+[
+  {
+    "questionId": "plants_chloroplast_0001",
+    "sourceId": "miscellaneous/test/222",
+    "sourceRecordSha256": "ea4a10282d0d02199a0ff648ab47ef045c6367d98439d8e8de773224ca467a59",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Chloroplast and thylakoid chlorophyll are confirmed in Biology 2e 8.1. Nucleus, mitochondrion and Golgi have other roles; none is the plant photosynthetic organelle. RU organelle terms match EN singulars."
+  },
+  {
+    "questionId": "plants_coast_redwood_0001",
+    "sourceId": "miscellaneous/test/371",
+    "sourceRecordSha256": "6c5d3ee2f47306e5b8bb59a3de2eb8a3185448a451268f6a09d13dae12ce045e",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Figure 30.31 identifies Sequoia sempervirens as the tallest tree species, not the greatest-volume giant sequoia. Douglas fir is corrected to pseudotsuga in Russian; all four options are different tree taxa. No changing individual-tree height record is asserted."
+  },
+  {
+    "questionId": "plants_guard_cells_0001",
+    "sourceId": "miscellaneous/test/537",
+    "sourceRecordSha256": "f7a852a1f11bb26029476e20229c1478179947e2567e090ee3bbfb9c9310ac25",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Transport section confirms paired guard cells open/close stomata. Replaced source's membrane/cytoplasm/cellulose with other cell types, removing its category mismatch. RU 'Камера охраны' corrected to 'Замыкающие клетки'; both questions ask regulation, not generic passage."
+  },
+  {
+    "questionId": "plants_transpiration_0001",
+    "sourceId": "miscellaneous/test/702",
+    "sourceRecordSha256": "921fefca69ff13656f6e361c3ad022c852d68c439711952ba3003ce5ea4c04cf",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Xylem section defines water-vapor loss as transpiration and links evaporation to tension. Condensation is opposite phase change, fermentation a biochemical process, crystallization solid formation. RU/EN questions and explanations have equal scope."
+  },
+  {
+    "questionId": "plants_negative_gravitropism_0001",
+    "sourceId": "high_school_biology/test/175",
+    "sourceRecordSha256": "d8ce4003f7d9c2e191f7c1510f2908b10bc9cd590cd9a121543c20dc19665b14",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Gravity section explicitly distinguishes negative shoot gravitropism from positive root response. The stem's gravity direction is specified, not inferred from illumination. Phototropism answers describe another stimulus. Both languages preserve 'against gravity'."
+  },
+  {
+    "questionId": "plants_phytochrome_0001",
+    "sourceId": "high_school_biology/test/176",
+    "sourceRecordSha256": "043ce8e00636ecfea18ece311adaaad602b54e55e8ad3d9b678a7f53cd831c80",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Red/far-red section explicitly names Pr/Pfr as phytochrome forms. Rewrote broad original flowering question to the distinctive photoreceptor forms so auxin/gibberellin involvement cannot create another answer. Phototropin, cryptochrome and chlorophyll do not have these forms."
+  },
+  {
+    "questionId": "plants_oxygen_source_0001",
+    "sourceId": "high_school_biology/test/275",
+    "sourceRecordSha256": "ce9d926258e57f1f162e31945545e7b8a218b549c49cb122f384b5743b4683e5",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Photosystem II section confirms two H2O split for one diatomic O2. CO2 supplies carbon rather than released oxygen; H2O2 decomposition is not the specified photosynthetic source, and CO is not that substrate. Subscripts and compound names match RU/EN."
+  },
+  {
+    "questionId": "ancient_world_cuneiform_0001",
+    "sourceId": "prehistory/test/17",
+    "sourceRecordSha256": "23efc09d6a677762f61b6465b12092c642722814f0c93de68a0a6fdbcea004a3",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Met derives cuneiform from Latin wedge and describes reed/wood stylus signs in clay. Replaced source's disputed absolute 'earliest writing' assertion with a specific etymological fact. Hieroglyphs, Phoenician script and Linear B have different names; no mixed script/medium options."
+  },
+  {
+    "questionId": "ancient_world_upper_egypt_0001",
+    "sourceId": "prehistory/test/212",
+    "sourceRecordSha256": "ed914cbb12227399460e39e88242c49f1f7fafe95efb4faf375405afdc03f6dc",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Cairo museum explicitly places Lower Egypt in Delta and Upper Egypt in south. Compass distractors distinct; no inversion from English blank to misleading Russian noun fragment. Both languages ask relative location, not altitude."
+  },
+  {
+    "questionId": "human_body_iris_0001",
+    "sourceId": "miscellaneous/test/314",
+    "sourceRecordSha256": "7fcb37599f20baca5d5ff3b0a7171e7ef01fafe4dbf28ff554169156a13c75b0",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "NEI identifies the iris as colored tissue controlling pupil size. Cornea is transparent, retina light-sensitive tissue and lens focusing tissue; all are eye structures. Source's Russian 'ирис/ученик' and unrelated cochlea distractor are corrected."
+  },
+  {
+    "questionId": "human_body_paired_kidneys_0001",
+    "sourceId": "miscellaneous/test/569",
+    "sourceRecordSha256": "494a74203090c517526945145695a7d93e9cd67237c0ab996b32baac5cf73aae",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "NIDDK explicitly describes two kidneys on opposite sides of the spine. Liver, stomach and gallbladder are unpaired in typical anatomy. 'Typical/обычное строение' avoids claiming everyone has two kidneys; source's mistranslated 'пару А' removed."
+  },
+  {
+    "questionId": "human_body_alveoli_0001",
+    "sourceId": "anatomy/test/113",
+    "sourceRecordSha256": "a17c812b6548600b3b212dec26e0b84871e42243a4586e96cccd8bf859afd87e",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "NHLBI confirms air sacs at bronchiole ends and oxygen/CO2 exchange with surrounding capillaries. Changed original to ask for air sacs: capillaries also participate in exchange but are blood vessels, so cannot be second correct answer. Bronchi and bronchioles are tubes."
+  },
+  {
+    "questionId": "human_body_ileum_0001",
+    "sourceId": "anatomy/test/120",
+    "sourceRecordSha256": "1eb305e59fa0ff1bfcfcb2fb5b0cf8143d8e79fe42d897f852fe765223615700",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "NIDDK lists duodenum, jejunum and ileum as small intestine, versus cecum and colon as large intestine. Ileum last section confirmed. No alternate correct structure among distractors; Russian подвздошная is distinct from подвздошная кость/ilium."
+  },
+  {
+    "questionId": "mythology_olympus_0001",
+    "sourceId": "miscellaneous/test/651",
+    "sourceRecordSha256": "9da7d8b5a71a4e60770f01167e39eb80d2c2e2e7aed96e4422c7e9bfb31a5a95",
+    "sourceCommit": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+    "license": "Apache-2.0",
+    "changes": "Met essay identifies Mount Olympus as mythic home and Zeus foremost. Replaced source's planet and hall options with mountains, so all options fit question class. Scope explicitly ancient Greek myth, not a factual claim that gods live there."
+  }
+]
