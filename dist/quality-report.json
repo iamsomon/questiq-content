@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 190,
+  "approvedQuestions": 270,
   "draftQuestions": 0,
-  "playableCategories": 18,
+  "playableCategories": 26,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 9810,
+  "remainingQuestions": 9730,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -351,17 +351,21 @@
     },
     {
       "id": "animals",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -400,32 +404,40 @@
     },
     {
       "id": "dinosaurs",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "ecology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -521,47 +533,59 @@
     },
     {
       "id": "painting",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "architecture",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "literature",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -758,32 +782,40 @@
     },
     {
       "id": "video_games",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "hard": 2,
+        "medium": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "cartoons",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {

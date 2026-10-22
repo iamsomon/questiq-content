@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cartoons_woody_toy_0001",
+    "status": "approved",
+    "sha256": "6eeb706bce0db72cb80d5da7cfb60efde8bcb40ce7a7caf27b0f9cb0d6614cdf",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story",
+        "location": "Characters: Woody",
+        "claim": "What kind of toy is Woody in Toy Story? Answer: Cowboy. Woody has a pull-string voice box."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_buzz_role_0001",
+    "status": "approved",
+    "sha256": "bcbc3e510d5f3900cd12947b6b010b8cbec5e5d104e59d2f89fe019e6eced773",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story",
+        "location": "Characters: Buzz Lightyear",
+        "claim": "What does Buzz Lightyear believe himself to be at the start of Toy Story? Answer: A space ranger. He believes he is on a mission for Star Command."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_nemo_father_0001",
+    "status": "approved",
+    "sha256": "ea42b416c4628717351e7ae0f53d9903d286714c1aa65cc3110e849ada1359f4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/finding-nemo",
+        "location": "Synopsis; Nemo",
+        "claim": "What is Nemo’s father’s name? Answer: Marlin. His father travels across the ocean to bring him home."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_nemo_species_0001",
+    "status": "approved",
+    "sha256": "7102887ec04ac5d478020d10856016aee6a12c9dfc384537cd63814bfe7c4ad6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/finding-nemo",
+        "location": "Synopsis: clown fish and anemone",
+        "claim": "What kind of fish are Nemo and Marlin? Answer: Clownfish. Their home is an anemone on the Great Barrier Reef."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_remy_species_0001",
+    "status": "approved",
+    "sha256": "49fe49abfdea91f52f13cd2a6c7ab2a17bdeca866c8126db219815d6c3596971",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/ratatouille",
+        "location": "Synopsis; Remy",
+        "claim": "What animal is Remy in Ratatouille? Answer: Rat. He dreams of becoming a chef despite people’s attitudes toward rodents."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_ratatouille_city_0001",
+    "status": "approved",
+    "sha256": "d70c04df87afce511ed8592602001904fd0aa4fa80e4ebf966a7867c25944440",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/ratatouille",
+        "location": "Synopsis: Paris and Gusteau",
+        "claim": "In which city does Remy pursue his dream of becoming a chef? Answer: Paris. He finds himself beneath the restaurant of his hero Auguste Gusteau."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_monsters_factory_0001",
+    "status": "approved",
+    "sha256": "da87fd92f129f6be857898897ce5a02d74b2634f6b7532acdfc7308850b7be5d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/monsters-inc",
+        "location": "Synopsis: scream-processing factory",
+        "claim": "What does the factory process at the beginning of Monsters, Inc.? Answer: Children’s screams. Sulley’s job involves visiting children’s bedrooms."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_monsters_boo_0001",
+    "status": "approved",
+    "sha256": "632e70ebd0244ce5183f9b6c6975a503d291d6aba7bf6e9c4eb7f1f0cae74e5e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/monsters-inc",
+        "location": "Finding Boo; synopsis",
+        "claim": "What does Sulley call the girl who enters the monster world? Answer: Boo. A human child’s arrival disrupts the usual life of Monstropolis."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_walle_job_0001",
+    "status": "approved",
+    "sha256": "7e9519790cba2b2ea9eab500ffe1092a5d7806aa994c48f2a12c7da1adf828f4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/wall-e",
+        "location": "Characters: WALL-E",
+        "claim": "What task was WALL-E built to perform? Answer: Clean up trash. The robot compacts waste left on Earth into cubes."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_walle_eve_0001",
+    "status": "approved",
+    "sha256": "9b3e936788e43578e771ba979d79171695acf0f96eb6deb8d5aa19ee1aaad037",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/wall-e",
+        "location": "Synopsis; EVE",
+        "claim": "What is the name of the probe robot WALL-E meets? Answer: EVE. She searches for evidence that Earth can support life again."
+      }
+    ]
+  }
+]

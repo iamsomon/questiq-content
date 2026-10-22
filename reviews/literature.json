@@ -1,0 +1,182 @@
+[
+  {
+    "id": "literature_pride_author_0001",
+    "status": "approved",
+    "sha256": "0a4a0e68f7a926eefc6520a4da3baf615e31a0b149da811d6c5b9a2cff59168a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html",
+        "location": "Title and opening chapters",
+        "claim": "Who wrote Pride and Prejudice? Answer: Jane Austen. The story centers on Elizabeth and her relationship with Mr. Darcy."
+      }
+    ]
+  },
+  {
+    "id": "literature_pride_family_0001",
+    "status": "approved",
+    "sha256": "3e9821892f8707707dfae40cd25b909c75b23cae80c27da66d446922943f3b15",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html",
+        "location": "Chapter I",
+        "claim": "What is Elizabeth’s family name in Pride and Prejudice? Answer: Bennet. Elizabeth is one of five daughters in the family."
+      }
+    ]
+  },
+  {
+    "id": "literature_alice_author_0001",
+    "status": "approved",
+    "sha256": "5fa7f6302d4a0da235c87416f055aacfcff7f28f5bfb0dbe8b6fe665888cb517",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/11/pg11-images.html",
+        "location": "Title; Chapter I",
+        "claim": "Who wrote Alice’s Adventures in Wonderland? Answer: Lewis Carroll. The adventure begins with an unusual rabbit carrying a watch."
+      }
+    ]
+  },
+  {
+    "id": "literature_alice_rabbit_0001",
+    "status": "approved",
+    "sha256": "b5f9eab727fbdc0548c4c69f7e5375f7971f98ff9c920169e497961a9b644737",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/11/pg11-images.html",
+        "location": "Chapter I: Down the Rabbit-Hole",
+        "claim": "Whom does Alice follow down the rabbit hole? Answer: The White Rabbit. Alice notices the watch the rabbit takes from his waistcoat pocket."
+      }
+    ]
+  },
+  {
+    "id": "literature_frankenstein_author_0001",
+    "status": "approved",
+    "sha256": "c99bc75fc0bfaa0d1cbd0c26559b9d6df56882707274696fcb9a83fcbe2308df",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/84/pg84-images.html",
+        "location": "Title: The Modern Prometheus",
+        "claim": "Who wrote the novel Frankenstein? Answer: Mary Shelley. The novel’s subtitle refers to the myth of Prometheus."
+      }
+    ]
+  },
+  {
+    "id": "literature_frankenstein_creator_0001",
+    "status": "approved",
+    "sha256": "2f7469260c5f063910d1db400384d0748b76966b5e85356c3604cef6d5375a6f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/84/pg84-images.html",
+        "location": "Letters and Victor’s narrative",
+        "claim": "What is the name of the scientist who creates a living being in Shelley’s novel? Answer: Victor Frankenstein. Frankenstein is the creator’s surname, not the creature’s personal name."
+      }
+    ]
+  },
+  {
+    "id": "literature_moby_author_0001",
+    "status": "approved",
+    "sha256": "281b9b040347d7db59f2008c88b3f029dc0638b5c82f411a4b64242cd85cd67d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html",
+        "location": "Title; Chapter 1",
+        "claim": "Who wrote Moby-Dick? Answer: Herman Melville. The voyage is narrated by the sailor Ishmael."
+      }
+    ]
+  },
+  {
+    "id": "literature_moby_ship_0001",
+    "status": "approved",
+    "sha256": "f0abeb3ab0958b1b3cd617477c1596502fb0e3105df2b69fde1b345a059fc104",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html",
+        "location": "Chapter 16: The Ship",
+        "claim": "What is the name of Captain Ahab’s whaling ship? Answer: Pequod. The crew sails aboard it in pursuit of the white whale."
+      }
+    ]
+  },
+  {
+    "id": "literature_holmes_author_0001",
+    "status": "approved",
+    "sha256": "51d4b05854ad61d7735b0ea34a6e5fd6941e3dc66e753e38be922ab20ac52ecb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+        "location": "Title; A Scandal in Bohemia",
+        "claim": "Who created Sherlock Holmes? Answer: Arthur Conan Doyle. Many stories about the detective are narrated by his friend Watson."
+      }
+    ]
+  },
+  {
+    "id": "literature_watson_profession_0001",
+    "status": "approved",
+    "sha256": "306c42ae8958227423a326df874f98993be355294c439f31da93baaac85df922",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+        "location": "A Scandal in Bohemia: civil practice",
+        "claim": "What is the profession of Holmes’s friend Dr. Watson? Answer: Physician. Early in the collection, Watson mentions returning to medical practice."
+      }
+    ]
+  }
+]

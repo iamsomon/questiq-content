@@ -1,0 +1,442 @@
+[
+  {
+    "id": "architecture_taj_material_0001",
+    "categoryId": "architecture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из какого камня построена основная часть Тадж-Махала?",
+        "explanation": "Мавзолей находится в индийском городе Агра."
+      },
+      "en": {
+        "question": "Which stone forms the main structure of the Taj Mahal?",
+        "explanation": "The mausoleum stands in the Indian city of Agra."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белый мрамор",
+        "en": "White marble"
+      },
+      {
+        "id": "o1",
+        "ru": "Чёрный базальт",
+        "en": "Black basalt"
+      },
+      {
+        "id": "o2",
+        "ru": "Красный гранит",
+        "en": "Red granite"
+      },
+      {
+        "id": "o3",
+        "ru": "Серый сланец",
+        "en": "Grey slate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/252/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_taj_patron_0001",
+    "categoryId": "architecture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "По приказу какого правителя построен Тадж-Махал?",
+        "explanation": "Сооружение посвящено памяти его супруги."
+      },
+      "en": {
+        "question": "Which ruler commissioned the Taj Mahal?",
+        "explanation": "The building commemorates his wife."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шах-Джахан",
+        "en": "Shah Jahan"
+      },
+      {
+        "id": "o1",
+        "ru": "Акбар",
+        "en": "Akbar"
+      },
+      {
+        "id": "o2",
+        "ru": "Бабур",
+        "en": "Babur"
+      },
+      {
+        "id": "o3",
+        "ru": "Джахангир",
+        "en": "Jahangir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/252/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_taj_function_0001",
+    "categoryId": "architecture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для чего прежде всего был построен Тадж-Махал?",
+        "explanation": "Памятник относится к архитектуре империи Великих Моголов."
+      },
+      "en": {
+        "question": "What was the principal purpose of the Taj Mahal?",
+        "explanation": "The monument belongs to the architecture of the Mughal Empire."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мавзолей",
+        "en": "Mausoleum"
+      },
+      {
+        "id": "o1",
+        "ru": "Обсерватория",
+        "en": "Observatory"
+      },
+      {
+        "id": "o2",
+        "ru": "Крепость",
+        "en": "Fortress"
+      },
+      {
+        "id": "o3",
+        "ru": "Университет",
+        "en": "University"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/252/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_sydney_architect_0001",
+    "categoryId": "architecture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чей проект лёг в основу Сиднейского оперного театра?",
+        "explanation": "Датский архитектор победил в международном конкурсе 1957 года."
+      },
+      "en": {
+        "question": "Whose design was chosen for the Sydney Opera House?",
+        "explanation": "The Danish architect won the international competition in 1957."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Йорн Утзон",
+        "en": "Jørn Utzon"
+      },
+      {
+        "id": "o1",
+        "ru": "Антонио Гауди",
+        "en": "Antoni Gaudí"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнк Ллойд Райт",
+        "en": "Frank Lloyd Wright"
+      },
+      {
+        "id": "o3",
+        "ru": "Оскар Нимейер",
+        "en": "Oscar Niemeyer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/166/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_sydney_opening_0001",
+    "categoryId": "architecture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году открылся Сиднейский оперный театр?",
+        "explanation": "Здание стало одним из заметных сооружений архитектуры XX века."
+      },
+      "en": {
+        "question": "In which year was the Sydney Opera House inaugurated?",
+        "explanation": "The building became a major work of twentieth-century architecture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1973",
+        "en": "1973"
+      },
+      {
+        "id": "o1",
+        "ru": "1933",
+        "en": "1933"
+      },
+      {
+        "id": "o2",
+        "ru": "1953",
+        "en": "1953"
+      },
+      {
+        "id": "o3",
+        "ru": "1993",
+        "en": "1993"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/166/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_sydney_roof_0001",
+    "categoryId": "architecture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие формы образуют знаменитую крышу Сиднейского оперного театра?",
+        "explanation": "Оболочки сгруппированы над залами и рестораном."
+      },
+      "en": {
+        "question": "Which forms make up the famous roof of the Sydney Opera House?",
+        "explanation": "The shells are grouped over the halls and a restaurant."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сводчатые оболочки",
+        "en": "Vaulted shells"
+      },
+      {
+        "id": "o1",
+        "ru": "Кирпичные пирамиды",
+        "en": "Brick pyramids"
+      },
+      {
+        "id": "o2",
+        "ru": "Плоские террасы",
+        "en": "Flat terraces"
+      },
+      {
+        "id": "o3",
+        "ru": "Каменные минареты",
+        "en": "Stone minarets"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/166/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_jerusalem_dome_0001",
+    "categoryId": "architecture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком веке был построен Купол Скалы в Иерусалиме?",
+        "explanation": "В оформлении памятника используются геометрические и растительные мотивы."
+      },
+      "en": {
+        "question": "In which century was the Dome of the Rock in Jerusalem built?",
+        "explanation": "The monument’s decoration includes geometric and floral motifs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "VII",
+        "en": "7th"
+      },
+      {
+        "id": "o1",
+        "ru": "III",
+        "en": "3rd"
+      },
+      {
+        "id": "o2",
+        "ru": "XII",
+        "en": "12th"
+      },
+      {
+        "id": "o3",
+        "ru": "XV",
+        "en": "15th"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/148/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_kathmandu_groups_0001",
+    "categoryId": "architecture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько групп памятников включает объект ЮНЕСКО «Долина Катманду»?",
+        "explanation": "В состав входят дворцовые площади, буддийские ступы и индуистские храмы."
+      },
+      "en": {
+        "question": "How many monument zones form UNESCO’s Kathmandu Valley property?",
+        "explanation": "The property includes palace squares, Buddhist stupas and Hindu temples."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/121/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_kathmandu_stupa_0001",
+    "categoryId": "architecture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих сооружений долины Катманду является буддийской ступой?",
+        "explanation": "ЮНЕСКО перечисляет Боудданатх вместе со ступой Сваямбху."
+      },
+      "en": {
+        "question": "Which of these Kathmandu Valley monuments is a Buddhist stupa?",
+        "explanation": "UNESCO lists Bauddhanath alongside the Swayambhu stupa."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боудданатх",
+        "en": "Bauddhanath"
+      },
+      {
+        "id": "o1",
+        "ru": "Пашупатинатх",
+        "en": "Pashupati"
+      },
+      {
+        "id": "o2",
+        "ru": "Чангу-Нараян",
+        "en": "Changu Narayan"
+      },
+      {
+        "id": "o3",
+        "ru": "Площадь Дурбар в Патане",
+        "en": "Patan Durbar Square"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/121/"
+    ],
+    "image": null
+  },
+  {
+    "id": "architecture_taj_century_0001",
+    "categoryId": "architecture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком веке был возведён Тадж-Махал?",
+        "explanation": "ЮНЕСКО датирует строительство мавзолея 1631–1648 годами."
+      },
+      "en": {
+        "question": "In which century was the Taj Mahal built?",
+        "explanation": "UNESCO dates construction of the mausoleum to 1631–1648."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "XVII",
+        "en": "17th"
+      },
+      {
+        "id": "o1",
+        "ru": "XIII",
+        "en": "13th"
+      },
+      {
+        "id": "o2",
+        "ru": "XV",
+        "en": "15th"
+      },
+      {
+        "id": "o3",
+        "ru": "XIX",
+        "en": "19th"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/252/"
+    ],
+    "image": null
+  }
+]

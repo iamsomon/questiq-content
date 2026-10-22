@@ -1,4 +1,84 @@
 {
+  "animals_cheetah_sprint_0001": {
+    "revision": 1,
+    "sha256": "167b2c2fe13ce3e51c22e588411c19ca514b1b1e9f4e4dc58b85b439e3548fec"
+  },
+  "animals_cheetah_tail_0001": {
+    "revision": 1,
+    "sha256": "ec7ee34a2cf870b9b8aa5a32d7505aaaff008b06423f6a1aff19dbd6c4c23a68"
+  },
+  "animals_giraffe_height_0001": {
+    "revision": 1,
+    "sha256": "e32af30b280cbca3c8fcc5fa9a365dce6cd6e44a0cf12e6f041935ed6d7c5b39"
+  },
+  "animals_giraffe_neck_0001": {
+    "revision": 1,
+    "sha256": "bd06bac5b8581d8931c0c17bc2b7f11e848c186e422220e4962ffb34347b5df8"
+  },
+  "animals_giraffe_relative_0001": {
+    "revision": 1,
+    "sha256": "34e1fc05cbe4edf060dd379e557cbfc712edaf59a7635fce8ec687de2a332861"
+  },
+  "animals_panda_diet_0001": {
+    "revision": 1,
+    "sha256": "ace660565ddcc214f04d4f492f9de242227fc48824c4f3b83bc44cf8659effd0"
+  },
+  "animals_panda_thumb_0001": {
+    "revision": 1,
+    "sha256": "4cf1a5e4c69b2105f3606fbcd316cd8298ee0649d4892c1a724c074245cba754"
+  },
+  "animals_platypus_bill_0001": {
+    "revision": 1,
+    "sha256": "eebe59161e4ca185e898da420e86e14a98de05713523bbee5b4af6cafc35a929"
+  },
+  "animals_platypus_eggs_0001": {
+    "revision": 1,
+    "sha256": "de3e25702f74f1d9090385c9e1522416208a983f56d08a3d672f0f9fd94c7c14"
+  },
+  "animals_platypus_habitat_0001": {
+    "revision": 1,
+    "sha256": "3288d5087f8640a3a00493f89f3960b36a18c80702261afb741030d8bb5113b3"
+  },
+  "architecture_jerusalem_dome_0001": {
+    "revision": 1,
+    "sha256": "8708ac0819ed06bf088a7d2ddbf5d2235b1d92bedd4e2c0668d9379add1b4681"
+  },
+  "architecture_kathmandu_groups_0001": {
+    "revision": 1,
+    "sha256": "90731a5b41d45d36cc14ff81b80e612d382d8d688a916fd81c2e1fcfcf9be0eb"
+  },
+  "architecture_kathmandu_stupa_0001": {
+    "revision": 1,
+    "sha256": "37a16f28302fc78643daabca9c20052414f224708d33f53115bffda2d80eb5d8"
+  },
+  "architecture_sydney_architect_0001": {
+    "revision": 1,
+    "sha256": "c59a5262d346869d2c14a706db54b9fa1289bfcbe5d9111d869b9f93f248b147"
+  },
+  "architecture_sydney_opening_0001": {
+    "revision": 1,
+    "sha256": "6325fb2c96f0406e14a8373d0fb0e38a64ec361030716aebafa2c18e45b08c0d"
+  },
+  "architecture_sydney_roof_0001": {
+    "revision": 1,
+    "sha256": "2e03dbc6a58862447ad715935589f5c6791ce4bb9be28cf46d052634b9626e21"
+  },
+  "architecture_taj_century_0001": {
+    "revision": 1,
+    "sha256": "b0d2befe47ddcc317c149a70df9568dee93dd82862f6bfcdb58ba7bda838aa62"
+  },
+  "architecture_taj_function_0001": {
+    "revision": 1,
+    "sha256": "c1ce06bf38e86a9d7feb0cca0b393f533a25d21a75bdd9fc158e4b42d2deb07c"
+  },
+  "architecture_taj_material_0001": {
+    "revision": 1,
+    "sha256": "f37c482721592c61f8b2f44d4df98d25e52677d971f9f4d3026210af18e20c15"
+  },
+  "architecture_taj_patron_0001": {
+    "revision": 1,
+    "sha256": "30b39d5bedb9f026b957f7469b902883ca35ba600d4b198f49e3c2579d2492c4"
+  },
   "artificial_intelligence_cluster_labels_0001": {
     "revision": 1,
     "sha256": "6db4e63d53a073ec8f75b8be10c7f76a4c6896ad82cd46e20bdfc7cc5beacd23"
@@ -239,6 +319,46 @@
     "revision": 1,
     "sha256": "8d102401fc49e04552ca35fa88fde3ec2f6c2c1e53f9994b80ad2225249bf25c"
   },
+  "cartoons_buzz_role_0001": {
+    "revision": 1,
+    "sha256": "bcbc3e510d5f3900cd12947b6b010b8cbec5e5d104e59d2f89fe019e6eced773"
+  },
+  "cartoons_monsters_boo_0001": {
+    "revision": 1,
+    "sha256": "632e70ebd0244ce5183f9b6c6975a503d291d6aba7bf6e9c4eb7f1f0cae74e5e"
+  },
+  "cartoons_monsters_factory_0001": {
+    "revision": 1,
+    "sha256": "da87fd92f129f6be857898897ce5a02d74b2634f6b7532acdfc7308850b7be5d"
+  },
+  "cartoons_nemo_father_0001": {
+    "revision": 1,
+    "sha256": "ea42b416c4628717351e7ae0f53d9903d286714c1aa65cc3110e849ada1359f4"
+  },
+  "cartoons_nemo_species_0001": {
+    "revision": 1,
+    "sha256": "7102887ec04ac5d478020d10856016aee6a12c9dfc384537cd63814bfe7c4ad6"
+  },
+  "cartoons_ratatouille_city_0001": {
+    "revision": 1,
+    "sha256": "d70c04df87afce511ed8592602001904fd0aa4fa80e4ebf966a7867c25944440"
+  },
+  "cartoons_remy_species_0001": {
+    "revision": 1,
+    "sha256": "49fe49abfdea91f52f13cd2a6c7ab2a17bdeca866c8126db219815d6c3596971"
+  },
+  "cartoons_walle_eve_0001": {
+    "revision": 1,
+    "sha256": "9b3e936788e43578e771ba979d79171695acf0f96eb6deb8d5aa19ee1aaad037"
+  },
+  "cartoons_walle_job_0001": {
+    "revision": 1,
+    "sha256": "7e9519790cba2b2ea9eab500ffe1092a5d7806aa994c48f2a12c7da1adf828f4"
+  },
+  "cartoons_woody_toy_0001": {
+    "revision": 1,
+    "sha256": "6eeb706bce0db72cb80d5da7cfb60efde8bcb40ce7a7caf27b0f9cb0d6614cdf"
+  },
   "chemistry_alkali_metal_0001": {
     "revision": 1,
     "sha256": "69198e34fdcc6367047625f0aa70c4973f04fa8c789f4f32a853d8da0b6467b5"
@@ -358,6 +478,86 @@
   "countries_samoa_region_0001": {
     "revision": 1,
     "sha256": "1736f292ec973aeeccc2ba1087160a2af0d277c3c25f9dbac2d965e3ae31a54b"
+  },
+  "dinosaurs_dimetrodon_0001": {
+    "revision": 1,
+    "sha256": "e86c550a6f84c594c31d02a8d74b38d90455539c75eaa830047ffb4eba04abd3"
+  },
+  "dinosaurs_dinosaur_stance_0001": {
+    "revision": 1,
+    "sha256": "8b23c5c313a25886640903f01b853e3dd108534e689117f8482b1266a6a2b6f7"
+  },
+  "dinosaurs_living_dinosaurs_0001": {
+    "revision": 1,
+    "sha256": "583f39e6dfb89ba7d643ef6057347b617e57d7442ee9c8c3946e665fcd2eb223"
+  },
+  "dinosaurs_pterosaurs_group_0001": {
+    "revision": 1,
+    "sha256": "069c06fe1ba634a6684c5d5128f74c2933bc413ad473de2a34b1244d0a8343ed"
+  },
+  "dinosaurs_stegosaurus_defence_0001": {
+    "revision": 1,
+    "sha256": "d80728b967db835326e79107a662968e784a574328f651c5e32308980f67212e"
+  },
+  "dinosaurs_stegosaurus_period_0001": {
+    "revision": 1,
+    "sha256": "5a787452e5cebc533ea905bcc403ff85a022269809b088048dd553175d107bcf"
+  },
+  "dinosaurs_stegosaurus_plates_0001": {
+    "revision": 1,
+    "sha256": "c570f64da1a7e418159b01e989e85ed3566975bd86a07d2d3f1fac0febc80670"
+  },
+  "dinosaurs_triceratops_diet_0001": {
+    "revision": 1,
+    "sha256": "367edd1b7f064c88560f3fdaff484462a3b71bee9093e3dbef543275ce70f7be"
+  },
+  "dinosaurs_triceratops_name_0001": {
+    "revision": 1,
+    "sha256": "214a3ec5d7a10e35c740b6ab335dbac345f86547f6a8e4c0dc89d212d9be6b74"
+  },
+  "dinosaurs_velociraptor_origin_0001": {
+    "revision": 1,
+    "sha256": "6dc07dcebe0f577f1e5f869a8c4629b2846fd415ffa6cef06c997d42848a8836"
+  },
+  "ecology_compost_oxygen_0001": {
+    "revision": 1,
+    "sha256": "0b65177d890041488bd80ca14c1b5b1944838c5dac840a33654671c801306360"
+  },
+  "ecology_compost_process_0001": {
+    "revision": 1,
+    "sha256": "12a5135498f25e38f0c328839bc9ab18881acfede070f46e878e55330f5eca03"
+  },
+  "ecology_compost_water_0001": {
+    "revision": 1,
+    "sha256": "6a49a8a9eb5f56c8bf365986c6bd6f4365d8be61bd0636bf31f8bd40551c8dca"
+  },
+  "ecology_greenhouse_gas_0001": {
+    "revision": 1,
+    "sha256": "b3cd3aeb76aa5c7593a64a5cbb12e25755b23f4d8e9e2a9079f4da8711941064"
+  },
+  "ecology_landfill_methane_0001": {
+    "revision": 1,
+    "sha256": "6865aa82371c64ab9940f9e3dfa29882d822d82c59bc8a570d3035fcc55a8517"
+  },
+  "ecology_ozone_atoms_0001": {
+    "revision": 1,
+    "sha256": "de862852ae83401baf413436a9e7f077317d0561d63847c0a1a758c920d340ed"
+  },
+  "ecology_ozone_layer_0001": {
+    "revision": 1,
+    "sha256": "8e3b4080881b766e065824d42d07427e54a5d24870fefd09e2649007b4f71506"
+  },
+  "ecology_ozone_stratosphere_0001": {
+    "revision": 1,
+    "sha256": "557d0ae8e32d66d81c41044201b0e007ef228671a5d807826b11c05f523211f9"
+  },
+  "ecology_plant_carbon_0001": {
+    "revision": 1,
+    "sha256": "603e3ce9855d9d1c1cdfb512f489c242b317a93ea1409a8278e1353f159c8adc"
+  },
+  "ecology_vermicompost_0001": {
+    "revision": 1,
+    "sha256": "ed1d29f140a2f130aaf584cc57c6050e5d4556737ff496b6413798571be75ab5"
   },
   "flags_canada_leaf_0001": {
     "revision": 1,
@@ -519,6 +719,46 @@
     "revision": 1,
     "sha256": "b0e839934c79d1581917cb991c3383665a2755ab0d4f3874c99cc153abe3a204"
   },
+  "literature_alice_author_0001": {
+    "revision": 1,
+    "sha256": "5fa7f6302d4a0da235c87416f055aacfcff7f28f5bfb0dbe8b6fe665888cb517"
+  },
+  "literature_alice_rabbit_0001": {
+    "revision": 1,
+    "sha256": "b5f9eab727fbdc0548c4c69f7e5375f7971f98ff9c920169e497961a9b644737"
+  },
+  "literature_frankenstein_author_0001": {
+    "revision": 1,
+    "sha256": "c99bc75fc0bfaa0d1cbd0c26559b9d6df56882707274696fcb9a83fcbe2308df"
+  },
+  "literature_frankenstein_creator_0001": {
+    "revision": 1,
+    "sha256": "2f7469260c5f063910d1db400384d0748b76966b5e85356c3604cef6d5375a6f"
+  },
+  "literature_holmes_author_0001": {
+    "revision": 1,
+    "sha256": "51d4b05854ad61d7735b0ea34a6e5fd6941e3dc66e753e38be922ab20ac52ecb"
+  },
+  "literature_moby_author_0001": {
+    "revision": 1,
+    "sha256": "281b9b040347d7db59f2008c88b3f029dc0638b5c82f411a4b64242cd85cd67d"
+  },
+  "literature_moby_ship_0001": {
+    "revision": 1,
+    "sha256": "f0abeb3ab0958b1b3cd617477c1596502fb0e3105df2b69fde1b345a059fc104"
+  },
+  "literature_pride_author_0001": {
+    "revision": 1,
+    "sha256": "0a4a0e68f7a926eefc6520a4da3baf615e31a0b149da811d6c5b9a2cff59168a"
+  },
+  "literature_pride_family_0001": {
+    "revision": 1,
+    "sha256": "3e9821892f8707707dfae40cd25b909c75b23cae80c27da66d446922943f3b15"
+  },
+  "literature_watson_profession_0001": {
+    "revision": 1,
+    "sha256": "306c42ae8958227423a326df874f98993be355294c439f31da93baaac85df922"
+  },
   "mathematics_constant_term_0001": {
     "revision": 1,
     "sha256": "277695cfdf12ca8293698b6dd738766f8eebdc1bcc000f39bc5cdf7a3aa6904a"
@@ -639,6 +879,46 @@
     "revision": 1,
     "sha256": "cfa60372686ce841b0ab06a2e59c021ab23b944349e349eed79d98f42192e020"
   },
+  "painting_american_gothic_author_0001": {
+    "revision": 1,
+    "sha256": "2ab2f1286c0ab4576e63a4c257ee9ed2180f0d032955784bad474110447c65c9"
+  },
+  "painting_american_gothic_daughter_0001": {
+    "revision": 1,
+    "sha256": "1ae6fab0dd1f7a796425a7c46edd49e022cde1addd8e02b46e9cecb2be52cbde"
+  },
+  "painting_bedroom_author_0001": {
+    "revision": 1,
+    "sha256": "16e64698cde5cf14e577bd9fca51bd5c9098cde638c366df6b7657700099d705"
+  },
+  "painting_bedroom_date_0001": {
+    "revision": 1,
+    "sha256": "bb2983cf1b6b4c10b98eb49205d158d55aa4cacd2cb5c483d2c977f44b04a0eb"
+  },
+  "painting_grande_jatte_author_0001": {
+    "revision": 1,
+    "sha256": "6d1526f2623df6d43bdd614025cfc43e6d5779266fc95ce1a8ed7fd2ffc52ec2"
+  },
+  "painting_grande_jatte_technique_0001": {
+    "revision": 1,
+    "sha256": "cbd342283dcd4c154332105e0b5911d19d73b74cd59dedd4b855459fbe39946c"
+  },
+  "painting_nighthawks_author_0001": {
+    "revision": 1,
+    "sha256": "162b1b68bab9136f79f333d858b0fe2f233ee5fb9f0dd7047fdfa74c03c1b4f6"
+  },
+  "painting_nighthawks_medium_0001": {
+    "revision": 1,
+    "sha256": "eeadcd251a0ace0265083703e32f6a95f951738a149c49ffe94575588ab631a8"
+  },
+  "painting_water_lilies_author_0001": {
+    "revision": 1,
+    "sha256": "3ff509f58dca1aedee9e248cc661a2b3d0d9ada03afb9b36d074854b841843aa"
+  },
+  "painting_water_lilies_garden_0001": {
+    "revision": 1,
+    "sha256": "6c2214c7f713208660f418053ad1436a3b930137b051128e1b5f9f4701261601"
+  },
   "physics_amount_unit_0001": {
     "revision": 1,
     "sha256": "3bc3c097ecac5af87f63e66ab417be88d44e80f5d5bf781dadbc3756629cc63f"
@@ -758,5 +1038,45 @@
   "tennis_tiebreak_service_0001": {
     "revision": 1,
     "sha256": "49d5c39c74a8a1bce918216ee51aa045d4c9e459745296f0e239aadf34e220c3"
+  },
+  "video_games_guitar_hero_debut_0001": {
+    "revision": 1,
+    "sha256": "972caa2dc98b998c60c18a9566f8f2669485e65aff4d9c60d446c184306ef288"
+  },
+  "video_games_ps1_chip_0001": {
+    "revision": 1,
+    "sha256": "3c8c169aa0bec179c69101d709071f17d64b9a6dd6f236694bd84084bd869767"
+  },
+  "video_games_ps1_disc_0001": {
+    "revision": 1,
+    "sha256": "f4bd11c95128a1ac954ef718fd908bf01745f9bdac4ea3604c61f8c7df32dff1"
+  },
+  "video_games_ps1_japan_year_0001": {
+    "revision": 1,
+    "sha256": "13e761d4be60a795ed0f559aaa0543e05edd8b19d719d9cf82f5570fdd37a99e"
+  },
+  "video_games_ps2_cpu_0001": {
+    "revision": 1,
+    "sha256": "e7712e4b87918d32fe86820522d20664c74c456fef566a10c3e2815889797abc"
+  },
+  "video_games_ps2_dvd_0001": {
+    "revision": 1,
+    "sha256": "0fe6a23dca9761412e17a3b0d1f32383727b49c8f099d68120e5e1a46cfebcd8"
+  },
+  "video_games_ps2_japan_year_0001": {
+    "revision": 1,
+    "sha256": "44264f4cd82864902f1af02ea832c5ffe6fa0977f36a8614994a4cef72ecd4eb"
+  },
+  "video_games_ps2_network_0001": {
+    "revision": 1,
+    "sha256": "05d6bc53eb3fd4ed81d66a156c6a3dfec8f9c4a487cc2295909b2501e871917c"
+  },
+  "video_games_ps2_slim_0001": {
+    "revision": 1,
+    "sha256": "adbdab6005faa05a46e3e8dbdb3a1399925db02ca50276b70339197a105d912a"
+  },
+  "video_games_singstar_play_0001": {
+    "revision": 1,
+    "sha256": "aebab5e21fbf29d482fa52590ed2dcf069118152e797e556e362fab6eae11aac"
   }
 }

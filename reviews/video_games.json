@@ -1,0 +1,182 @@
+[
+  {
+    "id": "video_games_ps1_japan_year_0001",
+    "status": "approved",
+    "sha256": "13e761d4be60a795ed0f559aaa0543e05edd8b19d719d9cf82f5570fdd37a99e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/",
+        "location": "Regional release dates",
+        "claim": "In which year was the original PlayStation released in Japan? Answer: 1994. North America and Europe received the console the following year."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps1_disc_0001",
+    "status": "approved",
+    "sha256": "f4bd11c95128a1ac954ef718fd908bf01745f9bdac4ea3604c61f8c7df32dff1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/",
+        "location": "Games on CD",
+        "claim": "Which medium carried games for the original PlayStation? Answer: CD-ROM. Optical discs could hold more data than contemporary cartridges."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps1_chip_0001",
+    "status": "approved",
+    "sha256": "3c8c169aa0bec179c69101d709071f17d64b9a6dd6f236694bd84084bd869767",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/",
+        "location": "32-bit CPU",
+        "claim": "Which CPU did the original PlayStation use? Answer: R3000. It was a 32-bit processor used for tasks including 3D graphics."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps2_japan_year_0001",
+    "status": "approved",
+    "sha256": "44264f4cd82864902f1af02ea832c5ffe6fa0977f36a8614994a4cef72ecd4eb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "Regional release dates",
+        "claim": "In which year did PlayStation 2 go on sale in Japan? Answer: 2000. It launched in Japan in March and in Europe in November of the same year."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps2_dvd_0001",
+    "status": "approved",
+    "sha256": "0fe6a23dca9761412e17a3b0d1f32383727b49c8f099d68120e5e1a46cfebcd8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "The DVD age",
+        "claim": "Which video format could PlayStation 2 play without a separate player? Answer: DVD. Built-in movie playback made the console a home multimedia device."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps2_cpu_0001",
+    "status": "approved",
+    "sha256": "e7712e4b87918d32fe86820522d20664c74c456fef566a10c3e2815889797abc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "The Emotion Engine",
+        "claim": "What was the CPU of PlayStation 2 called? Answer: Emotion Engine. The processor helped produce complex game imagery for its era."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps2_slim_0001",
+    "status": "approved",
+    "sha256": "adbdab6005faa05a46e3e8dbdb3a1399925db02ca50276b70339197a105d912a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "Console variations: 2004 Slim",
+        "claim": "What was the thinner PlayStation 2 model released in 2004 called? Answer: PS2 Slim. The smaller model included an Ethernet port for online play."
+      }
+    ]
+  },
+  {
+    "id": "video_games_ps2_network_0001",
+    "status": "approved",
+    "sha256": "05d6bc53eb3fd4ed81d66a156c6a3dfec8f9c4a487cc2295909b2501e871917c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "PS2 Network Adaptor",
+        "claim": "Which accessory enabled early PS2 models to connect online? Answer: Network Adaptor. The adapter fitted at the back and provided a network connection."
+      }
+    ]
+  },
+  {
+    "id": "video_games_guitar_hero_debut_0001",
+    "status": "approved",
+    "sha256": "972caa2dc98b998c60c18a9566f8f2669485e65aff4d9c60d446c184306ef288",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "Guitar Hero",
+        "claim": "On which console did the Guitar Hero series begin in 2005? Answer: PlayStation 2. The music game let players perform rock tracks using a guitar controller."
+      }
+    ]
+  },
+  {
+    "id": "video_games_singstar_play_0001",
+    "status": "approved",
+    "sha256": "aebab5e21fbf29d482fa52590ed2dcf069118152e797e556e362fab6eae11aac",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate primary-source and distractor pass",
+    "languageReviewer": "Codex separate RU/EN wording comparison pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/",
+        "location": "SingStar",
+        "claim": "Which accessory do players use in the karaoke series SingStar? Answer: Microphone. The series scored players’ vocal performances of familiar songs."
+      }
+    ]
+  }
+]

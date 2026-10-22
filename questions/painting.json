@@ -1,0 +1,442 @@
+[
+  {
+    "id": "painting_nighthawks_author_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Полуночники» (Nighthawks)?",
+        "explanation": "Картина датирована 1942 годом."
+      },
+      "en": {
+        "question": "Who painted Nighthawks?",
+        "explanation": "The painting dates to 1942."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдвард Хоппер",
+        "en": "Edward Hopper"
+      },
+      {
+        "id": "o1",
+        "ru": "Грант Вуд",
+        "en": "Grant Wood"
+      },
+      {
+        "id": "o2",
+        "ru": "Джексон Поллок",
+        "en": "Jackson Pollock"
+      },
+      {
+        "id": "o3",
+        "ru": "Энди Уорхол",
+        "en": "Andy Warhol"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/111628"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_nighthawks_medium_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой технике написаны «Полуночники» Эдварда Хоппера?",
+        "explanation": "Работа входит в коллекцию Чикагского института искусств."
+      },
+      "en": {
+        "question": "Which medium did Edward Hopper use for Nighthawks?",
+        "explanation": "The work belongs to the Art Institute of Chicago collection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Масло на холсте",
+        "en": "Oil on canvas"
+      },
+      {
+        "id": "o1",
+        "ru": "Акварель на бумаге",
+        "en": "Watercolor on paper"
+      },
+      {
+        "id": "o2",
+        "ru": "Фреска на штукатурке",
+        "en": "Fresco on plaster"
+      },
+      {
+        "id": "o3",
+        "ru": "Темпера на пергаменте",
+        "en": "Tempera on parchment"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/111628"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_bedroom_author_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Спальню», хранящуюся в Чикагском институте искусств?",
+        "explanation": "Чикагская версия картины датирована 1889 годом."
+      },
+      "en": {
+        "question": "Who painted The Bedroom held by the Art Institute of Chicago?",
+        "explanation": "The Chicago version of the painting dates to 1889."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o1",
+        "ru": "Поль Сезанн",
+        "en": "Paul Cézanne"
+      },
+      {
+        "id": "o2",
+        "ru": "Поль Гоген",
+        "en": "Paul Gauguin"
+      },
+      {
+        "id": "o3",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/28560"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_bedroom_date_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каким годом датирована чикагская версия «Спальни» Ван Гога?",
+        "explanation": "Это живопись маслом на холсте."
+      },
+      "en": {
+        "question": "What is the date of the Chicago version of Van Gogh’s The Bedroom?",
+        "explanation": "It is an oil painting on canvas."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1889",
+        "en": "1889"
+      },
+      {
+        "id": "o1",
+        "ru": "1849",
+        "en": "1849"
+      },
+      {
+        "id": "o2",
+        "ru": "1909",
+        "en": "1909"
+      },
+      {
+        "id": "o3",
+        "ru": "1929",
+        "en": "1929"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/28560"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_grande_jatte_author_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Воскресный день на острове Гранд-Жатт»?",
+        "explanation": "Основная работа над полотном относится к 1884–1886 годам."
+      },
+      "en": {
+        "question": "Who painted A Sunday on La Grande Jatte?",
+        "explanation": "The main painting dates to 1884–1886."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жорж Сёра",
+        "en": "Georges Seurat"
+      },
+      {
+        "id": "o1",
+        "ru": "Камиль Писсарро",
+        "en": "Camille Pissarro"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Дега",
+        "en": "Edgar Degas"
+      },
+      {
+        "id": "o3",
+        "ru": "Огюст Ренуар",
+        "en": "Auguste Renoir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/27992"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_grande_jatte_technique_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая техника характерна для картины Сёра «Воскресный день на острове Гранд-Жатт»?",
+        "explanation": "Цветовые точки и короткие мазки сливаются в формы при взгляде издали."
+      },
+      "en": {
+        "question": "Which technique characterizes Seurat’s A Sunday on La Grande Jatte?",
+        "explanation": "Dots and short strokes of color combine into forms when seen from a distance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пуантилизм",
+        "en": "Pointillism"
+      },
+      {
+        "id": "o1",
+        "ru": "Фреска",
+        "en": "Fresco"
+      },
+      {
+        "id": "o2",
+        "ru": "Гризайль",
+        "en": "Grisaille"
+      },
+      {
+        "id": "o3",
+        "ru": "Коллаж",
+        "en": "Collage"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/27992"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_american_gothic_author_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Американскую готику»?",
+        "explanation": "Картина создана в 1930 году."
+      },
+      "en": {
+        "question": "Who painted American Gothic?",
+        "explanation": "The painting was created in 1930."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Грант Вуд",
+        "en": "Grant Wood"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдвард Хоппер",
+        "en": "Edward Hopper"
+      },
+      {
+        "id": "o2",
+        "ru": "Эндрю Уайет",
+        "en": "Andrew Wyeth"
+      },
+      {
+        "id": "o3",
+        "ru": "Норман Роквелл",
+        "en": "Norman Rockwell"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/6565"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_american_gothic_daughter_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кем приходится фермеру женщина на «Американской готике» по описанию музея?",
+        "explanation": "Вуд хотел передать традиционные ценности сельской Америки."
+      },
+      "en": {
+        "question": "According to the museum, how is the woman related to the farmer in American Gothic?",
+        "explanation": "Wood wanted to convey traditional rural American values."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дочь",
+        "en": "Daughter"
+      },
+      {
+        "id": "o1",
+        "ru": "Жена",
+        "en": "Wife"
+      },
+      {
+        "id": "o2",
+        "ru": "Сестра",
+        "en": "Sister"
+      },
+      {
+        "id": "o3",
+        "ru": "Мать",
+        "en": "Mother"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/6565"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_water_lilies_author_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Кувшинки» 1906 года из Чикагского института искусств?",
+        "explanation": "Эта работа выполнена маслом на холсте."
+      },
+      "en": {
+        "question": "Who painted the 1906 Water Lilies in the Art Institute of Chicago?",
+        "explanation": "This work is painted in oil on canvas."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдуар Мане",
+        "en": "Édouard Manet"
+      },
+      {
+        "id": "o2",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o3",
+        "ru": "Анри Матисс",
+        "en": "Henri Matisse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/16568"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_water_lilies_garden_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком французском местечке находился сад Моне, вдохновивший его «Кувшинки»?",
+        "explanation": "Художник создал там водный сад с прудом и японским мостиком."
+      },
+      "en": {
+        "question": "In which French village was Monet’s garden that inspired his Water Lilies?",
+        "explanation": "The artist created a water garden there with a pond and Japanese bridge."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Живерни",
+        "en": "Giverny"
+      },
+      {
+        "id": "o1",
+        "ru": "Арль",
+        "en": "Arles"
+      },
+      {
+        "id": "o2",
+        "ru": "Овер-сюр-Уаз",
+        "en": "Auvers-sur-Oise"
+      },
+      {
+        "id": "o3",
+        "ru": "Сен-Реми-де-Прованс",
+        "en": "Saint-Rémy-de-Provence"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/16568"
+    ],
+    "image": null
+  }
+]

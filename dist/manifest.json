@@ -1,11 +1,43 @@
 {
   "schemaVersion": 1,
-  "version": "727d3ec8bcc43488416160fe88c3094ca7b659e541a20463128ee2485db58597",
+  "version": "c014cf6931bcd769446c02f5ed6beb7a973899ddb9278d51b2347f9f8e84575d",
   "revokedIds": [],
   "packs": [
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "animals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/animals-bedde73536ad907d.json",
+      "sha256": "bedde73536ad907d0f72510c53df2a8df0315c5920648218e2aabb7f5a9d8521",
+      "size": 8724
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "animals",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/animals-bedde73536ad907d.json",
+      "sha256": "bedde73536ad907d0f72510c53df2a8df0315c5920648218e2aabb7f5a9d8521",
+      "size": 8724
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "architecture",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-68b3b75f7ac8a0cf.json",
+      "sha256": "68b3b75f7ac8a0cfd1e2136389eef41f7e45b9b73fab65500a23b74df9ab3e16",
+      "size": 8402
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "architecture",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-68b3b75f7ac8a0cf.json",
+      "sha256": "68b3b75f7ac8a0cfd1e2136389eef41f7e45b9b73fab65500a23b74df9ab3e16",
+      "size": 8402
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "artificial_intelligence",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/artificial_intelligence-475e354a10042436.json",
       "sha256": "475e354a100424366c9535b5c6f3b25412b39803ed37681f64847772a3d0a782",
@@ -86,6 +118,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "cartoons",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cartoons-b1074b537755a832.json",
+      "sha256": "b1074b537755a832465bd874bf2a26a31314d23d98d221907170deca3f30969c",
+      "size": 8102
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "cartoons",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cartoons-b1074b537755a832.json",
+      "sha256": "b1074b537755a832465bd874bf2a26a31314d23d98d221907170deca3f30969c",
+      "size": 8102
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "chemistry",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
       "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
@@ -130,6 +178,38 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
       "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
       "size": 9073
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "dinosaurs",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/dinosaurs-6c6f22eab68c8065.json",
+      "sha256": "6c6f22eab68c8065ff8da6e3030b1f39cf211fb3a9536a0df68fcd70656e4c62",
+      "size": 8957
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "dinosaurs",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/dinosaurs-6c6f22eab68c8065.json",
+      "sha256": "6c6f22eab68c8065ff8da6e3030b1f39cf211fb3a9536a0df68fcd70656e4c62",
+      "size": 8957
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "ecology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/ecology-6e6f537583e2879e.json",
+      "sha256": "6e6f537583e2879e8f1a367a05fe8869e8f41d786842b6230f3b6e3d721830e8",
+      "size": 9051
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "ecology",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/ecology-6e6f537583e2879e.json",
+      "sha256": "6e6f537583e2879e8f1a367a05fe8869e8f41d786842b6230f3b6e3d721830e8",
+      "size": 9051
     },
     {
       "schemaVersion": 1,
@@ -198,6 +278,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "literature",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-a4dd6e0b7ac8cd07.json",
+      "sha256": "a4dd6e0b7ac8cd07002bfcec370bd150f43a7094c85b2d255a59d59cd7f99f25",
+      "size": 8762
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "literature",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-a4dd6e0b7ac8cd07.json",
+      "sha256": "a4dd6e0b7ac8cd07002bfcec370bd150f43a7094c85b2d255a59d59cd7f99f25",
+      "size": 8762
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "mathematics",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/mathematics-23b489c5a060d536.json",
       "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
@@ -246,6 +342,22 @@
     {
       "schemaVersion": 1,
       "locale": "ru",
+      "category": "painting",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-03213dc41236e14a.json",
+      "sha256": "03213dc41236e14a7f98b2866bdc5725ec5bac13f8a7af6905b25d5b67d68cdb",
+      "size": 8607
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "painting",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-03213dc41236e14a.json",
+      "sha256": "03213dc41236e14a7f98b2866bdc5725ec5bac13f8a7af6905b25d5b67d68cdb",
+      "size": 8607
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
       "category": "physics",
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/physics-a8be3f02c0747ca3.json",
       "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
@@ -290,6 +402,22 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/tennis-f3e4b1a3ae6f1745.json",
       "sha256": "f3e4b1a3ae6f17455db3b30020b97101a80467cb9f5b80d367b2eb285461117b",
       "size": 9816
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "video_games",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/video_games-ac4ebd10aa6ba19d.json",
+      "sha256": "ac4ebd10aa6ba19dcc7ffdbb16f843056c4453982993a173c9aa92a4eb44b3b7",
+      "size": 8804
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "video_games",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/video_games-ac4ebd10aa6ba19d.json",
+      "sha256": "ac4ebd10aa6ba19dcc7ffdbb16f843056c4453982993a173c9aa92a4eb44b3b7",
+      "size": 8804
     }
   ]
 }
