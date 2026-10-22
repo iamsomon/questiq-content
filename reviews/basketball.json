@@ -1,0 +1,182 @@
+[
+  {
+    "id": "basketball_court_players_0001",
+    "status": "approved",
+    "sha256": "2a571305ec6768243fc263ea7bd6f28211c05cde48a21b6223987139ce6a6366",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 4.2.2",
+        "claim": "The team roster may be larger, but five players take the court at a time.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_free_throw_value_0001",
+    "status": "approved",
+    "sha256": "919aaeca8666157a930d36594a635c6e0e298727066840ca4a668ac2c3743e81",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 16.2.1",
+        "claim": "A free throw has a different point value from a field goal.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_outside_arc_0001",
+    "status": "approved",
+    "sha256": "e77a0473c077d6f562d8c740f523956f28c000708e8a954ed1e5ad12ff945dc6",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 16.2.1",
+        "claim": "The three-point value depends on where the shot is released.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_overtime_length_0001",
+    "status": "approved",
+    "sha256": "28b136ac183af40e43b3dc56c62719de783cd77f5dea8ae67d9d4769a9a79f5b",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 8.7",
+        "claim": "Another five-minute overtime is played if the score remains tied.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_quarter_time_0001",
+    "status": "approved",
+    "sha256": "cf3512830c2b99a04aa098df2da851a4de000fea0333ec2541efee764541a2c2",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 8.1",
+        "claim": "The game has four quarters, with the clock stopped as the rules require.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_court_dimensions_0001",
+    "status": "approved",
+    "sha256": "5a70beea6519be8c37bba9377614ebe11bbbc0e316d60c04d29be0b0618938c1",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 2.1",
+        "claim": "Dimensions are measured from the inner edges of the boundary lines.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_shot_clock_0001",
+    "status": "approved",
+    "sha256": "c057f17c2d6562f76090aa78131dd83bbc1291b42df8ab851992d612490806ba",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 29.1.1",
+        "claim": "The ball must leave the hand before the signal and then touch the ring or enter the basket.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_foul_limit_0001",
+    "status": "approved",
+    "sha256": "ecaf458addb93ea30fda5bf0e83893f53795beed0861f127ad6374d2740004d9",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 40.1",
+        "claim": "A player with five fouls is replaced and cannot take further part in that game.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_offensive_rebound_0001",
+    "status": "approved",
+    "sha256": "1c275793f00cf6f516605b485db115d3714ea4a57300119bd62e3d224de5555b",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 29.2.7",
+        "claim": "That offensive recovery gets 14 seconds; an opponents’ recovery gets 24.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  },
+  {
+    "id": "basketball_accidental_own_basket_0001",
+    "status": "approved",
+    "sha256": "c2507d523a3bfa5bdf4b00fc635493d843f6669a757bf2270194c4bad361e78a",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Article 16.2.2–16.2.3",
+        "claim": "An accidental own basket counts two points; a deliberate one is a violation.",
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      }
+    ]
+  }
+]

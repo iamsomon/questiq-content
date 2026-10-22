@@ -1,0 +1,442 @@
+[
+  {
+    "id": "tennis_love_score_0001",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает love при объявлении счёта в теннисе?",
+        "explanation": "В стандартном гейме счёт начинается с нуля, который называют love."
+      },
+      "en": {
+        "question": "What does love mean in tennis scoring?",
+        "explanation": "A standard game starts at zero, called love in tennis scoring."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ноль очков",
+        "en": "Zero points"
+      },
+      {
+        "id": "o1",
+        "ru": "Одно очко",
+        "en": "One point"
+      },
+      {
+        "id": "o2",
+        "ru": "Выигранный сет",
+        "en": "A won set"
+      },
+      {
+        "id": "o3",
+        "ru": "Перерыв",
+        "en": "An interval"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_deuce_score_0001",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют счёт 40:40 в стандартном теннисном гейме?",
+        "explanation": "После «ровно» для победы в стандартном гейме нужны два очка подряд."
+      },
+      "en": {
+        "question": "What is 40–40 called in a standard tennis game?",
+        "explanation": "After deuce, two consecutive points are needed to win a standard game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ровно",
+        "en": "Deuce"
+      },
+      {
+        "id": "o1",
+        "ru": "Больше",
+        "en": "Advantage"
+      },
+      {
+        "id": "o2",
+        "ru": "Тай-брейк",
+        "en": "Tie-break"
+      },
+      {
+        "id": "o3",
+        "ru": "Матчбол",
+        "en": "Match point"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_diagonal_serve_0001",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какое поле должна попасть правильная подача в теннисе?",
+        "explanation": "Подача пересекает сетку и попадает в поле подачи по диагонали."
+      },
+      "en": {
+        "question": "Where must a legal tennis serve land?",
+        "explanation": "A serve crosses the net and lands in the diagonally opposite service court."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В диагонально противоположное поле подачи",
+        "en": "The diagonally opposite service court"
+      },
+      {
+        "id": "o1",
+        "ru": "В любое место за задней линией",
+        "en": "Anywhere beyond the baseline"
+      },
+      {
+        "id": "o2",
+        "ru": "В поле подачи прямо напротив",
+        "en": "The service court straight ahead"
+      },
+      {
+        "id": "o3",
+        "ru": "В любой парный коридор",
+        "en": "Either doubles alley"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_line_touch_0001",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч коснулся ограничивающей линии нужного участка корта. Как его оценивают?",
+        "explanation": "Линия считается частью участка корта, который она ограничивает."
+      },
+      "en": {
+        "question": "A ball touches the boundary line of the required court area. How is it judged?",
+        "explanation": "A line is part of the court area it bounds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Попал в этот участок",
+        "en": "In that court area"
+      },
+      {
+        "id": "o1",
+        "ru": "Всегда аут",
+        "en": "Always out"
+      },
+      {
+        "id": "o2",
+        "ru": "Всегда переигровка",
+        "en": "Always replayed"
+      },
+      {
+        "id": "o3",
+        "ru": "Всегда двойная ошибка",
+        "en": "Always a double fault"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_court_length_0001",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова длина стандартного теннисного корта по правилам ITF 2026 года?",
+        "explanation": "Длина одинакова для одиночной и парной игры; различается ширина."
+      },
+      "en": {
+        "question": "How long is a standard tennis court under the 2026 ITF rules?",
+        "explanation": "Singles and doubles courts have the same length but different widths."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "23,77 м",
+        "en": "23.77 m"
+      },
+      {
+        "id": "o1",
+        "ru": "28 м",
+        "en": "28 m"
+      },
+      {
+        "id": "o2",
+        "ru": "18 м",
+        "en": "18 m"
+      },
+      {
+        "id": "o3",
+        "ru": "20 м",
+        "en": "20 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_singles_width_0001",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова ширина одиночного теннисного корта по правилам ITF 2026 года?",
+        "explanation": "Парные коридоры увеличивают ширину корта до 10,97 м."
+      },
+      "en": {
+        "question": "How wide is a singles tennis court under the 2026 ITF rules?",
+        "explanation": "The doubles alleys increase the court width to 10.97 m."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8,23 м",
+        "en": "8.23 m"
+      },
+      {
+        "id": "o1",
+        "ru": "10,97 м",
+        "en": "10.97 m"
+      },
+      {
+        "id": "o2",
+        "ru": "12,80 м",
+        "en": "12.80 m"
+      },
+      {
+        "id": "o3",
+        "ru": "6,40 м",
+        "en": "6.40 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_first_serve_side_0001",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой половины начинается подача в каждом стандартном гейме?",
+        "explanation": "Далее подающий чередует правую и левую половины."
+      },
+      "en": {
+        "question": "From which half does serving start in each standard game?",
+        "explanation": "The server then alternates between the right and left halves."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "С правой",
+        "en": "The right half"
+      },
+      {
+        "id": "o1",
+        "ru": "С левой",
+        "en": "The left half"
+      },
+      {
+        "id": "o2",
+        "ru": "Всегда из центра",
+        "en": "Always the center"
+      },
+      {
+        "id": "o3",
+        "ru": "На выбор принимающего",
+        "en": "The receiver chooses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_tiebreak_margin_0001",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "При счёте 6:6 в обычном тай-брейке до семи очков что нужно для победы?",
+        "explanation": "Тай-брейк продолжается, пока один участник не получит отрыв в два очка."
+      },
+      "en": {
+        "question": "At 6–6 in a standard seven-point tie-break, what is needed to win?",
+        "explanation": "The tie-break continues until one player or team leads by two points."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отрыв в два очка",
+        "en": "A two-point lead"
+      },
+      {
+        "id": "o1",
+        "ru": "Только одно следующее очко",
+        "en": "Only the next point"
+      },
+      {
+        "id": "o2",
+        "ru": "Ровно десять очков у обоих",
+        "en": "Exactly ten points each"
+      },
+      {
+        "id": "o3",
+        "ru": "Победа в жеребьёвке",
+        "en": "Winning a toss"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_tiebreak_service_0001",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто подаёт второе и третье очки стандартного теннисного тай-брейка?",
+        "explanation": "Первый подающий выполняет одну подачу, затем участники подают по два очка."
+      },
+      "en": {
+        "question": "Who serves the second and third points of a standard tennis tie-break?",
+        "explanation": "The initial server serves one point; turns of two points follow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соперник первого подающего",
+        "en": "The first server’s opponent"
+      },
+      {
+        "id": "o1",
+        "ru": "Первый подающий",
+        "en": "The first server"
+      },
+      {
+        "id": "o2",
+        "ru": "По одному очку каждый",
+        "en": "One point each"
+      },
+      {
+        "id": "o3",
+        "ru": "Определяют новой жеребьёвкой",
+        "en": "A new toss decides"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_change_ends_0001",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Через сколько очков меняют стороны в стандартном тай-брейке по ITF 2026?",
+        "explanation": "Основное правило — смена после каждых шести очков; для альтернативных форматов есть исключения."
+      },
+      "en": {
+        "question": "After how many points do players change ends in a standard ITF 2026 tie-break?",
+        "explanation": "The standard rule changes ends every six points; approved alternative formats can differ."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "После каждых шести",
+        "en": "Every six points"
+      },
+      {
+        "id": "o1",
+        "ru": "После каждых двух",
+        "en": "Every two points"
+      },
+      {
+        "id": "o2",
+        "ru": "После каждых трёх",
+        "en": "Every three points"
+      },
+      {
+        "id": "o3",
+        "ru": "Только по окончании",
+        "en": "Only at its end"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  }
+]

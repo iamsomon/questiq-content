@@ -1,0 +1,402 @@
+{
+  "artificial_intelligence_data_training_0001": {
+    "location": "Introduction",
+    "claim": "A model learns patterns in data and uses them to make predictions.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_generative_output_0001": {
+    "location": "Generative AI",
+    "claim": "Generative models create content rather than only assigning a predefined label.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_labeled_examples_0001": {
+    "location": "Supervised learning",
+    "claim": "Labeled examples link input data to known target answers.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_spam_task_0001": {
+    "location": "Classification",
+    "claim": "A classifier selects a category; this task has two categories.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_regression_price_0001": {
+    "location": "Regression",
+    "claim": "Regression predicts a numeric quantity such as a price.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_unlabeled_groups_0001": {
+    "location": "Unsupervised learning",
+    "claim": "Clusters group similar items without predefined class labels.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_reward_learning_0001": {
+    "location": "Reinforcement learning",
+    "claim": "An agent acts in an environment and learns from the resulting rewards.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_multiclass_0001": {
+    "location": "Classification",
+    "claim": "A multiclass classifier chooses among more than two classes.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_policy_0001": {
+    "location": "Reinforcement learning",
+    "claim": "A policy guides the agent in choosing actions to obtain rewards.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "artificial_intelligence_cluster_labels_0001": {
+    "location": "Unsupervised learning",
+    "claim": "A person can assign meanings or names to discovered clusters afterward.",
+    "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+  },
+  "internet_web_internet_0001": {
+    "location": "Internet and the web",
+    "claim": "The Internet connects networks; the Web uses that infrastructure to deliver pages.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+  },
+  "internet_router_0001": {
+    "location": "A network of networks",
+    "claim": "A router forwards a packet toward its destination using IP addressing.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+  },
+  "internet_domain_name_0001": {
+    "location": "Domain names",
+    "claim": "A domain name gives people a memorable way to address an Internet resource.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+  },
+  "internet_isp_0001": {
+    "location": "A network of networks",
+    "claim": "Providers connect their networks to others to carry Internet traffic.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+  },
+  "internet_http_roles_0001": {
+    "location": "Client: the user-agent",
+    "claim": "In HTTP, the client sends a request and the server returns a response.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+  },
+  "internet_http_status_0001": {
+    "location": "HTTP messages / Responses",
+    "claim": "The status code indicates success, redirection, or a request error.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+  },
+  "internet_http_body_0001": {
+    "location": "Responses",
+    "claim": "Headers describe the response; its optional body carries the resource.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+  },
+  "internet_http_stateless_0001": {
+    "location": "HTTP is stateless, but not sessionless",
+    "claim": "Cookies can link requests into a session although HTTP itself is stateless.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+  },
+  "internet_proxy_role_0001": {
+    "location": "Proxies",
+    "claim": "A proxy forwards messages and may also cache or filter them.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+  },
+  "internet_mac_ip_0001": {
+    "location": "A simple network",
+    "claim": "A switch associates network-interface MAC addresses with its ports.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+  },
+  "information_technology_comment_marker_0001": {
+    "location": "opening paragraph",
+    "claim": "A comment runs from the # character to the end of the physical line.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_string_type_0001": {
+    "location": "Text",
+    "claim": "Strings store text and may use single or double quotation marks.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_list_brackets_0001": {
+    "location": "Lists",
+    "claim": "A list is an ordered sequence with comma-separated items.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_assignment_0001": {
+    "location": "Numbers",
+    "claim": "A single = assigns a value, while == tests equality.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_zero_index_0001": {
+    "location": "Text / indexing",
+    "claim": "Index 0 selects the first character; negative indices count from the end.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_power_operator_0001": {
+    "location": "Numbers",
+    "claim": "The ** operator denotes exponentiation; ^ performs bitwise exclusive OR.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_remainder_operator_0001": {
+    "location": "Numbers",
+    "claim": "The % operator gives the remainder; // performs floor division.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_list_append_0001": {
+    "location": "Lists",
+    "claim": "The append method modifies a list by adding its argument at the end.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_string_immutable_0001": {
+    "location": "Text / immutable strings",
+    "claim": "Strings are immutable; changing text requires creating a new string.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "information_technology_slice_end_0001": {
+    "location": "Text / slicing",
+    "claim": "A slice includes its start and excludes its end, allowing adjacent slices to fit together.",
+    "url": "https://docs.python.org/3/tutorial/introduction.html"
+  },
+  "tennis_love_score_0001": {
+    "location": "Rule 5(a), printed p. 5",
+    "claim": "A standard game starts at zero, called love in tennis scoring.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_deuce_score_0001": {
+    "location": "Rule 5(a), p. 5",
+    "claim": "After deuce, two consecutive points are needed to win a standard game.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_diagonal_serve_0001": {
+    "location": "Rule 17, p. 8",
+    "claim": "A serve crosses the net and lands in the diagonally opposite service court.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_line_touch_0001": {
+    "location": "Rule 12, p. 7",
+    "claim": "A line is part of the court area it bounds.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_court_length_0001": {
+    "location": "Rule 1, p. 2",
+    "claim": "Singles and doubles courts have the same length but different widths.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_singles_width_0001": {
+    "location": "Rule 1, p. 2",
+    "claim": "The doubles alleys increase the court width to 10.97 m.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_first_serve_side_0001": {
+    "location": "Rule 17, p. 8",
+    "claim": "The server then alternates between the right and left halves.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_tiebreak_margin_0001": {
+    "location": "Rule 5(b), p. 5",
+    "claim": "The tie-break continues until one player or team leads by two points.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_tiebreak_service_0001": {
+    "location": "Rule 5(b), p. 5",
+    "claim": "The initial server serves one point; turns of two points follow.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "tennis_change_ends_0001": {
+    "location": "Rule 10, p. 7",
+    "claim": "The standard rule changes ends every six points; approved alternative formats can differ.",
+    "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+  },
+  "basketball_court_players_0001": {
+    "location": "Article 4.2.2",
+    "claim": "The team roster may be larger, but five players take the court at a time.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_free_throw_value_0001": {
+    "location": "Article 16.2.1",
+    "claim": "A free throw has a different point value from a field goal.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_outside_arc_0001": {
+    "location": "Article 16.2.1",
+    "claim": "The three-point value depends on where the shot is released.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_overtime_length_0001": {
+    "location": "Article 8.7",
+    "claim": "Another five-minute overtime is played if the score remains tied.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_quarter_time_0001": {
+    "location": "Article 8.1",
+    "claim": "The game has four quarters, with the clock stopped as the rules require.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_court_dimensions_0001": {
+    "location": "Article 2.1",
+    "claim": "Dimensions are measured from the inner edges of the boundary lines.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_shot_clock_0001": {
+    "location": "Article 29.1.1",
+    "claim": "The ball must leave the hand before the signal and then touch the ring or enter the basket.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_foul_limit_0001": {
+    "location": "Article 40.1",
+    "claim": "A player with five fouls is replaced and cannot take further part in that game.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_offensive_rebound_0001": {
+    "location": "Article 29.2.7",
+    "claim": "That offensive recovery gets 14 seconds; an opponents’ recovery gets 24.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "basketball_accidental_own_basket_0001": {
+    "location": "Article 16.2.2–16.2.3",
+    "claim": "An accidental own basket counts two points; a deliberate one is a violation.",
+    "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+  },
+  "football_eleven_players_0001": {
+    "location": "Law 3.1; IFAB 2026/27 checked 2026-10-23",
+    "claim": "One of those players must be the goalkeeper.",
+    "url": "https://www.theifab.com/laws/latest/the-players/"
+  },
+  "football_half_duration_0001": {
+    "location": "Law 7.1; IFAB 2026/27 checked 2026-10-23",
+    "claim": "Normal playing time has two equal halves, with allowance for time lost.",
+    "url": "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+  },
+  "football_ball_shape_0001": {
+    "location": "Law 2.1; IFAB 2026/27 checked 2026-10-23",
+    "claim": "The laws specify the ball’s shape, material, circumference, mass, and pressure.",
+    "url": "https://www.theifab.com/laws/latest/the-ball/"
+  },
+  "football_touchline_0001": {
+    "location": "Law 1.2–1.3; IFAB 2026/27 checked 2026-10-23",
+    "claim": "Touchlines are longer than goal lines and bound the sides of the pitch.",
+    "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+  },
+  "football_goal_width_0001": {
+    "location": "Law 1.10; IFAB 2026/27 checked 2026-10-23",
+    "claim": "Standard goals are 7.32 m wide and 2.44 m high to the underside of the crossbar.",
+    "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+  },
+  "football_penalty_mark_0001": {
+    "location": "Law 1.6; IFAB 2026/27 checked 2026-10-23",
+    "claim": "The penalty mark is opposite the center of the goal within the penalty area.",
+    "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+  },
+  "football_halftime_limit_0001": {
+    "location": "Law 7.2; IFAB 2026/27 checked 2026-10-23",
+    "claim": "Competition rules specify the interval; changing it requires the referee’s permission.",
+    "url": "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+  },
+  "football_entire_ball_out_0001": {
+    "location": "Law 9.1; IFAB 2026/27 checked 2026-10-23",
+    "claim": "The whole ball must cross the line, whether on the ground or in the air.",
+    "url": "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/"
+  },
+  "football_corner_radius_0001": {
+    "location": "Law 1.7; IFAB 2026/27 checked 2026-10-23",
+    "claim": "The corner area is a quarter-circle centered at the corner flagpost.",
+    "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+  },
+  "football_center_radius_0001": {
+    "location": "Law 1.2; IFAB 2026/27 checked 2026-10-23",
+    "claim": "The circle is drawn around the center mark on the halfway line.",
+    "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
+  },
+  "oceans_surface_coverage_0001": {
+    "location": "opening paragraphs",
+    "claim": "Consequently, land occupies less than one third of Earth’s surface.",
+    "url": "https://oceanservice.noaa.gov/facts/oceanwater.html"
+  },
+  "oceans_water_reservoir_0001": {
+    "location": "opening paragraphs",
+    "claim": "Glaciers, groundwater, rivers, and other reservoirs hold a much smaller share.",
+    "url": "https://oceanservice.noaa.gov/facts/oceanwater.html"
+  },
+  "oceans_coral_animals_0001": {
+    "location": "So what exactly are corals?",
+    "claim": "Coral polyps capture food with tentacles, although many also host symbiotic algae.",
+    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+  },
+  "oceans_depth_pressure_0001": {
+    "location": "hydrostatic pressure paragraph",
+    "claim": "A deeper object has a larger water column above it and greater hydrostatic pressure.",
+    "url": "https://oceanservice.noaa.gov/facts/pressure.html"
+  },
+  "oceans_tidal_forces_0001": {
+    "location": "Tides are caused by gravitational pull",
+    "claim": "Tidal waves arise in response to the gravitational forces of the Moon and Sun.",
+    "url": "https://oceanservice.noaa.gov/facts/tides.html"
+  },
+  "oceans_tidal_range_0001": {
+    "location": "final main paragraph",
+    "claim": "It is the difference in sea level between high and low tide at a location.",
+    "url": "https://oceanservice.noaa.gov/facts/tides.html"
+  },
+  "oceans_bleaching_0001": {
+    "location": "Did you know?",
+    "claim": "A bleached coral may still be alive but is more vulnerable.",
+    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+  },
+  "oceans_conveyor_drivers_0001": {
+    "location": "opening paragraphs",
+    "claim": "These properties affect density: cold, salty water tends to sink.",
+    "url": "https://oceanservice.noaa.gov/facts/conveyor.html"
+  },
+  "oceans_coral_skeleton_0001": {
+    "location": "polyp skeleton paragraph",
+    "claim": "Polyps deposit calcium carbonate, gradually forming a reef’s limestone framework.",
+    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+  },
+  "oceans_symbiont_benefit_0001": {
+    "location": "zooxanthellae / benefits paragraphs",
+    "claim": "The algae gain a protected habitat, and the coral receives photosynthetic products.",
+    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+  },
+  "space_technology_first_moon_mission_0001": {
+    "location": "mission overview",
+    "claim": "Apollo 11 landed on the Moon in July 1969.",
+    "url": "https://www.nasa.gov/mission/apollo-11/"
+  },
+  "space_technology_armstrong_first_0001": {
+    "location": "Who Was Neil Armstrong?",
+    "claim": "Armstrong stepped out first, followed by Aldrin.",
+    "url": "https://www.nasa.gov/mission/apollo-11/"
+  },
+  "space_technology_eagle_module_0001": {
+    "location": "Eagle captions / rendezvous image",
+    "claim": "Eagle carried Armstrong and Aldrin to the Moon while Collins remained in orbit.",
+    "url": "https://www.nasa.gov/mission/apollo-11/"
+  },
+  "space_technology_voyager_record_0001": {
+    "location": "Golden Phonograph Record questions",
+    "claim": "The record carries sounds and images representing Earth.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  },
+  "space_technology_collins_role_0001": {
+    "location": "Michael Collins / rendezvous caption",
+    "claim": "Collins piloted the command module and rendezvoused with the returning lunar module.",
+    "url": "https://www.nasa.gov/mission/apollo-11/"
+  },
+  "space_technology_voyager_uranus_neptune_0001": {
+    "location": "Did either of the Voyagers visit Pluto?",
+    "claim": "After Jupiter and Saturn, Voyager 2 continued to the two outer planets.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  },
+  "space_technology_pale_blue_dot_0001": {
+    "location": "last images / February 14, 1990",
+    "claim": "Voyager 1’s cameras were pointed back to make a portrait of the solar system.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  },
+  "space_technology_io_volcanoes_0001": {
+    "location": "What were the most important discoveries?",
+    "claim": "It was the first observation of active volcanism on another solar-system body.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  },
+  "space_technology_heliosphere_boundary_0001": {
+    "location": "Have any human-made objects ever exited the solar system?",
+    "claim": "Leaving the heliosphere does not mean the spacecraft has passed the entire Oort Cloud.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  },
+  "space_technology_titan_trajectory_0001": {
+    "location": "Did either of the Voyagers visit Pluto?",
+    "claim": "The Titan encounter sent the spacecraft out of the planetary plane, ending further planetary flybys.",
+    "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+  }
+}

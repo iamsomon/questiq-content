@@ -1,0 +1,182 @@
+[
+  {
+    "id": "oceans_surface_coverage_0001",
+    "status": "approved",
+    "sha256": "d4a5b66676d39bdf3240993276ac841ebfa157f215f2498fb0b60da3e7b1fbe0",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "opening paragraphs",
+        "claim": "Consequently, land occupies less than one third of Earth’s surface.",
+        "url": "https://oceanservice.noaa.gov/facts/oceanwater.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_water_reservoir_0001",
+    "status": "approved",
+    "sha256": "cfa60372686ce841b0ab06a2e59c021ab23b944349e349eed79d98f42192e020",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "opening paragraphs",
+        "claim": "Glaciers, groundwater, rivers, and other reservoirs hold a much smaller share.",
+        "url": "https://oceanservice.noaa.gov/facts/oceanwater.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_coral_animals_0001",
+    "status": "approved",
+    "sha256": "fefe043a6442e004c91f20ed4bfb6aa7cecbc75e0f62a88bc8012fca4bb6545d",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "So what exactly are corals?",
+        "claim": "Coral polyps capture food with tentacles, although many also host symbiotic algae.",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_pressure_0001",
+    "status": "approved",
+    "sha256": "d8fe9ee9198d6c5bf4b78474bbcd80ca8f5c91e7437d3843a5d381f8099d7276",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "hydrostatic pressure paragraph",
+        "claim": "A deeper object has a larger water column above it and greater hydrostatic pressure.",
+        "url": "https://oceanservice.noaa.gov/facts/pressure.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_tidal_forces_0001",
+    "status": "approved",
+    "sha256": "e62805d112375f2220ffdad43f699c949d40e8a5f2f4fef033ea27fc89d5c49f",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Tides are caused by gravitational pull",
+        "claim": "Tidal waves arise in response to the gravitational forces of the Moon and Sun.",
+        "url": "https://oceanservice.noaa.gov/facts/tides.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_tidal_range_0001",
+    "status": "approved",
+    "sha256": "0b66022bd678edefe5962b16299cbda082c9ab175da50923403e931d88c68920",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "final main paragraph",
+        "claim": "It is the difference in sea level between high and low tide at a location.",
+        "url": "https://oceanservice.noaa.gov/facts/tides.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_bleaching_0001",
+    "status": "approved",
+    "sha256": "11b2ffca535a9649da9f7664d9cc73c6817111a70c6811745a1782740254bcb5",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Did you know?",
+        "claim": "A bleached coral may still be alive but is more vulnerable.",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_conveyor_drivers_0001",
+    "status": "approved",
+    "sha256": "4d4c3ed98514091201dc3fd63bd637c2b35f5abd40d5c1d0cdef7a173b3a6b2f",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "opening paragraphs",
+        "claim": "These properties affect density: cold, salty water tends to sink.",
+        "url": "https://oceanservice.noaa.gov/facts/conveyor.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_coral_skeleton_0001",
+    "status": "approved",
+    "sha256": "c9f832ff5700cf78c05d3023c863ef9856deaec635fee161e5a61bebe7fc6efb",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "polyp skeleton paragraph",
+        "claim": "Polyps deposit calcium carbonate, gradually forming a reef’s limestone framework.",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html"
+      }
+    ]
+  },
+  {
+    "id": "oceans_symbiont_benefit_0001",
+    "status": "approved",
+    "sha256": "691ca5a9294efd29bd9f47f32f966a8d1d2a3259c052d751db58b5fdc4344d11",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "zooxanthellae / benefits paragraphs",
+        "claim": "The algae gain a protected habitat, and the coral receives photosynthetic products.",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html"
+      }
+    ]
+  }
+]

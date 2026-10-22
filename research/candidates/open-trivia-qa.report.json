@@ -1,0 +1,166 @@
+{
+  "sourceCommit": "dcc1cdf36c2985ed5c849d1f2265c5041ffcdfb9",
+  "candidateCount": 10000,
+  "playableQuestionsAdded": 0,
+  "factChecked": false,
+  "ruTranslated": false,
+  "sourceCategoryCounts": {
+    "animals": 484,
+    "brain-teasers": 135,
+    "celebrities": 484,
+    "entertainment": 217,
+    "for-kids": 484,
+    "general": 484,
+    "geography": 484,
+    "history": 484,
+    "hobbies": 484,
+    "humanities": 484,
+    "literature": 484,
+    "movies": 484,
+    "music": 484,
+    "newest": 484,
+    "people": 484,
+    "rated": 484,
+    "religion-faith": 484,
+    "science-technology": 484,
+    "sports": 484,
+    "television": 483,
+    "video-games": 454,
+    "world": 483
+  },
+  "queueSha256": "2f898a5162035578506336d06d43245465276126e3282f10eaad51f56a2cb051",
+  "sources": [
+    {
+      "category": "animals",
+      "sha256": "53b0dbac5d70b232e5d2c9ea0f7742807a6b318fc409856daba15b7a87c70585",
+      "bytes": 200906,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "brain-teasers",
+      "sha256": "42d07328598235e7d4181ea859c3cf1769b667bbbb3bff3a258b7df2eb1c24ac",
+      "bytes": 47367,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "celebrities",
+      "sha256": "c6cb9571e1caf0ac7f7edb6ad2ce588acfd3297d14ca686d0962ce389c7305b2",
+      "bytes": 589876,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "entertainment",
+      "sha256": "37a7c74445ad582086d058304153bcb9a43aa7f5284425ce557fed2c6a11b9f0",
+      "bytes": 42802,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "for-kids",
+      "sha256": "03d9cea122def26d5e8aebd47ee4c3eea04c4b3491080e19a93dabb9dac00763",
+      "bytes": 133145,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "general",
+      "sha256": "09e75c1ce899a7699cd185a83bcf348328bdaa2ec97f70ef6fb0deca06ff17ec",
+      "bytes": 583903,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "geography",
+      "sha256": "aab2381417cb2238b35677a0708113997f3dd644f4ebe61fe13ae75f05e220d8",
+      "bytes": 141929,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "history",
+      "sha256": "ecd250a6d8465b61f47ccf36bd5275002e70ffc45faff1a1ca6b7894dbb19e10",
+      "bytes": 345374,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "hobbies",
+      "sha256": "ad0fa3a66c14afb040792c946a548a97abd337ca9f0af6e5f36272454248a74b",
+      "bytes": 213438,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "humanities",
+      "sha256": "209f4efbb2aeaa6cca32e697d32f44dab26f8f4cbedd94e9a0beb5897f106f50",
+      "bytes": 178012,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "literature",
+      "sha256": "6de9fb19f6ee34e8a40fe10d9f23766613a8e1873809cb6a66412d4b4747ded9",
+      "bytes": 267245,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "movies",
+      "sha256": "774945aa764551247a81ca50404e869bd09175534eee2ad8f920485f0442b6e8",
+      "bytes": 838840,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "music",
+      "sha256": "9a188c1bdb899a48adc4c6f5d7b6ca0f636e6f3f5afea5d7aa7e3456c496272d",
+      "bytes": 1066625,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "newest",
+      "sha256": "d6d0bd49f6fbe0a9ca59573d268ff5bb5196a0263a2b9372349f6ae0d8f67e60",
+      "bytes": 544304,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "people",
+      "sha256": "6765818b150e06d935fac29b06657b4aec8272d1a57a37f88e580617954ecdd2",
+      "bytes": 524248,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "rated",
+      "sha256": "e800e99963fd99135e25de36e5453a74b53721b62690067b7e42cd358a994fcf",
+      "bytes": 399328,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "religion-faith",
+      "sha256": "5975fa2e2b76c2c040cf693d8ea61bd7ab8e3b0b8e1539c38dfb68727ab9fced",
+      "bytes": 109362,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "science-technology",
+      "sha256": "50663ee5b9db905914f2706d238a369aa5a354dbe1dbaffa919b619bd4ec123f",
+      "bytes": 443701,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "sports",
+      "sha256": "5d8dbb522356780f3b1a3bedea02c27768fe24cb9a8d60c7d70485143cbfcc7a",
+      "bytes": 488203,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "television",
+      "sha256": "7be9a10497380733f2edebd3411bb373d6d5b8f8290fb4f21c0dd179c7d5ebff",
+      "bytes": 877014,
+      "decodedAs": "utf-8"
+    },
+    {
+      "category": "video-games",
+      "sha256": "a174159be081b863cc13148e424fb9a65491b355f1abe568e52908718d88f86b",
+      "bytes": 88599,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    },
+    {
+      "category": "world",
+      "sha256": "1e8fcb2ca0394c3e6cc532e831a619ddda881e7cdf74515cded26fdce1c3ee19",
+      "bytes": 836926,
+      "decodedAs": "utf-8-with-per-line-cp1252-fallback"
+    }
+  ]
+}

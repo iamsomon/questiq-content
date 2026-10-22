@@ -10,7 +10,7 @@ def digest(value):return hashlib.sha256(encoded(value)).hexdigest()
 def load(path,default=None):return json.loads(path.read_text()) if path.exists() else default
 def require(ok,message):
  if not ok:raise ValueError(message)
-def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum() or c in '+−-×÷*/^=()[]²³')
+def normalized(s):return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum() or c in '+−-×÷*/^=()[]²³%#!<>|&~')
 def check_question(q,categories):
  require(set(q)=={'id','categoryId','difficulty','type','revision','localizations','options','correctOptionId','sources','image'},'Unexpected/missing question fields')
  name=q['id'];require(isinstance(name,str) and re.fullmatch(r'[a-z0-9_]{5,80}',name),f'Invalid ID: {name}')
@@ -73,8 +73,10 @@ def report(root=ROOT):
  for c in cats:
   approved=[q for stage,q in items if stage=='questions' and q['categoryId']==c['id']]
   draft=[q for stage,q in items if stage=='drafts' and q['categoryId']==c['id']]
-  rows.append({'id':c['id'],'approved':len(approved),'draft':len(draft),'humanApproved':sum(reviews[q['id']]['humanApproved'] for q in approved),'difficulty':dict(Counter(q['difficulty'] for q in approved)),'playable':len(approved)>=10})
- return {'schemaVersion':1,'approvedQuestions':sum(r['approved'] for r in rows),'draftQuestions':sum(r['draft'] for r in rows),'playableCategories':sum(r['playable'] for r in rows),'humanApprovedQuestions':sum(r['humanApproved'] for r in rows),'targetQuestions':10000,'revokedCount':len(revoked),'categories':rows}
+  counts=dict(Counter(q['difficulty'] for q in approved))
+  rows.append({'id':c['id'],'approved':len(approved),'draft':len(draft),'humanApproved':sum(reviews[q['id']]['humanApproved'] for q in approved),'difficulty':counts,'playable':len(approved)>=10,'target':200,'remaining':max(0,200-len(approved)),'difficultyRemaining':{level:max(0,n-counts.get(level,0)) for level,n in [('easy',80),('medium',80),('hard',40)]}})
+ total=sum(r['approved'] for r in rows)
+ return {'schemaVersion':1,'approvedQuestions':total,'draftQuestions':sum(r['draft'] for r in rows),'playableCategories':sum(r['playable'] for r in rows),'humanApprovedQuestions':sum(r['humanApproved'] for r in rows),'targetQuestions':10000,'remainingQuestions':sum(r['remaining'] for r in rows),'targetComplete':all(r['remaining']==0 and not any(r['difficultyRemaining'].values()) for r in rows),'revokedCount':len(revoked),'categories':rows}
 
 def build(root,base):
  uri=urlsplit(base);require(uri.scheme=='https' and uri.hostname and not uri.username and not uri.query and not uri.fragment,'HTTPS base URL required')

@@ -1,10 +1,12 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 110,
+  "approvedQuestions": 190,
   "draftQuestions": 0,
-  "playableCategories": 10,
+  "playableCategories": 18,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
+  "remainingQuestions": 9810,
+  "targetComplete": false,
   "revokedCount": 0,
   "categories": [
     {
@@ -17,7 +19,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "chemistry",
@@ -29,7 +38,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "biology",
@@ -41,7 +57,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "mathematics",
@@ -53,7 +76,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "astronomy",
@@ -65,7 +95,14 @@
         "medium": 6,
         "hard": 4
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 180,
+      "difficultyRemaining": {
+        "easy": 70,
+        "medium": 74,
+        "hard": 36
+      }
     },
     {
       "id": "countries",
@@ -77,7 +114,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "capitals",
@@ -89,7 +133,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "flags",
@@ -101,7 +152,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "cities",
@@ -113,7 +171,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "natural_wonders",
@@ -125,7 +190,14 @@
         "medium": 4,
         "hard": 2
       },
-      "playable": true
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "ancient_world",
@@ -133,7 +205,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "middle_ages",
@@ -141,7 +220,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "modern_history",
@@ -149,7 +235,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "civilizations",
@@ -157,7 +250,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "historical_figures",
@@ -165,7 +265,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "islam",
@@ -173,7 +280,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "christianity",
@@ -181,7 +295,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "buddhism",
@@ -189,7 +310,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "world_religions",
@@ -197,7 +325,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "mythology",
@@ -205,7 +340,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "animals",
@@ -213,7 +355,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "plants",
@@ -221,15 +370,33 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "oceans",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "dinosaurs",
@@ -237,7 +404,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "ecology",
@@ -245,23 +419,52 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "information_technology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "artificial_intelligence",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "inventions",
@@ -269,23 +472,52 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "internet",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "space_technology",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "painting",
@@ -293,7 +525,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "architecture",
@@ -301,7 +540,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "literature",
@@ -309,7 +555,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "music",
@@ -317,7 +570,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "cinema",
@@ -325,23 +585,52 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "football",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "basketball",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "olympics",
@@ -349,15 +638,33 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "tennis",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
+      "target": 200,
+      "remaining": 190,
+      "difficultyRemaining": {
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
+      }
     },
     {
       "id": "sports_records",
@@ -365,7 +672,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "food",
@@ -373,7 +687,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "health",
@@ -381,7 +702,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "cars",
@@ -389,7 +717,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "economics",
@@ -397,7 +732,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "human_body",
@@ -405,7 +747,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "video_games",
@@ -413,7 +762,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "cartoons",
@@ -421,7 +777,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "television",
@@ -429,7 +792,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "celebrities",
@@ -437,7 +807,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     },
     {
       "id": "pop_culture",
@@ -445,7 +822,14 @@
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {},
-      "playable": false
+      "playable": false,
+      "target": 200,
+      "remaining": 200,
+      "difficultyRemaining": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      }
     }
   ]
 }

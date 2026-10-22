@@ -1,0 +1,442 @@
+[
+  {
+    "id": "space_technology_first_moon_mission_0001",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая миссия впервые доставила людей на поверхность Луны?",
+        "explanation": "Лунная посадка «Аполлона-11» состоялась в июле 1969 года."
+      },
+      "en": {
+        "question": "Which mission first landed humans on the Moon?",
+        "explanation": "Apollo 11 landed on the Moon in July 1969."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аполлон-11",
+        "en": "Apollo 11"
+      },
+      {
+        "id": "o1",
+        "ru": "Аполлон-8",
+        "en": "Apollo 8"
+      },
+      {
+        "id": "o2",
+        "ru": "Джемини-4",
+        "en": "Gemini IV"
+      },
+      {
+        "id": "o3",
+        "ru": "Восток-1",
+        "en": "Vostok 1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/mission/apollo-11/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_armstrong_first_0001",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто первым ступил на поверхность Луны?",
+        "explanation": "Первым вышел Армстронг, за ним на поверхность спустился Олдрин."
+      },
+      "en": {
+        "question": "Who was the first person to step onto the Moon?",
+        "explanation": "Armstrong stepped out first, followed by Aldrin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нил Армстронг",
+        "en": "Neil Armstrong"
+      },
+      {
+        "id": "o1",
+        "ru": "Базз Олдрин",
+        "en": "Buzz Aldrin"
+      },
+      {
+        "id": "o2",
+        "ru": "Майкл Коллинз",
+        "en": "Michael Collins"
+      },
+      {
+        "id": "o3",
+        "ru": "Алан Шепард",
+        "en": "Alan Shepard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/mission/apollo-11/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_eagle_module_0001",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как назывался лунный модуль миссии «Аполлон-11»?",
+        "explanation": "Eagle доставил Армстронга и Олдрина на Луну; Коллинз оставался на орбите."
+      },
+      "en": {
+        "question": "What was the name of Apollo 11’s lunar module?",
+        "explanation": "Eagle carried Armstrong and Aldrin to the Moon while Collins remained in orbit."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Eagle",
+        "en": "Eagle"
+      },
+      {
+        "id": "o1",
+        "ru": "Columbia",
+        "en": "Columbia"
+      },
+      {
+        "id": "o2",
+        "ru": "Challenger",
+        "en": "Challenger"
+      },
+      {
+        "id": "o3",
+        "ru": "Endeavour",
+        "en": "Endeavour"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/mission/apollo-11/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_voyager_record_0001",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что несут аппараты «Вояджер» как послание о Земле?",
+        "explanation": "На пластинке собраны звуки и изображения, представляющие Землю."
+      },
+      "en": {
+        "question": "What do the Voyager spacecraft carry as a message about Earth?",
+        "explanation": "The record carries sounds and images representing Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Золотую грампластинку",
+        "en": "A golden phonograph record"
+      },
+      {
+        "id": "o1",
+        "ru": "Серебряную фотоплёнку",
+        "en": "A silver photographic film"
+      },
+      {
+        "id": "o2",
+        "ru": "Кварцевый оптический диск",
+        "en": "A quartz optical disc"
+      },
+      {
+        "id": "o3",
+        "ru": "Магнитную аудиокассету",
+        "en": "A magnetic audio cassette"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_collins_role_0001",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто пилотировал командный модуль «Аполлона-11», пока двое астронавтов были на Луне?",
+        "explanation": "Коллинз управлял командным модулем и встретил возвращавшийся лунный модуль."
+      },
+      "en": {
+        "question": "Who piloted Apollo 11’s command module while two astronauts were on the Moon?",
+        "explanation": "Collins piloted the command module and rendezvoused with the returning lunar module."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Майкл Коллинз",
+        "en": "Michael Collins"
+      },
+      {
+        "id": "o1",
+        "ru": "Юджин Сернан",
+        "en": "Eugene Cernan"
+      },
+      {
+        "id": "o2",
+        "ru": "Джон Янг",
+        "en": "John Young"
+      },
+      {
+        "id": "o3",
+        "ru": "Дэвид Скотт",
+        "en": "David Scott"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/mission/apollo-11/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_voyager_uranus_neptune_0001",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой аппарат пролетел и мимо Урана, и мимо Нептуна в 1980-х годах?",
+        "explanation": "После Юпитера и Сатурна «Вояджер-2» продолжил путь к двум внешним планетам."
+      },
+      "en": {
+        "question": "Which spacecraft flew by both Uranus and Neptune in the 1980s?",
+        "explanation": "After Jupiter and Saturn, Voyager 2 continued to the two outer planets."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вояджер-2",
+        "en": "Voyager 2"
+      },
+      {
+        "id": "o1",
+        "ru": "Вояджер-1",
+        "en": "Voyager 1"
+      },
+      {
+        "id": "o2",
+        "ru": "Галилео",
+        "en": "Galileo"
+      },
+      {
+        "id": "o3",
+        "ru": "Кассини",
+        "en": "Cassini"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_pale_blue_dot_0001",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой аппарат снял Землю на известном снимке Pale Blue Dot в 1990 году?",
+        "explanation": "Камеры «Вояджера-1» повернули назад для съёмки портрета Солнечной системы."
+      },
+      "en": {
+        "question": "Which spacecraft photographed Earth in the famous 1990 Pale Blue Dot image?",
+        "explanation": "Voyager 1’s cameras were pointed back to make a portrait of the solar system."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вояджер-1",
+        "en": "Voyager 1"
+      },
+      {
+        "id": "o1",
+        "ru": "Вояджер-2",
+        "en": "Voyager 2"
+      },
+      {
+        "id": "o2",
+        "ru": "Пионер-10",
+        "en": "Pioneer 10"
+      },
+      {
+        "id": "o3",
+        "ru": "Маринер-10",
+        "en": "Mariner 10"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_io_volcanoes_0001",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком спутнике аппараты «Вояджер» обнаружили действующие вулканы?",
+        "explanation": "Это стало первым наблюдением действующего вулканизма на другом небесном теле."
+      },
+      "en": {
+        "question": "On which moon did Voyager discover active volcanoes?",
+        "explanation": "It was the first observation of active volcanism on another solar-system body."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ио",
+        "en": "Io"
+      },
+      {
+        "id": "o1",
+        "ru": "Европа",
+        "en": "Europa"
+      },
+      {
+        "id": "o2",
+        "ru": "Каллисто",
+        "en": "Callisto"
+      },
+      {
+        "id": "o3",
+        "ru": "Титан",
+        "en": "Titan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_heliosphere_boundary_0001",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую границу пересёк «Вояджер-1» в 2012 году, выйдя в межзвёздную среду?",
+        "explanation": "Выход из гелиосферы не означает, что аппарат уже миновал всё облако Оорта."
+      },
+      "en": {
+        "question": "Which boundary did Voyager 1 cross in 2012 to enter interstellar space?",
+        "explanation": "Leaving the heliosphere does not mean the spacecraft has passed the entire Oort Cloud."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Границу гелиосферы",
+        "en": "The heliosphere boundary"
+      },
+      {
+        "id": "o1",
+        "ru": "Внешний край облака Оорта",
+        "en": "The outer Oort Cloud edge"
+      },
+      {
+        "id": "o2",
+        "ru": "Внутренний край пояса астероидов",
+        "en": "The asteroid belt’s inner edge"
+      },
+      {
+        "id": "o3",
+        "ru": "Внешний край пояса Койпера",
+        "en": "The Kuiper Belt’s outer edge"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_titan_trajectory_0001",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Изучение какого спутника повлияло на траекторию «Вояджера-1» у Сатурна?",
+        "explanation": "Пролёт у Титана направил аппарат из плоскости планет и исключил дальнейшие планетные встречи."
+      },
+      "en": {
+        "question": "Studying which moon influenced Voyager 1’s trajectory at Saturn?",
+        "explanation": "The Titan encounter sent the spacecraft out of the planetary plane, ending further planetary flybys."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Титана",
+        "en": "Titan"
+      },
+      {
+        "id": "o1",
+        "ru": "Тритона",
+        "en": "Triton"
+      },
+      {
+        "id": "o2",
+        "ru": "Харона",
+        "en": "Charon"
+      },
+      {
+        "id": "o3",
+        "ru": "Фобоса",
+        "en": "Phobos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+    ],
+    "image": null
+  }
+]

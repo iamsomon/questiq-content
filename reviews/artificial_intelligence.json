@@ -1,0 +1,182 @@
+[
+  {
+    "id": "artificial_intelligence_data_training_0001",
+    "status": "approved",
+    "sha256": "982833b65f5471da0326d63a9977b8b28718076443a7196012e6fff4e6c9a234",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Introduction",
+        "claim": "A model learns patterns in data and uses them to make predictions.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_generative_output_0001",
+    "status": "approved",
+    "sha256": "99f47a188e3a7f48059e00e0b2c26403a8fa2af7d42bb7c015e78324f64220d2",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Generative AI",
+        "claim": "Generative models create content rather than only assigning a predefined label.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_labeled_examples_0001",
+    "status": "approved",
+    "sha256": "1b0b31ecc56628a4d9532b2a8c759d68254b6637d7b622e7d8102285b1f5c954",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Supervised learning",
+        "claim": "Labeled examples link input data to known target answers.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_spam_task_0001",
+    "status": "approved",
+    "sha256": "30a51f7f9370bd3738333f6581e8a14738190acde180a86bcc50116460640f32",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Classification",
+        "claim": "A classifier selects a category; this task has two categories.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_regression_price_0001",
+    "status": "approved",
+    "sha256": "ee8c7bc48808ce527f6a747e3a577f3628b3d407685794ca57046daf6cf1e5a2",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Regression",
+        "claim": "Regression predicts a numeric quantity such as a price.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_unlabeled_groups_0001",
+    "status": "approved",
+    "sha256": "2fd1b9d1d26712134b299b4cb2a1d2322ee01541100d33d2a5e3cd1b1a9dacee",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Unsupervised learning",
+        "claim": "Clusters group similar items without predefined class labels.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_reward_learning_0001",
+    "status": "approved",
+    "sha256": "9099e0a55016df2b5c9d5f2a5de139e6bece4f60da66ccbe45023983ec92bb22",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Reinforcement learning",
+        "claim": "An agent acts in an environment and learns from the resulting rewards.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_multiclass_0001",
+    "status": "approved",
+    "sha256": "5f9f41f02e5b279b69b7717dae44b7d8d9dfdac2300a5c3bd633e88e11188fc3",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Classification",
+        "claim": "A multiclass classifier chooses among more than two classes.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_policy_0001",
+    "status": "approved",
+    "sha256": "08bfb6752cd9687e641a51a86499ad51fa216336174e6cd90f9ba41057de0563",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Reinforcement learning",
+        "claim": "A policy guides the agent in choosing actions to obtain rewards.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_cluster_labels_0001",
+    "status": "approved",
+    "sha256": "6db4e63d53a073ec8f75b8be10c7f76a4c6896ad82cd46e20bdfc7cc5beacd23",
+    "author": "Codex original bilingual authoring 2026-10-23",
+    "factReviewer": "Codex separate source and distractor pass 2026-10-23",
+    "languageReviewer": "Codex separate RU/EN copy pass 2026-10-23",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "location": "Unsupervised learning",
+        "claim": "A person can assign meanings or names to discovered clusters afterward.",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      }
+    ]
+  }
+]

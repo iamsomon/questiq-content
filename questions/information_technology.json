@@ -1,0 +1,442 @@
+[
+  {
+    "id": "information_technology_comment_marker_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой символ начинает однострочный комментарий в Python вне строки?",
+        "explanation": "Комментарий продолжается от знака # до конца физической строки."
+      },
+      "en": {
+        "question": "Which symbol starts a Python line comment outside a string?",
+        "explanation": "A comment runs from the # character to the end of the physical line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "#",
+        "en": "#"
+      },
+      {
+        "id": "o1",
+        "ru": "//",
+        "en": "//"
+      },
+      {
+        "id": "o2",
+        "ru": "/*",
+        "en": "/*"
+      },
+      {
+        "id": "o3",
+        "ru": "<!--",
+        "en": "<!--"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_string_type_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой тип данных Python представляет текст?",
+        "explanation": "Строки хранят текст и могут задаваться в одинарных или двойных кавычках."
+      },
+      "en": {
+        "question": "Which Python data type represents text?",
+        "explanation": "Strings store text and may use single or double quotation marks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "str",
+        "en": "str"
+      },
+      {
+        "id": "o1",
+        "ru": "int",
+        "en": "int"
+      },
+      {
+        "id": "o2",
+        "ru": "float",
+        "en": "float"
+      },
+      {
+        "id": "o3",
+        "ru": "bool",
+        "en": "bool"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_list_brackets_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каких скобках записывают литерал списка Python?",
+        "explanation": "Список — упорядоченная последовательность; элементы разделяют запятыми."
+      },
+      "en": {
+        "question": "Which brackets enclose a Python list literal?",
+        "explanation": "A list is an ordered sequence with comma-separated items."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Квадратных",
+        "en": "Square"
+      },
+      {
+        "id": "o1",
+        "ru": "Круглых",
+        "en": "Round"
+      },
+      {
+        "id": "o2",
+        "ru": "Фигурных",
+        "en": "Curly"
+      },
+      {
+        "id": "o3",
+        "ru": "Угловых",
+        "en": "Angle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_assignment_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой знак в Python присваивает переменной значение?",
+        "explanation": "Один знак = выполняет присваивание, а == проверяет равенство."
+      },
+      "en": {
+        "question": "Which Python symbol assigns a value to a variable?",
+        "explanation": "A single = assigns a value, while == tests equality."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "=",
+        "en": "="
+      },
+      {
+        "id": "o1",
+        "ru": "==",
+        "en": "=="
+      },
+      {
+        "id": "o2",
+        "ru": "!=",
+        "en": "!="
+      },
+      {
+        "id": "o3",
+        "ru": "<=",
+        "en": "<="
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_zero_index_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какого индекса начинается нумерация элементов строки Python?",
+        "explanation": "Индекс 0 обозначает первый символ, а отрицательные индексы считают от конца."
+      },
+      "en": {
+        "question": "At which index does Python string indexing begin?",
+        "explanation": "Index 0 selects the first character; negative indices count from the end."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "0",
+        "en": "0"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "−1",
+        "en": "−1"
+      },
+      {
+        "id": "o3",
+        "ru": "2",
+        "en": "2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_power_operator_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой оператор Python возводит число в степень?",
+        "explanation": "Оператор ** означает степень; ^ выполняет побитовое исключающее ИЛИ."
+      },
+      "en": {
+        "question": "Which Python operator raises a number to a power?",
+        "explanation": "The ** operator denotes exponentiation; ^ performs bitwise exclusive OR."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "**",
+        "en": "**"
+      },
+      {
+        "id": "o1",
+        "ru": "^",
+        "en": "^"
+      },
+      {
+        "id": "o2",
+        "ru": "//",
+        "en": "//"
+      },
+      {
+        "id": "o3",
+        "ru": "%",
+        "en": "%"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_remainder_operator_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой оператор Python возвращает остаток от деления целых чисел?",
+        "explanation": "Оператор % вычисляет остаток; // выполняет деление с округлением вниз."
+      },
+      "en": {
+        "question": "Which Python operator returns the remainder of integer division?",
+        "explanation": "The % operator gives the remainder; // performs floor division."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "%",
+        "en": "%"
+      },
+      {
+        "id": "o1",
+        "ru": "/",
+        "en": "/"
+      },
+      {
+        "id": "o2",
+        "ru": "**",
+        "en": "**"
+      },
+      {
+        "id": "o3",
+        "ru": "==",
+        "en": "=="
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_list_append_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой метод добавляет один элемент в конец списка Python?",
+        "explanation": "Метод append изменяет список, добавляя переданный объект в его конец."
+      },
+      "en": {
+        "question": "Which method adds one item to the end of a Python list?",
+        "explanation": "The append method modifies a list by adding its argument at the end."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "append",
+        "en": "append"
+      },
+      {
+        "id": "o1",
+        "ru": "split",
+        "en": "split"
+      },
+      {
+        "id": "o2",
+        "ru": "strip",
+        "en": "strip"
+      },
+      {
+        "id": "o3",
+        "ru": "upper",
+        "en": "upper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_string_immutable_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что произойдёт при попытке заменить символ строки Python присваиванием по индексу?",
+        "explanation": "Строки неизменяемы: для изменённого текста нужно создать новую строку."
+      },
+      "en": {
+        "question": "What happens if you try to replace a Python string character by index assignment?",
+        "explanation": "Strings are immutable; changing text requires creating a new string."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Возникнет TypeError",
+        "en": "A TypeError occurs"
+      },
+      {
+        "id": "o1",
+        "ru": "Строка изменится на месте",
+        "en": "The string changes in place"
+      },
+      {
+        "id": "o2",
+        "ru": "Строка станет списком",
+        "en": "The string becomes a list"
+      },
+      {
+        "id": "o3",
+        "ru": "Удалится вся переменная",
+        "en": "The variable is deleted"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_slice_end_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Включается ли элемент с индексом stop в срез Python s[start:stop]?",
+        "explanation": "Срез включает начало и исключает конец, что упрощает соединение соседних срезов."
+      },
+      "en": {
+        "question": "Does a Python slice s[start:stop] include the item at stop?",
+        "explanation": "A slice includes its start and excludes its end, allowing adjacent slices to fit together."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет, правая граница исключена",
+        "en": "No, the end is excluded"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, всегда включается",
+        "en": "Yes, always"
+      },
+      {
+        "id": "o2",
+        "ru": "Да, если start не указан",
+        "en": "Yes, if start is omitted"
+      },
+      {
+        "id": "o3",
+        "ru": "Да, но только для списков",
+        "en": "Yes, but only for lists"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://docs.python.org/3/tutorial/introduction.html"
+    ],
+    "image": null
+  }
+]

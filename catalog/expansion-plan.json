@@ -1,0 +1,1762 @@
+{
+  "targetQuestions": 10000,
+  "categoryCount": 50,
+  "perCategory": 200,
+  "questionLanguages": [
+    "ru",
+    "en"
+  ],
+  "counting": "One bilingual item counts as one question, not two. Research candidates never count as playable content.",
+  "categories": [
+    {
+      "id": "physics",
+      "group": "science",
+      "ru": "Физика",
+      "en": "Physics",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Механика",
+          "target": 40
+        },
+        {
+          "topicRu": "Волны и звук",
+          "target": 40
+        },
+        {
+          "topicRu": "Электричество",
+          "target": 40
+        },
+        {
+          "topicRu": "Оптика",
+          "target": 40
+        },
+        {
+          "topicRu": "Теплота и атомная физика",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "chemistry",
+      "group": "science",
+      "ru": "Химия",
+      "en": "Chemistry",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Атомы и элементы",
+          "target": 40
+        },
+        {
+          "topicRu": "Связи и вещества",
+          "target": 40
+        },
+        {
+          "topicRu": "Реакции",
+          "target": 40
+        },
+        {
+          "topicRu": "Растворы",
+          "target": 40
+        },
+        {
+          "topicRu": "Химия в быту",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "biology",
+      "group": "science",
+      "ru": "Биология",
+      "en": "Biology",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Клетка",
+          "target": 40
+        },
+        {
+          "topicRu": "Генетика",
+          "target": 40
+        },
+        {
+          "topicRu": "Эволюция",
+          "target": 40
+        },
+        {
+          "topicRu": "Микроорганизмы",
+          "target": 40
+        },
+        {
+          "topicRu": "Многообразие жизни",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "mathematics",
+      "group": "science",
+      "ru": "Математика",
+      "en": "Mathematics",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Числа и вычисления",
+          "target": 40
+        },
+        {
+          "topicRu": "Алгебра",
+          "target": 40
+        },
+        {
+          "topicRu": "Геометрия",
+          "target": 40
+        },
+        {
+          "topicRu": "Вероятность",
+          "target": 40
+        },
+        {
+          "topicRu": "Логика и история математики",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "astronomy",
+      "group": "science",
+      "ru": "Астрономия",
+      "en": "Astronomy",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Солнечная система",
+          "target": 40
+        },
+        {
+          "topicRu": "Звёзды",
+          "target": 40
+        },
+        {
+          "topicRu": "Галактики",
+          "target": 40
+        },
+        {
+          "topicRu": "Наблюдения",
+          "target": 40
+        },
+        {
+          "topicRu": "История открытий",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "countries",
+      "group": "geography",
+      "ru": "Страны",
+      "en": "Countries",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Расположение",
+          "target": 40
+        },
+        {
+          "topicRu": "Границы и соседи",
+          "target": 40
+        },
+        {
+          "topicRu": "Физическая география",
+          "target": 40
+        },
+        {
+          "topicRu": "Языки и культура",
+          "target": 40
+        },
+        {
+          "topicRu": "Устойчивые исторические сведения",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "capitals",
+      "group": "geography",
+      "ru": "Столицы",
+      "en": "Capitals",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Европа",
+          "target": 40
+        },
+        {
+          "topicRu": "Азия",
+          "target": 40
+        },
+        {
+          "topicRu": "Африка",
+          "target": 40
+        },
+        {
+          "topicRu": "Америка",
+          "target": 40
+        },
+        {
+          "topicRu": "Океания и история столичных функций",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "flags",
+      "group": "geography",
+      "ru": "Флаги",
+      "en": "Flags",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Цвета",
+          "target": 40
+        },
+        {
+          "topicRu": "Геометрия",
+          "target": 40
+        },
+        {
+          "topicRu": "Символы",
+          "target": 40
+        },
+        {
+          "topicRu": "История флагов",
+          "target": 40
+        },
+        {
+          "topicRu": "Различение похожих флагов",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "cities",
+      "group": "geography",
+      "ru": "Города",
+      "en": "Cities",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Местоположение",
+          "target": 40
+        },
+        {
+          "topicRu": "Реки и ландшафты",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Памятники",
+          "target": 40
+        },
+        {
+          "topicRu": "Культура и городское устройство",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "natural_wonders",
+      "group": "geography",
+      "ru": "Чудеса природы",
+      "en": "Natural wonders",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Горы",
+          "target": 40
+        },
+        {
+          "topicRu": "Водопады",
+          "target": 40
+        },
+        {
+          "topicRu": "Пещеры",
+          "target": 40
+        },
+        {
+          "topicRu": "Озёра и каньоны",
+          "target": 40
+        },
+        {
+          "topicRu": "Вулканы и ледники",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "ancient_world",
+      "group": "history",
+      "ru": "Древний мир",
+      "en": "Ancient world",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Египет",
+          "target": 40
+        },
+        {
+          "topicRu": "Месопотамия",
+          "target": 40
+        },
+        {
+          "topicRu": "Греция",
+          "target": 40
+        },
+        {
+          "topicRu": "Рим",
+          "target": 40
+        },
+        {
+          "topicRu": "Древние Азия и Америка",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "middle_ages",
+      "group": "history",
+      "ru": "Средневековье",
+      "en": "Middle Ages",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Повседневность",
+          "target": 40
+        },
+        {
+          "topicRu": "Государства",
+          "target": 40
+        },
+        {
+          "topicRu": "Культура",
+          "target": 40
+        },
+        {
+          "topicRu": "Торговля",
+          "target": 40
+        },
+        {
+          "topicRu": "События и письменные источники",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "modern_history",
+      "group": "history",
+      "ru": "Новая и новейшая история",
+      "en": "Modern history",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "XV–XVII века",
+          "target": 40
+        },
+        {
+          "topicRu": "XVIII век",
+          "target": 40
+        },
+        {
+          "topicRu": "XIX век",
+          "target": 40
+        },
+        {
+          "topicRu": "XX век",
+          "target": 40
+        },
+        {
+          "topicRu": "Институты и исторические документы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "civilizations",
+      "group": "history",
+      "ru": "Цивилизации",
+      "en": "Civilizations",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Города и общество",
+          "target": 40
+        },
+        {
+          "topicRu": "Письменность",
+          "target": 40
+        },
+        {
+          "topicRu": "Технологии",
+          "target": 40
+        },
+        {
+          "topicRu": "Торговые связи",
+          "target": 40
+        },
+        {
+          "topicRu": "Археологические свидетельства",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "historical_figures",
+      "group": "history",
+      "ru": "Исторические личности",
+      "en": "Historical figures",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Наука",
+          "target": 40
+        },
+        {
+          "topicRu": "Искусство",
+          "target": 40
+        },
+        {
+          "topicRu": "Государственная деятельность",
+          "target": 40
+        },
+        {
+          "topicRu": "Путешествия",
+          "target": 40
+        },
+        {
+          "topicRu": "Социальные преобразования",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "islam",
+      "group": "religion_culture",
+      "ru": "Ислам",
+      "en": "Islam",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Тексты и терминология",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Пять столпов",
+          "target": 40
+        },
+        {
+          "topicRu": "Архитектура",
+          "target": 40
+        },
+        {
+          "topicRu": "Культурные традиции с атрибуцией",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "christianity",
+      "group": "religion_culture",
+      "ru": "Христианство",
+      "en": "Christianity",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Тексты",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Праздники",
+          "target": 40
+        },
+        {
+          "topicRu": "Архитектура",
+          "target": 40
+        },
+        {
+          "topicRu": "Различия традиций с атрибуцией",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "buddhism",
+      "group": "religion_culture",
+      "ru": "Буддизм",
+      "en": "Buddhism",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Термины",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Основные учения с атрибуцией",
+          "target": 40
+        },
+        {
+          "topicRu": "Искусство",
+          "target": 40
+        },
+        {
+          "topicRu": "Региональные традиции",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "world_religions",
+      "group": "religion_culture",
+      "ru": "Религии мира",
+      "en": "World religions",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Священные тексты",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Праздники",
+          "target": 40
+        },
+        {
+          "topicRu": "Символы",
+          "target": 40
+        },
+        {
+          "topicRu": "Религиоведение и атрибуция",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "mythology",
+      "group": "religion_culture",
+      "ru": "Мифология",
+      "en": "Mythology",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Греческая традиция",
+          "target": 40
+        },
+        {
+          "topicRu": "Римская традиция",
+          "target": 40
+        },
+        {
+          "topicRu": "Скандинавская традиция",
+          "target": 40
+        },
+        {
+          "topicRu": "Египетская традиция",
+          "target": 40
+        },
+        {
+          "topicRu": "Традиции других регионов",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "animals",
+      "group": "nature",
+      "ru": "Животные",
+      "en": "Animals",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Млекопитающие",
+          "target": 40
+        },
+        {
+          "topicRu": "Птицы",
+          "target": 40
+        },
+        {
+          "topicRu": "Рептилии и амфибии",
+          "target": 40
+        },
+        {
+          "topicRu": "Беспозвоночные",
+          "target": 40
+        },
+        {
+          "topicRu": "Поведение и адаптации",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "plants",
+      "group": "nature",
+      "ru": "Растения",
+      "en": "Plants",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Строение",
+          "target": 40
+        },
+        {
+          "topicRu": "Размножение",
+          "target": 40
+        },
+        {
+          "topicRu": "Фотосинтез",
+          "target": 40
+        },
+        {
+          "topicRu": "Систематика",
+          "target": 40
+        },
+        {
+          "topicRu": "Адаптации и распространение",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "oceans",
+      "group": "nature",
+      "ru": "Океаны",
+      "en": "Oceans",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Вода и циркуляция",
+          "target": 40
+        },
+        {
+          "topicRu": "Рельеф",
+          "target": 40
+        },
+        {
+          "topicRu": "Живые организмы",
+          "target": 40
+        },
+        {
+          "topicRu": "Приливы и волны",
+          "target": 40
+        },
+        {
+          "topicRu": "Исследования",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "dinosaurs",
+      "group": "nature",
+      "ru": "Динозавры",
+      "en": "Dinosaurs",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Группы динозавров",
+          "target": 40
+        },
+        {
+          "topicRu": "Анатомия",
+          "target": 40
+        },
+        {
+          "topicRu": "Палеонтология",
+          "target": 40
+        },
+        {
+          "topicRu": "Мезозойские экосистемы",
+          "target": 40
+        },
+        {
+          "topicRu": "Вымирания и птицы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "ecology",
+      "group": "nature",
+      "ru": "Экология",
+      "en": "Ecology",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Экосистемы",
+          "target": 40
+        },
+        {
+          "topicRu": "Пищевые сети",
+          "target": 40
+        },
+        {
+          "topicRu": "Круговороты",
+          "target": 40
+        },
+        {
+          "topicRu": "Биоразнообразие",
+          "target": 40
+        },
+        {
+          "topicRu": "Охрана природы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "information_technology",
+      "group": "technology",
+      "ru": "Информационные технологии",
+      "en": "Information technology",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Программирование",
+          "target": 40
+        },
+        {
+          "topicRu": "Устройство компьютера",
+          "target": 40
+        },
+        {
+          "topicRu": "Данные",
+          "target": 40
+        },
+        {
+          "topicRu": "Операционные системы",
+          "target": 40
+        },
+        {
+          "topicRu": "История вычислений",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "artificial_intelligence",
+      "group": "technology",
+      "ru": "Искусственный интеллект",
+      "en": "Artificial intelligence",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Типы обучения",
+          "target": 40
+        },
+        {
+          "topicRu": "Данные",
+          "target": 40
+        },
+        {
+          "topicRu": "Оценка моделей",
+          "target": 40
+        },
+        {
+          "topicRu": "Нейронные сети",
+          "target": 40
+        },
+        {
+          "topicRu": "История и ограничения",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "inventions",
+      "group": "technology",
+      "ru": "Изобретения",
+      "en": "Inventions",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Печать и связь",
+          "target": 40
+        },
+        {
+          "topicRu": "Энергетика",
+          "target": 40
+        },
+        {
+          "topicRu": "Транспорт",
+          "target": 40
+        },
+        {
+          "topicRu": "Материалы",
+          "target": 40
+        },
+        {
+          "topicRu": "Измерительные приборы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "internet",
+      "group": "technology",
+      "ru": "Интернет",
+      "en": "Internet",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Сети",
+          "target": 40
+        },
+        {
+          "topicRu": "Адресация",
+          "target": 40
+        },
+        {
+          "topicRu": "Веб-протоколы",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Безопасность",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "space_technology",
+      "group": "technology",
+      "ru": "Космические технологии",
+      "en": "Space technology",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Ракеты",
+          "target": 40
+        },
+        {
+          "topicRu": "Пилотируемые миссии",
+          "target": 40
+        },
+        {
+          "topicRu": "Автоматические аппараты",
+          "target": 40
+        },
+        {
+          "topicRu": "Телескопы и приборы",
+          "target": 40
+        },
+        {
+          "topicRu": "Орбиты и связь",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "painting",
+      "group": "arts",
+      "ru": "Живопись",
+      "en": "Painting",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Художники",
+          "target": 40
+        },
+        {
+          "topicRu": "Произведения",
+          "target": 40
+        },
+        {
+          "topicRu": "Техники",
+          "target": 40
+        },
+        {
+          "topicRu": "Направления",
+          "target": 40
+        },
+        {
+          "topicRu": "Музеи и контекст",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "architecture",
+      "group": "arts",
+      "ru": "Архитектура",
+      "en": "Architecture",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Материалы",
+          "target": 40
+        },
+        {
+          "topicRu": "Конструкции",
+          "target": 40
+        },
+        {
+          "topicRu": "Стили",
+          "target": 40
+        },
+        {
+          "topicRu": "Здания",
+          "target": 40
+        },
+        {
+          "topicRu": "Архитекторы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "literature",
+      "group": "arts",
+      "ru": "Литература",
+      "en": "Literature",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Авторы и произведения",
+          "target": 40
+        },
+        {
+          "topicRu": "Жанры",
+          "target": 40
+        },
+        {
+          "topicRu": "Персонажи",
+          "target": 40
+        },
+        {
+          "topicRu": "Исторический контекст",
+          "target": 40
+        },
+        {
+          "topicRu": "Литературные приёмы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "music",
+      "group": "arts",
+      "ru": "Музыка",
+      "en": "Music",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Инструменты",
+          "target": 40
+        },
+        {
+          "topicRu": "Теория",
+          "target": 40
+        },
+        {
+          "topicRu": "Композиторы",
+          "target": 40
+        },
+        {
+          "topicRu": "Жанры",
+          "target": 40
+        },
+        {
+          "topicRu": "История исполнения",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "cinema",
+      "group": "arts",
+      "ru": "Кино",
+      "en": "Cinema",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Фильмы",
+          "target": 40
+        },
+        {
+          "topicRu": "Режиссура",
+          "target": 40
+        },
+        {
+          "topicRu": "Киноязык",
+          "target": 40
+        },
+        {
+          "topicRu": "Технологии",
+          "target": 40
+        },
+        {
+          "topicRu": "История кино",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "football",
+      "group": "sports",
+      "ru": "Футбол",
+      "en": "Football",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Правила",
+          "target": 40
+        },
+        {
+          "topicRu": "История турниров с датой",
+          "target": 40
+        },
+        {
+          "topicRu": "Тактика",
+          "target": 40
+        },
+        {
+          "topicRu": "Термины",
+          "target": 40
+        },
+        {
+          "topicRu": "Игроки и матчи с датой",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "basketball",
+      "group": "sports",
+      "ru": "Баскетбол",
+      "en": "Basketball",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Правила FIBA с редакцией",
+          "target": 40
+        },
+        {
+          "topicRu": "Правила других лиг с редакцией",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Тактика",
+          "target": 40
+        },
+        {
+          "topicRu": "Турниры и достижения с датой",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "olympics",
+      "group": "sports",
+      "ru": "Олимпийские игры",
+      "en": "Olympics",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "История Игр",
+          "target": 40
+        },
+        {
+          "topicRu": "Виды спорта",
+          "target": 40
+        },
+        {
+          "topicRu": "Символы",
+          "target": 40
+        },
+        {
+          "topicRu": "Правила и форматы",
+          "target": 40
+        },
+        {
+          "topicRu": "Достижения с датой",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "tennis",
+      "group": "sports",
+      "ru": "Теннис",
+      "en": "Tennis",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Правила ITF с редакцией",
+          "target": 40
+        },
+        {
+          "topicRu": "Турниры",
+          "target": 40
+        },
+        {
+          "topicRu": "Покрытия",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Техника и терминология",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "sports_records",
+      "group": "sports",
+      "ru": "Спортивные рекорды",
+      "en": "Sports records",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Датированные олимпийские достижения",
+          "target": 40
+        },
+        {
+          "topicRu": "Датированные легкоатлетические достижения",
+          "target": 40
+        },
+        {
+          "topicRu": "Датированные командные достижения",
+          "target": 40
+        },
+        {
+          "topicRu": "Датированные плавательные достижения",
+          "target": 40
+        },
+        {
+          "topicRu": "Методика измерений",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "food",
+      "group": "everyday",
+      "ru": "Еда",
+      "en": "Food",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Продукты",
+          "target": 40
+        },
+        {
+          "topicRu": "Кулинарные процессы",
+          "target": 40
+        },
+        {
+          "topicRu": "Региональные блюда",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Пищевая химия",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "health",
+      "group": "everyday",
+      "ru": "Здоровье",
+      "en": "Health",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Общая гигиена",
+          "target": 40
+        },
+        {
+          "topicRu": "Сон",
+          "target": 40
+        },
+        {
+          "topicRu": "Общие понятия питания",
+          "target": 40
+        },
+        {
+          "topicRu": "Физическая активность",
+          "target": 40
+        },
+        {
+          "topicRu": "Профилактическая грамотность без назначений",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "cars",
+      "group": "everyday",
+      "ru": "Автомобили",
+      "en": "Cars",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Устройство",
+          "target": 40
+        },
+        {
+          "topicRu": "Двигатели",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Безопасность",
+          "target": 40
+        },
+        {
+          "topicRu": "Электромобили",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "economics",
+      "group": "everyday",
+      "ru": "Экономика",
+      "en": "Economics",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Основные понятия",
+          "target": 40
+        },
+        {
+          "topicRu": "Деньги",
+          "target": 40
+        },
+        {
+          "topicRu": "Рынки",
+          "target": 40
+        },
+        {
+          "topicRu": "Макроэкономические показатели",
+          "target": 40
+        },
+        {
+          "topicRu": "История экономических институтов",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "human_body",
+      "group": "everyday",
+      "ru": "Организм человека",
+      "en": "Human body",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Клетки и ткани",
+          "target": 40
+        },
+        {
+          "topicRu": "Органы",
+          "target": 40
+        },
+        {
+          "topicRu": "Системы органов",
+          "target": 40
+        },
+        {
+          "topicRu": "Физиология",
+          "target": 40
+        },
+        {
+          "topicRu": "Органы чувств",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "video_games",
+      "group": "entertainment",
+      "ru": "Видеоигры",
+      "en": "Video games",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "История",
+          "target": 40
+        },
+        {
+          "topicRu": "Игровые механики",
+          "target": 40
+        },
+        {
+          "topicRu": "Серии",
+          "target": 40
+        },
+        {
+          "topicRu": "Разработчики",
+          "target": 40
+        },
+        {
+          "topicRu": "Платформы",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "cartoons",
+      "group": "entertainment",
+      "ru": "Мультфильмы",
+      "en": "Cartoons",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Персонажи",
+          "target": 40
+        },
+        {
+          "topicRu": "Студии",
+          "target": 40
+        },
+        {
+          "topicRu": "Техники анимации",
+          "target": 40
+        },
+        {
+          "topicRu": "Произведения",
+          "target": 40
+        },
+        {
+          "topicRu": "История",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "television",
+      "group": "entertainment",
+      "ru": "Телевидение",
+      "en": "Television",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "История вещания",
+          "target": 40
+        },
+        {
+          "topicRu": "Жанры",
+          "target": 40
+        },
+        {
+          "topicRu": "Произведения",
+          "target": 40
+        },
+        {
+          "topicRu": "Технологии",
+          "target": 40
+        },
+        {
+          "topicRu": "Создатели",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "celebrities",
+      "group": "entertainment",
+      "ru": "Знаменитости",
+      "en": "Celebrities",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Датированные работы",
+          "target": 40
+        },
+        {
+          "topicRu": "Профессии",
+          "target": 40
+        },
+        {
+          "topicRu": "Награды с годом",
+          "target": 40
+        },
+        {
+          "topicRu": "Псевдонимы",
+          "target": 40
+        },
+        {
+          "topicRu": "Культурный вклад без частной жизни",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "pop_culture",
+      "group": "entertainment",
+      "ru": "Поп-культура",
+      "en": "Pop culture",
+      "target": 200,
+      "difficultyTarget": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 40
+      },
+      "topicQuotas": [
+        {
+          "topicRu": "Жанры",
+          "target": 40
+        },
+        {
+          "topicRu": "Культурные явления",
+          "target": 40
+        },
+        {
+          "topicRu": "Произведения",
+          "target": 40
+        },
+        {
+          "topicRu": "История медиа",
+          "target": 40
+        },
+        {
+          "topicRu": "Терминология",
+          "target": 40
+        }
+      ],
+      "status": "in_progress"
+    }
+  ]
+}
