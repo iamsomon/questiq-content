@@ -178,5 +178,1005 @@
         "url": "https://docs.python.org/3/tutorial/introduction.html"
       }
     ]
+  },
+  {
+    "id": "information_technology_catalog_port_echo_0001",
+    "status": "approved",
+    "sha256": "5861fb0e06d9291b3277fe1860223033ed0a268fd88dc75a049264ce42c94b1a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Echo? Answer: 7. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "60e455fd08638811c6df7da4d2de6f0479f4ad53b1565c03b37ceb1abf717b20",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_discard_0001",
+    "status": "approved",
+    "sha256": "7003ec22a3bee9398b27342e318290b7d482f944afb9622c14a4e8fffaff2f2d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Discard? Answer: 9. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "2be6a2e01b55bc0f83f54a06aa4b53d1a4c091314a76b74e7619743e1a357b67",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_daytime_0001",
+    "status": "approved",
+    "sha256": "ed81f327cab3feb32e8dad10cd3f2a69f3bc3da58d85c3ce34711b0d88e57bc7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Daytime? Answer: 13. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "080f6e8d57e18bdb3ecf37420adaa33b20258ebc0e2615bc0e619a24f4b3f49e",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ftp_0001",
+    "status": "approved",
+    "sha256": "6c9da35ce90399a28ee70c9aa11993554aed1ef7f9352d497958155d903d9635",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for FTP control? Answer: 21. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "7bf1231d19ef18bf35f2632cae7b54c5e8ff1a81982370458c201089723dd40f",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ssh_0001",
+    "status": "approved",
+    "sha256": "07e5f43eb7fc09d22e122b1c0654064572a71dd7dc7f3fc0b9aa2c2602f178b1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for SSH? Answer: 22. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "4cd53b8f84e33550a67d1337216378e057f018d7fca7e8dc5df1583830707f77",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_telnet_0001",
+    "status": "approved",
+    "sha256": "b2827be6d66beadc009e0427a86704d15a61df553442ebbab692d1656fbb94b7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Telnet? Answer: 23. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "d4103374571f02e9c8baf69d27dd269af08a57ee1b5206521453aabfa7306252",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_smtp_0001",
+    "status": "approved",
+    "sha256": "b1619d1da7c9eef4cc52758b5a025a93c0c32bf421baa558b7b4eb4d1f5a5ef0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for SMTP? Answer: 25. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "2d25f57d068fbbe1eeec06d6ae75a9b25797183637e6f8a8d6cfacb36e25bf3f",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_time_0001",
+    "status": "approved",
+    "sha256": "061701be8a3cdf642c68b31ed0ab58c376b1a2c2289c4da78d9629a2444108b9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Time? Answer: 37. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "988f8f8690688a013c874162ef2f2a2d5dada2f52fb9b835ac996ec2f5892ca6",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_nicname_0001",
+    "status": "approved",
+    "sha256": "4e5b0095d07fd6f2722a05b606e1f56f96e6ee555812ab483fce46635add313c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for WHOIS? Answer: 43. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "5069fb8d69b0641e5ac5092f47ea7abec2d936541051f92b6773d407fad4b6ee",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_domain_0001",
+    "status": "approved",
+    "sha256": "d76ea0ba97c399b7f08e7d5ef4f20a0026cb6adaa2223ff5dbbe130ef7f4ad36",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for DNS? Answer: 53. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "5965ddbf331b9e08983c2745fefa00b0b2cb8f5860f1da530ed64a9aba2f47bd",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_bootps_0001",
+    "status": "approved",
+    "sha256": "b648ae5af0370fbda4224cb664dcf77dbe17b64fd3d4fc7ae9dfbe573622e850",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for BOOTP server? Answer: 67. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "7cb74a0c7dd7770cf2ecd71c316a184d08bfad8946ff4a3064d407e2e70e6ad9",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_bootpc_0001",
+    "status": "approved",
+    "sha256": "72acd15c73ccd0e728f374fe8c13ad623f5120a3d366c3bd3d29033045ce7099",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for BOOTP client? Answer: 68. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "74230dafd8853d9df99c9cd5bc05c2f3863e30c6af955ac7444cdc1a94974a9d",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_tftp_0001",
+    "status": "approved",
+    "sha256": "b7d7346cd36ef1d158f5a53e20f08083d8023e57727e98558d9190040cad5fa7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for TFTP? Answer: 69. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "8998c92271f3772ea04fd04aba22825716c6b1fbace49bb35de3c47b5a9d1360",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_gopher_0001",
+    "status": "approved",
+    "sha256": "3c7f303d98d8d8d504ce86d6004b341e5d78269560e04d745ecfe1d190dc65f6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Gopher? Answer: 70. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "51813e1661a6b89d062b252c6e739c43f5b6ac8807913ba8bda1139cf6d2bffe",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_finger_0001",
+    "status": "approved",
+    "sha256": "35f7c8e3cb0dcef624fd3989a8f60194c7453f5928b2982c03c19b5b655f0b54",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Finger? Answer: 79. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "a8b97fc5e9b5b8609c5ef8c046c54c6f893514875b08ac6253139b614729da6a",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_http_0001",
+    "status": "approved",
+    "sha256": "4b87a4ec2b12fc3b76c88420587bcd5581180b7f7b7b5fa0f33242ded6cdb486",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for HTTP? Answer: 80. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "e3b1192869aaa06826d04cb20197ac88b871a1b0f07adff0f0b950bc02f0a0ae",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_kerberos_0001",
+    "status": "approved",
+    "sha256": "4a834e8a810f6fb6582ab675a4d28b2315dbe8ed4f3e647cea7be199d4572fd9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Kerberos? Answer: 88. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "911afd3b525c5e5a299c6f457377f964ab5699ca71cf109b9d9189d5ee1ae9ce",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_pop3_0001",
+    "status": "approved",
+    "sha256": "1a18c33e951c4c9f2ab3f1647fcb1878c14d0ffa554cd207683be1625cddda6b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for POP3? Answer: 110. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "98eb616d28e06aa59af140a2ea9e18d5766aefef566a0157cc08d2734cfd57ec",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_nntp_0001",
+    "status": "approved",
+    "sha256": "f206f3099279da4ffc690e9e734c60643dfa9f4429d1954da066c40e75f89dae",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for NNTP? Answer: 119. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "8ff233ff6cd004a6e87fc72298039a0bf3f020d60fa758127c1cffbd30439d83",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ntp_0001",
+    "status": "approved",
+    "sha256": "d0bfe1fd167e4d34abaaac2ccb26d294ffc1cb0320a7804ed545ec860f8ee6a5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for NTP? Answer: 123. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "41db358c6e3ef7b6a255b58d31f33492e847bc8ed0476de5b3031ded49ed0f5b",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_ns_0001",
+    "status": "approved",
+    "sha256": "5c95fc966759007b6545c5a1924d5f247bd98dddbf5d1f69c849c29fcff4286d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for NetBIOS Name Service? Answer: 137. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "11c31a0258361709c6a8ee0cfc14cc98cde661a7d5018d0012d22b2189e546df",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_dgm_0001",
+    "status": "approved",
+    "sha256": "bc1b438b9bd801ee94626c1cf6e482dd5aaa0afe4dfeee2e14141dc5ee094296",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for NetBIOS Datagram Service? Answer: 138. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "47f8f3730a0e1eabfcf0ce194f90f22ae0eea4bf5e8004c105ee18978a75caad",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_ssn_0001",
+    "status": "approved",
+    "sha256": "2e94481f7761cd324e152c3e7d5418408c0ceea851c3b7071a6417deecbd472d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for NetBIOS Session Service? Answer: 139. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "77b81f08acee7aa2729e9da66ece444d0bfa329dc1639d4a16a063f03dfc6abe",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_imap_0001",
+    "status": "approved",
+    "sha256": "9d2ce08828bf84f515012cfb8af0e599946f22b6bbd080d09d8520c355e177cf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for IMAP? Answer: 143. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "bf0766b04ed162e731b33c989741c07e11ef2be268e89e8aba098e3264105b0c",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_snmp_0001",
+    "status": "approved",
+    "sha256": "1c53cb48d3582e2291699cd8e17ab869308064d24b48959022a54e6967709ca9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for SNMP? Answer: 161. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "50136e6670c2916b022397efd5352dffbf5bdafc21c5d5b34bcb72105a82872b",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_snmptrap_0001",
+    "status": "approved",
+    "sha256": "99100ee71f55ef8f49abdf4b97c7284d4c4f0e4f45051d9f7523c7f0e06c2624",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for SNMP Trap? Answer: 162. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "f044d893627fc7f0593c74cfdad599017b9ae399607cd631bb969ac7b4bf6c63",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_bgp_0001",
+    "status": "approved",
+    "sha256": "bc8ebd0f1c65465b829f81d98f4632f52d2d9e3527595f11bc48659c1a8fbf92",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for BGP? Answer: 179. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "b341910442f584b9df6bb62927531079c5904ae6785aced461ffc3333d05e34f",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ldap_0001",
+    "status": "approved",
+    "sha256": "74637a1999f9295a026acbfff2748a1256ab506a40485d126121061e86afe992",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for LDAP? Answer: 389. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "a4ecf58bd227e369ccd139e93ec23eda9f9337e552e3d5bfd891c02f7ce51d77",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_https_0001",
+    "status": "approved",
+    "sha256": "0e2f1a37b51d87650842685ed6972d34f8b17fa0be5aff9b0483401c2f9a2a7f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for HTTPS? Answer: 443. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "5240763137e9a255006f02f655ab1462ead3219106e6f631f6285223b27cf063",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_microsoft_ds_0001",
+    "status": "approved",
+    "sha256": "da1dcf1ad5ec56b6b7def7c74a0eaf42ad8d11cb9ff6cbcb607d19068d04f7bb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Microsoft-DS (SMB)? Answer: 445. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "f88a9a17cac6ad35f619b427d8b3293c40bd9dcfa5520c18fcffd39b9b6bcfe9",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_submissions_0001",
+    "status": "approved",
+    "sha256": "77ea455d00a254eedb0974d9915cb19a9697d46827af22e0a8ef158b6eaded0e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Submission over TLS? Answer: 465. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "236219079fbebfa99da7bda705392af20552ca79aecb88059f21673abd0ccdb9",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_syslog_0001",
+    "status": "approved",
+    "sha256": "e4e56c7033c65c27731a9e97f91ce4d86e376a993b76d07c4fba3f1ffcc5dd31",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for Syslog? Answer: 514. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "7967ab3b5a397afc992b17265474702402580fa1df8d259f4b3a9b242d620569",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_printer_0001",
+    "status": "approved",
+    "sha256": "c8cd990daa334dcd8dbcf00f317128c1d6f13d66d08c86b5027418cc42d3037f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for LPD printing? Answer: 515. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "260746a45526160bb2529090bd845408167c99610fc78814cc5030bdd662fe6a",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_submission_0001",
+    "status": "approved",
+    "sha256": "22adf2734c38d520c091ff24d963097a158954b75e0e3944d998e5955c330033",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Submission? Answer: 587. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "a80e9c27353ecd8bf30174457723216b4706b152b8e02b5b2ff41b661b767360",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ipp_0001",
+    "status": "approved",
+    "sha256": "856c146424546478ec1f6f7d70bc347922a43fdf67e0a1b00ecbc8d4f6827bfe",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for IPP? Answer: 631. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "ccda35e0bcfc50136470a47652098e2f68ed356b3d9ac6a694d78bb7cb4424b8",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ldaps_0001",
+    "status": "approved",
+    "sha256": "5a5832564c37a79bf9856e19d61e24478b91743c406f837b1351fcb0a111c779",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for LDAP over TLS? Answer: 636. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "9370c324864dce7c6dd79c77e688df10d18a96b39ff424e8fa3337e0b553f35a",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_rsync_0001",
+    "status": "approved",
+    "sha256": "bb2476263e16ab8967cff807a9264fc27a0bcfafbf80a335145c153948612105",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for rsync? Answer: 873. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "ec11795232e10f8a9958a7e28e16701f3463325f5af6a45ea6c8281eb37c6b82",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ftps_0001",
+    "status": "approved",
+    "sha256": "bb54e58bae5be63e7932ce96bdc8669abd1524d64cc5d8b7b2900db67ef2dc2e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for FTPS control? Answer: 990. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "8808e2f6fbaf6c66e4db32ddd8f30a60ef02cef6fdc250dd431e17ed9093b997",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_imaps_0001",
+    "status": "approved",
+    "sha256": "a5767df4010c5ad8f0003a8a5f59931ec39f8cfb5e4927629d1840be1f50de36",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for IMAP over TLS? Answer: 993. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "bd07185012a11a1a5cc7bccb3956544bc9bede484fe9ef7a18857defdf505c47",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_pop3s_0001",
+    "status": "approved",
+    "sha256": "7361227ea777107656b1dfd27b080f83eb1578735940bb5553d73561a44919e9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for POP3 over TLS? Answer: 995. This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "98f4e3fa1753ed6dce14daf8625f45825f2ccc85da40b3d338c5f96951bd80f3",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_openvpn_0001",
+    "status": "approved",
+    "sha256": "66174a756210a3e497101f65d8d295ff2e158575bfbee5fb07652ae94604298a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for OpenVPN? Answer: 1194. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "51564e6bbafc914e7ce0511edceb23120059b5d1ec21dbba5b516a48f2b08721",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ms_sql_s_0001",
+    "status": "approved",
+    "sha256": "625f2c9b4fae36099febb5c15440c8a9d7a5e0498983f5f7dfa1f6a244984ad0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Microsoft SQL Server? Answer: 1433. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "72ca0f345443e195a9818ee615a35efa11d8571d03ac07751195154121a5ccc4",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_radius_0001",
+    "status": "approved",
+    "sha256": "8bd3a977f3043bc954c2b9a01d7a5c9a918e08fd8eb4e466280c6c884e9cb7ff",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for RADIUS? Answer: 1812. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "1a09daa9dc15f6a39580ce46d0eedbb61b5594e4a146b47b8c91aa1fe293a8d4",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_radius_acct_0001",
+    "status": "approved",
+    "sha256": "23a885f4171da5cba85b14ab0f1fcb4cb1edc8d5b5d4471ea626625f30f5a52e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which UDP port is registered for RADIUS Accounting? Answer: 1813. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "4917d53ebc4630d8cdc41b93403a798b5ad3054f1d2ca8072b3136c27a23543b",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_mqtt_0001",
+    "status": "approved",
+    "sha256": "09da267ea4cbc9ea1c914d1f322df56b37e70545b183a7e824d02b08c73c3be6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for MQTT? Answer: 1883. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "697b34f61ea886ef47537d95e0121807ccdd138bb62b850922287d8dcda1aa7c",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_mysql_0001",
+    "status": "approved",
+    "sha256": "09ea401203a08015e4fe5b6f85667d1adb7ecf18f56c07e7187dc50a0c2d4ad0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for MySQL? Answer: 3306. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "6c4e106b27cc18eecf1bb0598be28622028e33ea00b4c59e15f114c3728375a1",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_ms_wbt_server_0001",
+    "status": "approved",
+    "sha256": "530ad5737c767bbe4974ee7da5a3f3902178444bcd1f4e155ecde7b7afa2c5f5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Remote Desktop (MS WBT)? Answer: 3389. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "e8f64f3589abe87d87b0a2f836da1b43bf720bcb5bdc23d8d3228e92e1c57cee",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_postgresql_0001",
+    "status": "approved",
+    "sha256": "0ef3f0a491efb0fa29f780e9f3e2d3c5eec3af8a3de236c32792d39d3465dfbe",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for PostgreSQL? Answer: 5432. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "5a7e5991488a7d1022f5fad9a450630e8ad8ffb5e30faa350ff671a3ba7bd674",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_rfb_0001",
+    "status": "approved",
+    "sha256": "3dff8bbe63829653edfe81eb11254618fe43f02bc13007f319a5d19c5a072f79",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for Remote Framebuffer? Answer: 5900. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "a7e2a5dafbba093c08fdb6e5361f4c30a922e631b7ab249a12fd69b18bef4dd1",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
+  },
+  {
+    "id": "information_technology_catalog_port_mongodb_0001",
+    "status": "approved",
+    "sha256": "0efc0dca0710051f398aa19b52390237402c6ca9b0fbe412d59c68fb4cc69a31",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iana.org/assignments/service-names-port-numbers/",
+        "location": "Exact service + transport row; port range definitions and registry warning about actual traffic",
+        "claim": "Which TCP port is registered for MongoDB? Answer: 27017. This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    ],
+    "sourceRecordSha256": "41463685e4f4b2de6f2f0e0f1bb63413c511601722c366e482f9e05faf4cd811",
+    "reviewNotes": "Reviewed exact service+transport+number row, not a port number alone. Resolved 465/514/631 overlaps by naming service and transport. Alternatives are different registered port numbers; aliases on the same row cannot create another number. Explanation adds the IANA range and warns that registration does not identify actual traffic. Both locales preserve TCP/UDP and control/server/client distinctions."
   }
 ]

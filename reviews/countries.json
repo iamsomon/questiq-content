@@ -178,5 +178,405 @@
         "location": "UN M49 Geographic Regions table: country row and enclosing regional headings; statistical grouping explicitly named"
       }
     ]
+  },
+  {
+    "id": "countries_catalog_whc_4_0001",
+    "status": "approved",
+    "sha256": "b60d194e12d90918f3ab5f6ba3c0659d7b2e4c7039badaa355fa64a3c12eb738",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/4/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property L’Anse aux Meadows National Historic Site? Answer: Canada. This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    ],
+    "sourceRecordSha256": "cb792911c9948aca46e94740147cbb2b7084529e5cf42d37d049314560d1adc2",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_26_0001",
+    "status": "approved",
+    "sha256": "1293ad18724b4c576ef48341bd06c37bedcf46afee4ab83803e8e5819d67ac8b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/26/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Island of Gorée? Answer: Senegal. This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    ],
+    "sourceRecordSha256": "8d6dae2068d1a4089faa21ca35edea7b259e70fde6796a9772155bb458a8656d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_27_0001",
+    "status": "approved",
+    "sha256": "09430915842ced8f2963d62617c1f37013b4e030ea0b744ecdf8f90d88316db1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/27/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Mesa Verde National Park? Answer: United States. This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    ],
+    "sourceRecordSha256": "e9fee50bd557cc016fa7925163bcfaf4483bebe50c4ad6b3023524a13e785d2a",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_19_0001",
+    "status": "approved",
+    "sha256": "bcae215f2ebff33ab878bbd2055851a436c807b0d3e9275284300925a1cccfb0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/19/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Fasil Ghebbi, Gondar Region? Answer: Ethiopia. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "72fbff0810450a5947fe58166e00e20d572684824b65e7d28b3321aea805dbe3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_38_0001",
+    "status": "approved",
+    "sha256": "be37b0b45d51b0efe22b4ac70049f973b13faa8617c1450981bdae516aeab5fa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/38/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Amphitheatre of El Jem? Answer: Tunisia. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "76ef3c62aec704883349e78357a32330e17706a3e5077748ccf9e3b2a797b59f",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_43_0001",
+    "status": "approved",
+    "sha256": "9d390e6d1072d681ddca104c6c72f04fc708d63a3f1dd85cf61875ca83d0ed72",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/43/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Madara Rider? Answer: Bulgaria. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "f9c0a36977baa6e817c0854e44faee18d566bc284ecc74de26d69f1f04edc6d6",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_44_0001",
+    "status": "approved",
+    "sha256": "3ddeffb5f30362d0588c98482fc880da0fe2730b40f366b7e7726fc1ffdd9583",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/44/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Thracian Tomb of Kazanlak? Answer: Bulgaria. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "906d01be7ad827f1a2283c4ac88915423805c05bedc466c4346d7bab5822de7f",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_59_0001",
+    "status": "approved",
+    "sha256": "324e69e5e212ae99c82d9add530413619851d10f942a264ce2ae3131e35fc527",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/59/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Bryggen? Answer: Norway. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "e953983983561f66fa89e3206addcade8ff1609a457bca43f545e0f2f9af1c82",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_78_0001",
+    "status": "approved",
+    "sha256": "5ef67d1fc0ca77134a999758a9d6c98d85b4fd8fc9a7e76b9e6f9e87dfe4aa9f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/78/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Independence Hall? Answer: United States. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "e323e42f5629ac9a96848be926a52f053edc16f45759c9aa44007d9d9a2021e9",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_80_0001",
+    "status": "approved",
+    "sha256": "276c2fc8bce220c691a257f3eda5623bfc56ba5ddb444af519cb5f7386083412",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/80/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Mont-Saint-Michel and its Bay? Answer: France. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "eeabe516bc49283177a7af44a606772a791516c361f4d33fa0b5731bd1341dcf",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_86_0001",
+    "status": "approved",
+    "sha256": "1014be2b05e0044501ba386f4389c98af29f715d5f7087bc128801404154e8e6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/86/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur? Answer: Egypt. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "f3d63ef6f6a6f164cb41a0dc5b706e27a123f38609188ab268db356ff098b33a",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_88_0001",
+    "status": "approved",
+    "sha256": "aa78a7ce419d402db082b44a3ee1a9f7b3f50a63181ca7aa8e187ba1f2672db8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/88/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Nubian Monuments from Abu Simbel to Philae? Answer: Egypt. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "6c6c975682dbf26d450e6883aab74c7e8db726901197ef92db0c77ac1dad3780",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_89_0001",
+    "status": "approved",
+    "sha256": "11def8e79ac3c11e047db4bc92191a02f2620dfab0e3d442364b70b8a68903dd",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/89/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Historic Cairo? Answer: Egypt. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "8f807738075e3a1e6d2a703b81e41948b497c405daa440e2328e68c531633c7e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_90_0001",
+    "status": "approved",
+    "sha256": "863f27e2e62488c3bd00be51a26ac8f5150d7142f56c2405dda299cf8563043e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/90/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Abu Mena? Answer: Egypt. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "97014b957e669d83cc26aa0a7bde131fba1dc2cb4d3ab7efc0d76ef92916fa76",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_94_0001",
+    "status": "approved",
+    "sha256": "46a6db7ac3c20c9962eb5044236530dfc1d806c29b481b3c7add60db8118c057",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/94/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rock Drawings in Valcamonica? Answer: Italy. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "face6437ee4eb70b3390e06ff0f9f6ea46a635caf524696d06411d15e16e5b39",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_96_0001",
+    "status": "approved",
+    "sha256": "dbd1cd888a92dc99ce36389ff1e8dd1664f771589d829679f5f9ad45d4fe7f06",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/96/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Stari Ras and Sopoćani? Answer: Serbia. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "83f13f094ec562cb24fdff1684b42e476493bfe77b5a2a4955ba6924596c71ba",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_113_0001",
+    "status": "approved",
+    "sha256": "fe11a51350d22d6205a1e50005218b67301750cfe744d0cc011ad0a1f6fb4201",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/113/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Tchogha Zanbil? Answer: Iran. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "263f2a5f9b965c70b7a91e23d25286f433485f42c0ae976f8264349c20565d15",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_114_0001",
+    "status": "approved",
+    "sha256": "8694a9883550f38caf391a7e4939fbbc5f3b5a1fa39cfd99d5195b7b682f2a54",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/114/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Persepolis? Answer: Iran. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "d42de4c88773d934e24e0dfd87a9131a7053359dd7fe2e83c4038ee88d93900d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_115_0001",
+    "status": "approved",
+    "sha256": "6973e34159ed42febd58cd6fa0e4cc84de843dd14056738aa108823c62d3a620",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/115/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Meidan Emam, Esfahan? Answer: Iran. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "97106436e93dfe968f4d2b1fd982851ca50efeabaded38317df52100eabad331",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_catalog_whc_125_0001",
+    "status": "approved",
+    "sha256": "fa9d876282e258bb93b06ae9752688493a8977194a101c6c65086918e0fbff48",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/125/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Natural and Culturo-Historical Region of Kotor? Answer: Montenegro. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "a900fa04a561cb7f0bed90524c6cbf046c9a456bee213f9b148fe2282bb87242",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
   }
 ]

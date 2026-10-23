@@ -438,5 +438,4405 @@
       "https://whc.unesco.org/en/list/357/"
     ],
     "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_9_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Сымен»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Simien National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эфиопия",
+        "en": "Ethiopia"
+      },
+      {
+        "id": "o1",
+        "ru": "Замбия",
+        "en": "Zambia"
+      },
+      {
+        "id": "o2",
+        "ru": "Гамбия",
+        "en": "Gambia"
+      },
+      {
+        "id": "o3",
+        "ru": "Бенин",
+        "en": "Benin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/9/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_24_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Наханни»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Nahanni National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o2",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузия",
+        "en": "Georgia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/24/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_28_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Йеллоустонский национальный парк»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Yellowstone National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o2",
+        "ru": "Латвия",
+        "en": "Latvia"
+      },
+      {
+        "id": "o3",
+        "ru": "Чехия",
+        "en": "Czechia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/28/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_63_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Вирунга»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Virunga National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o1",
+        "ru": "Сан-Томе и Принсипи",
+        "en": "São Tomé & Príncipe"
+      },
+      {
+        "id": "o2",
+        "ru": "Чад",
+        "en": "Chad"
+      },
+      {
+        "id": "o3",
+        "ru": "Лесото",
+        "en": "Lesotho"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/63/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_71_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Провинциальный парк Дайносор»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Dinosaur Provincial Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      },
+      {
+        "id": "o2",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/71/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_76_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Эверглейдс»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Everglades National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/76/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_98_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Плитвицкие озера»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Plitvice Lakes National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o1",
+        "ru": "Израиль",
+        "en": "Israel"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/98/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_120_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Сагарматха (район горы Эверест)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sagarmatha National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o1",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      },
+      {
+        "id": "o2",
+        "ru": "Филиппины",
+        "en": "Philippines"
+      },
+      {
+        "id": "o3",
+        "ru": "Лаос",
+        "en": "Laos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/120/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_8_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Ишкёль»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ichkeul National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o1",
+        "ru": "Ливан",
+        "en": "Lebanon"
+      },
+      {
+        "id": "o2",
+        "ru": "Саудовская Аравия",
+        "en": "Saudi Arabia"
+      },
+      {
+        "id": "o3",
+        "ru": "Ирак",
+        "en": "Iraq"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/8/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_100_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Дурмитор»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Durmitor National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      },
+      {
+        "id": "o1",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Македония",
+        "en": "North Macedonia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/100/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_134_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Редвуд»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Redwood National and State Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Израиль",
+        "en": "Israel"
+      },
+      {
+        "id": "o2",
+        "ru": "Турция",
+        "en": "Türkiye"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/134/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_136_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Гарамба»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Garamba National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o1",
+        "ru": "Южно-Африканская Республика",
+        "en": "South Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Камерун",
+        "en": "Cameroon"
+      },
+      {
+        "id": "o3",
+        "ru": "Кабо-Верде",
+        "en": "Cape Verde"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/136/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_137_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Кахузи-Биега»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Kahuzi-Biega National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o1",
+        "ru": "Малави",
+        "en": "Malawi"
+      },
+      {
+        "id": "o2",
+        "ru": "Бенин",
+        "en": "Benin"
+      },
+      {
+        "id": "o3",
+        "ru": "Кабо-Верде",
+        "en": "Cape Verde"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/137/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_25_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Орнитологический резерват Джудж»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Djoudj National Bird Sanctuary?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сенегал",
+        "en": "Senegal"
+      },
+      {
+        "id": "o1",
+        "ru": "Ангола",
+        "en": "Angola"
+      },
+      {
+        "id": "o2",
+        "ru": "Кабо-Верде",
+        "en": "Cape Verde"
+      },
+      {
+        "id": "o3",
+        "ru": "Маврикий",
+        "en": "Mauritius"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/25/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_145_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Лос-Гласьярес»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Los Glaciares National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o1",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o2",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o3",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/145/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_150_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Мамонтова пещера»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Mammoth Cave National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o2",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      },
+      {
+        "id": "o3",
+        "ru": "Турция",
+        "en": "Türkiye"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/150/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_151_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Олимпик»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Olympic National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o2",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/151/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_153_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Ниоколо-Коба»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Niokolo-Koba National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сенегал",
+        "en": "Senegal"
+      },
+      {
+        "id": "o1",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Габон",
+        "en": "Gabon"
+      },
+      {
+        "id": "o3",
+        "ru": "Намибия",
+        "en": "Namibia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/153/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_159_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Дарьен»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Darien National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o2",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o3",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/159/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_185_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Атолл Альдабра»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Aldabra Atoll?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      },
+      {
+        "id": "o1",
+        "ru": "Южно-Африканская Республика",
+        "en": "South Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Маврикий",
+        "en": "Mauritius"
+      },
+      {
+        "id": "o3",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/185/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_186_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Район острова Лорд-Хау»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Lord Howe Island Group?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Камбоджа",
+        "en": "Cambodia"
+      },
+      {
+        "id": "o2",
+        "ru": "Лаос",
+        "en": "Laos"
+      },
+      {
+        "id": "o3",
+        "ru": "Непал",
+        "en": "Nepal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/186/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_195_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Таи»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Taï National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кот-д’Ивуар",
+        "en": "Côte d’Ivoire"
+      },
+      {
+        "id": "o1",
+        "ru": "Южный Судан",
+        "en": "South Sudan"
+      },
+      {
+        "id": "o2",
+        "ru": "Камерун",
+        "en": "Cameroon"
+      },
+      {
+        "id": "o3",
+        "ru": "Сьерра-Леоне",
+        "en": "Sierra Leone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/195/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_196_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Биосферный резерват Рио-Платано»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Río Plátano Biosphere Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Доминика",
+        "en": "Dominica"
+      },
+      {
+        "id": "o3",
+        "ru": "Сальвадор",
+        "en": "El Salvador"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/196/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_199_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Охотничий резерват Селус»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Selous Game Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Танзания",
+        "en": "Tanzania"
+      },
+      {
+        "id": "o1",
+        "ru": "Ангола",
+        "en": "Angola"
+      },
+      {
+        "id": "o2",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o3",
+        "ru": "Малави",
+        "en": "Malawi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/199/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_219_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Природный резерват Сребырна»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Srebarna Nature Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o1",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o2",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o3",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/219/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_225_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Пирин»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Pirin National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o1",
+        "ru": "Финляндия",
+        "en": "Finland"
+      },
+      {
+        "id": "o2",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      },
+      {
+        "id": "o3",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/225/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_227_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Комоэ»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Comoé National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кот-д’Ивуар",
+        "en": "Côte d’Ivoire"
+      },
+      {
+        "id": "o1",
+        "ru": "Бенин",
+        "en": "Benin"
+      },
+      {
+        "id": "o2",
+        "ru": "Сенегал",
+        "en": "Senegal"
+      },
+      {
+        "id": "o3",
+        "ru": "Южный Судан",
+        "en": "South Sudan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/227/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_256_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Вуд-Баффало»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Wood Buffalo National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o2",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o3",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/256/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_258_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Мысы Жиролата и Порто, природный резерват Скандола и скалистые бухты каланки у города Пьяна (остров Корсика)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o1",
+        "ru": "Чехия",
+        "en": "Czechia"
+      },
+      {
+        "id": "o2",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/258/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_259_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Грейт-Смоки-Маунтинс»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Great Smoky Mountains National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Израиль",
+        "en": "Israel"
+      },
+      {
+        "id": "o2",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/259/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_260_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Сангай»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sangay National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o1",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o2",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o3",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/260/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_261_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Природный резерват Валле-де-Мэ»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Vallée de Mai Nature Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      },
+      {
+        "id": "o1",
+        "ru": "Гвинея-Бисау",
+        "en": "Guinea-Bissau"
+      },
+      {
+        "id": "o2",
+        "ru": "Эритрея",
+        "en": "Eritrea"
+      },
+      {
+        "id": "o3",
+        "ru": "Коморы",
+        "en": "Comoros"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/261/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_280_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Салонга»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Salonga National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o1",
+        "ru": "Гвинея",
+        "en": "Guinea"
+      },
+      {
+        "id": "o2",
+        "ru": "Сьерра-Леоне",
+        "en": "Sierra Leone"
+      },
+      {
+        "id": "o3",
+        "ru": "Эфиопия",
+        "en": "Ethiopia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/280/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_284_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Читван»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Chitwan National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Маршалловы о-ва",
+        "en": "Marshall Islands"
+      },
+      {
+        "id": "o3",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/284/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_302_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Мана-Пулс, охотничьи резерваты Сапи и Чеворе»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Mana Pools National Park, Sapi and Chewore Safari Areas?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зимбабве",
+        "en": "Zimbabwe"
+      },
+      {
+        "id": "o1",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Буркина-Фасо",
+        "en": "Burkina Faso"
+      },
+      {
+        "id": "o3",
+        "ru": "Камерун",
+        "en": "Cameroon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/302/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_304_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Парки Канадских Скалистых гор»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Canadian Rocky Mountain Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o2",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o3",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/304/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_308_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Йосемитский национальный парк»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Yosemite National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      },
+      {
+        "id": "o2",
+        "ru": "Чехия",
+        "en": "Czechia"
+      },
+      {
+        "id": "o3",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/308/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_333_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Уаскаран»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Huascarán National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o2",
+        "ru": "Сальвадор",
+        "en": "El Salvador"
+      },
+      {
+        "id": "o3",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/333/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_337_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Казиранга»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Kaziranga National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Камбоджа",
+        "en": "Cambodia"
+      },
+      {
+        "id": "o2",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      },
+      {
+        "id": "o3",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/337/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_338_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Убежище дикой фауны Манас»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Manas Wildlife Sanctuary?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o2",
+        "ru": "Кирибати",
+        "en": "Kiribati"
+      },
+      {
+        "id": "o3",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/338/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_340_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Кеоладео»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Keoladeo National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o3",
+        "ru": "Вьетнам",
+        "en": "Vietnam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/340/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_380_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Гарахонай (Канарские острова)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Garajonay National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o2",
+        "ru": "Венгрия",
+        "en": "Hungary"
+      },
+      {
+        "id": "o3",
+        "ru": "Андорра",
+        "en": "Andorra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/380/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_390_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Шкоцьянские пещеры»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Škocjan Caves?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Словения",
+        "en": "Slovenia"
+      },
+      {
+        "id": "o1",
+        "ru": "Украина",
+        "en": "Ukraine"
+      },
+      {
+        "id": "o2",
+        "ru": "Северная Македония",
+        "en": "North Macedonia"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/390/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_402_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Ману»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Manú National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      },
+      {
+        "id": "o2",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/402/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_403_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Килиманджаро»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Kilimanjaro National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Танзания",
+        "en": "Tanzania"
+      },
+      {
+        "id": "o1",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o2",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o3",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/403/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_407_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Фаунистический резерват Джа»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Dja Faunal Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Камерун",
+        "en": "Cameroon"
+      },
+      {
+        "id": "o1",
+        "ru": "Эфиопия",
+        "en": "Ethiopia"
+      },
+      {
+        "id": "o2",
+        "ru": "Замбия",
+        "en": "Zambia"
+      },
+      {
+        "id": "o3",
+        "ru": "Сьерра-Леоне",
+        "en": "Sierra Leone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/407/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_409_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Гавайские вулканы»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Hawaii Volcanoes National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o2",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Латвия",
+        "en": "Latvia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/409/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_410_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Биосферный резерват Сиан-Каан»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sian Ka'an?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      },
+      {
+        "id": "o3",
+        "ru": "Боливия",
+        "en": "Bolivia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/410/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_419_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Грос-Морн»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Gros Morne National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o2",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o3",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/419/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_452_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Сундарбан»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sundarbans National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      },
+      {
+        "id": "o2",
+        "ru": "Маршалловы о-ва",
+        "en": "Marshall Islands"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/452/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_335_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальные парки Нанда-Деви и Долина цветов»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Nanda Devi and Valley of Flowers National Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      },
+      {
+        "id": "o2",
+        "ru": "Лаос",
+        "en": "Laos"
+      },
+      {
+        "id": "o3",
+        "ru": "Казахстан",
+        "en": "Kazakhstan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/335/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_405_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Лесной резерват Синхараджа»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sinharaja Forest Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "КНДР",
+        "en": "North Korea"
+      },
+      {
+        "id": "o2",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/405/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_475_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Маново-Гоунда–Сен-Флорис»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Manovo-Gounda St Floris National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центрально-Африканская Республика",
+        "en": "Central African Republic"
+      },
+      {
+        "id": "o1",
+        "ru": "Кот-д’Ивуар",
+        "en": "Côte d’Ivoire"
+      },
+      {
+        "id": "o2",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o3",
+        "ru": "Того",
+        "en": "Togo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/475/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_486_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Влажные тропики Квинсленда»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Wet Tropics of Queensland?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o2",
+        "ru": "Казахстан",
+        "en": "Kazakhstan"
+      },
+      {
+        "id": "o3",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/486/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_506_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Банк д`Арген»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1989 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Banc d'Arguin National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1989."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мавритания",
+        "en": "Mauritania"
+      },
+      {
+        "id": "o1",
+        "ru": "Ливия",
+        "en": "Libya"
+      },
+      {
+        "id": "o2",
+        "ru": "Ливан",
+        "en": "Lebanon"
+      },
+      {
+        "id": "o3",
+        "ru": "Саудовская Аравия",
+        "en": "Saudi Arabia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/506/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_494_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Сухие леса Андрефана»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1990 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Andrefana Dry Forests?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1990."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мадагаскар",
+        "en": "Madagascar"
+      },
+      {
+        "id": "o1",
+        "ru": "Ангола",
+        "en": "Angola"
+      },
+      {
+        "id": "o2",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o3",
+        "ru": "Центрально-Африканская Республика",
+        "en": "Central African Republic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/494/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_573_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Природные резерваты Аир и Тенере»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Air and Ténéré Natural Reserves?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нигер",
+        "en": "Niger"
+      },
+      {
+        "id": "o1",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o2",
+        "ru": "Гамбия",
+        "en": "Gambia"
+      },
+      {
+        "id": "o3",
+        "ru": "Ботсвана",
+        "en": "Botswana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/573/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_588_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Дельта Дуная»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Danube Delta?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Румыния",
+        "en": "Romania"
+      },
+      {
+        "id": "o1",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Латвия",
+        "en": "Latvia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/588/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_591_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Резерваты дикой природы Тхунгъяй и Хуайкхакхэнг»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Thungyai-Huai Kha Khaeng Wildlife Sanctuaries?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o1",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o2",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/591/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_608_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Уджунг-Кулон и вулкан Кракатау»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ujung Kulon National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индонезия",
+        "en": "Indonesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o2",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o3",
+        "ru": "Сингапур",
+        "en": "Singapore"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/608/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_630_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Остров Кгари (Фрейзер)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property K’gari?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o2",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o3",
+        "ru": "Республика Корея",
+        "en": "South Korea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/630/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_637_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Пейзажная достопримечательная зона Цзючжайгоу»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Jiuzhaigou Valley Scenic and Historic Interest Area?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o1",
+        "ru": "Туркменистан",
+        "en": "Turkmenistan"
+      },
+      {
+        "id": "o2",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o3",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/637/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_638_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Пейзажная достопримечательная зона Хуанлун»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Huanglong Scenic and Historic Interest Area?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o1",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o2",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o3",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/638/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_640_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Пейзажная достопримечательная зона Улинъюань»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Wulingyuan Scenic and Historic Interest Area?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o1",
+        "ru": "Папуа — Новая Гвинея",
+        "en": "Papua New Guinea"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/640/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_554_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Резерват китов Эль-Вискаино»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Whale Sanctuary of El Vizcaino?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o2",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o3",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/554/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_662_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Остров Якусима»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Yakushima?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o1",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o2",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Маршалловы о-ва",
+        "en": "Marshall Islands"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/662/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_663_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Горы Сираками»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Shirakami-Sanchi?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o1",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/663/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_672_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Бухта Ха-Лонг – Архипелаг Катба»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ha Long Bay - Cat Ba Archipelago?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вьетнам",
+        "en": "Vietnam"
+      },
+      {
+        "id": "o1",
+        "ru": "Камбоджа",
+        "en": "Cambodia"
+      },
+      {
+        "id": "o2",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o3",
+        "ru": "Папуа — Новая Гвинея",
+        "en": "Papua New Guinea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/672/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_682_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Бвинди-Импенитрейбл (Непроходимый лес Бвинди)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Bwindi Impenetrable National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уганда",
+        "en": "Uganda"
+      },
+      {
+        "id": "o1",
+        "ru": "Ангола",
+        "en": "Angola"
+      },
+      {
+        "id": "o2",
+        "ru": "Гвинея-Бисау",
+        "en": "Guinea-Bissau"
+      },
+      {
+        "id": "o3",
+        "ru": "Республика Конго",
+        "en": "Republic of the Congo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/682/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_684_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Рувензори-Маунтинс»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Rwenzori Mountains National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уганда",
+        "en": "Uganda"
+      },
+      {
+        "id": "o1",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      },
+      {
+        "id": "o2",
+        "ru": "Руанда",
+        "en": "Rwanda"
+      },
+      {
+        "id": "o3",
+        "ru": "Центрально-Африканская Республика",
+        "en": "Central African Republic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/684/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_701_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Канайма»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Canaima National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o1",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o2",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Люсия",
+        "en": "St. Lucia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/701/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_711_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Лос-Катиос»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Los Katíos National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Доминика",
+        "en": "Dominica"
+      },
+      {
+        "id": "o3",
+        "ru": "Белиз",
+        "en": "Belize"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/711/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_721_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Карлсбадские пещеры»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Carlsbad Caverns National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Украина",
+        "en": "Ukraine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/721/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_718_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Фаунистический резерват Окапи»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Okapi Wildlife Reserve?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o1",
+        "ru": "Габон",
+        "en": "Gabon"
+      },
+      {
+        "id": "o2",
+        "ru": "Малави",
+        "en": "Malawi"
+      },
+      {
+        "id": "o3",
+        "ru": "Южно-Африканская Республика",
+        "en": "South Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/718/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_629_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Остров Маккуори»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Macquarie Island?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Сингапур",
+        "en": "Singapore"
+      },
+      {
+        "id": "o2",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o3",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/629/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_798_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Мангровые заросли Сундарбан»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property The Sundarbans?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/798/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_801_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальные парки на озере Туркана»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Lake Turkana National Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o1",
+        "ru": "Коморы",
+        "en": "Comoros"
+      },
+      {
+        "id": "o2",
+        "ru": "Центрально-Африканская Республика",
+        "en": "Central African Republic"
+      },
+      {
+        "id": "o3",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/801/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_814_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Морн-Труа-Питон»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Morne Trois Pitons National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доминика",
+        "en": "Dominica"
+      },
+      {
+        "id": "o1",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      },
+      {
+        "id": "o2",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      },
+      {
+        "id": "o3",
+        "ru": "Боливия",
+        "en": "Bolivia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/814/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_820_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Остров Кокос»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Cocos Island National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o1",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o2",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/820/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_854_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Восточная часть острова Реннелл»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1998 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property East Rennell?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1998."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соломоновы о-ва",
+        "en": "Solomon Islands"
+      },
+      {
+        "id": "o1",
+        "ru": "Вьетнам",
+        "en": "Vietnam"
+      },
+      {
+        "id": "o2",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/854/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_652_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Подземная река Пуэрто-Принсеса»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Puerto-Princesa Subterranean River National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Филиппины",
+        "en": "Philippines"
+      },
+      {
+        "id": "o1",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      },
+      {
+        "id": "o2",
+        "ru": "Узбекистан",
+        "en": "Uzbekistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/652/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_686_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Провинциальный парк Мигуаша»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Miguasha National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Андорра",
+        "en": "Andorra"
+      },
+      {
+        "id": "o2",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      },
+      {
+        "id": "o3",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/686/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_889_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Десембарко-дель-Гранма»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Desembarco del Granma National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      },
+      {
+        "id": "o2",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o3",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/889/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_892_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Лесные резерваты восточного атлантического побережья (Берег открытия)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Discovery Coast Atlantic Forest Reserves?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o2",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o3",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/892/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_893_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Лесные резерваты юго-восточного атлантического побережья»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Atlantic Forest South-East Reserves?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Люсия",
+        "en": "St. Lucia"
+      },
+      {
+        "id": "o2",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/893/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_928_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Охраняемая область Гуанакасте»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Area de Conservación Guanacaste?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/928/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_934_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Лаурисилва – лавровые леса острова Мадейра»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Laurisilva of Madeira?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o1",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o2",
+        "ru": "Сербия",
+        "en": "Serbia"
+      },
+      {
+        "id": "o3",
+        "ru": "Латвия",
+        "en": "Latvia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/934/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_937_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Полуостров Вальдес»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Península Valdés?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o1",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o2",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      },
+      {
+        "id": "o3",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/937/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_955_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Лоренц»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Lorentz National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индонезия",
+        "en": "Indonesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Афганистан",
+        "en": "Afghanistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/955/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_917_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Горный район Блу-Маунтинс»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Greater Blue Mountains Area?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      },
+      {
+        "id": "o2",
+        "ru": "Республика Корея",
+        "en": "South Korea"
+      },
+      {
+        "id": "o3",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/917/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_966_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Природные парки Исчигуаласто и Талампайя»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ischigualasto / Talampaya Natural Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      },
+      {
+        "id": "o3",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/966/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_967_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Ноэль-Кемпфф-Меркадо»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Noel Kempff Mercado National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боливия",
+        "en": "Bolivia"
+      },
+      {
+        "id": "o1",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Люсия",
+        "en": "St. Lucia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/967/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_998_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Комплекс резерватов Центральной Амазонии»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Central Amazon Conservation Complex?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o2",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o3",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/998/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_999_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Охраняемая область Пантанал»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Pantanal Conservation Area?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/999/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_1012_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Кинабалу (штат Сабах, остров Борнео)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Kinabalu Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      },
+      {
+        "id": "o1",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      },
+      {
+        "id": "o2",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      },
+      {
+        "id": "o3",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1012/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_1013_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Гунунг-Мулу (штат Саравак, остров Борнео)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Gunung Mulu National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      },
+      {
+        "id": "o1",
+        "ru": "Афганистан",
+        "en": "Afghanistan"
+      },
+      {
+        "id": "o2",
+        "ru": "КНДР",
+        "en": "North Korea"
+      },
+      {
+        "id": "o3",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1013/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_839_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный парк Алехандро-де-Гумбольдт»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Alejandro de Humboldt National Park?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o1",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o2",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Люсия",
+        "en": "St. Lucia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/839/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_1029_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Побережье Дорсетшира и Восточного Девоншира»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Dorset and East Devon Coast?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o1",
+        "ru": "Албания",
+        "en": "Albania"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o3",
+        "ru": "Польша",
+        "en": "Poland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1029/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_1035_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальные парки зоны кампос-серрадо: Шапада-дус-Веадейрус и Эмас»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Доминиканская Республика",
+        "en": "Dominican Republic"
+      },
+      {
+        "id": "o2",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Доминика",
+        "en": "Dominica"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1035/"
+    ],
+    "image": null
+  },
+  {
+    "id": "natural_wonders_catalog_whc_1037_0001",
+    "categoryId": "natural_wonders",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Юнгфрау-Алеч-Бичхорн (Бернские Альпы)»?",
+        "explanation": "В Список всемирного наследия этот природный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Swiss Alps Jungfrau-Aletsch?",
+        "explanation": "This natural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o1",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o2",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o3",
+        "ru": "Мальта",
+        "en": "Malta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1037/"
+    ],
+    "image": null
   }
 ]

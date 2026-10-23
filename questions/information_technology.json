@@ -438,5 +438,2205 @@
       "https://docs.python.org/3/tutorial/introduction.html"
     ],
     "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_echo_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Echo?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Echo?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "21",
+        "en": "21"
+      },
+      {
+        "id": "o2",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o3",
+        "ru": "587",
+        "en": "587"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_discard_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Discard?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Discard?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o1",
+        "ru": "37",
+        "en": "37"
+      },
+      {
+        "id": "o2",
+        "ru": "515",
+        "en": "515"
+      },
+      {
+        "id": "o3",
+        "ru": "123",
+        "en": "123"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_daytime_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Daytime?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Daytime?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o1",
+        "ru": "873",
+        "en": "873"
+      },
+      {
+        "id": "o2",
+        "ru": "161",
+        "en": "161"
+      },
+      {
+        "id": "o3",
+        "ru": "139",
+        "en": "139"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ftp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса FTP: управляющее соединение?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for FTP control?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "21",
+        "en": "21"
+      },
+      {
+        "id": "o1",
+        "ru": "465",
+        "en": "465"
+      },
+      {
+        "id": "o2",
+        "ru": "179",
+        "en": "179"
+      },
+      {
+        "id": "o3",
+        "ru": "119",
+        "en": "119"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ssh_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса SSH?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for SSH?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "22",
+        "en": "22"
+      },
+      {
+        "id": "o1",
+        "ru": "27017",
+        "en": "27017"
+      },
+      {
+        "id": "o2",
+        "ru": "161",
+        "en": "161"
+      },
+      {
+        "id": "o3",
+        "ru": "1433",
+        "en": "1433"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_telnet_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Telnet?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Telnet?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "23",
+        "en": "23"
+      },
+      {
+        "id": "o1",
+        "ru": "22",
+        "en": "22"
+      },
+      {
+        "id": "o2",
+        "ru": "389",
+        "en": "389"
+      },
+      {
+        "id": "o3",
+        "ru": "79",
+        "en": "79"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_smtp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса SMTP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for SMTP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "25",
+        "en": "25"
+      },
+      {
+        "id": "o1",
+        "ru": "1812",
+        "en": "1812"
+      },
+      {
+        "id": "o2",
+        "ru": "873",
+        "en": "873"
+      },
+      {
+        "id": "o3",
+        "ru": "110",
+        "en": "110"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_time_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Time?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Time?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "37",
+        "en": "37"
+      },
+      {
+        "id": "o1",
+        "ru": "389",
+        "en": "389"
+      },
+      {
+        "id": "o2",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_nicname_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса WHOIS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for WHOIS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "43",
+        "en": "43"
+      },
+      {
+        "id": "o1",
+        "ru": "389",
+        "en": "389"
+      },
+      {
+        "id": "o2",
+        "ru": "161",
+        "en": "161"
+      },
+      {
+        "id": "o3",
+        "ru": "37",
+        "en": "37"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_domain_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса DNS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for DNS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "53",
+        "en": "53"
+      },
+      {
+        "id": "o1",
+        "ru": "515",
+        "en": "515"
+      },
+      {
+        "id": "o2",
+        "ru": "70",
+        "en": "70"
+      },
+      {
+        "id": "o3",
+        "ru": "143",
+        "en": "143"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_bootps_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса BOOTP: сервер?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for BOOTP server?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "67",
+        "en": "67"
+      },
+      {
+        "id": "o1",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o2",
+        "ru": "443",
+        "en": "443"
+      },
+      {
+        "id": "o3",
+        "ru": "995",
+        "en": "995"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_bootpc_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса BOOTP: клиент?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for BOOTP client?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "68",
+        "en": "68"
+      },
+      {
+        "id": "o1",
+        "ru": "22",
+        "en": "22"
+      },
+      {
+        "id": "o2",
+        "ru": "43",
+        "en": "43"
+      },
+      {
+        "id": "o3",
+        "ru": "514",
+        "en": "514"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_tftp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса TFTP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for TFTP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "69",
+        "en": "69"
+      },
+      {
+        "id": "o1",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o2",
+        "ru": "465",
+        "en": "465"
+      },
+      {
+        "id": "o3",
+        "ru": "443",
+        "en": "443"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_gopher_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Gopher?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Gopher?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "70",
+        "en": "70"
+      },
+      {
+        "id": "o1",
+        "ru": "22",
+        "en": "22"
+      },
+      {
+        "id": "o2",
+        "ru": "139",
+        "en": "139"
+      },
+      {
+        "id": "o3",
+        "ru": "68",
+        "en": "68"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_finger_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Finger?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Finger?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "79",
+        "en": "79"
+      },
+      {
+        "id": "o1",
+        "ru": "1433",
+        "en": "1433"
+      },
+      {
+        "id": "o2",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o3",
+        "ru": "1194",
+        "en": "1194"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_http_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса HTTP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for HTTP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o1",
+        "ru": "79",
+        "en": "79"
+      },
+      {
+        "id": "o2",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o3",
+        "ru": "445",
+        "en": "445"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_kerberos_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Kerberos?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Kerberos?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "88",
+        "en": "88"
+      },
+      {
+        "id": "o1",
+        "ru": "631",
+        "en": "631"
+      },
+      {
+        "id": "o2",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o3",
+        "ru": "162",
+        "en": "162"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_pop3_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса POP3?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for POP3?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "110",
+        "en": "110"
+      },
+      {
+        "id": "o1",
+        "ru": "631",
+        "en": "631"
+      },
+      {
+        "id": "o2",
+        "ru": "515",
+        "en": "515"
+      },
+      {
+        "id": "o3",
+        "ru": "67",
+        "en": "67"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_nntp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса NNTP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for NNTP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "119",
+        "en": "119"
+      },
+      {
+        "id": "o1",
+        "ru": "1194",
+        "en": "1194"
+      },
+      {
+        "id": "o2",
+        "ru": "990",
+        "en": "990"
+      },
+      {
+        "id": "o3",
+        "ru": "995",
+        "en": "995"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ntp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса NTP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for NTP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "123",
+        "en": "123"
+      },
+      {
+        "id": "o1",
+        "ru": "5900",
+        "en": "5900"
+      },
+      {
+        "id": "o2",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o3",
+        "ru": "139",
+        "en": "139"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_ns_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса NetBIOS: служба имён?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for NetBIOS Name Service?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o1",
+        "ru": "143",
+        "en": "143"
+      },
+      {
+        "id": "o2",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o3",
+        "ru": "79",
+        "en": "79"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_dgm_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса NetBIOS: дейтаграммы?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for NetBIOS Datagram Service?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "138",
+        "en": "138"
+      },
+      {
+        "id": "o1",
+        "ru": "110",
+        "en": "110"
+      },
+      {
+        "id": "o2",
+        "ru": "515",
+        "en": "515"
+      },
+      {
+        "id": "o3",
+        "ru": "7",
+        "en": "7"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_netbios_ssn_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса NetBIOS: сеансы?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for NetBIOS Session Service?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "139",
+        "en": "139"
+      },
+      {
+        "id": "o1",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o2",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o3",
+        "ru": "143",
+        "en": "143"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_imap_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса IMAP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for IMAP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "143",
+        "en": "143"
+      },
+      {
+        "id": "o1",
+        "ru": "514",
+        "en": "514"
+      },
+      {
+        "id": "o2",
+        "ru": "162",
+        "en": "162"
+      },
+      {
+        "id": "o3",
+        "ru": "53",
+        "en": "53"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_snmp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса SNMP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for SNMP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "161",
+        "en": "161"
+      },
+      {
+        "id": "o1",
+        "ru": "25",
+        "en": "25"
+      },
+      {
+        "id": "o2",
+        "ru": "993",
+        "en": "993"
+      },
+      {
+        "id": "o3",
+        "ru": "119",
+        "en": "119"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_snmptrap_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса SNMP Trap?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for SNMP Trap?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "162",
+        "en": "162"
+      },
+      {
+        "id": "o1",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o2",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o3",
+        "ru": "69",
+        "en": "69"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_bgp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса BGP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for BGP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "179",
+        "en": "179"
+      },
+      {
+        "id": "o1",
+        "ru": "123",
+        "en": "123"
+      },
+      {
+        "id": "o2",
+        "ru": "27017",
+        "en": "27017"
+      },
+      {
+        "id": "o3",
+        "ru": "43",
+        "en": "43"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ldap_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса LDAP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for LDAP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "389",
+        "en": "389"
+      },
+      {
+        "id": "o1",
+        "ru": "53",
+        "en": "53"
+      },
+      {
+        "id": "o2",
+        "ru": "67",
+        "en": "67"
+      },
+      {
+        "id": "o3",
+        "ru": "1883",
+        "en": "1883"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_https_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса HTTPS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for HTTPS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "443",
+        "en": "443"
+      },
+      {
+        "id": "o1",
+        "ru": "88",
+        "en": "88"
+      },
+      {
+        "id": "o2",
+        "ru": "53",
+        "en": "53"
+      },
+      {
+        "id": "o3",
+        "ru": "67",
+        "en": "67"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_microsoft_ds_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Microsoft-DS (SMB)?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Microsoft-DS (SMB)?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "445",
+        "en": "445"
+      },
+      {
+        "id": "o1",
+        "ru": "1883",
+        "en": "1883"
+      },
+      {
+        "id": "o2",
+        "ru": "5432",
+        "en": "5432"
+      },
+      {
+        "id": "o3",
+        "ru": "162",
+        "en": "162"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_submissions_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Submission over TLS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Submission over TLS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "465",
+        "en": "465"
+      },
+      {
+        "id": "o1",
+        "ru": "110",
+        "en": "110"
+      },
+      {
+        "id": "o2",
+        "ru": "69",
+        "en": "69"
+      },
+      {
+        "id": "o3",
+        "ru": "179",
+        "en": "179"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_syslog_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса Syslog?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for Syslog?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "514",
+        "en": "514"
+      },
+      {
+        "id": "o1",
+        "ru": "631",
+        "en": "631"
+      },
+      {
+        "id": "o2",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o3",
+        "ru": "3389",
+        "en": "3389"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_printer_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса LPD: сетевая печать?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for LPD printing?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "515",
+        "en": "515"
+      },
+      {
+        "id": "o1",
+        "ru": "5900",
+        "en": "5900"
+      },
+      {
+        "id": "o2",
+        "ru": "139",
+        "en": "139"
+      },
+      {
+        "id": "o3",
+        "ru": "3389",
+        "en": "3389"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_submission_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Submission?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Submission?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "587",
+        "en": "587"
+      },
+      {
+        "id": "o1",
+        "ru": "70",
+        "en": "70"
+      },
+      {
+        "id": "o2",
+        "ru": "143",
+        "en": "143"
+      },
+      {
+        "id": "o3",
+        "ru": "990",
+        "en": "990"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ipp_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса IPP?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for IPP?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "631",
+        "en": "631"
+      },
+      {
+        "id": "o1",
+        "ru": "3389",
+        "en": "3389"
+      },
+      {
+        "id": "o2",
+        "ru": "995",
+        "en": "995"
+      },
+      {
+        "id": "o3",
+        "ru": "88",
+        "en": "88"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ldaps_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса LDAP over TLS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for LDAP over TLS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "636",
+        "en": "636"
+      },
+      {
+        "id": "o1",
+        "ru": "990",
+        "en": "990"
+      },
+      {
+        "id": "o2",
+        "ru": "123",
+        "en": "123"
+      },
+      {
+        "id": "o3",
+        "ru": "993",
+        "en": "993"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_rsync_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса rsync?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for rsync?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "873",
+        "en": "873"
+      },
+      {
+        "id": "o1",
+        "ru": "67",
+        "en": "67"
+      },
+      {
+        "id": "o2",
+        "ru": "23",
+        "en": "23"
+      },
+      {
+        "id": "o3",
+        "ru": "990",
+        "en": "990"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ftps_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса FTPS: управляющее соединение?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for FTPS control?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "990",
+        "en": "990"
+      },
+      {
+        "id": "o1",
+        "ru": "5432",
+        "en": "5432"
+      },
+      {
+        "id": "o2",
+        "ru": "1433",
+        "en": "1433"
+      },
+      {
+        "id": "o3",
+        "ru": "43",
+        "en": "43"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_imaps_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса IMAP over TLS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for IMAP over TLS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "993",
+        "en": "993"
+      },
+      {
+        "id": "o1",
+        "ru": "67",
+        "en": "67"
+      },
+      {
+        "id": "o2",
+        "ru": "631",
+        "en": "631"
+      },
+      {
+        "id": "o3",
+        "ru": "123",
+        "en": "123"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_pop3s_0001",
+    "categoryId": "information_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса POP3 over TLS?",
+        "explanation": "Этот номер относится к диапазону системных портов 0–1023. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for POP3 over TLS?",
+        "explanation": "This number is in the range of system ports 0–1023. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "995",
+        "en": "995"
+      },
+      {
+        "id": "o1",
+        "ru": "37",
+        "en": "37"
+      },
+      {
+        "id": "o2",
+        "ru": "70",
+        "en": "70"
+      },
+      {
+        "id": "o3",
+        "ru": "515",
+        "en": "515"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_openvpn_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса OpenVPN?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for OpenVPN?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1194",
+        "en": "1194"
+      },
+      {
+        "id": "o1",
+        "ru": "443",
+        "en": "443"
+      },
+      {
+        "id": "o2",
+        "ru": "587",
+        "en": "587"
+      },
+      {
+        "id": "o3",
+        "ru": "631",
+        "en": "631"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ms_sql_s_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Microsoft SQL Server?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Microsoft SQL Server?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1433",
+        "en": "1433"
+      },
+      {
+        "id": "o1",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o2",
+        "ru": "514",
+        "en": "514"
+      },
+      {
+        "id": "o3",
+        "ru": "1813",
+        "en": "1813"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_radius_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса RADIUS?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for RADIUS?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1812",
+        "en": "1812"
+      },
+      {
+        "id": "o1",
+        "ru": "43",
+        "en": "43"
+      },
+      {
+        "id": "o2",
+        "ru": "143",
+        "en": "143"
+      },
+      {
+        "id": "o3",
+        "ru": "993",
+        "en": "993"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_radius_acct_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт UDP зарегистрирован для сервиса RADIUS Accounting?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which UDP port is registered for RADIUS Accounting?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1813",
+        "en": "1813"
+      },
+      {
+        "id": "o1",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o2",
+        "ru": "79",
+        "en": "79"
+      },
+      {
+        "id": "o3",
+        "ru": "5432",
+        "en": "5432"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_mqtt_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса MQTT?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for MQTT?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1883",
+        "en": "1883"
+      },
+      {
+        "id": "o1",
+        "ru": "110",
+        "en": "110"
+      },
+      {
+        "id": "o2",
+        "ru": "993",
+        "en": "993"
+      },
+      {
+        "id": "o3",
+        "ru": "88",
+        "en": "88"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_mysql_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса MySQL?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for MySQL?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3306",
+        "en": "3306"
+      },
+      {
+        "id": "o1",
+        "ru": "21",
+        "en": "21"
+      },
+      {
+        "id": "o2",
+        "ru": "993",
+        "en": "993"
+      },
+      {
+        "id": "o3",
+        "ru": "1433",
+        "en": "1433"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_ms_wbt_server_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Remote Desktop (MS WBT)?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Remote Desktop (MS WBT)?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3389",
+        "en": "3389"
+      },
+      {
+        "id": "o1",
+        "ru": "53",
+        "en": "53"
+      },
+      {
+        "id": "o2",
+        "ru": "123",
+        "en": "123"
+      },
+      {
+        "id": "o3",
+        "ru": "88",
+        "en": "88"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_postgresql_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса PostgreSQL?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for PostgreSQL?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5432",
+        "en": "5432"
+      },
+      {
+        "id": "o1",
+        "ru": "137",
+        "en": "137"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "67",
+        "en": "67"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_rfb_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса Remote Framebuffer?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for Remote Framebuffer?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5900",
+        "en": "5900"
+      },
+      {
+        "id": "o1",
+        "ru": "443",
+        "en": "443"
+      },
+      {
+        "id": "o2",
+        "ru": "23",
+        "en": "23"
+      },
+      {
+        "id": "o3",
+        "ru": "138",
+        "en": "138"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
+  },
+  {
+    "id": "information_technology_catalog_port_mongodb_0001",
+    "categoryId": "information_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт TCP зарегистрирован для сервиса MongoDB?",
+        "explanation": "Этот номер относится к диапазону пользовательских портов 1024–49151. Регистрация порта не гарантирует, какой трафик фактически через него проходит."
+      },
+      "en": {
+        "question": "Which TCP port is registered for MongoDB?",
+        "explanation": "This number is in the range of user ports 1024–49151. A registration does not guarantee what traffic actually uses a port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "27017",
+        "en": "27017"
+      },
+      {
+        "id": "o1",
+        "ru": "993",
+        "en": "993"
+      },
+      {
+        "id": "o2",
+        "ru": "1883",
+        "en": "1883"
+      },
+      {
+        "id": "o3",
+        "ru": "25",
+        "en": "25"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iana.org/assignments/service-names-port-numbers/"
+    ],
+    "image": null
   }
 ]

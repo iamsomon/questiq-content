@@ -358,5 +358,1205 @@
         "location": "About the Planets: Inner Planets"
       }
     ]
+  },
+  {
+    "id": "astronomy_catalog_moon_phobos_0001",
+    "status": "approved",
+    "sha256": "b43469297a7c722f4206c7112536b085e1027af2e39ec6b5afb1eb3827696208",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Phobos orbit? Answer: Mars. This moon has a mean radius of approximately 11 km."
+      }
+    ],
+    "sourceRecordSha256": "abbc4f27872dfaa9d8951f58515a6e978bec3e19ae77b588492675c359f65fdf",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_deimos_0001",
+    "status": "approved",
+    "sha256": "ae0e3674a4539d09ee4a912cf01b10a65b446149454026622b58481adf63b5ff",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Deimos orbit? Answer: Mars. This moon has a mean radius of approximately 6 km."
+      }
+    ],
+    "sourceRecordSha256": "5ae7e62fcc3e9e1eb2966673eb20c7ed235a3a38d3d9fb03b068466aa1756bda",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_io_0001",
+    "status": "approved",
+    "sha256": "618ee7565dce716d2d9b2f408222166ce15e169f04f985cb88ed1339f1d50abb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Io orbit? Answer: Jupiter. This moon has a mean radius of approximately 1821 km."
+      }
+    ],
+    "sourceRecordSha256": "8c6186de573c5222cbc43a1555b0931f3693a9d3b51182b784dcebdbd2499f3b",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_europa_0001",
+    "status": "approved",
+    "sha256": "e1d3b30445e82f1ed10088fb81052668a856336afb7a0c4ebe0d402b6d79417b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Europa orbit? Answer: Jupiter. This moon has a mean radius of approximately 1561 km."
+      }
+    ],
+    "sourceRecordSha256": "bedba5eb9b61f62055d3602e63479e11a2344c4f132ef3edbf3baa7990525638",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_ganymede_0001",
+    "status": "approved",
+    "sha256": "fb012a4e204c0315e49126a44340ee14aa88f954cc8c4b512a91514331d13e48",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Ganymede orbit? Answer: Jupiter. This moon has a mean radius of approximately 2631 km."
+      }
+    ],
+    "sourceRecordSha256": "7b25d7e5ed75c80db74bcddaf91ed7430e845448be090aff410369267156fa9f",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_callisto_0001",
+    "status": "approved",
+    "sha256": "6cd5736ffa0c51ef4e3a58e824f8cf471fc4ec3920b0a3c822162ae83f39c052",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Callisto orbit? Answer: Jupiter. This moon has a mean radius of approximately 2410 km."
+      }
+    ],
+    "sourceRecordSha256": "aa0b296f9935ddb9f66dc923b3c149e56e4b583dea50e00161bd57495cc2af3d",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_amalthea_0001",
+    "status": "approved",
+    "sha256": "58ec9d8ac39d8fbc6a560308406f622b1ec9521ea0916f32b09a04db1ec38dbc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Amalthea orbit? Answer: Jupiter. This moon has a mean radius of approximately 84 km."
+      }
+    ],
+    "sourceRecordSha256": "8077b6b970b4b7e7ecf284b7547dba45f3e2e10f53ffbfbc248034cfbfa92983",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_thebe_0001",
+    "status": "approved",
+    "sha256": "fced2a93c3ea092b1346f2e0d3a1c2456f8d4026c0391f31123ef0a73ac1b36a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Thebe orbit? Answer: Jupiter. This moon has a mean radius of approximately 49 km."
+      }
+    ],
+    "sourceRecordSha256": "c896d2e7bd513d21845568c55ce4eddfb5d518afe17acfb2592e1ed66f5728a4",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_adrastea_0001",
+    "status": "approved",
+    "sha256": "e673bf5c599bb387cfa54b3ee0c9068514aed1e1285d8a008fac3ef90c4eeb0e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Adrastea orbit? Answer: Jupiter. This moon has a mean radius of approximately 8 km."
+      }
+    ],
+    "sourceRecordSha256": "66779e1f1a6770c462255afdad9b70a776ae6172ef5815421a3172df62466a0e",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_metis_0001",
+    "status": "approved",
+    "sha256": "2bd53249f820fb0201976666e5fc97f57276db998a915240cf50a2231e50bc09",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Metis orbit? Answer: Jupiter. This moon has a mean radius of approximately 22 km."
+      }
+    ],
+    "sourceRecordSha256": "05abead648168eb06b3bd354d19226ebd18ae6292586c3cb859192c00dd39583",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_mimas_0001",
+    "status": "approved",
+    "sha256": "89d8a6124169cb279375f40f0c40489694a6a44643236ed71f8fb0e1c8c8fa8a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Mimas orbit? Answer: Saturn. This moon has a mean radius of approximately 198 km."
+      }
+    ],
+    "sourceRecordSha256": "f2c3480de9910dc8c9b4499acfe62f24401b491f00681634d0d958239878df93",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_enceladus_0001",
+    "status": "approved",
+    "sha256": "fd7e47ad27b7536aaaf9afa3c76cc0432286d0a3a4a4de1616d48ed839903a2c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Enceladus orbit? Answer: Saturn. This moon has a mean radius of approximately 252 km."
+      }
+    ],
+    "sourceRecordSha256": "39ff76d3b134f9c899b6bb173ddd17e63a511a065213e249c32cddfcee2ab7bc",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_tethys_0001",
+    "status": "approved",
+    "sha256": "cfae33eb42f055f571c8ac974dfd5645920e8e8cd58cc0f71a473d79c9c97c14",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Tethys orbit? Answer: Saturn. This moon has a mean radius of approximately 531 km."
+      }
+    ],
+    "sourceRecordSha256": "fc21f5f73b7c657d710acef615c9358df6580e706171434abdcdaf9c8c8396ea",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_dione_0001",
+    "status": "approved",
+    "sha256": "997f2bb987f36bc1d8a1f22f7fb714a467bdf33cc8cbd61703f223ccdd73d5dd",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Dione orbit? Answer: Saturn. This moon has a mean radius of approximately 561 km."
+      }
+    ],
+    "sourceRecordSha256": "c4dafb6ad89449ab87c3ae390e76c70758413d9d5ffb263c797e6131ef61dcee",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_rhea_0001",
+    "status": "approved",
+    "sha256": "ca9bbf0481fb1ef79a398873475eaa80dcaaa5956ccb8fee0456c678aa2de2c4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Rhea orbit? Answer: Saturn. This moon has a mean radius of approximately 764 km."
+      }
+    ],
+    "sourceRecordSha256": "0fc14550576403baa37303c9429f30b3bcce1c08088656032b2ff848bae7a1a7",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_titan_0001",
+    "status": "approved",
+    "sha256": "14ec95baa00dfa511b25c9ce81205c039784a589823c23e6ac3f63ff5919b1cc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Titan orbit? Answer: Saturn. This moon has a mean radius of approximately 2575 km."
+      }
+    ],
+    "sourceRecordSha256": "94b21b97c9a07426edc205b13a9ba6c33e7d4f5fe803324764ade60c71db17be",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_hyperion_0001",
+    "status": "approved",
+    "sha256": "3a4e240aa6c3d26f6bdf3fe6306a81a58a149cec87d38a2cece7150307cad34c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Hyperion orbit? Answer: Saturn. This moon has a mean radius of approximately 135 km."
+      }
+    ],
+    "sourceRecordSha256": "5c7fb7907e95bbad42b0547996e5b723b6bb7f415fd46edb9bb38e0031210851",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_iapetus_0001",
+    "status": "approved",
+    "sha256": "81c7f857a1e9097970b2861978fac2a5d57044c48de9b2dcacb5bfe12173d72f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Iapetus orbit? Answer: Saturn. This moon has a mean radius of approximately 734 km."
+      }
+    ],
+    "sourceRecordSha256": "c5fe9bc3e1026f60e31da5f71bfc727739984e2f699b94fbe65c980314eb5c4b",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_ariel_0001",
+    "status": "approved",
+    "sha256": "b26048aad8b5cdec4c6130db78abf4512f8bc81d0fb04e29dacb31c5c40d5bc4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Ariel orbit? Answer: Uranus. This moon has a mean radius of approximately 579 km."
+      }
+    ],
+    "sourceRecordSha256": "43503dec035383b406f2a29ff486b1912b51bfaef640023237efa510a1cff4fe",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_umbriel_0001",
+    "status": "approved",
+    "sha256": "0a23c2d24150bb199bd0b49de7ad62a5e5c0309a199174ccecc054188afc85dc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Umbriel orbit? Answer: Uranus. This moon has a mean radius of approximately 585 km."
+      }
+    ],
+    "sourceRecordSha256": "90367c9534de9ab63b6b8e55abbb5cb336c875d6983931b8d2b906bb88688d73",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_titania_0001",
+    "status": "approved",
+    "sha256": "faacd1784e2f8e664b5f433e151a59c3959366f87047c2110cc5cfc218c4ef62",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Titania orbit? Answer: Uranus. This moon has a mean radius of approximately 789 km."
+      }
+    ],
+    "sourceRecordSha256": "e201f2961ce8471e128ca54d5a769af34fe5934d4c67cdc6b9ab433259596d56",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_oberon_0001",
+    "status": "approved",
+    "sha256": "4b996c96fed0c7495924cb318346ec9b86255b30af0a36b16b252efb4c16be64",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Oberon orbit? Answer: Uranus. This moon has a mean radius of approximately 761 km."
+      }
+    ],
+    "sourceRecordSha256": "1867ca76b631c13448aa0fc6aefa5efb34b4bdc7b38de82cfd8effe2ad417238",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_miranda_0001",
+    "status": "approved",
+    "sha256": "46b12bd85dcc7e79e1d5809017e315ea56c58339351a6f050308554c6ad335d9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Miranda orbit? Answer: Uranus. This moon has a mean radius of approximately 236 km."
+      }
+    ],
+    "sourceRecordSha256": "d4dd3726400070e8cb81b4ac9412828e7e53a2edb81d0b0d3ed003c9502a18a9",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_triton_0001",
+    "status": "approved",
+    "sha256": "4b5af19dac938a04db3d2b43bb662386978da65e917882ecaa43dc616f99844b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Triton orbit? Answer: Neptune. This moon has a mean radius of approximately 1353 km."
+      }
+    ],
+    "sourceRecordSha256": "272a8b2776234189fd109a7b6d5f355822f514256cbf0bdc094482a42b569f8a",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_nereid_0001",
+    "status": "approved",
+    "sha256": "43446669d9d63a7fb657ffa84bcf7f52e2c98953cb3e1c42bc60945329c20f4e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Nereid orbit? Answer: Neptune. This moon has a mean radius of approximately 170 km."
+      }
+    ],
+    "sourceRecordSha256": "e11a8da6e997001d222146b3e35d88d6703909cc1cf62267f85c24b8da27793c",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_naiad_0001",
+    "status": "approved",
+    "sha256": "2578bf5d796f98296914e0a68ea52af2edf016a550d9dda57d60e4b01ceaeb3d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Naiad orbit? Answer: Neptune. This moon has a mean radius of approximately 29 km."
+      }
+    ],
+    "sourceRecordSha256": "d26a21363d0cb7c20aab1de6cf0f02375514fcc718de088ff7b748d96a8490c9",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_galatea_0001",
+    "status": "approved",
+    "sha256": "ee0f360da80c167c65dcf852d6ae090ea8adc9ac828f77b50b4344ff757e1b19",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Galatea orbit? Answer: Neptune. This moon has a mean radius of approximately 79 km."
+      }
+    ],
+    "sourceRecordSha256": "8c8a2a24f53982f9e2c90a82f7d79929c7f8faffc0ae85612617853cae7991d5",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_proteus_0001",
+    "status": "approved",
+    "sha256": "aba37e89c52b96751dc9cca11f24e1b087326486b4d103f0c830c879b6c6383b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Proteus orbit? Answer: Neptune. This moon has a mean radius of approximately 208 km."
+      }
+    ],
+    "sourceRecordSha256": "6c2048131c6ac38e231468e65cd7a0dce2559aaa76138a1f233177c785e48b3f",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_charon_0001",
+    "status": "approved",
+    "sha256": "892a945d21eb965909b176730b5554624ede09a29e4275fe5a69d8595e3dbb30",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Charon orbit? Answer: Pluto. This moon has a mean radius of approximately 606 km."
+      }
+    ],
+    "sourceRecordSha256": "d87e34f276819d99cb8d1a0d2719754fbd002e551c548a5f72a9afc690ed0530",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_moon_hydra_0001",
+    "status": "approved",
+    "sha256": "a132e9a54d87ce7c2afdeee9d7022b24cdd92b5128155df6a97065498d3dbee9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+        "location": "Planet/satellite row; mean radius, not diameter; parent can be a dwarf planet",
+        "claim": "Which celestial body does the moon Hydra orbit? Answer: Pluto. This moon has a mean radius of approximately 18 km."
+      }
+    ],
+    "sourceRecordSha256": "2c3ca0ccd308647049b8bce1fbcd61bf88a7ebfbf382028157b89e103edca08b",
+    "reviewNotes": "Reviewed the JPL planet/satellite/radius row and Russian moon name. The prompt asks for a celestial body, so dwarf planet Pluto is valid. Other parents are distinct celestial bodies. Explanation rounds mean radius, not diameter, and preserves km in both locales. Fixed malformed-HTML table parsing before validating rows."
+  },
+  {
+    "id": "astronomy_catalog_iau_and_0001",
+    "status": "approved",
+    "sha256": "df77cd9ce06f5d9877a0fbf21e974c313f3ac1f5cdb174d97149983f9bd85a92",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation And? Answer: Andromeda. Its Latin genitive is Andromedae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "88809682f5e636882c2dbdfb44d36c2e39adf027ced291e8ca6ff81dac67f96b",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_aqr_0001",
+    "status": "approved",
+    "sha256": "d47bfeeeb0e594150359988704214533a8280d163c7734659b2f577f572853d4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Aqr? Answer: Aquarius. Its Latin genitive is Aquarii; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "6b7cb992e458241f2ac48dd7d5dd82b4f9bccb0c20654e2be0daac6c0389dd4c",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_aql_0001",
+    "status": "approved",
+    "sha256": "a9f796c0fd737458eac5530f526ec6931c4cf4542acbeb2cb6a6679bf7b71901",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Aql? Answer: Aquila. Its Latin genitive is Aquilae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "46a5dc9f8227ff516bc60c6ca733849bf994d4514f804f37341f6fd2c5ef3403",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_ari_0001",
+    "status": "approved",
+    "sha256": "2e990ee7144f2e3aa8916a304963a6e2d9c44a5c7eccea840624cbc31909288d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Ari? Answer: Aries. Its Latin genitive is Arietis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "579619d34a0f909b0ae16518a12941bbcf5bc9eaab2ce606da06d2757de90152",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_aur_0001",
+    "status": "approved",
+    "sha256": "54ab9069f0e77e9c230fd910e1d5359978ffdd0750ff03cdf82d75c786038f50",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Aur? Answer: Auriga. Its Latin genitive is Aurigae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "1def3c13b073fc8f968e4edeb43fa88f6896e8309b8145b812d214a5e1fe299b",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_boo_0001",
+    "status": "approved",
+    "sha256": "81cf1f2698b4c702a01a411ad0a22e2c91903e0cb6ff2469c8c6b6eba0b53d0f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Boo? Answer: Boötes. Its Latin genitive is Boötis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "1c357e2573cb112d360f0f30fc2a65468f29aa1e66b866f38ab9496bb88b6f38",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cnc_0001",
+    "status": "approved",
+    "sha256": "f7b7f3ee119de9b6ebc6fbfd3d1635673f79933de4a773888d5b00da58a9cd6f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cnc? Answer: Cancer. Its Latin genitive is Cancri; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "47417a3d8b05a82e53286ab5d20fb1612ea2e7797d7b140cffe6205746c3c759",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cma_0001",
+    "status": "approved",
+    "sha256": "55320e71c003b74334ad4577b7efda1ea78f530cc445b7266c730180ef280a7b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation CMa? Answer: Canis Major. Its Latin genitive is Canis Majoris; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "fa92a888c93455e8247dba937e05c1b1de55920055b995b391127aef829cb32f",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cmi_0001",
+    "status": "approved",
+    "sha256": "7cbfec02a2d35c991e64cd078bd7b96754d2000d0f381f6f23f51a5c2ef8a31f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation CMi? Answer: Canis Minor. Its Latin genitive is Canis Minoris; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "1cda4d62fe13f97901c6c4f2d85cf416a9f4a1705717b75494ac1b7ab2a29817",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cap_0001",
+    "status": "approved",
+    "sha256": "b4d5ca0689b4c9e2472f0b654ff7ded1f72630c312c9bce25dcccddc9d3c59e2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cap? Answer: Capricornus. Its Latin genitive is Capricorni; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "d1c5c9921b628940014f6008076ab03a4ad49436657b6dc2f963c68fba0d1b91",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cas_0001",
+    "status": "approved",
+    "sha256": "8c32fef2b2856fd3af6b1c21910b5907b5b1f9558a2b0f6a4e4c1763d37b8c19",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cas? Answer: Cassiopeia. Its Latin genitive is Cassiopeiae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "098a387f351d1cf8b8a104cd64c1a6577bbab9c88c2410ab47562c89a27d796e",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cep_0001",
+    "status": "approved",
+    "sha256": "8535399e1c172024fe9deb59316c43d2f2fc4c941fbe5c51a54da8389036cb2b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cep? Answer: Cepheus. Its Latin genitive is Cephei; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "934a6786be33fe2c46f81d6c8172baca337996199eef6a3986e121f08d311c25",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cet_0001",
+    "status": "approved",
+    "sha256": "26b94e0abead55a1278d4f7519290a482ffd4037221870120bbdfd6a807b33c2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cet? Answer: Cetus. Its Latin genitive is Ceti; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "c898d85c05dd641918019952228ae0c18799a08881dff0a4985140aa532bedaf",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cru_0001",
+    "status": "approved",
+    "sha256": "f145d2001ce39c308238b6624073321ce61e56dbe592f4d1fed3c094fdf0f12f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cru? Answer: Crux. Its Latin genitive is Crucis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "4cdb23e073feb0376e3e66d00c7198503409ee81605728ac3f3eea0f9e96180c",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_cyg_0001",
+    "status": "approved",
+    "sha256": "628564eca99b87a9e15de35bab3de2fd7692472870f98547d8b4c70760f3973d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Cyg? Answer: Cygnus. Its Latin genitive is Cygni; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "7e1b2229a42ec1ede0eecbe0f802576a1587d1f2c3158e8d43f3d77b1070c6d2",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_del_0001",
+    "status": "approved",
+    "sha256": "e7ebe76db028465c5a0fceec29d65c844eb9158f23dc7b32d60270e5b359b6bb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Del? Answer: Delphinus. Its Latin genitive is Delphini; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "f838eb9a11735b482c85e23e7dfd94d0fec8f1ce89c57cc87422711d9c7729fc",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_dra_0001",
+    "status": "approved",
+    "sha256": "f6e127ff3eb2a0582750746ed10d3449c0871813b3f82bfbf291eeadf6708de6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Dra? Answer: Draco. Its Latin genitive is Draconis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "f326dde261de6b5a89e34c2e8dff1f9e00ca5399de33f0283319ba9d3f200a34",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_gem_0001",
+    "status": "approved",
+    "sha256": "1c470efdeb54fb35843d6a7f7192261f21490f9c7720bf11469a93d1d8c82887",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Gem? Answer: Gemini. Its Latin genitive is Geminorum; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "26f9db38b59420e1a9712586adbbe2813b42617b26dc24a54eaf38c25c84b162",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_her_0001",
+    "status": "approved",
+    "sha256": "459e1f29899f8a161c6cb5965403330de87773d14b56489e9d3b7a73484ef642",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Her? Answer: Hercules. Its Latin genitive is Herculis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "e009de10ada0baa28c34c846f6ce576c49aafb4f6dbe3e9b09f737f31d81a5ae",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_leo_0001",
+    "status": "approved",
+    "sha256": "78d75ab4bf4958c35cd11ed5665b0b2063b56b16988fb79153f2317889b03326",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Leo? Answer: Leo. Its Latin genitive is Leonis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "c7ee66baffd90abb5532ea80841b04000e802837f380a13406ebc0ff92120c1f",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_lib_0001",
+    "status": "approved",
+    "sha256": "650e6c7d722b3cd3801db705d274832e5d0474523b5b6bb2faf2eec0ee7f0917",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Lib? Answer: Libra. Its Latin genitive is Librae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "2d8abd8c58fc370814a1fe63d74e2bd48e1b19280aad99465d98c1e49b66b726",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_lyr_0001",
+    "status": "approved",
+    "sha256": "5c833fde4c17801082af9c5c31b34ecc5b87a347d42ff1a761a3fc23bfae4d9d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Lyr? Answer: Lyra. Its Latin genitive is Lyrae; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "5ffc357d78cf2440fda0d255030c6389ccb2ad2c2877ae61175ea22d353b7220",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_oph_0001",
+    "status": "approved",
+    "sha256": "129b43559b9e368923f5089a0a2f0f8a4034f4ee9d88963c58e3c81588d2e82c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Oph? Answer: Ophiuchus. Its Latin genitive is Ophiuchi; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "50551fb91d0b1afc053743a1fbe1bd5d87a835f8208a39d7a5716c2fd2e6160d",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_ori_0001",
+    "status": "approved",
+    "sha256": "9eb21d01a1c524ab0772db10e3d469863dc2b6dffb2788397f13ab0cdb6cfe5c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Ori? Answer: Orion. Its Latin genitive is Orionis; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "119aee68b0c69fdb484ec9efe72569dd349933701024ee7a3a4fe54ddb9f615e",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_peg_0001",
+    "status": "approved",
+    "sha256": "60f84ed4520f67ec54560c6de7301f58f3e51d228d7dc48b6e5c9dea1ad17079",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Peg? Answer: Pegasus. Its Latin genitive is Pegasi; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "4636e4b84528fc8a513039efca36457c0fe10197dff0ad64a3cba6a2ce275530",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_per_0001",
+    "status": "approved",
+    "sha256": "0a4c693b6682a882cefc454979002443149ccf1176d4d166feea6eca52c125b7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Per? Answer: Perseus. Its Latin genitive is Persei; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "d229c7e35257922da8f8358dd52ae182018e71b021498c66ceb705f9ae38dabf",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_psc_0001",
+    "status": "approved",
+    "sha256": "96ddf9dd245fde589a020cb3d9ba26cea747dccf79ef6cf8f6027e268d96dc0a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Psc? Answer: Pisces. Its Latin genitive is Piscium; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "023c300dda17e7ef6bf25bce92fe2893ca2afef2bfd95dfd1f9992ede9cdb15f",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_sgr_0001",
+    "status": "approved",
+    "sha256": "d917f67252e3e5b635b6b6304fb8f32302b464ee3f07dab310c67b06e1723e39",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation Sgr? Answer: Sagittarius. Its Latin genitive is Sagittarii; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "6a7ef1d801ed1308e9a1dcff24ff941fab9274abaa90a926d8d0fbca9502230a",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_uma_0001",
+    "status": "approved",
+    "sha256": "2171c0e9b8551d5317771c8a2e7d72a07db017ee335d10de4ae90c5fc9ff03d2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation UMa? Answer: Ursa Major. Its Latin genitive is Ursae Majoris; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "66489423dd782e64f2613ce6745d755a80500d6bd72cd6adfcefb36e0ebe4daa",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
+  },
+  {
+    "id": "astronomy_catalog_iau_umi_0001",
+    "status": "approved",
+    "sha256": "9ea14dbf6af06e107c0d22e3aec219daba9fc541b7d0ca46b4d96132ee769c9b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+        "location": "Constellation Names table: nominative, exact three-letter abbreviation and genitive",
+        "claim": "Which constellation has the official abbreviation UMi? Answer: Ursa Minor. Its Latin genitive is Ursae Minoris; this form is used in star designations."
+      }
+    ],
+    "sourceRecordSha256": "6387d74adfee984ecece38ceba2fdff508faee53859735e782d203697310a36b",
+    "reviewNotes": "Reviewed the exact case-sensitive abbreviation, full Latin nominative and genitive against the IAU table. Russian conventional constellation name corresponds to the same region; distractors are three different constellations. The genitive in the explanation is an astronomical proper name, not an untranslated sentence."
   }
 ]

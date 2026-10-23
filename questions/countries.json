@@ -438,5 +438,885 @@
       "https://unstats.un.org/unsd/methodology/m49/overview/"
     ],
     "image": null
+  },
+  {
+    "id": "countries_catalog_whc_4_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Национальный исторический парк Л’Анс-о-Медоус»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property L’Anse aux Meadows National Historic Site?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o2",
+        "ru": "Словения",
+        "en": "Slovenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Исландия",
+        "en": "Iceland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/4/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_26_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Остров Горе»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Island of Gorée?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сенегал",
+        "en": "Senegal"
+      },
+      {
+        "id": "o1",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      },
+      {
+        "id": "o2",
+        "ru": "Сьерра-Леоне",
+        "en": "Sierra Leone"
+      },
+      {
+        "id": "o3",
+        "ru": "Замбия",
+        "en": "Zambia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/26/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_27_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древние индейские поселения на плато Меса-Верде»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Mesa Verde National Park?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Сербия",
+        "en": "Serbia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/27/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_19_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Крепость Фасил-Гебби, район города Гондэр»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Fasil Ghebbi, Gondar Region?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эфиопия",
+        "en": "Ethiopia"
+      },
+      {
+        "id": "o1",
+        "ru": "Республика Конго",
+        "en": "Republic of the Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Южно-Африканская Республика",
+        "en": "South Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Кабо-Верде",
+        "en": "Cape Verde"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/19/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_38_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Амфитеатр в Эль-Джеме»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Amphitheatre of El Jem?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o1",
+        "ru": "Палестинские территории",
+        "en": "Palestinian Territories"
+      },
+      {
+        "id": "o2",
+        "ru": "ОАЭ",
+        "en": "United Arab Emirates"
+      },
+      {
+        "id": "o3",
+        "ru": "Сирия",
+        "en": "Syria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/38/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_43_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Мадарский всадник»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Madara Rider?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o1",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o2",
+        "ru": "Финляндия",
+        "en": "Finland"
+      },
+      {
+        "id": "o3",
+        "ru": "Чехия",
+        "en": "Czechia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/43/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_44_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Фракийская гробница в городе Казанлык»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Thracian Tomb of Kazanlak?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o1",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o2",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузия",
+        "en": "Georgia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/44/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_59_0001",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый портовый квартал Брюгген (город Берген)»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Bryggen?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o1",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/59/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_78_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Индепенденс-холл (город Филадельфия)»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Independence Hall?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o1",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o2",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o3",
+        "ru": "Украина",
+        "en": "Ukraine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/78/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_80_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Ансамбль Мон-Сен-Мишель с заливом»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Mont-Saint-Michel and its Bay?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o1",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o2",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o3",
+        "ru": "Германия",
+        "en": "Germany"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/80/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_86_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Мемфис и его некрополи - район пирамид от Гизы до Дахшура»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Египет",
+        "en": "Egypt"
+      },
+      {
+        "id": "o1",
+        "ru": "ОАЭ",
+        "en": "United Arab Emirates"
+      },
+      {
+        "id": "o2",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o3",
+        "ru": "Сирия",
+        "en": "Syria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_88_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Памятники Нубии от Абу-Симбел до Филэ»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Nubian Monuments from Abu Simbel to Philae?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Египет",
+        "en": "Egypt"
+      },
+      {
+        "id": "o1",
+        "ru": "Иордания",
+        "en": "Jordan"
+      },
+      {
+        "id": "o2",
+        "ru": "Палестинские территории",
+        "en": "Palestinian Territories"
+      },
+      {
+        "id": "o3",
+        "ru": "Катар",
+        "en": "Qatar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/88/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_89_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исламский Каир»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Cairo?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Египет",
+        "en": "Egypt"
+      },
+      {
+        "id": "o1",
+        "ru": "Ирак",
+        "en": "Iraq"
+      },
+      {
+        "id": "o2",
+        "ru": "Бахрейн",
+        "en": "Bahrain"
+      },
+      {
+        "id": "o3",
+        "ru": "Марокко",
+        "en": "Morocco"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/89/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_90_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Раннехристианские памятники в Абу-Мена»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Abu Mena?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Египет",
+        "en": "Egypt"
+      },
+      {
+        "id": "o1",
+        "ru": "Саудовская Аравия",
+        "en": "Saudi Arabia"
+      },
+      {
+        "id": "o2",
+        "ru": "Сирия",
+        "en": "Syria"
+      },
+      {
+        "id": "o3",
+        "ru": "Оман",
+        "en": "Oman"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/90/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_94_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Наскальная живопись в Валь-Камонике»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Rock Drawings in Valcamonica?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Венгрия",
+        "en": "Hungary"
+      },
+      {
+        "id": "o2",
+        "ru": "Литва",
+        "en": "Lithuania"
+      },
+      {
+        "id": "o3",
+        "ru": "Финляндия",
+        "en": "Finland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/94/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_96_0001",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древний город Стари-Рас и монастырь Сопочани»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Stari Ras and Sopoćani?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сербия",
+        "en": "Serbia"
+      },
+      {
+        "id": "o1",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o2",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o3",
+        "ru": "Испания",
+        "en": "Spain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/96/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_113_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древний город Чога-Занбиль»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Tchogha Zanbil?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o1",
+        "ru": "Палау",
+        "en": "Palau"
+      },
+      {
+        "id": "o2",
+        "ru": "Узбекистан",
+        "en": "Uzbekistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/113/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_114_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древний город Персеполь»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Persepolis?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o1",
+        "ru": "Сингапур",
+        "en": "Singapore"
+      },
+      {
+        "id": "o2",
+        "ru": "Лаос",
+        "en": "Laos"
+      },
+      {
+        "id": "o3",
+        "ru": "Камбоджа",
+        "en": "Cambodia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/114/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_115_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Площадь Мейдан-Имам в городе Исфахан»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Meidan Emam, Esfahan?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o1",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o2",
+        "ru": "Республика Корея",
+        "en": "South Korea"
+      },
+      {
+        "id": "o3",
+        "ru": "Соломоновы о-ва",
+        "en": "Solomon Islands"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/115/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_catalog_whc_125_0001",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Природный и культурно-исторический район Котор»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Natural and Culturo-Historical Region of Kotor?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      },
+      {
+        "id": "o1",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o2",
+        "ru": "Андорра",
+        "en": "Andorra"
+      },
+      {
+        "id": "o3",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/125/"
+    ],
+    "image": null
   }
 ]

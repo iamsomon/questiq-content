@@ -438,5 +438,4405 @@
       "https://whc.unesco.org/en/list/688/"
     ],
     "image": null
+  },
+  {
+    "id": "cities_catalog_whc_2_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Кито»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Quito?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o1",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o2",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o3",
+        "ru": "Белиз",
+        "en": "Belize"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/2/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_29_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Кракова»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1978 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Kraków?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o2",
+        "ru": "Словения",
+        "en": "Slovenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/29/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_95_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Дубровнике»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1979 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old City of Dubrovnik?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o1",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      },
+      {
+        "id": "o2",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o3",
+        "ru": "Армения",
+        "en": "Armenia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/95/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_30_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Варшавы»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Warsaw?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "Румыния",
+        "en": "Romania"
+      },
+      {
+        "id": "o2",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o3",
+        "ru": "Андорра",
+        "en": "Andorra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/30/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_124_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Ору-Прету»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Town of Ouro Preto?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Антигуа и Барбуда",
+        "en": "Antigua & Barbuda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/124/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_131_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Валлетта»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1980 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Valletta?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o1",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      },
+      {
+        "id": "o2",
+        "ru": "Греция",
+        "en": "Greece"
+      },
+      {
+        "id": "o3",
+        "ru": "Финляндия",
+        "en": "Finland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/131/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_170_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Медина (старая часть) города Фес»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1981 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medina of Fez?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Палестинские территории",
+        "en": "Palestinian Territories"
+      },
+      {
+        "id": "o2",
+        "ru": "ОАЭ",
+        "en": "United Arab Emirates"
+      },
+      {
+        "id": "o3",
+        "ru": "Мавритания",
+        "en": "Mauritania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/170/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_189_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Олинда»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of the Town of Olinda?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      },
+      {
+        "id": "o2",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o3",
+        "ru": "Панама",
+        "en": "Panama"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/189/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_200_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Священный город Анурадхапура»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sacred City of Anuradhapura?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o2",
+        "ru": "Мьянма (Бирма)",
+        "en": "Myanmar (Burma)"
+      },
+      {
+        "id": "o3",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/200/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_201_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древний город Полоннарува»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ancient City of Polonnaruwa?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o2",
+        "ru": "Лаос",
+        "en": "Laos"
+      },
+      {
+        "id": "o3",
+        "ru": "Сингапур",
+        "en": "Singapore"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/201/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_202_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Древний город Сигирия»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1982 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ancient City of Sigiriya?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1982."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o2",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/202/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_206_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Центр города Ангра-ду-Эроишму, Азорские острова»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Central Zone of the Town of Angra do Heroismo in the Azores?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o1",
+        "ru": "Грузия",
+        "en": "Georgia"
+      },
+      {
+        "id": "o2",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o3",
+        "ru": "США",
+        "en": "United States"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/206/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_217_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Несебыре»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ancient City of Nessebar?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o1",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o2",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o3",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/217/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_267_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Берне»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old City of Berne?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o1",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/267/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_273_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Куско»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1983 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Cuzco?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o2",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o3",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/273/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_313_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Кордова»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1984 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Cordoba?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o2",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузия",
+        "en": "Georgia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/313/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_309_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Салвадор-ди-Баия»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Salvador de Bahia?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o2",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o3",
+        "ru": "Коста-Рика",
+        "en": "Costa Rica"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/309/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_311_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Сеговии и древнеримский акведук»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Segovia and its Aqueduct?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Кипр",
+        "en": "Cyprus"
+      },
+      {
+        "id": "o2",
+        "ru": "Венгрия",
+        "en": "Hungary"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/311/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_321_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город мечетей Багерхат»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Mosque City of Bagerhat?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o1",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o2",
+        "ru": "Сингапур",
+        "en": "Singapore"
+      },
+      {
+        "id": "o3",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/321/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_331_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Медина (старая часть) города Марракеш»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medina of Marrakesh?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Оман",
+        "en": "Oman"
+      },
+      {
+        "id": "o2",
+        "ru": "Саудовская Аравия",
+        "en": "Saudi Arabia"
+      },
+      {
+        "id": "o3",
+        "ru": "Алжир",
+        "en": "Algeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/331/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_332_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Пунический город Керкуан и его некрополь»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Punic Town of Kerkuane and its Necropolis?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o1",
+        "ru": "Мавритания",
+        "en": "Mauritania"
+      },
+      {
+        "id": "o2",
+        "ru": "Йемен",
+        "en": "Yemen"
+      },
+      {
+        "id": "o3",
+        "ru": "Египет",
+        "en": "Egypt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/332/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_347_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Сантьяго-де-Компостела»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Santiago de Compostela (Old Town)?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o2",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвегия",
+        "en": "Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/347/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_348_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Авиле и церкви вне его стен»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1985 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Ávila with its Extra-Muros Churches?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o2",
+        "ru": "Сербия",
+        "en": "Serbia"
+      },
+      {
+        "id": "o3",
+        "ru": "Румыния",
+        "en": "Romania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/348/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_361_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Эвора»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Évora?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o1",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o2",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Македония",
+        "en": "North Macedonia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/361/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_362_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Гадамесе»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Ghadamès?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ливия",
+        "en": "Libya"
+      },
+      {
+        "id": "o1",
+        "ru": "Саудовская Аравия",
+        "en": "Saudi Arabia"
+      },
+      {
+        "id": "o2",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o3",
+        "ru": "Оман",
+        "en": "Oman"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/362/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_379_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Толедо»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Toledo?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      },
+      {
+        "id": "o2",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвегия",
+        "en": "Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/379/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_384_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Касересе»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1986 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Cáceres?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o2",
+        "ru": "Греция",
+        "en": "Greece"
+      },
+      {
+        "id": "o3",
+        "ru": "Дания",
+        "en": "Denmark"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/384/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_272_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Ганзейский город Любек»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Hanseatic City of Lübeck?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o1",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o2",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o3",
+        "ru": "Турция",
+        "en": "Türkiye"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/272/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_414_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Доиспанский город Теотиуакан»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Pre-Hispanic City of Teotihuacan?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o3",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/414/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_415_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Историческая часть города Оахака и центр древней индейской культуры Монте-Альбан»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Oaxaca and Archaeological Site of Monte Albán?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o2",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/415/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_416_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Пуэбла»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Puebla?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o3",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/416/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_420_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Горнозаводской город Потоси»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Potosí?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боливия",
+        "en": "Bolivia"
+      },
+      {
+        "id": "o1",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o2",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/420/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_428_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Бат»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1987 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Bath?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o1",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o2",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o3",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/428/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_116_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старые города Дженне»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Towns of Djenné?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мали",
+        "en": "Mali"
+      },
+      {
+        "id": "o1",
+        "ru": "Республика Конго",
+        "en": "Republic of the Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Сьерра-Леоне",
+        "en": "Sierra Leone"
+      },
+      {
+        "id": "o3",
+        "ru": "Гвинея-Бисау",
+        "en": "Guinea-Bissau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/116/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_381_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Саламанке»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old City of Salamanca?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o1",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o2",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/381/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_450_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Священный город Канди»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Sacred City of Kandy?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      },
+      {
+        "id": "o2",
+        "ru": "Туркменистан",
+        "en": "Turkmenistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Соломоновы о-ва",
+        "en": "Solomon Islands"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/450/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_451_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старая часть и укрепления города Галле»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Galle and its Fortifications?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Камбоджа",
+        "en": "Cambodia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/451/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_482_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Гуанахуато и прилегающие рудники»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Town of Guanajuato and Adjacent Mines?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o3",
+        "ru": "Панама",
+        "en": "Panama"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/482/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_483_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Доиспанский город Чичен-Ица»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Pre-Hispanic City of Chichen-Itza?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o2",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o3",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/483/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_493_0001",
+    "categoryId": "cities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Средневековый город в Родосе»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medieval City of Rhodes?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Греция",
+        "en": "Greece"
+      },
+      {
+        "id": "o1",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o2",
+        "ru": "Словения",
+        "en": "Slovenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/493/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_500_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Лимы»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1988 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Lima?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Антигуа и Барбуда",
+        "en": "Antigua & Barbuda"
+      },
+      {
+        "id": "o3",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/500/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_526_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Колониальный город Санто-Доминго»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1990 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Colonial City of Santo Domingo?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1990."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доминиканская Республика",
+        "en": "Dominican Republic"
+      },
+      {
+        "id": "o1",
+        "ru": "Гондурас",
+        "en": "Honduras"
+      },
+      {
+        "id": "o2",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/526/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_550_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Сан-Джиминьяно»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1990 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of San Gimignano?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1990."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o2",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      },
+      {
+        "id": "o3",
+        "ru": "Армения",
+        "en": "Armenia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/550/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_566_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Сукре»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Sucre?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боливия",
+        "en": "Bolivia"
+      },
+      {
+        "id": "o1",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      },
+      {
+        "id": "o2",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o3",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/566/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_574_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Сукотаи и соседние исторические города»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Town of Sukhothai and Associated Historic Towns?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o1",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      },
+      {
+        "id": "o2",
+        "ru": "Малайзия",
+        "en": "Malaysia"
+      },
+      {
+        "id": "o3",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/574/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_576_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Аютия и соседние исторические города»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Ayutthaya?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o1",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o2",
+        "ru": "Туркменистан",
+        "en": "Turkmenistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/576/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_585_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Морелия»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1991 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Morelia?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Люсия",
+        "en": "St. Lucia"
+      },
+      {
+        "id": "o3",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/585/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_564_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старая часть города Замосць»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old City of Zamość?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "Словения",
+        "en": "Slovenia"
+      },
+      {
+        "id": "o2",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o3",
+        "ru": "Иран",
+        "en": "Iran"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/564/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_617_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Чески-Крумлов»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Český Krumlov?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чехия",
+        "en": "Czechia"
+      },
+      {
+        "id": "o1",
+        "ru": "Албания",
+        "en": "Albania"
+      },
+      {
+        "id": "o2",
+        "ru": "Молдова",
+        "en": "Moldova"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/617/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_621_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Тельч»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Telč?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чехия",
+        "en": "Czechia"
+      },
+      {
+        "id": "o1",
+        "ru": "Андорра",
+        "en": "Andorra"
+      },
+      {
+        "id": "o2",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/621/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_623_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Рудники Раммельсберга, исторический город Гослар и водохозяйственная система Верхнего Гарца»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1992 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o1",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o2",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o3",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/623/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_602_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Бухара»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Bukhara?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Узбекистан",
+        "en": "Uzbekistan"
+      },
+      {
+        "id": "o1",
+        "ru": "Афганистан",
+        "en": "Afghanistan"
+      },
+      {
+        "id": "o2",
+        "ru": "Казахстан",
+        "en": "Kazakhstan"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/602/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_618_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Банска-Штъявница»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Словакия",
+        "en": "Slovakia"
+      },
+      {
+        "id": "o1",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o2",
+        "ru": "Иран",
+        "en": "Iran"
+      },
+      {
+        "id": "o3",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/618/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_624_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Бамберг»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Town of Bamberg?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o1",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o2",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o3",
+        "ru": "Кипр",
+        "en": "Cyprus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/624/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_676_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Сакатекас»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1993 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Zacatecas?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o2",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o3",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/676/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_541_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Вильнюса»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Vilnius Historic Centre?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Литва",
+        "en": "Lithuania"
+      },
+      {
+        "id": "o1",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o2",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o3",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/541/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_614_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Сафранболу»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Safranbolu?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Турция",
+        "en": "Türkiye"
+      },
+      {
+        "id": "o1",
+        "ru": "Кипр",
+        "en": "Cyprus"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/614/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_712_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Виченца и вилла архитектора Палладио в области Венето»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1994 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Vicenza and the Palladian Villas of the Veneto?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      },
+      {
+        "id": "o2",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o3",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/712/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_479_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Луанг-Прабанг»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Town of Luang Prabang?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лаос",
+        "en": "Laos"
+      },
+      {
+        "id": "o1",
+        "ru": "Федеративные Штаты Микронезии",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Вануату",
+        "en": "Vanuatu"
+      },
+      {
+        "id": "o3",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/479/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_717_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Сиена»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Siena?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o2",
+        "ru": "Албания",
+        "en": "Albania"
+      },
+      {
+        "id": "o3",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/717/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_726_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Неаполя»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Naples?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Албания",
+        "en": "Albania"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Андорра",
+        "en": "Andorra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/726/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_731_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Ганзейский город Висбю»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Hanseatic Town of Visby?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o1",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/731/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_733_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город эпохи Возрождения Феррара и дельта реки По»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ferrara, City of the Renaissance, and its Po Delta?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o2",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o3",
+        "ru": "Кипр",
+        "en": "Cyprus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/733/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_741_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Луненберг»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town Lunenburg?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Андорра",
+        "en": "Andorra"
+      },
+      {
+        "id": "o2",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o3",
+        "ru": "Эстония",
+        "en": "Estonia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/741/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_742_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Санта-Крус-де-Момпокс»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Santa Cruz de Mompox?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Никарагуа",
+        "en": "Nicaragua"
+      },
+      {
+        "id": "o3",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/742/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_747_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Историческая часть города Колония-дель-Сакраменто»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1995 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Quarter of the City of Colonia del Sacramento?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаити",
+        "en": "Haiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o3",
+        "ru": "Доминиканская Республика",
+        "en": "Dominican Republic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/747/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_755_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Порту»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o1",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o2",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      },
+      {
+        "id": "o3",
+        "ru": "Кипр",
+        "en": "Cyprus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/755/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_762_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Церковный городок Гаммельстад вблизи города Лулео»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Church Town of Gammelstad, Luleå?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o1",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      },
+      {
+        "id": "o2",
+        "ru": "Украина",
+        "en": "Ukraine"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузия",
+        "en": "Georgia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/762/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_784_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Зальцбург»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of the City of Salzburg?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o1",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o2",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o3",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/784/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_789_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Пьенца»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of the City of Pienza?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Молдова",
+        "en": "Moldova"
+      },
+      {
+        "id": "o2",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o3",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/789/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_791_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Доиспанский город Ушмаль»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Pre-Hispanic Town of Uxmal?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o2",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/791/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_793_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Мекнес»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1996 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Meknes?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Катар",
+        "en": "Qatar"
+      },
+      {
+        "id": "o2",
+        "ru": "Судан",
+        "en": "Sudan"
+      },
+      {
+        "id": "o3",
+        "ru": "Йемен",
+        "en": "Yemen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/793/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_809_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Комплекс базилики епископа Ефразия в историческом центре города Пореч»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o1",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o2",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o3",
+        "ru": "США",
+        "en": "United States"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/809/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_810_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Трогир»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Trogir?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o1",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      },
+      {
+        "id": "o2",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o3",
+        "ru": "Португалия",
+        "en": "Portugal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/810/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_811_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город Лицзян»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Old Town of Lijiang?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o1",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o2",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      },
+      {
+        "id": "o3",
+        "ru": "Киргизия",
+        "en": "Kyrgyzstan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/811/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_812_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Пинъяо»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Ancient City of Ping Yao?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китай",
+        "en": "China"
+      },
+      {
+        "id": "o1",
+        "ru": "Филиппины",
+        "en": "Philippines"
+      },
+      {
+        "id": "o2",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      },
+      {
+        "id": "o3",
+        "ru": "Узбекистан",
+        "en": "Uzbekistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/812/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_821_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Сан-Луис»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of São Luís?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Сальвадор",
+        "en": "El Salvador"
+      },
+      {
+        "id": "o3",
+        "ru": "Гаити",
+        "en": "Haiti"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/821/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_822_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр (Старый город) Таллинна»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre (Old Town) of Tallinn?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o1",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o2",
+        "ru": "Босния и Герцеговина",
+        "en": "Bosnia & Herzegovina"
+      },
+      {
+        "id": "o3",
+        "ru": "Черногория",
+        "en": "Montenegro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/822/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_835_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Средневековая часть города Торунь»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medieval Town of Toruń?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o2",
+        "ru": "Армения",
+        "en": "Armenia"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/835/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_837_0001",
+    "categoryId": "cities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Медина (старая часть) города Тетуан»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medina of Tétouan (formerly known as Titawin)?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Бахрейн",
+        "en": "Bahrain"
+      },
+      {
+        "id": "o2",
+        "ru": "ОАЭ",
+        "en": "United Arab Emirates"
+      },
+      {
+        "id": "o3",
+        "ru": "Йемен",
+        "en": "Yemen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/837/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_852_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Риги»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1997 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Riga?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Латвия",
+        "en": "Latvia"
+      },
+      {
+        "id": "o1",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o2",
+        "ru": "Мальта",
+        "en": "Malta"
+      },
+      {
+        "id": "o3",
+        "ru": "Литва",
+        "en": "Lithuania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/852/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_828_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Урбино»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1998 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Urbino?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1998."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o1",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузия",
+        "en": "Georgia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/828/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_502_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический город Виган»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic City of Vigan?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Филиппины",
+        "en": "Philippines"
+      },
+      {
+        "id": "o1",
+        "ru": "Казахстан",
+        "en": "Kazakhstan"
+      },
+      {
+        "id": "o2",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      },
+      {
+        "id": "o3",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/502/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_863_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Санта-Ана-де-лос-Риос-де-Куэнка»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Santa Ana de los Ríos de Cuenca?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o1",
+        "ru": "Доминиканская Республика",
+        "en": "Dominican Republic"
+      },
+      {
+        "id": "o2",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o3",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/863/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_890_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Диамантина»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of the Town of Diamantina?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/890/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_895_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический укрепленный город Кампече»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Fortified Town of Campeche?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/895/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_902_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Сигишоара»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Sighişoara?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Румыния",
+        "en": "Romania"
+      },
+      {
+        "id": "o1",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o2",
+        "ru": "Венгрия",
+        "en": "Hungary"
+      },
+      {
+        "id": "o3",
+        "ru": "Сан-Марино",
+        "en": "San Marino"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/902/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_931_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Город Грац – исторический центр и замок Еггенберг»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 1999 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property City of Graz – Historic Centre and Schloss Eggenberg?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o1",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o2",
+        "ru": "Хорватия",
+        "en": "Croatia"
+      },
+      {
+        "id": "o3",
+        "ru": "Латвия",
+        "en": "Latvia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/931/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_173_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Каменный город в Занзибаре»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Stone Town of Zanzibar?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Танзания",
+        "en": "Tanzania"
+      },
+      {
+        "id": "o1",
+        "ru": "Намибия",
+        "en": "Namibia"
+      },
+      {
+        "id": "o2",
+        "ru": "Гвинея",
+        "en": "Guinea"
+      },
+      {
+        "id": "o3",
+        "ru": "Буркина-Фасо",
+        "en": "Burkina Faso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/173/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_884_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Три замка, крепостные стены и валы торгового города Беллинцона»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швейцария",
+        "en": "Switzerland"
+      },
+      {
+        "id": "o1",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o2",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Македония",
+        "en": "North Macedonia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/884/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_885_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Шахрисабз»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Shakhrisyabz?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Узбекистан",
+        "en": "Uzbekistan"
+      },
+      {
+        "id": "o1",
+        "ru": "Таджикистан",
+        "en": "Tajikistan"
+      },
+      {
+        "id": "o2",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o3",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/885/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_958_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старая крепость в Баку с Дворцом ширваншахов и Девичьей Башней»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Walled City of Baku with the Shirvanshah's Palace and Maiden Tower?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Азербайджан",
+        "en": "Azerbaijan"
+      },
+      {
+        "id": "o1",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o2",
+        "ru": "Люксембург",
+        "en": "Luxembourg"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/958/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_996_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Брюгге»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Brugge?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o1",
+        "ru": "Ватикан",
+        "en": "Vatican City"
+      },
+      {
+        "id": "o2",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o3",
+        "ru": "Исландия",
+        "en": "Iceland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/996/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_1016_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Арекипа»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2000 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historical Centre of the City of Arequipa?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o2",
+        "ru": "Доминиканская Республика",
+        "en": "Dominican Republic"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1016/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_753_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Медина (старая часть) города Эс-Сувейра (бывший Могадор)»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Medina of Essaouira (formerly Mogador)?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Ливан",
+        "en": "Lebanon"
+      },
+      {
+        "id": "o2",
+        "ru": "Оман",
+        "en": "Oman"
+      },
+      {
+        "id": "o3",
+        "ru": "ОАЭ",
+        "en": "United Arab Emirates"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/753/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_993_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Гояс»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of the Town of Goiás?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o3",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/993/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_1031_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Гимарайнш и район Курос»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Guimarães and Couros Zone?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Португалия",
+        "en": "Portugal"
+      },
+      {
+        "id": "o1",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o2",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвегия",
+        "en": "Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1031/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_1033_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр Вены»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Centre of Vienna?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o1",
+        "ru": "Беларусь",
+        "en": "Belarus"
+      },
+      {
+        "id": "o2",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o3",
+        "ru": "Литва",
+        "en": "Lithuania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1033/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_1055_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Старый город в Ламу»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2001 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Lamu Old Town?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o1",
+        "ru": "ДР Конго",
+        "en": "Democratic Republic of the Congo"
+      },
+      {
+        "id": "o2",
+        "ru": "Малави",
+        "en": "Malawi"
+      },
+      {
+        "id": "o3",
+        "ru": "Гвинея-Бисау",
+        "en": "Guinea-Bissau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1055/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cities_catalog_whc_940_0001",
+    "categoryId": "cities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой стране находится объект всемирного наследия «Исторический центр города Парамарибо»?",
+        "explanation": "В Список всемирного наследия этот культурный объект включили в 2002 году."
+      },
+      "en": {
+        "question": "Which country is home to the World Heritage property Historic Inner City of Paramaribo?",
+        "explanation": "This cultural property was inscribed on the World Heritage List in 2002."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Суринам",
+        "en": "Suriname"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Китс и Невис",
+        "en": "St. Kitts & Nevis"
+      },
+      {
+        "id": "o2",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o3",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/940/"
+    ],
+    "image": null
   }
 ]
