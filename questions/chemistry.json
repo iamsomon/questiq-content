@@ -438,5 +438,2205 @@
       "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
     ],
     "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_li_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Li?",
+        "explanation": "Атомный номер этого элемента — 3: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Li?",
+        "explanation": "Its atomic number is 3, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Литий",
+        "en": "Lithium"
+      },
+      {
+        "id": "o1",
+        "ru": "Олово",
+        "en": "Tin"
+      },
+      {
+        "id": "o2",
+        "ru": "Родий",
+        "en": "Rhodium"
+      },
+      {
+        "id": "o3",
+        "ru": "Сурьма",
+        "en": "Antimony"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_be_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Be?",
+        "explanation": "Атомный номер этого элемента — 4: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Be?",
+        "explanation": "Its atomic number is 4, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бериллий",
+        "en": "Beryllium"
+      },
+      {
+        "id": "o1",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o2",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o3",
+        "ru": "Палладий",
+        "en": "Palladium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_b_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом B?",
+        "explanation": "Атомный номер этого элемента — 5: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol B?",
+        "explanation": "Its atomic number is 5, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бор",
+        "en": "Boron"
+      },
+      {
+        "id": "o1",
+        "ru": "Кадмий",
+        "en": "Cadmium"
+      },
+      {
+        "id": "o2",
+        "ru": "Алюминий",
+        "en": "Aluminium"
+      },
+      {
+        "id": "o3",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_n_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом N?",
+        "explanation": "Атомный номер этого элемента — 7: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol N?",
+        "explanation": "Its atomic number is 7, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Азот",
+        "en": "Nitrogen"
+      },
+      {
+        "id": "o1",
+        "ru": "Кадмий",
+        "en": "Cadmium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o3",
+        "ru": "Родий",
+        "en": "Rhodium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_f_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом F?",
+        "explanation": "Атомный номер этого элемента — 9: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol F?",
+        "explanation": "Its atomic number is 9, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фтор",
+        "en": "Fluorine"
+      },
+      {
+        "id": "o1",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      },
+      {
+        "id": "o2",
+        "ru": "Серебро",
+        "en": "Silver"
+      },
+      {
+        "id": "o3",
+        "ru": "Иттрий",
+        "en": "Yttrium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ne_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ne?",
+        "explanation": "Атомный номер этого элемента — 10: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ne?",
+        "explanation": "Its atomic number is 10, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Неон",
+        "en": "Neon"
+      },
+      {
+        "id": "o1",
+        "ru": "Индий",
+        "en": "Indium"
+      },
+      {
+        "id": "o2",
+        "ru": "Рутений",
+        "en": "Ruthenium"
+      },
+      {
+        "id": "o3",
+        "ru": "Калий",
+        "en": "Potassium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_mg_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Mg?",
+        "explanation": "Атомный номер этого элемента — 12: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Mg?",
+        "explanation": "Its atomic number is 12, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Магний",
+        "en": "Magnesium"
+      },
+      {
+        "id": "o1",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o2",
+        "ru": "Сера",
+        "en": "Sulfur"
+      },
+      {
+        "id": "o3",
+        "ru": "Олово",
+        "en": "Tin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_al_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Al?",
+        "explanation": "Атомный номер этого элемента — 13: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Al?",
+        "explanation": "Its atomic number is 13, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алюминий",
+        "en": "Aluminium"
+      },
+      {
+        "id": "o1",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o2",
+        "ru": "Медь",
+        "en": "Copper"
+      },
+      {
+        "id": "o3",
+        "ru": "Иод",
+        "en": "Iodine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_p_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом P?",
+        "explanation": "Атомный номер этого элемента — 15: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol P?",
+        "explanation": "Its atomic number is 15, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      },
+      {
+        "id": "o1",
+        "ru": "Рутений",
+        "en": "Ruthenium"
+      },
+      {
+        "id": "o2",
+        "ru": "Серебро",
+        "en": "Silver"
+      },
+      {
+        "id": "o3",
+        "ru": "Неон",
+        "en": "Neon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_s_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом S?",
+        "explanation": "Атомный номер этого элемента — 16: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol S?",
+        "explanation": "Its atomic number is 16, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сера",
+        "en": "Sulfur"
+      },
+      {
+        "id": "o1",
+        "ru": "Никель",
+        "en": "Nickel"
+      },
+      {
+        "id": "o2",
+        "ru": "Кальций",
+        "en": "Calcium"
+      },
+      {
+        "id": "o3",
+        "ru": "Ксенон",
+        "en": "Xenon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_cl_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Cl?",
+        "explanation": "Атомный номер этого элемента — 17: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Cl?",
+        "explanation": "Its atomic number is 17, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хлор",
+        "en": "Chlorine"
+      },
+      {
+        "id": "o1",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o3",
+        "ru": "Сера",
+        "en": "Sulfur"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ar_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ar?",
+        "explanation": "Атомный номер этого элемента — 18: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ar?",
+        "explanation": "Its atomic number is 18, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргон",
+        "en": "Argon"
+      },
+      {
+        "id": "o1",
+        "ru": "Литий",
+        "en": "Lithium"
+      },
+      {
+        "id": "o2",
+        "ru": "Рубидий",
+        "en": "Rubidium"
+      },
+      {
+        "id": "o3",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_k_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом K?",
+        "explanation": "Атомный номер этого элемента — 19: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol K?",
+        "explanation": "Its atomic number is 19, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Калий",
+        "en": "Potassium"
+      },
+      {
+        "id": "o1",
+        "ru": "Скандий",
+        "en": "Scandium"
+      },
+      {
+        "id": "o2",
+        "ru": "Иод",
+        "en": "Iodine"
+      },
+      {
+        "id": "o3",
+        "ru": "Галлий",
+        "en": "Gallium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ca_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ca?",
+        "explanation": "Атомный номер этого элемента — 20: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ca?",
+        "explanation": "Its atomic number is 20, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кальций",
+        "en": "Calcium"
+      },
+      {
+        "id": "o1",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o2",
+        "ru": "Родий",
+        "en": "Rhodium"
+      },
+      {
+        "id": "o3",
+        "ru": "Бром",
+        "en": "Bromine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_sc_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Sc?",
+        "explanation": "Атомный номер этого элемента — 21: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Sc?",
+        "explanation": "Its atomic number is 21, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Скандий",
+        "en": "Scandium"
+      },
+      {
+        "id": "o1",
+        "ru": "Титан",
+        "en": "Titanium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o3",
+        "ru": "Бром",
+        "en": "Bromine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ti_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ti?",
+        "explanation": "Атомный номер этого элемента — 22: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ti?",
+        "explanation": "Its atomic number is 22, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Титан",
+        "en": "Titanium"
+      },
+      {
+        "id": "o1",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o2",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o3",
+        "ru": "Медь",
+        "en": "Copper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_v_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом V?",
+        "explanation": "Атомный номер этого элемента — 23: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol V?",
+        "explanation": "Its atomic number is 23, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ванадий",
+        "en": "Vanadium"
+      },
+      {
+        "id": "o1",
+        "ru": "Неон",
+        "en": "Neon"
+      },
+      {
+        "id": "o2",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o3",
+        "ru": "Сурьма",
+        "en": "Antimony"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_cr_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Cr?",
+        "explanation": "Атомный номер этого элемента — 24: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Cr?",
+        "explanation": "Its atomic number is 24, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хром",
+        "en": "Chromium"
+      },
+      {
+        "id": "o1",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      },
+      {
+        "id": "o2",
+        "ru": "Калий",
+        "en": "Potassium"
+      },
+      {
+        "id": "o3",
+        "ru": "Ниобий",
+        "en": "Niobium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_mn_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Mn?",
+        "explanation": "Атомный номер этого элемента — 25: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Mn?",
+        "explanation": "Its atomic number is 25, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марганец",
+        "en": "Manganese"
+      },
+      {
+        "id": "o1",
+        "ru": "Магний",
+        "en": "Magnesium"
+      },
+      {
+        "id": "o2",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o3",
+        "ru": "Скандий",
+        "en": "Scandium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_co_0001",
+    "categoryId": "chemistry",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Co?",
+        "explanation": "Атомный номер этого элемента — 27: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Co?",
+        "explanation": "Its atomic number is 27, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o1",
+        "ru": "Селен",
+        "en": "Selenium"
+      },
+      {
+        "id": "o2",
+        "ru": "Магний",
+        "en": "Magnesium"
+      },
+      {
+        "id": "o3",
+        "ru": "Цезий",
+        "en": "Caesium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ni_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ni?",
+        "explanation": "Атомный номер этого элемента — 28: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ni?",
+        "explanation": "Its atomic number is 28, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Никель",
+        "en": "Nickel"
+      },
+      {
+        "id": "o1",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o2",
+        "ru": "Марганец",
+        "en": "Manganese"
+      },
+      {
+        "id": "o3",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_cu_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Cu?",
+        "explanation": "Атомный номер этого элемента — 29: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Cu?",
+        "explanation": "Its atomic number is 29, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медь",
+        "en": "Copper"
+      },
+      {
+        "id": "o1",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      },
+      {
+        "id": "o2",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o3",
+        "ru": "Германий",
+        "en": "Germanium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_zn_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Zn?",
+        "explanation": "Атомный номер этого элемента — 30: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Zn?",
+        "explanation": "Its atomic number is 30, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цинк",
+        "en": "Zinc"
+      },
+      {
+        "id": "o1",
+        "ru": "Ксенон",
+        "en": "Xenon"
+      },
+      {
+        "id": "o2",
+        "ru": "Сера",
+        "en": "Sulfur"
+      },
+      {
+        "id": "o3",
+        "ru": "Цезий",
+        "en": "Caesium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ga_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ga?",
+        "explanation": "Атомный номер этого элемента — 31: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ga?",
+        "explanation": "Its atomic number is 31, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Галлий",
+        "en": "Gallium"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o3",
+        "ru": "Цезий",
+        "en": "Caesium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ge_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ge?",
+        "explanation": "Атомный номер этого элемента — 32: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ge?",
+        "explanation": "Its atomic number is 32, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Германий",
+        "en": "Germanium"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргон",
+        "en": "Argon"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranium"
+      },
+      {
+        "id": "o3",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_as_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом As?",
+        "explanation": "Атомный номер этого элемента — 33: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol As?",
+        "explanation": "Its atomic number is 33, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      },
+      {
+        "id": "o1",
+        "ru": "Ниобий",
+        "en": "Niobium"
+      },
+      {
+        "id": "o2",
+        "ru": "Титан",
+        "en": "Titanium"
+      },
+      {
+        "id": "o3",
+        "ru": "Скандий",
+        "en": "Scandium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_se_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Se?",
+        "explanation": "Атомный номер этого элемента — 34: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Se?",
+        "explanation": "Its atomic number is 34, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Селен",
+        "en": "Selenium"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольфрам",
+        "en": "Tungsten"
+      },
+      {
+        "id": "o2",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o3",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_br_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Br?",
+        "explanation": "Атомный номер этого элемента — 35: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Br?",
+        "explanation": "Its atomic number is 35, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бром",
+        "en": "Bromine"
+      },
+      {
+        "id": "o1",
+        "ru": "Кадмий",
+        "en": "Cadmium"
+      },
+      {
+        "id": "o2",
+        "ru": "Иод",
+        "en": "Iodine"
+      },
+      {
+        "id": "o3",
+        "ru": "Скандий",
+        "en": "Scandium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_kr_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Kr?",
+        "explanation": "Атомный номер этого элемента — 36: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Kr?",
+        "explanation": "Its atomic number is 36, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Криптон",
+        "en": "Krypton"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргон",
+        "en": "Argon"
+      },
+      {
+        "id": "o2",
+        "ru": "Магний",
+        "en": "Magnesium"
+      },
+      {
+        "id": "o3",
+        "ru": "Хлор",
+        "en": "Chlorine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_rb_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Rb?",
+        "explanation": "Атомный номер этого элемента — 37: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Rb?",
+        "explanation": "Its atomic number is 37, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рубидий",
+        "en": "Rubidium"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranium"
+      },
+      {
+        "id": "o2",
+        "ru": "Литий",
+        "en": "Lithium"
+      },
+      {
+        "id": "o3",
+        "ru": "Палладий",
+        "en": "Palladium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_sr_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Sr?",
+        "explanation": "Атомный номер этого элемента — 38: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Sr?",
+        "explanation": "Its atomic number is 38, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стронций",
+        "en": "Strontium"
+      },
+      {
+        "id": "o1",
+        "ru": "Литий",
+        "en": "Lithium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o3",
+        "ru": "Барий",
+        "en": "Barium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_y_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Y?",
+        "explanation": "Атомный номер этого элемента — 39: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Y?",
+        "explanation": "Its atomic number is 39, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иттрий",
+        "en": "Yttrium"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольфрам",
+        "en": "Tungsten"
+      },
+      {
+        "id": "o2",
+        "ru": "Хлор",
+        "en": "Chlorine"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_zr_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Zr?",
+        "explanation": "Атомный номер этого элемента — 40: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Zr?",
+        "explanation": "Its atomic number is 40, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o1",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o2",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o3",
+        "ru": "Неон",
+        "en": "Neon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_nb_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Nb?",
+        "explanation": "Атомный номер этого элемента — 41: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Nb?",
+        "explanation": "Its atomic number is 41, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ниобий",
+        "en": "Niobium"
+      },
+      {
+        "id": "o1",
+        "ru": "Хром",
+        "en": "Chromium"
+      },
+      {
+        "id": "o2",
+        "ru": "Бериллий",
+        "en": "Beryllium"
+      },
+      {
+        "id": "o3",
+        "ru": "Рутений",
+        "en": "Ruthenium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_mo_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Mo?",
+        "explanation": "Атомный номер этого элемента — 42: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Mo?",
+        "explanation": "Its atomic number is 42, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Молибден",
+        "en": "Molybdenum"
+      },
+      {
+        "id": "o1",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o2",
+        "ru": "Алюминий",
+        "en": "Aluminium"
+      },
+      {
+        "id": "o3",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ru_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ru?",
+        "explanation": "Атомный номер этого элемента — 44: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ru?",
+        "explanation": "Its atomic number is 44, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рутений",
+        "en": "Ruthenium"
+      },
+      {
+        "id": "o1",
+        "ru": "Криптон",
+        "en": "Krypton"
+      },
+      {
+        "id": "o2",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      },
+      {
+        "id": "o3",
+        "ru": "Медь",
+        "en": "Copper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_rh_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Rh?",
+        "explanation": "Атомный номер этого элемента — 45: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Rh?",
+        "explanation": "Its atomic number is 45, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Родий",
+        "en": "Rhodium"
+      },
+      {
+        "id": "o1",
+        "ru": "Марганец",
+        "en": "Manganese"
+      },
+      {
+        "id": "o2",
+        "ru": "Рутений",
+        "en": "Ruthenium"
+      },
+      {
+        "id": "o3",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_pd_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Pd?",
+        "explanation": "Атомный номер этого элемента — 46: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Pd?",
+        "explanation": "Its atomic number is 46, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Палладий",
+        "en": "Palladium"
+      },
+      {
+        "id": "o1",
+        "ru": "Рубидий",
+        "en": "Rubidium"
+      },
+      {
+        "id": "o2",
+        "ru": "Серебро",
+        "en": "Silver"
+      },
+      {
+        "id": "o3",
+        "ru": "Калий",
+        "en": "Potassium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ag_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ag?",
+        "explanation": "Атомный номер этого элемента — 47: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ag?",
+        "explanation": "Its atomic number is 47, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Серебро",
+        "en": "Silver"
+      },
+      {
+        "id": "o1",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o2",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o3",
+        "ru": "Галлий",
+        "en": "Gallium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_cd_0001",
+    "categoryId": "chemistry",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Cd?",
+        "explanation": "Атомный номер этого элемента — 48: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Cd?",
+        "explanation": "Its atomic number is 48, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кадмий",
+        "en": "Cadmium"
+      },
+      {
+        "id": "o1",
+        "ru": "Германий",
+        "en": "Germanium"
+      },
+      {
+        "id": "o2",
+        "ru": "Мышьяк",
+        "en": "Arsenic"
+      },
+      {
+        "id": "o3",
+        "ru": "Неон",
+        "en": "Neon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_in_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом In?",
+        "explanation": "Атомный номер этого элемента — 49: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol In?",
+        "explanation": "Its atomic number is 49, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индий",
+        "en": "Indium"
+      },
+      {
+        "id": "o1",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o2",
+        "ru": "Бериллий",
+        "en": "Beryllium"
+      },
+      {
+        "id": "o3",
+        "ru": "Титан",
+        "en": "Titanium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_sn_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Sn?",
+        "explanation": "Атомный номер этого элемента — 50: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Sn?",
+        "explanation": "Its atomic number is 50, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Олово",
+        "en": "Tin"
+      },
+      {
+        "id": "o1",
+        "ru": "Неон",
+        "en": "Neon"
+      },
+      {
+        "id": "o2",
+        "ru": "Литий",
+        "en": "Lithium"
+      },
+      {
+        "id": "o3",
+        "ru": "Бериллий",
+        "en": "Beryllium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_sb_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Sb?",
+        "explanation": "Атомный номер этого элемента — 51: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Sb?",
+        "explanation": "Its atomic number is 51, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сурьма",
+        "en": "Antimony"
+      },
+      {
+        "id": "o1",
+        "ru": "Ксенон",
+        "en": "Xenon"
+      },
+      {
+        "id": "o2",
+        "ru": "Бериллий",
+        "en": "Beryllium"
+      },
+      {
+        "id": "o3",
+        "ru": "Барий",
+        "en": "Barium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_te_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Te?",
+        "explanation": "Атомный номер этого элемента — 52: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Te?",
+        "explanation": "Its atomic number is 52, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Теллур",
+        "en": "Tellurium"
+      },
+      {
+        "id": "o1",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o2",
+        "ru": "Селен",
+        "en": "Selenium"
+      },
+      {
+        "id": "o3",
+        "ru": "Фосфор",
+        "en": "Phosphorus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_i_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом I?",
+        "explanation": "Атомный номер этого элемента — 53: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol I?",
+        "explanation": "Its atomic number is 53, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иод",
+        "en": "Iodine"
+      },
+      {
+        "id": "o1",
+        "ru": "Криптон",
+        "en": "Krypton"
+      },
+      {
+        "id": "o2",
+        "ru": "Вольфрам",
+        "en": "Tungsten"
+      },
+      {
+        "id": "o3",
+        "ru": "Галлий",
+        "en": "Gallium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_xe_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Xe?",
+        "explanation": "Атомный номер этого элемента — 54: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Xe?",
+        "explanation": "Its atomic number is 54, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ксенон",
+        "en": "Xenon"
+      },
+      {
+        "id": "o1",
+        "ru": "Ванадий",
+        "en": "Vanadium"
+      },
+      {
+        "id": "o2",
+        "ru": "Палладий",
+        "en": "Palladium"
+      },
+      {
+        "id": "o3",
+        "ru": "Криптон",
+        "en": "Krypton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_cs_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Cs?",
+        "explanation": "Атомный номер этого элемента — 55: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Cs?",
+        "explanation": "Its atomic number is 55, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цезий",
+        "en": "Caesium"
+      },
+      {
+        "id": "o1",
+        "ru": "Иттрий",
+        "en": "Yttrium"
+      },
+      {
+        "id": "o2",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o3",
+        "ru": "Марганец",
+        "en": "Manganese"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_ba_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом Ba?",
+        "explanation": "Атомный номер этого элемента — 56: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol Ba?",
+        "explanation": "Its atomic number is 56, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o1",
+        "ru": "Цирконий",
+        "en": "Zirconium"
+      },
+      {
+        "id": "o2",
+        "ru": "Палладий",
+        "en": "Palladium"
+      },
+      {
+        "id": "o3",
+        "ru": "Бром",
+        "en": "Bromine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_w_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом W?",
+        "explanation": "Атомный номер этого элемента — 74: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol W?",
+        "explanation": "Its atomic number is 74, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вольфрам",
+        "en": "Tungsten"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranium"
+      },
+      {
+        "id": "o2",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o3",
+        "ru": "Германий",
+        "en": "Germanium"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
+  },
+  {
+    "id": "chemistry_catalog_element_u_0001",
+    "categoryId": "chemistry",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой химический элемент обозначается символом U?",
+        "explanation": "Атомный номер этого элемента — 92: столько протонов в ядре его атома."
+      },
+      "en": {
+        "question": "Which chemical element has the symbol U?",
+        "explanation": "Its atomic number is 92, the number of protons in its atomic nucleus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranium"
+      },
+      {
+        "id": "o1",
+        "ru": "Барий",
+        "en": "Barium"
+      },
+      {
+        "id": "o2",
+        "ru": "Хром",
+        "en": "Chromium"
+      },
+      {
+        "id": "o3",
+        "ru": "Марганец",
+        "en": "Manganese"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://iupac.qmul.ac.uk/AtWt/"
+    ],
+    "image": null
   }
 ]

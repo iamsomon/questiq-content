@@ -878,5 +878,2645 @@
       "https://science.nasa.gov/solar-system/planets/"
     ],
     "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_phobos_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Фобос?",
+        "explanation": "Средний радиус этого спутника составляет примерно 11 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Phobos orbit?",
+        "explanation": "This moon has a mean radius of approximately 11 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o1",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_deimos_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Деймос?",
+        "explanation": "Средний радиус этого спутника составляет примерно 6 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Deimos orbit?",
+        "explanation": "This moon has a mean radius of approximately 6 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_io_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Ио?",
+        "explanation": "Средний радиус этого спутника составляет примерно 1821 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Io orbit?",
+        "explanation": "This moon has a mean radius of approximately 1821 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o2",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_europa_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Европа?",
+        "explanation": "Средний радиус этого спутника составляет примерно 1561 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Europa orbit?",
+        "explanation": "This moon has a mean radius of approximately 1561 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_ganymede_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Ганимед?",
+        "explanation": "Средний радиус этого спутника составляет примерно 2631 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Ganymede orbit?",
+        "explanation": "This moon has a mean radius of approximately 2631 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o3",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_callisto_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Каллисто?",
+        "explanation": "Средний радиус этого спутника составляет примерно 2410 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Callisto orbit?",
+        "explanation": "This moon has a mean radius of approximately 2410 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_amalthea_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Амальтея?",
+        "explanation": "Средний радиус этого спутника составляет примерно 84 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Amalthea orbit?",
+        "explanation": "This moon has a mean radius of approximately 84 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_thebe_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Фива?",
+        "explanation": "Средний радиус этого спутника составляет примерно 49 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Thebe orbit?",
+        "explanation": "This moon has a mean radius of approximately 49 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_adrastea_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Адрастея?",
+        "explanation": "Средний радиус этого спутника составляет примерно 8 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Adrastea orbit?",
+        "explanation": "This moon has a mean radius of approximately 8 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_metis_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Метида?",
+        "explanation": "Средний радиус этого спутника составляет примерно 22 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Metis orbit?",
+        "explanation": "This moon has a mean radius of approximately 22 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_mimas_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Мимас?",
+        "explanation": "Средний радиус этого спутника составляет примерно 198 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Mimas orbit?",
+        "explanation": "This moon has a mean radius of approximately 198 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_enceladus_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Энцелад?",
+        "explanation": "Средний радиус этого спутника составляет примерно 252 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Enceladus orbit?",
+        "explanation": "This moon has a mean radius of approximately 252 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_tethys_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Тефия?",
+        "explanation": "Средний радиус этого спутника составляет примерно 531 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Tethys orbit?",
+        "explanation": "This moon has a mean radius of approximately 531 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_dione_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Диона?",
+        "explanation": "Средний радиус этого спутника составляет примерно 561 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Dione orbit?",
+        "explanation": "This moon has a mean radius of approximately 561 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Марс",
+        "en": "Mars"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_rhea_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Рея?",
+        "explanation": "Средний радиус этого спутника составляет примерно 764 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Rhea orbit?",
+        "explanation": "This moon has a mean radius of approximately 764 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_titan_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Титан?",
+        "explanation": "Средний радиус этого спутника составляет примерно 2575 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Titan orbit?",
+        "explanation": "This moon has a mean radius of approximately 2575 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_hyperion_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Гиперион?",
+        "explanation": "Средний радиус этого спутника составляет примерно 135 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Hyperion orbit?",
+        "explanation": "This moon has a mean radius of approximately 135 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o2",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_iapetus_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Япет?",
+        "explanation": "Средний радиус этого спутника составляет примерно 734 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Iapetus orbit?",
+        "explanation": "This moon has a mean radius of approximately 734 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_ariel_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Ариэль?",
+        "explanation": "Средний радиус этого спутника составляет примерно 579 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Ariel orbit?",
+        "explanation": "This moon has a mean radius of approximately 579 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o1",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o2",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_umbriel_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Умбриэль?",
+        "explanation": "Средний радиус этого спутника составляет примерно 585 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Umbriel orbit?",
+        "explanation": "This moon has a mean radius of approximately 585 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_titania_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Титания?",
+        "explanation": "Средний радиус этого спутника составляет примерно 789 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Titania orbit?",
+        "explanation": "This moon has a mean radius of approximately 789 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o1",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_oberon_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Оберон?",
+        "explanation": "Средний радиус этого спутника составляет примерно 761 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Oberon orbit?",
+        "explanation": "This moon has a mean radius of approximately 761 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o1",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_miranda_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Миранда?",
+        "explanation": "Средний радиус этого спутника составляет примерно 236 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Miranda orbit?",
+        "explanation": "This moon has a mean radius of approximately 236 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_triton_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Тритон?",
+        "explanation": "Средний радиус этого спутника составляет примерно 1353 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Triton orbit?",
+        "explanation": "This moon has a mean radius of approximately 1353 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Плутон",
+        "en": "Pluto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_nereid_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Нереида?",
+        "explanation": "Средний радиус этого спутника составляет примерно 170 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Nereid orbit?",
+        "explanation": "This moon has a mean radius of approximately 170 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_naiad_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Наяда?",
+        "explanation": "Средний радиус этого спутника составляет примерно 29 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Naiad orbit?",
+        "explanation": "This moon has a mean radius of approximately 29 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o3",
+        "ru": "Марс",
+        "en": "Mars"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_galatea_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Галатея?",
+        "explanation": "Средний радиус этого спутника составляет примерно 79 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Galatea orbit?",
+        "explanation": "This moon has a mean radius of approximately 79 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o1",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_proteus_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Протей?",
+        "explanation": "Средний радиус этого спутника составляет примерно 208 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Proteus orbit?",
+        "explanation": "This moon has a mean radius of approximately 208 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o3",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_charon_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Харон?",
+        "explanation": "Средний радиус этого спутника составляет примерно 606 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Charon orbit?",
+        "explanation": "This moon has a mean radius of approximately 606 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o1",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_moon_hydra_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Вокруг какого небесного тела обращается спутник Гидра?",
+        "explanation": "Средний радиус этого спутника составляет примерно 18 км."
+      },
+      "en": {
+        "question": "Which celestial body does the moon Hydra orbit?",
+        "explanation": "This moon has a mean radius of approximately 18 km."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плутон",
+        "en": "Pluto"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o3",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://ssd.jpl.nasa.gov/sats/phys_par/"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_and_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение And?",
+        "explanation": "Его латинское название в родительном падеже — Andromedae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation And?",
+        "explanation": "Its Latin genitive is Andromedae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      },
+      {
+        "id": "o1",
+        "ru": "Кассиопея",
+        "en": "Cassiopeia"
+      },
+      {
+        "id": "o2",
+        "ru": "Персей",
+        "en": "Perseus"
+      },
+      {
+        "id": "o3",
+        "ru": "Близнецы",
+        "en": "Gemini"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_aqr_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Aqr?",
+        "explanation": "Его латинское название в родительном падеже — Aquarii; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Aqr?",
+        "explanation": "Its Latin genitive is Aquarii; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Водолей",
+        "en": "Aquarius"
+      },
+      {
+        "id": "o1",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      },
+      {
+        "id": "o2",
+        "ru": "Большая Медведица",
+        "en": "Ursa Major"
+      },
+      {
+        "id": "o3",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_aql_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Aql?",
+        "explanation": "Его латинское название в родительном падеже — Aquilae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Aql?",
+        "explanation": "Its Latin genitive is Aquilae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Орёл",
+        "en": "Aquila"
+      },
+      {
+        "id": "o1",
+        "ru": "Южный Крест",
+        "en": "Crux"
+      },
+      {
+        "id": "o2",
+        "ru": "Кассиопея",
+        "en": "Cassiopeia"
+      },
+      {
+        "id": "o3",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_ari_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Ari?",
+        "explanation": "Его латинское название в родительном падеже — Arietis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Ari?",
+        "explanation": "Its Latin genitive is Arietis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Овен",
+        "en": "Aries"
+      },
+      {
+        "id": "o1",
+        "ru": "Орёл",
+        "en": "Aquila"
+      },
+      {
+        "id": "o2",
+        "ru": "Возничий",
+        "en": "Auriga"
+      },
+      {
+        "id": "o3",
+        "ru": "Южный Крест",
+        "en": "Crux"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_aur_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Aur?",
+        "explanation": "Его латинское название в родительном падеже — Aurigae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Aur?",
+        "explanation": "Its Latin genitive is Aurigae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Возничий",
+        "en": "Auriga"
+      },
+      {
+        "id": "o1",
+        "ru": "Рак",
+        "en": "Cancer"
+      },
+      {
+        "id": "o2",
+        "ru": "Кассиопея",
+        "en": "Cassiopeia"
+      },
+      {
+        "id": "o3",
+        "ru": "Геркулес",
+        "en": "Hercules"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_boo_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Boo?",
+        "explanation": "Его латинское название в родительном падеже — Boötis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Boo?",
+        "explanation": "Its Latin genitive is Boötis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Волопас",
+        "en": "Boötes"
+      },
+      {
+        "id": "o1",
+        "ru": "Орёл",
+        "en": "Aquila"
+      },
+      {
+        "id": "o2",
+        "ru": "Овен",
+        "en": "Aries"
+      },
+      {
+        "id": "o3",
+        "ru": "Персей",
+        "en": "Perseus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cnc_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cnc?",
+        "explanation": "Его латинское название в родительном падеже — Cancri; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cnc?",
+        "explanation": "Its Latin genitive is Cancri; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рак",
+        "en": "Cancer"
+      },
+      {
+        "id": "o1",
+        "ru": "Весы",
+        "en": "Libra"
+      },
+      {
+        "id": "o2",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      },
+      {
+        "id": "o3",
+        "ru": "Геркулес",
+        "en": "Hercules"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cma_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение CMa?",
+        "explanation": "Его латинское название в родительном падеже — Canis Majoris; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation CMa?",
+        "explanation": "Its Latin genitive is Canis Majoris; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Большой Пёс",
+        "en": "Canis Major"
+      },
+      {
+        "id": "o1",
+        "ru": "Кит",
+        "en": "Cetus"
+      },
+      {
+        "id": "o2",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      },
+      {
+        "id": "o3",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cmi_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение CMi?",
+        "explanation": "Его латинское название в родительном падеже — Canis Minoris; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation CMi?",
+        "explanation": "Its Latin genitive is Canis Minoris; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малый Пёс",
+        "en": "Canis Minor"
+      },
+      {
+        "id": "o1",
+        "ru": "Геркулес",
+        "en": "Hercules"
+      },
+      {
+        "id": "o2",
+        "ru": "Малая Медведица",
+        "en": "Ursa Minor"
+      },
+      {
+        "id": "o3",
+        "ru": "Лев",
+        "en": "Leo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cap_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cap?",
+        "explanation": "Его латинское название в родительном падеже — Capricorni; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cap?",
+        "explanation": "Its Latin genitive is Capricorni; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      },
+      {
+        "id": "o1",
+        "ru": "Дельфин",
+        "en": "Delphinus"
+      },
+      {
+        "id": "o2",
+        "ru": "Лев",
+        "en": "Leo"
+      },
+      {
+        "id": "o3",
+        "ru": "Весы",
+        "en": "Libra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cas_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cas?",
+        "explanation": "Его латинское название в родительном падеже — Cassiopeiae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cas?",
+        "explanation": "Its Latin genitive is Cassiopeiae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кассиопея",
+        "en": "Cassiopeia"
+      },
+      {
+        "id": "o1",
+        "ru": "Овен",
+        "en": "Aries"
+      },
+      {
+        "id": "o2",
+        "ru": "Большая Медведица",
+        "en": "Ursa Major"
+      },
+      {
+        "id": "o3",
+        "ru": "Малая Медведица",
+        "en": "Ursa Minor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cep_0001",
+    "categoryId": "astronomy",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cep?",
+        "explanation": "Его латинское название в родительном падеже — Cephei; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cep?",
+        "explanation": "Its Latin genitive is Cephei; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      },
+      {
+        "id": "o1",
+        "ru": "Весы",
+        "en": "Libra"
+      },
+      {
+        "id": "o2",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      },
+      {
+        "id": "o3",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cet_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cet?",
+        "explanation": "Его латинское название в родительном падеже — Ceti; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cet?",
+        "explanation": "Its Latin genitive is Ceti; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кит",
+        "en": "Cetus"
+      },
+      {
+        "id": "o1",
+        "ru": "Орёл",
+        "en": "Aquila"
+      },
+      {
+        "id": "o2",
+        "ru": "Рак",
+        "en": "Cancer"
+      },
+      {
+        "id": "o3",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cru_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cru?",
+        "explanation": "Его латинское название в родительном падеже — Crucis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cru?",
+        "explanation": "Its Latin genitive is Crucis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южный Крест",
+        "en": "Crux"
+      },
+      {
+        "id": "o1",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      },
+      {
+        "id": "o2",
+        "ru": "Кит",
+        "en": "Cetus"
+      },
+      {
+        "id": "o3",
+        "ru": "Весы",
+        "en": "Libra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_cyg_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Cyg?",
+        "explanation": "Его латинское название в родительном падеже — Cygni; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Cyg?",
+        "explanation": "Its Latin genitive is Cygni; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      },
+      {
+        "id": "o1",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      },
+      {
+        "id": "o2",
+        "ru": "Овен",
+        "en": "Aries"
+      },
+      {
+        "id": "o3",
+        "ru": "Волопас",
+        "en": "Boötes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_del_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Del?",
+        "explanation": "Его латинское название в родительном падеже — Delphini; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Del?",
+        "explanation": "Its Latin genitive is Delphini; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дельфин",
+        "en": "Delphinus"
+      },
+      {
+        "id": "o1",
+        "ru": "Орёл",
+        "en": "Aquila"
+      },
+      {
+        "id": "o2",
+        "ru": "Малый Пёс",
+        "en": "Canis Minor"
+      },
+      {
+        "id": "o3",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_dra_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Dra?",
+        "explanation": "Его латинское название в родительном падеже — Draconis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Dra?",
+        "explanation": "Its Latin genitive is Draconis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дракон",
+        "en": "Draco"
+      },
+      {
+        "id": "o1",
+        "ru": "Лира",
+        "en": "Lyra"
+      },
+      {
+        "id": "o2",
+        "ru": "Змееносец",
+        "en": "Ophiuchus"
+      },
+      {
+        "id": "o3",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_gem_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Gem?",
+        "explanation": "Его латинское название в родительном падеже — Geminorum; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Gem?",
+        "explanation": "Its Latin genitive is Geminorum; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Близнецы",
+        "en": "Gemini"
+      },
+      {
+        "id": "o1",
+        "ru": "Лев",
+        "en": "Leo"
+      },
+      {
+        "id": "o2",
+        "ru": "Персей",
+        "en": "Perseus"
+      },
+      {
+        "id": "o3",
+        "ru": "Лира",
+        "en": "Lyra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_her_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Her?",
+        "explanation": "Его латинское название в родительном падеже — Herculis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Her?",
+        "explanation": "Its Latin genitive is Herculis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Геркулес",
+        "en": "Hercules"
+      },
+      {
+        "id": "o1",
+        "ru": "Большой Пёс",
+        "en": "Canis Major"
+      },
+      {
+        "id": "o2",
+        "ru": "Близнецы",
+        "en": "Gemini"
+      },
+      {
+        "id": "o3",
+        "ru": "Змееносец",
+        "en": "Ophiuchus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_leo_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Leo?",
+        "explanation": "Его латинское название в родительном падеже — Leonis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Leo?",
+        "explanation": "Its Latin genitive is Leonis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лев",
+        "en": "Leo"
+      },
+      {
+        "id": "o1",
+        "ru": "Стрелец",
+        "en": "Sagittarius"
+      },
+      {
+        "id": "o2",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      },
+      {
+        "id": "o3",
+        "ru": "Дракон",
+        "en": "Draco"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_lib_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Lib?",
+        "explanation": "Его латинское название в родительном падеже — Librae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Lib?",
+        "explanation": "Its Latin genitive is Librae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Весы",
+        "en": "Libra"
+      },
+      {
+        "id": "o1",
+        "ru": "Малый Пёс",
+        "en": "Canis Minor"
+      },
+      {
+        "id": "o2",
+        "ru": "Малая Медведица",
+        "en": "Ursa Minor"
+      },
+      {
+        "id": "o3",
+        "ru": "Волопас",
+        "en": "Boötes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_lyr_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Lyr?",
+        "explanation": "Его латинское название в родительном падеже — Lyrae; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Lyr?",
+        "explanation": "Its Latin genitive is Lyrae; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лира",
+        "en": "Lyra"
+      },
+      {
+        "id": "o1",
+        "ru": "Орион",
+        "en": "Orion"
+      },
+      {
+        "id": "o2",
+        "ru": "Дельфин",
+        "en": "Delphinus"
+      },
+      {
+        "id": "o3",
+        "ru": "Кит",
+        "en": "Cetus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_oph_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Oph?",
+        "explanation": "Его латинское название в родительном падеже — Ophiuchi; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Oph?",
+        "explanation": "Its Latin genitive is Ophiuchi; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Змееносец",
+        "en": "Ophiuchus"
+      },
+      {
+        "id": "o1",
+        "ru": "Дракон",
+        "en": "Draco"
+      },
+      {
+        "id": "o2",
+        "ru": "Малый Пёс",
+        "en": "Canis Minor"
+      },
+      {
+        "id": "o3",
+        "ru": "Большой Пёс",
+        "en": "Canis Major"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_ori_0001",
+    "categoryId": "astronomy",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Ori?",
+        "explanation": "Его латинское название в родительном падеже — Orionis; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Ori?",
+        "explanation": "Its Latin genitive is Orionis; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Орион",
+        "en": "Orion"
+      },
+      {
+        "id": "o1",
+        "ru": "Водолей",
+        "en": "Aquarius"
+      },
+      {
+        "id": "o2",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыбы",
+        "en": "Pisces"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_peg_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Peg?",
+        "explanation": "Его латинское название в родительном падеже — Pegasi; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Peg?",
+        "explanation": "Its Latin genitive is Pegasi; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пегас",
+        "en": "Pegasus"
+      },
+      {
+        "id": "o1",
+        "ru": "Волопас",
+        "en": "Boötes"
+      },
+      {
+        "id": "o2",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      },
+      {
+        "id": "o3",
+        "ru": "Водолей",
+        "en": "Aquarius"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_per_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Per?",
+        "explanation": "Его латинское название в родительном падеже — Persei; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Per?",
+        "explanation": "Its Latin genitive is Persei; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Персей",
+        "en": "Perseus"
+      },
+      {
+        "id": "o1",
+        "ru": "Орион",
+        "en": "Orion"
+      },
+      {
+        "id": "o2",
+        "ru": "Лебедь",
+        "en": "Cygnus"
+      },
+      {
+        "id": "o3",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_psc_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Psc?",
+        "explanation": "Его латинское название в родительном падеже — Piscium; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Psc?",
+        "explanation": "Its Latin genitive is Piscium; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рыбы",
+        "en": "Pisces"
+      },
+      {
+        "id": "o1",
+        "ru": "Малая Медведица",
+        "en": "Ursa Minor"
+      },
+      {
+        "id": "o2",
+        "ru": "Дракон",
+        "en": "Draco"
+      },
+      {
+        "id": "o3",
+        "ru": "Андромеда",
+        "en": "Andromeda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_sgr_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение Sgr?",
+        "explanation": "Его латинское название в родительном падеже — Sagittarii; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation Sgr?",
+        "explanation": "Its Latin genitive is Sagittarii; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрелец",
+        "en": "Sagittarius"
+      },
+      {
+        "id": "o1",
+        "ru": "Цефей",
+        "en": "Cepheus"
+      },
+      {
+        "id": "o2",
+        "ru": "Кит",
+        "en": "Cetus"
+      },
+      {
+        "id": "o3",
+        "ru": "Лев",
+        "en": "Leo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_uma_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение UMa?",
+        "explanation": "Его латинское название в родительном падеже — Ursae Majoris; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation UMa?",
+        "explanation": "Its Latin genitive is Ursae Majoris; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Большая Медведица",
+        "en": "Ursa Major"
+      },
+      {
+        "id": "o1",
+        "ru": "Персей",
+        "en": "Perseus"
+      },
+      {
+        "id": "o2",
+        "ru": "Близнецы",
+        "en": "Gemini"
+      },
+      {
+        "id": "o3",
+        "ru": "Волопас",
+        "en": "Boötes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
+  },
+  {
+    "id": "astronomy_catalog_iau_umi_0001",
+    "categoryId": "astronomy",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому созвездию соответствует официальное сокращение UMi?",
+        "explanation": "Его латинское название в родительном падеже — Ursae Minoris; эта форма используется в обозначениях звёзд."
+      },
+      "en": {
+        "question": "Which constellation has the official abbreviation UMi?",
+        "explanation": "Its Latin genitive is Ursae Minoris; this form is used in star designations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малая Медведица",
+        "en": "Ursa Minor"
+      },
+      {
+        "id": "o1",
+        "ru": "Малый Пёс",
+        "en": "Canis Minor"
+      },
+      {
+        "id": "o2",
+        "ru": "Южный Крест",
+        "en": "Crux"
+      },
+      {
+        "id": "o3",
+        "ru": "Козерог",
+        "en": "Capricornus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    ],
+    "image": null
   }
 ]

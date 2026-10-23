@@ -438,5 +438,3965 @@
       "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
     ],
     "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1513_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Ромео и Джульетта»?",
+        "explanation": "Годы жизни автора: 1564–1616."
+      },
+      "en": {
+        "question": "Who wrote Romeo and Juliet?",
+        "explanation": "The author lived from 1564 to 1616."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уильям Шекспир",
+        "en": "William Shakespeare"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o2",
+        "ru": "Джордж Элиот",
+        "en": "George Eliot"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1513"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_345_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Дракула»?",
+        "explanation": "Годы жизни автора: 1847–1912."
+      },
+      "en": {
+        "question": "Who wrote Dracula?",
+        "explanation": "The author lived from 1847 to 1912."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Брэм Стокер",
+        "en": "Bram Stoker"
+      },
+      {
+        "id": "o1",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      },
+      {
+        "id": "o2",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Морган Форстер",
+        "en": "E. M. Forster"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/345"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_43_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Странная история доктора Джекила и мистера Хайда»?",
+        "explanation": "Годы жизни автора: 1850–1894."
+      },
+      "en": {
+        "question": "Who wrote The strange case of Dr. Jekyll and Mr. Hyde?",
+        "explanation": "The author lived from 1850 to 1894."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      },
+      {
+        "id": "o1",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o3",
+        "ru": "Уолт Уитмен",
+        "en": "Walt Whitman"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/43"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2641_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Комната с видом»?",
+        "explanation": "Годы жизни автора: 1879–1970."
+      },
+      "en": {
+        "question": "Who wrote A Room with a View?",
+        "explanation": "The author lived from 1879 to 1970."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдвард Морган Форстер",
+        "en": "E. M. Forster"
+      },
+      {
+        "id": "o1",
+        "ru": "Мигель де Сервантес",
+        "en": "Miguel de Cervantes Saavedra"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o3",
+        "ru": "Натаниэль Готорн",
+        "en": "Nathaniel Hawthorne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2641"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_145_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Миддлмарч»?",
+        "explanation": "Годы жизни автора: 1819–1880."
+      },
+      "en": {
+        "question": "Who wrote Middlemarch?",
+        "explanation": "The author lived from 1819 to 1880."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джордж Элиот",
+        "en": "George Eliot"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o2",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o3",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/145"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_67979_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Голубой замок»?",
+        "explanation": "Годы жизни автора: 1874–1942."
+      },
+      "en": {
+        "question": "Who wrote The Blue Castle: a novel?",
+        "explanation": "The author lived from 1874 to 1942."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Люси Мод Монтгомери",
+        "en": "L. M. Montgomery"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o2",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      },
+      {
+        "id": "o3",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/67979"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2554_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Преступление и наказание»?",
+        "explanation": "Годы жизни автора: 1821–1881."
+      },
+      "en": {
+        "question": "Who wrote Crime and Punishment?",
+        "explanation": "The author lived from 1821 to 1881."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Гарриет Джекобс",
+        "en": "Harriet A. Jacobs"
+      },
+      {
+        "id": "o2",
+        "ru": "Джозеф Конрад",
+        "en": "Joseph Conrad"
+      },
+      {
+        "id": "o3",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2554"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1260_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Джейн Эйр»?",
+        "explanation": "Годы жизни автора: 1816–1855."
+      },
+      "en": {
+        "question": "Who wrote Jane Eyre: An Autobiography?",
+        "explanation": "The author lived from 1816 to 1855."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      },
+      {
+        "id": "o2",
+        "ru": "Брэм Стокер",
+        "en": "Bram Stoker"
+      },
+      {
+        "id": "o3",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1260"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_37106_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Маленькие женщины»?",
+        "explanation": "Годы жизни автора: 1832–1888."
+      },
+      "en": {
+        "question": "Who wrote Little Women?",
+        "explanation": "The author lived from 1832 to 1888."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луиза Мэй Олкотт",
+        "en": "Louisa May Alcott"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o2",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/37106"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_174_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Портрет Дориана Грея»?",
+        "explanation": "Годы жизни автора: 1854–1900."
+      },
+      "en": {
+        "question": "Who wrote The Picture of Dorian Gray?",
+        "explanation": "The author lived from 1854 to 1900."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оскар Уайльд",
+        "en": "Oscar Wilde"
+      },
+      {
+        "id": "o1",
+        "ru": "Уолт Уитмен",
+        "en": "Walt Whitman"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      },
+      {
+        "id": "o3",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/174"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_98_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Повесть о двух городах»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote A Tale of Two Cities?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      },
+      {
+        "id": "o3",
+        "ru": "Гарриет Джекобс",
+        "en": "Harriet A. Jacobs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/98"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_64317_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Великий Гэтсби»?",
+        "explanation": "Годы жизни автора: 1896–1940."
+      },
+      "en": {
+        "question": "Who wrote The Great Gatsby?",
+        "explanation": "The author lived from 1896 to 1940."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o1",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o2",
+        "ru": "Уолт Уитмен",
+        "en": "Walt Whitman"
+      },
+      {
+        "id": "o3",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/64317"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_65238_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Тайна замка Чимниз»?",
+        "explanation": "Годы жизни автора: 1890–1976."
+      },
+      "en": {
+        "question": "Who wrote The Secret of Chimneys?",
+        "explanation": "The author lived from 1890 to 1976."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Агата Кристи",
+        "en": "Agatha Christie"
+      },
+      {
+        "id": "o1",
+        "ru": "Луиза Мэй Олкотт",
+        "en": "Louisa May Alcott"
+      },
+      {
+        "id": "o2",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o3",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/65238"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_3023_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Фауст»?",
+        "explanation": "Годы жизни автора: 1749–1832."
+      },
+      "en": {
+        "question": "Who wrote Faust — Part 1?",
+        "explanation": "The author lived from 1749 to 1832."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o1",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o2",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o3",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/3023"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_5200_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Превращение»?",
+        "explanation": "Годы жизни автора: 1883–1924."
+      },
+      "en": {
+        "question": "Who wrote Metamorphosis?",
+        "explanation": "The author lived from 1883 to 1924."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      },
+      {
+        "id": "o1",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      },
+      {
+        "id": "o2",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      },
+      {
+        "id": "o3",
+        "ru": "Мигель де Сервантес",
+        "en": "Miguel de Cervantes Saavedra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/5200"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_16389_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Очарованный апрель»?",
+        "explanation": "Годы жизни автора: 1866–1941."
+      },
+      "en": {
+        "question": "Who wrote The Enchanted April?",
+        "explanation": "The author lived from 1866 to 1941."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      },
+      {
+        "id": "o1",
+        "ru": "Натаниэль Готорн",
+        "en": "Nathaniel Hawthorne"
+      },
+      {
+        "id": "o2",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/16389"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1952_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Жёлтые обои»?",
+        "explanation": "Годы жизни автора: 1860–1935."
+      },
+      "en": {
+        "question": "Who wrote The Yellow Wallpaper?",
+        "explanation": "The author lived from 1860 to 1935."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o1",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      },
+      {
+        "id": "o2",
+        "ru": "Чарльз Дарвин",
+        "en": "Charles Darwin"
+      },
+      {
+        "id": "o3",
+        "ru": "Гастон Леру",
+        "en": "Gaston Leroux"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1952"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1232_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Государь»?",
+        "explanation": "Годы жизни автора: 1469–1527."
+      },
+      "en": {
+        "question": "Who wrote The Prince?",
+        "explanation": "The author lived from 1469 to 1527."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Никколо Макиавелли",
+        "en": "Niccolò Machiavelli"
+      },
+      {
+        "id": "o1",
+        "ru": "Томас Мэлори",
+        "en": "Thomas Malory"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o3",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1232"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2600_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Война и мир»?",
+        "explanation": "Годы жизни автора: 1828–1910."
+      },
+      "en": {
+        "question": "Who wrote War and Peace?",
+        "explanation": "The author lived from 1828 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лев Толстой",
+        "en": "Leo Tolstoy"
+      },
+      {
+        "id": "o1",
+        "ru": "Эмили Бронте",
+        "en": "Emily Brontë"
+      },
+      {
+        "id": "o2",
+        "ru": "Мигель де Сервантес",
+        "en": "Miguel de Cervantes Saavedra"
+      },
+      {
+        "id": "o3",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2600"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_730_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Оливер Твист»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote Oliver Twist?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Джордж Элиот",
+        "en": "George Eliot"
+      },
+      {
+        "id": "o2",
+        "ru": "Оскар Уайльд",
+        "en": "Oscar Wilde"
+      },
+      {
+        "id": "o3",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/730"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_236_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Книга джунглей»?",
+        "explanation": "Годы жизни автора: 1865–1936."
+      },
+      "en": {
+        "question": "Who wrote The Jungle Book?",
+        "explanation": "The author lived from 1865 to 1936."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      },
+      {
+        "id": "o1",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o2",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o3",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/236"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_105_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Доводы рассудка»?",
+        "explanation": "Годы жизни автора: 1775–1817."
+      },
+      "en": {
+        "question": "Who wrote Persuasion?",
+        "explanation": "The author lived from 1775 to 1817."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o1",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o3",
+        "ru": "Никколо Макиавелли",
+        "en": "Niccolò Machiavelli"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/105"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_600_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Записки из подполья»?",
+        "explanation": "Годы жизни автора: 1821–1881."
+      },
+      "en": {
+        "question": "Who wrote Notes from the Underground?",
+        "explanation": "The author lived from 1821 to 1881."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Гарриет Джекобс",
+        "en": "Harriet A. Jacobs"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Морган Форстер",
+        "en": "E. M. Forster"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/600"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_245_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Жизнь на Миссисипи»?",
+        "explanation": "Годы жизни автора: 1835–1910."
+      },
+      "en": {
+        "question": "Who wrote Life on the Mississippi?",
+        "explanation": "The author lived from 1835 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o1",
+        "ru": "Томас Пейн",
+        "en": "Thomas Paine"
+      },
+      {
+        "id": "o2",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/245"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_113_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Таинственный сад»?",
+        "explanation": "Годы жизни автора: 1849–1924."
+      },
+      "en": {
+        "question": "Who wrote The Secret Garden?",
+        "explanation": "The author lived from 1849 to 1924."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      },
+      {
+        "id": "o1",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/113"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_3600_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Опыты»?",
+        "explanation": "Годы жизни автора: 1533–1592."
+      },
+      "en": {
+        "question": "Who wrote Essais?",
+        "explanation": "The author lived from 1533 to 1592."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      },
+      {
+        "id": "o1",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o2",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o3",
+        "ru": "Люси Мод Монтгомери",
+        "en": "L. M. Montgomery"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/3600"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1023_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Холодный дом»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote Bleak House?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Люси Мод Монтгомери",
+        "en": "L. M. Montgomery"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o3",
+        "ru": "Беатрис Поттер",
+        "en": "Beatrix Potter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1023"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_147_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Здравый смысл»?",
+        "explanation": "Годы жизни автора: 1737–1809."
+      },
+      "en": {
+        "question": "Who wrote Common Sense?",
+        "explanation": "The author lived from 1737 to 1809."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Томас Пейн",
+        "en": "Thomas Paine"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольтер",
+        "en": "Voltaire"
+      },
+      {
+        "id": "o2",
+        "ru": "Иммануил Кант",
+        "en": "Immanuel Kant"
+      },
+      {
+        "id": "o3",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/147"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_521_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Робинзон Крузо»?",
+        "explanation": "Роман рассказывает о выживании после кораблекрушения."
+      },
+      "en": {
+        "question": "Who wrote The Life and Adventures of Robinson Crusoe?",
+        "explanation": "The novel follows survival after a shipwreck."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o1",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      },
+      {
+        "id": "o2",
+        "ru": "Бенедикт Спиноза",
+        "en": "Benedictus de Spinoza"
+      },
+      {
+        "id": "o3",
+        "ru": "Томас Пейн",
+        "en": "Thomas Paine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/521"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_26_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Потерянный рай»?",
+        "explanation": "Годы жизни автора: 1608–1674."
+      },
+      "en": {
+        "question": "Who wrote Paradise Lost?",
+        "explanation": "The author lived from 1608 to 1674."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джон Мильтон",
+        "en": "John Milton"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдвард Гиббон",
+        "en": "Edward Gibbon"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o3",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/26"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_164_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Двадцать тысяч лье под водой»?",
+        "explanation": "Годы жизни автора: 1828–1905."
+      },
+      "en": {
+        "question": "Who wrote Twenty Thousand Leagues under the Sea?",
+        "explanation": "The author lived from 1828 to 1905."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жюль Верн",
+        "en": "Jules Verne"
+      },
+      {
+        "id": "o1",
+        "ru": "Гарриет Джекобс",
+        "en": "Harriet A. Jacobs"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/164"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_103_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Вокруг света за восемьдесят дней»?",
+        "explanation": "Годы жизни автора: 1828–1905."
+      },
+      "en": {
+        "question": "Who wrote Around the World in Eighty Days?",
+        "explanation": "The author lived from 1828 to 1905."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жюль Верн",
+        "en": "Jules Verne"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      },
+      {
+        "id": "o2",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Гиббон",
+        "en": "Edward Gibbon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/103"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_19942_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Кандид»?",
+        "explanation": "Годы жизни автора: 1694–1778."
+      },
+      "en": {
+        "question": "Who wrote Candide?",
+        "explanation": "The author lived from 1694 to 1778."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вольтер",
+        "en": "Voltaire"
+      },
+      {
+        "id": "o1",
+        "ru": "Шарлотта Бронте",
+        "en": "Charlotte Brontë"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдвард Гиббон",
+        "en": "Edward Gibbon"
+      },
+      {
+        "id": "o3",
+        "ru": "Уильям Шекспир",
+        "en": "William Shakespeare"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/19942"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_5827_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Проблемы философии»?",
+        "explanation": "Годы жизни автора: 1872–1970."
+      },
+      "en": {
+        "question": "Who wrote The Problems of Philosophy?",
+        "explanation": "The author lived from 1872 to 1970."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бертран Рассел",
+        "en": "Bertrand Russell"
+      },
+      {
+        "id": "o1",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      },
+      {
+        "id": "o2",
+        "ru": "Натаниэль Готорн",
+        "en": "Nathaniel Hawthorne"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/5827"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1322_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Листья травы»?",
+        "explanation": "Годы жизни автора: 1819–1892."
+      },
+      "en": {
+        "question": "Who wrote Leaves of Grass?",
+        "explanation": "The author lived from 1819 to 1892."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уолт Уитмен",
+        "en": "Walt Whitman"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o3",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1322"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_58585_0001",
+    "categoryId": "literature",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Пророк»?",
+        "explanation": "Годы жизни автора: 1883–1931."
+      },
+      "en": {
+        "question": "Who wrote The Prophet?",
+        "explanation": "The author lived from 1883 to 1931."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o1",
+        "ru": "Беатрис Поттер",
+        "en": "Beatrix Potter"
+      },
+      {
+        "id": "o2",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      },
+      {
+        "id": "o3",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/58585"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_4280_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Критика чистого разума»?",
+        "explanation": "Годы жизни автора: 1724–1804."
+      },
+      "en": {
+        "question": "Who wrote The Critique of Pure Reason?",
+        "explanation": "The author lived from 1724 to 1804."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иммануил Кант",
+        "en": "Immanuel Kant"
+      },
+      {
+        "id": "o1",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o3",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/4280"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_14838_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Сказка о кролике Питере»?",
+        "explanation": "Годы жизни автора: 1866–1943."
+      },
+      "en": {
+        "question": "Who wrote The Tale of Peter Rabbit?",
+        "explanation": "The author lived from 1866 to 1943."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Беатрис Поттер",
+        "en": "Beatrix Potter"
+      },
+      {
+        "id": "o1",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o2",
+        "ru": "Уильям Блейк",
+        "en": "William Blake"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Морган Форстер",
+        "en": "E. M. Forster"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/14838"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1524_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Гамлет»?",
+        "explanation": "Годы жизни автора: 1564–1616."
+      },
+      "en": {
+        "question": "Who wrote Hamlet?",
+        "explanation": "The author lived from 1564 to 1616."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уильям Шекспир",
+        "en": "William Shakespeare"
+      },
+      {
+        "id": "o1",
+        "ru": "Уильям Блейк",
+        "en": "William Blake"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1524"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_766_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Дэвид Копперфилд»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote David Copperfield?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o2",
+        "ru": "Джозеф Конрад",
+        "en": "Joseph Conrad"
+      },
+      {
+        "id": "o3",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/766"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_204_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Неведение отца Брауна»?",
+        "explanation": "Годы жизни автора: 1874–1936."
+      },
+      "en": {
+        "question": "Who wrote The innocence of Father Brown?",
+        "explanation": "The author lived from 1874 to 1936."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гилберт Кит Честертон",
+        "en": "G. K. Chesterton"
+      },
+      {
+        "id": "o1",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      },
+      {
+        "id": "o2",
+        "ru": "Бертран Рассел",
+        "en": "Bertrand Russell"
+      },
+      {
+        "id": "o3",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/204"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_57628_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Принципы психологии»?",
+        "explanation": "Годы жизни автора: 1842–1910."
+      },
+      "en": {
+        "question": "Who wrote The Principles of Psychology, Volume 1 (of 2)?",
+        "explanation": "The author lived from 1842 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      },
+      {
+        "id": "o1",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      },
+      {
+        "id": "o2",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      },
+      {
+        "id": "o3",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/57628"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_108_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Возвращение Шерлока Холмса»?",
+        "explanation": "Годы жизни автора: 1859–1930."
+      },
+      "en": {
+        "question": "Who wrote The Return of Sherlock Holmes?",
+        "explanation": "The author lived from 1859 to 1930."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      },
+      {
+        "id": "o1",
+        "ru": "Томас Мэлори",
+        "en": "Thomas Malory"
+      },
+      {
+        "id": "o2",
+        "ru": "Эмили Бронте",
+        "en": "Emily Brontë"
+      },
+      {
+        "id": "o3",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/108"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_52319_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «К генеалогии морали»?",
+        "explanation": "Годы жизни автора: 1844–1900."
+      },
+      "en": {
+        "question": "Who wrote The Genealogy of Morals?",
+        "explanation": "The author lived from 1844 to 1900."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o1",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o2",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o3",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/52319"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_69087_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Убийство Роджера Экройда»?",
+        "explanation": "Годы жизни автора: 1890–1976."
+      },
+      "en": {
+        "question": "Who wrote The murder of Roger Ackroyd?",
+        "explanation": "The author lived from 1890 to 1976."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Агата Кристи",
+        "en": "Agatha Christie"
+      },
+      {
+        "id": "o1",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      },
+      {
+        "id": "o2",
+        "ru": "Джон Мильтон",
+        "en": "John Milton"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/69087"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2638_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Идиот»?",
+        "explanation": "Годы жизни автора: 1821–1881."
+      },
+      "en": {
+        "question": "Who wrote The Idiot?",
+        "explanation": "The author lived from 1821 to 1881."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      },
+      {
+        "id": "o2",
+        "ru": "Лев Толстой",
+        "en": "Leo Tolstoy"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2638"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_205_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Уолден, или Жизнь в лесу»?",
+        "explanation": "Годы жизни автора: 1817–1862."
+      },
+      "en": {
+        "question": "Who wrote Walden?",
+        "explanation": "The author lived from 1817 to 1862."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      },
+      {
+        "id": "o2",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o3",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/205"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2097_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Знак четырёх»?",
+        "explanation": "Годы жизни автора: 1859–1930."
+      },
+      "en": {
+        "question": "Who wrote The Sign of the Four?",
+        "explanation": "The author lived from 1859 to 1930."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдвард Морган Форстер",
+        "en": "E. M. Forster"
+      },
+      {
+        "id": "o2",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2097"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1934_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Песни невинности и опыта»?",
+        "explanation": "Годы жизни автора: 1757–1827."
+      },
+      "en": {
+        "question": "Who wrote Songs of Innocence and of Experience?",
+        "explanation": "The author lived from 1757 to 1827."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уильям Блейк",
+        "en": "William Blake"
+      },
+      {
+        "id": "o1",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o3",
+        "ru": "Чарльз Дарвин",
+        "en": "Charles Darwin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1934"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1695_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Человек, который был Четвергом»?",
+        "explanation": "Годы жизни автора: 1874–1936."
+      },
+      "en": {
+        "question": "Who wrote The Man Who Was Thursday: A Nightmare?",
+        "explanation": "The author lived from 1874 to 1936."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гилберт Кит Честертон",
+        "en": "G. K. Chesterton"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      },
+      {
+        "id": "o2",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1695"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1251_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Смерть Артура»?",
+        "explanation": "Это произведение относится к циклу преданий о короле Артуре."
+      },
+      "en": {
+        "question": "Who wrote Le Morte d'Arthur: Volume 1?",
+        "explanation": "This work belongs to the cycle of legends about King Arthur."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Томас Мэлори",
+        "en": "Thomas Malory"
+      },
+      {
+        "id": "o1",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      },
+      {
+        "id": "o2",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1251"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_289_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Ветер в ивах»?",
+        "explanation": "Годы жизни автора: 1859–1932."
+      },
+      "en": {
+        "question": "Who wrote The Wind in the Willows?",
+        "explanation": "The author lived from 1859 to 1932."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      },
+      {
+        "id": "o1",
+        "ru": "Томас Мэлори",
+        "en": "Thomas Malory"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o3",
+        "ru": "Жюль Верн",
+        "en": "Jules Verne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/289"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_25717_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «История упадка и разрушения Римской империи»?",
+        "explanation": "Годы жизни автора: 1737–1794."
+      },
+      "en": {
+        "question": "Who wrote The History of the Decline and Fall of the Roman Empire?",
+        "explanation": "The author lived from 1737 to 1794."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдвард Гиббон",
+        "en": "Edward Gibbon"
+      },
+      {
+        "id": "o1",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      },
+      {
+        "id": "o2",
+        "ru": "Джордж Элиот",
+        "en": "George Eliot"
+      },
+      {
+        "id": "o3",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/25717"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_863_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Загадочное происшествие в Стайлзе»?",
+        "explanation": "Годы жизни автора: 1890–1976."
+      },
+      "en": {
+        "question": "Who wrote The Mysterious Affair at Styles?",
+        "explanation": "The author lived from 1890 to 1976."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Агата Кристи",
+        "en": "Agatha Christie"
+      },
+      {
+        "id": "o1",
+        "ru": "Жюль Верн",
+        "en": "Jules Verne"
+      },
+      {
+        "id": "o2",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/863"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_160_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Пробуждение»?",
+        "explanation": "Годы жизни автора: 1850–1904."
+      },
+      "en": {
+        "question": "Who wrote The Awakening, and Selected Short Stories?",
+        "explanation": "The author lived from 1850 to 1904."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o3",
+        "ru": "Уильям Блейк",
+        "en": "William Blake"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/160"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_11030_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Случаи из жизни рабыни»?",
+        "explanation": "Годы жизни автора: 1813–1897."
+      },
+      "en": {
+        "question": "Who wrote Incidents in the Life of a Slave Girl, Written by Herself?",
+        "explanation": "The author lived from 1813 to 1897."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гарриет Джекобс",
+        "en": "Harriet A. Jacobs"
+      },
+      {
+        "id": "o1",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o3",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/11030"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2527_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Страдания юного Вертера»?",
+        "explanation": "Годы жизни автора: 1749–1832."
+      },
+      "en": {
+        "question": "Who wrote The Sorrows of Young Werther?",
+        "explanation": "The author lived from 1749 to 1832."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      },
+      {
+        "id": "o2",
+        "ru": "Жюль Верн",
+        "en": "Jules Verne"
+      },
+      {
+        "id": "o3",
+        "ru": "Виктор Гюго",
+        "en": "Victor Hugo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2527"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_3800_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Этика»?",
+        "explanation": "Годы жизни автора: 1632–1677."
+      },
+      "en": {
+        "question": "Who wrote Ethics?",
+        "explanation": "The author lived from 1632 to 1677."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бенедикт Спиноза",
+        "en": "Benedictus de Spinoza"
+      },
+      {
+        "id": "o1",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o2",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o3",
+        "ru": "Гастон Леру",
+        "en": "Gaston Leroux"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/3800"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1063_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Бочонок амонтильядо»?",
+        "explanation": "Годы жизни автора: 1809–1849."
+      },
+      "en": {
+        "question": "Who wrote The Cask of Amontillado?",
+        "explanation": "The author lived from 1809 to 1849."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o1",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o2",
+        "ru": "Беатрис Поттер",
+        "en": "Beatrix Potter"
+      },
+      {
+        "id": "o3",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1063"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_219_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Сердце тьмы»?",
+        "explanation": "Годы жизни автора: 1857–1924."
+      },
+      "en": {
+        "question": "Who wrote Heart of Darkness?",
+        "explanation": "The author lived from 1857 to 1924."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джозеф Конрад",
+        "en": "Joseph Conrad"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольтер",
+        "en": "Voltaire"
+      },
+      {
+        "id": "o2",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      },
+      {
+        "id": "o3",
+        "ru": "Виктор Гюго",
+        "en": "Victor Hugo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/219"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_3300_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Исследование о природе и причинах богатства народов»?",
+        "explanation": "Годы жизни автора: 1723–1790."
+      },
+      "en": {
+        "question": "Who wrote An Inquiry into the Nature and Causes of the Wealth of Nations?",
+        "explanation": "The author lived from 1723 to 1790."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Адам Смит",
+        "en": "Adam Smith"
+      },
+      {
+        "id": "o1",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      },
+      {
+        "id": "o2",
+        "ru": "Виктор Гюго",
+        "en": "Victor Hugo"
+      },
+      {
+        "id": "o3",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/3300"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_36_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Война миров»?",
+        "explanation": "Годы жизни автора: 1866–1946."
+      },
+      "en": {
+        "question": "Who wrote The war of the worlds?",
+        "explanation": "The author lived from 1866 to 1946."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Герберт Уэллс",
+        "en": "H. G. Wells"
+      },
+      {
+        "id": "o1",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      },
+      {
+        "id": "o2",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o3",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/36"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1228_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Происхождение видов»?",
+        "explanation": "Годы жизни автора: 1809–1882."
+      },
+      "en": {
+        "question": "Who wrote On the Origin of Species By Means of Natural Selection?",
+        "explanation": "The author lived from 1809 to 1882."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Дарвин",
+        "en": "Charles Darwin"
+      },
+      {
+        "id": "o1",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o2",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1228"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_135_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Отверженные»?",
+        "explanation": "Годы жизни автора: 1802–1885."
+      },
+      "en": {
+        "question": "Who wrote Les Misérables?",
+        "explanation": "The author lived from 1802 to 1885."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виктор Гюго",
+        "en": "Victor Hugo"
+      },
+      {
+        "id": "o1",
+        "ru": "Иммануил Кант",
+        "en": "Immanuel Kant"
+      },
+      {
+        "id": "o2",
+        "ru": "Бертран Рассел",
+        "en": "Bertrand Russell"
+      },
+      {
+        "id": "o3",
+        "ru": "Никколо Макиавелли",
+        "en": "Niccolò Machiavelli"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/135"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_996_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Дон Кихот»?",
+        "explanation": "Годы жизни автора: 1547–1616."
+      },
+      "en": {
+        "question": "Who wrote Don Quixote?",
+        "explanation": "The author lived from 1547 to 1616."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мигель де Сервантес",
+        "en": "Miguel de Cervantes Saavedra"
+      },
+      {
+        "id": "o1",
+        "ru": "Гилберт Кит Честертон",
+        "en": "G. K. Chesterton"
+      },
+      {
+        "id": "o2",
+        "ru": "Джозеф Конрад",
+        "en": "Joseph Conrad"
+      },
+      {
+        "id": "o3",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/996"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1399_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Анна Каренина»?",
+        "explanation": "Годы жизни автора: 1828–1910."
+      },
+      "en": {
+        "question": "Who wrote Anna Karenina?",
+        "explanation": "The author lived from 1828 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лев Толстой",
+        "en": "Leo Tolstoy"
+      },
+      {
+        "id": "o1",
+        "ru": "Редьярд Киплинг",
+        "en": "Rudyard Kipling"
+      },
+      {
+        "id": "o2",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1399"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_829_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Путешествия Гулливера»?",
+        "explanation": "Годы жизни автора: 1667–1745."
+      },
+      "en": {
+        "question": "Who wrote Gulliver's Travels into Several Remote Nations of the World?",
+        "explanation": "The author lived from 1667 to 1745."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      },
+      {
+        "id": "o1",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o2",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/829"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_67098_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Винни-Пух»?",
+        "explanation": "Годы жизни автора: 1882–1956."
+      },
+      "en": {
+        "question": "Who wrote Winnie-the-Pooh?",
+        "explanation": "The author lived from 1882 to 1956."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o1",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      },
+      {
+        "id": "o2",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      },
+      {
+        "id": "o3",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/67098"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_215_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Зов предков»?",
+        "explanation": "Годы жизни автора: 1876–1916."
+      },
+      "en": {
+        "question": "Who wrote The call of the wild?",
+        "explanation": "The author lived from 1876 to 1916."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      },
+      {
+        "id": "o1",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      },
+      {
+        "id": "o2",
+        "ru": "Никколо Макиавелли",
+        "en": "Niccolò Machiavelli"
+      },
+      {
+        "id": "o3",
+        "ru": "Джон Мильтон",
+        "en": "John Milton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/215"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2814_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Дублинцы»?",
+        "explanation": "Годы жизни автора: 1882–1941."
+      },
+      "en": {
+        "question": "Who wrote Dubliners?",
+        "explanation": "The author lived from 1882 to 1941."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдгар Аллан По",
+        "en": "Edgar Allan Poe"
+      },
+      {
+        "id": "o2",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      },
+      {
+        "id": "o3",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2814"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_209_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Поворот винта»?",
+        "explanation": "Годы жизни автора: 1843–1916."
+      },
+      "en": {
+        "question": "Who wrote The Turn of the Screw?",
+        "explanation": "The author lived from 1843 to 1916."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o1",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o3",
+        "ru": "Иммануил Кант",
+        "en": "Immanuel Kant"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/209"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_12_0001",
+    "categoryId": "literature",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Алиса в Зазеркалье»?",
+        "explanation": "Годы жизни автора: 1832–1898."
+      },
+      "en": {
+        "question": "Who wrote Through the Looking-Glass?",
+        "explanation": "The author lived from 1832 to 1898."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o1",
+        "ru": "Гилберт Кит Честертон",
+        "en": "G. K. Chesterton"
+      },
+      {
+        "id": "o2",
+        "ru": "Натаниэль Готорн",
+        "en": "Nathaniel Hawthorne"
+      },
+      {
+        "id": "o3",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/12"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_158_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Эмма»?",
+        "explanation": "Годы жизни автора: 1775–1817."
+      },
+      "en": {
+        "question": "Who wrote Emma?",
+        "explanation": "The author lived from 1775 to 1817."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o1",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      },
+      {
+        "id": "o2",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/158"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_175_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Призрак Оперы»?",
+        "explanation": "Годы жизни автора: 1868–1927."
+      },
+      "en": {
+        "question": "Who wrote The Phantom of the Opera?",
+        "explanation": "The author lived from 1868 to 1927."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гастон Леру",
+        "en": "Gaston Leroux"
+      },
+      {
+        "id": "o1",
+        "ru": "Эмили Бронте",
+        "en": "Emily Brontë"
+      },
+      {
+        "id": "o2",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      },
+      {
+        "id": "o3",
+        "ru": "Элизабет фон Арним",
+        "en": "Elizabeth von Arnim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/175"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_45_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Энн из Зелёных Крыш»?",
+        "explanation": "Годы жизни автора: 1874–1942."
+      },
+      "en": {
+        "question": "Who wrote Anne of Green Gables?",
+        "explanation": "The author lived from 1874 to 1942."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Люси Мод Монтгомери",
+        "en": "L. M. Montgomery"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Джойс",
+        "en": "James Joyce"
+      },
+      {
+        "id": "o2",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      },
+      {
+        "id": "o3",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/45"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_161_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Разум и чувства»?",
+        "explanation": "Годы жизни автора: 1775–1817."
+      },
+      "en": {
+        "question": "Who wrote Sense and Sensibility?",
+        "explanation": "The author lived from 1775 to 1817."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      },
+      {
+        "id": "o1",
+        "ru": "Кейт Шопен",
+        "en": "Kate Chopin"
+      },
+      {
+        "id": "o2",
+        "ru": "Оскар Уайльд",
+        "en": "Oscar Wilde"
+      },
+      {
+        "id": "o3",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/161"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_768_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Грозовой перевал»?",
+        "explanation": "Годы жизни автора: 1818–1848."
+      },
+      "en": {
+        "question": "Who wrote Wuthering Heights?",
+        "explanation": "The author lived from 1818 to 1848."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эмили Бронте",
+        "en": "Emily Brontë"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o2",
+        "ru": "Гастон Леру",
+        "en": "Gaston Leroux"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Грэм",
+        "en": "Kenneth Grahame"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/768"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_33_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Алая буква»?",
+        "explanation": "Годы жизни автора: 1804–1864."
+      },
+      "en": {
+        "question": "Who wrote The Scarlet Letter?",
+        "explanation": "The author lived from 1804 to 1864."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Натаниэль Готорн",
+        "en": "Nathaniel Hawthorne"
+      },
+      {
+        "id": "o1",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o3",
+        "ru": "Франц Кафка",
+        "en": "Franz Kafka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/33"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_805_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «По эту сторону рая»?",
+        "explanation": "Годы жизни автора: 1896–1940."
+      },
+      "en": {
+        "question": "Who wrote This Side of Paradise?",
+        "explanation": "The author lived from 1896 to 1940."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o1",
+        "ru": "Мишель де Монтень",
+        "en": "Michel de Montaigne"
+      },
+      {
+        "id": "o2",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      },
+      {
+        "id": "o3",
+        "ru": "Джейн Остин",
+        "en": "Jane Austen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/805"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_120_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Остров сокровищ»?",
+        "explanation": "Годы жизни автора: 1850–1894."
+      },
+      "en": {
+        "question": "Who wrote Treasure Island?",
+        "explanation": "The author lived from 1850 to 1894."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      },
+      {
+        "id": "o1",
+        "ru": "Джек Лондон",
+        "en": "Jack London"
+      },
+      {
+        "id": "o2",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o3",
+        "ru": "Томас Пейн",
+        "en": "Thomas Paine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/120"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_35_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Машина времени»?",
+        "explanation": "Годы жизни автора: 1866–1946."
+      },
+      "en": {
+        "question": "Who wrote The Time Machine?",
+        "explanation": "The author lived from 1866 to 1946."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Герберт Уэллс",
+        "en": "H. G. Wells"
+      },
+      {
+        "id": "o1",
+        "ru": "Джебран Халиль Джебран",
+        "en": "Kahlil Gibran"
+      },
+      {
+        "id": "o2",
+        "ru": "Адам Смит",
+        "en": "Adam Smith"
+      },
+      {
+        "id": "o3",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/35"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_16_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Питер Пэн»?",
+        "explanation": "Годы жизни автора: 1860–1937."
+      },
+      "en": {
+        "question": "Who wrote Peter Pan?",
+        "explanation": "The author lived from 1860 to 1937."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джеймс Мэтью Барри",
+        "en": "J. M. Barrie"
+      },
+      {
+        "id": "o1",
+        "ru": "Луиза Мэй Олкотт",
+        "en": "Louisa May Alcott"
+      },
+      {
+        "id": "o2",
+        "ru": "Шарлотта Перкинс Гилман",
+        "en": "Charlotte Perkins Gilman"
+      },
+      {
+        "id": "o3",
+        "ru": "Уолт Уитмен",
+        "en": "Walt Whitman"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/16"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_74_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Приключения Тома Сойера»?",
+        "explanation": "Годы жизни автора: 1835–1910."
+      },
+      "en": {
+        "question": "Who wrote The Adventures of Tom Sawyer, Complete?",
+        "explanation": "The author lived from 1835 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o1",
+        "ru": "Иоганн Вольфганг Гёте",
+        "en": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "o2",
+        "ru": "Бертран Рассел",
+        "en": "Bertrand Russell"
+      },
+      {
+        "id": "o3",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/74"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_76_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Приключения Гекльберри Финна»?",
+        "explanation": "Годы жизни автора: 1835–1910."
+      },
+      "en": {
+        "question": "Who wrote Adventures of Huckleberry Finn?",
+        "explanation": "The author lived from 1835 to 1910."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марк Твен",
+        "en": "Mark Twain"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o2",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o3",
+        "ru": "Уильям Джеймс",
+        "en": "William James"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/76"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_1400_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Большие надежды»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote Great Expectations?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Джеймс",
+        "en": "Henry James"
+      },
+      {
+        "id": "o2",
+        "ru": "Адам Смит",
+        "en": "Adam Smith"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Бёрнетт",
+        "en": "Frances Hodgson Burnett"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/1400"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_421_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Похищенный»?",
+        "explanation": "Годы жизни автора: 1850–1894."
+      },
+      "en": {
+        "question": "Who wrote Kidnapped?",
+        "explanation": "The author lived from 1850 to 1894."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Льюис Стивенсон",
+        "en": "Robert Louis Stevenson"
+      },
+      {
+        "id": "o1",
+        "ru": "Джонатан Свифт",
+        "en": "Jonathan Swift"
+      },
+      {
+        "id": "o2",
+        "ru": "Уильям Шекспир",
+        "en": "William Shakespeare"
+      },
+      {
+        "id": "o3",
+        "ru": "Артур Конан Дойл",
+        "en": "Arthur Conan Doyle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/421"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_2788_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Маленькие мужчины»?",
+        "explanation": "Годы жизни автора: 1832–1888."
+      },
+      "en": {
+        "question": "Who wrote Little Men: Life at Plumfield With Jo's Boys?",
+        "explanation": "The author lived from 1832 to 1888."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луиза Мэй Олкотт",
+        "en": "Louisa May Alcott"
+      },
+      {
+        "id": "o1",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o2",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      },
+      {
+        "id": "o3",
+        "ru": "Чарльз Дарвин",
+        "en": "Charles Darwin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/2788"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_46_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Рождественская песнь»?",
+        "explanation": "Годы жизни автора: 1812–1870."
+      },
+      "en": {
+        "question": "Who wrote A Christmas Carol in Prose?",
+        "explanation": "The author lived from 1812 to 1870."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чарльз Диккенс",
+        "en": "Charles Dickens"
+      },
+      {
+        "id": "o1",
+        "ru": "Фридрих Ницше",
+        "en": "Friedrich Wilhelm Nietzsche"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Скотт Фицджеральд",
+        "en": "F. Scott Fitzgerald"
+      },
+      {
+        "id": "o3",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/46"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_60_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Алый Первоцвет»?",
+        "explanation": "Годы жизни автора: 1865–1947."
+      },
+      "en": {
+        "question": "Who wrote The Scarlet Pimpernel?",
+        "explanation": "The author lived from 1865 to 1947."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Баронесса Орци",
+        "en": "Baroness Orczy"
+      },
+      {
+        "id": "o1",
+        "ru": "Льюис Кэрролл",
+        "en": "Lewis Carroll"
+      },
+      {
+        "id": "o2",
+        "ru": "Алан Александр Милн",
+        "en": "A. A. Milne"
+      },
+      {
+        "id": "o3",
+        "ru": "Даниэль Дефо",
+        "en": "Daniel Defoe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/60"
+    ],
+    "image": null
+  },
+  {
+    "id": "literature_catalog_pg_55_0001",
+    "categoryId": "literature",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто автор произведения «Удивительный волшебник из страны Оз»?",
+        "explanation": "Годы жизни автора: 1856–1919."
+      },
+      "en": {
+        "question": "Who wrote The Wonderful Wizard of Oz?",
+        "explanation": "The author lived from 1856 to 1919."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лаймен Фрэнк Баум",
+        "en": "L. Frank Baum"
+      },
+      {
+        "id": "o1",
+        "ru": "Генри Дэвид Торо",
+        "en": "Henry David Thoreau"
+      },
+      {
+        "id": "o2",
+        "ru": "Томас Мэлори",
+        "en": "Thomas Malory"
+      },
+      {
+        "id": "o3",
+        "ru": "Фёдор Достоевский",
+        "en": "Fyodor Dostoyevsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/55"
+    ],
+    "image": null
   }
 ]

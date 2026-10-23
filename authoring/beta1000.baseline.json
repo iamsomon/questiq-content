@@ -1,0 +1,1893 @@
+{
+  "commit": "ffb7c748a230b317ea002feba7522ec0e6dcde59",
+  "questions": {
+    "literature_pride_author_0001": {
+      "sha256": "0a4a0e68f7a926eefc6520a4da3baf615e31a0b149da811d6c5b9a2cff59168a",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html"
+      ]
+    },
+    "literature_pride_family_0001": {
+      "sha256": "3e9821892f8707707dfae40cd25b909c75b23cae80c27da66d446922943f3b15",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html"
+      ]
+    },
+    "literature_alice_author_0001": {
+      "sha256": "5fa7f6302d4a0da235c87416f055aacfcff7f28f5bfb0dbe8b6fe665888cb517",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/11/pg11-images.html"
+      ]
+    },
+    "literature_alice_rabbit_0001": {
+      "sha256": "b5f9eab727fbdc0548c4c69f7e5375f7971f98ff9c920169e497961a9b644737",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/11/pg11-images.html"
+      ]
+    },
+    "literature_frankenstein_author_0001": {
+      "sha256": "c99bc75fc0bfaa0d1cbd0c26559b9d6df56882707274696fcb9a83fcbe2308df",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/84/pg84-images.html"
+      ]
+    },
+    "literature_frankenstein_creator_0001": {
+      "sha256": "2f7469260c5f063910d1db400384d0748b76966b5e85356c3604cef6d5375a6f",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/84/pg84-images.html"
+      ]
+    },
+    "literature_moby_author_0001": {
+      "sha256": "281b9b040347d7db59f2008c88b3f029dc0638b5c82f411a4b64242cd85cd67d",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html"
+      ]
+    },
+    "literature_moby_ship_0001": {
+      "sha256": "f0abeb3ab0958b1b3cd617477c1596502fb0e3105df2b69fde1b345a059fc104",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html"
+      ]
+    },
+    "literature_holmes_author_0001": {
+      "sha256": "51d4b05854ad61d7735b0ea34a6e5fd6941e3dc66e753e38be922ab20ac52ecb",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
+      ]
+    },
+    "literature_watson_profession_0001": {
+      "sha256": "306c42ae8958227423a326df874f98993be355294c439f31da93baaac85df922",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
+      ]
+    },
+    "artificial_intelligence_data_training_0001": {
+      "sha256": "982833b65f5471da0326d63a9977b8b28718076443a7196012e6fff4e6c9a234",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_generative_output_0001": {
+      "sha256": "99f47a188e3a7f48059e00e0b2c26403a8fa2af7d42bb7c015e78324f64220d2",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_labeled_examples_0001": {
+      "sha256": "1b0b31ecc56628a4d9532b2a8c759d68254b6637d7b622e7d8102285b1f5c954",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_spam_task_0001": {
+      "sha256": "30a51f7f9370bd3738333f6581e8a14738190acde180a86bcc50116460640f32",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_regression_price_0001": {
+      "sha256": "ee8c7bc48808ce527f6a747e3a577f3628b3d407685794ca57046daf6cf1e5a2",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_unlabeled_groups_0001": {
+      "sha256": "2fd1b9d1d26712134b299b4cb2a1d2322ee01541100d33d2a5e3cd1b1a9dacee",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_reward_learning_0001": {
+      "sha256": "9099e0a55016df2b5c9d5f2a5de139e6bece4f60da66ccbe45023983ec92bb22",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_multiclass_0001": {
+      "sha256": "5f9f41f02e5b279b69b7717dae44b7d8d9dfdac2300a5c3bd633e88e11188fc3",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_policy_0001": {
+      "sha256": "08bfb6752cd9687e641a51a86499ad51fa216336174e6cd90f9ba41057de0563",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "artificial_intelligence_cluster_labels_0001": {
+      "sha256": "6db4e63d53a073ec8f75b8be10c7f76a4c6896ad82cd46e20bdfc7cc5beacd23",
+      "sources": [
+        "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
+      ]
+    },
+    "dinosaurs_triceratops_name_0001": {
+      "sha256": "214a3ec5d7a10e35c740b6ab335dbac345f86547f6a8e4c0dc89d212d9be6b74",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+      ]
+    },
+    "dinosaurs_triceratops_diet_0001": {
+      "sha256": "367edd1b7f064c88560f3fdaff484462a3b71bee9093e3dbef543275ce70f7be",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+      ]
+    },
+    "dinosaurs_stegosaurus_defence_0001": {
+      "sha256": "d80728b967db835326e79107a662968e784a574328f651c5e32308980f67212e",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ]
+    },
+    "dinosaurs_stegosaurus_period_0001": {
+      "sha256": "5a787452e5cebc533ea905bcc403ff85a022269809b088048dd553175d107bcf",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ]
+    },
+    "dinosaurs_stegosaurus_plates_0001": {
+      "sha256": "c570f64da1a7e418159b01e989e85ed3566975bd86a07d2d3f1fac0febc80670",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ]
+    },
+    "dinosaurs_living_dinosaurs_0001": {
+      "sha256": "583f39e6dfb89ba7d643ef6057347b617e57d7442ee9c8c3946e665fcd2eb223",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+      ]
+    },
+    "dinosaurs_pterosaurs_group_0001": {
+      "sha256": "069c06fe1ba634a6684c5d5128f74c2933bc413ad473de2a34b1244d0a8343ed",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+      ]
+    },
+    "dinosaurs_dinosaur_stance_0001": {
+      "sha256": "8b23c5c313a25886640903f01b853e3dd108534e689117f8482b1266a6a2b6f7",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+      ]
+    },
+    "dinosaurs_velociraptor_origin_0001": {
+      "sha256": "6dc07dcebe0f577f1e5f869a8c4629b2846fd415ffa6cef06c997d42848a8836",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+      ]
+    },
+    "dinosaurs_dimetrodon_0001": {
+      "sha256": "e86c550a6f84c594c31d02a8d74b38d90455539c75eaa830047ffb4eba04abd3",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+      ]
+    },
+    "plants_chloroplast_0001": {
+      "sha256": "c405ffb06ac8644fb8f441de85ebca23b51bc4f4859859756faea1d5903419ca",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-chloroplast-0001",
+        "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_cactus_spines_0001": {
+      "sha256": "0b076122cf9052542e7c6e6e8f10dd9a2b04fa89f8962a6dee7f5ad64838966b",
+      "sources": [
+        "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants"
+      ]
+    },
+    "plants_coast_redwood_0001": {
+      "sha256": "06b8534f1182e5dbed795e30997100c098a7773e78e339e836160bb9c404ea64",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-coast-redwood-0001",
+        "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_flytrap_leaves_0001": {
+      "sha256": "78649cfb7f5d672b6f5c02fcc83f04b67d2ec3d731f339a872b199bf7ca3a692",
+      "sources": [
+        "https://www.kew.org/read-and-watch/carnivorous-plants"
+      ]
+    },
+    "plants_guard_cells_0001": {
+      "sha256": "bdaa7b6c8b42f8725dafc7a988ef56bd3e2699ba063bd0c76d352d9df2655465",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-guard-cells-0001",
+        "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_transpiration_0001": {
+      "sha256": "fd086b2d06b6bffd4b3dd8b67f3b5c57581ab63bd86524199286874a961823a3",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-transpiration-0001",
+        "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_negative_gravitropism_0001": {
+      "sha256": "501e311e26cea0a198f70c136a085bf530adcdc304a626648aa8fe80e9221ed7",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-negative-gravitropism-0001",
+        "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_ethylene_0001": {
+      "sha256": "ca0691f4d035d401fabd6cd5635e019d2e6014b7659c8db1de99bc9f320afc44",
+      "sources": [
+        "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+      ]
+    },
+    "plants_phytochrome_0001": {
+      "sha256": "a5690d88e8d63ffcd58e53d158ca82a836cb7f44cf337b3bfa96553d5bf9d642",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-phytochrome-0001",
+        "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "plants_oxygen_source_0001": {
+      "sha256": "2475f28779b957efbca386e97c1f1f36494806dffd1b76e0b6063d84d5c1fbc8",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#plants-oxygen-source-0001",
+        "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "ancient_world_cuneiform_0001": {
+      "sha256": "c7825aac32621609ff75caef629b69f5614d39534cb7e70a93d59cea6b043450",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#ancient-world-cuneiform-0001",
+        "https://www.metmuseum.org/essays/the-origins-of-writing",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "ancient_world_khufu_0001": {
+      "sha256": "a5be0d190b6e0bc1f41cdc27c9a0cf615b7acf0ab21d4eb00106f6912138f377",
+      "sources": [
+        "https://egyptianmuseumcairo.eg/historical-timeline/"
+      ]
+    },
+    "ancient_world_vesuvius_0001": {
+      "sha256": "749d6ffb822fae63908abd99e676637e810a66a3c24cf0178200ed0b68438d59",
+      "sources": [
+        "https://whc.unesco.org/en/list/829/"
+      ]
+    },
+    "ancient_world_papyrus_0001": {
+      "sha256": "6dc866a27896131e02bdd9fd594748820a234692db545094afe41bf7e3f190ea",
+      "sources": [
+        "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt"
+      ]
+    },
+    "ancient_world_upper_egypt_0001": {
+      "sha256": "f2e4c29c9fb5d56c902990772251381ac3d8b2f778860e4fb8ce9cf65037c945",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#ancient-world-upper-egypt-0001",
+        "https://egyptianmuseumcairo.eg/historical-timeline/",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "ancient_world_qin_emperor_0001": {
+      "sha256": "1e05a26053591fe08943ff86a30a2ab2db3dc2e17fd21f86bb2b9b1aaf931a5c",
+      "sources": [
+        "https://whc.unesco.org/en/list/441/"
+      ]
+    },
+    "ancient_world_parthenon_deity_0001": {
+      "sha256": "21019c7334e617a3290df87ec19d2b6ebc42079e4267ef3d7f712f7d78b44f6f",
+      "sources": [
+        "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery"
+      ]
+    },
+    "ancient_world_rosetta_scholar_0001": {
+      "sha256": "bc6e27a875007812ad24c1d4557258419b39c6bf7ec556a17a06720b326af92a",
+      "sources": [
+        "https://rosetta-stone.dh.uni-leipzig.de/rs/the-rosetta-stone/index.html"
+      ]
+    },
+    "ancient_world_colosseum_opening_0001": {
+      "sha256": "9c08063bb456bdf3df616820cfe6e37c30ca05b1a61913e9e9691b3f5db97aa6",
+      "sources": [
+        "https://colosseo.it/en/event/blood-and-the-arena/"
+      ]
+    },
+    "ancient_world_terracotta_discovery_0001": {
+      "sha256": "1841f10452e709e81b8dd1c624d140512daa342d722f281b3d8bf8ec91ad0c79",
+      "sources": [
+        "https://whc.unesco.org/en/list/441/"
+      ]
+    },
+    "chemistry_first_element_0001": {
+      "sha256": "499a97a2c20dc71825d51aa5bca436670cdfc3fd26ee06a917c2f1327b734c85",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_iron_symbol_0001": {
+      "sha256": "bfd390f0d91160a85540b1a7ffef409a4de2843216ba7d42df653c91c81afd98",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_gold_symbol_0001": {
+      "sha256": "481f0ac9b49e28884cdcae461f5b16e3416e4989c6d106a63102eec508d677c3",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_oxygen_number_0001": {
+      "sha256": "39c78c3c5e7332b7f8e1c0da102c35cd5d8d14dc3b5659c0d0681a667533ed72",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_mercury_state_0001": {
+      "sha256": "353a9092c41c88c20a56c446003d54827a05ec54081336f8b566b9c1ddf26772",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_noble_gas_0001": {
+      "sha256": "d50245461015ff11cc82220320bd811e9a79cb80f08dc9a6dd0e8cd0c1157a97",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_alkali_metal_0001": {
+      "sha256": "69198e34fdcc6367047625f0aa70c4973f04fa8c789f4f32a853d8da0b6467b5",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_carbon_number_0001": {
+      "sha256": "8174923718abbcb42a9befb9b0e8540b9f38d65d0d75c2427f6b5c6484bc623b",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_metalloid_0001": {
+      "sha256": "7354a37cac260f2c057711de814e70bbbfaf98758f49a0ebccb3589ad129b17f",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "chemistry_halogen_0001": {
+      "sha256": "12e2a4699a546005468b1ee40073dd4fdb99f6aef985628b63b44028180ec8e5",
+      "sources": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON"
+      ]
+    },
+    "cartoons_woody_toy_0001": {
+      "sha256": "6eeb706bce0db72cb80d5da7cfb60efde8bcb40ce7a7caf27b0f9cb0d6614cdf",
+      "sources": [
+        "https://www.pixar.com/toy-story"
+      ]
+    },
+    "cartoons_buzz_role_0001": {
+      "sha256": "bcbc3e510d5f3900cd12947b6b010b8cbec5e5d104e59d2f89fe019e6eced773",
+      "sources": [
+        "https://www.pixar.com/toy-story"
+      ]
+    },
+    "cartoons_nemo_father_0001": {
+      "sha256": "ea42b416c4628717351e7ae0f53d9903d286714c1aa65cc3110e849ada1359f4",
+      "sources": [
+        "https://www.pixar.com/finding-nemo"
+      ]
+    },
+    "cartoons_nemo_species_0001": {
+      "sha256": "7102887ec04ac5d478020d10856016aee6a12c9dfc384537cd63814bfe7c4ad6",
+      "sources": [
+        "https://www.pixar.com/finding-nemo"
+      ]
+    },
+    "cartoons_remy_species_0001": {
+      "sha256": "49fe49abfdea91f52f13cd2a6c7ab2a17bdeca866c8126db219815d6c3596971",
+      "sources": [
+        "https://www.pixar.com/ratatouille"
+      ]
+    },
+    "cartoons_ratatouille_city_0001": {
+      "sha256": "d70c04df87afce511ed8592602001904fd0aa4fa80e4ebf966a7867c25944440",
+      "sources": [
+        "https://www.pixar.com/ratatouille"
+      ]
+    },
+    "cartoons_monsters_factory_0001": {
+      "sha256": "da87fd92f129f6be857898897ce5a02d74b2634f6b7532acdfc7308850b7be5d",
+      "sources": [
+        "https://www.pixar.com/monsters-inc"
+      ]
+    },
+    "cartoons_monsters_boo_0001": {
+      "sha256": "632e70ebd0244ce5183f9b6c6975a503d291d6aba7bf6e9c4eb7f1f0cae74e5e",
+      "sources": [
+        "https://www.pixar.com/monsters-inc"
+      ]
+    },
+    "cartoons_walle_job_0001": {
+      "sha256": "7e9519790cba2b2ea9eab500ffe1092a5d7806aa994c48f2a12c7da1adf828f4",
+      "sources": [
+        "https://www.pixar.com/wall-e"
+      ]
+    },
+    "cartoons_walle_eve_0001": {
+      "sha256": "9b3e936788e43578e771ba979d79171695acf0f96eb6deb8d5aa19ee1aaad037",
+      "sources": [
+        "https://www.pixar.com/wall-e"
+      ]
+    },
+    "video_games_ps1_japan_year_0001": {
+      "sha256": "13e761d4be60a795ed0f559aaa0543e05edd8b19d719d9cf82f5570fdd37a99e",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+      ]
+    },
+    "video_games_ps1_disc_0001": {
+      "sha256": "f4bd11c95128a1ac954ef718fd908bf01745f9bdac4ea3604c61f8c7df32dff1",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+      ]
+    },
+    "video_games_ps1_chip_0001": {
+      "sha256": "3c8c169aa0bec179c69101d709071f17d64b9a6dd6f236694bd84084bd869767",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/1994-ps-one/"
+      ]
+    },
+    "video_games_ps2_japan_year_0001": {
+      "sha256": "44264f4cd82864902f1af02ea832c5ffe6fa0977f36a8614994a4cef72ecd4eb",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_ps2_dvd_0001": {
+      "sha256": "0fe6a23dca9761412e17a3b0d1f32383727b49c8f099d68120e5e1a46cfebcd8",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_ps2_cpu_0001": {
+      "sha256": "e7712e4b87918d32fe86820522d20664c74c456fef566a10c3e2815889797abc",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_ps2_slim_0001": {
+      "sha256": "adbdab6005faa05a46e3e8dbdb3a1399925db02ca50276b70339197a105d912a",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_ps2_network_0001": {
+      "sha256": "05d6bc53eb3fd4ed81d66a156c6a3dfec8f9c4a487cc2295909b2501e871917c",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_guitar_hero_debut_0001": {
+      "sha256": "972caa2dc98b998c60c18a9566f8f2669485e65aff4d9c60d446c184306ef288",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "video_games_singstar_play_0001": {
+      "sha256": "aebab5e21fbf29d482fa52590ed2dcf069118152e797e556e362fab6eae11aac",
+      "sources": [
+        "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
+      ]
+    },
+    "natural_wonders_grand_canyon_river_0001": {
+      "sha256": "da50ccfc31119f2a34290d7639b9b5cea09acae3eae007b83312919c8fd9df8c",
+      "sources": [
+        "https://whc.unesco.org/en/list/75/"
+      ]
+    },
+    "natural_wonders_barrier_reef_builders_0001": {
+      "sha256": "4547619808da3668376245ace53ec62f48e9e2ebd01a68bf891c517a821b4f1d",
+      "sources": [
+        "https://whc.unesco.org/en/list/154/"
+      ]
+    },
+    "natural_wonders_baikal_deepest_0001": {
+      "sha256": "28e8a53feb391043ab0356cdf7b880a18a7a392847225469e108996b2b84034d",
+      "sources": [
+        "https://whc.unesco.org/en/list/754/"
+      ]
+    },
+    "natural_wonders_galapagos_ocean_0001": {
+      "sha256": "b6cbe5c2eca7cce39ad888b9bffe1e5df4429655b79f2231bb3ee8fbc85efb58",
+      "sources": [
+        "https://whc.unesco.org/en/list/1/"
+      ]
+    },
+    "natural_wonders_victoria_river_0001": {
+      "sha256": "bffc2217fe5a390f580bd206616832119a409a486d7924caecc34831ed0f18be",
+      "sources": [
+        "https://whc.unesco.org/en/list/509/"
+      ]
+    },
+    "natural_wonders_komodo_animals_0001": {
+      "sha256": "145b4792dfe0272cc2b985657b224b7f53193c2e753a5b434bddb912db480e1e",
+      "sources": [
+        "https://whc.unesco.org/en/list/609/"
+      ]
+    },
+    "natural_wonders_serengeti_migration_0001": {
+      "sha256": "1f5de18577e1338cfdfbb969ba8ea60fdf597e27884753e08116a5a41aaaf46a",
+      "sources": [
+        "https://whc.unesco.org/en/list/156/"
+      ]
+    },
+    "natural_wonders_iguazu_border_0001": {
+      "sha256": "f6effb41932930c28d3b3e74a97546d59319c407810f6cecf2f8924617ef9088",
+      "sources": [
+        "https://whc.unesco.org/en/list/303/"
+      ]
+    },
+    "natural_wonders_huangshan_rock_0001": {
+      "sha256": "454efc0b72a70c6228deefbfd87f9e2de4e9b91f97f5b4cd32479d49c3953b16",
+      "sources": [
+        "https://whc.unesco.org/en/list/547/"
+      ]
+    },
+    "natural_wonders_cappadocia_erosion_0001": {
+      "sha256": "85eb487474f20ddf6e947398b2575b24358e0e492b63f446a4bdf9e6efee53a6",
+      "sources": [
+        "https://whc.unesco.org/en/list/357/"
+      ]
+    },
+    "countries_japan_region_0001": {
+      "sha256": "0de07cd5321d11775597fda94d85898d61a30f854ed0f8ba8f8adde3158b0b20",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_morocco_region_0001": {
+      "sha256": "a1064bb8fd7be9b6b9bcf063317d9984ef115d3fda8d151d8b4c0ff532ed2c2a",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_peru_region_0001": {
+      "sha256": "8732fb258a9d274d6f8395eb9103b33a8ed6f12974e7d19ddaaf3e47eabe8c59",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_canada_region_0001": {
+      "sha256": "981819bc99b06d67cc522d62253da8ce770d4443b14aff519b15430839162793",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_nepal_region_0001": {
+      "sha256": "18ebf9647259fbe3a54529b9e7e1e9daf3021f1ef6166cc4e8565301a0a88463",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_norway_region_0001": {
+      "sha256": "2b6957a2cae97ffaba146ddcc14819fb4ab00aecaafca7fcf704fdafb0815e27",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_poland_region_0001": {
+      "sha256": "7fc82455ae40daa5ded7026792e7a0ababfc6973d84cf98a056ba537fa91dd99",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_italy_region_0001": {
+      "sha256": "aeef17154e9488b1eb2d1de21f1b83a2c75a5771e2a59a2544539ebf117e612f",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_fiji_region_0001": {
+      "sha256": "5d831e94ff5fb3c9d42d6ef83879504846fcc830357aa92cf3d1d153becbc9ce",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "countries_samoa_region_0001": {
+      "sha256": "1736f292ec973aeeccc2ba1087160a2af0d277c3c25f9dbac2d965e3ae31a54b",
+      "sources": [
+        "https://unstats.un.org/unsd/methodology/m49/overview/"
+      ]
+    },
+    "space_technology_first_moon_mission_0001": {
+      "sha256": "9f22433059c877fb6838addcec9d0d5a57c21a32629c1951b356e0c0af771c0e",
+      "sources": [
+        "https://www.nasa.gov/mission/apollo-11/"
+      ]
+    },
+    "space_technology_armstrong_first_0001": {
+      "sha256": "1f31a81b8742486d016816dba810f7279e86ff4521e1da7875ab07bf741e5d06",
+      "sources": [
+        "https://www.nasa.gov/mission/apollo-11/"
+      ]
+    },
+    "space_technology_eagle_module_0001": {
+      "sha256": "967f92df57cdae64de46d69da9928e0acf67839ebd4a86a2387c07541440d8e0",
+      "sources": [
+        "https://www.nasa.gov/mission/apollo-11/"
+      ]
+    },
+    "space_technology_voyager_record_0001": {
+      "sha256": "27eb433acd615787418b22e0cde47fbceaded008b6c9927b39fb231337f9e2eb",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "space_technology_collins_role_0001": {
+      "sha256": "68c471c3e3960a8259a9fcd020a35b076f435e475201c306e8222efb6795de8a",
+      "sources": [
+        "https://www.nasa.gov/mission/apollo-11/"
+      ]
+    },
+    "space_technology_voyager_uranus_neptune_0001": {
+      "sha256": "6cfcd328448b104d1bcef7691ecb85fb27aa628a65b3177dde4fbaea1b84cdc7",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "space_technology_pale_blue_dot_0001": {
+      "sha256": "6a07301628c8797ba5f292c74e92af121962f107424349f26493c176ea942c9d",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "space_technology_io_volcanoes_0001": {
+      "sha256": "93483e2d15534a9d883a50f11de01bcd083ae0d047d396f1138e414a4f28854e",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "space_technology_heliosphere_boundary_0001": {
+      "sha256": "c1ff0448a760f021cc3c6bf506e0a149f02db72c1beda2af87dc6c75c3ceed90",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "space_technology_titan_trajectory_0001": {
+      "sha256": "8a50a56464d83e5f46933fbc878cf572c22fb7f446f6396356114fc4d5f5fdd8",
+      "sources": [
+        "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
+      ]
+    },
+    "tennis_love_score_0001": {
+      "sha256": "c230b058f9a8a1b5889e70243e0b3acad88cc19d3665d068233cf1cb62e1cbee",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_deuce_score_0001": {
+      "sha256": "c34ed16f26aebab903549e8abffcbb3add15550ae645020cce7d30a028c248d1",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_diagonal_serve_0001": {
+      "sha256": "d80e9ca52862c0bfe5900414eef5493d8f163525a973026925616260d11da991",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_line_touch_0001": {
+      "sha256": "ae77bae77a4e14e8f8652209d3128167b3442e95e1ff8a9d1c97d32e3fc4c664",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_court_length_0001": {
+      "sha256": "97a64235f57fc2478162ab7162d4fbc10e1b5356bf5bbeb223ca81e436e18808",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_singles_width_0001": {
+      "sha256": "5f4c672a0d4910adf9e9f57ef43ad1632cd2a660d9c728909087ab7b069062cf",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_first_serve_side_0001": {
+      "sha256": "e8a4afee1b488429855a5a72612578ea90c38c0de50a93eb3d3918e9ecd7ec23",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_tiebreak_margin_0001": {
+      "sha256": "d914ed609c4cbd9bf5077eb3e4262523bc3a9f51f94fb7c30e32aad5773d4360",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_tiebreak_service_0001": {
+      "sha256": "49d5c39c74a8a1bce918216ee51aa045d4c9e459745296f0e239aadf34e220c3",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "tennis_change_ends_0001": {
+      "sha256": "efe8891ac233c94a9ef0b4606c0e26e1cf8d0d2b9e3c39ce9fd32381327af09d",
+      "sources": [
+        "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+      ]
+    },
+    "painting_nighthawks_author_0001": {
+      "sha256": "162b1b68bab9136f79f333d858b0fe2f233ee5fb9f0dd7047fdfa74c03c1b4f6",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/111628"
+      ]
+    },
+    "painting_nighthawks_medium_0001": {
+      "sha256": "eeadcd251a0ace0265083703e32f6a95f951738a149c49ffe94575588ab631a8",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/111628"
+      ]
+    },
+    "painting_bedroom_author_0001": {
+      "sha256": "16e64698cde5cf14e577bd9fca51bd5c9098cde638c366df6b7657700099d705",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/28560"
+      ]
+    },
+    "painting_bedroom_date_0001": {
+      "sha256": "bb2983cf1b6b4c10b98eb49205d158d55aa4cacd2cb5c483d2c977f44b04a0eb",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/28560"
+      ]
+    },
+    "painting_grande_jatte_author_0001": {
+      "sha256": "6d1526f2623df6d43bdd614025cfc43e6d5779266fc95ce1a8ed7fd2ffc52ec2",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/27992"
+      ]
+    },
+    "painting_grande_jatte_technique_0001": {
+      "sha256": "cbd342283dcd4c154332105e0b5911d19d73b74cd59dedd4b855459fbe39946c",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/27992"
+      ]
+    },
+    "painting_american_gothic_author_0001": {
+      "sha256": "2ab2f1286c0ab4576e63a4c257ee9ed2180f0d032955784bad474110447c65c9",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/6565"
+      ]
+    },
+    "painting_american_gothic_daughter_0001": {
+      "sha256": "1ae6fab0dd1f7a796425a7c46edd49e022cde1addd8e02b46e9cecb2be52cbde",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/6565"
+      ]
+    },
+    "painting_water_lilies_author_0001": {
+      "sha256": "3ff509f58dca1aedee9e248cc661a2b3d0d9ada03afb9b36d074854b841843aa",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/16568"
+      ]
+    },
+    "painting_water_lilies_garden_0001": {
+      "sha256": "6c2214c7f713208660f418053ad1436a3b930137b051128e1b5f9f4701261601",
+      "sources": [
+        "https://api.artic.edu/api/v1/artworks/16568"
+      ]
+    },
+    "architecture_taj_material_0001": {
+      "sha256": "f37c482721592c61f8b2f44d4df98d25e52677d971f9f4d3026210af18e20c15",
+      "sources": [
+        "https://whc.unesco.org/en/list/252/"
+      ]
+    },
+    "architecture_taj_patron_0001": {
+      "sha256": "30b39d5bedb9f026b957f7469b902883ca35ba600d4b198f49e3c2579d2492c4",
+      "sources": [
+        "https://whc.unesco.org/en/list/252/"
+      ]
+    },
+    "architecture_taj_function_0001": {
+      "sha256": "c1ce06bf38e86a9d7feb0cca0b393f533a25d21a75bdd9fc158e4b42d2deb07c",
+      "sources": [
+        "https://whc.unesco.org/en/list/252/"
+      ]
+    },
+    "architecture_sydney_architect_0001": {
+      "sha256": "c59a5262d346869d2c14a706db54b9fa1289bfcbe5d9111d869b9f93f248b147",
+      "sources": [
+        "https://whc.unesco.org/en/list/166/"
+      ]
+    },
+    "architecture_sydney_opening_0001": {
+      "sha256": "6325fb2c96f0406e14a8373d0fb0e38a64ec361030716aebafa2c18e45b08c0d",
+      "sources": [
+        "https://whc.unesco.org/en/list/166/"
+      ]
+    },
+    "architecture_sydney_roof_0001": {
+      "sha256": "2e03dbc6a58862447ad715935589f5c6791ce4bb9be28cf46d052634b9626e21",
+      "sources": [
+        "https://whc.unesco.org/en/list/166/"
+      ]
+    },
+    "architecture_jerusalem_dome_0001": {
+      "sha256": "8708ac0819ed06bf088a7d2ddbf5d2235b1d92bedd4e2c0668d9379add1b4681",
+      "sources": [
+        "https://whc.unesco.org/en/list/148/"
+      ]
+    },
+    "architecture_kathmandu_groups_0001": {
+      "sha256": "90731a5b41d45d36cc14ff81b80e612d382d8d688a916fd81c2e1fcfcf9be0eb",
+      "sources": [
+        "https://whc.unesco.org/en/list/121/"
+      ]
+    },
+    "architecture_kathmandu_stupa_0001": {
+      "sha256": "37a16f28302fc78643daabca9c20052414f224708d33f53115bffda2d80eb5d8",
+      "sources": [
+        "https://whc.unesco.org/en/list/121/"
+      ]
+    },
+    "architecture_taj_century_0001": {
+      "sha256": "b0d2befe47ddcc317c149a70df9568dee93dd82862f6bfcdb58ba7bda838aa62",
+      "sources": [
+        "https://whc.unesco.org/en/list/252/"
+      ]
+    },
+    "oceans_surface_coverage_0001": {
+      "sha256": "d4a5b66676d39bdf3240993276ac841ebfa157f215f2498fb0b60da3e7b1fbe0",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/oceanwater.html"
+      ]
+    },
+    "oceans_water_reservoir_0001": {
+      "sha256": "cfa60372686ce841b0ab06a2e59c021ab23b944349e349eed79d98f42192e020",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/oceanwater.html"
+      ]
+    },
+    "oceans_coral_animals_0001": {
+      "sha256": "fefe043a6442e004c91f20ed4bfb6aa7cecbc75e0f62a88bc8012fca4bb6545d",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/coral.html"
+      ]
+    },
+    "oceans_depth_pressure_0001": {
+      "sha256": "d8fe9ee9198d6c5bf4b78474bbcd80ca8f5c91e7437d3843a5d381f8099d7276",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/pressure.html"
+      ]
+    },
+    "oceans_tidal_forces_0001": {
+      "sha256": "e62805d112375f2220ffdad43f699c949d40e8a5f2f4fef033ea27fc89d5c49f",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/tides.html"
+      ]
+    },
+    "oceans_tidal_range_0001": {
+      "sha256": "0b66022bd678edefe5962b16299cbda082c9ab175da50923403e931d88c68920",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/tides.html"
+      ]
+    },
+    "oceans_bleaching_0001": {
+      "sha256": "11b2ffca535a9649da9f7664d9cc73c6817111a70c6811745a1782740254bcb5",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/coral.html"
+      ]
+    },
+    "oceans_conveyor_drivers_0001": {
+      "sha256": "4d4c3ed98514091201dc3fd63bd637c2b35f5abd40d5c1d0cdef7a173b3a6b2f",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/conveyor.html"
+      ]
+    },
+    "oceans_coral_skeleton_0001": {
+      "sha256": "c9f832ff5700cf78c05d3023c863ef9856deaec635fee161e5a61bebe7fc6efb",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/coral.html"
+      ]
+    },
+    "oceans_symbiont_benefit_0001": {
+      "sha256": "691ca5a9294efd29bd9f47f32f966a8d1d2a3259c052d751db58b5fdc4344d11",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/coral.html"
+      ]
+    },
+    "animals_giraffe_height_0001": {
+      "sha256": "e32af30b280cbca3c8fcc5fa9a365dce6cd6e44a0cf12e6f041935ed6d7c5b39",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/giraffe"
+      ]
+    },
+    "animals_giraffe_neck_0001": {
+      "sha256": "bd06bac5b8581d8931c0c17bc2b7f11e848c186e422220e4962ffb34347b5df8",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/giraffe"
+      ]
+    },
+    "animals_giraffe_relative_0001": {
+      "sha256": "34e1fc05cbe4edf060dd379e557cbfc712edaf59a7635fce8ec687de2a332861",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/giraffe"
+      ]
+    },
+    "animals_cheetah_sprint_0001": {
+      "sha256": "167b2c2fe13ce3e51c22e588411c19ca514b1b1e9f4e4dc58b85b439e3548fec",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/cheetah"
+      ]
+    },
+    "animals_cheetah_tail_0001": {
+      "sha256": "ec7ee34a2cf870b9b8aa5a32d7505aaaff008b06423f6a1aff19dbd6c4c23a68",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/cheetah"
+      ]
+    },
+    "animals_panda_diet_0001": {
+      "sha256": "ace660565ddcc214f04d4f492f9de242227fc48824c4f3b83bc44cf8659effd0",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/giant-panda"
+      ]
+    },
+    "animals_panda_thumb_0001": {
+      "sha256": "4cf1a5e4c69b2105f3606fbcd316cd8298ee0649d4892c1a724c074245cba754",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/giant-panda"
+      ]
+    },
+    "animals_platypus_eggs_0001": {
+      "sha256": "de3e25702f74f1d9090385c9e1522416208a983f56d08a3d672f0f9fd94c7c14",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/platypus"
+      ]
+    },
+    "animals_platypus_bill_0001": {
+      "sha256": "eebe59161e4ca185e898da420e86e14a98de05713523bbee5b4af6cafc35a929",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/platypus"
+      ]
+    },
+    "animals_platypus_habitat_0001": {
+      "sha256": "3288d5087f8640a3a00493f89f3960b36a18c80702261afb741030d8bb5113b3",
+      "sources": [
+        "https://animals.sandiegozoo.org/animals/platypus"
+      ]
+    },
+    "information_technology_comment_marker_0001": {
+      "sha256": "3025606e37c85b2293aba841d559c80accc8ab5b945840e484bfee2649423bb1",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_string_type_0001": {
+      "sha256": "317e233c3ce66d7a85dc92e5d2d9b8ea64bd63ca44eea2d028905cf8ca8bc30c",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_list_brackets_0001": {
+      "sha256": "273e00b10070a7a3c67dcd18389d966ff0a49a24bcee2a4b91fd2769a9906c59",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_assignment_0001": {
+      "sha256": "b2b2ecd87147b59dccbfa780f90b931d6de4bd041950d6b29bf60501e0f58350",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_zero_index_0001": {
+      "sha256": "ac231cad4a56b874d9d639b24be8a57c0a8df4b7682431a68eceb49d48a4ea5f",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_power_operator_0001": {
+      "sha256": "9313eb921bc2315b84a46a50dce50f0ea39ba7e42910fcd940412c59d72c3693",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_remainder_operator_0001": {
+      "sha256": "cee728303fa7a0cbba88b7cff34098262bbdeed13f2fd9b79a6e015b222939e3",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_list_append_0001": {
+      "sha256": "2322cf0c38218c59d2a4f9d87b48783814096a00816a9216869b2c71aa7d5d46",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_string_immutable_0001": {
+      "sha256": "015e1ccdd147347b81b1bbf3033be5c4d0a109a21d0f6dc1bc6bfeee04b8f79e",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "information_technology_slice_end_0001": {
+      "sha256": "2932a962747312e3bf1953312f0443a5d05d92d88fea46073c7831b6bea8677d",
+      "sources": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ]
+    },
+    "biology_protein_blocks_0001": {
+      "sha256": "82881081d16db0fda922a5d5abce452ef128bfeb64f5203596a5e018a4d5546f",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_hereditary_molecule_0001": {
+      "sha256": "070a27f1a3ebceb280f31d2fd5760ee3edd5f78802cc338cc1765dab776a9564",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_nucleus_location_0001": {
+      "sha256": "4c46d271ede196222660040381553ec9f8a98347fc4c8eaff3774b4540cfac02",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_mitosis_0001": {
+      "sha256": "c22bb0beeb6922df608960161c2fa4af2843f181f57058e70b15d31c5e4f7e7b",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_ribosome_role_0001": {
+      "sha256": "d0ff9b3ae049ab7f91132abea8d7cbdc5945815945acd3e2874833dd1a52a658",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_dna_replication_0001": {
+      "sha256": "e9ed3c8d3eaaa6c58c89e9d22066359e0751043d764f0c06e73ca22354c7761a",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_adenine_partner_0001": {
+      "sha256": "0534e11f633f5cb5100777128d6e5d552f4a1a4326954e60d3f7c98156819032",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_mutation_definition_0001": {
+      "sha256": "10365ba353d1b090289c99d146eeec44f27c62aae976114b8afba21f68390018",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_rna_base_0001": {
+      "sha256": "e1e1c80f03e3f5d77a9c3be1a71078a0db75fae493270acde2bfe718c0dc1dab",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "biology_nucleolus_role_0001": {
+      "sha256": "a57e6748e293e154c52cb69328dd54e36fdd79c367de0b042b4a161cf5f4afec",
+      "sources": [
+        "https://www.genome.gov/genetics-glossary"
+      ]
+    },
+    "ecology_compost_process_0001": {
+      "sha256": "12a5135498f25e38f0c328839bc9ab18881acfede070f46e878e55330f5eca03",
+      "sources": [
+        "https://www.epa.gov/recycle/composting-home"
+      ]
+    },
+    "ecology_compost_oxygen_0001": {
+      "sha256": "0b65177d890041488bd80ca14c1b5b1944838c5dac840a33654671c801306360",
+      "sources": [
+        "https://www.epa.gov/recycle/composting-home"
+      ]
+    },
+    "ecology_vermicompost_0001": {
+      "sha256": "ed1d29f140a2f130aaf584cc57c6050e5d4556737ff496b6413798571be75ab5",
+      "sources": [
+        "https://www.epa.gov/recycle/composting-home"
+      ]
+    },
+    "ecology_compost_water_0001": {
+      "sha256": "6a49a8a9eb5f56c8bf365986c6bd6f4365d8be61bd0636bf31f8bd40551c8dca",
+      "sources": [
+        "https://www.epa.gov/recycle/composting-home"
+      ]
+    },
+    "ecology_ozone_layer_0001": {
+      "sha256": "8e3b4080881b766e065824d42d07427e54a5d24870fefd09e2649007b4f71506",
+      "sources": [
+        "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+      ]
+    },
+    "ecology_ozone_stratosphere_0001": {
+      "sha256": "557d0ae8e32d66d81c41044201b0e007ef228671a5d807826b11c05f523211f9",
+      "sources": [
+        "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+      ]
+    },
+    "ecology_ozone_atoms_0001": {
+      "sha256": "de862852ae83401baf413436a9e7f077317d0561d63847c0a1a758c920d340ed",
+      "sources": [
+        "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science"
+      ]
+    },
+    "ecology_greenhouse_gas_0001": {
+      "sha256": "b3cd3aeb76aa5c7593a64a5cbb12e25755b23f4d8e9e2a9079f4da8711941064",
+      "sources": [
+        "https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+      ]
+    },
+    "ecology_landfill_methane_0001": {
+      "sha256": "6865aa82371c64ab9940f9e3dfa29882d822d82c59bc8a570d3035fcc55a8517",
+      "sources": [
+        "https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+      ]
+    },
+    "ecology_plant_carbon_0001": {
+      "sha256": "603e3ce9855d9d1c1cdfb512f489c242b317a93ea1409a8278e1353f159c8adc",
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/the-carbon-cycle/"
+      ]
+    },
+    "physics_length_unit_0001": {
+      "sha256": "12a6e84203db7d577c84bad1e8224b2fe9d29185cf4cc5f830578629844b0598",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_mass_unit_0001": {
+      "sha256": "fb92f72f18734867d1486d77178ef28db79a2bf38fbdf47dba65b462e7218263",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_time_unit_0001": {
+      "sha256": "a86e0b72796dff03603d8a9f022078a457ea015b20bdab2fcaf608c50bcd84ee",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_current_unit_0001": {
+      "sha256": "75038c9e896c25d9f0f90b98fb27fae19436c16e2f8550eea24a86db21d06e75",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_temperature_unit_0001": {
+      "sha256": "6ee04620e75ffa70c21ed94745abf39783b8a2b481cac1edef8b73643946fd60",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_amount_unit_0001": {
+      "sha256": "3bc3c097ecac5af87f63e66ab417be88d44e80f5d5bf781dadbc3756629cc63f",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_light_unit_0001": {
+      "sha256": "b717eedefec616330a8d86f32ea7bc29c49635c419e8ecc2859a2ed40cdb662a",
+      "sources": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ]
+    },
+    "physics_force_unit_0001": {
+      "sha256": "94e6bff4fbcaa1ae4cfbc55f12e7eb41894c220b810726337b2735b6d8598558",
+      "sources": [
+        "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+      ]
+    },
+    "physics_energy_unit_0001": {
+      "sha256": "d0033ebafe1dbbee188b47d8f7da3eba79cedca8a43654cf53d07f66ac0e8e41",
+      "sources": [
+        "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+      ]
+    },
+    "physics_pressure_unit_0001": {
+      "sha256": "11d82af595f10decaf9faff3e7bcd533dd85c3a6eadacf057f676a77a1394328",
+      "sources": [
+        "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+      ]
+    },
+    "human_body_iris_0001": {
+      "sha256": "5ada457c2197f48a3ec7fd67df6877d2d89050fccfd7bb0a45cf59fa47f0e601",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#human-body-iris-0001",
+        "https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "human_body_paired_kidneys_0001": {
+      "sha256": "a82d0f1cec570164af3494d3f5d9877b1da40b01ccec7b91bd49ff7e6c631e3a",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#human-body-paired-kidneys-0001",
+        "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "human_body_bladder_0001": {
+      "sha256": "cabe3cbd47c725f9f1b29c5d45ce8d22d1450b9ccdc2306a86ba2339f98723c3",
+      "sources": [
+        "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work"
+      ]
+    },
+    "human_body_heart_chambers_0001": {
+      "sha256": "590c1af56af9a4016cf6a87fcba744ca2530779152d5e0a159c700aec2db60c4",
+      "sources": [
+        "https://www.nhlbi.nih.gov/health/heart/anatomy"
+      ]
+    },
+    "human_body_alveoli_0001": {
+      "sha256": "aa551d10b30ef174141aecc430d1ae2709c8a5d4e20ecb05131b91a5f1c72fd9",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#human-body-alveoli-0001",
+        "https://www.nhlbi.nih.gov/health/lungs/respiratory-system",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "human_body_cochlea_0001": {
+      "sha256": "b47cb730a44872cce31e17db794427564c044bc6278dce5d9b7815f1bb6dae8e",
+      "sources": [
+        "https://www.nidcd.nih.gov/health/how-do-we-hear"
+      ]
+    },
+    "human_body_bile_producer_0001": {
+      "sha256": "2f2289e8d7682676fb7dd8888baa343ee5ab5ec8c0988c8c146eb8fa0f941910",
+      "sources": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ]
+    },
+    "human_body_olfactory_location_0001": {
+      "sha256": "d961abc18b66d8685cfdea46e120fa54e7a56152bae8412d89bec9694783f22a",
+      "sources": [
+        "https://www.nidcd.nih.gov/health/smell-disorders"
+      ]
+    },
+    "human_body_ileum_0001": {
+      "sha256": "df642fa54a368f748317ee8b0ca2f4280b8fc72a36f39b93a85287262053e16f",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#human-body-ileum-0001",
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "human_body_nephron_0001": {
+      "sha256": "3e270c8efb1c84ad207bfc4653efa7042f847808bb09a24e445e55e0f7572bc0",
+      "sources": [
+        "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work"
+      ]
+    },
+    "capitals_france_0001": {
+      "sha256": "23c2f787e0d1fcaf1c4d54c8629b0b7a7bf0977c6876e16cd914c7da25d99177",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_germany_0001": {
+      "sha256": "1ef9d81ebfb7a93971ebbfe77e61465b5ff85ce7a5a8d5830d419b6c3b8bd0cb",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_japan_0001": {
+      "sha256": "7816319ff8d23fd1e96a1f3bbf8873cdb7c5b9364d5e02dc89d0b70719c59999",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_egypt_0001": {
+      "sha256": "f3603cdff56f4e9f5de6f4f26a7d1efe42e985375d93585f0b95939015defc39",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_australia_0001": {
+      "sha256": "933fdabcdb10d5123c021f2ca0b237d5d974660aa5f540e72af1051a611ecf85",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_canada_0001": {
+      "sha256": "2101ad43eb92e79d0e9204fcfe69541f73706688849df46d8c6ab210a171f934",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_turkiye_0001": {
+      "sha256": "8d102401fc49e04552ca35fa88fde3ec2f6c2c1e53f9994b80ad2225249bf25c",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_india_0001": {
+      "sha256": "7685a32043f801cd2491557c16fc9285ba10f3a3504cf3e9d635a2a4c85ce254",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_kenya_0001": {
+      "sha256": "b97fceb471816057c28b033048b82215fa97c4c6f9fede31516ac18fe63ea629",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "capitals_brazil_0001": {
+      "sha256": "d5b86757bde2cd025afb6bb6a07d2bf4f5b51c77991df7981a80175c9c70655a",
+      "sources": [
+        "https://api.worldbank.org/v2/country?format=json&per_page=400"
+      ]
+    },
+    "mathematics_product_term_0001": {
+      "sha256": "40b817a5b4a72c5b1d75ee8106161d906ea60a717db86be2070aafa5f374ae96",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_constant_term_0001": {
+      "sha256": "277695cfdf12ca8293698b6dd738766f8eebdc1bcc000f39bc5cdf7a3aa6904a",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_cube_value_0001": {
+      "sha256": "8d4055bfdc296088a5a1196897ccff825c390ed730dc63caab8a89d186ea03b0",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_order_operations_0001": {
+      "sha256": "39e4b7c5585dd613d81733f960910e5e1f6c3a7a19ce6d728282e531839c3c8b",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_parentheses_0001": {
+      "sha256": "c2170e3918bcfc8b0d4a5cdd12f8ae48c35cc81e46e8d6746e704fba26b86c04",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_equation_sign_0001": {
+      "sha256": "2802e9ae33e837ecfe7c08918c198fa38655cfebc80955b9f0ecbd3ce5a16c2e",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_exponent_order_0001": {
+      "sha256": "c241910e1cdf4964a5ee39a64ff2531219ca3b862e49aea8805cf4af191832f6",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_division_left_0001": {
+      "sha256": "6e0ab66bb34424ef4f5ed168b402a4a401f1dc07179fe560522c01555b2d5e77",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_nested_operations_0001": {
+      "sha256": "a781d932a24b8a443c1ef1aad0d144c579087096d72cc4ab4cb269cabd7c1afc",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "mathematics_substitution_0001": {
+      "sha256": "a7c92f3686e93df8a08d4a0baf34ba0f3975a0e4643169a1f9fd7150dca8b6cd",
+      "sources": [
+        "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+      ]
+    },
+    "basketball_court_players_0001": {
+      "sha256": "2a571305ec6768243fc263ea7bd6f28211c05cde48a21b6223987139ce6a6366",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_free_throw_value_0001": {
+      "sha256": "919aaeca8666157a930d36594a635c6e0e298727066840ca4a668ac2c3743e81",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_outside_arc_0001": {
+      "sha256": "e77a0473c077d6f562d8c740f523956f28c000708e8a954ed1e5ad12ff945dc6",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_overtime_length_0001": {
+      "sha256": "28b136ac183af40e43b3dc56c62719de783cd77f5dea8ae67d9d4769a9a79f5b",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_quarter_time_0001": {
+      "sha256": "cf3512830c2b99a04aa098df2da851a4de000fea0333ec2541efee764541a2c2",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_court_dimensions_0001": {
+      "sha256": "5a70beea6519be8c37bba9377614ebe11bbbc0e316d60c04d29be0b0618938c1",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_shot_clock_0001": {
+      "sha256": "c057f17c2d6562f76090aa78131dd83bbc1291b42df8ab851992d612490806ba",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_foul_limit_0001": {
+      "sha256": "ecaf458addb93ea30fda5bf0e83893f53795beed0861f127ad6374d2740004d9",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_offensive_rebound_0001": {
+      "sha256": "1c275793f00cf6f516605b485db115d3714ea4a57300119bd62e3d224de5555b",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "basketball_accidental_own_basket_0001": {
+      "sha256": "c2507d523a3bfa5bdf4b00fc635493d843f6669a757bf2270194c4bad361e78a",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+      ]
+    },
+    "mythology_olympus_0001": {
+      "sha256": "598a630322bf8e1d9e3a3b4522889d43406b8798ef72a8e6c7f4c37d06c2fcbf",
+      "sources": [
+        "https://github.com/iamsomon/questiq-content/blob/f02ed01b9e205553ef37cbf4f1ed1514bb41bce1/credits/global_mmlu_20261023.md#mythology-olympus-0001",
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
+      ]
+    },
+    "mythology_poseidon_0001": {
+      "sha256": "951e516d3fcd933161b46eeeeb1668203974cb44f90bcf8de009b3df34e3d6e8",
+      "sources": [
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+      ]
+    },
+    "mythology_artemis_0001": {
+      "sha256": "6f1df4f88749d2b80c86e417c665aa1f7399399cd1de29b505c9eacce93cc77b",
+      "sources": [
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+      ]
+    },
+    "mythology_mjolnir_0001": {
+      "sha256": "90101d1016c6849a6bcc0995b56fe0fa935955cb6c10e470b2b7391ae730a479",
+      "sources": [
+        "https://historiska.se/en/explore-history/history-hub/thor-god-of-thunder/"
+      ]
+    },
+    "mythology_hermes_0001": {
+      "sha256": "038d7d0cbd3206ebd1696001948c36bfc94d3bdcd5ce2ce52cfa5c1fb0c9738e",
+      "sources": [
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+      ]
+    },
+    "mythology_dionysos_0001": {
+      "sha256": "be5c00fdb9d0ade27c09c4eae77377ccff801a5cf3cac4d9847f733a8af2a3e4",
+      "sources": [
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+      ]
+    },
+    "mythology_odin_ravens_0001": {
+      "sha256": "28dcc9ae808cae95c16bc1cd83caa4a57d0d3b55fcb5e8a577b2b1ee52e72ee0",
+      "sources": [
+        "https://historiska.se/utforska-historien/kunskapsbank/oden-gudarnas-ledare/"
+      ]
+    },
+    "mythology_anubis_0001": {
+      "sha256": "8ceefa27a9c0fb67eaecb1f9d7e87474ea55667533987fb4026b5fe774500125",
+      "sources": [
+        "https://egyptianmuseum.org/deities-Anubis"
+      ]
+    },
+    "mythology_athena_bird_0001": {
+      "sha256": "9ee6376068cefc8ad5ffcf2ebc4abc9a0b2de730754d0a39074160f42765a0fd",
+      "sources": [
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices"
+      ]
+    },
+    "mythology_thoth_0001": {
+      "sha256": "f6bfecd1cac6bd1794eecdede507dc1ba5adfed343a4918e80d0033242630aae",
+      "sources": [
+        "https://egyptianmuseum.org/deities-thoth"
+      ]
+    },
+    "internet_web_internet_0001": {
+      "sha256": "b0e839934c79d1581917cb991c3383665a2755ab0d4f3874c99cc153abe3a204",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      ]
+    },
+    "internet_router_0001": {
+      "sha256": "a83b86fb5535bec711fcf3b2aeaf1003e1398d3c6c32c6f8a631aff2f4cec780",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      ]
+    },
+    "internet_domain_name_0001": {
+      "sha256": "313bcad5388f613d56ba10f03c52a2e5365927e5a29fd9583a868001ce0c845e",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      ]
+    },
+    "internet_isp_0001": {
+      "sha256": "1d0ea0a05deff934d60aed4ecb533891fe6571ee22366a77faab5962f961294d",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      ]
+    },
+    "internet_http_roles_0001": {
+      "sha256": "efe055386d469e89945e940bfc6de000834a6b889436c0d6f1a05ee1bce9a606",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      ]
+    },
+    "internet_http_status_0001": {
+      "sha256": "4ff78fcc8c50a74707b8971911b13be02da9d1b93a7c9cbf318108ca8991f174",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      ]
+    },
+    "internet_http_body_0001": {
+      "sha256": "cdb8b3e731929f92a42152a6fc78a9b19abef7433f05978e651addc3043e4c03",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      ]
+    },
+    "internet_http_stateless_0001": {
+      "sha256": "69bc41b3ddfee795cfc7b1f075d10c0e329295563d2a92b8b30d74c562e80658",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      ]
+    },
+    "internet_proxy_role_0001": {
+      "sha256": "acab4402415fb4c2ff8a92d2550f172c68df70f79e5ee8b451ebaea624695445",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
+      ]
+    },
+    "internet_mac_ip_0001": {
+      "sha256": "a0737183520f99665cd57b588745f331bff09bd838d6d0ecc49d9986dee8cb5a",
+      "sources": [
+        "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
+      ]
+    },
+    "astronomy_nearest_0001": {
+      "sha256": "3a5da36fc16a0ee93e032810dd6ba7f52459ed9000656c0968f873798e57b8be",
+      "sources": [
+        "https://science.nasa.gov/mercury/facts/"
+      ]
+    },
+    "astronomy_smallest_0001": {
+      "sha256": "fff1f933b549ddebf9f47a589193061b6535647754432a5792d2804205f3e957",
+      "sources": [
+        "https://science.nasa.gov/mercury/facts/"
+      ]
+    },
+    "astronomy_hottest_0001": {
+      "sha256": "89930e9939432a6eceadcbb893a5bc7725622cc0313a06fafd99bdf18716c4a3",
+      "sources": [
+        "https://science.nasa.gov/venus/venus-facts/"
+      ]
+    },
+    "astronomy_venus_order_0001": {
+      "sha256": "bc4b96e0fb45ea5fe1e50eea7cdd6567e31c68a6e7101f4e4ac09727d7128aed",
+      "sources": [
+        "https://science.nasa.gov/venus/venus-facts/"
+      ]
+    },
+    "astronomy_earth_order_0001": {
+      "sha256": "56304413d2ac8d530fa8a3be06555a43e0609e9811427c7c8a3bc4363a91f722",
+      "sources": [
+        "https://science.nasa.gov/earth/facts/"
+      ]
+    },
+    "astronomy_rocky_largest_0001": {
+      "sha256": "b82ddfe7fee4b2bdf8219e214b3576881bf0bc5f8c31cb85309140adf6a891f5",
+      "sources": [
+        "https://science.nasa.gov/earth/facts/"
+      ]
+    },
+    "astronomy_red_planet_0001": {
+      "sha256": "9a5dd55b0354d81c1b9e815b09b5a5ccdf75e19088ca604ce9a375558275c087",
+      "sources": [
+        "https://science.nasa.gov/mars/facts/"
+      ]
+    },
+    "astronomy_mars_order_0001": {
+      "sha256": "0a522f0b4c06271d2200376be99b0ff8c7371fc0b1a6dc982655e066bb0d3adf",
+      "sources": [
+        "https://science.nasa.gov/mars/facts/"
+      ]
+    },
+    "astronomy_largest_0001": {
+      "sha256": "ac2665f28bb72345dd639b89d76f33dec0d86cd8289deff601acc0c2db846b2d",
+      "sources": [
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ]
+    },
+    "astronomy_shortest_day_0001": {
+      "sha256": "c9aa9b089af0da581e106e6b1709e128b4f7c06ff0347568eb6fddc8d54a5440",
+      "sources": [
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ]
+    },
+    "astronomy_saturn_order_0001": {
+      "sha256": "b508cbecd3f670ae2ece833f6358b3518154597587ecf7eb2102824c91c7bfb6",
+      "sources": [
+        "https://science.nasa.gov/saturn/facts/"
+      ]
+    },
+    "astronomy_second_largest_0001": {
+      "sha256": "1c6e099517d5a41c066932dcd1430422f5a99a35f768a4b08d31987ef52f3b4b",
+      "sources": [
+        "https://science.nasa.gov/saturn/facts/"
+      ]
+    },
+    "astronomy_sideways_0001": {
+      "sha256": "311ce8e61d89854387df505775e2c21b5edf9d72b7e1df9d4a9487ba0145c8ea",
+      "sources": [
+        "https://science.nasa.gov/uranus/facts/"
+      ]
+    },
+    "astronomy_herschel_0001": {
+      "sha256": "0b2baffaf3cc17c4cb79e0463bae504428287a575be7726646c02bc0faa9e86e",
+      "sources": [
+        "https://science.nasa.gov/uranus/facts/"
+      ]
+    },
+    "astronomy_farthest_0001": {
+      "sha256": "05b1ed44811c0b16547ccaec19ff0d97ab092b13604cdf95145dcfe6006009df",
+      "sources": [
+        "https://science.nasa.gov/neptune/neptune-facts/"
+      ]
+    },
+    "astronomy_predicted_0001": {
+      "sha256": "818188e59831df61a70cef91f3e6806978a8ffde580284de9d31cdbc470c8a3e",
+      "sources": [
+        "https://science.nasa.gov/neptune/neptune-facts/"
+      ]
+    },
+    "astronomy_sun_star_0001": {
+      "sha256": "6d16e8f15cdd32a6fea2843b183cf265984a9217b6c45c46474c0594a6dbf95f",
+      "sources": [
+        "https://science.nasa.gov/sun/facts/"
+      ]
+    },
+    "astronomy_photosphere_0001": {
+      "sha256": "7c8d9b59192fd5d63fbd3cc26011dfecaa2747203f54f1a8e4a878208cad5bb3",
+      "sources": [
+        "https://science.nasa.gov/sun/facts/"
+      ]
+    },
+    "astronomy_planet_count_0001": {
+      "sha256": "8d5045ef0fb036102e6f70ae46e4b1ed149d1dc005c242a43f0e32f56c796fa4",
+      "sources": [
+        "https://science.nasa.gov/solar-system/planets/"
+      ]
+    },
+    "astronomy_inner_type_0001": {
+      "sha256": "75beceac3e6de558c419dea591eda886ba16fee398f8d84d91f9dc109e48c789",
+      "sources": [
+        "https://science.nasa.gov/solar-system/planets/"
+      ]
+    },
+    "flags_canada_leaf_0001": {
+      "sha256": "fea0811737429a12a39564910678c4e2c08b106924940cba6888476a76556fff",
+      "sources": [
+        "https://www.canada.ca/en/canadian-heritage/services/flag-canada-description.html"
+      ]
+    },
+    "flags_japan_sun_0001": {
+      "sha256": "da5640a305ac57de85233ed886254680c20c409bee767d3fd77ae71a689edd42",
+      "sources": [
+        "https://www.japan.go.jp/japan/flagandanthem/index.html"
+      ]
+    },
+    "flags_france_colours_0001": {
+      "sha256": "68a08dba00af38c75694bdc93bb307c58200740772b8b80b2fc7241448af416a",
+      "sources": [
+        "https://www.elysee.fr/en/french-presidency/the-french-flag"
+      ]
+    },
+    "flags_germany_colours_0001": {
+      "sha256": "58f3432a697adb971f5de6187ad5de0f98e2968572c7e0d87a628093946ad5f8",
+      "sources": [
+        "https://www.bundestag.de/en/parliament/symbols/flag"
+      ]
+    },
+    "flags_swiss_shape_0001": {
+      "sha256": "70734429f4671c9acfb0605796f5aaf4238ee0fd9deae565e491f7f8fa7e440d",
+      "sources": [
+        "https://www.aboutswitzerland.eda.admin.ch/en/swiss-flag"
+      ]
+    },
+    "flags_italy_stripes_0001": {
+      "sha256": "7986ae0a41e26f1879098d00c9f7c66352649a0eb02b85b845d6e94d9a648858",
+      "sources": [
+        "https://www.quirinale.it/it/pagine/italian-tricolour-flag"
+      ]
+    },
+    "flags_kazakhstan_eagle_0001": {
+      "sha256": "945cc5e9ce85fb697d0411ef7f6c637b332f48f32a7ee219ace8316fe01a90e6",
+      "sources": [
+        "https://www.akorda.kz/en/state_symbols/kazakhstan_flag"
+      ]
+    },
+    "flags_usa_stripes_0001": {
+      "sha256": "febb21001ceac0870ff8f82b122974144807de3cabcde45f6e8a437234d362e4",
+      "sources": [
+        "https://www.usa.gov/flag"
+      ]
+    },
+    "flags_tajikistan_stars_0001": {
+      "sha256": "a5ffe6810b42b8909041cddcc066aa235271768afd8184e3d2b9c142257d6fea",
+      "sources": [
+        "https://egov.tj/article/35?lang=en"
+      ]
+    },
+    "flags_uk_crosses_0001": {
+      "sha256": "049726dfe090ae6abfe686e5bf20f86cea781b4baffecd5091e45f2cce803f40",
+      "sources": [
+        "https://www.royal.uk/union-jack"
+      ]
+    },
+    "football_eleven_players_0001": {
+      "sha256": "5823c58556397599808c53bd6ed61db08492647fee6251095a339b8b956c4f23",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-players/"
+      ]
+    },
+    "football_half_duration_0001": {
+      "sha256": "a07ba3cf1858c44d4acec67fa072d3b5f5893508bc7ce00b036f902781c73a8e",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+      ]
+    },
+    "football_ball_shape_0001": {
+      "sha256": "225de076d0be0d034b5ac2458e18bd74c14c31770c649d3ece58b904b6705c0a",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-ball/"
+      ]
+    },
+    "football_touchline_0001": {
+      "sha256": "478471ecfaf1fe30e52e04e1e3fcf361aa434cba2ae7c660dd2ef19578024f83",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-field-of-play/"
+      ]
+    },
+    "football_goal_width_0001": {
+      "sha256": "2fdfc541ba30ffebc8415acc78b21905bc66597447cd43bcff302d4a2dff589f",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-field-of-play/"
+      ]
+    },
+    "football_penalty_mark_0001": {
+      "sha256": "206da246a20e25794bfb176848e627ad1f5dedd5093d4e562d54003ee31eec59",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-field-of-play/"
+      ]
+    },
+    "football_halftime_limit_0001": {
+      "sha256": "ab70a1f589bdb9d738960be35d01a08eb1853bce6e55cc032f17c3a4465aecce",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+      ]
+    },
+    "football_entire_ball_out_0001": {
+      "sha256": "5bf67411f4226e65f791721ad0d6a69c05f6d9778e2f8347b71befb0dd8a3bae",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/"
+      ]
+    },
+    "football_corner_radius_0001": {
+      "sha256": "07e1f5cbe7a5dfb0473c2b53864ff4c8f6991cc9b246690812e734f069c1dbaf",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-field-of-play/"
+      ]
+    },
+    "football_center_radius_0001": {
+      "sha256": "97a75c24fbee86a8e46ac44250062ca7411d0421cd79e7df593d215c92657369",
+      "sources": [
+        "https://www.theifab.com/laws/latest/the-field-of-play/"
+      ]
+    },
+    "cities_paris_seine_0001": {
+      "sha256": "209d5898b618d9d9846a5a05f11d067dfc3fa0cdeb108f7d72f079b54b3787f4",
+      "sources": [
+        "https://whc.unesco.org/en/list/600/"
+      ]
+    },
+    "cities_athens_parthenon_0001": {
+      "sha256": "1b351595d0adc7e99712efd8be9beca65e475862dbd213057d557aad968158c3",
+      "sources": [
+        "https://whc.unesco.org/en/list/404/"
+      ]
+    },
+    "cities_venice_lagoon_0001": {
+      "sha256": "269eeb5799df80e92a573f9c2331bdd40af4d80826a2b9dbee8cd2e1bffe4830",
+      "sources": [
+        "https://whc.unesco.org/en/list/394/"
+      ]
+    },
+    "cities_istanbul_hagia_sophia_0001": {
+      "sha256": "2af55c93b1447028255149236565d61599cd31a7e48bbffe0ad184789df48bb1",
+      "sources": [
+        "https://whc.unesco.org/en/list/356/"
+      ]
+    },
+    "cities_prague_charles_bridge_0001": {
+      "sha256": "e6149a438831058e008fce0629559d7629bc12b1fed54d4c9d5dfa981d1c6467",
+      "sources": [
+        "https://whc.unesco.org/en/list/616/"
+      ]
+    },
+    "cities_granada_alhambra_0001": {
+      "sha256": "193fc8592020364df59ed98791883994e3184661090965bc0f60892774f151f3",
+      "sources": [
+        "https://whc.unesco.org/en/list/314/"
+      ]
+    },
+    "cities_florence_uffizi_0001": {
+      "sha256": "a32883e66f782cb5b32d62685220b630e40e39866d137dfaee978744ffbb90e7",
+      "sources": [
+        "https://whc.unesco.org/en/list/174/"
+      ]
+    },
+    "cities_rome_pantheon_0001": {
+      "sha256": "bd6994ccee570e0b50ccd7b49e3701e7d2adafb8637b79df7a8ced094fa8fd02",
+      "sources": [
+        "https://whc.unesco.org/en/list/91/"
+      ]
+    },
+    "cities_seville_giralda_0001": {
+      "sha256": "0bc6299f869d1991e93e6c84a0c5cd072a72bb8fa8fe8110ee51525355fb95ad",
+      "sources": [
+        "https://whc.unesco.org/en/list/383/"
+      ]
+    },
+    "cities_kyoto_capital_0001": {
+      "sha256": "daa1c1eb040b75beacf5b594f5b84a6cf72eb845440f9a2709ba13cd9853dd2d",
+      "sources": [
+        "https://whc.unesco.org/en/list/688/"
+      ]
+    }
+  }
+}

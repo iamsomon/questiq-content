@@ -178,5 +178,1805 @@
         "claim": "What is the profession of Holmes’s friend Dr. Watson? Answer: Physician. Early in the collection, Watson mentions returning to medical practice."
       }
     ]
+  },
+  {
+    "id": "literature_catalog_pg_1513_0001",
+    "status": "approved",
+    "sha256": "46a00367d765cefaf75456231b32414ca27b8f9cdf7a1470d66302a86aff67aa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1513",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Romeo and Juliet? Answer: William Shakespeare. The author lived from 1564 to 1616."
+      }
+    ],
+    "sourceRecordSha256": "623a4bb36f02d0da14e797ccc7f65042e8b90820e6b7792be1ddd7aef4308d16",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_345_0001",
+    "status": "approved",
+    "sha256": "b2b2208ed3b4e67795ded8ace8b0fedf0a49bb2af626ffafdbbeecf8f066e9a7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/345",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Dracula? Answer: Bram Stoker. The author lived from 1847 to 1912."
+      }
+    ],
+    "sourceRecordSha256": "ba286274434ccd790edaea9798472408ce8c9113d07f40c38818b6ec5c44a8cd",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_43_0001",
+    "status": "approved",
+    "sha256": "780a763b9d9201413779c88f8209fd5da46938abc0505fc677ee0b49b35951fb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/43",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The strange case of Dr. Jekyll and Mr. Hyde? Answer: Robert Louis Stevenson. The author lived from 1850 to 1894."
+      }
+    ],
+    "sourceRecordSha256": "92669d9e7aca528db4ba56774cc0e74891b2ee2b71ef81730270973ae74d315e",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2641_0001",
+    "status": "approved",
+    "sha256": "7b3808f23cb0716f68b4de720d9bb3c8a1fcc916041d06d4e9cf1f88f8ef400f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2641",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote A Room with a View? Answer: E. M. Forster. The author lived from 1879 to 1970."
+      }
+    ],
+    "sourceRecordSha256": "f8cf942b9877ba45c4e928854db2ee840686bd8b2d404cb01683d4127a009848",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_145_0001",
+    "status": "approved",
+    "sha256": "7f904206389273be9ee06f2c9a7ee34744d4cc40bea3780bf06f324c2d010e9b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/145",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Middlemarch? Answer: George Eliot. The author lived from 1819 to 1880."
+      }
+    ],
+    "sourceRecordSha256": "69ef7e426512087c33115ba2e977585347e821232f4d6cd521f55942473422e2",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_67979_0001",
+    "status": "approved",
+    "sha256": "006ddd3e2799e8d7986aeb8acb5308ccfbce4b6b701bd3d7cfb3b3f61ced16af",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/67979",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Blue Castle: a novel? Answer: L. M. Montgomery. The author lived from 1874 to 1942."
+      }
+    ],
+    "sourceRecordSha256": "f91a53a8c9255a06e5f1c497ab8400bc2ab01f71346ca6016692db79f9b69e1e",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2554_0001",
+    "status": "approved",
+    "sha256": "4156cb73bbb2f49c6075ada993a0a5d0d141087bb23530b2e369e111574c5175",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2554",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Crime and Punishment? Answer: Fyodor Dostoyevsky. The author lived from 1821 to 1881."
+      }
+    ],
+    "sourceRecordSha256": "9a93f85fb3446766d6d4f394a5ed57dd439ccdb715382434720036d63211b97e",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1260_0001",
+    "status": "approved",
+    "sha256": "5895aa9a230ec398e29a19f807880a93c058d6945d17bb5493c8726a7ea5b98b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Jane Eyre: An Autobiography? Answer: Charlotte Brontë. The author lived from 1816 to 1855."
+      }
+    ],
+    "sourceRecordSha256": "cce0f0edc7baf3992d50e7ac12f3318f437e8433ab72cfc2039999b03db433ef",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_37106_0001",
+    "status": "approved",
+    "sha256": "541ed6d9487f40e9a7b640051310e4b318507c91083f0fd6592874b4b2e34887",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/37106",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Little Women? Answer: Louisa May Alcott. The author lived from 1832 to 1888."
+      }
+    ],
+    "sourceRecordSha256": "e105b5ca8c3eef7013450130b55567e213a916f19389cd2e7900fd2fdbc76a1b",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_174_0001",
+    "status": "approved",
+    "sha256": "2948c05acb691115d916c898b42a577ca8988b09462ed3d1f349cff5dcbc5b69",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/174",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Picture of Dorian Gray? Answer: Oscar Wilde. The author lived from 1854 to 1900."
+      }
+    ],
+    "sourceRecordSha256": "49a09b973267355c0cb2f473e4455eba5f785cf0a4c558ce2f45b86160ea5e62",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_98_0001",
+    "status": "approved",
+    "sha256": "37d06aa567c6ca81acac964d763d9687f5fbe2db1d5b33a1be4506fc7d4e9d39",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/98",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote A Tale of Two Cities? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "808baf330d17282faf139a3cb2eda9110eb4b123287e62822dbae22af9067693",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_64317_0001",
+    "status": "approved",
+    "sha256": "93f50af22150c716c6966bee2a1ccd738fd43f97455fad51b01b8061aa095470",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/64317",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Great Gatsby? Answer: F. Scott Fitzgerald. The author lived from 1896 to 1940."
+      }
+    ],
+    "sourceRecordSha256": "f37162fab59e1bc615699325f1f0f64ca6d18c5242a339105c2fc26155354b16",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_65238_0001",
+    "status": "approved",
+    "sha256": "be01ae75a10b1906776969988e695408992ef29bce4d63b8d9cf71ba8e3c8708",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/65238",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Secret of Chimneys? Answer: Agatha Christie. The author lived from 1890 to 1976."
+      }
+    ],
+    "sourceRecordSha256": "b81eb2fd28a64d9f7d8ab065b6ed5005cb8f36288c3dd6602281b44727ce5de4",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_3023_0001",
+    "status": "approved",
+    "sha256": "259fc4ed43eb30c3ecd15cd201c7931038b90dd501dbb513dd4b32741a10eebc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/3023",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Faust — Part 1? Answer: Johann Wolfgang von Goethe. The author lived from 1749 to 1832."
+      }
+    ],
+    "sourceRecordSha256": "6ca6d36f94aa572c33278390cf92195f5c6dbfaddf36c3aaee2952127e4c1720",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_5200_0001",
+    "status": "approved",
+    "sha256": "c3def8cdfc1699bad145903865b626f1b9a689cf1b0ced6c284b6092d1e4df2d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/5200",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Metamorphosis? Answer: Franz Kafka. The author lived from 1883 to 1924."
+      }
+    ],
+    "sourceRecordSha256": "a2f1e79c713db08cc9742c9161ed8279d3fbd99fec2624006470e5bf4532e755",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_16389_0001",
+    "status": "approved",
+    "sha256": "05793a224b67256e6aecf83a4fb36d664276173ded28a6b242689532d6793970",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16389",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Enchanted April? Answer: Elizabeth von Arnim. The author lived from 1866 to 1941."
+      }
+    ],
+    "sourceRecordSha256": "a16e62d13404e87d3afea35615a325d919b193d348641b866580c696b8e14e27",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1952_0001",
+    "status": "approved",
+    "sha256": "3ba5bb6ae646e067b76844797bd0dcfcc1cd7d3d2defd72cc43e44bdb760378d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1952",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Yellow Wallpaper? Answer: Charlotte Perkins Gilman. The author lived from 1860 to 1935."
+      }
+    ],
+    "sourceRecordSha256": "d3d6237ca050e702fbd77543c86e769a9f5e8b3de2efc565a4c884f16570b231",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1232_0001",
+    "status": "approved",
+    "sha256": "e1256e7c7741001f84c147b1cf448f544dea6c43b9f6386faa1476eafb8e28e5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1232",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Prince? Answer: Niccolò Machiavelli. The author lived from 1469 to 1527."
+      }
+    ],
+    "sourceRecordSha256": "5af18bd5174716d84f944355ad7236dc624d88da3e76e5b50cf2197d78c07d88",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2600_0001",
+    "status": "approved",
+    "sha256": "8b68de4a04890128aa0103f347b0dd2060022ba469b28bd3e7d97314d0e2e5ca",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2600",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote War and Peace? Answer: Leo Tolstoy. The author lived from 1828 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "42bb26a972d1a43e304f189bcf55563efa75f078bd25e4405e5a11475d062c5b",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_730_0001",
+    "status": "approved",
+    "sha256": "a8a0a5ee10c6643c9513112e47589f945d166fcc185d0dabf5d2d543006ea516",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/730",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Oliver Twist? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "3e7e485f88c151f83cc0406dd530650f821daa498783c45e58928fc28014a295",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_236_0001",
+    "status": "approved",
+    "sha256": "4b478bbdbd3cc4956b17ca35cf6b7c1c369abfc04cf69d9615969a24675ee106",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/236",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Jungle Book? Answer: Rudyard Kipling. The author lived from 1865 to 1936."
+      }
+    ],
+    "sourceRecordSha256": "4d302bf80d251eb05cd01ea64e1978264d67e5e3763f8a9a39234fcf8dab9f81",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_105_0001",
+    "status": "approved",
+    "sha256": "27ccd460c1b31d5860b9eabff3781faea245edb9371928ba9b5b7a221b31afaa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/105",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Persuasion? Answer: Jane Austen. The author lived from 1775 to 1817."
+      }
+    ],
+    "sourceRecordSha256": "fbbec0a5591bfd3a9f9f1aef7ee7dc8e32278045e66f03661549d9be1e4d89db",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_600_0001",
+    "status": "approved",
+    "sha256": "e8c2664ceddbfcc17288da207b71e47ce19a0be8af19efb06e5e04b6d564cf88",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/600",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Notes from the Underground? Answer: Fyodor Dostoyevsky. The author lived from 1821 to 1881."
+      }
+    ],
+    "sourceRecordSha256": "a82dacc97ea6b04286a991507a0c178cefe4bdc148feb5a2781c86f02a4a44ea",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_245_0001",
+    "status": "approved",
+    "sha256": "f53f9a8927699d12b01916d887c3cea485d7990777020f5f477f58646a214c83",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/245",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Life on the Mississippi? Answer: Mark Twain. The author lived from 1835 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "8e78420677d0541ca08842d72d1415c3835888b8db34ddcc9698a1bf89c58e18",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_113_0001",
+    "status": "approved",
+    "sha256": "6ba6bbd70b4f7707333f08b3dc0c97924cf2967d5e75997f745743d14fc820eb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/113",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Secret Garden? Answer: Frances Hodgson Burnett. The author lived from 1849 to 1924."
+      }
+    ],
+    "sourceRecordSha256": "8366a619c81726b8028c95b0191872e39499d896e85c4be70643353b439745a6",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_3600_0001",
+    "status": "approved",
+    "sha256": "c909832a7c02a75d6f3f01f3c5639e5cdec9f2dd89fc1662e894704059f6d7ab",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/3600",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Essais? Answer: Michel de Montaigne. The author lived from 1533 to 1592."
+      }
+    ],
+    "sourceRecordSha256": "e59c9d42883a07e95e7a65561840c38769f2bab4d9d1b33c2a8d205e119e75e8",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1023_0001",
+    "status": "approved",
+    "sha256": "f7ab09d31b7b93d8a2929d65693a767b7a1ac64a320224d6063e7aae219b7e28",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1023",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Bleak House? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "d31b566d267dd62ae37d3408ff726c5503f0cd03201e61043724ef45539efe9e",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_147_0001",
+    "status": "approved",
+    "sha256": "503a7d28c5c56092887d1eacdf252c08f4e317361d40c73386b2d8ebc1bcc079",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/147",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Common Sense? Answer: Thomas Paine. The author lived from 1737 to 1809."
+      }
+    ],
+    "sourceRecordSha256": "5b5c9c4fc4365ace1cebb711e897161d42fb30dd8bd81379267678ab3b5f61a6",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_521_0001",
+    "status": "approved",
+    "sha256": "a4d5267c7d6d328d026f8ba7678684cd4aad11a158b36f451163f07b271e8f62",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/521",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Life and Adventures of Robinson Crusoe? Answer: Daniel Defoe. The novel follows survival after a shipwreck."
+      }
+    ],
+    "sourceRecordSha256": "4b7cea112b9440be04f1958e8116ab482b0566f2f71bd5d8a6661cb0998a6abb",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_26_0001",
+    "status": "approved",
+    "sha256": "73a12077c6db1447413afb24d4946ba895d076951adf6c7f7321a6a5a65fb184",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/26",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Paradise Lost? Answer: John Milton. The author lived from 1608 to 1674."
+      }
+    ],
+    "sourceRecordSha256": "96e86126e905d01ced1e5b8a61c39ec98175ba907f350a2f15daa783501c9276",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_164_0001",
+    "status": "approved",
+    "sha256": "daaf7f5a4ff665935108d93c4bc3e566c335e09c10c7c8bedbaae6c1c8a96f03",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/164",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Twenty Thousand Leagues under the Sea? Answer: Jules Verne. The author lived from 1828 to 1905."
+      }
+    ],
+    "sourceRecordSha256": "2be2f7afb99b54cbb8c329eae9cbf6bbd480e977b97c6bd9685e1e4d001697ec",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_103_0001",
+    "status": "approved",
+    "sha256": "b4b97fc92684aa4318b9be4ef467e5dcda859fcc3776bf9af7e62eed21219c37",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/103",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Around the World in Eighty Days? Answer: Jules Verne. The author lived from 1828 to 1905."
+      }
+    ],
+    "sourceRecordSha256": "7881c1fa5264c8e5dad09123e768d85b8703387907e060f1c8380c2c11cb8541",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_19942_0001",
+    "status": "approved",
+    "sha256": "c282b598d9f50d551c83fa82b9794747d9000125f089f521d6ef57a64cf40da9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/19942",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Candide? Answer: Voltaire. The author lived from 1694 to 1778."
+      }
+    ],
+    "sourceRecordSha256": "09a15ab1eb6cb1f51c82e4854d753dd5202d5b00a16f2377a443aa233f383459",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_5827_0001",
+    "status": "approved",
+    "sha256": "6e56449ca3eb550cd323b460935ee3c944b14002c2c5a02fe76d1648a1e50084",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/5827",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Problems of Philosophy? Answer: Bertrand Russell. The author lived from 1872 to 1970."
+      }
+    ],
+    "sourceRecordSha256": "50a1c9dcc1354dafcda1c77b68f6c8d4784b58e2a8cf1772501fc9a91a3c1690",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1322_0001",
+    "status": "approved",
+    "sha256": "88cf251e886b2b48766def882c3c31526d2921fe92f0a339c8cf7c551bba1381",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1322",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Leaves of Grass? Answer: Walt Whitman. The author lived from 1819 to 1892."
+      }
+    ],
+    "sourceRecordSha256": "5715104cdefa80c0e8a44f34f64563c6c95b61d964105ac9578c3959f9a79939",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_58585_0001",
+    "status": "approved",
+    "sha256": "b7b8911e3c45aa8ddb615a170f9caacac2822ee122a657d92e295df4984c03ab",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/58585",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Prophet? Answer: Kahlil Gibran. The author lived from 1883 to 1931."
+      }
+    ],
+    "sourceRecordSha256": "7dcae9ec6b6c35d88a7437e290256e9c3e9158d606d08adbe8d63ea56843d8b2",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_4280_0001",
+    "status": "approved",
+    "sha256": "c40d0372b972e7726857d39d82511ade0a3f2229c277643a92d39a85f7a804f1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/4280",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Critique of Pure Reason? Answer: Immanuel Kant. The author lived from 1724 to 1804."
+      }
+    ],
+    "sourceRecordSha256": "6664058126489e089cf07e5ef691a7632e94503fe5b4a87b89e2580e0a0fcce7",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_14838_0001",
+    "status": "approved",
+    "sha256": "af9a3256feb2efbf6c27094a1308b06a5b38c955203d4f6e45fcb5af328a8f66",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/14838",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Tale of Peter Rabbit? Answer: Beatrix Potter. The author lived from 1866 to 1943."
+      }
+    ],
+    "sourceRecordSha256": "0780ed89af42d8b737f251da92cfa739081937a89e9973d5d9a19ba224d50852",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1524_0001",
+    "status": "approved",
+    "sha256": "da0e51387206972aaef17358b281b07842add0528cc8509184b45b04b7fcabeb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1524",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Hamlet? Answer: William Shakespeare. The author lived from 1564 to 1616."
+      }
+    ],
+    "sourceRecordSha256": "2136b905636cff686d21c301304c08259aaca11adfbf9bba321a9d8fa37de344",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_766_0001",
+    "status": "approved",
+    "sha256": "18856818f13eb64bb8b9cba8b56ab44af0fe5e33e952a64f6cf708039b415742",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/766",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote David Copperfield? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "624782c446c239ed6891227e64dab489fa0e947f215bfe115289b7e4b037bdca",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_204_0001",
+    "status": "approved",
+    "sha256": "cf91839a41d90f6ec2131487d69a10cc5a8db2494f9722e6225c5ea409041f96",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/204",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The innocence of Father Brown? Answer: G. K. Chesterton. The author lived from 1874 to 1936."
+      }
+    ],
+    "sourceRecordSha256": "85986d776b24eeeb11851b97ad2eeb1a2930cf34bccf7d480eda4cffbb029ab0",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_57628_0001",
+    "status": "approved",
+    "sha256": "851328a575bca369903b743cdeabd09193921d06548bc90cf77d9f3ca821a011",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/57628",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Principles of Psychology, Volume 1 (of 2)? Answer: William James. The author lived from 1842 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "b9ac3747956773d5e2458979adb5587f3817889aef79cd861e13c7398d552fe2",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_108_0001",
+    "status": "approved",
+    "sha256": "89e2d08b605fad6f1a6b44bc8c06011e22ba8434d3995c1f0bc02fececc7df82",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/108",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Return of Sherlock Holmes? Answer: Arthur Conan Doyle. The author lived from 1859 to 1930."
+      }
+    ],
+    "sourceRecordSha256": "1afac59b5acc8c7053ddbd7576472a3758af7c4448dfdfcff6a1a1cdce8b745f",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_52319_0001",
+    "status": "approved",
+    "sha256": "b3b2c8d0b468eb1ea9322eba74ad466394c7b3f16c6d3a5dc5a7f827417dbded",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/52319",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Genealogy of Morals? Answer: Friedrich Wilhelm Nietzsche. The author lived from 1844 to 1900."
+      }
+    ],
+    "sourceRecordSha256": "e19eb749a7ed53bd0d7071d9060fef67caa4dfd1cbc2dddb031d2f5e189346b1",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_69087_0001",
+    "status": "approved",
+    "sha256": "4cbec63348e74fb446ece129d851bd0e628bac6b4d9cd8f2f89e5244a3fc1391",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/69087",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The murder of Roger Ackroyd? Answer: Agatha Christie. The author lived from 1890 to 1976."
+      }
+    ],
+    "sourceRecordSha256": "e32bf34267cc23ed7f42fcb81de0bdb84d79d1ef7e153487e256ae5d9391b6f1",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2638_0001",
+    "status": "approved",
+    "sha256": "45da442c839cfb4678581dcda3ca5d48221ba465b24836b53ea2be437852abb5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2638",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Idiot? Answer: Fyodor Dostoyevsky. The author lived from 1821 to 1881."
+      }
+    ],
+    "sourceRecordSha256": "16c326351dfe8d0a2a49bbf51a459b2a5650f1a242a6b128e738d0c6be85c59d",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_205_0001",
+    "status": "approved",
+    "sha256": "a8fd159d12238869f8ea2bbb2d812c9066e8e279866ff0e0837833a611dfc027",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/205",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Walden? Answer: Henry David Thoreau. The author lived from 1817 to 1862."
+      }
+    ],
+    "sourceRecordSha256": "b4fdf7523b62d3914a55854e0542def96927e4c8e8f9447ecf7757fa599ba5fb",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2097_0001",
+    "status": "approved",
+    "sha256": "79221a30036690bb7f44459bb21cac8e0ece95aeb3139b20584d8cd392e4d5dc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2097",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Sign of the Four? Answer: Arthur Conan Doyle. The author lived from 1859 to 1930."
+      }
+    ],
+    "sourceRecordSha256": "7690df48d2df64d544ae42bbcda2858b46af26bc648c29474ca3271c3deba14b",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1934_0001",
+    "status": "approved",
+    "sha256": "150a71d79627636ae5f5edfb76e279405025b9f3aa3ff58fd4e778286864aecc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1934",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Songs of Innocence and of Experience? Answer: William Blake. The author lived from 1757 to 1827."
+      }
+    ],
+    "sourceRecordSha256": "f657dd1e6b4b117a037c1199d3d1468201cb49c70ee248658ca04d8422e5a48b",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1695_0001",
+    "status": "approved",
+    "sha256": "82cf9cea4185ff3044616a72fd4d9fd7ec95754a5aa762ff7d1fa0daaa27c093",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1695",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Man Who Was Thursday: A Nightmare? Answer: G. K. Chesterton. The author lived from 1874 to 1936."
+      }
+    ],
+    "sourceRecordSha256": "06f62c7c8fc485201ae1125c117cab9bdf8fcbb14e828a88dcdfd15f376177d9",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1251_0001",
+    "status": "approved",
+    "sha256": "1b9280c0822230c81cade3c009d8076d61d0b639582b13a4ca9d378a05c55e57",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1251",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Le Morte d'Arthur: Volume 1? Answer: Thomas Malory. This work belongs to the cycle of legends about King Arthur."
+      }
+    ],
+    "sourceRecordSha256": "3923f18a97736d1dc1d40aaa1332ffc3b798fd066c86d310e41d1c848c484f94",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_289_0001",
+    "status": "approved",
+    "sha256": "10ae6f71505af066bbe60eeadacbf8dc641b8f833c8862ce2250615f049da90b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/289",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Wind in the Willows? Answer: Kenneth Grahame. The author lived from 1859 to 1932."
+      }
+    ],
+    "sourceRecordSha256": "442ab4906573a501a41bea0715a40a2a065713ec3125594fcbde5c11fe6a15b3",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_25717_0001",
+    "status": "approved",
+    "sha256": "297cebeb30ff9df55064c0fe97ebb337512e18bf3f88bed405421c9c503616d2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/25717",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The History of the Decline and Fall of the Roman Empire? Answer: Edward Gibbon. The author lived from 1737 to 1794."
+      }
+    ],
+    "sourceRecordSha256": "dfc8dc475ff66ba12cd16c8471c5cb930b6e28ec3c20d775c728e04131f079ca",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_863_0001",
+    "status": "approved",
+    "sha256": "30aa849fc28e710fffd8b53615511ed121564ef469f0d6896fd8a5ea4aa03d2d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/863",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Mysterious Affair at Styles? Answer: Agatha Christie. The author lived from 1890 to 1976."
+      }
+    ],
+    "sourceRecordSha256": "5a208b99a8a60f317b55ef984676829f03507c4eca2ca828b84e6f191adf1271",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_160_0001",
+    "status": "approved",
+    "sha256": "7cb2fe0d44e041c0402e7e36180bca7287aec54736e0bb1540cf3a5e29f6ae18",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/160",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Awakening, and Selected Short Stories? Answer: Kate Chopin. The author lived from 1850 to 1904."
+      }
+    ],
+    "sourceRecordSha256": "076a7b3b00f5e2c373e1048350dd35a10b4fc9be7e5e967772481e45a617f78f",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_11030_0001",
+    "status": "approved",
+    "sha256": "95b190a29f162a30da280728481125e16afc22a2b53980c58f9088b8765f601d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/11030",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Incidents in the Life of a Slave Girl, Written by Herself? Answer: Harriet A. Jacobs. The author lived from 1813 to 1897."
+      }
+    ],
+    "sourceRecordSha256": "fdb7591c999754fe8c399494937828dbbf75fc4e2c408b5e8c2bfd1d15b009db",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2527_0001",
+    "status": "approved",
+    "sha256": "ce438024871c9eb3e95a5389d95bf565737296f9899bd37fee439c8d354a421c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2527",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Sorrows of Young Werther? Answer: Johann Wolfgang von Goethe. The author lived from 1749 to 1832."
+      }
+    ],
+    "sourceRecordSha256": "910a8cca9559f4ec4db12c50bc062c551045ceab8ba376b9061a9e9687518b77",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_3800_0001",
+    "status": "approved",
+    "sha256": "a4f34fc57aa4847719034c9a62cb6e6cb85fb855b5fce3f14db5912882c5ce74",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/3800",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Ethics? Answer: Benedictus de Spinoza. The author lived from 1632 to 1677."
+      }
+    ],
+    "sourceRecordSha256": "b0fd7e28fe6e26fbaae9508b395742e8e434bb2a8e74da737540a0332b3abdaf",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1063_0001",
+    "status": "approved",
+    "sha256": "d85a99b1d1af2e183cb51351e08dea9701728de3bee0464779dc7be5c8d7bc23",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1063",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Cask of Amontillado? Answer: Edgar Allan Poe. The author lived from 1809 to 1849."
+      }
+    ],
+    "sourceRecordSha256": "8603a33b3474ec9ed39b3ed54be8d5b51f3febf12bd0bfd3c3831d377e142ebf",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_219_0001",
+    "status": "approved",
+    "sha256": "cd3b5fbeab57de06244565d1863e81500198b3559f0ba6de373bef43bf89558c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/219",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Heart of Darkness? Answer: Joseph Conrad. The author lived from 1857 to 1924."
+      }
+    ],
+    "sourceRecordSha256": "2287618ff226ffb47ad49bba6ee8e193167f7728c0cc660226feac6896a609a7",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_3300_0001",
+    "status": "approved",
+    "sha256": "8878d4b4768ab7bbd8d2e135b63b30c0cf0755e25c71fb02167b178267d7fa12",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/3300",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote An Inquiry into the Nature and Causes of the Wealth of Nations? Answer: Adam Smith. The author lived from 1723 to 1790."
+      }
+    ],
+    "sourceRecordSha256": "13b9e4b0365c2b5367193aa20b8994bbabf931fcd228951f987fc10bb83586e8",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_36_0001",
+    "status": "approved",
+    "sha256": "9582b16df8e694ea3e8442fcbbb07beb4eb22a524b91ddfd58e69a97049f556f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/36",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The war of the worlds? Answer: H. G. Wells. The author lived from 1866 to 1946."
+      }
+    ],
+    "sourceRecordSha256": "70656c33e29aae350b9a1655fc0d0949d67066672c75cc4f293754146922f739",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1228_0001",
+    "status": "approved",
+    "sha256": "9cdc94dc871a43854f6b43800c7ab6c8ce2e0faba29d8de601a76871b4a3cfb5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1228",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote On the Origin of Species By Means of Natural Selection? Answer: Charles Darwin. The author lived from 1809 to 1882."
+      }
+    ],
+    "sourceRecordSha256": "4723bd08f107f41bfff654d773f160eca9fa56ad4d7689f5c5aeb8e835b502ae",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_135_0001",
+    "status": "approved",
+    "sha256": "acc05504471ba47a5fdd7b28d02905a9f28f24d387e75426b375c85d3a1b932e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/135",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Les Misérables? Answer: Victor Hugo. The author lived from 1802 to 1885."
+      }
+    ],
+    "sourceRecordSha256": "cc72b381e7e623a0cb6163f17b85dd3005acc1c4aad933d1467a81c5f9c65fe0",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_996_0001",
+    "status": "approved",
+    "sha256": "9e176c8b0b315ae8ef036888793a90943b074e7e97698a205ca7f5a8307a3183",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/996",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Don Quixote? Answer: Miguel de Cervantes Saavedra. The author lived from 1547 to 1616."
+      }
+    ],
+    "sourceRecordSha256": "cec65cf91907bbbb12a2b7a09f91d49801c7f4132eef3d2646c8519e463d8082",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1399_0001",
+    "status": "approved",
+    "sha256": "846be4ccf4a8875abed6595647eda2793ea687f446a1cffe203c6f208b74e6c8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1399",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Anna Karenina? Answer: Leo Tolstoy. The author lived from 1828 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "eed9536f4ed6c7673436126b6d26e71185d1eac6f09b42dbc223b512823bab7b",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_829_0001",
+    "status": "approved",
+    "sha256": "ceeb18ad397da54e64822ff93ae656ca0c5e0cb9d60ef7871f58ad1690b83f55",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/829",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Gulliver's Travels into Several Remote Nations of the World? Answer: Jonathan Swift. The author lived from 1667 to 1745."
+      }
+    ],
+    "sourceRecordSha256": "b4dac613184bf6b61af97d30a265a3516716b217fd1046a62857e7b6657ffe50",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_67098_0001",
+    "status": "approved",
+    "sha256": "cda141d72265fe5589230f194060bfc098abf2f59f6a9e96386c4c7b3f143b3f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/67098",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Winnie-the-Pooh? Answer: A. A. Milne. The author lived from 1882 to 1956."
+      }
+    ],
+    "sourceRecordSha256": "7c0447965e470b87eb8a63a95e1f058b5cfd080f7a3d47eafb7ac829f3a03f15",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_215_0001",
+    "status": "approved",
+    "sha256": "4873fadb741685f9518d1ffc4c4d1702055a79bd20e7ebf4d0fee76fb32d9662",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/215",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The call of the wild? Answer: Jack London. The author lived from 1876 to 1916."
+      }
+    ],
+    "sourceRecordSha256": "c3d957324caa0fd89e109d1b0bc042ba1564dc2d68a92b35c60c158d71db3257",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2814_0001",
+    "status": "approved",
+    "sha256": "1ff55a479721e278943e15c1b02ef6188ec3523fb4e13b1fc2438aceaa7cb43b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2814",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Dubliners? Answer: James Joyce. The author lived from 1882 to 1941."
+      }
+    ],
+    "sourceRecordSha256": "f7b2af13fbdef31e992e271d5ae2ba65b7986289fff0222f6aee57980c116167",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_209_0001",
+    "status": "approved",
+    "sha256": "f76e904daba6ca0eb21798b5c2af137a0d603765c9a05f41a8bc6a0e66eb4035",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/209",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Turn of the Screw? Answer: Henry James. The author lived from 1843 to 1916."
+      }
+    ],
+    "sourceRecordSha256": "6d1f76c5671344c1756543d457223e88b7b6b65ad7c7694cbf09e1adca38a613",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_12_0001",
+    "status": "approved",
+    "sha256": "7aebbbc84df0e6571c4fe56b45cf157dfe88142a0a4ba83cea52a3227f868784",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/12",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Through the Looking-Glass? Answer: Lewis Carroll. The author lived from 1832 to 1898."
+      }
+    ],
+    "sourceRecordSha256": "f2c11d40b55081ece8217b2b2ea7469678de10aa2833075abd903243376bb082",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_158_0001",
+    "status": "approved",
+    "sha256": "0545ad12e9896b3eb6cd90ea1d484a66892466c635be82a36b910666a25ec689",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/158",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Emma? Answer: Jane Austen. The author lived from 1775 to 1817."
+      }
+    ],
+    "sourceRecordSha256": "b211b257d61229bfcd6f18339c55d58e1927b6cd737f0a0609df9e5d1cc5be30",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_175_0001",
+    "status": "approved",
+    "sha256": "f6e438a1c9db64d8dba930c12dc27b21a9b5a1dc53c9d74ef2ab707e734e673a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/175",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Phantom of the Opera? Answer: Gaston Leroux. The author lived from 1868 to 1927."
+      }
+    ],
+    "sourceRecordSha256": "6ad9787369f3badef59f1fde849185987679ba870150a2ae227e825cf45ec65c",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_45_0001",
+    "status": "approved",
+    "sha256": "e3453a15fa013d46cc164e61e1a9abb7878dc09d40ba53b19f74244d03f0399b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/45",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Anne of Green Gables? Answer: L. M. Montgomery. The author lived from 1874 to 1942."
+      }
+    ],
+    "sourceRecordSha256": "89c2dbbfee5898df57e72d2100bc7ace4b11a2043b9e56541c8f4ae328f2c0cc",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_161_0001",
+    "status": "approved",
+    "sha256": "b79a67a87a2e6c26aaa99390433984a7f63596ab209d7504db26d67b230a6ffa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/161",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Sense and Sensibility? Answer: Jane Austen. The author lived from 1775 to 1817."
+      }
+    ],
+    "sourceRecordSha256": "a46b933ec91a2e8e22b031a7e51bf5612519ff72afaad677335f4008abc51717",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_768_0001",
+    "status": "approved",
+    "sha256": "f4d4bbef5d3828bb614d8b7a173e92b6c5746b705fbb1230b7cde9385a989c78",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/768",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Wuthering Heights? Answer: Emily Brontë. The author lived from 1818 to 1848."
+      }
+    ],
+    "sourceRecordSha256": "d22531837aed988777a4eb903e85544ca91bc5bbea7b49b967b156aaf900936a",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_33_0001",
+    "status": "approved",
+    "sha256": "c6a9b2e92888c0b78c4cff778437ce7e94ef7beeed9323a111555094f2621fa5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/33",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Scarlet Letter? Answer: Nathaniel Hawthorne. The author lived from 1804 to 1864."
+      }
+    ],
+    "sourceRecordSha256": "81aaefc1f694d2801f6be966ea093316b9590bcdb83ad8762cd282e65c7e30f3",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_805_0001",
+    "status": "approved",
+    "sha256": "4afe9b5e3f34ae49e30c8fd76614acc593283064380e37f93355d921bddef3cf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/805",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote This Side of Paradise? Answer: F. Scott Fitzgerald. The author lived from 1896 to 1940."
+      }
+    ],
+    "sourceRecordSha256": "55e602ec97cca8d121bcad7ec438b38ef066d2f5d34e8f8e33f42c1bee2db8d2",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_120_0001",
+    "status": "approved",
+    "sha256": "68e2b41c2435f5bd64a6466e022f5975f0801e3443e95f6b01c1c5c969fb8d26",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/120",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Treasure Island? Answer: Robert Louis Stevenson. The author lived from 1850 to 1894."
+      }
+    ],
+    "sourceRecordSha256": "5ad5e2146306be5622ea7813a60967ff3fcde74407938e45ce3f3cedff2b833f",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_35_0001",
+    "status": "approved",
+    "sha256": "9660f17538ed6f837096f78116c290c41d87e1b7da1547c3f464683ba79a11ec",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Time Machine? Answer: H. G. Wells. The author lived from 1866 to 1946."
+      }
+    ],
+    "sourceRecordSha256": "78c33df7278d52d8b2e4fef076bf89b56307c0764beb9335507297877eb837bd",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_16_0001",
+    "status": "approved",
+    "sha256": "088f8deb2cb4807fce05de8bd2eab6ae41520fb0a3fe6c1179b16f34197ca1b9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Peter Pan? Answer: J. M. Barrie. The author lived from 1860 to 1937."
+      }
+    ],
+    "sourceRecordSha256": "44f1645567ffc79e3de41e2650c15e696b0b539a7c38f541c43c88295a494e87",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_74_0001",
+    "status": "approved",
+    "sha256": "45cb214ff4b0f4f5391a905f8e238fe820707561120ba339ea1c87c28e7e309c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/74",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Adventures of Tom Sawyer, Complete? Answer: Mark Twain. The author lived from 1835 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "54d697b3d1ada1004f58df63eee38beaedc2a9d0056127d8e2fd2c2cec896083",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_76_0001",
+    "status": "approved",
+    "sha256": "edf56fbc86fd7b21db6e440b23a660505d84f4b63631a0b1078c5ed08e4225ff",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/76",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Adventures of Huckleberry Finn? Answer: Mark Twain. The author lived from 1835 to 1910."
+      }
+    ],
+    "sourceRecordSha256": "9c151b620f81d087f3d133964d780c80f64433e7c40df7bb9692c1f3cc51b31f",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_1400_0001",
+    "status": "approved",
+    "sha256": "903ca84f164b67f67f11ceb89c9a6e5b28cad91bdd977ae201d0c1c8454d5e82",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1400",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Great Expectations? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "5dfcc2d56e9a5153e83d3fbb0b9111f2cd36bfc4a1fe6ecba62e0cad60ba3986",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_421_0001",
+    "status": "approved",
+    "sha256": "78877594c7b2b31c51eceb538d17b47c18a9a1a8b11a42b723468647930457aa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/421",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Kidnapped? Answer: Robert Louis Stevenson. The author lived from 1850 to 1894."
+      }
+    ],
+    "sourceRecordSha256": "a2e85219fbc0374f4d7bbf88a4254b3f911dd1b65307bf6a1be29787983d7660",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_2788_0001",
+    "status": "approved",
+    "sha256": "c10c36d4b2e1ed035b3d90d82617ab5bbc387b0e5ffcff6118cc0db82fc79f5f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/2788",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote Little Men: Life at Plumfield With Jo's Boys? Answer: Louisa May Alcott. The author lived from 1832 to 1888."
+      }
+    ],
+    "sourceRecordSha256": "2bdad5a79b5623232bd7a4004da96abc315ef81a497a319773e30c8b52fcf674",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_46_0001",
+    "status": "approved",
+    "sha256": "cc6558781402809a764d0d58b00727b1a7e12c1138e5edd28fd3f5879d9f30ac",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/46",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote A Christmas Carol in Prose? Answer: Charles Dickens. The author lived from 1812 to 1870."
+      }
+    ],
+    "sourceRecordSha256": "6f5904be673c7225d73e77aa41bd60aca8081cd24cbc3248b34cbb0ddf619946",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_60_0001",
+    "status": "approved",
+    "sha256": "148ed5a60a3055f90d94c6ae93b9518e7a0affb14fe9245d4ba09ec4343bd311",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/60",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Scarlet Pimpernel? Answer: Baroness Orczy. The author lived from 1865 to 1947."
+      }
+    ],
+    "sourceRecordSha256": "384a3f1c849895813061488870ec068eb4ecb281faf36baea61bdf63f6f50f12",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
+  },
+  {
+    "id": "literature_catalog_pg_55_0001",
+    "status": "approved",
+    "sha256": "9f563a233ae83fd6f2c5e7bf9eb613842335554d7a9017ed41ce49eb716ce2e9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/55",
+        "location": "Catalog ID; primary author, not translator/editor; author dates or subject headings (not ebook upload date)",
+        "claim": "Who wrote The Wonderful Wizard of Oz? Answer: L. Frank Baum. The author lived from 1856 to 1919."
+      }
+    ],
+    "sourceRecordSha256": "47e42181b408c3a3e62a0c5eff72387b4855141ca7020c4f2f6f62376edb187c",
+    "reviewNotes": "Reviewed the primary bibliographic record: work and primary author, with translator/editor roles kept separate. Duplicate editions and author-revealing/generic titles were replaced. Exact lifespan is used only when both dates are certain; Malory/Defoe use catalog subject facts. All options are distinct writers, none another name of the same creator. Corrected mistaken candidate IDs and the malformed English Malory label before this review."
   }
 ]

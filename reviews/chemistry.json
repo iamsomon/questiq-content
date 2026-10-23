@@ -178,5 +178,1005 @@
         "location": "PubChem periodic table JSON: AtomicNumber, Symbol, StandardState and GroupBlock rows"
       }
     ]
+  },
+  {
+    "id": "chemistry_catalog_element_li_0001",
+    "status": "approved",
+    "sha256": "062e1efb52f096ddeebd24316a6cb25befc828ab4c2ef7e32cf808d3a50e0c1c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Li? Answer: Lithium. Its atomic number is 3, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "bbe6295471cff305c819d24325c8b8cc3eaea912ef102d22200a9c17b7bbfcc7",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_be_0001",
+    "status": "approved",
+    "sha256": "06da2b730c2d8f71668d45be032119134e94a181c2dd3e00c47cbdbbe7dd62a1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Be? Answer: Beryllium. Its atomic number is 4, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "c4d3a8fc601906f4fa678a87369fde43d797e17fe4ed23e306577f41c9734d0e",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_b_0001",
+    "status": "approved",
+    "sha256": "849408708fe34dc6937d3ced91fc034fe2a66ec82afdae561b782c0ece7e4d43",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol B? Answer: Boron. Its atomic number is 5, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "fed0fe6c74b568a81b3d7281f1e42e485edf793daedf50be0e75224195b04fda",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_n_0001",
+    "status": "approved",
+    "sha256": "01bfef98cbba29bde5af21879fd02b4ddf3733d4781b6b15f462b5a6aa4cb004",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol N? Answer: Nitrogen. Its atomic number is 7, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "df48358147110bb40cef8c06e6891cb62f0c454d28877fe3f39117b98d17ed14",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_f_0001",
+    "status": "approved",
+    "sha256": "5a88cfc9f7e08864237bbbd19b434dddaa644b46a9805a7cbdc80247b327ed81",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol F? Answer: Fluorine. Its atomic number is 9, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "29d9f651f3be880391aadf38ac7cd9b00e623cb140fc0152d71ae9ee355f14f5",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ne_0001",
+    "status": "approved",
+    "sha256": "b758c9714c825afee6ba9be75ddac0a94c0849a3320f106f06edb9d33c9403e9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ne? Answer: Neon. Its atomic number is 10, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "784dbd0e1875e6dad656ec9c15bd41f8082cdb9cb5d4f98745b79ecb864b764f",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_mg_0001",
+    "status": "approved",
+    "sha256": "b10f8b2e26b43ce3d30a37185abb13bacb99f1d7340b0c0e2a9bc04a7aa3c971",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Mg? Answer: Magnesium. Its atomic number is 12, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "9ba2b86352171166680021ff5d08fedd9d88cd74f88e9289647f3def4c8df145",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_al_0001",
+    "status": "approved",
+    "sha256": "c5281551e3153772df62cfb1a5ee330a9e736a1a13f19222ca43212b4c5ea639",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Al? Answer: Aluminium. Its atomic number is 13, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "2f6c5e00bda86dc4c204ba8427e39bcc087447d234df652d4e35745fa42d6999",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_p_0001",
+    "status": "approved",
+    "sha256": "a537fe91ff5c7a733dcdfebd87272b3fdd4bc341284edd02a2404502c2a9b787",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol P? Answer: Phosphorus. Its atomic number is 15, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "078db999bd232e5a95e7f45766a4db7889e0e06b9d0808500086c30814357997",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_s_0001",
+    "status": "approved",
+    "sha256": "fe8270d14a0b7286a485e3750c48bf974e10759f9723a9788adcb0d261e389d9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol S? Answer: Sulfur. Its atomic number is 16, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "0ce5c8d307ef3d52f18ea3c5d6c890907ec35f1ce69785ea70a2742a18b846ec",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_cl_0001",
+    "status": "approved",
+    "sha256": "3058327d07624bed33f270f90ebb7b6f951a6fc8f5e6b83b04e4bf36df0f08ee",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Cl? Answer: Chlorine. Its atomic number is 17, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "8f5879361d867fe3c90803555fa8ecffc447cca4df88169b73b812bededaab25",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ar_0001",
+    "status": "approved",
+    "sha256": "b693d19958d8d4a7b2556fda6d84ca7492a1c11a694b4f7f8e7d04ca70d7a1f3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ar? Answer: Argon. Its atomic number is 18, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "f9c9600bce0f6a6bc68d3c5ae52969b38613eb3aaa91e43d4d0614df944eba92",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_k_0001",
+    "status": "approved",
+    "sha256": "45cdce70c449b52b075e00842a93c40ad9a603fe2bb704c0a33de617457baa54",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol K? Answer: Potassium. Its atomic number is 19, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "bb2c99abfdecefad0ea963b8347e916d1988b44ecda6ef846557f2515eca49e5",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ca_0001",
+    "status": "approved",
+    "sha256": "cae2960856a082faec3ce67b522062f9baf4f7a562450cb78fd3373c395f1f43",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ca? Answer: Calcium. Its atomic number is 20, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "62af5d5c00d8bfb3b240c347bbd24eba198dc5f38b96d7ee687dcd9b99482b70",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_sc_0001",
+    "status": "approved",
+    "sha256": "009bc8afe9191ad34d6835ce055202561a1db15911b024713fd64341e984e3f6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Sc? Answer: Scandium. Its atomic number is 21, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "b709c9735ad0b65a0931d19744deb1ba246de7c3696e1bb545c69d48d467b6e4",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ti_0001",
+    "status": "approved",
+    "sha256": "df1652fffc84e497b31833f29bc6fef7ee2691ad4714752d0661a4582a690c68",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ti? Answer: Titanium. Its atomic number is 22, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "a06640e0a9a2bfe5e7098281339eeff8d301b1c381f0b13ef1331af61f1b6692",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_v_0001",
+    "status": "approved",
+    "sha256": "e92e440a5e6240e2e353d24ef9661fd780ac9b29d7c59f82dcf18d5fa2ebbb38",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol V? Answer: Vanadium. Its atomic number is 23, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "b916a3103a162912f70b91d4cc8b83bd05d59ac2f3f1586b2098ba843590f003",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_cr_0001",
+    "status": "approved",
+    "sha256": "6f1a99babb334db22cc96332e51c130883d9ceec1272430fe522cc89a2b6019b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Cr? Answer: Chromium. Its atomic number is 24, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "16a25276e8b6fcdd43d682196972d04fadfb066c51bdd69a8929d52e2c0251df",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_mn_0001",
+    "status": "approved",
+    "sha256": "17ee1cd2fc95c3a622cbf02545875de2f598d73391e22a394b9ef30ba309592e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Mn? Answer: Manganese. Its atomic number is 25, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "6b28fdad987749072e15c1b017452951c6ea8ee77e94e2d8e99ee9b8f6b1e235",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_co_0001",
+    "status": "approved",
+    "sha256": "b8962f3f4fa1a722e2fb60b126c46c35bd27483f57ebc1dcc540afac636fac6d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Co? Answer: Cobalt. Its atomic number is 27, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "c79770df87dbdbf714907124f579f6ce37bf419a143c87791c8abb1f4cf54f05",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ni_0001",
+    "status": "approved",
+    "sha256": "364e1486024d8328583f51634c551c520d0dd429a2598982addcf2fc7e6fd732",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ni? Answer: Nickel. Its atomic number is 28, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "b390b209636a2e0aa546a9149c84c89c40e731a8d66a4b285a46f4f4064d2a44",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_cu_0001",
+    "status": "approved",
+    "sha256": "655f5706fb7603da707e73ea7091d60a9837418ed4cb46f28eb6e4ca2019e082",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Cu? Answer: Copper. Its atomic number is 29, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "a51f68a4cdb8b207acdc77c5cd7d76e0509c5c8ba4559122b32191bf9a9c8f62",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_zn_0001",
+    "status": "approved",
+    "sha256": "31493137205b83089d7a7d13ab78712571d28285cf7eb4056c8e191d9f168d5f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Zn? Answer: Zinc. Its atomic number is 30, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "d7a00eda5451c757406e5647aa5f4e80119af8cdd536b496454a7b2839c9270e",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ga_0001",
+    "status": "approved",
+    "sha256": "a8949dd9bd65093cfaf99e7f070a8c825c2e4d5653dda669e0707ea963025422",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ga? Answer: Gallium. Its atomic number is 31, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "42e9cbaaacec23aaa2b2cdfc07076388653deb99122fca298818fef31f3b166b",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ge_0001",
+    "status": "approved",
+    "sha256": "b737d72696440b14851112cfba995005455139dce59bf4a4e9d405c12651a8d0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ge? Answer: Germanium. Its atomic number is 32, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "1fb91492f8ce5d7e73774191beeacb50e582d0b9ab873562ce941ce6f768b366",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_as_0001",
+    "status": "approved",
+    "sha256": "cc967bca4f7881ad9ea2134627a023d9c30149252f6ecbaf1f93be2236403739",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol As? Answer: Arsenic. Its atomic number is 33, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "3eebaf468a0536d2121c092798c8e195862d935ac38ffafe4723a5793465af56",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_se_0001",
+    "status": "approved",
+    "sha256": "a0ca3ef39f71ec09e69b90b0439264c981d0a9d3b0c0288448fae9e28796d678",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Se? Answer: Selenium. Its atomic number is 34, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "62a5a3edf71916f661d486c4943c14b5feefdb00ff563987eb6ed6356325f1b7",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_br_0001",
+    "status": "approved",
+    "sha256": "43247134d2d0a85ece73b83c0f3f417e6512e1477edf48173ac73e015848b025",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Br? Answer: Bromine. Its atomic number is 35, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "0eadd1237d232360490c08bec3d348aa83998ccbd27ea7e062fddce64f939c85",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_kr_0001",
+    "status": "approved",
+    "sha256": "b5e305cf87194f20718751a3c53b80c8ff9c7e8ce9ba22d19c04467d9d193c0c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Kr? Answer: Krypton. Its atomic number is 36, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "95312e16a460bd5bde9e032f06a1dff033efed60a6367d848bcc668ef3e27860",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_rb_0001",
+    "status": "approved",
+    "sha256": "62bba4e8007d752b0fbf43f6e9ddc2c6c24050d67144b484c1e8daf8bf36d390",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Rb? Answer: Rubidium. Its atomic number is 37, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "cfd6eede5e37f2b25c3a4568aadf09ba560aa2789e2489444e693424c73a15e9",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_sr_0001",
+    "status": "approved",
+    "sha256": "2bd63ddc621b5ea01ff7b36d5e106939d58adbd38d3850ac39b222b31c95aa3a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Sr? Answer: Strontium. Its atomic number is 38, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "9d9975647b9b51d2e24874523abb6de5bf4900bcc136adc461e4a805dc67de48",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_y_0001",
+    "status": "approved",
+    "sha256": "78d27f22a6948cefcdd9a51e2eaad523938397d3e096cd7473f612a5bc603910",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Y? Answer: Yttrium. Its atomic number is 39, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "0993d6a073d10e61a2b458d18dff121453be47544d804132937d4e2d032f8bb0",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_zr_0001",
+    "status": "approved",
+    "sha256": "681c5beec6cc5c1006aa7386ccb5fdd4f25384cb5b05c7d44c284873a0d75ce1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Zr? Answer: Zirconium. Its atomic number is 40, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "1529ee400390921ee4a519341a72a1d0c9c2140c34e4cb1d9fd5f3ecf2cb069c",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_nb_0001",
+    "status": "approved",
+    "sha256": "4fdca4a180040cb3d416f77d2a7f95a7139c1723a6e40788a5dae6a21263611c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Nb? Answer: Niobium. Its atomic number is 41, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "91fcf1aca3862de34aefbfadf7ccb776fa39ec7cbe8215269c13f1b46cc6c758",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_mo_0001",
+    "status": "approved",
+    "sha256": "3f056a78ee3958c5d4b1d405de0faba54273d4a60ccf7735c95e2658851bfcc5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Mo? Answer: Molybdenum. Its atomic number is 42, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "6c5e0f00e37d5681064f7867048d76ee09e75a4ac74912437008c0a7e58aa78c",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ru_0001",
+    "status": "approved",
+    "sha256": "5cda1d36ab0b0b759f3f4171269a845d4a09c8ce9f14f034d9c671ba5fb0307c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ru? Answer: Ruthenium. Its atomic number is 44, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "c180c9d2761ea1be21a909aa43cae54acac6603fb41a3eadd52335b29528572e",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_rh_0001",
+    "status": "approved",
+    "sha256": "481cf64b873f3e28bee7b002e6c52c2e3c8fd8ad70df3cca092882cf73ff0f8c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Rh? Answer: Rhodium. Its atomic number is 45, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "6a498bbba1b2110af3c30c3931829f0e0f4538841093e7e2bda5c24588ac03d6",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_pd_0001",
+    "status": "approved",
+    "sha256": "1685647665a5a837a3219867142fd5df526b1e1840192d36e2665a49b492a705",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Pd? Answer: Palladium. Its atomic number is 46, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "4fbb99a19e22ecffe50a07f05b25e6f7bbce177a75d0c0a987152be29b2a357f",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ag_0001",
+    "status": "approved",
+    "sha256": "ec41f26c619b50e8051e5cf49c087134ecaa1f16d40cc2114a51dd58b293a874",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ag? Answer: Silver. Its atomic number is 47, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "1daaa6130c397419cb732cc9adf2c6de388f32d801db0422995a9fc295afc968",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_cd_0001",
+    "status": "approved",
+    "sha256": "731a64924ef69dcaa6f40e63823792c2e28aad15a08612cf89f1fbc08a9e8891",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Cd? Answer: Cadmium. Its atomic number is 48, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "d1e1fe2e037bf1872a4c6fe01d2ef1a9713d6a9b450d6171b93ea9fc1594e024",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_in_0001",
+    "status": "approved",
+    "sha256": "148c2f10008e8aa3c1c3512d15bc1adbe062e5c2d1ab87495fe00124763fa0b7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol In? Answer: Indium. Its atomic number is 49, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "b7be2b53f62863c5f94b411f8e8a49325aa91d0b035a54eb1c49eab541509f62",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_sn_0001",
+    "status": "approved",
+    "sha256": "74efc146c13d3dbe9fd48ce5daa5430f00e69b6264f67f3d9fcd3c4725b1e1b0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Sn? Answer: Tin. Its atomic number is 50, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "5c74deb4b5bca01beb60dde8917a912fe2c7ddc6dd9fbd51809d36b4073d7556",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_sb_0001",
+    "status": "approved",
+    "sha256": "c864481b1f877e2e83c2603e94eab30abac75543f66e84743a5ee19b5e5b94e1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Sb? Answer: Antimony. Its atomic number is 51, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "14023f65fa2f801d816b3ffd09c7448b262685cfa511c3a6ff65ccc8ab17559d",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_te_0001",
+    "status": "approved",
+    "sha256": "3d026331b57168e1d1640ff53f7373f779767e62c84d2afc43a5d20df03fce7e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Te? Answer: Tellurium. Its atomic number is 52, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "68d7bfec7729fafedb41b3c1ca2d568839e210dd88f56bf0927baf88363dab6a",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_i_0001",
+    "status": "approved",
+    "sha256": "7732f0c63bb52446e21bf66d1a9edfcde27d00e610db14a6d8bf83b73e21b76b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol I? Answer: Iodine. Its atomic number is 53, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "b447d4bee9439e0ad61a0e171b367c74edc2f29e482dbe251ccf32d8a367b282",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_xe_0001",
+    "status": "approved",
+    "sha256": "dc86e0bb4b4b3794ddb08075ea30d509a35dc5ec400effab5315ad8558b1c12f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Xe? Answer: Xenon. Its atomic number is 54, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "bf1c9d12172ebfe4376dd558658e845d4408fa8c1d85517c8671cabe83b396c4",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_cs_0001",
+    "status": "approved",
+    "sha256": "a9e9b9596a459b3568200bec3a8bdd6706346adbad55f0b7168c87f31fac6cbd",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Cs? Answer: Caesium. Its atomic number is 55, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "0e8163ecf4c2f05ca105a85173b35781a133ba4fa42ef44d78729796100a9955",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_ba_0001",
+    "status": "approved",
+    "sha256": "484704d8dee24aaaade37e7842ec277f3465dd1bfcc6d04914b4be12eaae0c10",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol Ba? Answer: Barium. Its atomic number is 56, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "342216b2470604f48629e466e586a6f73110910564aba52a67db294271e9c94f",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_w_0001",
+    "status": "approved",
+    "sha256": "3222014a5ae1354f90c7d4816cc88aaa7c97deaf9fd89b424e2af843834bc5af",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol W? Answer: Tungsten. Its atomic number is 74, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "0d6b0741ed1e190ea4a2d3623a24a08637f5f69febe75c524a6bc194982063e7",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
+  },
+  {
+    "id": "chemistry_catalog_element_u_0001",
+    "status": "approved",
+    "sha256": "fd029ef56117a808a344fad59471081a75e626a68cc6876bfbfb51969948aad3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://iupac.qmul.ac.uk/AtWt/",
+        "location": "Element row: atomic number, symbol, name; atomic weights deliberately not used",
+        "claim": "Which chemical element has the symbol U? Answer: Uranium. Its atomic number is 92, the number of protons in its atomic nucleus."
+      }
+    ],
+    "sourceRecordSha256": "12a24fe19b18a72a2435a06778ae81124e07bc926456c28aa281ff7fb33bfb62",
+    "reviewNotes": "Reviewed the distinct element symbol, English name and atomic number in the IUPAC table; Russian element names checked separately. Excluded earlier symbol/name pairs, do not use mutable atomic weights or recycled numeric variants. Other distinct element names are distractors; explanation adds proton count."
   }
 ]

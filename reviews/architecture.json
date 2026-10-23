@@ -178,5 +178,2005 @@
         "claim": "In which century was the Taj Mahal built? Answer: 17th. UNESCO dates construction of the mausoleum to 1631–1648."
       }
     ]
+  },
+  {
+    "id": "architecture_catalog_whc_3_0001",
+    "status": "approved",
+    "sha256": "6e25401dcca5c3ed898e7da9f48ce78ef8b18be6ec6af7bcdc24a7161eb3af60",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/3/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Aachen Cathedral? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    ],
+    "sourceRecordSha256": "74a975fd57fcaea770fcfd1e96eb3a60aa9c98306d76a0034167ac628e30b34f",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_18_0001",
+    "status": "approved",
+    "sha256": "3283fea283aa752825995cb17476b2cb6547a049ac506aae88ba1fd1273bedd5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/18/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rock-Hewn Churches, Lalibela? Answer: Ethiopia. This cultural property was inscribed on the World Heritage List in 1978."
+      }
+    ],
+    "sourceRecordSha256": "1112fb3f0f0c0498ee5d32745def6368c58dc898dfc40cb6642d9c50f6c61634",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_34_0001",
+    "status": "approved",
+    "sha256": "f9f260d34f909be0e1ab18119b9e939680451ce2e2071e355baa2e48f30a116b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/34/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Forts and Castles, Volta, Greater Accra, Central and Western Regions? Answer: Ghana. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "1f82b8d72561cf2a0de033d07f0a5fb8ef7d604f1c86ea3eb6f9a01ade16b37c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_42_0001",
+    "status": "approved",
+    "sha256": "0fb388ff70932dcd191d58e51f484d68e8235fd65da078497831c529f7555b1e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/42/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Boyana Church? Answer: Bulgaria. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "c1dba81c669f73d76ccdf1db9cc3e0014fa7061b5296faf10df617614391c156",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_45_0001",
+    "status": "approved",
+    "sha256": "5f36424ff568e5e648d40f819764679bf956ec56e6f59d85185d3c4f6076f89d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/45/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rock-Hewn Churches of Ivanovo? Answer: Bulgaria. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "5a38633e1d880c1a321df779aca976c8b720bfbffc44727e9dba311e0269109c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_58_0001",
+    "status": "approved",
+    "sha256": "34e6beeb53561e1ed4e2959ce9d20015e0d606217e5748e6443adb9500652706",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/58/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Urnes Stave Church? Answer: Norway. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "0b564e0d63ac7c29d93cc0d6b353a030fd2298ca79c8d3b3665dd2713955736f",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_81_0001",
+    "status": "approved",
+    "sha256": "b1ab30f024147102e065ef60629fa87233fd7dc2cb816b085c69781307d25a32",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/81/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Chartres Cathedral? Answer: France. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "14d2e6f7b058c3e788e9a52b439d7e79f44534793e7538b247ffad4efc865fc9",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_83_0001",
+    "status": "approved",
+    "sha256": "8ddf672c41469edb9acc51e532598d4841d5e30aaaa0a834bfd7a7923ce509e5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/83/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Palace and Park of Versailles? Answer: France. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "0a5e6088d00e306c9a3671b612aed1ac5d1a55d2d8eb26057aaa8ffaf39e6288",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_84_0001",
+    "status": "approved",
+    "sha256": "922c32a8ccd1661678ca0882c5420494e6db34e938f32d0af544c81ee988ba98",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/84/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Vézelay, Church and Hill? Answer: France. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "bdc256dbff3919304f29340e941115afcfcc0311b82f3200db006f01b2c4a88e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_97_0001",
+    "status": "approved",
+    "sha256": "bfa4a37fb4e3ef6851ca05f5e8e9f4e800fc74482f0c07eab3fb0f8a3b53b9e7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/97/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Historical Complex of Split with the Palace of Diocletian? Answer: Croatia. This cultural property was inscribed on the World Heritage List in 1979."
+      }
+    ],
+    "sourceRecordSha256": "b467262f96f0678f07c525082589f303c030be1bdbd5d88801178fbc50e80807",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_93_0001",
+    "status": "approved",
+    "sha256": "2f6c89fae6d968e54f03f809fae711003547d7690e5c16be829e01c0e08a8e84",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/93/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci? Answer: Italy. This cultural property was inscribed on the World Heritage List in 1980."
+      }
+    ],
+    "sourceRecordSha256": "7740f3a9a46ba383ba667ce8fc750da26df677a2d0e30139e0f5569287f37ab2",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_160_0001",
+    "status": "approved",
+    "sha256": "e2d904ce60b3f5e0435cc745010f571605f256ad09fb63934045a3605a66e746",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/160/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Palace and Park of Fontainebleau? Answer: France. This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    ],
+    "sourceRecordSha256": "2a2ce7b73127d8a7e5e0dd6131004f766f71772c63b3dca126ad9b7bb2add6da",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_162_0001",
+    "status": "approved",
+    "sha256": "02eeab69666601047e6e0774b2548257ebcda9844da0e00625fea33d95e1a704",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/162/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Amiens Cathedral? Answer: France. This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    ],
+    "sourceRecordSha256": "64eee258a8256b8733d68bdbf766209ea19517ad179c0fb97ce0f6f9a139f852",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_165_0001",
+    "status": "approved",
+    "sha256": "8b1310c8f6b99e6394bb21f28f7a1cfba650179a27de170b9dd74c7f8383f6eb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/165/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Cistercian Abbey of Fontenay? Answer: France. This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    ],
+    "sourceRecordSha256": "e7a46aab8f7f538ab4df63b38edfd1b7b2b151c98b347af54fe6d14e635973ed",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_168_0001",
+    "status": "approved",
+    "sha256": "ab826372b419be97c6e41bfec48de222b4c56fee6754c3017fb80543bec59ab6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/168/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Speyer Cathedral? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    ],
+    "sourceRecordSha256": "f6aaaa37b4c8265108b6091c18ef93a332747b24e15aeb6a1e4474c4e784ed50",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_171_0001",
+    "status": "approved",
+    "sha256": "43106df41ffad38b608edde351383bd21fee03bcf9dccd52000d2197ef9d2c87",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/171/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Fort and Shalamar Gardens in Lahore? Answer: Pakistan. This cultural property was inscribed on the World Heritage List in 1981."
+      }
+    ],
+    "sourceRecordSha256": "dd0f47f6a361a7e77d2e8a4e4cc8dd3c901e7a03f91f70b73cb9d6479d322e0c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_204_0001",
+    "status": "approved",
+    "sha256": "cc874ba25dd83cc4d01ed069865c40ff2c130af8d712924ec6f6c62389668897",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/204/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Old Havana and its Fortification System? Answer: Cuba. This cultural property was inscribed on the World Heritage List in 1982."
+      }
+    ],
+    "sourceRecordSha256": "9efc27d01efc3b0291169710d4f969614a01082277ac143f912df8e913fc199e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_216_0001",
+    "status": "approved",
+    "sha256": "eb94d3c005d64cc2bc57a9bababf339a2cf01dcae63e55b73e6686f6d9cad474",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/216/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rila Monastery? Answer: Bulgaria. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "2d8379ea9234909594f64d3f63a5473677fe698c26bf6ebd43b4ec0d56fa1cf4",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_230_0001",
+    "status": "approved",
+    "sha256": "2b92ef13db659e11d41a081506de6b57aa5ac2ac89f5bc26ffb7b3e60e3460e8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/230/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Abbey Church of Saint-Savin sur Gartempe? Answer: France. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "8a28327cb46c3e1e0b75ff5de9ce2d7a01073ca9a5c44a715b33bb5f53969a3a",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_251_0001",
+    "status": "approved",
+    "sha256": "034c5bb26c763c9a4733aa7590ef5fcdb434e65dda2419ade03ffad79afd1200",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/251/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Agra Fort? Answer: India. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "5bde36bbbbb873ec57c7cb2f2a8e2857993591518fec5444343061d52f0d8562",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_263_0001",
+    "status": "approved",
+    "sha256": "be368863942a220680932045004fa922db04768c4cb8bfc737258bf5d5fda12e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/263/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Monastery of the Hieronymites and Tower of Belém in Lisbon? Answer: Portugal. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "c39e8cc2f28292717a2bcec0fee5dee1b706acadad3a35263884cceccbfa05bd",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_264_0001",
+    "status": "approved",
+    "sha256": "704491e9f4a40d930111b412be41cf9b2e15140c3da562720b8e1023055ebeb7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/264/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Monastery of Batalha? Answer: Portugal. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "4196b30cf56b25232e82b1d9b894d5cb57d2fc39b29823fff8ad163056c93698",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_265_0001",
+    "status": "approved",
+    "sha256": "2734e46b66a6fb95d4b17eba399452924ca8630ca203da8b9a71b1f6bb95d743",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/265/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Convent of Christ in Tomar? Answer: Portugal. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "ad144aba75cc7d1858736ea5cf95b48748d6d6cb7cc026f8204e78d06543d323",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_268_0001",
+    "status": "approved",
+    "sha256": "75532f3a55622d69bd461d5b4e199e98b375e5b6ad9fad60054fbfa0e92b76ce",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/268/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Abbey of St Gall? Answer: Switzerland. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "e273ad0589f395125c4eb11e4e327281caf393336507d74aee68364fbad0cc75",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_269_0001",
+    "status": "approved",
+    "sha256": "636bc67fad55ddfeca68fb2ad5d5b0635b8cfa1faed4a50bc3ad693ec07e786b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/269/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Benedictine Convent of St John at Müstair? Answer: Switzerland. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "84eda0e805888caa70208b455b3030b3d571cb82d8773c62c139e6c8def52f7e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_271_0001",
+    "status": "approved",
+    "sha256": "fd839d4ed60f94020544adcfbaaaf906e1c8149abace41b152aa41f00ff1c565",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/271/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Pilgrimage Church of Wies? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1983."
+      }
+    ],
+    "sourceRecordSha256": "c052e6ec26769398b23cee006703b23f868809c3a90479706c8ddc49a8a9d76d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_246_0001",
+    "status": "approved",
+    "sha256": "4b08699f3b3d31c0e3754f1ba59836b9d84b7dea43425c9b2811346c498b2abf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/246/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Sun Temple, Konârak? Answer: India. This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    ],
+    "sourceRecordSha256": "5e820e3561f740c3ce3eddef555aa7ad4d20df4d9c74f6484cc322405037536d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_285_0001",
+    "status": "approved",
+    "sha256": "897ef49bd0a06205e1683f77f7c8331fddf468c990345d9bff7a7352bdfbd030",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/285/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Port, Fortresses and Group of Monuments, Cartagena? Answer: Colombia. This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    ],
+    "sourceRecordSha256": "21b70178f8dba9c0ae17922ab2719c85093cc413e84389d08787748fe82f02ca",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_288_0001",
+    "status": "approved",
+    "sha256": "2ff82690f50a9efb3caa306814280d467da704dc7e0524091fdced7a1b67ebf3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/288/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Castles of Augustusburg and Falkenlust at Brühl? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    ],
+    "sourceRecordSha256": "e7bc524514ddef9273995aba112e3f3f94df0a8220c899682161e90639c40b9a",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_316_0001",
+    "status": "approved",
+    "sha256": "4c83c2b60a0bba184df6ce0e2e391d59255291a057c2075c6e0d7a8561e7e9cf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/316/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Burgos Cathedral? Answer: Spain. This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    ],
+    "sourceRecordSha256": "ba300a555a21f042cbc773cd8291c04b831c1014b111b74a9b73f864fbae876c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_318_0001",
+    "status": "approved",
+    "sha256": "d1046bc494ca32c8f186c0ae3e2eec1e35d9a86dbdc09f26bbbe689cc6a5f6ff",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/318/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Monastery and Site of the Escurial, Madrid? Answer: Spain. This cultural property was inscribed on the World Heritage List in 1984."
+      }
+    ],
+    "sourceRecordSha256": "9b6cb5d641f5578a21970b357f975bf4d6c4373150e0d87477a828ee47b974c5",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_187_0001",
+    "status": "approved",
+    "sha256": "2301a3d5ff9d4f0e0ad149dcc6c7e5b137f8851ef9c13f833b0b6820b23a269e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/187/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property St Mary's Cathedral and St Michael's Church at Hildesheim? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    ],
+    "sourceRecordSha256": "3270a3df111f44cfeddaac7050c19273c828d38a021e89bd36c1879178c55a03",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_323_0001",
+    "status": "approved",
+    "sha256": "d9ad896df9b70eca7be30bbb783a161c94b07e819bd7252817adbdf1e48c6bfa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/323/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Royal Palaces of Abomey? Answer: Benin. This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    ],
+    "sourceRecordSha256": "cb08613fe4c71fc78ed3c6c0c5b1e281493a8db3e1f2890154c428025c133750",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_334_0001",
+    "status": "approved",
+    "sha256": "37a4842d5284f80ca9e509cd9562bc3c94a3604d13b2990fde28541bd97a8f56",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/334/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Sanctuary of Bom Jesus do Congonhas? Answer: Brazil. This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    ],
+    "sourceRecordSha256": "28a0445c0745b1f60ba2c84b1076f26331b10666c69cfb78cfb19bd9ef1abb73",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_351_0001",
+    "status": "approved",
+    "sha256": "788ac690920e72ba9269629682871b81e92b640f456bb2f96d999afceef094a8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/351/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Painted Churches in the Troodos Region? Answer: Cyprus. This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    ],
+    "sourceRecordSha256": "6f714199b3638e1d912e0996e4bdd85dc88b319c478c2ba07ed4950711bf8fff",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_358_0001",
+    "status": "approved",
+    "sha256": "4e423afc77bb888a8b049aadfd6a7eca7e889dff9a8d3875e517aca28621882e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/358/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Great Mosque and Hospital of Divriği? Answer: Türkiye. This cultural property was inscribed on the World Heritage List in 1985."
+      }
+    ],
+    "sourceRecordSha256": "400efd44d23e4482c8d25698aba1054559e22488eb419cb4da9a4dd6540bddb7",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_234_0001",
+    "status": "approved",
+    "sha256": "53c01ab463e6d3712eacb39ea25a2ad3ed19465aa03603a21e95cbf289473b0a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/234/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Churches and Convents of Goa? Answer: India. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "8c456e4ddd46feb8213972e0f63259de0db503e0cc73f077097391acfb910d24",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_367_0001",
+    "status": "approved",
+    "sha256": "1cb8cb0a60f0d4243f7a1abaf967e475a2d738051adc9a1f9283582b0af371f7",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/367/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "74cd2de27926b2abc360b26fff5ff7e8a184e79775beb4cdb25b74392cdf9f8d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_370_0001",
+    "status": "approved",
+    "sha256": "84210c54bd43e9e26d58a2763a99fb51e20d3eeb5ccc511898652c79c6ef0ec0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/370/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Durham Castle and Cathedral? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "87531e19f0109c9089b680a3c1ab495cb01c99c30bd7282a4c2dc9513f087c97",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_371_0001",
+    "status": "approved",
+    "sha256": "4ba60f19fee3b7bd546b03911d6bab5e47faa1d156c2e3f10a405226a94eafc5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/371/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Ironbridge Gorge? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "72cc1f706af235c3b7c4ab364540e0498990853bebd3150815e209e0379b15c8",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_372_0001",
+    "status": "approved",
+    "sha256": "58c487a129291b432d1595ef8deb6454869d8bd6ef56e3b9583d930f475e0693",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/372/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Studley Royal Park including the Ruins of Fountains Abbey? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "233049d86e0f3e6f98a3bc09b314844b6b73697a05e192729a19fdb3032f835c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_374_0001",
+    "status": "approved",
+    "sha256": "46cf07cc58925c4cae7b99d706e5ff9c3bfe0ce1b8a1dfa04d44eda1ccca513e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/374/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Castles and Town Walls of King Edward in Gwynedd? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "8a3ee5ed199a8b6ca6437fe057061da009a2014a5630b31fbbf12dfe78c3a0e0",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_389_0001",
+    "status": "approved",
+    "sha256": "97d7facab87db6ba2edff31d21e665dbfdf7bbd28d7ac0436bcc8e45a8b67853",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/389/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Studenica Monastery? Answer: Serbia. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "c1d236e952ebd76c3441ecda5046fd167733202fea004fb7b80e2dfc8cd5c3bc",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_392_0001",
+    "status": "approved",
+    "sha256": "d2753f8ff37d1ff66c64fcf2e6d34eb17d3824f63f4d5a5f9675215f80942e2c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/392/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Temple of Apollo Epicurius at Bassae? Answer: Greece. This cultural property was inscribed on the World Heritage List in 1986."
+      }
+    ],
+    "sourceRecordSha256": "8837da401e9f3ea7faa82d91bebf4d749c5913391a8762ae3321c703428a1279",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_250_0001",
+    "status": "approved",
+    "sha256": "0e213147e8904f8293c7858dbc80dba0ea73c2c9d770959caf11a8d9f6e0e051",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/250/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Great Living Chola Temples? Answer: India. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "b1aa8e0c7b132a769ada050e1b31dbef80a4c556b9129336ed726b96fb0a8de6",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_400_0001",
+    "status": "approved",
+    "sha256": "c912d3efb7354e6e8a3620572cea85270a79268c5158ae2e663a603d60942634",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/400/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue? Answer: Hungary. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "8f994645973b5ef6a2c06da18936c045c3c53d1481a33c986e8afca15a21298f",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_425_0001",
+    "status": "approved",
+    "sha256": "77a0debdb16ef5cce9dc8abc2fd927780af80b98bd95ccd53dacb6e2a9d767ab",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/425/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Blenheim Palace? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "56e09c7843a7d595abd2f0090ffb9cc127cce264206f490f2fb74773bc54478c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_426_0001",
+    "status": "approved",
+    "sha256": "ed8ec821aad40fe6dee4c679ee5548574a40e0e03f60c2189a5a09cd306bbd52",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/426/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Palace of Westminster and Westminster Abbey including Saint Margaret’s Church? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "8975c970ab52acd4c2733a35eb1314e32cc400347de86993f8cfa284512c4b50",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_433_0001",
+    "status": "approved",
+    "sha256": "f15a594e5c20615f17d6d1270a261a75885b7d8635e5af14aa72e5b0b09725bc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/433/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Bahla Fort? Answer: Oman. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "f3194efedba960a42bc2e0975201f2df99a9dad499b71ec0c9e3b018406836e3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_439_0001",
+    "status": "approved",
+    "sha256": "2e6474a08389499fac5437f7b87bed6b284bfe3ddf399b45545af2fe58d1c8f5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/439/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang? Answer: China. This cultural property was inscribed on the World Heritage List in 1987."
+      }
+    ],
+    "sourceRecordSha256": "15fb1f272722b0b9e16df7594e98d41dc2f0999c3a44ab4bf11b8ad0f0123764",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_488_0001",
+    "status": "approved",
+    "sha256": "ebf31fd1602d953dd9fe06d0616425ecf2d5d91fd5643fbfad45bf20f1ae69f4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/488/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Tower of London? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    ],
+    "sourceRecordSha256": "c96cece427e928b9278c1cec9124c23969437768e7d106716fc4c29d1ad7ff8e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_491_0001",
+    "status": "approved",
+    "sha256": "e9242a290e081e99223347033b88c2d40cc7222392081118b7e9e014e322816b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/491/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Sanctuary of Asklepios at Epidaurus? Answer: Greece. This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    ],
+    "sourceRecordSha256": "a16d3186d92be642b9f6a60ae75f1b7b3452c29f4a254ba34dfa0a1a2bb31a8e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_496_0001",
+    "status": "approved",
+    "sha256": "c9710c77a773fbaeff9f6b4b9557c0e0fa61275359526c9660949d409a4e4489",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/496/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church? Answer: United Kingdom. This cultural property was inscribed on the World Heritage List in 1988."
+      }
+    ],
+    "sourceRecordSha256": "de0696627da81b13302e7c94ea0bc89adc599f1bd1a6baef595543b24026a931",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_505_0001",
+    "status": "approved",
+    "sha256": "2ed21973b92394d3b41c5c1118fe2bf58a2d59ecaed19716db866dc724679b09",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/505/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Monastery of Alcobaça? Answer: Portugal. This cultural property was inscribed on the World Heritage List in 1989."
+      }
+    ],
+    "sourceRecordSha256": "671a11e0f02be9292f3cd847f5b3ec89b5af033af23a6ef6df565aa63f6fce43",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_532_0001",
+    "status": "approved",
+    "sha256": "6865cb44d970f13900ef5dc154116b5fc6531900be0d8ccaca46edd9744558fe",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/532/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Palaces and Parks of Potsdam and Berlin? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1990."
+      }
+    ],
+    "sourceRecordSha256": "806c13edf7e70755c95ab25574d2140925a2474b7736a749122f85433a3ce0fd",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_515_0001",
+    "status": "approved",
+    "sha256": "b2784826e52ac334afc867eef5ecec5aaf3c7dd35b097929bce876c3e89afe7c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/515/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Abbey and Altenmünster of Lorsch? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "1c84f3a188340406c78abadd21be7e8365dde5183a5f36e91d8508be5ca41558",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_518_0001",
+    "status": "approved",
+    "sha256": "71d89b8464e60513d527cad02b49a3a66e1f48fce1bfd173d5bafe6d342527eb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/518/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Poblet Monastery? Answer: Spain. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "159d8147811ffb629c305759e297aee8b5858fcdb9c7e22fde1fd7f8912f2f12",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_561_0001",
+    "status": "approved",
+    "sha256": "77c13cee6787cb3f23ff9d9e04e4ecbe0f0852b46ed0c55c0e0dead4926346ce",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/561/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rangiri Dambulla Cave Temple? Answer: Sri Lanka. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "496977e6622748888cc03ce3b17ee1922d450b801e3dda918fc40cd395152a49",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_583_0001",
+    "status": "approved",
+    "sha256": "c4524153719162b4c3b34d497591f4ff3243f1e8774bf69b2b31cc353c6251c9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/583/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Fortress of Suomenlinna? Answer: Finland. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "6b33806bfeab0b328b680005385844cbe161fb9160048369af6fd3b227551664",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_592_0001",
+    "status": "approved",
+    "sha256": "e01f42a9c570be3b8fef13f63e2594263a6146c3ecf6b7037709f690ef477996",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/592/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Borobudur Temple Compounds? Answer: Indonesia. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "500b7d5b6d8611cc77e8efd5010c3ee4dda09a6ac7b3d0c2d09317737bff37b3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_601_0001",
+    "status": "approved",
+    "sha256": "b419694bef9106277db8325672f116d499ec93a9418fb6571116360918fc17e4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/601/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims? Answer: France. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "ae3fecdde11d28ac32dcbe66c7de516cede4dc8d8131dd0f60fb07ccc835d4d1",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_642_0001",
+    "status": "approved",
+    "sha256": "a26e1231f6599c69da5ed4742610918322f4ff5cb5d5eb89160f1812a83dbbed",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/642/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Prambanan Temple Compounds? Answer: Indonesia. This cultural property was inscribed on the World Heritage List in 1991."
+      }
+    ],
+    "sourceRecordSha256": "fe913d6b9a504c2679b6efb211ec7bc663f2f956663a5c74af48d23d5b236978",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_635_0001",
+    "status": "approved",
+    "sha256": "71bb9da71d363d4d8993bcee835c55c3e4e3b3ca084ea816229f583d99dd26c6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/635/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Bourges Cathedral? Answer: France. This cultural property was inscribed on the World Heritage List in 1992."
+      }
+    ],
+    "sourceRecordSha256": "812aa665ed4d55c484633ab69727922cd26458f0e82a7cfbfa81bd637a82fdf6",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_546_0001",
+    "status": "approved",
+    "sha256": "09d71226426f8c524bcf408fdebca849dcda40d46c31f380525bb50c4a2c9f07",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/546/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Maulbronn Monastery Complex? Answer: Germany. This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    ],
+    "sourceRecordSha256": "446d76a454e267da97738ff4d5a806f6ac0ea8d472bd93dd66f10e83a6de3c2b",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_596_0001",
+    "status": "approved",
+    "sha256": "39639e6a18c452e44b0b235f221ef712ede6875365857c4d7d4823fefd925f94",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/596/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Villages with Fortified Churches in Transylvania? Answer: Romania. This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    ],
+    "sourceRecordSha256": "20a195326c5f7160d0bd61f991bf7c90f4ad0eca33efe2dabaf1513e549c8169",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_597_0001",
+    "status": "approved",
+    "sha256": "318cd859a5c788bb59e7c8020d34202f11862a6886e8840ce992a629e9194b37",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/597/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Hurezi Monastery? Answer: Romania. This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    ],
+    "sourceRecordSha256": "00981e165299fa79f8db44ee3e3f37504bee0eedee06baac0e34f57b02c8a757",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_598_0001",
+    "status": "approved",
+    "sha256": "8b3fe4db4e8a3406bdbd3ee99e1c5091faa50faf5c4932027c0b2df32b90fe8e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/598/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Churches of Moldavia? Answer: Romania. This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    ],
+    "sourceRecordSha256": "5f658e81b208ffdf93045a4daf470550b75caffa3e792311178beeb24fb2de6d",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_670_0001",
+    "status": "approved",
+    "sha256": "cbfd203a04afa6b43340938362398d4dbc17551925831a4bdcb316182c3dd371",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/670/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property The Sassi and the Park of the Rupestrian Churches of Matera? Answer: Italy. This cultural property was inscribed on the World Heritage List in 1993."
+      }
+    ],
+    "sourceRecordSha256": "41ecc9638769b8dc68200301273af736daa53bc64ebef54df46259fc6acbddff",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_584_0001",
+    "status": "approved",
+    "sha256": "12947a6a52b0b6cfc8dfbce62be215c326906c9c83443f365bb97fae7b184eb2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/584/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Petäjävesi Old Church? Answer: Finland. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "34bfa380e0bcf183bb9de20b5d71b4eec09d5e473c9d52dc4c2167ca6e4ef4d3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_690_0001",
+    "status": "approved",
+    "sha256": "f5341f6a178a403e0b7c6c928d57485c3edbd9cf96a53a5dd0bfd696148b2c59",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/690/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Pilgrimage Church of St John of Nepomuk at Zelená Hora? Answer: Czechia. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "42113ae897b41601e70215306832c16c05f38b46c75035f4b56090504a8f3a96",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_697_0001",
+    "status": "approved",
+    "sha256": "828d9b97c3289234605611358e8bca2cdc27b5f490f1c4b39a35d568b8367e31",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/697/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Jelling Mounds, Runic Stones and Church? Answer: Denmark. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "98b5d5dc6e164253f4a93412cf797f7cd80d0d26c38c474107f22d943b962c5e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_703_0001",
+    "status": "approved",
+    "sha256": "66241cc1d33e287cc9ecdc297ed8e327f68fa2610a95be36098a1c905aa50de6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/703/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Mountain Resort and its Outlying Temples, Chengde? Answer: China. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "cd8a34688248f71cc7017718799ed6a1260837e4b51168e84ea7fea325a54b69",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_704_0001",
+    "status": "approved",
+    "sha256": "28ad3334c4c38c389690e5cfd8d554e44e628a59a8574b69df0faff8937afdac",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/704/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu? Answer: China. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "d4485942437338ed5d6a70f6a5c48ba85be5af9bca144537ccf6f128c715a8e7",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_707_0001",
+    "status": "approved",
+    "sha256": "ffd3a275fc151b2ec2376388ea1abfad701fd0df4798f3fe06c5dabef6f46b6f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/707/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Historic Ensemble of the Potala Palace, Lhasa? Answer: China. This cultural property was inscribed on the World Heritage List in 1994."
+      }
+    ],
+    "sourceRecordSha256": "b661477cf4f8feece9747c6e1cd00ca0fc58eae0568ce1100d9ee53216320e76",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_695_0001",
+    "status": "approved",
+    "sha256": "1e4b8cadb8ebdbb0523ce25bffbbee5a759910813ed0f1ca839b23406a8352f3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/695/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Roskilde Cathedral? Answer: Denmark. This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    ],
+    "sourceRecordSha256": "ed335a509916c2789345cf832546902612245f67468e9b645d89180ed4f65ecb",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_732_0001",
+    "status": "approved",
+    "sha256": "43d979cda33fb6d4a5b3caf991c2d4cc3948c268da726854bd07dafbc6ed195d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/732/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec? Answer: Czechia. This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    ],
+    "sourceRecordSha256": "8eaaef103a4b6a0fd3074f36a359535adca0e9890408b6af411a0789621b42b3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_736_0001",
+    "status": "approved",
+    "sha256": "5032438bdeea148711cc7175fcca17c22a3f7dc183b095c61ebb7f2cb268d753",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/736/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Seokguram Grotto and Bulguksa Temple? Answer: South Korea. This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    ],
+    "sourceRecordSha256": "c418b3aa4204bd4fda1d2c5f7757e8699338483edd2ddd7cef1d40dd46343fa5",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_737_0001",
+    "status": "approved",
+    "sha256": "21f73ccc4731c8d31ea64523566d8f8f3304c4aab52eb2fe3c4e429f1fa4c276",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/737/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks? Answer: South Korea. This cultural property was inscribed on the World Heritage List in 1995."
+      }
+    ],
+    "sourceRecordSha256": "0be6f2b1092f854a9c313d5ccf09515f6d5acd26b582bbb251448e925acac4d1",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_758_0001",
+    "status": "approved",
+    "sha256": "0b4116146f05292c8205b61b2710197ad5ba045881599d53fd77459f82410eb8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/758/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Millenary Benedictine Abbey of Pannonhalma and its Natural Environment? Answer: Hungary. This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    ],
+    "sourceRecordSha256": "508cdc518fa15b32f12e11afa311f192a961460bc68ebc93aa148b06db412f2c",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_786_0001",
+    "status": "approved",
+    "sha256": "33b3f4550bfae62e29c65a1dd78f3fadc9c0e88617c3105ad28906c39037051a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/786/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Palace and Gardens of Schönbrunn? Answer: Austria. This cultural property was inscribed on the World Heritage List in 1996."
+      }
+    ],
+    "sourceRecordSha256": "670e888d6d0a4f11f26f80bb314da7589bfd498d698f38e0798694f49e50e24a",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_549_0001",
+    "status": "approved",
+    "sha256": "91f291bc8af9a6e858c6fc4c19ad28f12d8dc87e130b669f495fefb332690542",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/549/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property 18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex? Answer: Italy. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "c86fc7a35896e9517405ab1b0047cbb6797d3d4cb500d418bb2a5d2f0a767549",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_586_0001",
+    "status": "approved",
+    "sha256": "1614b7b659efede059f71f08fb56162d06c54d5deac3374cf00a181d75cc4043",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/586/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Rohtas Fort? Answer: Pakistan. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "fcf11a96d784273621fa0d6ee02a51b3828c0d16acd3dfa035468cd79a9a8fe6",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_816_0001",
+    "status": "approved",
+    "sha256": "513f298791fb99b669ca5c2b98ea26034e8bd69bb17c9ba51f4e5a4053095afa",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/816/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Changdeokgung Palace Complex? Answer: South Korea. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "f55515bc5127249e790a35b8528244e3d06cd26cd20a9d16f2bf214c644f8a23",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_817_0001",
+    "status": "approved",
+    "sha256": "dc210bf530bad4700887bbe9320ce07c503b75d5fb52b947181b555a73695049",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/817/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Hwaseong Fortress? Answer: South Korea. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "519f5d746256f46489861687a00c9aa5ad59f0d359730fd05cb2a6dc29811d21",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_827_0001",
+    "status": "approved",
+    "sha256": "a7327ac711cd0cc1c52dde5b853ca95f6eeaa546d3b74d3d94c9e17a129e13fe",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/827/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Cathedral, Torre Civica and Piazza Grande, Modena? Answer: Italy. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "306fafc32a43670f9865f2dca9aa5823d5b69bc697f765605ff04ba36237a475",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_847_0001",
+    "status": "approved",
+    "sha256": "380e6523be88e1f1a07df327b7ef0c9c31257944ceaa48a783dd1729bab23618",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/847/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Castle of the Teutonic Order in Malbork? Answer: Poland. This cultural property was inscribed on the World Heritage List in 1997."
+      }
+    ],
+    "sourceRecordSha256": "3b5311b46e7b651adca6ede41945f8b01fff331acf00e5f95759b25f57a70b13",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_860_0001",
+    "status": "approved",
+    "sha256": "a7e2e59abea44cd1790ff357387618fded7f6dfe57bcc21e7cc9438f9e184026",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/860/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Gardens and Castle at Kroměříž? Answer: Czechia. This cultural property was inscribed on the World Heritage List in 1998."
+      }
+    ],
+    "sourceRecordSha256": "17ceb419b7a3f781c951a2635d92887e86346bd30a41cd4ecedd69e5108473a1",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_880_0001",
+    "status": "approved",
+    "sha256": "9775dcd572dc031f37dd831178dc81beec9e7c9ca478c30123db53d30843066a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/880/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Summer Palace, an Imperial Garden in Beijing? Answer: China. This cultural property was inscribed on the World Heritage List in 1998."
+      }
+    ],
+    "sourceRecordSha256": "e6d3640ffe23db05a1b2b9171ff8181cf85ac1b2c7987a63d9bd6a36a013ac37",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_881_0001",
+    "status": "approved",
+    "sha256": "cfacc457b56131d82b6bdd14c3366e3d4f39e374f72bbb4245c9347bf91ead78",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/881/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Temple of Heaven: an Imperial Sacrificial Altar in Beijing? Answer: China. This cultural property was inscribed on the World Heritage List in 1998."
+      }
+    ],
+    "sourceRecordSha256": "0f554c1df08d4ea5f614cbca76590df2c8a99e5019397a40eb4fe2b95ca0be8b",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_901_0001",
+    "status": "approved",
+    "sha256": "78aed0ab53c2790d3846b98e792493bf9e8aef8a8d13fcebb9cbb9dcc4cd5116",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/901/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Litomyšl Castle? Answer: Czechia. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "0a4592584dab2d2b17bf712ac1025d10edd3d34eb2abc059cbd65931478325b5",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_904_0001",
+    "status": "approved",
+    "sha256": "a4f665c2028c5fe5f092028b233a6c3eaaa09e99d3d539765f71407a15feb0fb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/904/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Wooden Churches of Maramureş? Answer: Romania. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "1b9386654d4644882566a1f9a761ea213f0eaff43e6a7a788fcf69fe27174600",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_906_0001",
+    "status": "approved",
+    "sha256": "0c6243537a74e03dd22185bded1d78bd97c374c0b509c38e58742cf26ac918dc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/906/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Dacian Fortresses of the Orastie Mountains? Answer: Romania. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "286accf25229091c1605e936166cbff92764e838e616129bc97c4ff33ce5abe3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_910_0001",
+    "status": "approved",
+    "sha256": "72405ef7036cdc4e8458ad202ce5d13caf3e815eae27559f82e05ee2b98546f9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/910/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Brimstone Hill Fortress National Park? Answer: St. Kitts & Nevis. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "f1be91d4a7b5edb45f14e5af484769eb813e75a032d3a6f1867ab0f4463652b4",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_913_0001",
+    "status": "approved",
+    "sha256": "6e3f5de9b9c7b8536188b7e0cfb102ce04a1bbeb1a42e0e30e45f3228a41a3a2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/913/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Shrines and Temples of Nikko? Answer: Japan. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "91d4998a9a83a04a2f043b080b09a1569124c8159446ff71e87bbe3e37d3900e",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_949_0001",
+    "status": "approved",
+    "sha256": "617ad7db2ff51f777671459aa66feeb150b04c9aee5df6f637f74069a0094072",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/949/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property My Son Sanctuary? Answer: Vietnam. This cultural property was inscribed on the World Heritage List in 1999."
+      }
+    ],
+    "sourceRecordSha256": "8346061e0ade35601abf49ae20aa753e01bb0b1e1b2803abcf7b95071e285ae3",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_625_0001",
+    "status": "approved",
+    "sha256": "b70bbfc11ad50413175f15da1cadb0f8496bda8c592c2b97ec4fba6e51d37549",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/625/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Mir Castle Complex? Answer: Belarus. This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    ],
+    "sourceRecordSha256": "2828bf4f87ce04326eefb56e5b492023d4a6a1254083b570e9f85226613c2e61",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_696_0001",
+    "status": "approved",
+    "sha256": "0644563e5cce2d3e6deaf063d035f5d17d3a3ff7e21f0eabb721c35b5e6a2217",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/696/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Kronborg Castle? Answer: Denmark. This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    ],
+    "sourceRecordSha256": "a8fdd600a92a9fa57685f46cab31cee55da5fb1690e9cb525b8aeac5f4b2c793",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_960_0001",
+    "status": "approved",
+    "sha256": "607d8e4f994962c75731d801d3efcc4f74ce528073abc72ddd792d01d3d2f072",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/960/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Monastery of Geghard and the Upper Azat Valley? Answer: Armenia. This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    ],
+    "sourceRecordSha256": "1655ae26c6ba39d0671bdbd80013ef572231588f0e5b45d26f58b6b99fb0c501",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_963_0001",
+    "status": "approved",
+    "sha256": "77fbcc522c365a35d319612963dcd9cbe835f2b66bab0864f3993edbecd6f36e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/963/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property The Cathedral of St James in Šibenik? Answer: Croatia. This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    ],
+    "sourceRecordSha256": "054e8da330766758810cb93a4f54a70677bad055e828e53d952cd12d7d7401a5",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "architecture_catalog_whc_971_0001",
+    "status": "approved",
+    "sha256": "d79d73dd2927d966ed5b75c7c4e39a864021b6b1563682ec3b6093f10588e90d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/971/",
+        "location": "Property ID; State Party (single-country property); initial inscription year and category",
+        "claim": "Which country is home to the World Heritage property Churches of Chiloé? Answer: Chile. This cultural property was inscribed on the World Heritage List in 2000."
+      }
+    ],
+    "sourceRecordSha256": "b7dcbebb4ccecef9d71ddc320f775df6a8e09496baecd2e55b93c4c61e3cd327",
+    "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
   }
 ]

@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "economics_catalog_currency_tjs_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код TJS в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 972. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code TJS?",
+        "explanation": "Its numeric code is 972. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Таджикский сомони",
+        "en": "Tajikistani Somoni"
+      },
+      {
+        "id": "o1",
+        "ru": "Египетский фунт",
+        "en": "Egyptian Pound"
+      },
+      {
+        "id": "o2",
+        "ru": "Турецкая лира",
+        "en": "Turkish Lira"
+      },
+      {
+        "id": "o3",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_kgs_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код KGS в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 417. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code KGS?",
+        "explanation": "Its numeric code is 417. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      },
+      {
+        "id": "o1",
+        "ru": "Южноафриканский рэнд",
+        "en": "South African Rand"
+      },
+      {
+        "id": "o2",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      },
+      {
+        "id": "o3",
+        "ru": "Бразильский реал",
+        "en": "Brazilian Real"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_kzt_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код KZT в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 398. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code KZT?",
+        "explanation": "Its numeric code is 398. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексиканский песо",
+        "en": "Mexican Peso"
+      },
+      {
+        "id": "o2",
+        "ru": "Аргентинский песо",
+        "en": "Argentine Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_uzs_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код UZS в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 860. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code UZS?",
+        "explanation": "Its numeric code is 860. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      },
+      {
+        "id": "o1",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      },
+      {
+        "id": "o2",
+        "ru": "Таджикский сомони",
+        "en": "Tajikistani Somoni"
+      },
+      {
+        "id": "o3",
+        "ru": "Монгольский тугрик",
+        "en": "Mongolian Tugrik"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_tmt_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код TMT в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 934. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code TMT?",
+        "explanation": "Its numeric code is 934. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o1",
+        "ru": "Индонезийская рупия",
+        "en": "Indonesian Rupiah"
+      },
+      {
+        "id": "o2",
+        "ru": "Аргентинский песо",
+        "en": "Argentine Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_usd_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код USD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 840. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code USD?",
+        "explanation": "Its numeric code is 840. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доллар США",
+        "en": "US Dollar"
+      },
+      {
+        "id": "o1",
+        "ru": "Катарский риал",
+        "en": "Qatari Riyal"
+      },
+      {
+        "id": "o2",
+        "ru": "Шведская крона",
+        "en": "Swedish Krona"
+      },
+      {
+        "id": "o3",
+        "ru": "Филиппинский песо",
+        "en": "Philippine Peso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_gbp_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код GBP в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 826. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code GBP?",
+        "explanation": "Its numeric code is 826. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Британский фунт стерлингов",
+        "en": "British Pound"
+      },
+      {
+        "id": "o1",
+        "ru": "Монгольский тугрик",
+        "en": "Mongolian Tugrik"
+      },
+      {
+        "id": "o2",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_chf_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код CHF в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 756. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code CHF?",
+        "explanation": "Its numeric code is 756. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швейцарский франк",
+        "en": "Swiss Franc"
+      },
+      {
+        "id": "o1",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o2",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      },
+      {
+        "id": "o3",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_jpy_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код JPY в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 392. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code JPY?",
+        "explanation": "Its numeric code is 392. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      },
+      {
+        "id": "o1",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      },
+      {
+        "id": "o2",
+        "ru": "Китайский юань",
+        "en": "Chinese Yuan"
+      },
+      {
+        "id": "o3",
+        "ru": "Южноафриканский рэнд",
+        "en": "South African Rand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_cny_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код CNY в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 156. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code CNY?",
+        "explanation": "Its numeric code is 156. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Китайский юань",
+        "en": "Chinese Yuan"
+      },
+      {
+        "id": "o1",
+        "ru": "Новозеландский доллар",
+        "en": "New Zealand Dollar"
+      },
+      {
+        "id": "o2",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      },
+      {
+        "id": "o3",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_inr_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код INR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 356. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code INR?",
+        "explanation": "Its numeric code is 356. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индийская рупия",
+        "en": "Indian Rupee"
+      },
+      {
+        "id": "o1",
+        "ru": "Непальская рупия",
+        "en": "Nepalese Rupee"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладешская така",
+        "en": "Bangladeshi Taka"
+      },
+      {
+        "id": "o3",
+        "ru": "Южнокорейская вона",
+        "en": "South Korean Won"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_pkr_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код PKR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 586. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code PKR?",
+        "explanation": "Its numeric code is 586. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      },
+      {
+        "id": "o1",
+        "ru": "Доллар США",
+        "en": "US Dollar"
+      },
+      {
+        "id": "o2",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      },
+      {
+        "id": "o3",
+        "ru": "Марокканский дирхам",
+        "en": "Moroccan Dirham"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_bdt_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код BDT в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 050. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code BDT?",
+        "explanation": "Its numeric code is 050. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бангладешская така",
+        "en": "Bangladeshi Taka"
+      },
+      {
+        "id": "o1",
+        "ru": "Турецкая лира",
+        "en": "Turkish Lira"
+      },
+      {
+        "id": "o2",
+        "ru": "Таджикский сомони",
+        "en": "Tajikistani Somoni"
+      },
+      {
+        "id": "o3",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_npr_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код NPR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 524. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code NPR?",
+        "explanation": "Its numeric code is 524. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Непальская рупия",
+        "en": "Nepalese Rupee"
+      },
+      {
+        "id": "o1",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      },
+      {
+        "id": "o2",
+        "ru": "Сингапурский доллар",
+        "en": "Singapore Dollar"
+      },
+      {
+        "id": "o3",
+        "ru": "Марокканский дирхам",
+        "en": "Moroccan Dirham"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_lkr_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код LKR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 144. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code LKR?",
+        "explanation": "Its numeric code is 144. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-ланкийская рупия",
+        "en": "Sri Lankan Rupee"
+      },
+      {
+        "id": "o1",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o2",
+        "ru": "Монгольский тугрик",
+        "en": "Mongolian Tugrik"
+      },
+      {
+        "id": "o3",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_mnt_0001",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код MNT в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 496. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code MNT?",
+        "explanation": "Its numeric code is 496. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монгольский тугрик",
+        "en": "Mongolian Tugrik"
+      },
+      {
+        "id": "o1",
+        "ru": "Катарский риал",
+        "en": "Qatari Riyal"
+      },
+      {
+        "id": "o2",
+        "ru": "Индонезийская рупия",
+        "en": "Indonesian Rupiah"
+      },
+      {
+        "id": "o3",
+        "ru": "Таиландский бат",
+        "en": "Thai Baht"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_krw_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код KRW в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 410. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code KRW?",
+        "explanation": "Its numeric code is 410. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южнокорейская вона",
+        "en": "South Korean Won"
+      },
+      {
+        "id": "o1",
+        "ru": "Таиландский бат",
+        "en": "Thai Baht"
+      },
+      {
+        "id": "o2",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      },
+      {
+        "id": "o3",
+        "ru": "Перуанский соль",
+        "en": "Peruvian Sol"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_thb_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код THB в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 764. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code THB?",
+        "explanation": "Its numeric code is 764. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Таиландский бат",
+        "en": "Thai Baht"
+      },
+      {
+        "id": "o1",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      },
+      {
+        "id": "o2",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o3",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_vnd_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код VND в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 704. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code VND?",
+        "explanation": "Its numeric code is 704. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вьетнамский донг",
+        "en": "Vietnamese Dong"
+      },
+      {
+        "id": "o1",
+        "ru": "Шри-ланкийская рупия",
+        "en": "Sri Lankan Rupee"
+      },
+      {
+        "id": "o2",
+        "ru": "Индонезийская рупия",
+        "en": "Indonesian Rupiah"
+      },
+      {
+        "id": "o3",
+        "ru": "Шведская крона",
+        "en": "Swedish Krona"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_myr_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код MYR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 458. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code MYR?",
+        "explanation": "Its numeric code is 458. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o1",
+        "ru": "Канадский доллар",
+        "en": "Canadian Dollar"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладешская така",
+        "en": "Bangladeshi Taka"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_idr_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код IDR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 360. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code IDR?",
+        "explanation": "Its numeric code is 360. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индонезийская рупия",
+        "en": "Indonesian Rupiah"
+      },
+      {
+        "id": "o1",
+        "ru": "Южноафриканский рэнд",
+        "en": "South African Rand"
+      },
+      {
+        "id": "o2",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      },
+      {
+        "id": "o3",
+        "ru": "Марокканский дирхам",
+        "en": "Moroccan Dirham"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_php_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код PHP в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 608. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code PHP?",
+        "explanation": "Its numeric code is 608. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Филиппинский песо",
+        "en": "Philippine Peso"
+      },
+      {
+        "id": "o1",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      },
+      {
+        "id": "o2",
+        "ru": "Казахстанский тенге",
+        "en": "Kazakhstani Tenge"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_sgd_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код SGD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 702. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code SGD?",
+        "explanation": "Its numeric code is 702. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сингапурский доллар",
+        "en": "Singapore Dollar"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексиканский песо",
+        "en": "Mexican Peso"
+      },
+      {
+        "id": "o2",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      },
+      {
+        "id": "o3",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_aud_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код AUD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 036. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code AUD?",
+        "explanation": "Its numeric code is 036. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралийский доллар",
+        "en": "Australian Dollar"
+      },
+      {
+        "id": "o1",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o2",
+        "ru": "Сингапурский доллар",
+        "en": "Singapore Dollar"
+      },
+      {
+        "id": "o3",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_nzd_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код NZD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 554. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code NZD?",
+        "explanation": "Its numeric code is 554. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Новозеландский доллар",
+        "en": "New Zealand Dollar"
+      },
+      {
+        "id": "o1",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      },
+      {
+        "id": "o2",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o3",
+        "ru": "Китайский юань",
+        "en": "Chinese Yuan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_cad_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код CAD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 124. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code CAD?",
+        "explanation": "Its numeric code is 124. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канадский доллар",
+        "en": "Canadian Dollar"
+      },
+      {
+        "id": "o1",
+        "ru": "Чилийский песо",
+        "en": "Chilean Peso"
+      },
+      {
+        "id": "o2",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      },
+      {
+        "id": "o3",
+        "ru": "Непальская рупия",
+        "en": "Nepalese Rupee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_mxn_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код MXN в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 484. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code MXN?",
+        "explanation": "Its numeric code is 484. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексиканский песо",
+        "en": "Mexican Peso"
+      },
+      {
+        "id": "o1",
+        "ru": "Бразильский реал",
+        "en": "Brazilian Real"
+      },
+      {
+        "id": "o2",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      },
+      {
+        "id": "o3",
+        "ru": "Бангладешская така",
+        "en": "Bangladeshi Taka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_brl_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код BRL в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 986. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code BRL?",
+        "explanation": "Its numeric code is 986. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразильский реал",
+        "en": "Brazilian Real"
+      },
+      {
+        "id": "o1",
+        "ru": "Шведская крона",
+        "en": "Swedish Krona"
+      },
+      {
+        "id": "o2",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o3",
+        "ru": "Южнокорейская вона",
+        "en": "South Korean Won"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_ars_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код ARS в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 032. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code ARS?",
+        "explanation": "Its numeric code is 032. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентинский песо",
+        "en": "Argentine Peso"
+      },
+      {
+        "id": "o1",
+        "ru": "Марокканский дирхам",
+        "en": "Moroccan Dirham"
+      },
+      {
+        "id": "o2",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      },
+      {
+        "id": "o3",
+        "ru": "Британский фунт стерлингов",
+        "en": "British Pound"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_clp_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код CLP в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 152. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code CLP?",
+        "explanation": "Its numeric code is 152. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чилийский песо",
+        "en": "Chilean Peso"
+      },
+      {
+        "id": "o1",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      },
+      {
+        "id": "o2",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o3",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_pen_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код PEN в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 604. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code PEN?",
+        "explanation": "Its numeric code is 604. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перуанский соль",
+        "en": "Peruvian Sol"
+      },
+      {
+        "id": "o1",
+        "ru": "Новый туркменский манат",
+        "en": "Turkmenistani Manat"
+      },
+      {
+        "id": "o2",
+        "ru": "Чилийский песо",
+        "en": "Chilean Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Узбекский сум",
+        "en": "Uzbekistani Som"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_zar_0001",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код ZAR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 710. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code ZAR?",
+        "explanation": "Its numeric code is 710. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южноафриканский рэнд",
+        "en": "South African Rand"
+      },
+      {
+        "id": "o1",
+        "ru": "Таджикский сомони",
+        "en": "Tajikistani Somoni"
+      },
+      {
+        "id": "o2",
+        "ru": "Филиппинский песо",
+        "en": "Philippine Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Вьетнамский донг",
+        "en": "Vietnamese Dong"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_egp_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код EGP в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 818. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code EGP?",
+        "explanation": "Its numeric code is 818. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Египетский фунт",
+        "en": "Egyptian Pound"
+      },
+      {
+        "id": "o1",
+        "ru": "Таиландский бат",
+        "en": "Thai Baht"
+      },
+      {
+        "id": "o2",
+        "ru": "Мексиканский песо",
+        "en": "Mexican Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Вьетнамский донг",
+        "en": "Vietnamese Dong"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_mad_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код MAD в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 504. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code MAD?",
+        "explanation": "Its numeric code is 504. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокканский дирхам",
+        "en": "Moroccan Dirham"
+      },
+      {
+        "id": "o1",
+        "ru": "Канадский доллар",
+        "en": "Canadian Dollar"
+      },
+      {
+        "id": "o2",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o3",
+        "ru": "Индийская рупия",
+        "en": "Indian Rupee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_try_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код TRY в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 949. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code TRY?",
+        "explanation": "Its numeric code is 949. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Турецкая лира",
+        "en": "Turkish Lira"
+      },
+      {
+        "id": "o1",
+        "ru": "Перуанский соль",
+        "en": "Peruvian Sol"
+      },
+      {
+        "id": "o2",
+        "ru": "Южнокорейская вона",
+        "en": "South Korean Won"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистанская рупия",
+        "en": "Pakistani Rupee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_sar_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код SAR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 682. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code SAR?",
+        "explanation": "Its numeric code is 682. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Саудовский риял",
+        "en": "Saudi Riyal"
+      },
+      {
+        "id": "o1",
+        "ru": "Китайский юань",
+        "en": "Chinese Yuan"
+      },
+      {
+        "id": "o2",
+        "ru": "Японская иена",
+        "en": "Japanese Yen"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвежская крона",
+        "en": "Norwegian Krone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_aed_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код AED в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 784. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code AED?",
+        "explanation": "Its numeric code is 784. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дирхам ОАЭ",
+        "en": "United Arab Emirates Dirham"
+      },
+      {
+        "id": "o1",
+        "ru": "Индийская рупия",
+        "en": "Indian Rupee"
+      },
+      {
+        "id": "o2",
+        "ru": "Доллар США",
+        "en": "US Dollar"
+      },
+      {
+        "id": "o3",
+        "ru": "Кыргызский сом",
+        "en": "Kyrgyzstani Som"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_qar_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код QAR в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 634. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code QAR?",
+        "explanation": "Its numeric code is 634. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Катарский риал",
+        "en": "Qatari Riyal"
+      },
+      {
+        "id": "o1",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      },
+      {
+        "id": "o2",
+        "ru": "Филиппинский песо",
+        "en": "Philippine Peso"
+      },
+      {
+        "id": "o3",
+        "ru": "Сингапурский доллар",
+        "en": "Singapore Dollar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_nok_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код NOK в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 578. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code NOK?",
+        "explanation": "Its numeric code is 578. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Норвежская крона",
+        "en": "Norwegian Krone"
+      },
+      {
+        "id": "o1",
+        "ru": "Бразильский реал",
+        "en": "Brazilian Real"
+      },
+      {
+        "id": "o2",
+        "ru": "Сингапурский доллар",
+        "en": "Singapore Dollar"
+      },
+      {
+        "id": "o3",
+        "ru": "Турецкая лира",
+        "en": "Turkish Lira"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_catalog_currency_sek_0001",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой валюте соответствует код SEK в стандарте ISO 4217?",
+        "explanation": "Её цифровой код — 752. Буквенные и цифровые коды позволяют однозначно обозначать валюты."
+      },
+      "en": {
+        "question": "Which currency has the ISO 4217 code SEK?",
+        "explanation": "Its numeric code is 752. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шведская крона",
+        "en": "Swedish Krona"
+      },
+      {
+        "id": "o1",
+        "ru": "Монгольский тугрик",
+        "en": "Mongolian Tugrik"
+      },
+      {
+        "id": "o2",
+        "ru": "Индонезийская рупия",
+        "en": "Indonesian Rupiah"
+      },
+      {
+        "id": "o3",
+        "ru": "Малайзийский ринггит",
+        "en": "Malaysian Ringgit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
+    ],
+    "image": null
+  }
+]

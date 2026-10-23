@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 310,
+  "approvedQuestions": 1000,
   "draftQuestions": 0,
-  "playableCategories": 30,
+  "playableCategories": 32,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 9690,
+  "remainingQuestions": 9000,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -30,21 +30,21 @@
     },
     {
       "id": "chemistry",
-      "approved": 10,
+      "approved": 60,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 24,
+        "medium": 24,
+        "hard": 12
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 140,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 56,
+        "medium": 56,
+        "hard": 28
       }
     },
     {
@@ -87,40 +87,40 @@
     },
     {
       "id": "astronomy",
-      "approved": 20,
+      "approved": 80,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 10,
-        "medium": 6,
-        "hard": 4
+        "easy": 34,
+        "medium": 30,
+        "hard": 16
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 120,
       "difficultyRemaining": {
-        "easy": 70,
-        "medium": 74,
-        "hard": 36
+        "easy": 46,
+        "medium": 50,
+        "hard": 24
       }
     },
     {
       "id": "countries",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -163,40 +163,40 @@
     },
     {
       "id": "cities",
-      "approved": 10,
+      "approved": 110,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 44,
+        "medium": 44,
+        "hard": 22
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 90,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 36,
+        "medium": 36,
+        "hard": 18
       }
     },
     {
       "id": "natural_wonders",
-      "approved": 10,
+      "approved": 110,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 44,
+        "medium": 44,
+        "hard": 22
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 90,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 36,
+        "medium": 36,
+        "hard": 18
       }
     },
     {
@@ -250,17 +250,21 @@
     },
     {
       "id": "civilizations",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -454,21 +458,21 @@
     },
     {
       "id": "information_technology",
-      "approved": 10,
+      "approved": 60,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 24,
+        "medium": 24,
+        "hard": 12
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 140,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 56,
+        "medium": 56,
+        "hard": 28
       }
     },
     {
@@ -545,59 +549,59 @@
     },
     {
       "id": "painting",
-      "approved": 10,
+      "approved": 70,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 28,
+        "medium": 28,
+        "hard": 14
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 130,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 52,
+        "medium": 52,
+        "hard": 26
       }
     },
     {
       "id": "architecture",
-      "approved": 10,
+      "approved": 110,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 44,
+        "medium": 44,
+        "hard": 22
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 90,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 36,
+        "medium": 36,
+        "hard": 18
       }
     },
     {
       "id": "literature",
-      "approved": 10,
+      "approved": 100,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 40,
+        "medium": 40,
+        "hard": 20
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 100,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 40,
+        "medium": 40,
+        "hard": 20
       }
     },
     {
@@ -764,17 +768,21 @@
     },
     {
       "id": "economics",
-      "approved": 0,
+      "approved": 40,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 16,
+        "medium": 16,
+        "hard": 8
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 160,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 64,
+        "medium": 64,
+        "hard": 32
       }
     },
     {

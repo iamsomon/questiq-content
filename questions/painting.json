@@ -438,5 +438,2645 @@
       "https://api.artic.edu/api/v1/artworks/16568"
     ],
     "image": null
+  },
+  {
+    "id": "painting_catalog_art_20684_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Парижская улица в дождливый день» (1877) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Paris Street; Rainy Day (1877) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      },
+      {
+        "id": "o1",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      },
+      {
+        "id": "o2",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o3",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/20684"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_94841_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Песнь жаворонка» (1884) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Song of the Lark (1884) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      },
+      {
+        "id": "o1",
+        "ru": "Мейндерт Хоббема",
+        "en": "Meindert Hobbema"
+      },
+      {
+        "id": "o2",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      },
+      {
+        "id": "o3",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/94841"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_100858_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Небо над облаками IV» (1965) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Sky above Clouds IV (1965) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      },
+      {
+        "id": "o1",
+        "ru": "Герхард Рихтер",
+        "en": "Gerhard Richter"
+      },
+      {
+        "id": "o2",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o3",
+        "ru": "Жорж Сёра",
+        "en": "Georges Seurat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/100858"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_111436_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Корзина с яблоками» (1887–1900) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Basket of Apples (1887–1900) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поль Сезанн",
+        "en": "Paul Cezanne"
+      },
+      {
+        "id": "o1",
+        "ru": "Марк Шагал",
+        "en": "Marc Chagall"
+      },
+      {
+        "id": "o2",
+        "ru": "Сальвадор Дали",
+        "en": "Salvador Dalí"
+      },
+      {
+        "id": "o3",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/111436"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_14655_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Две сестры (На террасе)» (1881) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Two Sisters (On the Terrace) (1881) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o1",
+        "ru": "Франсиско де Сурбаран",
+        "en": "Francisco de Zurbarán"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Бэкон",
+        "en": "Francis Bacon"
+      },
+      {
+        "id": "o3",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/14655"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_16571_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Прибытие нормандского поезда на вокзал Сен-Лазар» (1877) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Arrival of the Normandy Train, Gare Saint-Lazare (1877) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Марк Шагал",
+        "en": "Marc Chagall"
+      },
+      {
+        "id": "o2",
+        "ru": "Анри де Тулуз-Лотрек",
+        "en": "Henri de Toulouse-Lautrec"
+      },
+      {
+        "id": "o3",
+        "ru": "Франсиско де Сурбаран",
+        "en": "Francisco de Zurbarán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/16571"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_61428_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Коровий череп с ситцевыми розами» (1931) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Cow's Skull with Calico Roses (1931) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      },
+      {
+        "id": "o1",
+        "ru": "Чекко дель Караваджо",
+        "en": "Cecco del Caravaggio"
+      },
+      {
+        "id": "o2",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      },
+      {
+        "id": "o3",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/61428"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_90048_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Ниагарский водопад издали» (1830) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Distant View of Niagara Falls (1830) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Томас Коул",
+        "en": "Thomas Cole"
+      },
+      {
+        "id": "o1",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      },
+      {
+        "id": "o2",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/90048"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_61128_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «В Мулен Руж» (1892–1895) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted At the Moulin Rouge (1892–1895) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Анри де Тулуз-Лотрек",
+        "en": "Henri de Toulouse-Lautrec"
+      },
+      {
+        "id": "o1",
+        "ru": "Гюстав Моро",
+        "en": "Gustave Moreau"
+      },
+      {
+        "id": "o2",
+        "ru": "Уильям Тёрнер",
+        "en": "Joseph Mallord William Turner"
+      },
+      {
+        "id": "o3",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/61128"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_8983_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Картина с тройкой» (1911) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Painting with Troika (1911) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдгар Дега",
+        "en": "Hilaire Germain Edgar Degas"
+      },
+      {
+        "id": "o2",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      },
+      {
+        "id": "o3",
+        "ru": "Эль Греко",
+        "en": "Domenico Theotokópoulos, called El Greco"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/8983"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_76244_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Раскопки» (1950) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Excavation (1950) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виллем де Кунинг",
+        "en": "Willem de Kooning"
+      },
+      {
+        "id": "o1",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдгар Дега",
+        "en": "Hilaire Germain Edgar Degas"
+      },
+      {
+        "id": "o3",
+        "ru": "Франсуа Буше",
+        "en": "François Boucher"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/76244"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_80084_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Распятие» (1627) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Crucifixion (1627) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франсиско де Сурбаран",
+        "en": "Francisco de Zurbarán"
+      },
+      {
+        "id": "o1",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      },
+      {
+        "id": "o2",
+        "ru": "Хуан Грис",
+        "en": "Juan Gris"
+      },
+      {
+        "id": "o3",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/80084"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_64818_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Стога пшеницы (Конец лета)» (1890–1891) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Stacks of Wheat (End of Summer) (1890–1891) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o2",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      },
+      {
+        "id": "o3",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/64818"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_11723_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Женщина за туалетом» (1870–1880) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Woman at Her Toilette (1870–1880) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      },
+      {
+        "id": "o1",
+        "ru": "Герхард Рихтер",
+        "en": "Gerhard Richter"
+      },
+      {
+        "id": "o2",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o3",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/11723"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_87088_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Пруд с кувшинками» (1900) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Water Lily Pond (1900) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Эль Греко",
+        "en": "Domenico Theotokópoulos, called El Greco"
+      },
+      {
+        "id": "o2",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      },
+      {
+        "id": "o3",
+        "ru": "Анри де Тулуз-Лотрек",
+        "en": "Henri de Toulouse-Lautrec"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/87088"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_154235_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Девушка у окна» (1893) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Girl by the Window (1893) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдвард Мунк",
+        "en": "Edvard Munch"
+      },
+      {
+        "id": "o1",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      },
+      {
+        "id": "o2",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o3",
+        "ru": "Франсуа Буше",
+        "en": "François Boucher"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/154235"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_93798_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Портрет Дориана Грея» (1943–1944) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Picture of Dorian Gray (1943–1944) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем де Кунинг",
+        "en": "Willem de Kooning"
+      },
+      {
+        "id": "o2",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o3",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/93798"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_8624_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Портрет Пабло Пикассо» (1912) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Portrait of Pablo Picasso (1912) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хуан Грис",
+        "en": "Juan Gris"
+      },
+      {
+        "id": "o1",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o2",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      },
+      {
+        "id": "o3",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/8624"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_87479_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Вознесение Девы Марии» (1577–1579) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Assumption of the Virgin (1577–1579) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эль Греко",
+        "en": "Domenico Theotokópoulos, called El Greco"
+      },
+      {
+        "id": "o1",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      },
+      {
+        "id": "o2",
+        "ru": "Чекко дель Караваджо",
+        "en": "Cecco del Caravaggio"
+      },
+      {
+        "id": "o3",
+        "ru": "Робер Делоне",
+        "en": "Robert Delaunay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/87479"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_28067_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Старый гитарист» (1903–1904) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Old Guitarist (1903–1904) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      },
+      {
+        "id": "o1",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      },
+      {
+        "id": "o2",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o3",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/28067"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_59426_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Белое распятие» (1938) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted White Crucifixion (1938) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марк Шагал",
+        "en": "Marc Chagall"
+      },
+      {
+        "id": "o1",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o2",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o3",
+        "ru": "Сальвадор Дали",
+        "en": "Salvador Dalí"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/59426"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_34181_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Пронзённое время» (1938) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted La durée poignardée (Time Transfixed) (1938) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o1",
+        "ru": "Ян Стен",
+        "en": "Jan Steen"
+      },
+      {
+        "id": "o2",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      },
+      {
+        "id": "o3",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/34181"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_56682_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Скала» (1944–1948) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Rock (1944–1948) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      },
+      {
+        "id": "o1",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      },
+      {
+        "id": "o2",
+        "ru": "Эль Греко",
+        "en": "Domenico Theotokópoulos, called El Greco"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Мунк",
+        "en": "Edvard Munch"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/56682"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_4884_0001",
+    "categoryId": "painting",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Фигура с мясом» (1954) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Figure with Meat (1954) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрэнсис Бэкон",
+        "en": "Francis Bacon"
+      },
+      {
+        "id": "o1",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o2",
+        "ru": "Томас Коул",
+        "en": "Thomas Cole"
+      },
+      {
+        "id": "o3",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/4884"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_14598_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Пляж в Сент-Адрессе» (1867) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Beach at Sainte-Adresse (1867) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Джексон Поллок",
+        "en": "Jackson Pollock"
+      },
+      {
+        "id": "o2",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Моро",
+        "en": "Gustave Moreau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/14598"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_869_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Водяная мельница с большой красной крышей» (1660–1670) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Watermill with the Great Red Roof (1660–1670) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мейндерт Хоббема",
+        "en": "Meindert Hobbema"
+      },
+      {
+        "id": "o1",
+        "ru": "Робер Делоне",
+        "en": "Robert Delaunay"
+      },
+      {
+        "id": "o2",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдгар Дега",
+        "en": "Hilaire Germain Edgar Degas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/869"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_16487_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Вид на Марсельский залив из Эстака» (1880–1890) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Bay of Marseille, Seen from L'Estaque (1880–1890) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поль Сезанн",
+        "en": "Paul Cezanne"
+      },
+      {
+        "id": "o1",
+        "ru": "Сальвадор Дали",
+        "en": "Salvador Dalí"
+      },
+      {
+        "id": "o2",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      },
+      {
+        "id": "o3",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/16487"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_117266_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Ночная жизнь» (1943) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Nightlife (1943) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      },
+      {
+        "id": "o1",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o2",
+        "ru": "Хуан Грис",
+        "en": "Juan Gris"
+      },
+      {
+        "id": "o3",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/117266"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_561_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Семейный концерт» (1666) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Family Concert (1666) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ян Стен",
+        "en": "Jan Steen"
+      },
+      {
+        "id": "o1",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      },
+      {
+        "id": "o2",
+        "ru": "Франсиско де Сурбаран",
+        "en": "Francisco de Zurbarán"
+      },
+      {
+        "id": "o3",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/561"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_8987_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Картина с зелёным центром» (1913) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Painting with Green Center (1913) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o2",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      },
+      {
+        "id": "o3",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/8987"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_147003_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Женщина, спускающаяся по лестнице» (1965) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Woman Descending the Staircase (Frau die Treppe herabgehend) (1965) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Герхард Рихтер",
+        "en": "Gerhard Richter"
+      },
+      {
+        "id": "o1",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      },
+      {
+        "id": "o2",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o3",
+        "ru": "Эль Греко",
+        "en": "Domenico Theotokópoulos, called El Greco"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/147003"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_46327_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Чёрный крест, Нью-Мексико» (1929) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Black Cross, New Mexico (1929) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      },
+      {
+        "id": "o1",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o2",
+        "ru": "Ян Сандерс ван Хемессен",
+        "en": "Jan Sanders van Hemessen"
+      },
+      {
+        "id": "o3",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/46327"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_81537_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Бордигера» (1884) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Bordighera (1884) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем де Кунинг",
+        "en": "Willem de Kooning"
+      },
+      {
+        "id": "o2",
+        "ru": "Ян Стен",
+        "en": "Jan Steen"
+      },
+      {
+        "id": "o3",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/81537"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_24306_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Сине-зелёная музыка» (1919–1921) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Blue and Green Music (1919–1921) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдгар Дега",
+        "en": "Hilaire Germain Edgar Degas"
+      },
+      {
+        "id": "o2",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o3",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/24306"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_79349_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Пьющие» (1890) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Drinkers (1890) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o1",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o2",
+        "ru": "Анри де Тулуз-Лотрек",
+        "en": "Henri de Toulouse-Lautrec"
+      },
+      {
+        "id": "o3",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/79349"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_16564_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Рукав Сены у Живерни (Туман)» (1897) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Branch of the Seine near Giverny (Mist) (1897) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o2",
+        "ru": "Робер Делоне",
+        "en": "Robert Delaunay"
+      },
+      {
+        "id": "o3",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/16564"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_5848_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Пейзаж со святым Иоанном на Патмосе» (1640) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Landscape with Saint John on Patmos (1640) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      },
+      {
+        "id": "o1",
+        "ru": "Фрэнсис Бэкон",
+        "en": "Francis Bacon"
+      },
+      {
+        "id": "o2",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      },
+      {
+        "id": "o3",
+        "ru": "Уильям Тёрнер",
+        "en": "Joseph Mallord William Turner"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/5848"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_14572_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Модистка» (1879–1886) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Millinery Shop (1879–1886) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдгар Дега",
+        "en": "Hilaire Germain Edgar Degas"
+      },
+      {
+        "id": "o1",
+        "ru": "Питер Блум",
+        "en": "Peter Blume"
+      },
+      {
+        "id": "o2",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      },
+      {
+        "id": "o3",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/14572"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_151424_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Изобретения чудовищ» (1937) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Inventions of the Monsters (1937) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сальвадор Дали",
+        "en": "Salvador Dalí"
+      },
+      {
+        "id": "o1",
+        "ru": "Франсиско де Сурбаран",
+        "en": "Francisco de Zurbarán"
+      },
+      {
+        "id": "o2",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/151424"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_59847_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Наказание Амура» (1613) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Cupid Chastised (1613) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o2",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o3",
+        "ru": "Томас Коул",
+        "en": "Thomas Cole"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/59847"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_19336_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Воскресение» (1619–1620) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Resurrection (1619–1620) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чекко дель Караваджо",
+        "en": "Cecco del Caravaggio"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем де Кунинг",
+        "en": "Willem de Kooning"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрэнсис Бэкон",
+        "en": "Francis Bacon"
+      },
+      {
+        "id": "o3",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/19336"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_149778_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Аллегория мира и войны» (1776) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Allegory of Peace and War (1776) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      },
+      {
+        "id": "o1",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o2",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      },
+      {
+        "id": "o3",
+        "ru": "Клод Моне",
+        "en": "Claude Monet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/149778"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_109275_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Мать и дитя» (1921) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Mother and Child (1921) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      },
+      {
+        "id": "o1",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      },
+      {
+        "id": "o2",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/109275"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_81558_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Акробатки цирка Фернандо» (1879) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg) (1879) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o1",
+        "ru": "Ян Стен",
+        "en": "Jan Steen"
+      },
+      {
+        "id": "o2",
+        "ru": "Томас Коул",
+        "en": "Thomas Cole"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Моро",
+        "en": "Gustave Moreau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/81558"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_14586_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Сад поэта» (1888) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Poet's Garden (1888) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o1",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o2",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      },
+      {
+        "id": "o3",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/14586"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_84709_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Натюрморт с дичью» (1600–1603) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Still Life with Game Fowl (1600–1603) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      },
+      {
+        "id": "o1",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      },
+      {
+        "id": "o2",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o3",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/84709"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_20199_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Последний этюд к Купанию в Аньере» (1883) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Final Study for \"Bathers at Asnières\" (1883) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жорж Сёра",
+        "en": "Georges Seurat"
+      },
+      {
+        "id": "o1",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      },
+      {
+        "id": "o2",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      },
+      {
+        "id": "o3",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/20199"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_93811_0001",
+    "categoryId": "painting",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «В мир пришла душа по имени Ида» (1929–1930) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Into the World There Came a Soul Called Ida (1929–1930) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Айвен Олбрайт",
+        "en": "Ivan Albright"
+      },
+      {
+        "id": "o1",
+        "ru": "Робер Делоне",
+        "en": "Robert Delaunay"
+      },
+      {
+        "id": "o2",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      },
+      {
+        "id": "o3",
+        "ru": "Ян Сандерс ван Хемессен",
+        "en": "Jan Sanders van Hemessen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/93811"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_5357_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Красное кресло» (1931) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Red Armchair (1931) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      },
+      {
+        "id": "o1",
+        "ru": "Поль Сезанн",
+        "en": "Paul Cezanne"
+      },
+      {
+        "id": "o2",
+        "ru": "Томас Коул",
+        "en": "Thomas Cole"
+      },
+      {
+        "id": "o3",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/5357"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_497_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Мать, кормящая ребёнка (Счастливая мать)» (1707) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted A Mother Feeding her Child (The Happy Mother) (1707) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o1",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      },
+      {
+        "id": "o2",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      },
+      {
+        "id": "o3",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/497"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_144969_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Интерьер пальмового павильона на Павлиньем острове» (1834) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted The Interior of the Palm House on the Pfaueninsel Near Potsdam (1834) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Карл Блехен",
+        "en": "Carl Blechen"
+      },
+      {
+        "id": "o1",
+        "ru": "Франсуа Буше",
+        "en": "François Boucher"
+      },
+      {
+        "id": "o2",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      },
+      {
+        "id": "o3",
+        "ru": "Помпео Батони",
+        "en": "Pompeo Girolamo Batoni"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/144969"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_83642_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Поседевшая радуга» (1953) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Greyed Rainbow (1953) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джексон Поллок",
+        "en": "Jackson Pollock"
+      },
+      {
+        "id": "o1",
+        "ru": "Жорж Сёра",
+        "en": "Georges Seurat"
+      },
+      {
+        "id": "o2",
+        "ru": "Герхард Рихтер",
+        "en": "Gerhard Richter"
+      },
+      {
+        "id": "o3",
+        "ru": "Мейндерт Хоббема",
+        "en": "Meindert Hobbema"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/83642"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_21727_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «День благодарения» (1935) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Thanksgiving (1935) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дорис Ли",
+        "en": "Doris Lee"
+      },
+      {
+        "id": "o1",
+        "ru": "Виллем ван Мирис",
+        "en": "Willem van Mieris"
+      },
+      {
+        "id": "o2",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      },
+      {
+        "id": "o3",
+        "ru": "Василий Кандинский",
+        "en": "Vasily Kandinsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/21727"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_20579_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Геракл и Лернейская гидра» (1875–1876) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Hercules and the Lernaean Hydra (1875–1876) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гюстав Моро",
+        "en": "Gustave Moreau"
+      },
+      {
+        "id": "o1",
+        "ru": "Ян Сандерс ван Хемессен",
+        "en": "Jan Sanders van Hemessen"
+      },
+      {
+        "id": "o2",
+        "ru": "Жюль Бретон",
+        "en": "Jules Breton"
+      },
+      {
+        "id": "o3",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/20579"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_4575_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Юдифь» (1535–1545) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Judith (1535–1545) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ян Сандерс ван Хемессен",
+        "en": "Jan Sanders van Hemessen"
+      },
+      {
+        "id": "o1",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o2",
+        "ru": "Джексон Поллок",
+        "en": "Jackson Pollock"
+      },
+      {
+        "id": "o3",
+        "ru": "Гюстав Кайботт",
+        "en": "Gustave Caillebotte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/4575"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_77615_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Картина (Фигуры со звёздами)» (1933) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Painting (Figures with Stars) (1933) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жоан Миро",
+        "en": "Joan Miró"
+      },
+      {
+        "id": "o1",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o2",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o3",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/77615"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_44742_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Думают ли они о винограде?» (1747) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Are They Thinking about the Grape? (Pensent-ils au raisin?) (1747) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франсуа Буше",
+        "en": "François Boucher"
+      },
+      {
+        "id": "o1",
+        "ru": "Бартоломео Манфреди",
+        "en": "Bartolomeo Manfredi"
+      },
+      {
+        "id": "o2",
+        "ru": "Берта Моризо",
+        "en": "Berthe Morisot"
+      },
+      {
+        "id": "o3",
+        "ru": "Никола Пуссен",
+        "en": "Nicolas Poussin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/44742"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_4796_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Рыбацкие лодки и торговцы, торгующиеся о рыбе» (1832–1842) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Fishing Boats with Hucksters Bargaining for Fish (1832–1842) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уильям Тёрнер",
+        "en": "Joseph Mallord William Turner"
+      },
+      {
+        "id": "o1",
+        "ru": "Джорджия О’Кифф",
+        "en": "Georgia O'Keeffe"
+      },
+      {
+        "id": "o2",
+        "ru": "Винсент ван Гог",
+        "en": "Vincent van Gogh"
+      },
+      {
+        "id": "o3",
+        "ru": "Хуан Санчес Котан",
+        "en": "Juan Sánchez Cotán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/4796"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_25825_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Женщина за фортепиано» (1875–1876) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Woman at the Piano (1875–1876) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Огюст Ренуар",
+        "en": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "o1",
+        "ru": "Ян Сандерс ван Хемессен",
+        "en": "Jan Sanders van Hemessen"
+      },
+      {
+        "id": "o2",
+        "ru": "Арчибальд Мотли",
+        "en": "Archibald John Motley Jr."
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнсис Бэкон",
+        "en": "Francis Bacon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/25825"
+    ],
+    "image": null
+  },
+  {
+    "id": "painting_catalog_art_9503_0001",
+    "categoryId": "painting",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал картину «Марсово поле: Красная башня» (1911–1923) из Чикагского института искусств?",
+        "explanation": "В музейной записи указана техника: масляная живопись."
+      },
+      "en": {
+        "question": "Who painted Champs de Mars: The Red Tower (1911–1923) in the Art Institute of Chicago?",
+        "explanation": "The museum records the medium as oil paint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Робер Делоне",
+        "en": "Robert Delaunay"
+      },
+      {
+        "id": "o1",
+        "ru": "Рене Магритт",
+        "en": "René Magritte"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдвард Мунк",
+        "en": "Edvard Munch"
+      },
+      {
+        "id": "o3",
+        "ru": "Пабло Пикассо",
+        "en": "Pablo Picasso"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.artic.edu/api/v1/artworks/9503"
+    ],
+    "image": null
   }
 ]

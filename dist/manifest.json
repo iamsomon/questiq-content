@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "354481a4b4cf9e32c07b14814b267bae39ddf45dd1ff39db3ed1852fca5e16f3",
+  "version": "c7f52b6ae43708f4655827813bd6a2f92e38477498432f460d82939da559cd62",
   "revokedIds": [],
   "packs": [
     {
@@ -39,17 +39,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "architecture",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-68b3b75f7ac8a0cf.json",
-      "sha256": "68b3b75f7ac8a0cfd1e2136389eef41f7e45b9b73fab65500a23b74df9ab3e16",
-      "size": 8402
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-2dabb5d4e088b733.json",
+      "sha256": "2dabb5d4e088b733cab9988455040b40bc0f9299195d83a6bc9234564a9e19c6",
+      "size": 108112
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "architecture",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-68b3b75f7ac8a0cf.json",
-      "sha256": "68b3b75f7ac8a0cfd1e2136389eef41f7e45b9b73fab65500a23b74df9ab3e16",
-      "size": 8402
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/architecture-2dabb5d4e088b733.json",
+      "sha256": "2dabb5d4e088b733cab9988455040b40bc0f9299195d83a6bc9234564a9e19c6",
+      "size": 108112
     },
     {
       "schemaVersion": 1,
@@ -71,17 +71,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "astronomy",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
-      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
-      "size": 17493
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-94eb0ab7c72b4989.json",
+      "sha256": "94eb0ab7c72b49893154163c0c2691ed168f8a075a6f3f198345b5eed7d81165",
+      "size": 69973
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "astronomy",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-aa31402952f66f28.json",
-      "sha256": "aa31402952f66f2812b5625763a4a0408f27381dde6d17d746e8fca4c7c1bcf9",
-      "size": 17493
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/astronomy-94eb0ab7c72b4989.json",
+      "sha256": "94eb0ab7c72b49893154163c0c2691ed168f8a075a6f3f198345b5eed7d81165",
+      "size": 69973
     },
     {
       "schemaVersion": 1,
@@ -151,49 +151,65 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "chemistry",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
-      "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
-      "size": 8033
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-be6cb7bf89d32793.json",
+      "sha256": "be6cb7bf89d32793d8c23c12ae3acac3175d4e81eece1a99277085a3862d51d6",
+      "size": 49302
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "chemistry",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-6b3557e16b2b4d8d.json",
-      "sha256": "6b3557e16b2b4d8dd8d08c60d5a1920a226764c1069e4371efc2678dedd1d199",
-      "size": 8033
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/chemistry-be6cb7bf89d32793.json",
+      "sha256": "be6cb7bf89d32793d8c23c12ae3acac3175d4e81eece1a99277085a3862d51d6",
+      "size": 49302
     },
     {
       "schemaVersion": 1,
       "locale": "ru",
       "category": "cities",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
-      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
-      "size": 8490
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-63c29149f0b886a4.json",
+      "sha256": "63c29149f0b886a4f62575f542c660a401bf760e4161951e8f929c46df4d9a58",
+      "size": 105661
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "cities",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-a3a5fc8fd97b5e13.json",
-      "sha256": "a3a5fc8fd97b5e132d939963c02ab1ab8152b34c69b05f82a62ca2cffd509383",
-      "size": 8490
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/cities-63c29149f0b886a4.json",
+      "sha256": "63c29149f0b886a4f62575f542c660a401bf760e4161951e8f929c46df4d9a58",
+      "size": 105661
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "civilizations",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/civilizations-fc86fb67bb263e8d.json",
+      "sha256": "fc86fb67bb263e8d447716b8b0e65feace83a50013143d7337c63148d03ba637",
+      "size": 19832
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "civilizations",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/civilizations-fc86fb67bb263e8d.json",
+      "sha256": "fc86fb67bb263e8d447716b8b0e65feace83a50013143d7337c63148d03ba637",
+      "size": 19832
     },
     {
       "schemaVersion": 1,
       "locale": "ru",
       "category": "countries",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
-      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
-      "size": 9073
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-9e7ec159d7813516.json",
+      "sha256": "9e7ec159d7813516e456c105975b9f667ff62a6a908fcffb1774e99d7b7e393c",
+      "size": 28476
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "countries",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-54a0e3ca3a8e20ca.json",
-      "sha256": "54a0e3ca3a8e20ca01c7706283f09f0ddf16126377866fb81aba948c897684a0",
-      "size": 9073
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/countries-9e7ec159d7813516.json",
+      "sha256": "9e7ec159d7813516e456c105975b9f667ff62a6a908fcffb1774e99d7b7e393c",
+      "size": 28476
     },
     {
       "schemaVersion": 1,
@@ -226,6 +242,22 @@
       "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/ecology-6e6f537583e2879e.json",
       "sha256": "6e6f537583e2879e8f1a367a05fe8869e8f41d786842b6230f3b6e3d721830e8",
       "size": 9051
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "ru",
+      "category": "economics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/economics-1f2cc92ddd3eee23.json",
+      "sha256": "1f2cc92ddd3eee23769f6ec7e4a801b38f24714617e293da0c25b3cf4f670b0b",
+      "size": 43097
+    },
+    {
+      "schemaVersion": 1,
+      "locale": "en",
+      "category": "economics",
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/economics-1f2cc92ddd3eee23.json",
+      "sha256": "1f2cc92ddd3eee23769f6ec7e4a801b38f24714617e293da0c25b3cf4f670b0b",
+      "size": 43097
     },
     {
       "schemaVersion": 1,
@@ -279,17 +311,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "information_technology",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-ea1137862fab0916.json",
-      "sha256": "ea1137862fab091651039f2c5d3a340c95ed6438e88c09df77d44ad6fb102e45",
-      "size": 8925
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-c81fa53c7a48bd37.json",
+      "sha256": "c81fa53c7a48bd3731c2fb9aab7ff0bbbf65ad25d61730bb7c9b7caea2dd4be8",
+      "size": 59439
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "information_technology",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-ea1137862fab0916.json",
-      "sha256": "ea1137862fab091651039f2c5d3a340c95ed6438e88c09df77d44ad6fb102e45",
-      "size": 8925
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/information_technology-c81fa53c7a48bd37.json",
+      "sha256": "c81fa53c7a48bd3731c2fb9aab7ff0bbbf65ad25d61730bb7c9b7caea2dd4be8",
+      "size": 59439
     },
     {
       "schemaVersion": 1,
@@ -311,17 +343,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "literature",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-a4dd6e0b7ac8cd07.json",
-      "sha256": "a4dd6e0b7ac8cd07002bfcec370bd150f43a7094c85b2d255a59d59cd7f99f25",
-      "size": 8762
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-da09c0348429c68f.json",
+      "sha256": "da09c0348429c68f441669d67954bae8d99fc958c0d55beaadc056fdb30fbf91",
+      "size": 80630
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "literature",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-a4dd6e0b7ac8cd07.json",
-      "sha256": "a4dd6e0b7ac8cd07002bfcec370bd150f43a7094c85b2d255a59d59cd7f99f25",
-      "size": 8762
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/literature-da09c0348429c68f.json",
+      "sha256": "da09c0348429c68f441669d67954bae8d99fc958c0d55beaadc056fdb30fbf91",
+      "size": 80630
     },
     {
       "schemaVersion": 1,
@@ -359,17 +391,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "natural_wonders",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
-      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
-      "size": 9301
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-2fc2e69d66c88af7.json",
+      "sha256": "2fc2e69d66c88af7946d107f4807d57d559e86ecb51b650ac1a28379255ce02f",
+      "size": 107818
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "natural_wonders",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-407c7503cd015915.json",
-      "sha256": "407c7503cd015915f1eb6eb198e6f60057df0b2920de1ebe35792e72381583a2",
-      "size": 9301
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/natural_wonders-2fc2e69d66c88af7.json",
+      "sha256": "2fc2e69d66c88af7946d107f4807d57d559e86ecb51b650ac1a28379255ce02f",
+      "size": 107818
     },
     {
       "schemaVersion": 1,
@@ -391,17 +423,17 @@
       "schemaVersion": 1,
       "locale": "ru",
       "category": "painting",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-03213dc41236e14a.json",
-      "sha256": "03213dc41236e14a7f98b2866bdc5725ec5bac13f8a7af6905b25d5b67d68cdb",
-      "size": 8607
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-922d7c928137f6b6.json",
+      "sha256": "922d7c928137f6b6c5415ce529d58bd112120b4f333a7b0718a153f0635814a4",
+      "size": 67121
     },
     {
       "schemaVersion": 1,
       "locale": "en",
       "category": "painting",
-      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-03213dc41236e14a.json",
-      "sha256": "03213dc41236e14a7f98b2866bdc5725ec5bac13f8a7af6905b25d5b67d68cdb",
-      "size": 8607
+      "url": "https://raw.githubusercontent.com/iamsomon/questiq-content/main/dist/packs/painting-922d7c928137f6b6.json",
+      "sha256": "922d7c928137f6b6c5415ce529d58bd112120b4f333a7b0718a153f0635814a4",
+      "size": 67121
     },
     {
       "schemaVersion": 1,

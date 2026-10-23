@@ -178,5 +178,1205 @@
         "claim": "In which French village was Monet’s garden that inspired his Water Lilies? Answer: Giverny. The artist created a water garden there with a pond and Japanese bridge."
       }
     ]
+  },
+  {
+    "id": "painting_catalog_art_20684_0001",
+    "status": "approved",
+    "sha256": "145a87f81d51720a6709e5f071855ac44f604b6f2b0d1665085123311ace822d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/20684",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Paris Street; Rainy Day (1877) in the Art Institute of Chicago? Answer: Gustave Caillebotte. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "df77f0db41ac3cd0e9d0cb35245fa1e792c1eb2ea6a76dfd19dfd03ede0ee5c2",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_94841_0001",
+    "status": "approved",
+    "sha256": "d783919b0dd9192ab3159973b2d5d1737e548a085cf9d72590879dc9bd050ded",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/94841",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Song of the Lark (1884) in the Art Institute of Chicago? Answer: Jules Breton. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "eb2c439b5da1d903faea26ec027a40fcb49d5c56d4f171c64ef13fbf8cd9ea6b",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_100858_0001",
+    "status": "approved",
+    "sha256": "698deffeb4ad33296d40ae6c5b0b677c49bdf51271ebbb06d71217ab89161228",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/100858",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Sky above Clouds IV (1965) in the Art Institute of Chicago? Answer: Georgia O'Keeffe. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "c04fa687fd95ba5065ad1ea23ed84dd76433d33306a4f029ee61604b693c606a",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_111436_0001",
+    "status": "approved",
+    "sha256": "571dd6ea6632565831bf6fa2e5761e974620d099f7e91865d70292a560198c1e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/111436",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Basket of Apples (1887–1900) in the Art Institute of Chicago? Answer: Paul Cezanne. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "79084c9e69209045de1e38d2680b6c9da3f17c7aacbd2843dadb061b60ceebb0",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_14655_0001",
+    "status": "approved",
+    "sha256": "bdf87b4b50d33360ab8f4d4077d805369efce2920cd40e969cb04006b76d4228",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/14655",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Two Sisters (On the Terrace) (1881) in the Art Institute of Chicago? Answer: Pierre-Auguste Renoir. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "39cf3287e1a4f23f50cd3bf3c34910ff1a6061f67d538194df5c9bf112b8a55f",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_16571_0001",
+    "status": "approved",
+    "sha256": "c102c7802e7fe4ad791128de04f5dd12cee0f86fe823708bc79ec6ae5e88e6df",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/16571",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Arrival of the Normandy Train, Gare Saint-Lazare (1877) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "1944d59fac698d4e98c39056c23f51b53d7bcf021d4c5726bcfc7126c01fa5b6",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_61428_0001",
+    "status": "approved",
+    "sha256": "a7309ce7dc8dfe36f4d621174ec286ddc9da4e6a73615ef5d830ab481db2a689",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/61428",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Cow's Skull with Calico Roses (1931) in the Art Institute of Chicago? Answer: Georgia O'Keeffe. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "ce488289d4bd425f0db696345c4a8c37d001d2a591b0c97ce3768e9916477b2a",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_90048_0001",
+    "status": "approved",
+    "sha256": "fdef63050ccb1d2bbe888989cbfab351358ce13f955780a9ac6cf441c93340ec",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/90048",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Distant View of Niagara Falls (1830) in the Art Institute of Chicago? Answer: Thomas Cole. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "bdf68aed5bb7cbc32cdcdf8e83177f783f05ad50469eaa26e0701da8b731e435",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_61128_0001",
+    "status": "approved",
+    "sha256": "5b156d770809b3fa387343dce17d83fd00ad4e0bcaee165badd66340db78f10f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/61128",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted At the Moulin Rouge (1892–1895) in the Art Institute of Chicago? Answer: Henri de Toulouse-Lautrec. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "7a72c0b69305d23356d72e5f98d497494e26bc81575850624bf5015f395397ff",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_8983_0001",
+    "status": "approved",
+    "sha256": "d3b9c55d357349159f60a3494dcc8976820c7a46ff05394bd5517b62778a3040",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/8983",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Painting with Troika (1911) in the Art Institute of Chicago? Answer: Vasily Kandinsky. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "914155c9282063ccaa2ec88fab31ced03af5c8033573bc131cd2d7cc1bead148",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_76244_0001",
+    "status": "approved",
+    "sha256": "9248e92e9605fd90a107e49b4fd42281c27568d4514572d2a38953eff5fbdf86",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/76244",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Excavation (1950) in the Art Institute of Chicago? Answer: Willem de Kooning. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "cb569664cc15fa7eb280e134bf56416ec7b6c039d4cd2422587cbbbf04b6bb22",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_80084_0001",
+    "status": "approved",
+    "sha256": "8053c73290a11d4dfa6b087fe66f7301edd8c40eca0302d6e0bf6c7d60378308",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/80084",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Crucifixion (1627) in the Art Institute of Chicago? Answer: Francisco de Zurbarán. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "7b8b84c7df2b36c92d81cee0cd83d65e0d678d4aa4a94b54783b328df42d1e7e",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_64818_0001",
+    "status": "approved",
+    "sha256": "9f6a4e1455921aea5f35910954915588190f1b5d4a375ce40b7244b6ac3212c6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/64818",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Stacks of Wheat (End of Summer) (1890–1891) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "158a10e28c92c14bbbfd75ab993a59e8a1c55d730604d0855015d884326fa60e",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_11723_0001",
+    "status": "approved",
+    "sha256": "b779ca466fbd461fb1910b1042de538fbc8b1f238c7b2220aace969650fada6a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/11723",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Woman at Her Toilette (1870–1880) in the Art Institute of Chicago? Answer: Berthe Morisot. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "6d0ce70aca341cc942712be46a5124bf7abbfb4bd6deb57ae3e371525acf3876",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_87088_0001",
+    "status": "approved",
+    "sha256": "0f03f046db6a1b8711029c8d2f6e1da4e06ba77121b192c02ca0cf3c928b41e9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/87088",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Water Lily Pond (1900) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "ab1c226dfcabebb87cb26d830b20c463e4ee605f42319ef6cf3dd57114202b90",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_154235_0001",
+    "status": "approved",
+    "sha256": "7cc3256f191e9e946281a6f198effe038563cb5bc951f9c6ccef597309196b78",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/154235",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Girl by the Window (1893) in the Art Institute of Chicago? Answer: Edvard Munch. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "1e3abf16f1a3ced15ef03c04ad7667a559bd69bc42276e668fc0d1e9d9492ec2",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_93798_0001",
+    "status": "approved",
+    "sha256": "c03d05663f5ec47a2a8190426ab8a362ac28aa0623814a01d3a8a7f093f2e936",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/93798",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Picture of Dorian Gray (1943–1944) in the Art Institute of Chicago? Answer: Ivan Albright. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "001bf91c1ede45fbdb14293659c03062de13d4c5e2251c8900e9896dfe756002",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_8624_0001",
+    "status": "approved",
+    "sha256": "4197933f0fed9e899c08a321f84fb26b56b8eb51dda39a0067e59260183e5435",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/8624",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Portrait of Pablo Picasso (1912) in the Art Institute of Chicago? Answer: Juan Gris. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "4c4f4715aafb833cae36791f43828cae51a83803214ecd0dc68a44cb4f8afab6",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_87479_0001",
+    "status": "approved",
+    "sha256": "f457a734bd9f1a008fbe6c38b19d680db81d63bb13f503e19093f0a80445c72b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/87479",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Assumption of the Virgin (1577–1579) in the Art Institute of Chicago? Answer: Domenico Theotokópoulos, called El Greco. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "5c78bf416b97d111401c2737fa51701ad046c39a3eb1b9df46dbb399da9fd16e",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_28067_0001",
+    "status": "approved",
+    "sha256": "b6ac43841b4a0e7aee4f8fdf096a202145552a4ac453e6cbc1130c1b893808b2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/28067",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Old Guitarist (1903–1904) in the Art Institute of Chicago? Answer: Pablo Picasso. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "b569aa56243ea6317c21ff141191f49eba32fc791e2192bd40cb29ba607ac900",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_59426_0001",
+    "status": "approved",
+    "sha256": "faf8cc3e4fbebf5d1f1c97094e7765ee44c163919375ecb788b1831d7d759bbe",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/59426",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted White Crucifixion (1938) in the Art Institute of Chicago? Answer: Marc Chagall. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "511ca1c5ec4289b64162cebab8f58ef5f9874d2e23b3b78852b4b70e8e12d01d",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_34181_0001",
+    "status": "approved",
+    "sha256": "1b782ee6d10405a3937a538df6644a1bd4a25e35e32673cb53e8bc700c4a7ac9",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/34181",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted La durée poignardée (Time Transfixed) (1938) in the Art Institute of Chicago? Answer: René Magritte. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "8961fd87e3205d0f14008e77626877d1aa8f4aa9a3dfa1cd636740011dce7e73",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_56682_0001",
+    "status": "approved",
+    "sha256": "9cacee1108963459091023d7b7cc28f2d1e38a028847f73c0b63bb8a949baf0f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/56682",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Rock (1944–1948) in the Art Institute of Chicago? Answer: Peter Blume. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "9ad07f4feef3252fc949376a21751d3bfc2a82fcd80b48495b73d379bcb138e0",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_4884_0001",
+    "status": "approved",
+    "sha256": "d723c0b1f4124a9f5e4e19aae42a3ce0a889c1774a6c109576c5aac84ec20f4e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/4884",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Figure with Meat (1954) in the Art Institute of Chicago? Answer: Francis Bacon. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "97ad7d861bc52ad0de0115c557ae6be024517b0424533412da3b84949def06f5",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_14598_0001",
+    "status": "approved",
+    "sha256": "0dbca5484ec2e3e24d9fa19fd7705c3f3a6b7064f6edaafd6f4ae7d286224683",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/14598",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Beach at Sainte-Adresse (1867) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "016e8f9b3ad1d562177ebc2a7f8d883e3f4d52c500d22485e6d197e1d052121c",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_869_0001",
+    "status": "approved",
+    "sha256": "dc8de1d010a6e3026c331edc1e32fbbe2fd5281f2696859209db21be89f3aade",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/869",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Watermill with the Great Red Roof (1660–1670) in the Art Institute of Chicago? Answer: Meindert Hobbema. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "bb48828a76bbdc250a2a10bd984055a94f9b8cb87b71c6a488fded9e2b0925f4",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_16487_0001",
+    "status": "approved",
+    "sha256": "5fa971813264f818a8b0038422b1739f8eea2dba2d20a52eb9940b4a07e8b31a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/16487",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Bay of Marseille, Seen from L'Estaque (1880–1890) in the Art Institute of Chicago? Answer: Paul Cezanne. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "5cc0ca71812d5e133163da9d8ada79b585cd3bbe6e77f8adb0fce6e97c5a4e55",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_117266_0001",
+    "status": "approved",
+    "sha256": "356ae6da0a7af4c28b48cddf0bee59efd17e7cf900bd16d82efaf68e2b299fd0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/117266",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Nightlife (1943) in the Art Institute of Chicago? Answer: Archibald John Motley Jr.. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "3598870b24d29b7dca92e9634a88187e28f7bb65bb6641f6671fb7df7a075323",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_561_0001",
+    "status": "approved",
+    "sha256": "db61b4c47c37055a0088ab6a07495f474db5a9dc5177a2601117bd2a74580b01",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/561",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Family Concert (1666) in the Art Institute of Chicago? Answer: Jan Steen. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "718a6c665194ec82398fb937bf53eb013b72ce310cc3ee9c8313574ccede48d8",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_8987_0001",
+    "status": "approved",
+    "sha256": "c95923a69bf593c25ac0590ae2f76f3d0815879765d0f43cbdae39115cea212b",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/8987",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Painting with Green Center (1913) in the Art Institute of Chicago? Answer: Vasily Kandinsky. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "74517601e99bc1ae6d184ffda94c1357164e6aaa5cf7c6ed599f39da89ed8e99",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_147003_0001",
+    "status": "approved",
+    "sha256": "507467237b7520e64c392e7f9885c0ff64dd07f0abdc7cbe6b6fcf9d70cb8ef5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/147003",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Woman Descending the Staircase (Frau die Treppe herabgehend) (1965) in the Art Institute of Chicago? Answer: Gerhard Richter. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "f64511b79be5e06dc7d9e45f1b33ca816512ad183c5d88b4b821e15a5edc366a",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_46327_0001",
+    "status": "approved",
+    "sha256": "bacb8292b8f0b688cbd9420c962bf02a24982b3b80e1a060f38754d99f29d997",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/46327",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Black Cross, New Mexico (1929) in the Art Institute of Chicago? Answer: Georgia O'Keeffe. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "2ca461298cd0c9f8c997d05b0e2d03e5e80be4aae909f43817c7d0d75cce28c1",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_81537_0001",
+    "status": "approved",
+    "sha256": "045096af08c9a023ba0433c7fb047a4d11ee20beecac9e0eee779d78323ac0f3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/81537",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Bordighera (1884) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "d697e3fb2802b6ee5f9af5b6327d30c1ce16385b720e4b7e9b7f7e4f1f6a8f36",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_24306_0001",
+    "status": "approved",
+    "sha256": "e9c38dc61f9ddb24ff94e507f9f5528b57f2f5529bbb896cf9996653170c4257",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/24306",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Blue and Green Music (1919–1921) in the Art Institute of Chicago? Answer: Georgia O'Keeffe. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "3d569d39ed14b0e8b265517db3ce8b11e6858ca310ae81f2561125ea11e73cf6",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_79349_0001",
+    "status": "approved",
+    "sha256": "dd8750311732e0d560773d92648a0008f29a39763b5230f812001f8623ba135e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/79349",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Drinkers (1890) in the Art Institute of Chicago? Answer: Vincent van Gogh. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "af74a10ad8066730361e28d0e37fa4f29eb580f6ed41c7115513152366dcc61d",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_16564_0001",
+    "status": "approved",
+    "sha256": "77d8bad64e600ff43d8f086ce1fde257f2449badc70816adfc125bba244af6e8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/16564",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Branch of the Seine near Giverny (Mist) (1897) in the Art Institute of Chicago? Answer: Claude Monet. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "0f13dffa91fe76f7a363d0ac5cd6fe6416663060771f0ad2074782d837657e9c",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_5848_0001",
+    "status": "approved",
+    "sha256": "fa86cccf4a4226a2562aadeb318fa22a2f515a51f5d3a3a2267249f1c5273bbf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/5848",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Landscape with Saint John on Patmos (1640) in the Art Institute of Chicago? Answer: Nicolas Poussin. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "b8fa1f1cbc51247d42a8557eb43d98ede9cba2969643b293a25e647bdc9c413a",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_14572_0001",
+    "status": "approved",
+    "sha256": "73e730b7e142cbb05542afd766a8b1bf84ce9d6f7ca4d9b2a7c734422b37e63e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/14572",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Millinery Shop (1879–1886) in the Art Institute of Chicago? Answer: Hilaire Germain Edgar Degas. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "ba9a332ad3d6e50496a2cefab72a77b103f94f8094964860a98a80a6d28751f6",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_151424_0001",
+    "status": "approved",
+    "sha256": "5e5fb624c03f5ed3f8570dea8cb8039b2a81d1f0bef5cae1e3ec5d8d07f84181",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/151424",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Inventions of the Monsters (1937) in the Art Institute of Chicago? Answer: Salvador Dalí. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "512abb0694dcd8050aaad9e9b60f1ee8afeb9b8615a9a764b34b47599a6efe58",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_59847_0001",
+    "status": "approved",
+    "sha256": "102bad52b65d51b9b626c37dcfc8ecdffc7d7755af98c406b6492eab88ae0e7a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/59847",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Cupid Chastised (1613) in the Art Institute of Chicago? Answer: Bartolomeo Manfredi. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "4ae344ec105da20fbe0687335bddf7789db290f3543e8bad587bf3521b96f053",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_19336_0001",
+    "status": "approved",
+    "sha256": "aec8097c589d28e81fa9906efacf3e149ba32b8903ae814133b2b6b64b82674a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/19336",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Resurrection (1619–1620) in the Art Institute of Chicago? Answer: Cecco del Caravaggio. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "c002bbe47f8e25e74aaacbdec61ad5931aa35101907d3a991ddd3896bd27cf86",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_149778_0001",
+    "status": "approved",
+    "sha256": "2b956dc6a2d778b8ca54985d15d5cfc79a75d9b34060d9363c2e84bd47f0bf93",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/149778",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Allegory of Peace and War (1776) in the Art Institute of Chicago? Answer: Pompeo Girolamo Batoni. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "607fa0094323a862cbcc679fd6b04836e17ec1a681ec983ea301d3395c61923e",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_109275_0001",
+    "status": "approved",
+    "sha256": "2c6350029f29a8735178f56c63b484918efeb7b009ef59d579b8db587a7a31b5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/109275",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Mother and Child (1921) in the Art Institute of Chicago? Answer: Pablo Picasso. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "7efebf7ee6fd2d1e413f087758c81d423e0e4a88dff4604f5349aad83305da0b",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_81558_0001",
+    "status": "approved",
+    "sha256": "ea04acaf57aa960fcb487cd55472d8abbc55f2831fa175a2d7b1ce8aca3287c8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/81558",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg) (1879) in the Art Institute of Chicago? Answer: Pierre-Auguste Renoir. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "cc107c9d15550deca9c64f048572c69d562c11464d3efc9d48b104e291d88f82",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_14586_0001",
+    "status": "approved",
+    "sha256": "e04b6a9e510aa03c9665c6aa9bb7cd5378c626566bc36600037dbe0a3acdb190",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/14586",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Poet's Garden (1888) in the Art Institute of Chicago? Answer: Vincent van Gogh. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "537912dee524a45029922d4e52430d7f50abd5726213de4a04e8efd604945cd7",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_84709_0001",
+    "status": "approved",
+    "sha256": "cba58caeaa2fbeb783550b3fc5a0ebd6a298e5366540a75fd4c6312442017b8c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/84709",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Still Life with Game Fowl (1600–1603) in the Art Institute of Chicago? Answer: Juan Sánchez Cotán. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "911d9b3ce2134a8d0e266f5ced15a34c34ac441058fe0942a65bd5a7fff8b4b1",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_20199_0001",
+    "status": "approved",
+    "sha256": "3f3337cbb6df419dd21665d5ec780b4dd64d54dab5e928ddf0aa3e715316ad22",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/20199",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Final Study for \"Bathers at Asnières\" (1883) in the Art Institute of Chicago? Answer: Georges Seurat. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "70e84b14242195473a162913f1d7d524f65cff9d730a48813434f45d5ba560c7",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_93811_0001",
+    "status": "approved",
+    "sha256": "057e8898e00d2d422b7301fa057b791f0b46fe2492ff239bac13b34b4d5e750d",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/93811",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Into the World There Came a Soul Called Ida (1929–1930) in the Art Institute of Chicago? Answer: Ivan Albright. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "6f1e41446f6fa8b6d222b50578095dc9268692085fa449e84b57f9ee7ac30330",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_5357_0001",
+    "status": "approved",
+    "sha256": "59ab0f72f2767e240fb529073ddac54ad13359c46c8bc21016880da6c5f9162a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/5357",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Red Armchair (1931) in the Art Institute of Chicago? Answer: Pablo Picasso. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "e1ce2618911b15f009725b7196355ad780a6c2a8c1f53793996a501a8d1b315f",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_497_0001",
+    "status": "approved",
+    "sha256": "5ee3346b4cc857c7114e94712f3c37a50eaa63c383081a94c10be1c2bdc224dc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/497",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted A Mother Feeding her Child (The Happy Mother) (1707) in the Art Institute of Chicago? Answer: Willem van Mieris. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "c1a55145e89ddc585c2067715017df19c0f1c22c4694134118fbb9b984c9135d",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_144969_0001",
+    "status": "approved",
+    "sha256": "2e4d9927bd67207a9261d79c1b60346f8f99de777d25a55eb89da35c33ede8a5",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/144969",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted The Interior of the Palm House on the Pfaueninsel Near Potsdam (1834) in the Art Institute of Chicago? Answer: Carl Blechen. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "8e6e3f2632b3b7e512f5a44834454c2b4c1262b544c890a780f9cf744f60519a",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_83642_0001",
+    "status": "approved",
+    "sha256": "91c093ce7812275fbf1abdb42d401962ace86315b684a1f2bb753eeb6ac0d066",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/83642",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Greyed Rainbow (1953) in the Art Institute of Chicago? Answer: Jackson Pollock. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "59f878c4b4ec842af89dff145b6c03637befd6b2d5d00825d414b2c87c7349d7",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_21727_0001",
+    "status": "approved",
+    "sha256": "7d2406a8e8e8e6d2c07d5f141ddec7e08b6c42ab336429a051c3b4a4cfa4998a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/21727",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Thanksgiving (1935) in the Art Institute of Chicago? Answer: Doris Lee. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "72ba4bb90b597c1e605e393ea34d61d0b62f8a7b1b439289132ab2e6a9a5126d",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_20579_0001",
+    "status": "approved",
+    "sha256": "40d453357c2d0e8425d7bd9aae4908618fcd0cc6c891dba96c2884b71a44db9f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/20579",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Hercules and the Lernaean Hydra (1875–1876) in the Art Institute of Chicago? Answer: Gustave Moreau. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "72e4c8d11a9106fbb4d760a43b27d39f0ab26b0b76505e751da265c8ff0eaa49",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_4575_0001",
+    "status": "approved",
+    "sha256": "db7c22ccc1f8bda996c531381c7d026b02cccc81a37cd60ba95018b1e4e8d2bf",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/4575",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Judith (1535–1545) in the Art Institute of Chicago? Answer: Jan Sanders van Hemessen. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "6170776d5985f6fc56285c3c78d270a6c9368607d0308153befd95154e70600e",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_77615_0001",
+    "status": "approved",
+    "sha256": "64d980afa1bed13b1d6d0f21baccab86c8fb796f95b013e67895d4aa9edfde95",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/77615",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Painting (Figures with Stars) (1933) in the Art Institute of Chicago? Answer: Joan Miró. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "47d1c519befac404a75ad4838673c2ccfe5d115ed275f386213e969634ddd1ff",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_44742_0001",
+    "status": "approved",
+    "sha256": "5fb7fd2d069e2e2bdbcc544da03dda2a0c01bf9ba55b5cdc4826ee54fbc80cae",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/44742",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Are They Thinking about the Grape? (Pensent-ils au raisin?) (1747) in the Art Institute of Chicago? Answer: François Boucher. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "4fe8da5f35a2ec1e4df44f4319513767ac66a13be15e75afee78ead624d847a4",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_4796_0001",
+    "status": "approved",
+    "sha256": "90fe1285cd139466505f6a816c85ad7317d78fed08aa2854a64c800fd2e7f835",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/4796",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Fishing Boats with Hucksters Bargaining for Fish (1832–1842) in the Art Institute of Chicago? Answer: Joseph Mallord William Turner. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "ba0d0110152ca838efe7c06d65d1471b7512d93e5131fd5292e13be8f8426bb1",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_25825_0001",
+    "status": "approved",
+    "sha256": "1eecaa677d03fd06e17593bc79a5c539e34368979c86cb6ac80506597682265f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/25825",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Woman at the Piano (1875–1876) in the Art Institute of Chicago? Answer: Pierre-Auguste Renoir. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "eb1acdafce8d6963478cb8b3c201477c3490b8ab5180b05a6c7c193497dbbc24",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
+  },
+  {
+    "id": "painting_catalog_art_9503_0001",
+    "status": "approved",
+    "sha256": "2277ef8df1c557f544c1f83af98ca3cb229dfc917e17453775978923d8335063",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.artic.edu/api/v1/artworks/9503",
+        "location": "Artwork ID; sole artist attribution; date_start/date_end; medium_display",
+        "claim": "Who painted Champs de Mars: The Red Tower (1911–1923) in the Art Institute of Chicago? Answer: Robert Delaunay. The museum records the medium as oil paint."
+      }
+    ],
+    "sourceRecordSha256": "86eefcaf530a03efc18a984dd618be7648c9fa0a84ddcb3c3b591d72d018201b",
+    "reviewNotes": "Reviewed museum attribution, unique artwork ID, title and museum date. A single named artist is required. Title plus date and collection disambiguate generic titles; all distractors are other painters, not aliases or coauthors. Oil-paint medium is confirmed separately. Russian work titles and painter names were compared to English; no images/descriptions reproduced."
   }
 ]

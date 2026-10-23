@@ -1,0 +1,802 @@
+[
+  {
+    "id": "economics_catalog_currency_tjs_0001",
+    "status": "approved",
+    "sha256": "b327c966b2b7bfcba7de505cc63b74e0e529964ed651286f26875cda11965b8a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code TJS? Answer: Tajikistani Somoni. Its numeric code is 972. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "6437c55ac2f3c40d2a0f730f3d749b81631a63f40d0cb28ca4f865271ef64fb6",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_kgs_0001",
+    "status": "approved",
+    "sha256": "fc5baf11eabed488bff309034662e6747801ad7e6d9ee9b3ae994921f693ce7e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code KGS? Answer: Kyrgyzstani Som. Its numeric code is 417. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "b749a37def5fe5a4e8f7b0922c48d1ee2fa79a945810698b0816fd78aa685774",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_kzt_0001",
+    "status": "approved",
+    "sha256": "d242a818a5749f8dcbd1b91ecb316d16394b94536d33830e3523872f2daad5c6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code KZT? Answer: Kazakhstani Tenge. Its numeric code is 398. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "e479474236902bbbe92c6888cb502ff1e204d26dc69f2a89b99dc085432abbca",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_uzs_0001",
+    "status": "approved",
+    "sha256": "4a344c0bf6b81a64a658aacf435a11a0aa6a9fbe048ce06f88910430a82825d2",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code UZS? Answer: Uzbekistani Som. Its numeric code is 860. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "a7222c9d1b64369dc08556da4a38d59960bb3297cd3826447be226971f9112f6",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_tmt_0001",
+    "status": "approved",
+    "sha256": "9bd8ff1d1a779c4eedbcaf5778997da4c7693483cf82100a80a3c2268cc9dd5e",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code TMT? Answer: Turkmenistani Manat. Its numeric code is 934. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "ebf0f269903b6c80605618e44529febb136e5bc27d9c30f8ee815313191879dc",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_usd_0001",
+    "status": "approved",
+    "sha256": "89ab592b717dcaad1d5083b50c475d5c971db4bad3c4c7186501f06ef3cd5f14",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code USD? Answer: US Dollar. Its numeric code is 840. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "9705bdd98a9857311445671b1dfc79d543f0abc11951a1fcb2ec224fc68e56e0",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_gbp_0001",
+    "status": "approved",
+    "sha256": "484c6d7db9773ef6a0f7c91d8d598419bb42c06d9538ee891d4692378c127290",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code GBP? Answer: British Pound. Its numeric code is 826. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "a537fbf7df0cf3f5faf6fd42a0cce131b700814ddbc45f6d1ea93a86756283fe",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_chf_0001",
+    "status": "approved",
+    "sha256": "2aa0342cce675f46b381cc21744fa3e1ecd911f55c75080370bef3a7abe8bd88",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code CHF? Answer: Swiss Franc. Its numeric code is 756. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "024a282b48bb9458962f8ce6c7b90df66578f4a3325933fc0761a13ed995b27e",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_jpy_0001",
+    "status": "approved",
+    "sha256": "65b48cb199236439a0d92e9af49e382256306d589a9f21393cc27695d6552728",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code JPY? Answer: Japanese Yen. Its numeric code is 392. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "499e81b10b229bc66a02ca6a34d2ab855a71eacbca8abd47986958edec2b6106",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_cny_0001",
+    "status": "approved",
+    "sha256": "f1979a15eb724990e911d3aa3e271716b7a08463f3bfba1517a793174fedf678",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code CNY? Answer: Chinese Yuan. Its numeric code is 156. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "2ef91852515f8ada360c3c02d64fd7fc55ef8346b053d4aad57d139c9b3b0060",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_inr_0001",
+    "status": "approved",
+    "sha256": "8e8a87d86dc59b9d8d94a99da3f7dc3496ffef527e84f43071eef6932cf96f81",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code INR? Answer: Indian Rupee. Its numeric code is 356. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "5071d451cd6b1a3b3eca0492dcb15abc8a592b5a7d2b08a2ccebd0e6266df5ea",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_pkr_0001",
+    "status": "approved",
+    "sha256": "37c90a06f5605a44f01739771ea344484c242a0860aa30389f29787a0d0718cc",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code PKR? Answer: Pakistani Rupee. Its numeric code is 586. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "e2f880bae05b031a562cfa20cfadcb0f5a6acd5827d11a666508ff4b030bef73",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_bdt_0001",
+    "status": "approved",
+    "sha256": "bf977240cf086b8ecd2fc46fb7af21739680f2fd5aa0f19bad3606e07f357476",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code BDT? Answer: Bangladeshi Taka. Its numeric code is 050. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "1d7cc432e2ed208a8aff6ef544438f3759f4a75fba981ff458f79617507b0ee0",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_npr_0001",
+    "status": "approved",
+    "sha256": "c5c64e0af6aeb7f2084a8a01ea8a64317124ebf948f7a5052f56e77dc27ed7ff",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code NPR? Answer: Nepalese Rupee. Its numeric code is 524. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "ff974b61da6428a83399d82664ba8d0d1f8fe93b545c5d98b46c80022188e184",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_lkr_0001",
+    "status": "approved",
+    "sha256": "36cb37ac2a4671200d78ebb12f7c0663de138db4c3a460ea7b6c67b8dbab20e3",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code LKR? Answer: Sri Lankan Rupee. Its numeric code is 144. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "32f31d6d4ce26338145cf5bb407093c8bdaf171ab09107958ab4faca997d191f",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_mnt_0001",
+    "status": "approved",
+    "sha256": "84b3be9e380a631ae7a9ba3221545a416bd121e71084e31e5a298fd8d1c7f8e8",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code MNT? Answer: Mongolian Tugrik. Its numeric code is 496. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "d75d7b948d994890c0227de194d46b81d3404e966b60498cf5cccbd20d272641",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_krw_0001",
+    "status": "approved",
+    "sha256": "3c6f59a68b3a961a1bd5434a41aa26eddffd965b2d94887404051d5c8c691444",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code KRW? Answer: South Korean Won. Its numeric code is 410. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "e7f23269f610fd4c19014a50ea1aab674d940f3b600f3523e0919ed7b419a6bd",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_thb_0001",
+    "status": "approved",
+    "sha256": "042fff4d67eb2527f97d7d98726a66784dce56ee33d821a3b88dc11940dfdc57",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code THB? Answer: Thai Baht. Its numeric code is 764. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "e171e429fa970f9f2aeeff088efeb9d6bf8fb140bb4d6af35db2259032e71619",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_vnd_0001",
+    "status": "approved",
+    "sha256": "f3b05646df0ff6a2dea429c1641360970c73f66e2b614dfb36791ef610c83b6a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code VND? Answer: Vietnamese Dong. Its numeric code is 704. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "c37ca8d69623db11d6f7ea3ec46d44b521befe95f11b37fe5d1ea050ff2565e7",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_myr_0001",
+    "status": "approved",
+    "sha256": "a47ae4d22993d488a3d53eca95d83e79644cd99dfc24c0bcb1887d3cbe86bd04",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code MYR? Answer: Malaysian Ringgit. Its numeric code is 458. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "0a74df58d0d9b7ec07e7f0b06a4533fdaf09a5635bd3ec8094f10d0a621f2569",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_idr_0001",
+    "status": "approved",
+    "sha256": "50d55afdabe56d2d33f2276a4432573558ab5a4416ff0757a3689f3eefe11a42",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code IDR? Answer: Indonesian Rupiah. Its numeric code is 360. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "722bb3ed3b85b67645eb6ebcf174e0529839f284733a83755afac0888a955d46",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_php_0001",
+    "status": "approved",
+    "sha256": "5b35585b8a62d021d51fd9e64d970df5040dcff9a64fb613506339b63ac64a7a",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code PHP? Answer: Philippine Peso. Its numeric code is 608. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "f101f7d352c8793fdf071f929ce2ffde89609fd6a91e7c11d629a189a7f8bec8",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_sgd_0001",
+    "status": "approved",
+    "sha256": "ac6ed1af5d6a8977d94678aa5edb850994ef59466a84f6ab4d7b87c17ccb3132",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code SGD? Answer: Singapore Dollar. Its numeric code is 702. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "6b50c8a3374cf488aa23eb35ebc47cee94b808fc75fe273e1656778b493596dc",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_aud_0001",
+    "status": "approved",
+    "sha256": "db9775acc254c219bc1acfd25b06b939829f5bcf0ccbdc27633cce631a133e02",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code AUD? Answer: Australian Dollar. Its numeric code is 036. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "6a50b67f6fe88547c2bd62a0d88c7d769f80e4d9c0c7e32c6b48223d62e46f90",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_nzd_0001",
+    "status": "approved",
+    "sha256": "5060baf518a4a402f5fcd29bbeafedb2ce9d38d96563365fe2688fe7a290ff72",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code NZD? Answer: New Zealand Dollar. Its numeric code is 554. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "799fa6e7b0c082a9e32253123e3e98e27c2e252f3ca609ae444be9c2795c19bc",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_cad_0001",
+    "status": "approved",
+    "sha256": "a818cc17340e3200a49802b57faf53e51788dead5430e29988ba310b4deb5948",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code CAD? Answer: Canadian Dollar. Its numeric code is 124. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "d7825f9b716ba6265cabcfd0082c409eea0851305ef503ddb515e211d8102588",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_mxn_0001",
+    "status": "approved",
+    "sha256": "58ccbccf4a0aed8cd7ebd374ae6b1c2221ac2233c7524eda398c8b56e7ae1ce1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code MXN? Answer: Mexican Peso. Its numeric code is 484. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "ecbfb5ec1d0f1b856c5ccb063a6b0876c944c8b1c9bf7a3b9d764291096d5563",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_brl_0001",
+    "status": "approved",
+    "sha256": "8427c4345ffff052b7182b9312abcf5ffbd62314d5b285e206ccf6252b23c991",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code BRL? Answer: Brazilian Real. Its numeric code is 986. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "e7f9de9169b5241d9662bcfd1f9136c089b1f48e4c781454d60e938e36302a74",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_ars_0001",
+    "status": "approved",
+    "sha256": "8bac48bc3997bf7fa54bada9c7ac8ec142430ae601dffba842748a021cb86ba4",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code ARS? Answer: Argentine Peso. Its numeric code is 032. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "eaf63b96e5ae5ddccd906238dfdaee86a7e6a6a40ce0e0b2d4c50c7d4c6d81df",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_clp_0001",
+    "status": "approved",
+    "sha256": "9674400da19b2969b6814a00419ed31830581ddd9eace2067724343815f1ccb0",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code CLP? Answer: Chilean Peso. Its numeric code is 152. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "b4f0124c77fa2c8967305eb054f7d5eb9095aa3c7d39882cd61a9d86ddf29c2f",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_pen_0001",
+    "status": "approved",
+    "sha256": "7fd6b581a35cbcb7419ca16847f82c135bbcc4c4b485a6c1cd944eb665e09fcb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code PEN? Answer: Peruvian Sol. Its numeric code is 604. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "263e0a8102e4c28e4091e9391369dae997f0d65acba64844c0f200c2c4668190",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_zar_0001",
+    "status": "approved",
+    "sha256": "fce262282fbaad20dd3a25434c69e0d9196b94d12b35712b4152c4820f10299c",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code ZAR? Answer: South African Rand. Its numeric code is 710. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "ef3e969f44564e4244267a941b0d6738f581a893a4470df61e828909071f6268",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_egp_0001",
+    "status": "approved",
+    "sha256": "6b06ca5decd063ac70a21014a4a540b15c4a9adf4142ed949d4e1530fbad6e37",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code EGP? Answer: Egyptian Pound. Its numeric code is 818. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "250f829187d01935a06f73e5cb08bad15d465e96b2892b9169d59145dfac4f9d",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_mad_0001",
+    "status": "approved",
+    "sha256": "9429edb58714b392d575a8f5d20786494cc2da9112c6ab232de8c9a52cb6c262",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code MAD? Answer: Moroccan Dirham. Its numeric code is 504. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "c8e8693ff9474f113fe7e12794644e862da05078f5e45d4b9a04cdcb776d518d",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_try_0001",
+    "status": "approved",
+    "sha256": "2465fa1fa9e34a009f6e6c0033b62bf31d869afe99df5616b0454ba2e1f6ac8f",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code TRY? Answer: Turkish Lira. Its numeric code is 949. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "5444d31a36e2c7110cdead2139e3a6aef1c01ec31cc8f2110aefc2b6c2bad188",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_sar_0001",
+    "status": "approved",
+    "sha256": "e7c42d7d4d095a89c8bdde18de9cbca297309448f55b23d08fefc623bd1c35b1",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code SAR? Answer: Saudi Riyal. Its numeric code is 682. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "85bfcfd8d4c6e348fd3575d8f42cd24f2ede49c9709b151a816b4d514880e7c8",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_aed_0001",
+    "status": "approved",
+    "sha256": "f72b7103ae4fd1b97913020f14232eb832dabdb6f1eb0811dd3707799cf12648",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code AED? Answer: United Arab Emirates Dirham. Its numeric code is 784. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "9d8eb93246e36a98faaa217b74b82a3d1d3152c4a6134fde8cf1fd54f42be8b9",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_qar_0001",
+    "status": "approved",
+    "sha256": "6f8d84e7f0bef4669bd8979f82d93a0d3aef59490696aff9df9ba4e87195cb75",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code QAR? Answer: Qatari Riyal. Its numeric code is 634. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "3074a6308a66572782c5520b3c43e1ac7fc3ef3df0c6971d94a7fe41192b9567",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_nok_0001",
+    "status": "approved",
+    "sha256": "b6c3346416167b0a5c6bda11ce06e544ce1e229c00579064a89c2240794c49a6",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code NOK? Answer: Norwegian Krone. Its numeric code is 578. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "9f45d9ddc54d3b0dcf2be205c66b4370c675a60369e01504623c050acf083d2c",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_catalog_currency_sek_0001",
+    "status": "approved",
+    "sha256": "535113378fc3c7a9e13b7205c38794ae79453ef3649629b37ba48064f76be4cb",
+    "author": "Codex original bilingual catalog-fact authoring",
+    "factReviewer": "Codex separate structured primary-record and distractor pass",
+    "languageReviewer": "Codex separate selected-entity and bilingual-template wording pass",
+    "checkedAt": "2026-10-23",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html",
+        "location": "ISO 4217 List One XML: alphabetic code, currency name and numeric code; snapshot 23 October 2026",
+        "claim": "Which currency has the ISO 4217 code SEK? Answer: Swedish Krona. Its numeric code is 752. Alphabetic and numeric codes identify currencies unambiguously."
+      }
+    ],
+    "sourceRecordSha256": "0f4f7a1a425860add18696e1085e430178ce4254ef8bf42561ead5011f13dad6",
+    "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  }
+]
