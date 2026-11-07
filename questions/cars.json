@@ -356,15 +356,15 @@
     "categoryId": "cars",
     "difficulty": "medium",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
         "question": "Что обычно питает вспомогательная батарея электромобиля?",
-        "explanation": "Вспомогательная и тяговая батареи выполняют разные задачи."
+        "explanation": "Для вспомогательных устройств нужно более низкое напряжение, чем для тяговой системы."
       },
       "en": {
         "question": "What does an electric car's auxiliary battery normally supply?",
-        "explanation": "The auxiliary and traction batteries perform different tasks."
+        "explanation": "Accessories use a lower voltage than the traction system."
       }
     },
     "options": [
@@ -444,15 +444,15 @@
     "categoryId": "cars",
     "difficulty": "medium",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
         "question": "Какое устройство электромобиля преобразует переменный ток сети в постоянный для батареи?",
-        "explanation": "Бортовое устройство обрабатывает энергию при зарядке от источника переменного тока."
+        "explanation": "Устройство также следит за напряжением, током, температурой и зарядом батареи."
       },
       "en": {
         "question": "Which onboard device converts grid AC into DC for an electric car's battery?",
-        "explanation": "The onboard unit processes electricity during AC charging."
+        "explanation": "The unit also monitors battery voltage, current, temperature and state of charge."
       }
     },
     "options": [
@@ -796,15 +796,15 @@
     "categoryId": "cars",
     "difficulty": "hard",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
         "question": "Какие параметры батареи контролирует бортовое зарядное устройство?",
-        "explanation": "Контроль параметров важен для процесса зарядки."
+        "explanation": "Устройство также отслеживает уровень заряда батареи."
       },
       "en": {
         "question": "Which battery parameters does an onboard charger monitor?",
-        "explanation": "Monitoring these parameters matters to the charging process."
+        "explanation": "The unit also tracks the battery's state of charge."
       }
     },
     "options": [

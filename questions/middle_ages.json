@@ -664,14 +664,14 @@
     "categoryId": "middle_ages",
     "difficulty": "medium",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
-        "question": "Что, по описанию искусства Юань, стало важной целью живописи учёных?",
+        "question": "Какая цель особенно важна для живописи учёных эпохи Юань?",
         "explanation": "Художники использовали возможности кисти не только для внешнего сходства."
       },
       "en": {
-        "question": "According to the account of Yuan art, what became an important aim of scholar-painters?",
+        "question": "Which aim is especially important in Yuan scholar-painting?",
         "explanation": "Artists used brushwork for more than outward resemblance."
       }
     },
@@ -752,15 +752,15 @@
     "categoryId": "middle_ages",
     "difficulty": "hard",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
-        "question": "Для чего предназначалась монгольская пайцза, представленная в статье музея об искусстве Юань?",
-        "explanation": "Музей описывает этот предмет как пропуск с надписью."
+        "question": "Для чего предназначалась монгольская пайцза — пластина с надписью?",
+        "explanation": "Такие пластины использовали как удостоверение права на проезд."
       },
       "en": {
-        "question": "What was the Mongol paiza shown in the museum's Yuan article intended for?",
-        "explanation": "The museum describes this object as an inscribed safe-conduct pass."
+        "question": "What was a Mongol paiza, an inscribed tablet, intended for?",
+        "explanation": "Such tablets served as credentials for safe passage."
       }
     },
     "options": [
@@ -796,14 +796,14 @@
     "categoryId": "middle_ages",
     "difficulty": "hard",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
-        "question": "Какой пигмент указан для синей росписи фарфоровой тарелки эпохи Юань с рыбами?",
+        "question": "Какой пигмент использовали для синей подглазурной росписи фарфора эпохи Юань?",
         "explanation": "Роспись нанесена под прозрачной глазурью."
       },
       "en": {
-        "question": "Which pigment is listed for the blue decoration of the Yuan porcelain plate with fish?",
+        "question": "Which pigment was used for blue underglaze decoration on Yuan porcelain?",
         "explanation": "The decoration lies beneath a transparent glaze."
       }
     },
@@ -840,15 +840,15 @@
     "categoryId": "middle_ages",
     "difficulty": "hard",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
-        "question": "Что обозначает техника кэсы (kesi) в представленном памятнике искусства Юань?",
-        "explanation": "Музей приводит в качестве примера тканую мандалу."
+        "question": "К какому виду искусства относится китайская техника кэсы (kesi)?",
+        "explanation": "В этой технике создавали, в частности, тканые мандалы."
       },
       "en": {
-        "question": "What does kesi denote in the Yuan artwork presented?",
-        "explanation": "The museum presents a woven mandala as an example."
+        "question": "Which art form uses the Chinese technique called kesi?",
+        "explanation": "Woven mandalas were among the works made using this technique."
       }
     },
     "options": [

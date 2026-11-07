@@ -650,7 +650,7 @@
   "cars_nov08_auxbattery": {
     "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
     "location": "Battery all-electric auxiliary",
-    "claim": "What does an electric car's auxiliary battery normally supply? Answer: Electrical accessories. The auxiliary and traction batteries perform different tasks.",
+    "claim": "What does an electric car's auxiliary battery normally supply? Answer: Electrical accessories. Accessories use a lower voltage than the traction system.",
     "sourceKey": "evparts"
   },
   "cars_nov08_dcdc": {
@@ -662,7 +662,7 @@
   "cars_nov08_onboard": {
     "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
     "location": "Onboard charger",
-    "claim": "Which onboard device converts grid AC into DC for an electric car's battery? Answer: Onboard charger. The onboard unit processes electricity during AC charging.",
+    "claim": "Which onboard device converts grid AC into DC for an electric car's battery? Answer: Onboard charger. The unit also monitors battery voltage, current, temperature and state of charge.",
     "sourceKey": "evparts"
   },
   "cars_nov08_thermal": {
@@ -710,7 +710,7 @@
   "cars_nov08_charger_monitor": {
     "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
     "location": "Onboard charger",
-    "claim": "Which battery parameters does an onboard charger monitor? Answer: Voltage, current and temperature. Monitoring these parameters matters to the charging process.",
+    "claim": "Which battery parameters does an onboard charger monitor? Answer: Voltage, current and temperature. The unit also tracks the battery's state of charge.",
     "sourceKey": "evparts"
   },
   "cars_nov08_fuelparts": {
@@ -890,7 +890,7 @@
   "pop_culture_nov08_tatooine": {
     "url": "https://www.starwars.com/databank/tatooine",
     "location": "Databank description",
-    "claim": "Which landscape is characteristic of Tatooine? Answer: Desert. Tatooine is an arid planet in Star Wars.",
+    "claim": "Which landscape is characteristic of Tatooine? Answer: Desert. The planet orbits twin suns.",
     "sourceKey": "tatooine"
   },
   "pop_culture_nov08_lightsaber": {
@@ -1034,7 +1034,7 @@
   "middle_ages_nov08_literati": {
     "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
     "location": "Literati painting",
-    "claim": "According to the account of Yuan art, what became an important aim of scholar-painters? Answer: The artist's self-expression. Artists used brushwork for more than outward resemblance.",
+    "claim": "Which aim is especially important in Yuan scholar-painting? Answer: The artist's self-expression. Artists used brushwork for more than outward resemblance.",
     "sourceKey": "yuan"
   },
   "middle_ages_nov08_suger": {
@@ -1046,19 +1046,19 @@
   "middle_ages_nov08_paiza": {
     "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
     "location": "Safe Conduct Pass object caption",
-    "claim": "What was the Mongol paiza shown in the museum's Yuan article intended for? Answer: To certify safe conduct. The museum describes this object as an inscribed safe-conduct pass.",
+    "claim": "What was a Mongol paiza, an inscribed tablet, intended for? Answer: To certify safe conduct. Such tablets served as credentials for safe passage.",
     "sourceKey": "yuan"
   },
   "middle_ages_nov08_cobalt": {
     "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
     "location": "Plate with fish object caption",
-    "claim": "Which pigment is listed for the blue decoration of the Yuan porcelain plate with fish? Answer: Cobalt. The decoration lies beneath a transparent glaze.",
+    "claim": "Which pigment was used for blue underglaze decoration on Yuan porcelain? Answer: Cobalt. The decoration lies beneath a transparent glaze.",
     "sourceKey": "yuan"
   },
   "middle_ages_nov08_kesi": {
     "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
     "location": "Cosmological Mandala object caption",
-    "claim": "What does kesi denote in the Yuan artwork presented? Answer: Silk tapestry weaving. The museum presents a woven mandala as an example.",
+    "claim": "Which art form uses the Chinese technique called kesi? Answer: Silk tapestry weaving. Woven mandalas were among the works made using this technique.",
     "sourceKey": "yuan"
   },
   "inventions_nov08_marconi": {

@@ -488,15 +488,15 @@
     "categoryId": "pop_culture",
     "difficulty": "medium",
     "type": "single_choice",
-    "revision": 1,
+    "revision": 2,
     "localizations": {
       "ru": {
         "question": "Какой тип ландшафта характерен для Татуина?",
-        "explanation": "Татуин в мире «Звёздных войн» — засушливая планета."
+        "explanation": "Планета обращается вокруг двух солнц."
       },
       "en": {
         "question": "Which landscape is characteristic of Tatooine?",
-        "explanation": "Tatooine is an arid planet in Star Wars."
+        "explanation": "The planet orbits twin suns."
       }
     },
     "options": [

@@ -146,7 +146,7 @@
   {
     "id": "cars_nov08_auxbattery",
     "status": "approved",
-    "sha256": "a592de8b955147ae48b4b0af9ce8f271defbd9264b4d638396be7bc46d8a576c",
+    "sha256": "2b573dd80ac684a2ba24abfa4ea2320c9810e92ecd15063a86bafe6a89e11617",
     "author": "Codex: original bilingual question authoring",
     "factReviewer": "Codex: separate source-record and distractor review pass",
     "languageReviewer": "Codex: separate RU/EN wording comparison pass",
@@ -157,7 +157,7 @@
       {
         "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
         "location": "Battery all-electric auxiliary",
-        "claim": "What does an electric car's auxiliary battery normally supply? Answer: Electrical accessories. The auxiliary and traction batteries perform different tasks."
+        "claim": "What does an electric car's auxiliary battery normally supply? Answer: Electrical accessories. Accessories use a lower voltage than the traction system."
       }
     ]
   },
@@ -182,7 +182,7 @@
   {
     "id": "cars_nov08_onboard",
     "status": "approved",
-    "sha256": "08e2a07b94a542177312549d8bc6c8872ef2eaae56effbbd75a88cb2bf0dfa54",
+    "sha256": "645a664490b93410cbe0ffb2dc6ff9957bd2910c31cc631d399cb8a8f40682c6",
     "author": "Codex: original bilingual question authoring",
     "factReviewer": "Codex: separate source-record and distractor review pass",
     "languageReviewer": "Codex: separate RU/EN wording comparison pass",
@@ -193,7 +193,7 @@
       {
         "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
         "location": "Onboard charger",
-        "claim": "Which onboard device converts grid AC into DC for an electric car's battery? Answer: Onboard charger. The onboard unit processes electricity during AC charging."
+        "claim": "Which onboard device converts grid AC into DC for an electric car's battery? Answer: Onboard charger. The unit also monitors battery voltage, current, temperature and state of charge."
       }
     ]
   },
@@ -326,7 +326,7 @@
   {
     "id": "cars_nov08_charger_monitor",
     "status": "approved",
-    "sha256": "4068e353518486d49794b3dcdb73a1f8eaf736ba08ce6b84c24e31e8945f5598",
+    "sha256": "7f9004ee09a77409e405b6250bafe35400ae963cab0fa071adc6b96b08c6b5c7",
     "author": "Codex: original bilingual question authoring",
     "factReviewer": "Codex: separate source-record and distractor review pass",
     "languageReviewer": "Codex: separate RU/EN wording comparison pass",
@@ -337,7 +337,7 @@
       {
         "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
         "location": "Onboard charger",
-        "claim": "Which battery parameters does an onboard charger monitor? Answer: Voltage, current and temperature. Monitoring these parameters matters to the charging process."
+        "claim": "Which battery parameters does an onboard charger monitor? Answer: Voltage, current and temperature. The unit also tracks the battery's state of charge."
       }
     ]
   },
