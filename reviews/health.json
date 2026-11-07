@@ -1,0 +1,362 @@
+[
+  {
+    "id": "health_nov08_calorie",
+    "status": "approved",
+    "sha256": "fa00d79251d7ef3c6de416416719bb5ac4f03b4ffe3ebf3dfaf4272d89e1c722",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Calories",
+        "claim": "What does the calorie content of food express? Answer: Amount of energy. Calories on a food label describe the energy supplied by the stated quantity of food."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_soap",
+    "status": "approved",
+    "sha256": "668dfb6541cf9f0cea27906fe2232a1b2119e90d46f6f2cb563fb4a72b0df9ab",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/clean-hands/about/index.html",
+        "location": "How it works",
+        "claim": "What is used with running water for ordinary handwashing? Answer: Soap. Lathering helps remove contamination from different parts of the hands."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_hygiene",
+    "status": "approved",
+    "sha256": "5c5b3c9e99b8001710a1b13376d0b2da763423ce0e907feb60645f78bfec4739",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/clean-hands/about/index.html",
+        "location": "Why it's important",
+        "claim": "How does handwashing affect the spread of germs? Answer: Helps reduce transmission. Contaminated hands can carry germs to food and surfaces."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_sleepmemory",
+    "status": "approved",
+    "sha256": "3a6d9bd81d83a587c99c79db4ba4da1ec8578ffed7f02a95fa4dcde04147d293",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/why-sleep-important",
+        "location": "Learning and memory",
+        "claim": "Which process is supported by adequate sleep? Answer: Learning and memory. During sleep the brain supports functions needed for learning."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_antibody",
+    "status": "approved",
+    "sha256": "0d00dc2a415bd1a133a555354fe9c77feac3857aa4a8fa02f9fb4c499624065d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "location": "Antibodies",
+        "claim": "What are immune-system proteins that recognise particular antigens called? Answer: Antibodies. Antibodies form part of a specific immune response."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_sleeprem",
+    "status": "approved",
+    "sha256": "68284225b3db7929ae2ba7861e71ab6eb0e8e9a60d708acc37fe5d44a1c3a7b5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "location": "Two phases of sleep",
+        "claim": "What does REM refer to in a sleep-phase name? Answer: Rapid eye movements. Eye movements during this phase are recorded in sleep studies."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_added",
+    "status": "approved",
+    "sha256": "37b71697a3353410514254a1b763f0a27b11b8c9621f771309e028c76d0fe298",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Total Sugars versus Added Sugars",
+        "claim": "Which sugars on a food label are called added sugars? Answer: Those introduced during preparation or processing. Total sugars include both naturally occurring and added sugars."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_portion",
+    "status": "approved",
+    "sha256": "9c33b8e40eac69ccc2aae345dd9094875a46e608ab8a0deca10c2889663e2919",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Serving Information",
+        "claim": "What does serving size on a food label mean? Answer: The food quantity used for the listed values. Energy and nutrient values must be related to the stated serving size."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_fibre",
+    "status": "approved",
+    "sha256": "69652f1eceb66b816e88462828c429ac0216b8d54f94966d488b42260655e426",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Example label",
+        "claim": "Under which nutrient group does the FDA label list dietary fibre? Answer: Carbohydrates. Fibre is listed separately within total carbohydrate."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_sodium",
+    "status": "approved",
+    "sha256": "35b3759d248e719e678590325a85c63dca7b12034f69fa87ac59cd3d9c5951d7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Sample label: Sodium 850mg",
+        "claim": "In which units is sodium shown on the FDA sample label? Answer: Milligrams. The amount refers to one serving of the food."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_nonrem",
+    "status": "approved",
+    "sha256": "51ade5ce07320ea487a8c8f2b2f7a5fb2412d356c4a937c9612eeba8edb20d76",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "location": "Non-REM sleep",
+        "claim": "How many stages of non-REM sleep does NIH describe? Answer: Three. They are distinguished by measured brain activity."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_deep",
+    "status": "approved",
+    "sha256": "b17cc99e3f73e7aac5babafe48cc5347f1926eb1d4de6b27841a26e968ae80f7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "location": "Stage 3",
+        "claim": "Which non-REM stage is called deep sleep? Answer: Stage three. It is also called slow-wave sleep."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_cycles",
+    "status": "approved",
+    "sha256": "a6f717a1e60538f2e790ce79a791fe12019a88b915c1da04338f170e146c6a7b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "location": "Opening paragraph",
+        "claim": "How do REM and non-REM normally occur during a night? Answer: They form recurring cycles. A person normally passes through several sleep cycles in a night."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_antigen",
+    "status": "approved",
+    "sha256": "7489177ebe33784b28e8ec39030b32bff27e3136155ff657418ff6931c27d693",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "location": "Antigens and antibodies",
+        "claim": "What is a part of a pathogen recognised by the immune system called? Answer: Antigen. Different antigens can trigger different specific immune responses."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_vaccine",
+    "status": "approved",
+    "sha256": "ee2b04b7df785c5e6a883849eb80455275959f7f0352a5b5331f4740bb44efdb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "location": "How vaccines help",
+        "claim": "What does vaccination help establish? Answer: Immune memory. A familiar antigen can be recognised more quickly on a later encounter."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_remsignals",
+    "status": "approved",
+    "sha256": "e554ff90170cd341b1edbdec010fa33a45820045500fd9cdd98b507257216732",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "location": "Sleep studies",
+        "claim": "Which signal from the brain helps distinguish sleep stages? Answer: Electrical brain activity. Sleep stages are defined by physiological measurements rather than appearance."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_percentdv",
+    "status": "approved",
+    "sha256": "7a656b271b5d6e3526b27b47edf9a2156bedc043200f48104da008d548fd242b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "The Percent Daily Value",
+        "claim": "What does %DV on an FDA food label show? Answer: The fraction of a nutrient's established Daily Value. It is a reference for comparing foods, not a personalised medical calculation."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_totalsugar",
+    "status": "approved",
+    "sha256": "41eede8a6497dc409a8317fb072d940350c3b2c6c1f2399c1ffe6c9525e781bd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "location": "Total versus Added Sugars",
+        "claim": "Are added sugars included in Total Sugars on an FDA label? Answer: Yes, they are part of the total. Added sugars are a subset of total sugars."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_memorycells",
+    "status": "approved",
+    "sha256": "22cf1b6b27a496a690419aa0ace827c64565e00f0a7f43865a3f20a654a7e164",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "location": "Immunological memory",
+        "claim": "What can the immune system retain after encountering an antigen? Answer: Memory cells. These cells help respond to a later encounter with the pathogen."
+      }
+    ]
+  },
+  {
+    "id": "health_nov08_pathogen",
+    "status": "approved",
+    "sha256": "f40e9b4f4ca6923f3d7cbbcd23a6b880d15235dade2ce8137bdd4f90c421f8ab",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+        "location": "Body's natural response",
+        "claim": "What is an organism or agent capable of causing disease called? Answer: Pathogen. Pathogens include, for example, some bacteria and viruses."
+      }
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "world_religions_nov08_synagogue",
+    "status": "approved",
+    "sha256": "d127e6ca14e570d9b82085631316ef05d91874f71b975bc6ce2b76a07f057d81",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/the-synagogue",
+        "location": "Main text: prayer, study and community",
+        "claim": "What is a Jewish house of worship called? Answer: Synagogue. A synagogue also serves as a place for learning and community gatherings."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_rabbi",
+    "status": "approved",
+    "sha256": "6f7ed5f8c308c8d01d781df4a7c3bf31afe0b46f3881011c0a2309f70799b1e2",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-judaism",
+        "location": "Rabbinic tradition",
+        "claim": "What is a teacher and scholar of religious law in Judaism called? Answer: Rabbi. The rabbinic tradition is associated with studying and interpreting the Torah."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_torah",
+    "status": "approved",
+    "sha256": "7949f853e22dec2a9d378ae4260d0b94bb44597a912c12519d22599e6d0f6044",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-judaism",
+        "location": "Torah",
+        "claim": "Which text has a central place in Judaism? Answer: Torah. In its narrower sense, Torah denotes the Five Books of Moses."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_nanak",
+    "status": "approved",
+    "sha256": "4ed4ec19ac638900322747ca765c6358f71534905e1372c309cc569d77498208",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/sikhism",
+        "location": "Timeline: 1469 Guru Nanak",
+        "claim": "Who is regarded as the first Guru of the Sikh tradition? Answer: Guru Nanak. The Sikh tradition arose in the Punjab."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_vedas",
+    "status": "approved",
+    "sha256": "6caab8c679178c6a4a5a8c954b10eff2a6bef8a0b58d5a7518e52d77e7035259",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-hinduism",
+        "location": "Vedas",
+        "claim": "With which religious tradition are the Vedas associated? Answer: Hinduism. The Vedas belong to the oldest layer of Hindu sacred texts."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_sabbath",
+    "status": "approved",
+    "sha256": "e65bdacdf7df5edd7ec73c199699ba472bec37de3218eaaf5f29c7fb5275a253",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/keeping-shabbat",
+        "location": "Main text: weekly rest",
+        "claim": "What is the weekly day of rest in Judaism called? Answer: Shabbat. Its observance connects sacred time with community life."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_ahimsa",
+    "status": "approved",
+    "sha256": "5aa0a8049bd147bc5fb4c146b2359c2f6531d9cf59de21b6997aba093343f099",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-jainism",
+        "location": "Nonviolence",
+        "claim": "Which term is especially important to Jain nonviolence? Answer: Ahimsa. Ahimsa means striving not to harm living beings."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_shinto_japan",
+    "status": "approved",
+    "sha256": "11936e1ba4abacd9f2f92df78a7f63134d4622c7758fd73323bbe90b15613340",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.meijijingu.or.jp/en/about/aboutshinto/",
+        "location": "About Shinto: Japanese roots",
+        "claim": "With which country is Shinto historically associated? Answer: Japan. The Shinto tradition is associated with reverence for kami and with shrines."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_gurdwara",
+    "status": "approved",
+    "sha256": "9d4ba4abeae7fb494fb2ebeb7badaa6085bd026dbee529f102c559998b2d0ebb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/the-gurdwara",
+        "location": "Main text: meeting place and scripture",
+        "claim": "What is a Sikh place of worship called? Answer: Gurdwara. The Guru Granth Sahib occupies the central place in a gurdwara."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_granth",
+    "status": "approved",
+    "sha256": "88f00f67c26f210e472a5525f8e3260fe537bc3c5d158bb6e0aed4edd16d37fa",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/the-guru-granth-sahib",
+        "location": "Main text: successor to Gobind Singh",
+        "claim": "Which Sikh scripture is revered as the eternal Guru? Answer: Guru Granth Sahib. After the line of human Gurus, spiritual authority is associated with this scripture."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_langar",
+    "status": "approved",
+    "sha256": "627dce1a4efbcc9b9c7e74d8facec2de4ffa8eddb80eeb34b53235995b22194b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/langar-the-communal-meal",
+        "location": "Main text: meal and equality",
+        "claim": "What does the Sikh practice of langar involve? Answer: A free communal meal. Langar emphasises people's equality regardless of background."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_puja",
+    "status": "approved",
+    "sha256": "67c11b11480448fe20d90d819bac309bd436797266ec522f30bc814bb9c0f320",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/puja",
+        "location": "Glossary: offerings in Hindu worship",
+        "claim": "What is an act of worship of a deity in Hindu practice called? Answer: Puja. Offerings in a puja may include water, fruit and incense."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_kami",
+    "status": "approved",
+    "sha256": "eb0764b37c930c59d18679b48f5a3e5b75343b2e39e8bd0349ebe1607ca7457a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.meijijingu.or.jp/en/about/aboutshinto/",
+        "location": "About Shinto: Kami",
+        "claim": "What are the revered sacred powers or presences in Shinto called? Answer: Kami. Kami may be associated with natural places and ancestors."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_zoroaster",
+    "status": "approved",
+    "sha256": "3298139b4fe116d2bb5993542a6611b2d8e8ea90ea4f54e4e9628f75f21b309a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/ancient-faith-in-the-modern-world",
+        "location": "Opening text: Zarathushtra and Zoroaster",
+        "claim": "Which teacher is associated with the Zoroastrian tradition? Answer: Zarathustra. Another familiar form of Zarathustra's name is Zoroaster."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_avesta",
+    "status": "approved",
+    "sha256": "d268fc4a1402bbceefbaecf40a227b7aed45e17b002845da22856bbf8b4df629",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/avesta",
+        "location": "Glossary: scripture collection and Gathas",
+        "claim": "What is the collection of Zoroastrian sacred texts called? Answer: Avesta. The oldest hymns in this tradition are known as the Gathas."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_monotheism",
+    "status": "approved",
+    "sha256": "44e47f9da10bca2832e33c2cd57dd71a1375a8452ca75fa01756ccc1efcd282f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-judaism",
+        "location": "One God and covenant",
+        "claim": "What is belief in one God called? Answer: Monotheism. Judaism, Christianity and Islam are commonly classified as monotheistic traditions."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_mahavira",
+    "status": "approved",
+    "sha256": "8587b1fc42cbcd31ccd7197d6341820c3461d25c4337305e6e74839d91ce4fbb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-jainism",
+        "location": "Mahavira",
+        "claim": "Which teacher is regarded as the twenty-fourth Tirthankara in Jainism? Answer: Mahavira. Tirthankaras are spiritual teachers in the Jain tradition."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_upanishads",
+    "status": "approved",
+    "sha256": "10c4f87cdef16c6f204b1398af18254ad4bba25753e70f31a084c94eca2642c1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-hinduism",
+        "location": "Upanishads",
+        "claim": "With which tradition are the philosophical texts called the Upanishads associated? Answer: Hinduism. The Upanishads discuss, among other things, the nature of self and ultimate reality."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_khalsa",
+    "status": "approved",
+    "sha256": "24bb4a06614b9c43e71c35b0bb25f62f3da0e3aeca43cc8d9adaad3c6619a160",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/sikhism",
+        "location": "Timeline: 1699 Khalsa",
+        "claim": "What is the initiated Sikh community established by Guru Gobind Singh in 1699 called? Answer: Khalsa. The establishment of the Khalsa was a major event in Sikh community history."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_nov08_covenant",
+    "status": "approved",
+    "sha256": "bc62070a4df20805d7bf9d0b48f24c092f4a4bc632c225313315218c3606cc31",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/introduction-to-judaism",
+        "location": "Covenant",
+        "claim": "Which concept describes the relationship between God and the people of Israel in Judaism? Answer: Covenant. The covenant connects religious tradition with obligations of the community."
+      }
+    ]
+  }
+]

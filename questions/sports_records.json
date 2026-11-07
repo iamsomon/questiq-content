@@ -1,0 +1,442 @@
+[
+  {
+    "id": "sports_records_nov08_comaneci",
+    "categoryId": "sports_records",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил первую олимпийскую оценку 10,0 в спортивной гимнастике в Монреале в 1976 году?",
+        "explanation": "Первую такую оценку она получила на разновысоких брусьях."
+      },
+      "en": {
+        "question": "Who earned the first Olympic perfect 10.0 in artistic gymnastics at Montreal 1976?",
+        "explanation": "Her first perfect score came on the uneven bars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Надя Комэнеч",
+        "en": "Nadia Comaneci"
+      },
+      {
+        "id": "o1",
+        "ru": "Ольга Корбут",
+        "en": "Olga Korbut"
+      },
+      {
+        "id": "o2",
+        "ru": "Лариса Латынина",
+        "en": "Larisa Latynina"
+      },
+      {
+        "id": "o3",
+        "ru": "Нелли Ким",
+        "en": "Nellie Kim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/montreal-celebrates-30th-anniversary-of-1976-olympic-games"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_bolt",
+    "categoryId": "sports_records",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое время показал Усэйн Болт в финале 100 метров на чемпионате мира 2009 года в Берлине?",
+        "explanation": "Тайсон Гэй стал вторым с результатом 9,71 секунды."
+      },
+      "en": {
+        "question": "What time did Usain Bolt run in the 100m final at the 2009 World Championships in Berlin?",
+        "explanation": "Tyson Gay finished second in 9.71 seconds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "9,58 с",
+        "en": "9.58 s"
+      },
+      {
+        "id": "o1",
+        "ru": "9,69 с",
+        "en": "9.69 s"
+      },
+      {
+        "id": "o2",
+        "ru": "9,72 с",
+        "en": "9.72 s"
+      },
+      {
+        "id": "o3",
+        "ru": "9,77 с",
+        "en": "9.77 s"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://worldathletics.org/competition/calendar-results/results/6998524?eventId=10229630"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_bikila",
+    "categoryId": "sports_records",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто выиграл марафон Олимпиады 1960 года в Риме босиком?",
+        "explanation": "В 1964 году в Токио он защитил олимпийский титул."
+      },
+      "en": {
+        "question": "Who won the Rome 1960 Olympic marathon barefoot?",
+        "explanation": "He defended his Olympic title in Tokyo in 1964."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Абебе Бикила",
+        "en": "Abebe Bikila"
+      },
+      {
+        "id": "o1",
+        "ru": "Эмиль Затопек",
+        "en": "Emil Zatopek"
+      },
+      {
+        "id": "o2",
+        "ru": "Ален Мимун",
+        "en": "Alain Mimoun"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрэнк Шортер",
+        "en": "Frank Shorter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/sporting-highlights-x2424"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_zatopek",
+    "categoryId": "sports_records",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто в Хельсинки в 1952 году выиграл 5000 метров, 10 000 метров и марафон?",
+        "explanation": "Марафон стал для этого бегуна дебютом на данной дистанции."
+      },
+      "en": {
+        "question": "Who won the 5000m, 10,000m and marathon at Helsinki 1952?",
+        "explanation": "The marathon was his debut at that distance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эмиль Затопек",
+        "en": "Emil Zatopek"
+      },
+      {
+        "id": "o1",
+        "ru": "Пааво Нурми",
+        "en": "Paavo Nurmi"
+      },
+      {
+        "id": "o2",
+        "ru": "Лассе Вирен",
+        "en": "Lasse Viren"
+      },
+      {
+        "id": "o3",
+        "ru": "Ханнес Колехмайнен",
+        "en": "Hannes Kolehmainen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/from-major-sports-events-to-rock-concerts-the-legacy-of-helsinki-1952-lives-on"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_powell",
+    "categoryId": "sports_records",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую длину показал прыжок Майка Пауэлла на чемпионате мира 1991 года в Токио?",
+        "explanation": "Он превзошёл результат Боба Бимона 1968 года — 8,90 метра."
+      },
+      "en": {
+        "question": "How far did Mike Powell jump at the 1991 World Championships in Tokyo?",
+        "explanation": "He surpassed Bob Beamon's 1968 mark of 8.90 metres."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8,95 м",
+        "en": "8.95 m"
+      },
+      {
+        "id": "o1",
+        "ru": "8,90 м",
+        "en": "8.90 m"
+      },
+      {
+        "id": "o2",
+        "ru": "8,84 м",
+        "en": "8.84 m"
+      },
+      {
+        "id": "o3",
+        "ru": "8,79 м",
+        "en": "8.79 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_edwards",
+    "categoryId": "sports_records",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде Джонатан Эдвардс показал 18,29 метра на чемпионате мира 1995 года?",
+        "explanation": "Эти соревнования проходили в шведском Гётеборге."
+      },
+      "en": {
+        "question": "In which event did Jonathan Edwards achieve 18.29 metres at the 1995 World Championships?",
+        "explanation": "The championships took place in Gothenburg, Sweden."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тройной прыжок",
+        "en": "Triple jump"
+      },
+      {
+        "id": "o1",
+        "ru": "Прыжок в длину",
+        "en": "Long jump"
+      },
+      {
+        "id": "o2",
+        "ru": "Толкание ядра",
+        "en": "Shot put"
+      },
+      {
+        "id": "o3",
+        "ru": "Метание молота",
+        "en": "Hammer throw"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_rudolph",
+    "categoryId": "sports_records",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто выиграл женские 100 метров, 200 метров и эстафету 4 × 100 на Играх в Риме в 1960 году?",
+        "explanation": "Она стала первой американкой с тремя золотыми медалями на одной Олимпиаде."
+      },
+      "en": {
+        "question": "Who won the women's 100m, 200m and 4 × 100m relay at Rome 1960?",
+        "explanation": "She became the first US woman to win three golds at one Olympics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вильма Рудольф",
+        "en": "Wilma Rudolph"
+      },
+      {
+        "id": "o1",
+        "ru": "Бетти Катберт",
+        "en": "Betty Cuthbert"
+      },
+      {
+        "id": "o2",
+        "ru": "Вайомия Тайес",
+        "en": "Wyomia Tyus"
+      },
+      {
+        "id": "o3",
+        "ru": "Фанни Бланкерс-Кун",
+        "en": "Fanny Blankers-Koen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/sporting-highlights-x2424"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_ali",
+    "categoryId": "sports_records",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Под каким именем будущий Мухаммед Али выиграл олимпийское золото в боксе в 1960 году?",
+        "explanation": "Он выступал в полутяжёлом весе."
+      },
+      "en": {
+        "question": "Under which name did the future Muhammad Ali win Olympic boxing gold in 1960?",
+        "explanation": "He competed in the light-heavyweight division."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кассиус Клей",
+        "en": "Cassius Clay"
+      },
+      {
+        "id": "o1",
+        "ru": "Джо Фрейзер",
+        "en": "Joe Frazier"
+      },
+      {
+        "id": "o2",
+        "ru": "Джордж Форман",
+        "en": "George Foreman"
+      },
+      {
+        "id": "o3",
+        "ru": "Флойд Паттерсон",
+        "en": "Floyd Patterson"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/sporting-highlights-x2424"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_sotomayor",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто в 1993 году установил результат 2,45 метра в прыжках в высоту?",
+        "explanation": "Сотомайор представлял Кубу."
+      },
+      "en": {
+        "question": "Who achieved a 2.45m high jump in 1993?",
+        "explanation": "Sotomayor represented Cuba."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хавьер Сотомайор",
+        "en": "Javier Sotomayor"
+      },
+      {
+        "id": "o1",
+        "ru": "Патрик Шёберг",
+        "en": "Patrik Sjoberg"
+      },
+      {
+        "id": "o2",
+        "ru": "Стефан Хольм",
+        "en": "Stefan Holm"
+      },
+      {
+        "id": "o3",
+        "ru": "Богдан Бондаренко",
+        "en": "Bohdan Bondarenko"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_nov08_jackson",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая австралийская бегунья выиграла 100 и 200 метров на Играх 1952 года?",
+        "explanation": "Игры в Хельсинки стали важным этапом её спортивной карьеры."
+      },
+      "en": {
+        "question": "Which Australian sprinter won the 100m and 200m at the 1952 Games?",
+        "explanation": "The Helsinki Games were a major milestone in her athletics career."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марджори Джексон",
+        "en": "Marjorie Jackson"
+      },
+      {
+        "id": "o1",
+        "ru": "Бетти Катберт",
+        "en": "Betty Cuthbert"
+      },
+      {
+        "id": "o2",
+        "ru": "Ширли Стрикленд",
+        "en": "Shirley Strickland"
+      },
+      {
+        "id": "o3",
+        "ru": "Джойс Кинг",
+        "en": "Joyce King"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/from-major-sports-events-to-rock-concerts-the-legacy-of-helsinki-1952-lives-on"
+    ],
+    "image": null
+  }
+]

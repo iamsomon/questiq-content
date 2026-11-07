@@ -1,0 +1,882 @@
+[
+  {
+    "id": "historical_figures_nov08_award_26",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1921 года за работу по теме «закон фотоэлектрического эффекта»?",
+        "explanation": "Год рождения лауреата — 1879; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1921 for the law of the photoelectric effect?",
+        "explanation": "The laureate was born in 1879; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Альберт Эйнштейн",
+        "en": "Albert Einstein"
+      },
+      {
+        "id": "o1",
+        "ru": "Вильгельм Рентген",
+        "en": "Wilhelm Conrad Röntgen"
+      },
+      {
+        "id": "o2",
+        "ru": "Александр Флеминг",
+        "en": "Sir Alexander Fleming"
+      },
+      {
+        "id": "o3",
+        "ru": "Эрнест Резерфорд",
+        "en": "Ernest Rutherford"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=26"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_1",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1901 года за работу по теме «открытие рентгеновских лучей»?",
+        "explanation": "Год рождения лауреата — 1845; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1901 for the discovery of X-rays?",
+        "explanation": "The laureate was born in 1845; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вильгельм Рентген",
+        "en": "Wilhelm Conrad Röntgen"
+      },
+      {
+        "id": "o1",
+        "ru": "Мария Кюри",
+        "en": "Marie Curie"
+      },
+      {
+        "id": "o2",
+        "ru": "Иван Павлов",
+        "en": "Ivan Pavlov"
+      },
+      {
+        "id": "o3",
+        "ru": "Джеймс Чедвик",
+        "en": "James Chadwick"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=1"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_6",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1911 года за работу по теме «открытие радия и полония»?",
+        "explanation": "Этот лауреат также получил премию в 1903 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1911 for the discovery of radium and polonium?",
+        "explanation": "The same laureate also received a prize in 1903."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мария Кюри",
+        "en": "Marie Curie"
+      },
+      {
+        "id": "o1",
+        "ru": "Нельсон Мандела",
+        "en": "Nelson Mandela"
+      },
+      {
+        "id": "o2",
+        "ru": "Макс Планк",
+        "en": "Max Planck"
+      },
+      {
+        "id": "o3",
+        "ru": "Роберт Кох",
+        "en": "Robert Koch"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=6"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_555",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1993 года за работу по теме «мирное прекращение апартеида»?",
+        "explanation": "Лауреат родился в 1918 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1993 for the peaceful ending of apartheid?",
+        "explanation": "The laureate was born in 1918."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нельсон Мандела",
+        "en": "Nelson Mandela"
+      },
+      {
+        "id": "o1",
+        "ru": "Мартин Лютер Кинг",
+        "en": "Martin Luther King Jr."
+      },
+      {
+        "id": "o2",
+        "ru": "Нильс Бор",
+        "en": "Niels Bohr"
+      },
+      {
+        "id": "o3",
+        "ru": "Михаил Горбачёв",
+        "en": "Mikhail Gorbachev"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=555"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_524",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1964 года за работу по теме «ненасильственная борьба за гражданские права»?",
+        "explanation": "Лауреат родился в 1929 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1964 for nonviolent work for civil rights?",
+        "explanation": "The laureate was born in 1929."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мартин Лютер Кинг",
+        "en": "Martin Luther King Jr."
+      },
+      {
+        "id": "o1",
+        "ru": "Малала Юсуфзай",
+        "en": "Malala Yousafzai"
+      },
+      {
+        "id": "o2",
+        "ru": "Анри Беккерель",
+        "en": "Henri Becquerel"
+      },
+      {
+        "id": "o3",
+        "ru": "Берта фон Зутнер",
+        "en": "Bertha von Suttner"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=524"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_914",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 2014 года за работу по теме «защита права детей на образование»?",
+        "explanation": "Лауреат родился в 1997 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 2014 for defending children's right to education?",
+        "explanation": "The laureate was born in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малала Юсуфзай",
+        "en": "Malala Yousafzai"
+      },
+      {
+        "id": "o1",
+        "ru": "Александр Флеминг",
+        "en": "Sir Alexander Fleming"
+      },
+      {
+        "id": "o2",
+        "ru": "Эрнест Резерфорд",
+        "en": "Ernest Rutherford"
+      },
+      {
+        "id": "o3",
+        "ru": "Дороти Ходжкин",
+        "en": "Dorothy Crowfoot Hodgkin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=914"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_339",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1945 года за работу по теме «открытие пенициллина»?",
+        "explanation": "Год рождения лауреата — 1881; награда относится к премии по физиологии или медицине."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1945 for the discovery of penicillin?",
+        "explanation": "The laureate was born in 1881; the award category was Physiology or Medicine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Александр Флеминг",
+        "en": "Sir Alexander Fleming"
+      },
+      {
+        "id": "o1",
+        "ru": "Иван Павлов",
+        "en": "Ivan Pavlov"
+      },
+      {
+        "id": "o2",
+        "ru": "Джеймс Чедвик",
+        "en": "James Chadwick"
+      },
+      {
+        "id": "o3",
+        "ru": "Амартия Сен",
+        "en": "Amartya Sen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=339"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_296",
+    "categoryId": "historical_figures",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1904 года за работу по теме «физиология пищеварения»?",
+        "explanation": "Год рождения лауреата — 1849; награда относится к премии по физиологии или медицине."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1904 for the physiology of digestion?",
+        "explanation": "The laureate was born in 1849; the award category was Physiology or Medicine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иван Павлов",
+        "en": "Ivan Pavlov"
+      },
+      {
+        "id": "o1",
+        "ru": "Макс Планк",
+        "en": "Max Planck"
+      },
+      {
+        "id": "o2",
+        "ru": "Роберт Кох",
+        "en": "Robert Koch"
+      },
+      {
+        "id": "o3",
+        "ru": "Лейма Гбови",
+        "en": "Leymah Gbowee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=296"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_23",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1918 года за работу по теме «открытие квантов энергии»?",
+        "explanation": "Год рождения лауреата — 1858; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1918 for the discovery of energy quanta?",
+        "explanation": "The laureate was born in 1858; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Макс Планк",
+        "en": "Max Planck"
+      },
+      {
+        "id": "o1",
+        "ru": "Нильс Бор",
+        "en": "Niels Bohr"
+      },
+      {
+        "id": "o2",
+        "ru": "Михаил Горбачёв",
+        "en": "Mikhail Gorbachev"
+      },
+      {
+        "id": "o3",
+        "ru": "Десмонд Туту",
+        "en": "Desmond Tutu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=23"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_27",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1922 года за работу по теме «строение атомов и их излучение»?",
+        "explanation": "Год рождения лауреата — 1885; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1922 for atomic structure and radiation?",
+        "explanation": "The laureate was born in 1885; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нильс Бор",
+        "en": "Niels Bohr"
+      },
+      {
+        "id": "o1",
+        "ru": "Анри Беккерель",
+        "en": "Henri Becquerel"
+      },
+      {
+        "id": "o2",
+        "ru": "Берта фон Зутнер",
+        "en": "Bertha von Suttner"
+      },
+      {
+        "id": "o3",
+        "ru": "Альберт Эйнштейн",
+        "en": "Albert Einstein"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=27"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_4",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1903 года за работу по теме «открытие спонтанной радиоактивности»?",
+        "explanation": "Год рождения лауреата — 1852; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1903 for the discovery of spontaneous radioactivity?",
+        "explanation": "The laureate was born in 1852; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Анри Беккерель",
+        "en": "Henri Becquerel"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Чедвик",
+        "en": "James Chadwick"
+      },
+      {
+        "id": "o2",
+        "ru": "Амартия Сен",
+        "en": "Amartya Sen"
+      },
+      {
+        "id": "o3",
+        "ru": "Нельсон Мандела",
+        "en": "Nelson Mandela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=4"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_167",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1908 года за работу по теме «распад элементов и химия радиоактивных веществ»?",
+        "explanation": "Год рождения лауреата — 1871; награда относится к премии по химии."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1908 for element disintegration and the chemistry of radioactive substances?",
+        "explanation": "The laureate was born in 1871; the award category was Chemistry."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эрнест Резерфорд",
+        "en": "Ernest Rutherford"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Чедвик",
+        "en": "James Chadwick"
+      },
+      {
+        "id": "o2",
+        "ru": "Амартия Сен",
+        "en": "Amartya Sen"
+      },
+      {
+        "id": "o3",
+        "ru": "Мария Кюри",
+        "en": "Marie Curie"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=167"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_41",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1935 года за работу по теме «открытие нейтрона»?",
+        "explanation": "Год рождения лауреата — 1891; награда относится к премии по физике."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1935 for the discovery of the neutron?",
+        "explanation": "The laureate was born in 1891; the award category was Physics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джеймс Чедвик",
+        "en": "James Chadwick"
+      },
+      {
+        "id": "o1",
+        "ru": "Роберт Кох",
+        "en": "Robert Koch"
+      },
+      {
+        "id": "o2",
+        "ru": "Лейма Гбови",
+        "en": "Leymah Gbowee"
+      },
+      {
+        "id": "o3",
+        "ru": "Нельсон Мандела",
+        "en": "Nelson Mandela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=41"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_297",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1905 года за работу по теме «исследования туберкулёза»?",
+        "explanation": "Год рождения лауреата — 1843; награда относится к премии по физиологии или медицине."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1905 for research on tuberculosis?",
+        "explanation": "The laureate was born in 1843; the award category was Physiology or Medicine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Кох",
+        "en": "Robert Koch"
+      },
+      {
+        "id": "o1",
+        "ru": "Михаил Горбачёв",
+        "en": "Mikhail Gorbachev"
+      },
+      {
+        "id": "o2",
+        "ru": "Десмонд Туту",
+        "en": "Desmond Tutu"
+      },
+      {
+        "id": "o3",
+        "ru": "Мартин Лютер Кинг",
+        "en": "Martin Luther King Jr."
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=297"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_552",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1990 года за работу по теме «изменения отношений между Востоком и Западом»?",
+        "explanation": "Лауреат родился в 1931 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1990 for changes in East-West relations?",
+        "explanation": "The laureate was born in 1931."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Михаил Горбачёв",
+        "en": "Mikhail Gorbachev"
+      },
+      {
+        "id": "o1",
+        "ru": "Берта фон Зутнер",
+        "en": "Bertha von Suttner"
+      },
+      {
+        "id": "o2",
+        "ru": "Альберт Эйнштейн",
+        "en": "Albert Einstein"
+      },
+      {
+        "id": "o3",
+        "ru": "Малала Юсуфзай",
+        "en": "Malala Yousafzai"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=552"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_468",
+    "categoryId": "historical_figures",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1905 года за работу по теме «противодействие войне»?",
+        "explanation": "Лауреат родился в 1843 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1905 for opposition to war?",
+        "explanation": "The laureate was born in 1843."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берта фон Зутнер",
+        "en": "Bertha von Suttner"
+      },
+      {
+        "id": "o1",
+        "ru": "Дороти Ходжкин",
+        "en": "Dorothy Crowfoot Hodgkin"
+      },
+      {
+        "id": "o2",
+        "ru": "Вильгельм Рентген",
+        "en": "Wilhelm Conrad Röntgen"
+      },
+      {
+        "id": "o3",
+        "ru": "Александр Флеминг",
+        "en": "Sir Alexander Fleming"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=468"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_230",
+    "categoryId": "historical_figures",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1964 года за работу по теме «рентгеноструктурное исследование биохимических веществ»?",
+        "explanation": "Год рождения лауреата — 1910; награда относится к премии по химии."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1964 for using X-rays to determine structures of biochemical substances?",
+        "explanation": "The laureate was born in 1910; the award category was Chemistry."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дороти Ходжкин",
+        "en": "Dorothy Crowfoot Hodgkin"
+      },
+      {
+        "id": "o1",
+        "ru": "Амартия Сен",
+        "en": "Amartya Sen"
+      },
+      {
+        "id": "o2",
+        "ru": "Мария Кюри",
+        "en": "Marie Curie"
+      },
+      {
+        "id": "o3",
+        "ru": "Иван Павлов",
+        "en": "Ivan Pavlov"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=230"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_719",
+    "categoryId": "historical_figures",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1998 года за работу по теме «экономика благосостояния»?",
+        "explanation": "Год рождения лауреата — 1933; награда относится к премии по экономическим наукам."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1998 for welfare economics?",
+        "explanation": "The laureate was born in 1933; the award category was Economic Sciences."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Амартия Сен",
+        "en": "Amartya Sen"
+      },
+      {
+        "id": "o1",
+        "ru": "Лейма Гбови",
+        "en": "Leymah Gbowee"
+      },
+      {
+        "id": "o2",
+        "ru": "Нельсон Мандела",
+        "en": "Nelson Mandela"
+      },
+      {
+        "id": "o3",
+        "ru": "Макс Планк",
+        "en": "Max Planck"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=719"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_870",
+    "categoryId": "historical_figures",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 2011 года за работу по теме «участие женщин в миротворчестве»?",
+        "explanation": "Лауреат родился в 1972 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 2011 for women's participation in peace-building?",
+        "explanation": "The laureate was born in 1972."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лейма Гбови",
+        "en": "Leymah Gbowee"
+      },
+      {
+        "id": "o1",
+        "ru": "Десмонд Туту",
+        "en": "Desmond Tutu"
+      },
+      {
+        "id": "o2",
+        "ru": "Мартин Лютер Кинг",
+        "en": "Martin Luther King Jr."
+      },
+      {
+        "id": "o3",
+        "ru": "Нильс Бор",
+        "en": "Niels Bohr"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=870"
+    ],
+    "image": null
+  },
+  {
+    "id": "historical_figures_nov08_award_546",
+    "categoryId": "historical_figures",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кого из перечисленных отметила Нобелевская премия 1984 года за работу по теме «ненасильственная борьба против апартеида»?",
+        "explanation": "Лауреат родился в 1931 году."
+      },
+      "en": {
+        "question": "Which of these laureates was recognised in 1984 for nonviolent opposition to apartheid?",
+        "explanation": "The laureate was born in 1931."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Десмонд Туту",
+        "en": "Desmond Tutu"
+      },
+      {
+        "id": "o1",
+        "ru": "Альберт Эйнштейн",
+        "en": "Albert Einstein"
+      },
+      {
+        "id": "o2",
+        "ru": "Малала Юсуфзай",
+        "en": "Malala Yousafzai"
+      },
+      {
+        "id": "o3",
+        "ru": "Анри Беккерель",
+        "en": "Henri Becquerel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=546"
+    ],
+    "image": null
+  }
+]

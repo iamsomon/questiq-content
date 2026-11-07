@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1000,
+  "approvedQuestions": 1320,
   "draftQuestions": 0,
-  "playableCategories": 32,
+  "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 9000,
+  "remainingQuestions": 8680,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -220,32 +220,40 @@
     },
     {
       "id": "middle_ages",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "modern_history",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -269,77 +277,97 @@
     },
     {
       "id": "historical_figures",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "islam",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "christianity",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "buddhism",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "world_religions",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -496,17 +524,21 @@
     },
     {
       "id": "inventions",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -606,32 +638,40 @@
     },
     {
       "id": "music",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "cinema",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -674,17 +714,21 @@
     },
     {
       "id": "olympics",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
@@ -708,62 +752,78 @@
     },
     {
       "id": "sports_records",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "food",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "health",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "cars",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
@@ -844,47 +904,59 @@
     },
     {
       "id": "television",
-      "approved": 0,
+      "approved": 10,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 2
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 190,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 76,
+        "medium": 76,
+        "hard": 38
       }
     },
     {
       "id": "celebrities",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     },
     {
       "id": "pop_culture",
-      "approved": 0,
+      "approved": 20,
       "draft": 0,
       "humanApproved": 0,
-      "difficulty": {},
-      "playable": false,
+      "difficulty": {
+        "easy": 8,
+        "medium": 8,
+        "hard": 4
+      },
+      "playable": true,
       "target": 200,
-      "remaining": 200,
+      "remaining": 180,
       "difficultyRemaining": {
-        "easy": 80,
-        "medium": 80,
-        "hard": 40
+        "easy": 72,
+        "medium": 72,
+        "hard": 36
       }
     }
   ]

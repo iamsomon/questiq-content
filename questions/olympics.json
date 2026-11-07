@@ -1,0 +1,442 @@
+[
+  {
+    "id": "olympics_nov08_athens",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где состоялись первые Олимпийские игры современности в 1896 году?",
+        "explanation": "Проект возрождения Игр Пьер де Кубертен представил в 1894 году."
+      },
+      "en": {
+        "question": "Where were the first modern Olympic Games held in 1896?",
+        "explanation": "Pierre de Coubertin launched his revival project in 1894."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o1",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o2",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o3",
+        "ru": "Лондон",
+        "en": "London"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/what-is-the-origin-of-the-olympic-games"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_rings",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько переплетённых колец в олимпийском символе?",
+        "explanation": "Символ выражает встречу спортсменов и единство пяти частей света."
+      },
+      "en": {
+        "question": "How many interlaced rings form the Olympic symbol?",
+        "explanation": "The symbol represents athletes meeting and the union of five parts of the world."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пять",
+        "en": "Five"
+      },
+      {
+        "id": "o1",
+        "ru": "Четыре",
+        "en": "Four"
+      },
+      {
+        "id": "o2",
+        "ru": "Шесть",
+        "en": "Six"
+      },
+      {
+        "id": "o3",
+        "ru": "Семь",
+        "en": "Seven"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/olympic-rings"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_women",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе женщины впервые участвовали в современных Олимпийских играх в 1900 году?",
+        "explanation": "Они участвовали в теннисе, парусном спорте, крокете, конном спорте и гольфе."
+      },
+      "en": {
+        "question": "In which city did women first compete in the modern Olympic Games in 1900?",
+        "explanation": "They competed in tennis, sailing, croquet, equestrian events and golf."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o3",
+        "ru": "Антверпен",
+        "en": "Antwerp"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/when-did-women-first-compete-in-the-olympic-games"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_winter",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принял первые зимние Олимпийские игры в 1924 году?",
+        "explanation": "Сначала соревнования называли Международной неделей зимних видов спорта."
+      },
+      "en": {
+        "question": "Which town hosted the first Olympic Winter Games in 1924?",
+        "explanation": "The event was initially called International Winter Sports Week."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шамони",
+        "en": "Chamonix"
+      },
+      {
+        "id": "o1",
+        "ru": "Санкт-Мориц",
+        "en": "St Moritz"
+      },
+      {
+        "id": "o2",
+        "ru": "Инсбрук",
+        "en": "Innsbruck"
+      },
+      {
+        "id": "o3",
+        "ru": "Гармиш-Партенкирхен",
+        "en": "Garmisch-Partenkirchen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/when-were-the-first-olympic-winter-games-held"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_flag",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какого цвета фон классического олимпийского флага?",
+        "explanation": "Флаг создали к Олимпийскому конгрессу 1914 года в Париже."
+      },
+      "en": {
+        "question": "What is the background colour of the classic Olympic flag?",
+        "explanation": "The flag was created for the 1914 Olympic Congress in Paris."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белый",
+        "en": "White"
+      },
+      {
+        "id": "o1",
+        "ru": "Синий",
+        "en": "Blue"
+      },
+      {
+        "id": "o2",
+        "ru": "Жёлтый",
+        "en": "Yellow"
+      },
+      {
+        "id": "o3",
+        "ru": "Зелёный",
+        "en": "Green"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/olympic-rings"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_ringdesigner",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто разработал олимпийский символ из пяти колец?",
+        "explanation": "Символ впервые публично представили в 1913 году."
+      },
+      "en": {
+        "question": "Who designed the five-ring Olympic symbol?",
+        "explanation": "The symbol was first publicly presented in 1913."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пьер де Кубертен",
+        "en": "Pierre de Coubertin"
+      },
+      {
+        "id": "o1",
+        "ru": "Анри Дидон",
+        "en": "Henri Didon"
+      },
+      {
+        "id": "o2",
+        "ru": "Анри де Байе-Латур",
+        "en": "Henri de Baillet-Latour"
+      },
+      {
+        "id": "o3",
+        "ru": "Деметриус Викелас",
+        "en": "Demetrius Vikelas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/olympic-rings"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_olympiad",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой период называли олимпиадой в Древней Греции?",
+        "explanation": "Этот интервал между Играми использовали для летосчисления."
+      },
+      "en": {
+        "question": "What period was called an Olympiad in Ancient Greece?",
+        "explanation": "This interval between the Games was used for dating events."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Четыре года",
+        "en": "Four years"
+      },
+      {
+        "id": "o1",
+        "ru": "Один год",
+        "en": "One year"
+      },
+      {
+        "id": "o2",
+        "ru": "Два года",
+        "en": "Two years"
+      },
+      {
+        "id": "o3",
+        "ru": "Десять лет",
+        "en": "Ten years"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/what-is-the-origin-of-the-olympic-games"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_lastsame",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году летние и зимние Олимпийские игры в последний раз планово прошли в одном году?",
+        "explanation": "Тогда летние Игры приняла Барселона, а зимние — Альбервиль."
+      },
+      "en": {
+        "question": "In which year were the Summer and Winter Olympics last regularly held in the same year?",
+        "explanation": "Barcelona hosted the Summer Games and Albertville the Winter Games that year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1992",
+        "en": "1992"
+      },
+      {
+        "id": "o1",
+        "ru": "1984",
+        "en": "1984"
+      },
+      {
+        "id": "o2",
+        "ru": "1988",
+        "en": "1988"
+      },
+      {
+        "id": "o3",
+        "ru": "1996",
+        "en": "1996"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/since-when-have-the-summer-and-winter-games-no-longer-been-held-in-the-same-year"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_antwerp",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каких Играх олимпийский флаг впервые появился на стадионе в 1920 году?",
+        "explanation": "Белое полотнище с кольцами создали ещё в 1914 году."
+      },
+      "en": {
+        "question": "At which Games did the Olympic flag first appear in the stadium in 1920?",
+        "explanation": "The white flag bearing the rings had been created in 1914."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антверпен",
+        "en": "Antwerp"
+      },
+      {
+        "id": "o1",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o2",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o3",
+        "ru": "Амстердам",
+        "en": "Amsterdam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/olympic-rings"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_nov08_founderioc",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую международную организацию Пьер де Кубертен основал в 1894 году?",
+        "explanation": "Он связывал развитие спорта с образованием и мирным сотрудничеством."
+      },
+      "en": {
+        "question": "Which international organisation did Pierre de Coubertin found in 1894?",
+        "explanation": "He connected sport with education and peaceful cooperation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Международный олимпийский комитет",
+        "en": "International Olympic Committee"
+      },
+      {
+        "id": "o1",
+        "ru": "Международную федерацию футбола",
+        "en": "International Federation of Association Football"
+      },
+      {
+        "id": "o2",
+        "ru": "Международный паралимпийский комитет",
+        "en": "International Paralympic Committee"
+      },
+      {
+        "id": "o3",
+        "ru": "Всемирное антидопинговое агентство",
+        "en": "World Anti-Doping Agency"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/who-was-pierre-de-coubertin"
+    ],
+    "image": null
+  }
+]

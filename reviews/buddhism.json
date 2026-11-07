@@ -1,0 +1,362 @@
+[
+  {
+    "id": "buddhism_nov08_siddhartha",
+    "status": "approved",
+    "sha256": "735770ff34fa67bc6cfd643e339ec69197804d417b48aee06d01216854afcc72",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Siddhartha's life",
+        "claim": "What name did the historical Buddha bear before enlightenment? Answer: Siddhartha. In Buddhist tradition, Siddhartha left palace life to pursue a spiritual quest."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_meaning",
+    "status": "approved",
+    "sha256": "88213f7b5614576992ab45f0d95743551d09d6d3793eab83e78038bc93652859",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Enlightened One",
+        "claim": "What does the title Buddha mean? Answer: Awakened One. The title refers to enlightenment rather than a royal office."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_bodhi",
+    "status": "approved",
+    "sha256": "b2af2165e3d9537eda3f1431102c8189b9ebc955ee5953c08f0d14f818567cbb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1056/",
+        "location": "Brief synthesis",
+        "claim": "Under which tree did the Buddha attain enlightenment in Buddhist tradition? Answer: Bodhi tree. The place of enlightenment is venerated at Bodh Gaya."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_stupa",
+    "status": "approved",
+    "sha256": "329c0e4703ea8dc2c8c1930893b781c4eb26e3c609bfa33448f895972445a186",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Relics and stupas",
+        "claim": "What is a Buddhist monument traditionally containing relics called? Answer: Stupa. Stupas became important centres of pilgrimage and monastic complexes."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_meditation",
+    "status": "approved",
+    "sha256": "9104802f6b67dd5dad1a0891f4fe4b45187aebef955f172ca34b3584922e407b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/recognizing-the-gods",
+        "location": "Dhyana mudra",
+        "claim": "Which practice is indicated by a Buddha with upward-facing palms resting one on top of the other in the lap? Answer: Meditation. This hand position is called the dhyana mudra."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_middle",
+    "status": "approved",
+    "sha256": "090dddc3a252af2e54d16b12fb24de10277a09979290d2446ba632c2760424d7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Middle Path",
+        "claim": "What is the Buddha's path rejecting both luxury and extreme self-mortification called? Answer: Middle Path. According to tradition, the Buddha abandoned severe asceticism as unproductive."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_borobudur",
+    "status": "approved",
+    "sha256": "959413697e73f61068851ed3214b9e314da9b6b079c01a7c5cd0ed6d3f753c40",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/592/",
+        "location": "Brief synthesis",
+        "claim": "In which modern country is the Buddhist temple complex Borobudur? Answer: Indonesia. The complex stands in central Java."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_lumbini",
+    "status": "approved",
+    "sha256": "26685e430f63072e86809871cc173ce8c3417f262715e0b6d71d63b289661c28",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/666/",
+        "location": "Brief synthesis",
+        "claim": "Which modern country contains Lumbini, the traditional birthplace of the Buddha? Answer: Nepal. Lumbini is a Buddhist pilgrimage site in southern Nepal."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_karma",
+    "status": "approved",
+    "sha256": "a79004d399265cc54016371707830d106f00e54daf66c597c3cf0f8d1f189608",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Karma and rebirth",
+        "claim": "What does Buddhist tradition associate karma with? Answer: Actions and their consequences. In teachings on rebirth, deeds influence a future life."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_nirvana",
+    "status": "approved",
+    "sha256": "63d5e43533e84795b657eaf10d075e3885df878af993a34b10ba26ddc609f219",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Nirvana",
+        "claim": "What is release from the cycle of rebirth called in Buddhism? Answer: Nirvana. Nirvana names a spiritual goal, rather than a temple or a gesture."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_jataka",
+    "status": "approved",
+    "sha256": "5e4caef27ef5441e763a1ef308a96acda82d93dcd1aa07344290e042a23bf4a6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Narrative reliefs and jatakas",
+        "claim": "What do Jataka tales recount? Answer: The Buddha's previous lives. These stories were used in Buddhist art and teaching."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_maitreya",
+    "status": "approved",
+    "sha256": "f13f046f2d4ec5d5702fab16a5a4a318a44230bb3f10d8a5a866d434ed21de27",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Maitreya",
+        "claim": "Which Buddha is associated with the future in Buddhist tradition? Answer: Maitreya. Maitreya is portrayed as a future Buddha and also as a bodhisattva."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_mudra",
+    "status": "approved",
+    "sha256": "ecf739742fd65922169407faf939c05fc3c8c077661ba5744e4032f24e6591e8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/recognizing-the-gods",
+        "location": "Hand gestures",
+        "claim": "What is a symbolic hand position in Buddhist art called? Answer: Mudra. Different mudras convey meditation, teaching or protection."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_silk",
+    "status": "approved",
+    "sha256": "67cff9898dc9a17c77284f31f14765dbcdcae1b4ad3d6e7caf23cdca10055229",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Gupta images and Silk Road",
+        "claim": "Along which historic trade route did Buddhism spread to China? Answer: Silk Road. Pilgrims and traders carried texts and artistic images through Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_sanchi",
+    "status": "approved",
+    "sha256": "63f4df937a02de6a4984575509f86266cbb7c22ca9c73265df9862ef6046aab5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/524/",
+        "location": "Brief synthesis",
+        "claim": "Which Indian site is known for its Great Buddhist Stupa? Answer: Sanchi. Sanchi preserves monuments spanning a long history of Buddhist art."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_bodhgaya",
+    "status": "approved",
+    "sha256": "53ae29d56841e37c68a4fdd1ad040069578daa27b96734a90fd110628754ea79",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1056/",
+        "location": "Brief synthesis",
+        "claim": "Which event is associated with Bodh Gaya in Buddhist tradition? Answer: The Buddha's enlightenment. The Mahabodhi Temple marks the place associated with this event."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_aniconic",
+    "status": "approved",
+    "sha256": "eb30ea8e9103c79fc252f6126ef8d585cdec252f63e1e5ac33eec2c02443bd1e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Early non-human representations",
+        "claim": "How could early Buddhist art indicate the Buddha without a human figure? Answer: Footprints. An empty seat and the space beneath a parasol were also used."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_circumambulation",
+    "status": "approved",
+    "sha256": "ccdadd38c0c555d33cf6b6a24e0740e23d0cb0e7d6f63de7a282250cb6768918",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Stupa railings",
+        "claim": "Which ritual action is performed around a stupa? Answer: Circumambulation. A path around a stupa allows ritual circumambulation."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_avalokiteshvara",
+    "status": "approved",
+    "sha256": "5305a6ad26bf306b061d015cf6be88434dc944086d7110edad98852091d943b1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "location": "Avalokiteshvara object caption",
+        "claim": "Which quality is associated with the bodhisattva Avalokiteshvara in Buddhist art? Answer: Compassion. The Met's collection identifies him as the Bodhisattva of Infinite Compassion."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_nov08_lotus",
+    "status": "approved",
+    "sha256": "8d89fe40033f5a78d742520afaad96f44dc6650a8d84324e848abc9fb4bc47a0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/recognizing-the-gods",
+        "location": "Padmasana",
+        "claim": "What is the common cross-legged meditation posture called? Answer: Lotus posture. In art-historical terminology this posture is called padmasana."
+      }
+    ]
+  }
+]

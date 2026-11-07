@@ -1,0 +1,882 @@
+[
+  {
+    "id": "celebrities_nov08_birth_937",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Боб Дилан?",
+        "explanation": "Он родился в Дулуте."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Bob Dylan born?",
+        "explanation": "He was born in Duluth, MN."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      },
+      {
+        "id": "o3",
+        "ru": "Алжир",
+        "en": "Algeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=937"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_583",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Рабиндранат Тагор?",
+        "explanation": "Он родился в Калькутте."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Rabindranath Tagore born?",
+        "explanation": "He was born in Calcutta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=583"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_659",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Габриэль Гарсиа Маркес?",
+        "explanation": "Он родился в Аракатаке."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Gabriel García Márquez born?",
+        "explanation": "He was born in Aracataca."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o1",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o2",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o3",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=659"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_625",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Эрнест Хемингуэй?",
+        "explanation": "Он родился в Оук-Парке."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Ernest Hemingway born?",
+        "explanation": "He was born in Oak Park, IL."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=625"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_624",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Уинстон Черчилль?",
+        "explanation": "Он родился в Вудстоке."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Winston Churchill born?",
+        "explanation": "He was born in Woodstock."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Люсия",
+        "en": "Saint Lucia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=624"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_628",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Альбер Камю?",
+        "explanation": "Он родился в Мондови."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Albert Camus born?",
+        "explanation": "He was born in Mondovi."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o1",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      },
+      {
+        "id": "o2",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o3",
+        "ru": "США",
+        "en": "USA"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=628"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_637",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Жан-Поль Сартр?",
+        "explanation": "Он родился в Париже."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Jean-Paul Sartre born?",
+        "explanation": "He was born in Paris."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o1",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=637"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_634",
+    "categoryId": "celebrities",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Джон Стейнбек?",
+        "explanation": "Он родился в Салинасе."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate John Steinbeck born?",
+        "explanation": "He was born in Salinas, CA."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o2",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o3",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=634"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_620",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Уильям Фолкнер?",
+        "explanation": "Он родился в Нью-Олбани."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate William Faulkner born?",
+        "explanation": "He was born in New Albany, MS."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Люсия",
+        "en": "Saint Lucia"
+      },
+      {
+        "id": "o3",
+        "ru": "Мексика",
+        "en": "Mexico"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=620"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_629",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Борис Пастернак?",
+        "explanation": "Он родился в Москве."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Boris Pasternak born?",
+        "explanation": "He was born in Moscow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o1",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o2",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o3",
+        "ru": "Мексика",
+        "en": "Mexico"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=629"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_643",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Сэмюэл Беккет?",
+        "explanation": "Он родился в Дублине."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Samuel Beckett born?",
+        "explanation": "He was born in Dublin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o2",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o3",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=643"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_619",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Томас Стернз Элиот?",
+        "explanation": "Он родился в Сент-Луисе."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate T.S. Eliot born?",
+        "explanation": "He was born in St. Louis, MO."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o2",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=619"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_644",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Александр Солженицын?",
+        "explanation": "Он родился в Кисловодске."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Aleksandr Solzhenitsyn born?",
+        "explanation": "He was born in Kislovodsk."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Люсия",
+        "en": "Saint Lucia"
+      },
+      {
+        "id": "o2",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=644"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_663",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Воле Шойинка?",
+        "explanation": "Он родился в Абеокуте."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Wole Soyinka born?",
+        "explanation": "He was born in Abeokuta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      },
+      {
+        "id": "o1",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o2",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o3",
+        "ru": "Алжир",
+        "en": "Algeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=663"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_667",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Октавио Пас?",
+        "explanation": "Он родился в Мехико."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Octavio Paz born?",
+        "explanation": "He was born in Mexico City."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=667"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_670",
+    "categoryId": "celebrities",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родилась Тони Моррисон?",
+        "explanation": "Она родилась в Лорейне."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Toni Morrison born?",
+        "explanation": "She was born in Lorain, OH."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "США",
+        "en": "USA"
+      },
+      {
+        "id": "o1",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o2",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o3",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=670"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_577",
+    "categoryId": "celebrities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Редьярд Киплинг?",
+        "explanation": "Он родился в Бомбее."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Rudyard Kipling born?",
+        "explanation": "He was born in Bombay (now Mumbai)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Россия",
+        "en": "Russia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=577"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_615",
+    "categoryId": "celebrities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родилась Габриэла Мистраль?",
+        "explanation": "Она родилась в Викунье."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Gabriela Mistral born?",
+        "explanation": "She was born in Vicuña."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Люсия",
+        "en": "Saint Lucia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=615"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_669",
+    "categoryId": "celebrities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родился Нобелевский лауреат Дерек Уолкотт?",
+        "explanation": "Он родился в Кастри."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Derek Walcott born?",
+        "explanation": "He was born in Castries."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сент-Люсия",
+        "en": "Saint Lucia"
+      },
+      {
+        "id": "o1",
+        "ru": "Нигерия",
+        "en": "Nigeria"
+      },
+      {
+        "id": "o2",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o3",
+        "ru": "США",
+        "en": "USA"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=669"
+    ],
+    "image": null
+  },
+  {
+    "id": "celebrities_nov08_birth_673",
+    "categoryId": "celebrities",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На территории какой современной страны родилась Вислава Шимборская?",
+        "explanation": "Она родилась в Бнине."
+      },
+      "en": {
+        "question": "In which present-day country was Nobel laureate Wisława Szymborska born?",
+        "explanation": "She was born in Bnin (now Kórnik)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o3",
+        "ru": "Индия",
+        "en": "India"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=673"
+    ],
+    "image": null
+  }
+]

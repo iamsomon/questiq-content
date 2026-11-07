@@ -1,0 +1,882 @@
+[
+  {
+    "id": "inventions_nov08_marconi",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1909 года — Гульельмо Маркони. С какой технологией связана награда?",
+        "explanation": "Радиосвязь позволяет передавать сообщения без проводной линии."
+      },
+      "en": {
+        "question": "Which technology is associated with Guglielmo Marconi’s 1909 Nobel Prize?",
+        "explanation": "Radio communication transmits messages without a wired connection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Радиотелеграфия",
+        "en": "Wireless telegraphy"
+      },
+      {
+        "id": "o1",
+        "ru": "Пузырьковая камера",
+        "en": "Bubble chamber"
+      },
+      {
+        "id": "o2",
+        "ru": "Сканирующий туннельный микроскоп",
+        "en": "Scanning tunnelling microscope"
+      },
+      {
+        "id": "o3",
+        "ru": "ПЗС-датчик изображения",
+        "en": "CCD image sensor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=13"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_dalen",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1912 года — Густав Дален. С какой технологией связана награда?",
+        "explanation": "Разработка связана с автоматизацией световых сигналов маяков и буёв."
+      },
+      "en": {
+        "question": "Which technology is associated with Gustaf Dalén’s 1912 Nobel Prize?",
+        "explanation": "The development automated light signals for lighthouses and buoys."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Автоматические газовые регуляторы маяков",
+        "en": "Automatic gas regulators for lighthouses"
+      },
+      {
+        "id": "o1",
+        "ru": "Мазерно-лазерные генераторы и усилители",
+        "en": "Maser-laser oscillators and amplifiers"
+      },
+      {
+        "id": "o2",
+        "ru": "Метод ионных ловушек",
+        "en": "Ion-trap technique"
+      },
+      {
+        "id": "o3",
+        "ru": "Эффективный синий светодиод",
+        "en": "Efficient blue light-emitting diode"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=17"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_wilson",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1927 года — Чарльз Вильсон. С какой технологией связана награда?",
+        "explanation": "В методе Вильсона следы заряженных частиц становятся видимыми благодаря конденсации пара."
+      },
+      "en": {
+        "question": "Which technology is associated with C.T.R. Wilson’s 1927 Nobel Prize?",
+        "explanation": "In Wilson's method, condensation of vapour makes charged-particle tracks visible."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Камера для наблюдения следов частиц",
+        "en": "A chamber for observing particle tracks"
+      },
+      {
+        "id": "o1",
+        "ru": "Голография",
+        "en": "Holography"
+      },
+      {
+        "id": "o2",
+        "ru": "Интегральная схема",
+        "en": "Integrated circuit"
+      },
+      {
+        "id": "o3",
+        "ru": "Оптический пинцет",
+        "en": "Optical tweezers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=34"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_lawrence",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1939 года — Эрнест Лоуренс. С какой технологией связана награда?",
+        "explanation": "Циклотрон — устройство для ускорения заряженных частиц."
+      },
+      "en": {
+        "question": "Which technology is associated with Ernest Lawrence’s 1939 Nobel Prize?",
+        "explanation": "A cyclotron is a device for accelerating charged particles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Циклотрон",
+        "en": "Cyclotron"
+      },
+      {
+        "id": "o1",
+        "ru": "Компьютерная томография",
+        "en": "Computer-assisted tomography"
+      },
+      {
+        "id": "o2",
+        "ru": "Магнитно-резонансная томография",
+        "en": "Magnetic resonance imaging"
+      },
+      {
+        "id": "o3",
+        "ru": "Метод получения сверхкоротких интенсивных световых импульсов",
+        "en": "A method for intense ultrashort optical pulses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=47"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_bardeen",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1956 года — Джон Бардин. С какой технологией связана награда?",
+        "explanation": "Эта работа связана с полупроводниковой электроникой."
+      },
+      "en": {
+        "question": "Which technology is associated with John Bardeen’s 1956 Nobel Prize?",
+        "explanation": "This work concerns semiconductor electronics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Транзистор",
+        "en": "Transistor"
+      },
+      {
+        "id": "o1",
+        "ru": "Электронный микроскоп",
+        "en": "Electron microscope"
+      },
+      {
+        "id": "o2",
+        "ru": "Оптоволоконная связь",
+        "en": "Fibre-optic communication"
+      },
+      {
+        "id": "o3",
+        "ru": "Литийионные аккумуляторы",
+        "en": "Lithium-ion batteries"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=66"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_glaser",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1960 года — Дональд Глейзер. С какой технологией связана награда?",
+        "explanation": "Пузырьковая камера позволяет исследовать следы частиц в жидкости."
+      },
+      "en": {
+        "question": "Which technology is associated with Donald A. Glaser’s 1960 Nobel Prize?",
+        "explanation": "A bubble chamber allows particle tracks in a liquid to be studied."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пузырьковая камера",
+        "en": "Bubble chamber"
+      },
+      {
+        "id": "o1",
+        "ru": "Сканирующий туннельный микроскоп",
+        "en": "Scanning tunnelling microscope"
+      },
+      {
+        "id": "o2",
+        "ru": "ПЗС-датчик изображения",
+        "en": "CCD image sensor"
+      },
+      {
+        "id": "o3",
+        "ru": "Радиотелеграфия",
+        "en": "Wireless telegraphy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=74"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_townes",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1964 года — Чарльз Таунс. С какой технологией связана награда?",
+        "explanation": "Премия была связана с фундаментальными работами по квантовой электронике."
+      },
+      "en": {
+        "question": "Which technology is associated with Charles H. Townes’s 1964 Nobel Prize?",
+        "explanation": "The prize recognised fundamental work in quantum electronics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мазерно-лазерные генераторы и усилители",
+        "en": "Maser-laser oscillators and amplifiers"
+      },
+      {
+        "id": "o1",
+        "ru": "Метод ионных ловушек",
+        "en": "Ion-trap technique"
+      },
+      {
+        "id": "o2",
+        "ru": "Эффективный синий светодиод",
+        "en": "Efficient blue light-emitting diode"
+      },
+      {
+        "id": "o3",
+        "ru": "Автоматические газовые регуляторы маяков",
+        "en": "Automatic gas regulators for lighthouses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=81"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_gabor",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1971 года — Деннис Габор. С какой технологией связана награда?",
+        "explanation": "Голографический метод связан с записью и восстановлением волнового фронта."
+      },
+      "en": {
+        "question": "Which technology is associated with Dennis Gabor’s 1971 Nobel Prize?",
+        "explanation": "The holographic method concerns recording and reconstructing a wavefront."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Голография",
+        "en": "Holography"
+      },
+      {
+        "id": "o1",
+        "ru": "Интегральная схема",
+        "en": "Integrated circuit"
+      },
+      {
+        "id": "o2",
+        "ru": "Оптический пинцет",
+        "en": "Optical tweezers"
+      },
+      {
+        "id": "o3",
+        "ru": "Камера для наблюдения следов частиц",
+        "en": "A chamber for observing particle tracks"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=93"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_hounsfield",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1979 года — Годфри Хаунсфилд. С какой технологией связана награда?",
+        "explanation": "Метод относится к получению изображений внутренних структур тела."
+      },
+      "en": {
+        "question": "Which technology is associated with Godfrey N. Hounsfield’s 1979 Nobel Prize?",
+        "explanation": "The method produces images of internal body structures."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Компьютерная томография",
+        "en": "Computer-assisted tomography"
+      },
+      {
+        "id": "o1",
+        "ru": "Магнитно-резонансная томография",
+        "en": "Magnetic resonance imaging"
+      },
+      {
+        "id": "o2",
+        "ru": "Метод получения сверхкоротких интенсивных световых импульсов",
+        "en": "A method for intense ultrashort optical pulses"
+      },
+      {
+        "id": "o3",
+        "ru": "Циклотрон",
+        "en": "Cyclotron"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=418"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_ruska",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1986 года — Эрнст Руска. С какой технологией связана награда?",
+        "explanation": "В электронной микроскопии изображение получают с помощью электронов."
+      },
+      "en": {
+        "question": "Which technology is associated with Ernst Ruska’s 1986 Nobel Prize?",
+        "explanation": "Electron microscopy uses electrons to form images."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Электронный микроскоп",
+        "en": "Electron microscope"
+      },
+      {
+        "id": "o1",
+        "ru": "Оптоволоконная связь",
+        "en": "Fibre-optic communication"
+      },
+      {
+        "id": "o2",
+        "ru": "Литийионные аккумуляторы",
+        "en": "Lithium-ion batteries"
+      },
+      {
+        "id": "o3",
+        "ru": "Транзистор",
+        "en": "Transistor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=127"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_binnig",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1986 года — Герд Бинниг. С какой технологией связана награда?",
+        "explanation": "Эта работа отлична от разработки первого электронного микроскопа, отмеченной в том же году."
+      },
+      "en": {
+        "question": "Which technology is associated with Gerd Binnig’s 1986 Nobel Prize?",
+        "explanation": "This work differs from the first electron microscope, also recognised that year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сканирующий туннельный микроскоп",
+        "en": "Scanning tunnelling microscope"
+      },
+      {
+        "id": "o1",
+        "ru": "ПЗС-датчик изображения",
+        "en": "CCD image sensor"
+      },
+      {
+        "id": "o2",
+        "ru": "Радиотелеграфия",
+        "en": "Wireless telegraphy"
+      },
+      {
+        "id": "o3",
+        "ru": "Пузырьковая камера",
+        "en": "Bubble chamber"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=128"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_paul",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 1989 года — Вольфганг Пауль. С какой технологией связана награда?",
+        "explanation": "Ловушки позволяют удерживать заряженные частицы для исследования."
+      },
+      "en": {
+        "question": "Which technology is associated with Wolfgang Paul’s 1989 Nobel Prize?",
+        "explanation": "Traps allow charged particles to be confined for study."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метод ионных ловушек",
+        "en": "Ion-trap technique"
+      },
+      {
+        "id": "o1",
+        "ru": "Эффективный синий светодиод",
+        "en": "Efficient blue light-emitting diode"
+      },
+      {
+        "id": "o2",
+        "ru": "Автоматические газовые регуляторы маяков",
+        "en": "Automatic gas regulators for lighthouses"
+      },
+      {
+        "id": "o3",
+        "ru": "Мазерно-лазерные генераторы и усилители",
+        "en": "Maser-laser oscillators and amplifiers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=137"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_kilby",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2000 года — Джек Килби. С какой технологией связана награда?",
+        "explanation": "Интегральная схема объединяет электронные компоненты в одном устройстве."
+      },
+      "en": {
+        "question": "Which technology is associated with Jack Kilby’s 2000 Nobel Prize?",
+        "explanation": "An integrated circuit combines electronic components in one device."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Интегральная схема",
+        "en": "Integrated circuit"
+      },
+      {
+        "id": "o1",
+        "ru": "Оптический пинцет",
+        "en": "Optical tweezers"
+      },
+      {
+        "id": "o2",
+        "ru": "Камера для наблюдения следов частиц",
+        "en": "A chamber for observing particle tracks"
+      },
+      {
+        "id": "o3",
+        "ru": "Голография",
+        "en": "Holography"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=728"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_lauterbur",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2003 года — Пол Лотербур. С какой технологией связана награда?",
+        "explanation": "Работа Лотербура была отмечена вместе с исследованиями Питера Мэнсфилда."
+      },
+      "en": {
+        "question": "Which technology is associated with Paul C. Lauterbur’s 2003 Nobel Prize?",
+        "explanation": "Lauterbur's work was recognised alongside Peter Mansfield's research."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Магнитно-резонансная томография",
+        "en": "Magnetic resonance imaging"
+      },
+      {
+        "id": "o1",
+        "ru": "Метод получения сверхкоротких интенсивных световых импульсов",
+        "en": "A method for intense ultrashort optical pulses"
+      },
+      {
+        "id": "o2",
+        "ru": "Циклотрон",
+        "en": "Cyclotron"
+      },
+      {
+        "id": "o3",
+        "ru": "Компьютерная томография",
+        "en": "Computer-assisted tomography"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=764"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_kao",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2009 года — Чарльз Као. С какой технологией связана награда?",
+        "explanation": "Работа связана с передачей света по волокнам для связи."
+      },
+      "en": {
+        "question": "Which technology is associated with Charles K. Kao’s 2009 Nobel Prize?",
+        "explanation": "The work concerns transmitting light through fibres for communication."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оптоволоконная связь",
+        "en": "Fibre-optic communication"
+      },
+      {
+        "id": "o1",
+        "ru": "Литийионные аккумуляторы",
+        "en": "Lithium-ion batteries"
+      },
+      {
+        "id": "o2",
+        "ru": "Транзистор",
+        "en": "Transistor"
+      },
+      {
+        "id": "o3",
+        "ru": "Электронный микроскоп",
+        "en": "Electron microscope"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=838"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_boyle",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2009 года — Уиллард Бойл. С какой технологией связана награда?",
+        "explanation": "ПЗС-датчик — полупроводниковое устройство для регистрации изображения."
+      },
+      "en": {
+        "question": "Which technology is associated with Willard S. Boyle’s 2009 Nobel Prize?",
+        "explanation": "A CCD sensor is a semiconductor device for recording images."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ПЗС-датчик изображения",
+        "en": "CCD image sensor"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиотелеграфия",
+        "en": "Wireless telegraphy"
+      },
+      {
+        "id": "o2",
+        "ru": "Пузырьковая камера",
+        "en": "Bubble chamber"
+      },
+      {
+        "id": "o3",
+        "ru": "Сканирующий туннельный микроскоп",
+        "en": "Scanning tunnelling microscope"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=839"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_akam",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2014 года — Исаму Акасаки. С какой технологией связана награда?",
+        "explanation": "Синие светодиоды сделали возможными яркие энергоэффективные белые источники света."
+      },
+      "en": {
+        "question": "Which technology is associated with Isamu Akasaki’s 2014 Nobel Prize?",
+        "explanation": "Blue LEDs enabled bright, energy-efficient white light sources."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эффективный синий светодиод",
+        "en": "Efficient blue light-emitting diode"
+      },
+      {
+        "id": "o1",
+        "ru": "Автоматические газовые регуляторы маяков",
+        "en": "Automatic gas regulators for lighthouses"
+      },
+      {
+        "id": "o2",
+        "ru": "Мазерно-лазерные генераторы и усилители",
+        "en": "Maser-laser oscillators and amplifiers"
+      },
+      {
+        "id": "o3",
+        "ru": "Метод ионных ловушек",
+        "en": "Ion-trap technique"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=906"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_ashkin",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2018 года — Артур Эшкин. С какой технологией связана награда?",
+        "explanation": "Эту технологию отмечали за её применение к биологическим системам."
+      },
+      "en": {
+        "question": "Which technology is associated with Arthur Ashkin’s 2018 Nobel Prize?",
+        "explanation": "This technology was recognised for its applications to biological systems."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оптический пинцет",
+        "en": "Optical tweezers"
+      },
+      {
+        "id": "o1",
+        "ru": "Камера для наблюдения следов частиц",
+        "en": "A chamber for observing particle tracks"
+      },
+      {
+        "id": "o2",
+        "ru": "Голография",
+        "en": "Holography"
+      },
+      {
+        "id": "o3",
+        "ru": "Интегральная схема",
+        "en": "Integrated circuit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=960"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_strickland",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2018 года — Донна Стрикленд. С какой технологией связана награда?",
+        "explanation": "Стрикленд разделила эту часть премии с Жераром Муру."
+      },
+      "en": {
+        "question": "Which technology is associated with Donna Strickland’s 2018 Nobel Prize?",
+        "explanation": "Strickland shared this part of the prize with Gérard Mourou."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метод получения сверхкоротких интенсивных световых импульсов",
+        "en": "A method for intense ultrashort optical pulses"
+      },
+      {
+        "id": "o1",
+        "ru": "Циклотрон",
+        "en": "Cyclotron"
+      },
+      {
+        "id": "o2",
+        "ru": "Компьютерная томография",
+        "en": "Computer-assisted tomography"
+      },
+      {
+        "id": "o3",
+        "ru": "Магнитно-резонансная томография",
+        "en": "Magnetic resonance imaging"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=962"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_nov08_yoshino",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Лауреат Нобелевской премии 2019 года — Акира Ёсино. С какой технологией связана награда?",
+        "explanation": "Ёсино разделил премию с Джоном Гуденафом и Стэнли Уиттингемом."
+      },
+      "en": {
+        "question": "Which technology is associated with Akira Yoshino’s 2019 Nobel Prize?",
+        "explanation": "Yoshino shared the prize with John Goodenough and Stanley Whittingham."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Литийионные аккумуляторы",
+        "en": "Lithium-ion batteries"
+      },
+      {
+        "id": "o1",
+        "ru": "Транзистор",
+        "en": "Transistor"
+      },
+      {
+        "id": "o2",
+        "ru": "Электронный микроскоп",
+        "en": "Electron microscope"
+      },
+      {
+        "id": "o3",
+        "ru": "Оптоволоконная связь",
+        "en": "Fibre-optic communication"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=978"
+    ],
+    "image": null
+  }
+]

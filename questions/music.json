@@ -1,0 +1,882 @@
+[
+  {
+    "id": "music_nov08_tempo",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный термин обозначает скорость исполнения?",
+        "explanation": "Темп может меняться независимо от громкости музыки."
+      },
+      "en": {
+        "question": "Which musical term describes the speed of a performance?",
+        "explanation": "Tempo can change independently of musical volume."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Темп",
+        "en": "Tempo"
+      },
+      {
+        "id": "o1",
+        "ru": "Тембр",
+        "en": "Timbre"
+      },
+      {
+        "id": "o2",
+        "ru": "Регистр",
+        "en": "Register"
+      },
+      {
+        "id": "o3",
+        "ru": "Гармония",
+        "en": "Harmony"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_forte",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает указание forte в музыке?",
+        "explanation": "Это указание динамики, а не скорости исполнения."
+      },
+      "en": {
+        "question": "What does forte indicate in music?",
+        "explanation": "It is a dynamic marking rather than a speed instruction."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Громко",
+        "en": "Loud"
+      },
+      {
+        "id": "o1",
+        "ru": "Тихо",
+        "en": "Soft"
+      },
+      {
+        "id": "o2",
+        "ru": "Связно",
+        "en": "Smoothly connected"
+      },
+      {
+        "id": "o3",
+        "ru": "Отрывисто",
+        "en": "Detached"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_piano",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает указание piano, если речь идёт о динамике?",
+        "explanation": "Музыкальное обозначение динамики следует отличать от названия инструмента."
+      },
+      "en": {
+        "question": "What does piano mean as a dynamic marking?",
+        "explanation": "The dynamic marking should be distinguished from the name of the instrument."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тихо",
+        "en": "Soft"
+      },
+      {
+        "id": "o1",
+        "ru": "Быстро",
+        "en": "Fast"
+      },
+      {
+        "id": "o2",
+        "ru": "Отрывисто",
+        "en": "Detached"
+      },
+      {
+        "id": "o3",
+        "ru": "Высоко",
+        "en": "High"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_conductor",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто обычно руководит исполнением симфонического оркестра?",
+        "explanation": "Оркестр объединяет несколько семейств инструментов."
+      },
+      "en": {
+        "question": "Who usually directs a symphony orchestra's performance?",
+        "explanation": "An orchestra brings together several instrument families."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дирижёр",
+        "en": "Conductor"
+      },
+      {
+        "id": "o1",
+        "ru": "Либреттист",
+        "en": "Librettist"
+      },
+      {
+        "id": "o2",
+        "ru": "Настройщик",
+        "en": "Tuner"
+      },
+      {
+        "id": "o3",
+        "ru": "Переплётчик нот",
+        "en": "Score binder"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_strings",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому семейству оркестровых инструментов относится скрипка?",
+        "explanation": "В стандартной струнной группе скрипка занимает самый высокий регистр."
+      },
+      "en": {
+        "question": "To which orchestral instrument family does the violin belong?",
+        "explanation": "The violin occupies the highest register of the standard string section."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Струнные",
+        "en": "Strings"
+      },
+      {
+        "id": "o1",
+        "ru": "Медные духовые",
+        "en": "Brass"
+      },
+      {
+        "id": "o2",
+        "ru": "Деревянные духовые",
+        "en": "Woodwind"
+      },
+      {
+        "id": "o3",
+        "ru": "Ударные",
+        "en": "Percussion"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/violin/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_oboe",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому семейству оркестра относится гобой?",
+        "explanation": "Его регистр немного ниже регистра флейты."
+      },
+      "en": {
+        "question": "To which orchestral family does the oboe belong?",
+        "explanation": "Its register is slightly lower than the flute's."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Деревянные духовые",
+        "en": "Woodwind"
+      },
+      {
+        "id": "o1",
+        "ru": "Медные духовые",
+        "en": "Brass"
+      },
+      {
+        "id": "o2",
+        "ru": "Струнные",
+        "en": "Strings"
+      },
+      {
+        "id": "o3",
+        "ru": "Ударные",
+        "en": "Percussion"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/oboe/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_rehearsal",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют совместное занятие музыкантов перед выступлением?",
+        "explanation": "На репетиции ансамбль готовит согласованное исполнение произведения."
+      },
+      "en": {
+        "question": "What is a musicians' joint practice session before a performance called?",
+        "explanation": "During rehearsal an ensemble prepares a coordinated performance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Репетиция",
+        "en": "Rehearsal"
+      },
+      {
+        "id": "o1",
+        "ru": "Рефрен",
+        "en": "Refrain"
+      },
+      {
+        "id": "o2",
+        "ru": "Каденция",
+        "en": "Cadenza"
+      },
+      {
+        "id": "o3",
+        "ru": "Увертюра",
+        "en": "Overture"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_score",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется запись музыкального произведения, показывающая партии исполнителей?",
+        "explanation": "Такая запись указывает, что и когда следует исполнять."
+      },
+      "en": {
+        "question": "What is the written musical document showing performers' parts called?",
+        "explanation": "The document indicates what should be played and when."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Партитура",
+        "en": "Score"
+      },
+      {
+        "id": "o1",
+        "ru": "Либретто",
+        "en": "Libretto"
+      },
+      {
+        "id": "o2",
+        "ru": "Афиша",
+        "en": "Poster"
+      },
+      {
+        "id": "o3",
+        "ru": "Рецензия",
+        "en": "Review"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_staccato",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое указание просит исполнять ноты отрывисто?",
+        "explanation": "Это характеристика артикуляции — способа соединять или разделять звуки."
+      },
+      "en": {
+        "question": "Which marking calls for detached notes?",
+        "explanation": "This concerns articulation, how sounds are connected or separated."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Staccato",
+        "en": "Staccato"
+      },
+      {
+        "id": "o1",
+        "ru": "Legato",
+        "en": "Legato"
+      },
+      {
+        "id": "o2",
+        "ru": "Piano",
+        "en": "Piano"
+      },
+      {
+        "id": "o3",
+        "ru": "Largo",
+        "en": "Largo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_legato",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое указание просит связно соединять звуки?",
+        "explanation": "Связность исполнения не определяет сама по себе его громкость."
+      },
+      "en": {
+        "question": "Which marking calls for smoothly connected notes?",
+        "explanation": "Connected playing does not by itself determine volume."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Legato",
+        "en": "Legato"
+      },
+      {
+        "id": "o1",
+        "ru": "Staccato",
+        "en": "Staccato"
+      },
+      {
+        "id": "o2",
+        "ru": "Forte",
+        "en": "Forte"
+      },
+      {
+        "id": "o3",
+        "ru": "Presto",
+        "en": "Presto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_presto",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих обозначений относится к быстрому темпу?",
+        "explanation": "Темп и артикуляция описывают разные стороны исполнения."
+      },
+      "en": {
+        "question": "Which of these markings denotes a fast tempo?",
+        "explanation": "Tempo and articulation describe different aspects of performance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Presto",
+        "en": "Presto"
+      },
+      {
+        "id": "o1",
+        "ru": "Largo",
+        "en": "Largo"
+      },
+      {
+        "id": "o2",
+        "ru": "Piano",
+        "en": "Piano"
+      },
+      {
+        "id": "o3",
+        "ru": "Legato",
+        "en": "Legato"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_largo",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих обозначений указывает на медленный темп?",
+        "explanation": "Громкость при медленном исполнении может быть разной."
+      },
+      "en": {
+        "question": "Which of these markings indicates a slow tempo?",
+        "explanation": "A slow performance can have different dynamic levels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Largo",
+        "en": "Largo"
+      },
+      {
+        "id": "o1",
+        "ru": "Presto",
+        "en": "Presto"
+      },
+      {
+        "id": "o2",
+        "ru": "Forte",
+        "en": "Forte"
+      },
+      {
+        "id": "o3",
+        "ru": "Staccato",
+        "en": "Staccato"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_unison",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют исполнение одной музыкальной линии несколькими музыкантами вместе?",
+        "explanation": "При таком исполнении голоса не разделяются на самостоятельные мелодические линии."
+      },
+      "en": {
+        "question": "What is it called when several musicians perform the same musical line together?",
+        "explanation": "In this kind of performance, the voices do not split into independent melodic lines."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Унисон",
+        "en": "Unison"
+      },
+      {
+        "id": "o1",
+        "ru": "Канон",
+        "en": "Canon"
+      },
+      {
+        "id": "o2",
+        "ru": "Контрапункт",
+        "en": "Counterpoint"
+      },
+      {
+        "id": "o3",
+        "ru": "Каденция",
+        "en": "Cadenza"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_ostinato",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется короткий многократно повторяющийся музыкальный рисунок?",
+        "explanation": "Повторяющийся рисунок может служить основой для других партий."
+      },
+      "en": {
+        "question": "What is a short musical pattern repeated many times called?",
+        "explanation": "A repeating pattern can form a foundation for other parts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Остинато",
+        "en": "Ostinato"
+      },
+      {
+        "id": "o1",
+        "ru": "Каденция",
+        "en": "Cadenza"
+      },
+      {
+        "id": "o2",
+        "ru": "Увертюра",
+        "en": "Overture"
+      },
+      {
+        "id": "o3",
+        "ru": "Фермата",
+        "en": "Fermata"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_refrain",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют повторяющийся раздел песни, часто именуемый припевом?",
+        "explanation": "Между повторениями припева могут располагаться куплеты."
+      },
+      "en": {
+        "question": "What is a repeating song section, often called the chorus, known as?",
+        "explanation": "Verses may appear between repetitions of the chorus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рефрен",
+        "en": "Refrain"
+      },
+      {
+        "id": "o1",
+        "ru": "Вступление",
+        "en": "Introduction"
+      },
+      {
+        "id": "o2",
+        "ru": "Кода",
+        "en": "Coda"
+      },
+      {
+        "id": "o3",
+        "ru": "Каденция",
+        "en": "Cadenza"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_improvisation",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют создание и исполнение музыки без заранее записанной партии?",
+        "explanation": "Так могут возникать музыкальные идеи прямо во время исполнения."
+      },
+      "en": {
+        "question": "What is creating and performing music without a previously written part called?",
+        "explanation": "Musical ideas can emerge during the performance itself."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Импровизация",
+        "en": "Improvisation"
+      },
+      {
+        "id": "o1",
+        "ru": "Транскрипция",
+        "en": "Transcription"
+      },
+      {
+        "id": "o2",
+        "ru": "Транспозиция",
+        "en": "Transposition"
+      },
+      {
+        "id": "o3",
+        "ru": "Оркестровка",
+        "en": "Orchestration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_pulse",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется ровная повторяющаяся основа музыкального движения?",
+        "explanation": "Ритмический рисунок может отличаться от ровного основного пульса."
+      },
+      "en": {
+        "question": "What is the steady repeating foundation of musical movement called?",
+        "explanation": "A rhythmic pattern can differ from the steady underlying pulse."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пульс",
+        "en": "Pulse"
+      },
+      {
+        "id": "o1",
+        "ru": "Тембр",
+        "en": "Timbre"
+      },
+      {
+        "id": "o2",
+        "ru": "Кода",
+        "en": "Coda"
+      },
+      {
+        "id": "o3",
+        "ru": "Транспозиция",
+        "en": "Transposition"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_sousaphone",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В честь какого композитора назван сузафон?",
+        "explanation": "Суза написал марш «Звёзды и полосы навсегда» в 1897 году."
+      },
+      "en": {
+        "question": "After which composer is the sousaphone named?",
+        "explanation": "Sousa wrote Stars and Stripes Forever in 1897."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джон Филип Суза",
+        "en": "John Philip Sousa"
+      },
+      {
+        "id": "o1",
+        "ru": "Джордж Гершвин",
+        "en": "George Gershwin"
+      },
+      {
+        "id": "o2",
+        "ru": "Аарон Копленд",
+        "en": "Aaron Copland"
+      },
+      {
+        "id": "o3",
+        "ru": "Чарльз Айвз",
+        "en": "Charles Ives"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_synchronization",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют согласованное совпадение начала или окончания музыкальных партий?",
+        "explanation": "Согласованность времени важна даже при исполнении разных партий."
+      },
+      "en": {
+        "question": "What is coordinated timing of the start or ending of musical parts called?",
+        "explanation": "Coordinated timing matters even when the parts differ."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Синхронизация",
+        "en": "Synchronization"
+      },
+      {
+        "id": "o1",
+        "ru": "Транспозиция",
+        "en": "Transposition"
+      },
+      {
+        "id": "o2",
+        "ru": "Импровизация",
+        "en": "Improvisation"
+      },
+      {
+        "id": "o3",
+        "ru": "Модуляция",
+        "en": "Modulation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_nov08_shostakovich",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "По произведению какого писателя Шостакович написал оперу «Нос»?",
+        "explanation": "Помимо опер, Шостакович написал пятнадцать симфоний."
+      },
+      "en": {
+        "question": "Whose story inspired Shostakovich's opera The Nose?",
+        "explanation": "As well as operas, Shostakovich wrote fifteen symphonies."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Николай Гоголь",
+        "en": "Nikolai Gogol"
+      },
+      {
+        "id": "o1",
+        "ru": "Антон Чехов",
+        "en": "Anton Chekhov"
+      },
+      {
+        "id": "o2",
+        "ru": "Иван Тургенев",
+        "en": "Ivan Turgenev"
+      },
+      {
+        "id": "o3",
+        "ru": "Михаил Булгаков",
+        "en": "Mikhail Bulgakov"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
+    ],
+    "image": null
+  }
+]

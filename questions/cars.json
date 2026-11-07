@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cars_nov08_traction",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что приводит колёса полностью электрического автомобиля в движение?",
+        "explanation": "Электромотор получает энергию от тяговой батареи."
+      },
+      "en": {
+        "question": "What drives the wheels of an all-electric car?",
+        "explanation": "The motor receives energy from the traction battery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тяговый электромотор",
+        "en": "Electric traction motor"
+      },
+      {
+        "id": "o1",
+        "ru": "Бортовое зарядное устройство",
+        "en": "Onboard charger"
+      },
+      {
+        "id": "o2",
+        "ru": "Преобразователь DC/DC",
+        "en": "DC/DC converter"
+      },
+      {
+        "id": "o3",
+        "ru": "Вспомогательная батарея",
+        "en": "Auxiliary battery"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_battery",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где электромобиль хранит основную энергию для движения?",
+        "explanation": "Тяговая батарея отличается по назначению от небольшой вспомогательной."
+      },
+      "en": {
+        "question": "Where does an electric car store its main driving energy?",
+        "explanation": "The traction battery has a different role from the smaller auxiliary battery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В тяговой батарее",
+        "en": "In the traction battery"
+      },
+      {
+        "id": "o1",
+        "ru": "В бортовом зарядном устройстве",
+        "en": "In the onboard charger"
+      },
+      {
+        "id": "o2",
+        "ru": "В преобразователе DC/DC",
+        "en": "In the DC/DC converter"
+      },
+      {
+        "id": "o3",
+        "ru": "В контроллере силовой электроники",
+        "en": "In the power electronics controller"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_hybrid",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие два типа двигателей объединяет обычный гибридный автомобиль?",
+        "explanation": "Гибрид сочетает топливо и электрическую тягу."
+      },
+      "en": {
+        "question": "Which two engine types does a conventional hybrid car combine?",
+        "explanation": "A hybrid combines fuel use with electric drive."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ДВС и электромотор",
+        "en": "Combustion engine and electric motor"
+      },
+      {
+        "id": "o1",
+        "ru": "Дизельный и бензиновый ДВС",
+        "en": "Diesel and petrol combustion engines"
+      },
+      {
+        "id": "o2",
+        "ru": "Газовую турбину и дизель",
+        "en": "Gas turbine and diesel engine"
+      },
+      {
+        "id": "o3",
+        "ru": "Два бензиновых ДВС",
+        "en": "Two petrol combustion engines"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-hybrid-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_chargeport",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для чего электромобилю нужен зарядный разъём?",
+        "explanation": "Через разъём энергия поступает в систему зарядки батареи."
+      },
+      "en": {
+        "question": "What is an electric car's charge port for?",
+        "explanation": "Energy enters the battery charging system through the port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подключение к внешнему электропитанию",
+        "en": "Connection to an external electricity supply"
+      },
+      {
+        "id": "o1",
+        "ru": "Долив моторного масла",
+        "en": "Adding engine oil"
+      },
+      {
+        "id": "o2",
+        "ru": "Выпуск выхлопных газов",
+        "en": "Releasing exhaust gases"
+      },
+      {
+        "id": "o3",
+        "ru": "Подача воздуха в шины",
+        "en": "Inflating tyres"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_phev",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что отличает подключаемый гибрид PHEV от обычного HEV?",
+        "explanation": "У PHEV есть также двигатель внутреннего сгорания."
+      },
+      "en": {
+        "question": "What distinguishes a PHEV from a conventional HEV?",
+        "explanation": "A PHEV also has an internal combustion engine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Возможность зарядки от внешней сети",
+        "en": "It can be charged from an external supply"
+      },
+      {
+        "id": "o1",
+        "ru": "Отсутствие ДВС",
+        "en": "It has no combustion engine"
+      },
+      {
+        "id": "o2",
+        "ru": "Отсутствие тяговой батареи",
+        "en": "It has no traction battery"
+      },
+      {
+        "id": "o3",
+        "ru": "Зарядка только при торможении",
+        "en": "It can charge only while braking"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_exhaust",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чего из перечисленного полностью электрический автомобиль не выделяет при движении?",
+        "explanation": "Отсутствие выхлопа не означает отсутствия воздействия производства энергии и автомобиля."
+      },
+      "en": {
+        "question": "Which of these does an all-electric car not emit while driving?",
+        "explanation": "No tailpipe exhaust does not mean energy and vehicle production have no environmental impact."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Выхлопные газы",
+        "en": "Tailpipe exhaust gases"
+      },
+      {
+        "id": "o1",
+        "ru": "Шум шин",
+        "en": "Tyre noise"
+      },
+      {
+        "id": "o2",
+        "ru": "Тепло от компонентов",
+        "en": "Heat from components"
+      },
+      {
+        "id": "o3",
+        "ru": "Звук электромотора",
+        "en": "Motor noise"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_regen",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что делает рекуперативное торможение?",
+        "explanation": "При замедлении мотор может работать как генератор."
+      },
+      "en": {
+        "question": "What does regenerative braking do?",
+        "explanation": "While slowing, the motor can act as a generator."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Возвращает часть энергии в батарею",
+        "en": "Returns some energy to the battery"
+      },
+      {
+        "id": "o1",
+        "ru": "Превращает всю энергию в нагрев дисков",
+        "en": "Converts all energy into brake-disc heat"
+      },
+      {
+        "id": "o2",
+        "ru": "Увеличивает обороты мотора без выработки тока",
+        "en": "Increases motor speed without generating electricity"
+      },
+      {
+        "id": "o3",
+        "ru": "Разряжает батарею для работы тормозных колодок",
+        "en": "Discharges the battery to operate brake pads"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_airbag",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую систему безопасности дополняет подушка безопасности?",
+        "explanation": "Подушки рассчитаны на совместную работу с ремнями."
+      },
+      "en": {
+        "question": "Which safety system does an air bag supplement?",
+        "explanation": "Air bags are designed to work together with seat belts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ремень безопасности",
+        "en": "Seat belt"
+      },
+      {
+        "id": "o1",
+        "ru": "Антиблокировочную систему",
+        "en": "Anti-lock braking"
+      },
+      {
+        "id": "o2",
+        "ru": "Контроль тяги",
+        "en": "Traction control"
+      },
+      {
+        "id": "o3",
+        "ru": "Контроль давления в шинах",
+        "en": "Tyre-pressure monitoring"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhtsa.gov/vehicle-safety/air-bags"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_auxbattery",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что обычно питает вспомогательная батарея электромобиля?",
+        "explanation": "Вспомогательная и тяговая батареи выполняют разные задачи."
+      },
+      "en": {
+        "question": "What does an electric car's auxiliary battery normally supply?",
+        "explanation": "The auxiliary and traction batteries perform different tasks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вспомогательные электрические устройства",
+        "en": "Electrical accessories"
+      },
+      {
+        "id": "o1",
+        "ru": "Основной ток тягового двигателя",
+        "en": "The main traction motor current"
+      },
+      {
+        "id": "o2",
+        "ru": "Постоянное питание внешней зарядной станции",
+        "en": "Continuous power to the external charging station"
+      },
+      {
+        "id": "o3",
+        "ru": "Высоковольтный вход быстрого зарядного устройства",
+        "en": "The high-voltage input of a rapid charger"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_dcdc",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что делает преобразователь DC/DC в электромобиле?",
+        "explanation": "Он также помогает заряжать низковольтную вспомогательную батарею."
+      },
+      "en": {
+        "question": "What does the DC/DC converter in an electric car do?",
+        "explanation": "It also helps recharge the low-voltage auxiliary battery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Понижает постоянное напряжение для вспомогательных систем",
+        "en": "Reduces DC voltage for auxiliary systems"
+      },
+      {
+        "id": "o1",
+        "ru": "Преобразует сетевой переменный ток для зарядки",
+        "en": "Converts grid AC for charging"
+      },
+      {
+        "id": "o2",
+        "ru": "Распределяет крутящий момент между колёсами",
+        "en": "Distributes torque between wheels"
+      },
+      {
+        "id": "o3",
+        "ru": "Поддерживает давление тормозной жидкости",
+        "en": "Maintains brake-fluid pressure"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_onboard",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство электромобиля преобразует переменный ток сети в постоянный для батареи?",
+        "explanation": "Бортовое устройство обрабатывает энергию при зарядке от источника переменного тока."
+      },
+      "en": {
+        "question": "Which onboard device converts grid AC into DC for an electric car's battery?",
+        "explanation": "The onboard unit processes electricity during AC charging."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бортовое зарядное устройство",
+        "en": "Onboard charger"
+      },
+      {
+        "id": "o1",
+        "ru": "Преобразователь DC/DC",
+        "en": "DC/DC converter"
+      },
+      {
+        "id": "o2",
+        "ru": "Дифференциал",
+        "en": "Differential"
+      },
+      {
+        "id": "o3",
+        "ru": "Контроллер тягового мотора",
+        "en": "Traction motor controller"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_thermal",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую задачу решает тепловая система электромобиля?",
+        "explanation": "Охлаждение требуется батарее, электромотору и силовой электронике."
+      },
+      "en": {
+        "question": "What does an electric car's thermal system do?",
+        "explanation": "The battery, motor and power electronics require cooling."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поддерживает подходящую температуру компонентов",
+        "en": "Maintains suitable component temperatures"
+      },
+      {
+        "id": "o1",
+        "ru": "Преобразует сетевой ток в постоянный",
+        "en": "Converts grid AC into DC"
+      },
+      {
+        "id": "o2",
+        "ru": "Распределяет крутящий момент",
+        "en": "Distributes torque"
+      },
+      {
+        "id": "o3",
+        "ru": "Понижает напряжение для аксессуаров",
+        "en": "Reduces voltage for accessories"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_controller",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую функцию выполняет контроллер силовой электроники электромобиля?",
+        "explanation": "Контроллер регулирует скорость и крутящий момент тягового мотора."
+      },
+      "en": {
+        "question": "What is a function of an electric car's power electronics controller?",
+        "explanation": "The controller regulates the traction motor's speed and torque."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Управление потоком энергии и работой мотора",
+        "en": "Managing energy flow and motor operation"
+      },
+      {
+        "id": "o1",
+        "ru": "Хранение основной энергии для движения",
+        "en": "Storing the main driving energy"
+      },
+      {
+        "id": "o2",
+        "ru": "Преобразование сетевого тока при зарядке",
+        "en": "Converting grid AC during charging"
+      },
+      {
+        "id": "o3",
+        "ru": "Передача механической энергии колёсам",
+        "en": "Transferring mechanical power to the wheels"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_transmission",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что передаёт механическую энергию электромотора колёсам?",
+        "explanation": "Устройство трансмиссии зависит от конкретной конструкции автомобиля."
+      },
+      "en": {
+        "question": "What transfers an electric motor's mechanical power to the wheels?",
+        "explanation": "Transmission design depends on the particular vehicle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трансмиссия",
+        "en": "Transmission"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиаторная решётка",
+        "en": "Grille"
+      },
+      {
+        "id": "o2",
+        "ru": "Воздушный фильтр салона",
+        "en": "Cabin air filter"
+      },
+      {
+        "id": "o3",
+        "ru": "Зарядный разъём",
+        "en": "Charge port"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_hevcharge",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как обычный гибрид HEV пополняет тяговую батарею без подключения к розетке?",
+        "explanation": "Батарея получает энергию при торможении и от двигателя."
+      },
+      "en": {
+        "question": "How does a conventional HEV recharge without plugging into a socket?",
+        "explanation": "The battery receives energy during braking and from the engine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Работой двигателя и рекуперацией",
+        "en": "Through the engine and regenerative braking"
+      },
+      {
+        "id": "o1",
+        "ru": "Только внешней зарядной станцией",
+        "en": "Only through an external charging station"
+      },
+      {
+        "id": "o2",
+        "ru": "Только заменой модулей батареи",
+        "en": "Only through replacement battery modules"
+      },
+      {
+        "id": "o3",
+        "ru": "Только встроенной солнечной панелью",
+        "en": "Only through an integrated solar panel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-hybrid-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_bev",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает BEV в автомобильной терминологии?",
+        "explanation": "BEV отличают от подключаемых и обычных гибридов."
+      },
+      "en": {
+        "question": "What does BEV stand for in vehicle terminology?",
+        "explanation": "BEVs are distinguished from plug-in and conventional hybrids."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Батарейный электромобиль",
+        "en": "Battery electric vehicle"
+      },
+      {
+        "id": "o1",
+        "ru": "Подключаемый гибрид",
+        "en": "Plug-in hybrid electric vehicle"
+      },
+      {
+        "id": "o2",
+        "ru": "Обычный гибрид",
+        "en": "Conventional hybrid electric vehicle"
+      },
+      {
+        "id": "o3",
+        "ru": "Электромобиль на топливных элементах",
+        "en": "Fuel-cell electric vehicle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_cooling",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое утверждение о полностью электрическом автомобиле верно?",
+        "explanation": "Тепловая система охлаждает электрические компоненты, даже когда нет ДВС."
+      },
+      "en": {
+        "question": "Which statement about an all-electric car is correct?",
+        "explanation": "The thermal system cools electrical components even when there is no combustion engine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "У него есть система охлаждения электрических компонентов",
+        "en": "It has a cooling system for electrical components"
+      },
+      {
+        "id": "o1",
+        "ru": "Ему обязательно нужен выхлопной коллектор",
+        "en": "It must have an exhaust manifold"
+      },
+      {
+        "id": "o2",
+        "ru": "Ему обязательно нужен бензиновый бак",
+        "en": "It must have a petrol tank"
+      },
+      {
+        "id": "o3",
+        "ru": "Его мотор не выделяет тепла",
+        "en": "Its motor produces no heat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_motor_generator",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство может выполнять и тяговую, и генераторную функцию в электромобиле?",
+        "explanation": "При рекуперации поток преобразования энергии меняет направление."
+      },
+      "en": {
+        "question": "Which device can provide both drive and generation functions in an electric car?",
+        "explanation": "During regeneration, the direction of energy conversion reverses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мотор-генератор",
+        "en": "Motor-generator"
+      },
+      {
+        "id": "o1",
+        "ru": "Преобразователь DC/DC",
+        "en": "DC/DC converter"
+      },
+      {
+        "id": "o2",
+        "ru": "Бортовое зарядное устройство",
+        "en": "Onboard charger"
+      },
+      {
+        "id": "o3",
+        "ru": "Вспомогательная батарея",
+        "en": "Auxiliary battery"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_charger_monitor",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие параметры батареи контролирует бортовое зарядное устройство?",
+        "explanation": "Контроль параметров важен для процесса зарядки."
+      },
+      "en": {
+        "question": "Which battery parameters does an onboard charger monitor?",
+        "explanation": "Monitoring these parameters matters to the charging process."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Напряжение, ток и температуру",
+        "en": "Voltage, current and temperature"
+      },
+      {
+        "id": "o1",
+        "ru": "Давление, вязкость и объём",
+        "en": "Pressure, viscosity and volume"
+      },
+      {
+        "id": "o2",
+        "ru": "Ускорение, скорость и путь",
+        "en": "Acceleration, speed and distance"
+      },
+      {
+        "id": "o3",
+        "ru": "Мощность звука, яркость и частоту",
+        "en": "Sound power, brightness and frequency"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_nov08_fuelparts",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой узел жидкотопливной системы не требуется типичному BEV?",
+        "explanation": "У полностью электрической машины нет обычной бензиновой топливной системы."
+      },
+      "en": {
+        "question": "Which liquid-fuel component is unnecessary in a typical BEV?",
+        "explanation": "An all-electric car has no conventional petrol fuel system."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Топливный насос",
+        "en": "Fuel pump"
+      },
+      {
+        "id": "o1",
+        "ru": "Насос охлаждения",
+        "en": "Coolant pump"
+      },
+      {
+        "id": "o2",
+        "ru": "Тормозной насос",
+        "en": "Brake pump"
+      },
+      {
+        "id": "o3",
+        "ru": "Насос омывателя",
+        "en": "Washer pump"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
+    ],
+    "image": null
+  }
+]

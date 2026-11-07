@@ -1,0 +1,362 @@
+[
+  {
+    "id": "middle_ages_nov08_charlemagne",
+    "status": "approved",
+    "sha256": "953681e7ee7819c6bf5864cee3190e445e8ec81967dbd24c13008845a4b20e71",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/carolingian-art",
+        "location": "Kingship and coronation",
+        "claim": "Of which people did Charlemagne become king in 768? Answer: Franks. In 800 he also received an imperial crown."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_coronation",
+    "status": "approved",
+    "sha256": "bd8fbbfefcfce0ca2d1283c9487cdf2463493fdc7036a7827f058e1df2f0f9ab",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/carolingian-art",
+        "location": "Opening paragraph",
+        "claim": "In which year was Charlemagne crowned emperor? Answer: 800. The coronation took place on Christmas Day."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_leo",
+    "status": "approved",
+    "sha256": "09d87a4d25f17331b01256041896ab1a7fa507977cdefd8117abc774ffb7cf61",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/carolingian-art",
+        "location": "Opening paragraph",
+        "claim": "Which pope crowned Charlemagne emperor? Answer: Leo III. The coronation emphasised the alliance between imperial authority and the Church."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_latin",
+    "status": "approved",
+    "sha256": "110a59cf3959a1069d498b5a4eeb90d3afef93a7488fa95f9daf203ea9c46ed8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/carolingian-art",
+        "location": "Cultural revival",
+        "claim": "Which language did Charlemagne promote as a language of scholarship? Answer: Latin. The cultural revival also raised educational standards."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_revival",
+    "status": "approved",
+    "sha256": "f8c26714f4f73e6144f522e9a7d9b1baf32b275066a542049c262e3074e1c7c2",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/carolingian-art",
+        "location": "Carolingian Renaissance",
+        "claim": "What is the Carolingian Renaissance? Answer: The cultural revival of Charlemagne's age. The name derives from Carolus, the Latin form of Charles."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_hastings_year",
+    "status": "approved",
+    "sha256": "a65eebd4763249d9b5b8a89c91bf6867d0efaec3f9b2c3e2771735da5677f0d7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings",
+        "location": "Opening account",
+        "claim": "In which year was the Battle of Hastings fought? Answer: 1066. The battle took place on 14 October."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_normandy",
+    "status": "approved",
+    "sha256": "5f9185652171e7c768087c4ca4b9e5340daad86a1ca62a2765fa7b5557e08227",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings",
+        "location": "Duke William of Normandy",
+        "claim": "Which duchy did William rule when he invaded England in 1066? Answer: Normandy. After his victory he became known as William the Conqueror."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_harold",
+    "status": "approved",
+    "sha256": "b4720af62ec0e284bae4d7ed05052224d4be92c05e2c325caec500b93d3e48e0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings",
+        "location": "Opening account",
+        "claim": "Which English king's army did William defeat at Hastings? Answer: Harold II. Harold had been crowned in January of the same year."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_pointed",
+    "status": "approved",
+    "sha256": "6df4b75a35307017d22a37c5f59c94007701470388b897b821c95d6683783b87",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/gothic-art",
+        "location": "Structural innovations",
+        "claim": "Which arch type is especially characteristic of Gothic architecture? Answer: Pointed. Pointed arches helped span openings of different widths and heights."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_windows",
+    "status": "approved",
+    "sha256": "702f7bcbf0e6a94be27ed1df6cd73cd53607009ea5122b1dd5f53d86f4dfd725",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/gothic-art",
+        "location": "Stained glass",
+        "claim": "What role did large stained-glass windows play in a Gothic cathedral? Answer: Created coloured light and conveyed stories. Window scenes could recount biblical events and saints' lives."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_buttress",
+    "status": "approved",
+    "sha256": "f3b85b316e512200a87f981ada321d01d0daa5d5288f65d85c9856421a3ff273",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/gothic-art",
+        "location": "Flying buttresses",
+        "claim": "What structural task does a Gothic flying buttress perform? Answer: Takes the vault's outward thrust. External supports allowed thinner walls and larger windows."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_gothic_birth",
+    "status": "approved",
+    "sha256": "961a5189acc34c50ce5fffbb62cd5ed59d8409361152efc3a27aacfcff5c6560",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/gothic-art",
+        "location": "Opening definition",
+        "claim": "In which European area did Gothic architecture emerge in the twelfth century? Answer: The area around Paris. The new architectural language subsequently spread across Europe."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_mongols",
+    "status": "approved",
+    "sha256": "0e0043cc5567bf2efac66f0dacb865926e9ba359e8a5d22dc45a27571f6969cc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Opening historical paragraphs",
+        "claim": "Which people ruled China under the Yuan dynasty? Answer: Mongols. China became part of a larger Mongol political realm."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_dadu",
+    "status": "approved",
+    "sha256": "442aa2ecb76ae0019fe4ebe79838800c2431c61998f04f3c84b457f2c7e8bc5c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Capital in Dadu",
+        "claim": "What is Dadu, the Yuan emperors' capital, called today? Answer: Beijing. The city was also known as Khanbaliq."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_centuries",
+    "status": "approved",
+    "sha256": "4ecb15a6081e8505e991a74fd105f35840a37cca5c2b37788514ef9cfa111403",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Article title dates",
+        "claim": "Which centuries span China's Yuan dynasty, dated 1271–1368? Answer: Thirteenth–fourteenth. This period belongs to the history of medieval East Asia."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_literati",
+    "status": "approved",
+    "sha256": "9066752ece7ced15a77aadf3f779ea49e2b16b6043016911fdd57d61005cf6f6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Literati painting",
+        "claim": "According to the account of Yuan art, what became an important aim of scholar-painters? Answer: The artist's self-expression. Artists used brushwork for more than outward resemblance."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_suger",
+    "status": "approved",
+    "sha256": "ba0cd542850ab62049b3b5aef3190d173601dc09ae3f40769374dd03162d8baa",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/gothic-art",
+        "location": "Saint-Denis",
+        "claim": "Under which abbot did the rebuilding of Saint-Denis become a key stage of early Gothic? Answer: Suger. The rebuilding of the church's eastern end dates to 1140–1144."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_paiza",
+    "status": "approved",
+    "sha256": "03a5a64133be18d9950f197afc9f968589e7034fa6266ee28106e4cd600ac460",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Safe Conduct Pass object caption",
+        "claim": "What was the Mongol paiza shown in the museum's Yuan article intended for? Answer: To certify safe conduct. The museum describes this object as an inscribed safe-conduct pass."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_cobalt",
+    "status": "approved",
+    "sha256": "500a2b7e4735cccff418582fdcc06b5b2be1790a722e19251b0f023d8a61363c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Plate with fish object caption",
+        "claim": "Which pigment is listed for the blue decoration of the Yuan porcelain plate with fish? Answer: Cobalt. The decoration lies beneath a transparent glaze."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_nov08_kesi",
+    "status": "approved",
+    "sha256": "52da0f7eb90684479110934603b2d758f454b421a34a0926e801859dbd346b51",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "location": "Cosmological Mandala object caption",
+        "claim": "What does kesi denote in the Yuan artwork presented? Answer: Silk tapestry weaving. The museum presents a woven mandala as an example."
+      }
+    ]
+  }
+]

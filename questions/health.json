@@ -1,0 +1,882 @@
+[
+  {
+    "id": "health_nov08_calorie",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что выражает калорийность пищи?",
+        "explanation": "Калории на этикетке описывают энергию, получаемую из указанного количества пищи."
+      },
+      "en": {
+        "question": "What does the calorie content of food express?",
+        "explanation": "Calories on a food label describe the energy supplied by the stated quantity of food."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Количество энергии",
+        "en": "Amount of energy"
+      },
+      {
+        "id": "o1",
+        "ru": "Объём воды",
+        "en": "Volume of water"
+      },
+      {
+        "id": "o2",
+        "ru": "Степень кислотности",
+        "en": "Degree of acidity"
+      },
+      {
+        "id": "o3",
+        "ru": "Температуру хранения",
+        "en": "Storage temperature"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_soap",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что вместе с проточной водой используют при обычном мытье рук?",
+        "explanation": "Намыливание помогает удалять загрязнения с разных участков рук."
+      },
+      "en": {
+        "question": "What is used with running water for ordinary handwashing?",
+        "explanation": "Lathering helps remove contamination from different parts of the hands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мыло",
+        "en": "Soap"
+      },
+      {
+        "id": "o1",
+        "ru": "Увлажняющий крем",
+        "en": "Moisturising cream"
+      },
+      {
+        "id": "o2",
+        "ru": "Защитный воск",
+        "en": "Protective wax"
+      },
+      {
+        "id": "o3",
+        "ru": "Тальк",
+        "en": "Talc"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/clean-hands/about/index.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_hygiene",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как мытьё рук влияет на распространение микробов?",
+        "explanation": "Загрязнённые руки могут переносить микробы на пищу и поверхности."
+      },
+      "en": {
+        "question": "How does handwashing affect the spread of germs?",
+        "explanation": "Contaminated hands can carry germs to food and surfaces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Помогает уменьшить распространение",
+        "en": "Helps reduce transmission"
+      },
+      {
+        "id": "o1",
+        "ru": "Уничтожает все микробы навсегда",
+        "en": "Eliminates all germs permanently"
+      },
+      {
+        "id": "o2",
+        "ru": "Обеззараживает предметы без их мытья",
+        "en": "Disinfects objects without washing them"
+      },
+      {
+        "id": "o3",
+        "ru": "Меняет генетический код микробов",
+        "en": "Changes the genetic code of germs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/clean-hands/about/index.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_sleepmemory",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой процесс поддерживает полноценный сон?",
+        "explanation": "Во сне мозг поддерживает функции, необходимые для обучения."
+      },
+      "en": {
+        "question": "Which process is supported by adequate sleep?",
+        "explanation": "During sleep the brain supports functions needed for learning."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обучение и запоминание",
+        "en": "Learning and memory"
+      },
+      {
+        "id": "o1",
+        "ru": "Формирование новой группы крови",
+        "en": "Formation of a new blood group"
+      },
+      {
+        "id": "o2",
+        "ru": "Увеличение числа хромосом",
+        "en": "An increase in chromosome number"
+      },
+      {
+        "id": "o3",
+        "ru": "Образование витамина C",
+        "en": "Production of vitamin C"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/why-sleep-important"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_antibody",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют белки иммунной системы, распознающие определённые антигены?",
+        "explanation": "Антитела относятся к специфическому иммунному ответу."
+      },
+      "en": {
+        "question": "What are immune-system proteins that recognise particular antigens called?",
+        "explanation": "Antibodies form part of a specific immune response."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антитела",
+        "en": "Antibodies"
+      },
+      {
+        "id": "o1",
+        "ru": "Гормоны роста",
+        "en": "Growth hormones"
+      },
+      {
+        "id": "o2",
+        "ru": "Пищевые волокна",
+        "en": "Dietary fibres"
+      },
+      {
+        "id": "o3",
+        "ru": "Желчные кислоты",
+        "en": "Bile acids"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_sleeprem",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С чем связано сокращение REM в названии фазы сна?",
+        "explanation": "Во время этой фазы движения глаз регистрируют при исследовании сна."
+      },
+      "en": {
+        "question": "What does REM refer to in a sleep-phase name?",
+        "explanation": "Eye movements during this phase are recorded in sleep studies."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Быстрые движения глаз",
+        "en": "Rapid eye movements"
+      },
+      {
+        "id": "o1",
+        "ru": "Глубокое медленное дыхание",
+        "en": "Deep slow breathing"
+      },
+      {
+        "id": "o2",
+        "ru": "Регулярные движения конечностей",
+        "en": "Regular limb movements"
+      },
+      {
+        "id": "o3",
+        "ru": "Расслабление мышц спины",
+        "en": "Relaxation of back muscles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_added",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие сахара на пищевой этикетке называют добавленными?",
+        "explanation": "Общее количество сахаров включает как природные, так и добавленные."
+      },
+      "en": {
+        "question": "Which sugars on a food label are called added sugars?",
+        "explanation": "Total sugars include both naturally occurring and added sugars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Внесённые при приготовлении или обработке",
+        "en": "Those introduced during preparation or processing"
+      },
+      {
+        "id": "o1",
+        "ru": "Только естественный сахар цельного фрукта",
+        "en": "Only sugar naturally in whole fruit"
+      },
+      {
+        "id": "o2",
+        "ru": "Все углеводы продукта",
+        "en": "All carbohydrates in a product"
+      },
+      {
+        "id": "o3",
+        "ru": "Все минеральные вещества",
+        "en": "All minerals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_portion",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает размер порции на пищевой этикетке?",
+        "explanation": "Значения энергии и нутриентов нужно соотносить с указанной порцией."
+      },
+      "en": {
+        "question": "What does serving size on a food label mean?",
+        "explanation": "Energy and nutrient values must be related to the stated serving size."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Количество продукта для приведённых значений",
+        "en": "The food quantity used for the listed values"
+      },
+      {
+        "id": "o1",
+        "ru": "Обязательное количество для каждого человека",
+        "en": "An amount mandatory for everyone"
+      },
+      {
+        "id": "o2",
+        "ru": "Вес упаковки с тарой",
+        "en": "Package weight including the container"
+      },
+      {
+        "id": "o3",
+        "ru": "Максимальный срок хранения",
+        "en": "Maximum shelf life"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_fibre",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе веществ относят пищевые волокна на этикетке FDA?",
+        "explanation": "Волокна указывают отдельно внутри общего количества углеводов."
+      },
+      "en": {
+        "question": "Under which nutrient group does the FDA label list dietary fibre?",
+        "explanation": "Fibre is listed separately within total carbohydrate."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Углеводы",
+        "en": "Carbohydrates"
+      },
+      {
+        "id": "o1",
+        "ru": "Белки",
+        "en": "Proteins"
+      },
+      {
+        "id": "o2",
+        "ru": "Жиры",
+        "en": "Fats"
+      },
+      {
+        "id": "o3",
+        "ru": "Минеральные вещества",
+        "en": "Minerals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_sodium",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каких единицах приведено количество натрия на примере этикетки FDA?",
+        "explanation": "Количество указывают для одной порции продукта."
+      },
+      "en": {
+        "question": "In which units is sodium shown on the FDA sample label?",
+        "explanation": "The amount refers to one serving of the food."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Миллиграммы",
+        "en": "Milligrams"
+      },
+      {
+        "id": "o1",
+        "ru": "Граммы",
+        "en": "Grams"
+      },
+      {
+        "id": "o2",
+        "ru": "Микрограммы",
+        "en": "Micrograms"
+      },
+      {
+        "id": "o3",
+        "ru": "Килокалории",
+        "en": "Kilocalories"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_nonrem",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько стадий сна без быстрых движений глаз описывает NIH?",
+        "explanation": "Их различают по измеряемой активности мозга."
+      },
+      "en": {
+        "question": "How many stages of non-REM sleep does NIH describe?",
+        "explanation": "They are distinguished by measured brain activity."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Три",
+        "en": "Three"
+      },
+      {
+        "id": "o1",
+        "ru": "Две",
+        "en": "Two"
+      },
+      {
+        "id": "o2",
+        "ru": "Пять",
+        "en": "Five"
+      },
+      {
+        "id": "o3",
+        "ru": "Семь",
+        "en": "Seven"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_deep",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую стадию сна без быстрых движений глаз называют глубоким сном?",
+        "explanation": "Она также называется медленноволновым сном."
+      },
+      "en": {
+        "question": "Which non-REM stage is called deep sleep?",
+        "explanation": "It is also called slow-wave sleep."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Третью",
+        "en": "Stage three"
+      },
+      {
+        "id": "o1",
+        "ru": "Первую",
+        "en": "Stage one"
+      },
+      {
+        "id": "o2",
+        "ru": "Вторую",
+        "en": "Stage two"
+      },
+      {
+        "id": "o3",
+        "ru": "Фазу REM",
+        "en": "The REM phase"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_cycles",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как обычно чередуются REM и non-REM в течение ночи?",
+        "explanation": "За ночь человек обычно проходит несколько циклов сна."
+      },
+      "en": {
+        "question": "How do REM and non-REM normally occur during a night?",
+        "explanation": "A person normally passes through several sleep cycles in a night."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Образуют повторяющиеся циклы",
+        "en": "They form recurring cycles"
+      },
+      {
+        "id": "o1",
+        "ru": "REM бывает только перед засыпанием",
+        "en": "REM occurs only before falling asleep"
+      },
+      {
+        "id": "o2",
+        "ru": "Non-REM бывает только после пробуждения",
+        "en": "Non-REM occurs only after waking"
+      },
+      {
+        "id": "o3",
+        "ru": "Всегда идут строго по одной фазе за ночь",
+        "en": "There is exactly one of each per night"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_antigen",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют часть возбудителя, которую распознаёт иммунная система?",
+        "explanation": "Разные антигены могут вызывать разные специфические иммунные ответы."
+      },
+      "en": {
+        "question": "What is a part of a pathogen recognised by the immune system called?",
+        "explanation": "Different antigens can trigger different specific immune responses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антиген",
+        "en": "Antigen"
+      },
+      {
+        "id": "o1",
+        "ru": "Антитело",
+        "en": "Antibody"
+      },
+      {
+        "id": "o2",
+        "ru": "Гормон",
+        "en": "Hormone"
+      },
+      {
+        "id": "o3",
+        "ru": "Нейромедиатор",
+        "en": "Neurotransmitter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_vaccine",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что помогает сформировать вакцинация?",
+        "explanation": "Повторное распознавание знакомого антигена может происходить быстрее."
+      },
+      "en": {
+        "question": "What does vaccination help establish?",
+        "explanation": "A familiar antigen can be recognised more quickly on a later encounter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иммунную память",
+        "en": "Immune memory"
+      },
+      {
+        "id": "o1",
+        "ru": "Прямую устойчивость к любому яду",
+        "en": "Direct resistance to every poison"
+      },
+      {
+        "id": "o2",
+        "ru": "Постоянное отсутствие воспаления",
+        "en": "Permanent absence of inflammation"
+      },
+      {
+        "id": "o3",
+        "ru": "Полную защиту от всех инфекций",
+        "en": "Complete protection from all infections"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_remsignals",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сигнал от головного мозга помогает различать стадии сна?",
+        "explanation": "Стадии сна определяют по физиологическим измерениям, а не по внешнему виду человека."
+      },
+      "en": {
+        "question": "Which signal from the brain helps distinguish sleep stages?",
+        "explanation": "Sleep stages are defined by physiological measurements rather than appearance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Электрическую активность мозга",
+        "en": "Electrical brain activity"
+      },
+      {
+        "id": "o1",
+        "ru": "Химический состав волос",
+        "en": "Chemical composition of hair"
+      },
+      {
+        "id": "o2",
+        "ru": "Минеральную плотность костей",
+        "en": "Bone mineral density"
+      },
+      {
+        "id": "o3",
+        "ru": "Пигментацию кожи",
+        "en": "Skin pigmentation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_percentdv",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что показывает %DV на пищевой этикетке FDA?",
+        "explanation": "Это ориентир для сравнения продуктов, а не персональный медицинский расчёт."
+      },
+      "en": {
+        "question": "What does %DV on an FDA food label show?",
+        "explanation": "It is a reference for comparing foods, not a personalised medical calculation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Долю установленной суточной величины нутриента",
+        "en": "The fraction of a nutrient's established Daily Value"
+      },
+      {
+        "id": "o1",
+        "ru": "Долю усвоенных организмом веществ",
+        "en": "The fraction of substances absorbed by the body"
+      },
+      {
+        "id": "o2",
+        "ru": "Долю продукта от суточной массы пищи",
+        "en": "The food's fraction of daily food mass"
+      },
+      {
+        "id": "o3",
+        "ru": "Изменение нутриентов при готовке",
+        "en": "The change in nutrients during cooking"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_totalsugar",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Входит ли добавленный сахар в значение Total Sugars на этикетке FDA?",
+        "explanation": "Добавленные сахара — подмножество общего количества сахаров."
+      },
+      "en": {
+        "question": "Are added sugars included in Total Sugars on an FDA label?",
+        "explanation": "Added sugars are a subset of total sugars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Да, это часть общего количества",
+        "en": "Yes, they are part of the total"
+      },
+      {
+        "id": "o1",
+        "ru": "Нет, эти две величины нужно складывать",
+        "en": "No, the two values must be added"
+      },
+      {
+        "id": "o2",
+        "ru": "Только сахар, добавленный перед продажей",
+        "en": "Only sugar added just before sale"
+      },
+      {
+        "id": "o3",
+        "ru": "Только сахар, добавленный перед упаковкой",
+        "en": "Only sugar added just before packaging"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_memorycells",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что иммунная система может сохранить после знакомства с антигеном?",
+        "explanation": "Эти клетки помогают ответить на повторную встречу с возбудителем."
+      },
+      "en": {
+        "question": "What can the immune system retain after encountering an antigen?",
+        "explanation": "These cells help respond to a later encounter with the pathogen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клетки памяти",
+        "en": "Memory cells"
+      },
+      {
+        "id": "o1",
+        "ru": "Запас готовых антибиотиков",
+        "en": "A stock of ready-made antibiotics"
+      },
+      {
+        "id": "o2",
+        "ru": "Новую группу крови",
+        "en": "A new blood group"
+      },
+      {
+        "id": "o3",
+        "ru": "Запас кислорода в лимфоузлах",
+        "en": "Oxygen stored in lymph nodes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_nov08_pathogen",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют организм или агент, способный вызывать заболевание?",
+        "explanation": "К возбудителям относятся, например, некоторые бактерии и вирусы."
+      },
+      "en": {
+        "question": "What is an organism or agent capable of causing disease called?",
+        "explanation": "Pathogens include, for example, some bacteria and viruses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Патоген",
+        "en": "Pathogen"
+      },
+      {
+        "id": "o1",
+        "ru": "Нутриент",
+        "en": "Nutrient"
+      },
+      {
+        "id": "o2",
+        "ru": "Пигмент",
+        "en": "Pigment"
+      },
+      {
+        "id": "o3",
+        "ru": "Электролит",
+        "en": "Electrolyte"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    ],
+    "image": null
+  }
+]

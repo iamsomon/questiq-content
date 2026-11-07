@@ -1,0 +1,442 @@
+[
+  {
+    "id": "television_nov08_tardis_shape",
+    "categoryId": "television",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как обычно выглядит ТАРДИС снаружи в сериале «Доктор Кто»?",
+        "explanation": "Маскировочная система корабля застряла в этом облике."
+      },
+      "en": {
+        "question": "What does the TARDIS usually look like from outside in Doctor Who?",
+        "explanation": "The ship's disguise system became stuck in this form."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Синяя полицейская будка",
+        "en": "A blue police box"
+      },
+      {
+        "id": "o1",
+        "ru": "Красная телефонная будка",
+        "en": "A red telephone box"
+      },
+      {
+        "id": "o2",
+        "ru": "Серебристая ракета",
+        "en": "A silver rocket"
+      },
+      {
+        "id": "o3",
+        "ru": "Жёлтый автобус",
+        "en": "A yellow bus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.doctorwho.tv/characters/the-tardis"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_wednesday_school",
+    "categoryId": "television",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой академии учится Уэнсдей Аддамс в сериале Netflix?",
+        "explanation": "Школьная жизнь Уэнсдей переплетается с расследованием загадочных событий."
+      },
+      "en": {
+        "question": "Which academy does Wednesday Addams attend in the Netflix series?",
+        "explanation": "Wednesday's school life becomes entangled with a mystery investigation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Невермор",
+        "en": "Nevermore"
+      },
+      {
+        "id": "o1",
+        "ru": "Ривердейл",
+        "en": "Riverdale"
+      },
+      {
+        "id": "o2",
+        "ru": "Хокинс",
+        "en": "Hawkins"
+      },
+      {
+        "id": "o3",
+        "ru": "Саннидейл",
+        "en": "Sunnydale"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.netflix.com/tudum/videos/wednesday-welcomes-you-to-nevermore-academy"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_simpsons_town",
+    "categoryId": "television",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком вымышленном городе живёт семья Симпсонов?",
+        "explanation": "Гомер работает на местной атомной электростанции."
+      },
+      "en": {
+        "question": "In which fictional town does the Simpson family live?",
+        "explanation": "Homer works at the local nuclear power plant."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спрингфилд",
+        "en": "Springfield"
+      },
+      {
+        "id": "o1",
+        "ru": "Куахог",
+        "en": "Quahog"
+      },
+      {
+        "id": "o2",
+        "ru": "Саут-Парк",
+        "en": "South Park"
+      },
+      {
+        "id": "o3",
+        "ru": "Арлен",
+        "en": "Arlen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_sesame_cookies",
+    "categoryId": "television",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто из героев «Улицы Сезам» особенно любит печенье?",
+        "explanation": "В описании героя его постоянный поиск еды особенно связан с печеньем."
+      },
+      "en": {
+        "question": "Which Sesame Street character is particularly fond of cookies?",
+        "explanation": "The character's search for food particularly centres on cookies."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коржик",
+        "en": "Cookie Monster"
+      },
+      {
+        "id": "o1",
+        "ru": "Элмо",
+        "en": "Elmo"
+      },
+      {
+        "id": "o2",
+        "ru": "Гровер",
+        "en": "Grover"
+      },
+      {
+        "id": "o3",
+        "ru": "Берт",
+        "en": "Bert"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_tardis_builders",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто создал ТАРДИС во вселенной «Доктора Кто»?",
+        "explanation": "Корабль Доктора относится к капсулам типа 40."
+      },
+      "en": {
+        "question": "Who created the TARDIS in the Doctor Who universe?",
+        "explanation": "The Doctor's ship is a Type 40 capsule."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Повелители Времени",
+        "en": "Time Lords"
+      },
+      {
+        "id": "o1",
+        "ru": "Далеки",
+        "en": "Daleks"
+      },
+      {
+        "id": "o2",
+        "ru": "Киберлюди",
+        "en": "Cybermen"
+      },
+      {
+        "id": "o3",
+        "ru": "Сонтаранцы",
+        "en": "Sontarans"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.doctorwho.tv/characters/the-tardis"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_sesame_count",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое занятие особенно любит Граф из «Улицы Сезам»?",
+        "explanation": "Герой помогает знакомить зрителей с числами через своё любимое занятие."
+      },
+      "en": {
+        "question": "Which activity does Sesame Street's Count von Count especially enjoy?",
+        "explanation": "His favourite activity helps introduce viewers to numbers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Считать предметы",
+        "en": "Counting things"
+      },
+      {
+        "id": "o1",
+        "ru": "Печь хлеб",
+        "en": "Baking bread"
+      },
+      {
+        "id": "o2",
+        "ru": "Чинить автомобили",
+        "en": "Repairing cars"
+      },
+      {
+        "id": "o3",
+        "ru": "Выращивать цветы",
+        "en": "Growing flowers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_sesame_friends",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто назван лучшим другом Эрни в официальном описании «Улицы Сезам»?",
+        "explanation": "Эрни часто подшучивает над своим приятелем."
+      },
+      "en": {
+        "question": "Who is named as Ernie's best friend in the official Sesame Street description?",
+        "explanation": "Ernie frequently plays practical jokes on his friend."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берт",
+        "en": "Bert"
+      },
+      {
+        "id": "o1",
+        "ru": "Гровер",
+        "en": "Grover"
+      },
+      {
+        "id": "o2",
+        "ru": "Элмо",
+        "en": "Elmo"
+      },
+      {
+        "id": "o3",
+        "ru": "Оскар",
+        "en": "Oscar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_simpsons_creator",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто создал сериал «Симпсоны»?",
+        "explanation": "Над разработкой получасового сериала также работали Джеймс Брукс и Сэм Саймон."
+      },
+      "en": {
+        "question": "Who created The Simpsons?",
+        "explanation": "James L. Brooks and Sam Simon also helped develop the half-hour series."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мэтт Грейнинг",
+        "en": "Matt Groening"
+      },
+      {
+        "id": "o1",
+        "ru": "Сет Макфарлейн",
+        "en": "Seth MacFarlane"
+      },
+      {
+        "id": "o2",
+        "ru": "Майк Джадж",
+        "en": "Mike Judge"
+      },
+      {
+        "id": "o3",
+        "ru": "Стивен Хилленберг",
+        "en": "Stephen Hillenburg"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_tardis_acronym",
+    "categoryId": "television",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие английские слова раскрывают название TARDIS?",
+        "explanation": "Сокращение придумала Сьюзен, внучка Доктора."
+      },
+      "en": {
+        "question": "Which English words expand the name TARDIS?",
+        "explanation": "The acronym was coined by Susan, the Doctor's granddaughter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Time and Relative Dimension in Space",
+        "en": "Time and Relative Dimension in Space"
+      },
+      {
+        "id": "o1",
+        "ru": "Temporal Andromeda Research Device in Space",
+        "en": "Temporal Andromeda Research Device in Space"
+      },
+      {
+        "id": "o2",
+        "ru": "Time and Radiation Detection in Space",
+        "en": "Time and Radiation Detection in Space"
+      },
+      {
+        "id": "o3",
+        "ru": "Transport and Remote Discovery in Space",
+        "en": "Transport and Remote Discovery in Space"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.doctorwho.tv/characters/the-tardis"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_nov08_simpsons_shorts",
+    "categoryId": "television",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком телешоу впервые появились короткометражки о Симпсонах в 1987 году?",
+        "explanation": "Самостоятельный сериал вышел в 1989 году."
+      },
+      "en": {
+        "question": "In which TV show did The Simpsons first appear as shorts in 1987?",
+        "explanation": "The standalone series premiered in 1989."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шоу Трейси Ульман",
+        "en": "The Tracey Ullman Show"
+      },
+      {
+        "id": "o1",
+        "ru": "Субботним вечером в прямом эфире",
+        "en": "Saturday Night Live"
+      },
+      {
+        "id": "o2",
+        "ru": "Шоу Кэрол Бёрнетт",
+        "en": "The Carol Burnett Show"
+      },
+      {
+        "id": "o3",
+        "ru": "Маппет-шоу",
+        "en": "The Muppet Show"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide"
+    ],
+    "image": null
+  }
+]

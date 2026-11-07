@@ -1,0 +1,882 @@
+[
+  {
+    "id": "christianity_nov08_gospels",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько канонических Евангелий входит в Новый Завет?",
+        "explanation": "Это Евангелия от Матфея, Марка, Луки и Иоанна."
+      },
+      "en": {
+        "question": "How many canonical Gospels are in the New Testament?",
+        "explanation": "They are the Gospels of Matthew, Mark, Luke and John."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Четыре",
+        "en": "Four"
+      },
+      {
+        "id": "o1",
+        "ru": "Два",
+        "en": "Two"
+      },
+      {
+        "id": "o2",
+        "ru": "Шесть",
+        "en": "Six"
+      },
+      {
+        "id": "o3",
+        "ru": "Двенадцать",
+        "en": "Twelve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_nativity",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое событие отмечает христианское Рождество?",
+        "explanation": "В евангельском повествовании рождение Иисуса связано с Вифлеемом."
+      },
+      "en": {
+        "question": "Which event does Christian Christmas celebrate?",
+        "explanation": "The Gospel narrative places Jesus' birth in Bethlehem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рождение Иисуса",
+        "en": "The birth of Jesus"
+      },
+      {
+        "id": "o1",
+        "ru": "Крещение Иисуса",
+        "en": "The baptism of Jesus"
+      },
+      {
+        "id": "o2",
+        "ru": "Воскресение Иисуса",
+        "en": "The resurrection of Jesus"
+      },
+      {
+        "id": "o3",
+        "ru": "Вознесение Иисуса",
+        "en": "The ascension of Jesus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_mary",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут мать Иисуса в христианской традиции?",
+        "explanation": "Её образ занимает важное место в христианском искусстве."
+      },
+      "en": {
+        "question": "What is the name of Jesus' mother in Christian tradition?",
+        "explanation": "Her image occupies an important place in Christian art."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мария",
+        "en": "Mary"
+      },
+      {
+        "id": "o1",
+        "ru": "Елизавета",
+        "en": "Elizabeth"
+      },
+      {
+        "id": "o2",
+        "ru": "Марфа",
+        "en": "Martha"
+      },
+      {
+        "id": "o3",
+        "ru": "Руфь",
+        "en": "Ruth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_john",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто крестил Иисуса, согласно Евангелиям?",
+        "explanation": "Евангельское повествование связывает крещение с рекой Иордан."
+      },
+      "en": {
+        "question": "Who baptised Jesus according to the Gospels?",
+        "explanation": "The Gospel account associates the baptism with the River Jordan."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иоанн Креститель",
+        "en": "John the Baptist"
+      },
+      {
+        "id": "o1",
+        "ru": "Апостол Пётр",
+        "en": "The apostle Peter"
+      },
+      {
+        "id": "o2",
+        "ru": "Моисей",
+        "en": "Moses"
+      },
+      {
+        "id": "o3",
+        "ru": "Пророк Илия",
+        "en": "The prophet Elijah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_easter",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое событие является центральным для христианской Пасхи?",
+        "explanation": "Пасхальное празднование связано с евангельскими рассказами о пустой гробнице."
+      },
+      "en": {
+        "question": "Which event is central to Christian Easter?",
+        "explanation": "The Easter celebration is linked to the Gospel accounts of the empty tomb."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Воскресение Иисуса",
+        "en": "The resurrection of Jesus"
+      },
+      {
+        "id": "o1",
+        "ru": "Рождение Иисуса",
+        "en": "The birth of Jesus"
+      },
+      {
+        "id": "o2",
+        "ru": "Благовещение",
+        "en": "The Annunciation"
+      },
+      {
+        "id": "o3",
+        "ru": "Вход в Иерусалим",
+        "en": "The entry into Jerusalem"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_apostles",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько ближайших учеников входило в первоначальный круг апостолов Иисуса?",
+        "explanation": "К этому кругу принадлежали Пётр, Иаков и Иоанн."
+      },
+      "en": {
+        "question": "How many disciples belonged to the original circle of Jesus' apostles?",
+        "explanation": "Peter, James and John belonged to this circle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Двенадцать",
+        "en": "Twelve"
+      },
+      {
+        "id": "o1",
+        "ru": "Четыре",
+        "en": "Four"
+      },
+      {
+        "id": "o2",
+        "ru": "Семь",
+        "en": "Seven"
+      },
+      {
+        "id": "o3",
+        "ru": "Сорок",
+        "en": "Forty"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_cross",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким евангельским событием связан крест как христианский символ?",
+        "explanation": "Распятие относится к повествованию о Страстях Христовых."
+      },
+      "en": {
+        "question": "Which Gospel event is associated with the cross as a Christian symbol?",
+        "explanation": "The Crucifixion forms part of the account of Christ's Passion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Распятие",
+        "en": "The Crucifixion"
+      },
+      {
+        "id": "o1",
+        "ru": "Благовещение",
+        "en": "The Annunciation"
+      },
+      {
+        "id": "o2",
+        "ru": "Крещение",
+        "en": "The Baptism"
+      },
+      {
+        "id": "o3",
+        "ru": "Преображение",
+        "en": "The Transfiguration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_bethlehem",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе родился Иисус, согласно евангельской традиции?",
+        "explanation": "Традиция связывает детство Иисуса также с Назаретом."
+      },
+      "en": {
+        "question": "In which town was Jesus born according to Gospel tradition?",
+        "explanation": "The tradition also associates Jesus' childhood with Nazareth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вифлеем",
+        "en": "Bethlehem"
+      },
+      {
+        "id": "o1",
+        "ru": "Назарет",
+        "en": "Nazareth"
+      },
+      {
+        "id": "o2",
+        "ru": "Капернаум",
+        "en": "Capernaum"
+      },
+      {
+        "id": "o3",
+        "ru": "Кесария",
+        "en": "Caesarea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_annunciation",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют весть архангела Гавриила Марии о рождении Иисуса?",
+        "explanation": "Этот сюжет часто изображали на алтарных картинах."
+      },
+      "en": {
+        "question": "What is Gabriel's announcement to Mary of Jesus' birth called?",
+        "explanation": "This scene was often represented in altarpieces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Благовещение",
+        "en": "The Annunciation"
+      },
+      {
+        "id": "o1",
+        "ru": "Преображение",
+        "en": "The Transfiguration"
+      },
+      {
+        "id": "o2",
+        "ru": "Вознесение",
+        "en": "The Ascension"
+      },
+      {
+        "id": "o3",
+        "ru": "Пятидесятница",
+        "en": "Pentecost"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_supper",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют последнюю трапезу Иисуса с учениками перед арестом?",
+        "explanation": "В евангельском повествовании она происходит в Иерусалиме."
+      },
+      "en": {
+        "question": "What is Jesus' final meal with his disciples before his arrest called?",
+        "explanation": "In the Gospel narrative it takes place in Jerusalem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тайная вечеря",
+        "en": "The Last Supper"
+      },
+      {
+        "id": "o1",
+        "ru": "Благовещение",
+        "en": "The Annunciation"
+      },
+      {
+        "id": "o2",
+        "ru": "Богоявление",
+        "en": "The Epiphany"
+      },
+      {
+        "id": "o3",
+        "ru": "Сретение",
+        "en": "The Presentation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_jordan",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой реке, согласно Евангелиям, крестили Иисуса?",
+        "explanation": "В этом эпизоде крещение совершает Иоанн Креститель."
+      },
+      "en": {
+        "question": "In which river was Jesus baptised according to the Gospels?",
+        "explanation": "John the Baptist performs the baptism in this episode."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иордан",
+        "en": "Jordan"
+      },
+      {
+        "id": "o1",
+        "ru": "Нил",
+        "en": "Nile"
+      },
+      {
+        "id": "o2",
+        "ru": "Евфрат",
+        "en": "Euphrates"
+      },
+      {
+        "id": "o3",
+        "ru": "Тибр",
+        "en": "Tiber"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_parables",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют короткие поучительные истории, которыми Иисус часто передавал учение?",
+        "explanation": "Такие рассказы объясняют идеи через понятные образы и ситуации."
+      },
+      "en": {
+        "question": "What are the short instructive stories Jesus often used in his teaching called?",
+        "explanation": "Such stories explain ideas through familiar images and situations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Притчи",
+        "en": "Parables"
+      },
+      {
+        "id": "o1",
+        "ru": "Эпитафии",
+        "en": "Epitaphs"
+      },
+      {
+        "id": "o2",
+        "ru": "Летописи",
+        "en": "Chronicles"
+      },
+      {
+        "id": "o3",
+        "ru": "Генеалогии",
+        "en": "Genealogies"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_gethsemane",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется сад, где Иисус молился перед арестом?",
+        "explanation": "Этот эпизод относится к повествованию о Страстях."
+      },
+      "en": {
+        "question": "What is the garden where Jesus prayed before his arrest called?",
+        "explanation": "This episode belongs to the Passion narrative."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гефсимания",
+        "en": "Gethsemane"
+      },
+      {
+        "id": "o1",
+        "ru": "Эдем",
+        "en": "Eden"
+      },
+      {
+        "id": "o2",
+        "ru": "Вавилон",
+        "en": "Babylon"
+      },
+      {
+        "id": "o3",
+        "ru": "Синай",
+        "en": "Sinai"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_jerusalem",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой город Иисус входит перед событиями Страстной недели?",
+        "explanation": "Евангелия связывают этот вход с паломничеством на праздник Пасхи."
+      },
+      "en": {
+        "question": "Which city does Jesus enter before the events of Holy Week?",
+        "explanation": "The Gospels connect the entry with a Passover pilgrimage."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иерусалим",
+        "en": "Jerusalem"
+      },
+      {
+        "id": "o1",
+        "ru": "Антиохия",
+        "en": "Antioch"
+      },
+      {
+        "id": "o2",
+        "ru": "Александрия",
+        "en": "Alexandria"
+      },
+      {
+        "id": "o3",
+        "ru": "Рим",
+        "en": "Rome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_ascension",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое событие в христианской традиции означает восхождение Иисуса на небо?",
+        "explanation": "В церковном повествовании это событие следует после Воскресения."
+      },
+      "en": {
+        "question": "What is Jesus' rising to heaven called in Christian tradition?",
+        "explanation": "In the church narrative this event follows the Resurrection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вознесение",
+        "en": "Ascension"
+      },
+      {
+        "id": "o1",
+        "ru": "Преображение",
+        "en": "Transfiguration"
+      },
+      {
+        "id": "o2",
+        "ru": "Сретение",
+        "en": "Presentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Благовещение",
+        "en": "Annunciation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_pentecost",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким событием связан христианский праздник Пятидесятницы?",
+        "explanation": "Рассказ об этом событии содержится в Деяниях апостолов."
+      },
+      "en": {
+        "question": "Which event is associated with Christian Pentecost?",
+        "explanation": "The event is recounted in the Acts of the Apostles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сошествие Святого Духа на учеников",
+        "en": "The Holy Spirit descending on the disciples"
+      },
+      {
+        "id": "o1",
+        "ru": "Рождение Иисуса",
+        "en": "Jesus' birth"
+      },
+      {
+        "id": "o2",
+        "ru": "Крещение Иисуса",
+        "en": "Jesus' baptism"
+      },
+      {
+        "id": "o3",
+        "ru": "Перепись Августа",
+        "en": "Augustus' census"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_christ_title",
+    "categoryId": "christianity",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает греческое слово «Христос»?",
+        "explanation": "Это титул, соответствующий еврейскому слову «мессия»."
+      },
+      "en": {
+        "question": "What does the Greek word Christos mean?",
+        "explanation": "It is a title corresponding to the Hebrew word Messiah."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Помазанник",
+        "en": "Anointed one"
+      },
+      {
+        "id": "o1",
+        "ru": "Учитель",
+        "en": "Teacher"
+      },
+      {
+        "id": "o2",
+        "ru": "Законодатель",
+        "en": "Lawgiver"
+      },
+      {
+        "id": "o3",
+        "ru": "Посланник",
+        "en": "Messenger"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_transfiguration",
+    "categoryId": "christianity",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С кем Иисус беседует в евангельском рассказе о Преображении?",
+        "explanation": "Сцену наблюдают Пётр, Иаков и Иоанн."
+      },
+      "en": {
+        "question": "With whom does Jesus speak in the Gospel account of the Transfiguration?",
+        "explanation": "Peter, James and John witness the scene."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "С Моисеем и Илиёй",
+        "en": "Moses and Elijah"
+      },
+      {
+        "id": "o1",
+        "ru": "С Августом и Тиберием",
+        "en": "Augustus and Tiberius"
+      },
+      {
+        "id": "o2",
+        "ru": "С Каином и Авелем",
+        "en": "Cain and Abel"
+      },
+      {
+        "id": "o3",
+        "ru": "С Иродом и Пилатом",
+        "en": "Herod and Pilate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_emmaus",
+    "categoryId": "christianity",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким событием связан сюжет «Путь в Эммаус»?",
+        "explanation": "Этот сюжет относится к рассказам о событиях после Воскресения."
+      },
+      "en": {
+        "question": "Which event is associated with the Road to Emmaus scene?",
+        "explanation": "This scene belongs to accounts of events after the Resurrection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Явление воскресшего Иисуса ученикам",
+        "en": "The risen Jesus appearing to disciples"
+      },
+      {
+        "id": "o1",
+        "ru": "Бегство Святого семейства в Египет",
+        "en": "The Holy Family's flight into Egypt"
+      },
+      {
+        "id": "o2",
+        "ru": "Крещение Иисуса в Иордане",
+        "en": "Jesus' baptism in the Jordan"
+      },
+      {
+        "id": "o3",
+        "ru": "Рождение Иоанна Крестителя",
+        "en": "The birth of John the Baptist"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_nov08_visitation",
+    "categoryId": "christianity",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую родственницу Мария посещает после Благовещения в евангельском повествовании?",
+        "explanation": "Елизавета в этом повествовании ожидает рождения Иоанна Крестителя."
+      },
+      "en": {
+        "question": "Which relative does Mary visit after the Annunciation in the Gospel narrative?",
+        "explanation": "Elizabeth is expecting the birth of John the Baptist in this narrative."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Елизавету",
+        "en": "Elizabeth"
+      },
+      {
+        "id": "o1",
+        "ru": "Марфу",
+        "en": "Martha"
+      },
+      {
+        "id": "o2",
+        "ru": "Руфь",
+        "en": "Ruth"
+      },
+      {
+        "id": "o3",
+        "ru": "Сарру",
+        "en": "Sarah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
+    ],
+    "image": null
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "olympics_nov08_athens",
+    "status": "approved",
+    "sha256": "0cead7279b569dd1f6f6db16c8f361f66f5b1a3ab90f2f78c34d4dd1541ae52a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/what-is-the-origin-of-the-olympic-games",
+        "location": "Final answer paragraph",
+        "claim": "Where were the first modern Olympic Games held in 1896? Answer: Athens. Pierre de Coubertin launched his revival project in 1894."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_rings",
+    "status": "approved",
+    "sha256": "bb9ae648d774e2e32b0fb605af588b9bc12afb54d153c3103c27b5de1b36209e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/olympic-rings",
+        "location": "Definition and meaning",
+        "claim": "How many interlaced rings form the Olympic symbol? Answer: Five. The symbol represents athletes meeting and the union of five parts of the world."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_women",
+    "status": "approved",
+    "sha256": "10405ad8ae24b1afa1d1bf59a93b37153d4b986aa1d7c22583fdd37f6501490f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/when-did-women-first-compete-in-the-olympic-games",
+        "location": "First answer paragraph",
+        "claim": "In which city did women first compete in the modern Olympic Games in 1900? Answer: Paris. They competed in tennis, sailing, croquet, equestrian events and golf."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_winter",
+    "status": "approved",
+    "sha256": "9425f319ce8e256a064002b43e2f4800303fa8b7f63de7df52251fe63e30d249",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/when-were-the-first-olympic-winter-games-held",
+        "location": "First answer paragraph",
+        "claim": "Which town hosted the first Olympic Winter Games in 1924? Answer: Chamonix. The event was initially called International Winter Sports Week."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_flag",
+    "status": "approved",
+    "sha256": "af0810805f531ea12cfa399722c053cbe49085f6029d5c009f63feb6c0d08187",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/olympic-rings",
+        "location": "History: 1914",
+        "claim": "What is the background colour of the classic Olympic flag? Answer: White. The flag was created for the 1914 Olympic Congress in Paris."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_ringdesigner",
+    "status": "approved",
+    "sha256": "fea20dd2eb82aeb38fdf3625c866226a348c61d09fc6d198e5f3d0ab93147582",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/olympic-rings",
+        "location": "History: 1913",
+        "claim": "Who designed the five-ring Olympic symbol? Answer: Pierre de Coubertin. The symbol was first publicly presented in 1913."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_olympiad",
+    "status": "approved",
+    "sha256": "541d390a16d9835d5dcc0e11bfde63d5f926b8f4d9deecba25b55f58c6372c47",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/what-is-the-origin-of-the-olympic-games",
+        "location": "Olympiad paragraph",
+        "claim": "What period was called an Olympiad in Ancient Greece? Answer: Four years. This interval between the Games was used for dating events."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_lastsame",
+    "status": "approved",
+    "sha256": "c36116713b24e861054a652674a18ec98c2bc6410803e0787b0e0eb7e6cdb925",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/since-when-have-the-summer-and-winter-games-no-longer-been-held-in-the-same-year",
+        "location": "First answer paragraph",
+        "claim": "In which year were the Summer and Winter Olympics last regularly held in the same year? Answer: 1992. Barcelona hosted the Summer Games and Albertville the Winter Games that year."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_antwerp",
+    "status": "approved",
+    "sha256": "e3591949cd3209bddc763f8ca80ad42b291f1452b6c3891ef690f727fce47fa5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/olympic-rings",
+        "location": "History: 1920",
+        "claim": "At which Games did the Olympic flag first appear in the stadium in 1920? Answer: Antwerp. The white flag bearing the rings had been created in 1914."
+      }
+    ]
+  },
+  {
+    "id": "olympics_nov08_founderioc",
+    "status": "approved",
+    "sha256": "8825df65eb6f6289f9a08073d8e5ca93f16fb1fbeb130dad7a3af55c9764eb3b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/who-was-pierre-de-coubertin",
+        "location": "First answer paragraph",
+        "claim": "Which international organisation did Pierre de Coubertin found in 1894? Answer: International Olympic Committee. He connected sport with education and peaceful cooperation."
+      }
+    ]
+  }
+]

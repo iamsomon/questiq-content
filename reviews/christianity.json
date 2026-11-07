@@ -1,0 +1,362 @@
+[
+  {
+    "id": "christianity_nov08_gospels",
+    "status": "approved",
+    "sha256": "c262a0e0764dc4ccf30e63c4c7470838692eeec4644e0847e3b98f712851911b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Opening paragraph on the Gospels",
+        "claim": "How many canonical Gospels are in the New Testament? Answer: Four. They are the Gospels of Matthew, Mark, Luke and John."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_nativity",
+    "status": "approved",
+    "sha256": "822868d0b22989337954110e184138ae673d2cb23b1388348d83ddfcab371176",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Nativity",
+        "claim": "Which event does Christian Christmas celebrate? Answer: The birth of Jesus. The Gospel narrative places Jesus' birth in Bethlehem."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_mary",
+    "status": "approved",
+    "sha256": "82b57979b42a8a1444fc90d2fb31fe9cd44a264c50ad730ab53a0bbc873d2f50",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Mary and Joseph",
+        "claim": "What is the name of Jesus' mother in Christian tradition? Answer: Mary. Her image occupies an important place in Christian art."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_john",
+    "status": "approved",
+    "sha256": "c72ce89f07b12177750539121d3b5ec50dc79b4b40d1707f2c77f10f6eea4440",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Baptism of Jesus",
+        "claim": "Who baptised Jesus according to the Gospels? Answer: John the Baptist. The Gospel account associates the baptism with the River Jordan."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_easter",
+    "status": "approved",
+    "sha256": "f45c8bff4262fa9856040bfab6dcb4077406abafb188840fac27e575ea13d458",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Resurrection",
+        "claim": "Which event is central to Christian Easter? Answer: The resurrection of Jesus. The Easter celebration is linked to the Gospel accounts of the empty tomb."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_apostles",
+    "status": "approved",
+    "sha256": "1bb048baec3ed2d0020d3e88744fe74b6a28b1e5a17829afa7e80a55aaf3db0f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Twelve disciples",
+        "claim": "How many disciples belonged to the original circle of Jesus' apostles? Answer: Twelve. Peter, James and John belonged to this circle."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_cross",
+    "status": "approved",
+    "sha256": "7e2e2ffd7328ae03dda66de729f4c344e44f454f38ac0e27e5634a3c6b901fa6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Passion and Crucifixion",
+        "claim": "Which Gospel event is associated with the cross as a Christian symbol? Answer: The Crucifixion. The Crucifixion forms part of the account of Christ's Passion."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_bethlehem",
+    "status": "approved",
+    "sha256": "ad23b3fc479d553e0ec2b052dc8b0264c204f55b3f46f156ec29da779b883422",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Nativity and return to Nazareth",
+        "claim": "In which town was Jesus born according to Gospel tradition? Answer: Bethlehem. The tradition also associates Jesus' childhood with Nazareth."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_annunciation",
+    "status": "approved",
+    "sha256": "1e77c5e151188fd27e290f2f893573717b7aae2bfbe826685caefcea90de7b32",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Annunciation",
+        "claim": "What is Gabriel's announcement to Mary of Jesus' birth called? Answer: The Annunciation. This scene was often represented in altarpieces."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_supper",
+    "status": "approved",
+    "sha256": "3c6c00cd371ef1c87827f513660c1912bdb6a0079c0a717127ac15b889f0cb66",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Passion and Last Supper",
+        "claim": "What is Jesus' final meal with his disciples before his arrest called? Answer: The Last Supper. In the Gospel narrative it takes place in Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_jordan",
+    "status": "approved",
+    "sha256": "03f275f3128805cfea35195a9caf9fcccc93f9a1863e97a1c87ed7c72ecd3e4f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Baptism",
+        "claim": "In which river was Jesus baptised according to the Gospels? Answer: Jordan. John the Baptist performs the baptism in this episode."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_parables",
+    "status": "approved",
+    "sha256": "34c29fe7bb1b9f65666b31ae0cc8c47a4a378c6fd122c8c61e3841e307527582",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Teachings delivered in parables",
+        "claim": "What are the short instructive stories Jesus often used in his teaching called? Answer: Parables. Such stories explain ideas through familiar images and situations."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_gethsemane",
+    "status": "approved",
+    "sha256": "8697dfed7b03933e14d0edaeb09dd8f71b3a759dd1c168a308b4e14832436d3a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Agony in the Garden",
+        "claim": "What is the garden where Jesus prayed before his arrest called? Answer: Gethsemane. This episode belongs to the Passion narrative."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_jerusalem",
+    "status": "approved",
+    "sha256": "3c7834f2a0aa75b44e9db25f7927e6f63590bc465598bbe3705a98ac7d35138c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Entry into Jerusalem",
+        "claim": "Which city does Jesus enter before the events of Holy Week? Answer: Jerusalem. The Gospels connect the entry with a Passover pilgrimage."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_ascension",
+    "status": "approved",
+    "sha256": "fc247a204c6661160c2dae50e46476f39526907685af48abf7a8c0349eaf13c8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Ascension",
+        "claim": "What is Jesus' rising to heaven called in Christian tradition? Answer: Ascension. In the church narrative this event follows the Resurrection."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_pentecost",
+    "status": "approved",
+    "sha256": "c42b24c632c724626216fddf13764ef7d06cab468612ec81e1857ed85301bae6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Final paragraph on Shavuot and Holy Spirit",
+        "claim": "Which event is associated with Christian Pentecost? Answer: The Holy Spirit descending on the disciples. The event is recounted in the Acts of the Apostles."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_christ_title",
+    "status": "approved",
+    "sha256": "40196be0ac3a25acce978677bf0ea0b6e40a0e8cd56c6c3ea191b3d9de704f3b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Meaning of Christ",
+        "claim": "What does the Greek word Christos mean? Answer: Anointed one. It is a title corresponding to the Hebrew word Messiah."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_transfiguration",
+    "status": "approved",
+    "sha256": "74b3e86ac6d3e4c96a14cd016afb5b50f0db2e215ff55b34bb84eac2c732665b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Transfiguration",
+        "claim": "With whom does Jesus speak in the Gospel account of the Transfiguration? Answer: Moses and Elijah. Peter, James and John witness the scene."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_emmaus",
+    "status": "approved",
+    "sha256": "83fb083e50eddec83361448b67baed668512ce14b76c885f4d5c5e21d1f910f0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Journey to Emmaus",
+        "claim": "Which event is associated with the Road to Emmaus scene? Answer: The risen Jesus appearing to disciples. This scene belongs to accounts of events after the Resurrection."
+      }
+    ]
+  },
+  {
+    "id": "christianity_nov08_visitation",
+    "status": "approved",
+    "sha256": "84b6527b3e093dcda11882701d1fcc615bbfe9727025bfefcf76cc114c7b61de",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth",
+        "location": "Visitation",
+        "claim": "Which relative does Mary visit after the Annunciation in the Gospel narrative? Answer: Elizabeth. Elizabeth is expecting the birth of John the Baptist in this narrative."
+      }
+    ]
+  }
+]

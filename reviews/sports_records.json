@@ -1,0 +1,182 @@
+[
+  {
+    "id": "sports_records_nov08_comaneci",
+    "status": "approved",
+    "sha256": "89378da5235f6d803864077347feffe8964945337b4140e9276c6d46dd57dc16",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/montreal-celebrates-30th-anniversary-of-1976-olympic-games",
+        "location": "Nadia Comaneci star of the Games",
+        "claim": "Who earned the first Olympic perfect 10.0 in artistic gymnastics at Montreal 1976? Answer: Nadia Comaneci. Her first perfect score came on the uneven bars."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_bolt",
+    "status": "approved",
+    "sha256": "2afa4f13bb717048160a86d263b2a51e60a971d296de7101bb0f08db4efde060",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://worldathletics.org/competition/calendar-results/results/6998524?eventId=10229630",
+        "location": "Men 100 Metres final table",
+        "claim": "What time did Usain Bolt run in the 100m final at the 2009 World Championships in Berlin? Answer: 9.58 s. Tyson Gay finished second in 9.71 seconds."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_bikila",
+    "status": "approved",
+    "sha256": "2f17859a72202195ae90c31cdbfc9e37cf0add677657a16dd58d4296b8bf50d3",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/sporting-highlights-x2424",
+        "location": "Abebe Bikila paragraph",
+        "claim": "Who won the Rome 1960 Olympic marathon barefoot? Answer: Abebe Bikila. He defended his Olympic title in Tokyo in 1964."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_zatopek",
+    "status": "approved",
+    "sha256": "4e20748258a88cd48a9538daff757b3196e402a6f151d5fb90e1f877bd36f4f3",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/from-major-sports-events-to-rock-concerts-the-legacy-of-helsinki-1952-lives-on",
+        "location": "Opening sporting highlights",
+        "claim": "Who won the 5000m, 10,000m and marathon at Helsinki 1952? Answer: Emil Zatopek. The marathon was his debut at that distance."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_powell",
+    "status": "approved",
+    "sha256": "f383cdf54b9d9ff7d00186bcda658f997a3475bc22d7418711c17f083aa94fc9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics",
+        "location": "Long Jump",
+        "claim": "How far did Mike Powell jump at the 1991 World Championships in Tokyo? Answer: 8.95 m. He surpassed Bob Beamon's 1968 mark of 8.90 metres."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_edwards",
+    "status": "approved",
+    "sha256": "324c6d0cd836fd671ab16daccd85f1ce1d2845d52ee1d17d9f98688b7464a971",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics",
+        "location": "Triple Jump",
+        "claim": "In which event did Jonathan Edwards achieve 18.29 metres at the 1995 World Championships? Answer: Triple jump. The championships took place in Gothenburg, Sweden."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_rudolph",
+    "status": "approved",
+    "sha256": "3b07bfdcf509cd5ea89ce143c9fa1362445122fad4b148bf93b5e83c24c9a52b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/sporting-highlights-x2424",
+        "location": "Wilma Rudolph paragraph",
+        "claim": "Who won the women's 100m, 200m and 4 × 100m relay at Rome 1960? Answer: Wilma Rudolph. She became the first US woman to win three golds at one Olympics."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_ali",
+    "status": "approved",
+    "sha256": "ffb37c4d6bbc16e26557f1554eb90f127105975324eb5f4dd2c45db4f4f8bdde",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/sporting-highlights-x2424",
+        "location": "Cassius Clay paragraph",
+        "claim": "Under which name did the future Muhammad Ali win Olympic boxing gold in 1960? Answer: Cassius Clay. He competed in the light-heavyweight division."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_sotomayor",
+    "status": "approved",
+    "sha256": "b96a7708ff1012e3fecf3cb311a608512e7bd85787d97691033ac6daba06738f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-oregon-2022-7137279/news/feature/track-and-field-basics",
+        "location": "High Jump historical mark 1993",
+        "claim": "Who achieved a 2.45m high jump in 1993? Answer: Javier Sotomayor. Sotomayor represented Cuba."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_nov08_jackson",
+    "status": "approved",
+    "sha256": "febbfa9b3180b7a91a676b4af2a7cdc6d91c09a2b538f015c99dc72c600f3580",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/from-major-sports-events-to-rock-concerts-the-legacy-of-helsinki-1952-lives-on",
+        "location": "Marjorie Jackson paragraph",
+        "claim": "Which Australian sprinter won the 100m and 200m at the 1952 Games? Answer: Marjorie Jackson. The Helsinki Games were a major milestone in her athletics career."
+      }
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "music_nov08_tempo",
+    "status": "approved",
+    "sha256": "0e65803dc7237fd727852a0a8fdfe46f31eb68f848d222ad1f39909023f6c058",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Tempo and Dynamics",
+        "claim": "Which musical term describes the speed of a performance? Answer: Tempo. Tempo can change independently of musical volume."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_forte",
+    "status": "approved",
+    "sha256": "203bd43e01c0ebcabea901f80e6f3dc8c0aefc2a875cc5c072d9298bbf45d09f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Dynamics",
+        "claim": "What does forte indicate in music? Answer: Loud. It is a dynamic marking rather than a speed instruction."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_piano",
+    "status": "approved",
+    "sha256": "d626a8aa2cd75124ea1f7cc629351d1eb31459d8667cd1bb3eecc2aa7bb17b3f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Dynamics",
+        "claim": "What does piano mean as a dynamic marking? Answer: Soft. The dynamic marking should be distinguished from the name of the instrument."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_conductor",
+    "status": "approved",
+    "sha256": "997f107c3b8595e2a6e8b486d0ba8d213643dc18dbce68f45f611a1a9b0a53ee",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Orchestra",
+        "claim": "Who usually directs a symphony orchestra's performance? Answer: Conductor. An orchestra brings together several instrument families."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_strings",
+    "status": "approved",
+    "sha256": "4b5e47840cda8aefcf0110279924b7639716c662c124e4cf0012da428f215f55",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/violin/",
+        "location": "Opening description",
+        "claim": "To which orchestral instrument family does the violin belong? Answer: Strings. The violin occupies the highest register of the standard string section."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_oboe",
+    "status": "approved",
+    "sha256": "e51af3ac77c6730f96461f117c53fe98f37ec0ed0d5a672a58e3782b3fcb392b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+        "location": "Instrument description",
+        "claim": "To which orchestral family does the oboe belong? Answer: Woodwind. Its register is slightly lower than the flute's."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_rehearsal",
+    "status": "approved",
+    "sha256": "b54aec35f791795125594bd6998095293abf95329fde7aeeb0dfa0f5b01eae31",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Rehearsal",
+        "claim": "What is a musicians' joint practice session before a performance called? Answer: Rehearsal. During rehearsal an ensemble prepares a coordinated performance."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_score",
+    "status": "approved",
+    "sha256": "d427231c7998e68b0e1d78f41823c5a7e6ce2f33bd84005ace2bb9154742545c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Score",
+        "claim": "What is the written musical document showing performers' parts called? Answer: Score. The document indicates what should be played and when."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_staccato",
+    "status": "approved",
+    "sha256": "4fb7183e07ed6680ddbbcce7564cff7cbda5c5f4777850b1d7004deae1ec5c20",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Articulation",
+        "claim": "Which marking calls for detached notes? Answer: Staccato. This concerns articulation, how sounds are connected or separated."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_legato",
+    "status": "approved",
+    "sha256": "0601a1beb3ea0951ed45298e2b172970aeb4826b21afcc78fcc071545dbdaa3c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Articulation",
+        "claim": "Which marking calls for smoothly connected notes? Answer: Legato. Connected playing does not by itself determine volume."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_presto",
+    "status": "approved",
+    "sha256": "12b9746caa33e481ac0f5e158d9cc4775e7c8ca10af78476166152c494b5dda4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Presto and largo",
+        "claim": "Which of these markings denotes a fast tempo? Answer: Presto. Tempo and articulation describe different aspects of performance."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_largo",
+    "status": "approved",
+    "sha256": "51e60c2b74f0e7befd49b03d698a2477170b035abd3e64053f5f95bbc7ef13d6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/Education/Programs/Music-Educators-Toolbox/1-Exploring-Expressive-Qualities",
+        "location": "Presto and largo",
+        "claim": "Which of these markings indicates a slow tempo? Answer: Largo. A slow performance can have different dynamic levels."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_unison",
+    "status": "approved",
+    "sha256": "d1210458b8d8688fff5cb4ca95905dfb36baefc8c2570e9f6a92feb58e87d8e9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Unison",
+        "claim": "What is it called when several musicians perform the same musical line together? Answer: Unison. In this kind of performance, the voices do not split into independent melodic lines."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_ostinato",
+    "status": "approved",
+    "sha256": "d3bdf7e0a8aa684f1997408363a81c6585c23389e6d46c17553232074d495f39",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Ostinato",
+        "claim": "What is a short musical pattern repeated many times called? Answer: Ostinato. A repeating pattern can form a foundation for other parts."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_refrain",
+    "status": "approved",
+    "sha256": "8b5f1d4104974aef2d2b41799349fc5e762824ce11094912bef677cd64a32049",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Refrain and Verse",
+        "claim": "What is a repeating song section, often called the chorus, known as? Answer: Refrain. Verses may appear between repetitions of the chorus."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_improvisation",
+    "status": "approved",
+    "sha256": "3e292cb3f87f5611a4e2e2abe569e6ec1887db1b031fe5ceffeb777733f1b1bd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "PDF printed page 88: Improvisation",
+        "claim": "What is creating and performing music without a previously written part called? Answer: Improvisation. Musical ideas can emerge during the performance itself."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_pulse",
+    "status": "approved",
+    "sha256": "5925c2a5da466b5231a80308d0f53ec80fa34d5891083c02d0d53ee228d10336",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Pulse and Rhythm",
+        "claim": "What is the steady repeating foundation of musical movement called? Answer: Pulse. A rhythmic pattern can differ from the steady underlying pulse."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_sousaphone",
+    "status": "approved",
+    "sha256": "0a8572b55911dbcfee6d9daf76c2797d64b879a245301d192df98942633c5f78",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "PDF printed page 87: John Philip Sousa",
+        "claim": "After which composer is the sousaphone named? Answer: John Philip Sousa. Sousa wrote Stars and Stripes Forever in 1897."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_synchronization",
+    "status": "approved",
+    "sha256": "83e5dfe3e9f41c5eeaeb653d9ee1c336e0b1eee8f3ab54724c0274aba20c4b5e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "Synchronization",
+        "claim": "What is coordinated timing of the start or ending of musical parts called? Answer: Synchronization. Coordinated timing matters even when the parts differ."
+      }
+    ]
+  },
+  {
+    "id": "music_nov08_shostakovich",
+    "status": "approved",
+    "sha256": "7e0e1f51b39fb81e1b150f9417c6c6c54f7928c69d88801e7c2d0672ff720b45",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf",
+        "location": "PDF printed page 87: Dmitri Shostakovich",
+        "claim": "Whose story inspired Shostakovich's opera The Nose? Answer: Nikolai Gogol. As well as operas, Shostakovich wrote fifteen symphonies."
+      }
+    ]
+  }
+]

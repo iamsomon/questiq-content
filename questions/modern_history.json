@@ -1,0 +1,882 @@
+[
+  {
+    "id": "modern_history_nov08_peace_525_1965",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «ЮНИСЕФ» получила Нобелевскую премию мира 1965 года?",
+        "explanation": "Начало работы этой организации относится к 1946 году."
+      },
+      "en": {
+        "question": "For which work was United Nations Children's Fund awarded the 1965 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1946."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Содействие солидарности стран и уменьшению неравенства",
+        "en": "Promoting international solidarity and reducing inequalities"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o2",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=525"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_994_2020",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Всемирная продовольственная программа» получила Нобелевскую премию мира 2020 года?",
+        "explanation": "Начало работы этой организации относится к 1961 году."
+      },
+      "en": {
+        "question": "For which work was World Food Programme awarded the 2020 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1961."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Борьба с голодом",
+        "en": "Combating hunger"
+      },
+      {
+        "id": "o1",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o2",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o3",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=994"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_568_1999",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Врачи без границ» получила Нобелевскую премию мира 1999 года?",
+        "explanation": "Начало работы этой организации относится к 1971 году."
+      },
+      "en": {
+        "question": "For which work was Doctors Without Borders awarded the 1999 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1971."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гуманитарная помощь на разных континентах",
+        "en": "Humanitarian work on several continents"
+      },
+      {
+        "id": "o1",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=568"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_537_1977",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международная амнистия» получила Нобелевскую премию мира 1977 года?",
+        "explanation": "Начало работы этой организации относится к 1961 году."
+      },
+      "en": {
+        "question": "For which work was Amnesty International awarded the 1977 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1961."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уважение прав человека во всём мире",
+        "en": "Worldwide respect for human rights"
+      },
+      {
+        "id": "o1",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o2",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o3",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=537"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_482_1917",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международный комитет Красного Креста» получила Нобелевскую премию мира 1917 года?",
+        "explanation": "Комитет также получил Нобелевскую премию мира в 1944 и 1963 годах."
+      },
+      "en": {
+        "question": "For which work was International Committee of the Red Cross awarded the 1917 Nobel Peace Prize?",
+        "explanation": "The committee also received the Nobel Peace Prize in 1944 and 1963."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Помощь раненым и военнопленным",
+        "en": "Care for wounded soldiers and prisoners of war"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o3",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=482"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_515_1954",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Управление Верховного комиссара ООН по делам беженцев» получила Нобелевскую премию мира 1954 года?",
+        "explanation": "Начало работы этой организации относится к 1950 году."
+      },
+      "en": {
+        "question": "For which work was Office of the United Nations High Commissioner for Refugees awarded the 1954 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1950."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Защита и помощь беженцам",
+        "en": "Protection and assistance for refugees"
+      },
+      {
+        "id": "o1",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o2",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o3",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=515"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_748_2001",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Организация Объединённых Наций» получила Нобелевскую премию мира 2001 года?",
+        "explanation": "Начало работы этой организации относится к 1945 году."
+      },
+      "en": {
+        "question": "For which work was United Nations awarded the 2001 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1945."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Содействие более мирному и организованному миру",
+        "en": "Promoting a more organised and peaceful world"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o2",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=748"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_881_2012",
+    "categoryId": "modern_history",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Европейский союз» получила Нобелевскую премию мира 2012 года?",
+        "explanation": "Награда отметила более шести десятилетий европейского сотрудничества."
+      },
+      "en": {
+        "question": "For which work was European Union awarded the 2012 Nobel Peace Prize?",
+        "explanation": "The award recognised more than six decades of European cooperation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мир, примирение, демократия и права человека в Европе",
+        "en": "Peace, reconciliation, democracy and human rights in Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o2",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o3",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=881"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_527_1969",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международная организация труда» получила Нобелевскую премию мира 1969 года?",
+        "explanation": "Начало работы этой организации относится к 1919 году."
+      },
+      "en": {
+        "question": "For which work was International Labour Organization awarded the 1969 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1919."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Международные нормы условий труда",
+        "en": "International standards for working conditions"
+      },
+      {
+        "id": "o1",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=527"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_893_2013",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Организация по запрещению химического оружия» получила Нобелевскую премию мира 2013 года?",
+        "explanation": "Начало работы этой организации относится к 1997 году."
+      },
+      "en": {
+        "question": "For which work was Organisation for the Prohibition of Chemical Weapons awarded the 2013 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Усилия по уничтожению химического оружия",
+        "en": "Efforts to eliminate chemical weapons"
+      },
+      {
+        "id": "o1",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o2",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o3",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=893"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_564_1997",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международная кампания по запрещению наземных мин» получила Нобелевскую премию мира 1997 года?",
+        "explanation": "Начало работы этой организации относится к 1992 году."
+      },
+      "en": {
+        "question": "For which work was International Campaign to Ban Landmines awarded the 1997 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1992."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Запрет и обезвреживание противопехотных мин",
+        "en": "Banning and clearing anti-personnel mines"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o3",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=564"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_797_2005",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международное агентство по атомной энергии» получила Нобелевскую премию мира 2005 года?",
+        "explanation": "Начало работы этой организации относится к 1957 году."
+      },
+      "en": {
+        "question": "For which work was International Atomic Energy Agency awarded the 2005 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1957."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мирное и безопасное использование ядерной энергии",
+        "en": "Peaceful and safe use of nuclear energy"
+      },
+      {
+        "id": "o1",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o2",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o3",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=797"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_818_2007",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Межправительственная группа экспертов по изменению климата» получила Нобелевскую премию мира 2007 года?",
+        "explanation": "Начало работы этой организации относится к 1988 году."
+      },
+      "en": {
+        "question": "For which work was Intergovernmental Panel on Climate Change awarded the 2007 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1988."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Распространение знаний об изменении климата из-за деятельности человека",
+        "en": "Spreading knowledge of human-caused climate change"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o2",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=818"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_948_2017",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международная кампания за ликвидацию ядерного оружия» получила Нобелевскую премию мира 2017 года?",
+        "explanation": "Начало работы этой организации относится к 2007 году."
+      },
+      "en": {
+        "question": "For which work was International Campaign to Abolish Nuclear Weapons awarded the 2017 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 2007."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Договорный запрет ядерного оружия",
+        "en": "A treaty-based prohibition of nuclear weapons"
+      },
+      {
+        "id": "o1",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o2",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o3",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=948"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_547_1985",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Врачи мира за предотвращение ядерной войны» получила Нобелевскую премию мира 1985 года?",
+        "explanation": "Начало работы этой организации относится к 1980 году."
+      },
+      "en": {
+        "question": "For which work was International Physicians for the Prevention of Nuclear War awarded the 1985 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1980."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Информирование о катастрофических последствиях ядерной войны",
+        "en": "Informing people about catastrophic consequences of nuclear war"
+      },
+      {
+        "id": "o1",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=547"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_561_1995",
+    "categoryId": "modern_history",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Пагуошское движение учёных» получила Нобелевскую премию мира 1995 года?",
+        "explanation": "Начало работы этой организации относится к 1957 году."
+      },
+      "en": {
+        "question": "For which work was Pugwash Conferences on Science and World Affairs awarded the 1995 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1957."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сокращение роли ядерного оружия",
+        "en": "Reducing the role of nuclear weapons"
+      },
+      {
+        "id": "o1",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o2",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o3",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=561"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_467_1904",
+    "categoryId": "modern_history",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Институт международного права» получила Нобелевскую премию мира 1904 года?",
+        "explanation": "Начало работы этой организации относится к 1873 году."
+      },
+      "en": {
+        "question": "For which work was Institute of International Law awarded the 1904 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1873."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Развитие мирных отношений через международное право",
+        "en": "Developing peaceful relations through international law"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      },
+      {
+        "id": "o2",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o3",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=467"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_477_1910",
+    "categoryId": "modern_history",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Международное бюро мира» получила Нобелевскую премию мира 1910 года?",
+        "explanation": "Начало работы этой организации относится к 1891 году."
+      },
+      "en": {
+        "question": "For which work was Permanent International Peace Bureau awarded the 1910 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1891."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сотрудничество национальных обществ мира",
+        "en": "Cooperation among national peace societies"
+      },
+      {
+        "id": "o1",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      },
+      {
+        "id": "o2",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o3",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=477"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_503_1938",
+    "categoryId": "modern_history",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Нансеновская организация по делам беженцев» получила Нобелевскую премию мира 1938 года?",
+        "explanation": "Организация продолжала помощь беженцам, начатую Фритьофом Нансеном."
+      },
+      "en": {
+        "question": "For which work was Nansen International Office for Refugees awarded the 1938 Nobel Peace Prize?",
+        "explanation": "The organisation continued refugee assistance begun by Fridtjof Nansen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Продолжение помощи беженцам Европы",
+        "en": "Continuing aid to refugees in Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана объектов архитектуры",
+        "en": "Protecting architectural monuments"
+      },
+      {
+        "id": "o2",
+        "ru": "Развитие спортивных соревнований",
+        "en": "Developing sports competitions"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана морских млекопитающих",
+        "en": "Protecting marine mammals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=503"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_nov08_peace_550_1988",
+    "categoryId": "modern_history",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какую работу организация «Миротворческие силы ООН» получила Нобелевскую премию мира 1988 года?",
+        "explanation": "Начало работы этой организации относится к 1948 году."
+      },
+      "en": {
+        "question": "For which work was United Nations Peacekeeping Forces awarded the 1988 Nobel Peace Prize?",
+        "explanation": "This organisation began its work in 1948."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Предотвращение вооружённых столкновений и создание условий для переговоров",
+        "en": "Preventing armed clashes and creating conditions for negotiations"
+      },
+      {
+        "id": "o1",
+        "ru": "Исследование планет Солнечной системы",
+        "en": "Exploring Solar System planets"
+      },
+      {
+        "id": "o2",
+        "ru": "Создание новых сортов растений",
+        "en": "Developing new crop varieties"
+      },
+      {
+        "id": "o3",
+        "ru": "Сохранение исчезающих языков",
+        "en": "Preserving endangered languages"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.nobelprize.org/v1/laureate.json?id=550"
+    ],
+    "image": null
+  }
+]

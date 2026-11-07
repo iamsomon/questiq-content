@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "reason": "Preserve immutable files for clients already holding the previous production manifest during rollout. Not active entries in the new manifest.",
+  "baselineCommit": "7814bd346e79661d90855a7c7b97f913e1a110e7",
+  "packs": [
+    {
+      "file": "ancient_world-6675aa8ef925c541.json",
+      "sha256": "6675aa8ef925c541e8f8f64bc12927ce245cb8505a9bd7d566fbdc413234e23b",
+      "size": 10429
+    },
+    {
+      "file": "animals-bedde73536ad907d.json",
+      "sha256": "bedde73536ad907d0f72510c53df2a8df0315c5920648218e2aabb7f5a9d8521",
+      "size": 8724
+    },
+    {
+      "file": "architecture-2dabb5d4e088b733.json",
+      "sha256": "2dabb5d4e088b733cab9988455040b40bc0f9299195d83a6bc9234564a9e19c6",
+      "size": 108112
+    },
+    {
+      "file": "artificial_intelligence-475e354a10042436.json",
+      "sha256": "475e354a100424366c9535b5c6f3b25412b39803ed37681f64847772a3d0a782",
+      "size": 10991
+    },
+    {
+      "file": "astronomy-94eb0ab7c72b4989.json",
+      "sha256": "94eb0ab7c72b49893154163c0c2691ed168f8a075a6f3f198345b5eed7d81165",
+      "size": 69973
+    },
+    {
+      "file": "basketball-feecc1cf31c08b35.json",
+      "sha256": "feecc1cf31c08b35973e7d34a1dfa13687ee2859173eda920cdb5b4948aa3497",
+      "size": 9247
+    },
+    {
+      "file": "biology-45be24200e36246c.json",
+      "sha256": "45be24200e36246c21dea486181ee91ad6fc60e8ad46184725327f12ad421133",
+      "size": 9097
+    },
+    {
+      "file": "capitals-f5c3408712cd8b1e.json",
+      "sha256": "f5c3408712cd8b1e78287c9079954cdc619fc09083b0be4a040eab98739b2b89",
+      "size": 8094
+    },
+    {
+      "file": "cartoons-b1074b537755a832.json",
+      "sha256": "b1074b537755a832465bd874bf2a26a31314d23d98d221907170deca3f30969c",
+      "size": 8102
+    },
+    {
+      "file": "chemistry-be6cb7bf89d32793.json",
+      "sha256": "be6cb7bf89d32793d8c23c12ae3acac3175d4e81eece1a99277085a3862d51d6",
+      "size": 49302
+    },
+    {
+      "file": "cities-63c29149f0b886a4.json",
+      "sha256": "63c29149f0b886a4f62575f542c660a401bf760e4161951e8f929c46df4d9a58",
+      "size": 105661
+    },
+    {
+      "file": "civilizations-fc86fb67bb263e8d.json",
+      "sha256": "fc86fb67bb263e8d447716b8b0e65feace83a50013143d7337c63148d03ba637",
+      "size": 19832
+    },
+    {
+      "file": "countries-9e7ec159d7813516.json",
+      "sha256": "9e7ec159d7813516e456c105975b9f667ff62a6a908fcffb1774e99d7b7e393c",
+      "size": 28476
+    },
+    {
+      "file": "dinosaurs-6c6f22eab68c8065.json",
+      "sha256": "6c6f22eab68c8065ff8da6e3030b1f39cf211fb3a9536a0df68fcd70656e4c62",
+      "size": 8957
+    },
+    {
+      "file": "ecology-6e6f537583e2879e.json",
+      "sha256": "6e6f537583e2879e8f1a367a05fe8869e8f41d786842b6230f3b6e3d721830e8",
+      "size": 9051
+    },
+    {
+      "file": "economics-1f2cc92ddd3eee23.json",
+      "sha256": "1f2cc92ddd3eee23769f6ec7e4a801b38f24714617e293da0c25b3cf4f670b0b",
+      "size": 43097
+    },
+    {
+      "file": "flags-8210a7b5e6d5de9d.json",
+      "sha256": "8210a7b5e6d5de9d7b3a4e7750f60894d83f1087e6af4a1ccb107d7a5e70df2e",
+      "size": 9108
+    },
+    {
+      "file": "football-06b9fabdbf524d2b.json",
+      "sha256": "06b9fabdbf524d2b181399abef6e5d7f1b0e232056159ea3dec7061adb13be26",
+      "size": 9144
+    },
+    {
+      "file": "human_body-d7311fcf563a75b8.json",
+      "sha256": "d7311fcf563a75b8677bea58b407cf142208bad6e2203b0ceed5381c2d025129",
+      "size": 11067
+    },
+    {
+      "file": "information_technology-c81fa53c7a48bd37.json",
+      "sha256": "c81fa53c7a48bd3731c2fb9aab7ff0bbbf65ad25d61730bb7c9b7caea2dd4be8",
+      "size": 59439
+    },
+    {
+      "file": "internet-b88ba58f5029399b.json",
+      "sha256": "b88ba58f5029399b52360051aa47e33ffe9215b5c4a6b031a565f81810c4327a",
+      "size": 10546
+    },
+    {
+      "file": "literature-da09c0348429c68f.json",
+      "sha256": "da09c0348429c68f441669d67954bae8d99fc958c0d55beaadc056fdb30fbf91",
+      "size": 80630
+    },
+    {
+      "file": "mathematics-23b489c5a060d536.json",
+      "sha256": "23b489c5a060d53698e334a875772dff028ed99051bf99dbefcd130237d96366",
+      "size": 7798
+    },
+    {
+      "file": "mythology-5e580dfff45591d9.json",
+      "sha256": "5e580dfff45591d97bfa77aaa65414a04f4e8fc8c24ea33f04610bb98b7722ab",
+      "size": 9018
+    },
+    {
+      "file": "natural_wonders-2fc2e69d66c88af7.json",
+      "sha256": "2fc2e69d66c88af7946d107f4807d57d559e86ecb51b650ac1a28379255ce02f",
+      "size": 107818
+    },
+    {
+      "file": "oceans-40ff329b7d2fc2f5.json",
+      "sha256": "40ff329b7d2fc2f55e065cbdd3106bc921a6211cc2837aaaf23c54dab9bb7a5e",
+      "size": 10067
+    },
+    {
+      "file": "painting-922d7c928137f6b6.json",
+      "sha256": "922d7c928137f6b6c5415ce529d58bd112120b4f333a7b0718a153f0635814a4",
+      "size": 67121
+    },
+    {
+      "file": "physics-a8be3f02c0747ca3.json",
+      "sha256": "a8be3f02c0747ca391ddf9b92aabd061848d777e655993ec4934556bb2407fc1",
+      "size": 8756
+    },
+    {
+      "file": "plants-1b6c7fc9783fbca0.json",
+      "sha256": "1b6c7fc9783fbca04ca44bb5eacfbe0d46857f5426f4e97c5f2a5d51fd089f8e",
+      "size": 12624
+    },
+    {
+      "file": "space_technology-751f1838d3043abd.json",
+      "sha256": "751f1838d3043abd7a523a5a357aecb92b977292d8cf975e8a45ecae41e8ac9d",
+      "size": 9742
+    },
+    {
+      "file": "tennis-f3e4b1a3ae6f1745.json",
+      "sha256": "f3e4b1a3ae6f17455db3b30020b97101a80467cb9f5b80d367b2eb285461117b",
+      "size": 9816
+    },
+    {
+      "file": "video_games-ac4ebd10aa6ba19d.json",
+      "sha256": "ac4ebd10aa6ba19dcc7ffdbb16f843056c4453982993a173c9aa92a4eb44b3b7",
+      "size": 8804
+    }
+  ]
+}

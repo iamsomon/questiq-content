@@ -1,0 +1,182 @@
+[
+  {
+    "id": "television_nov08_tardis_shape",
+    "status": "approved",
+    "sha256": "76fea0c155025fdbdf63a8729ade0d83fb38f83326681cbbcaac7f0fbdcb13ac",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.doctorwho.tv/characters/the-tardis",
+        "location": "Description: chameleon circuit",
+        "claim": "What does the TARDIS usually look like from outside in Doctor Who? Answer: A blue police box. The ship's disguise system became stuck in this form."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_wednesday_school",
+    "status": "approved",
+    "sha256": "1bcee985417b1963e29b381059b511b6e04f2088bcf4267d5a5388c452ca0a54",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.netflix.com/tudum/videos/wednesday-welcomes-you-to-nevermore-academy",
+        "location": "Video introduction",
+        "claim": "Which academy does Wednesday Addams attend in the Netflix series? Answer: Nevermore. Wednesday's school life becomes entangled with a mystery investigation."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_simpsons_town",
+    "status": "approved",
+    "sha256": "23f3663ab147ebdfaa4fd9f70e2f787c4e2061cc05484b44a4ee17e888199182",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide",
+        "location": "What is The Simpsons about?",
+        "claim": "In which fictional town does the Simpson family live? Answer: Springfield. Homer works at the local nuclear power plant."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_sesame_cookies",
+    "status": "approved",
+    "sha256": "5a9d96d18a0da0f01147acac8d88dca7eba64c753ef6bc3901e2a19d08c48511",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/",
+        "location": "Cookie Monster character card",
+        "claim": "Which Sesame Street character is particularly fond of cookies? Answer: Cookie Monster. The character's search for food particularly centres on cookies."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_tardis_builders",
+    "status": "approved",
+    "sha256": "c56ec4dabac6a27f3a4cc7af347b2403b0c6604df2c18f92d5f2bea1dfc1a9e4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.doctorwho.tv/characters/the-tardis",
+        "location": "Type 40 capsule",
+        "claim": "Who created the TARDIS in the Doctor Who universe? Answer: Time Lords. The Doctor's ship is a Type 40 capsule."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_sesame_count",
+    "status": "approved",
+    "sha256": "15f8d26ed6e71eb5583c71cba8a77cdb30da7b3cf005a660a52fb5883967184f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/",
+        "location": "Count Von Count character card",
+        "claim": "Which activity does Sesame Street's Count von Count especially enjoy? Answer: Counting things. His favourite activity helps introduce viewers to numbers."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_sesame_friends",
+    "status": "approved",
+    "sha256": "05473611b9113c89378dda1e3d3f4e12a393fc5a562139108284578df55b609e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://sesameworkshop.org/our-work/shows/sesame-street/sesame-street-characters/",
+        "location": "Bert and Ernie character cards",
+        "claim": "Who is named as Ernie's best friend in the official Sesame Street description? Answer: Bert. Ernie frequently plays practical jokes on his friend."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_simpsons_creator",
+    "status": "approved",
+    "sha256": "83a535cbd3d34893c3112e3c9cec3dd66194f6f29a518497a99c8aac1f858aaf",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide",
+        "location": "Who created The Simpsons?",
+        "claim": "Who created The Simpsons? Answer: Matt Groening. James L. Brooks and Sam Simon also helped develop the half-hour series."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_tardis_acronym",
+    "status": "approved",
+    "sha256": "9d7fa59e5394999de06bd6cd660bde316581bd547d8333e22ec0cfe8ae90e10b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.doctorwho.tv/characters/the-tardis",
+        "location": "Acronym and Susan",
+        "claim": "Which English words expand the name TARDIS? Answer: Time and Relative Dimension in Space. The acronym was coined by Susan, the Doctor's granddaughter."
+      }
+    ]
+  },
+  {
+    "id": "television_nov08_simpsons_shorts",
+    "status": "approved",
+    "sha256": "3136307846592b4f7ad47ca82ac4fb228eb514102efcd7f782725e8ed72c09d9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide",
+        "location": "Fun Fact 1",
+        "claim": "In which TV show did The Simpsons first appear as shorts in 1987? Answer: The Tracey Ullman Show. The standalone series premiered in 1989."
+      }
+    ]
+  }
+]

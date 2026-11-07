@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cinema_nov08_1998",
+    "status": "approved",
+    "sha256": "b3161b7ad2d384878766a00a52bad5307f1a53de8decff138fec384fc4049ec1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1998",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1998 Academy Awards? Answer: Titanic. The same ceremony's Directing award went to James Cameron for Titanic."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2004",
+    "status": "approved",
+    "sha256": "1871c4d8dd993b53d26b8b3729b1cd7335e2a4488919bdf25ae177408663c770",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2004",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 2004 Academy Awards? Answer: The Lord of the Rings: The Return of the King. The same ceremony's Directing award went to Peter Jackson for The Lord of the Rings: The Return of the King."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1995",
+    "status": "approved",
+    "sha256": "5ee020523e51e217f304f90c84d9c82ca070b31067bd49fe5a85a8b43f93c32e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1995",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1995 Academy Awards? Answer: Forrest Gump. The same ceremony's Directing award went to Robert Zemeckis for Forrest Gump."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2001",
+    "status": "approved",
+    "sha256": "2f8a1eb861b7640aafc89d2fab0276e8dc29cb5410050fcb9a08003647eef8ff",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2001",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 2001 Academy Awards? Answer: Gladiator. The same ceremony's Directing award went to Steven Soderbergh for Traffic."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1994",
+    "status": "approved",
+    "sha256": "3c5034d0d5c652cf72a015d74558941f6eec596dc276ac340881b86ee40bb04b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1994",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1994 Academy Awards? Answer: Schindler's List. The same ceremony's Directing award went to Steven Spielberg for Schindler's List."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1973",
+    "status": "approved",
+    "sha256": "8ab086b0a2b9746e218fdbaba816b8c6252ce80a9e87c3f305241962c96f6762",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1973",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1973 Academy Awards? Answer: The Godfather. The same ceremony's Directing award went to Bob Fosse for Cabaret."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1944",
+    "status": "approved",
+    "sha256": "435f879881d9f2788957321e3e11c52a53d2279b319e9aabd1b4369ada6b3eb9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1944",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1944 Academy Awards? Answer: Casablanca. The same ceremony's Directing award went to Michael Curtiz for Casablanca."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1966",
+    "status": "approved",
+    "sha256": "96549074591d4c55f9badde0a1577aa60944177fff586dc3c13d20f6931d3662",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1966",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1966 Academy Awards? Answer: The Sound of Music. The same ceremony's Directing award went to Robert Wise for The Sound of Music."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1980",
+    "status": "approved",
+    "sha256": "44d14b902998fccd8a2f9daf8c856ca7c18f9eac0e56e8c5f4b652802a99ff66",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1980",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1980 Academy Awards? Answer: Kramer vs. Kramer. The same ceremony's Directing award went to Robert Benton for Kramer vs. Kramer."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1987",
+    "status": "approved",
+    "sha256": "96be8c8f67756776588d8b7f073fa7c9fca4f50f5aab5f0d81ca8291afb10fc0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1987",
+        "location": "Best Picture / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Which film won Best Picture at the 1987 Academy Awards? Answer: Platoon. The same ceremony's Directing award went to Oliver Stone for Platoon."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1992",
+    "status": "approved",
+    "sha256": "02f9bdf2878c96c8ef1d0e9b826ddbf62a6289916429b927c2ae7f547b12182d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1992",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for The Silence of the Lambs at the 1992 Academy Awards? Answer: Jonathan Demme. The ceremony's Best Picture winner was The Silence of the Lambs."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_1997",
+    "status": "approved",
+    "sha256": "3eee094856768c1b26fa760105d7ca7ae2228c4490f924a41a88db7d152b6d96",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1997",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for The English Patient at the 1997 Academy Awards? Answer: Anthony Minghella. The ceremony's Best Picture winner was The English Patient."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2009",
+    "status": "approved",
+    "sha256": "bb6c5316a15d92bfe72a632babac9d03107aedd951d7b4a73a9c4b0bea117ac7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2009",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for Slumdog Millionaire at the 2009 Academy Awards? Answer: Danny Boyle. The ceremony's Best Picture winner was Slumdog Millionaire."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2012",
+    "status": "approved",
+    "sha256": "48d39e30ac8228b6a9bce2dbcd119332d018d8ac71a4ecbabe50a484c4f4c640",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2012",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for The Artist at the 2012 Academy Awards? Answer: Michel Hazanavicius. The ceremony's Best Picture winner was The Artist."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2015",
+    "status": "approved",
+    "sha256": "bc59cdbc05fac5580dd973241b50d2d27adcdb80811c9ef1ddee34c1e3a477c7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2015",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for Birdman or (The Unexpected Virtue of Ignorance) at the 2015 Academy Awards? Answer: Alejandro G. Iñárritu. The ceremony's Best Picture winner was Birdman or (The Unexpected Virtue of Ignorance)."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2017",
+    "status": "approved",
+    "sha256": "9fbd2038d5a0af1c9b58293cffcf98656de40b6516b28a4901b4eb83e873f6ab",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2017",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for La La Land at the 2017 Academy Awards? Answer: Damien Chazelle. The ceremony's Best Picture winner was Moonlight."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2018",
+    "status": "approved",
+    "sha256": "ec499a29073877f129cd897a2f6f0e2c550b8b6ddf7ca8143223f5e4bf453fb7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2018",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for The Shape of Water at the 2018 Academy Awards? Answer: Guillermo del Toro. The ceremony's Best Picture winner was The Shape of Water."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2019",
+    "status": "approved",
+    "sha256": "5e561bed1611987c35ab69c55201b505afa71966b5b80541b9589750cb598bf8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2019",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for Roma at the 2019 Academy Awards? Answer: Alfonso Cuarón. The ceremony's Best Picture winner was Green Book."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2020",
+    "status": "approved",
+    "sha256": "ea39affb176b0b7a471652a9a1e3d5fbd4a68a7f91447e6a8eb4926af12de0a7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2020",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for Parasite at the 2020 Academy Awards? Answer: Bong Joon Ho. The ceremony's Best Picture winner was Parasite."
+      }
+    ]
+  },
+  {
+    "id": "cinema_nov08_2011",
+    "status": "approved",
+    "sha256": "fb116ea190f052bdde6a4d9a514be833adb380005d4fdf3aa15f23d4c8e7699c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/2011",
+        "location": "Directing / Winner and Nominees; Directing / Winner; Best Picture / Winner",
+        "claim": "Who won Directing for The King's Speech at the 2011 Academy Awards? Answer: Tom Hooper. The ceremony's Best Picture winner was The King's Speech."
+      }
+    ]
+  }
+]
