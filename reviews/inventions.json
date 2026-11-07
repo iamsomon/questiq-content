@@ -1,0 +1,362 @@
+[
+  {
+    "id": "inventions_nov08_marconi",
+    "status": "approved",
+    "sha256": "70300525c092c25a1e7d61a10999f8e21dd34dd353cdef8de7aff7f0fe31b1e4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=13",
+        "location": "laureate id=13; prizes year=1909, category=physics; motivation",
+        "claim": "Which technology is associated with Guglielmo Marconi’s 1909 Nobel Prize? Answer: Wireless telegraphy. Radio communication transmits messages without a wired connection."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_dalen",
+    "status": "approved",
+    "sha256": "18ae54f752f365852b7c4f373ada80e59abde1e31e4efe1ce34a020d210b6224",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=17",
+        "location": "laureate id=17; prizes year=1912, category=physics; motivation",
+        "claim": "Which technology is associated with Gustaf Dalén’s 1912 Nobel Prize? Answer: Automatic gas regulators for lighthouses. The development automated light signals for lighthouses and buoys."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_wilson",
+    "status": "approved",
+    "sha256": "28950ea56cde71cd7859be4a912ed86dc7d147d053f74ed5f915261ce2ef37a4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=34",
+        "location": "laureate id=34; prizes year=1927, category=physics; motivation",
+        "claim": "Which technology is associated with C.T.R. Wilson’s 1927 Nobel Prize? Answer: A chamber for observing particle tracks. In Wilson's method, condensation of vapour makes charged-particle tracks visible."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_lawrence",
+    "status": "approved",
+    "sha256": "e4aab3360f2d84f299d69ca10137b0f3d0688b47dfcba0f783cd6112cb6af1fb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=47",
+        "location": "laureate id=47; prizes year=1939, category=physics; motivation",
+        "claim": "Which technology is associated with Ernest Lawrence’s 1939 Nobel Prize? Answer: Cyclotron. A cyclotron is a device for accelerating charged particles."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_bardeen",
+    "status": "approved",
+    "sha256": "77fce541d6f849881f760d2966a949e5468eadf25db6d8baf3bff657b3d70595",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=66",
+        "location": "laureate id=66; prizes year=1956, category=physics; motivation",
+        "claim": "Which technology is associated with John Bardeen’s 1956 Nobel Prize? Answer: Transistor. This work concerns semiconductor electronics."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_glaser",
+    "status": "approved",
+    "sha256": "377bfde91573922e2186c14fb3fc0e847a15c4e9d01cc4623b264242b3ff9982",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=74",
+        "location": "laureate id=74; prizes year=1960, category=physics; motivation",
+        "claim": "Which technology is associated with Donald A. Glaser’s 1960 Nobel Prize? Answer: Bubble chamber. A bubble chamber allows particle tracks in a liquid to be studied."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_townes",
+    "status": "approved",
+    "sha256": "f76da7186e90d24315e8e8ee1b7667c4744d53a8b875ef1cf8b2d613762cdac3",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=81",
+        "location": "laureate id=81; prizes year=1964, category=physics; motivation",
+        "claim": "Which technology is associated with Charles H. Townes’s 1964 Nobel Prize? Answer: Maser-laser oscillators and amplifiers. The prize recognised fundamental work in quantum electronics."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_gabor",
+    "status": "approved",
+    "sha256": "fc392603f9ee1053782ee318882aae29aa8d7eddeec44219a619345f747e3ba6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=93",
+        "location": "laureate id=93; prizes year=1971, category=physics; motivation",
+        "claim": "Which technology is associated with Dennis Gabor’s 1971 Nobel Prize? Answer: Holography. The holographic method concerns recording and reconstructing a wavefront."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_hounsfield",
+    "status": "approved",
+    "sha256": "c57739cde8958d6188b8d7946a4a712d085908140a156469a5e727e34442179d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=418",
+        "location": "laureate id=418; prizes year=1979, category=medicine; motivation",
+        "claim": "Which technology is associated with Godfrey N. Hounsfield’s 1979 Nobel Prize? Answer: Computer-assisted tomography. The method produces images of internal body structures."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_ruska",
+    "status": "approved",
+    "sha256": "a8a1502243f448cea1d6c681fad1eb102d027398f9c538d9eac77bf6791403d9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=127",
+        "location": "laureate id=127; prizes year=1986, category=physics; motivation",
+        "claim": "Which technology is associated with Ernst Ruska’s 1986 Nobel Prize? Answer: Electron microscope. Electron microscopy uses electrons to form images."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_binnig",
+    "status": "approved",
+    "sha256": "0904fd7557f56c3249d66bbcf2ee3edf0bc7f9f565c4a2cb1721bf0243f2629b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=128",
+        "location": "laureate id=128; prizes year=1986, category=physics; motivation",
+        "claim": "Which technology is associated with Gerd Binnig’s 1986 Nobel Prize? Answer: Scanning tunnelling microscope. This work differs from the first electron microscope, also recognised that year."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_paul",
+    "status": "approved",
+    "sha256": "941b4970afeb42035768f40540dcd587795e63931fe723cc5d18bbb4ad14f02f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=137",
+        "location": "laureate id=137; prizes year=1989, category=physics; motivation",
+        "claim": "Which technology is associated with Wolfgang Paul’s 1989 Nobel Prize? Answer: Ion-trap technique. Traps allow charged particles to be confined for study."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_kilby",
+    "status": "approved",
+    "sha256": "1f17bdd268536f2f50ff220bd9593bffbeb9a9827c21e4b8f84095eb1e37a392",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=728",
+        "location": "laureate id=728; prizes year=2000, category=physics; motivation",
+        "claim": "Which technology is associated with Jack Kilby’s 2000 Nobel Prize? Answer: Integrated circuit. An integrated circuit combines electronic components in one device."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_lauterbur",
+    "status": "approved",
+    "sha256": "6904d3bf218a4cb609d7b1d70825468253b1a32bcd714fea02c2eadf86a29101",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=764",
+        "location": "laureate id=764; prizes year=2003, category=medicine; motivation",
+        "claim": "Which technology is associated with Paul C. Lauterbur’s 2003 Nobel Prize? Answer: Magnetic resonance imaging. Lauterbur's work was recognised alongside Peter Mansfield's research."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_kao",
+    "status": "approved",
+    "sha256": "b5f9ee5bc109b6c4ecc6ec8222ea4087f2037a6d11c092cc77bf8a84e15369f2",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=838",
+        "location": "laureate id=838; prizes year=2009, category=physics; motivation",
+        "claim": "Which technology is associated with Charles K. Kao’s 2009 Nobel Prize? Answer: Fibre-optic communication. The work concerns transmitting light through fibres for communication."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_boyle",
+    "status": "approved",
+    "sha256": "7c47e1b56996871a22c3eece19105d9ac02d21868724a304bf613c7a0516d35c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=839",
+        "location": "laureate id=839; prizes year=2009, category=physics; motivation",
+        "claim": "Which technology is associated with Willard S. Boyle’s 2009 Nobel Prize? Answer: CCD image sensor. A CCD sensor is a semiconductor device for recording images."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_akam",
+    "status": "approved",
+    "sha256": "177398f2774052715a4c83eb695e9160c60c02e71a5049240cbb953a2c5e5dd3",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=906",
+        "location": "laureate id=906; prizes year=2014, category=physics; motivation",
+        "claim": "Which technology is associated with Isamu Akasaki’s 2014 Nobel Prize? Answer: Efficient blue light-emitting diode. Blue LEDs enabled bright, energy-efficient white light sources."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_ashkin",
+    "status": "approved",
+    "sha256": "f0d3d7937b9c021355e6295d9b89817c9f6a11ff6d7793c272ee3b3fed04fe47",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=960",
+        "location": "laureate id=960; prizes year=2018, category=physics; motivation",
+        "claim": "Which technology is associated with Arthur Ashkin’s 2018 Nobel Prize? Answer: Optical tweezers. This technology was recognised for its applications to biological systems."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_strickland",
+    "status": "approved",
+    "sha256": "3a83d3f93c2357ea093942b10511456039d7de4caa8524043918c85c7d92fa4f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=962",
+        "location": "laureate id=962; prizes year=2018, category=physics; motivation",
+        "claim": "Which technology is associated with Donna Strickland’s 2018 Nobel Prize? Answer: A method for intense ultrashort optical pulses. Strickland shared this part of the prize with Gérard Mourou."
+      }
+    ]
+  },
+  {
+    "id": "inventions_nov08_yoshino",
+    "status": "approved",
+    "sha256": "8630621f63eeda6f0749da5f06359595843336141122d34aefdf415dc4f1a347",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=978",
+        "location": "laureate id=978; prizes year=2019, category=chemistry; motivation",
+        "claim": "Which technology is associated with Akira Yoshino’s 2019 Nobel Prize? Answer: Lithium-ion batteries. Yoshino shared the prize with John Goodenough and Stanley Whittingham."
+      }
+    ]
+  }
+]

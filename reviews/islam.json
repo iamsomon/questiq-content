@@ -1,0 +1,362 @@
+[
+  {
+    "id": "islam_nov08_shahada",
+    "status": "approved",
+    "sha256": "1422f5add12cb469405ea381d7a1aad7f0d68e8048a3f4eee76470f6c48f96aa",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Profession of Faith",
+        "claim": "What is the Islamic declaration of faith called? Answer: Shahada. The shahada affirms belief in one God and Muhammad's prophethood."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_ramadan",
+    "status": "approved",
+    "sha256": "e2a3577b165757b012839c8bec13eb9be3dc355f4816fa74479d8edc24b70d13",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Fasting",
+        "claim": "During which Islamic month is the obligatory fast observed? Answer: Ramadan. Ramadan is the ninth month of the Islamic calendar."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_hajj",
+    "status": "approved",
+    "sha256": "afbaadbf75f6840de0dc44b0cb9b011ced0fb73fa644e0cc4d9bf00a8adb9107",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Pilgrimage",
+        "claim": "To which city is the Hajj pilgrimage made? Answer: Mecca. The pilgrimage centres on the Kaaba in the Sacred Mosque."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_zakat",
+    "status": "approved",
+    "sha256": "a6c997c051a92f865b7b1cae606cbbc368f8529c3ad3f078e67232b76002ddbb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Alms",
+        "claim": "What does zakat concern in Islam? Answer: Obligatory almsgiving. Zakat connects religious practice with support for members of the community."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_quran",
+    "status": "approved",
+    "sha256": "1e6c41827cc4535b303009019894197680418f5585e0ff935cdeba2481cf471b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-quran",
+        "location": "Opening paragraphs",
+        "claim": "What is the holy book of Islam called? Answer: Qur'an. Muslims regard the Qur'an as revelation conveyed to the Prophet Muhammad."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_mosque",
+    "status": "approved",
+    "sha256": "e6efc3340037bbc769f1a510ef3bd483a527618ba515e0df1723040dcc3de1d5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Opening paragraph",
+        "claim": "What is a Muslim house of worship called? Answer: Mosque. The Arabic word masjid refers to a place of prostration."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_salat",
+    "status": "approved",
+    "sha256": "de29d2ca02bb87922b3018e688acb74bf081af218469404f7c47bdbbc9c2c4ec",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Prayer",
+        "claim": "What is the prescribed ritual prayer called in Islamic tradition? Answer: Salat. Prayer is one of the five pillars of Islam."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_imam",
+    "status": "approved",
+    "sha256": "57f3e89be0b641c6a78aec3f05fc9cc533c2196b831cd5a0b7e40124a1d7237c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Prayer",
+        "claim": "Who usually leads congregational prayer in a mosque? Answer: Imam. The imam leads the congregation; issuing the call to prayer is a different role."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_qibla",
+    "status": "approved",
+    "sha256": "d7ae3611a80e12ba83ec2e5f5a9f9ab67ff02e5ff58c57ed1bfc812a2630c921",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Essential Architectural Elements",
+        "claim": "What is the direction Muslims face in prayer called? Answer: Qibla. The qibla points toward the Kaaba in Mecca."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_mihrab",
+    "status": "approved",
+    "sha256": "8d9ac7cfe267a36671a075ca3ddaeb606e0241df0dacfdbf659beef3c2cc99e0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Mihrab",
+        "claim": "Which niche in a mosque indicates the direction of prayer? Answer: Mihrab. The mihrab is set into the wall facing Mecca."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_minbar",
+    "status": "approved",
+    "sha256": "bc26bc34fe4439251bbd728e6086ef344b4afa71b2dfb51d0120e7a1dba9f608",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Minbar",
+        "claim": "From which structure in a mosque is a sermon delivered? Answer: Minbar. The minbar is a raised pulpit, often shaped like a staircase."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_minaret",
+    "status": "approved",
+    "sha256": "acc14c6c66b8cfff40dcadadfaf259a1b07caff3fd5802d2cb55fb10d6d92123",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Minaret",
+        "claim": "Which tower is traditionally associated with the call to prayer? Answer: Minaret. A minaret stands at or beside a mosque as a prominent architectural marker."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_sawm",
+    "status": "approved",
+    "sha256": "69492bd7274c7f44d6c571863d92c4bd455d790b87d4c05943078961c31817e1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Fasting",
+        "claim": "Which term names fasting among the five pillars of Islam? Answer: Sawm. During Ramadan, fasting takes place during daylight hours."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_friday",
+    "status": "approved",
+    "sha256": "ffecdc49ac6da9c4a73e026cadb78353e447920a1cfc29315252efef80f61170",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Prayer paragraph",
+        "claim": "Which day is especially associated with weekly congregational mosque prayer? Answer: Friday. Friday's midday congregational prayer includes a sermon."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_five",
+    "status": "approved",
+    "sha256": "cffc334daca4e82b27b951f4ce5d7b1d3683f6f71110c5a56ad7318c31826a71",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Prayer",
+        "claim": "How many prescribed daily prayers are performed in Islamic tradition? Answer: Five. Prayer times mark different parts of the day, from dawn to night."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_hijra",
+    "status": "approved",
+    "sha256": "960bba73fa29ad96ec6dc1cee6a1485f1e57bfe7b95b9370a2319e8eb601faf9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam",
+        "location": "Migration to Medina",
+        "claim": "To which city did Muhammad and his followers migrate from Mecca in 622? Answer: Medina. This migration is called the Hijra and marks the starting point of the Islamic era."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_sahn",
+    "status": "approved",
+    "sha256": "55434662c7eafb1dd079bc3de6252adc1732552c6d7c94ca8b9dab3ec8e15b4f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque",
+        "location": "Sahn and fountain",
+        "claim": "What does sahn mean in mosque architecture? Answer: Courtyard. Such courtyards often contain a fountain for ritual washing."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_surah",
+    "status": "approved",
+    "sha256": "afca1246266b8298ed51ea009444a78720822414562ec87cdf05384bc9037f71",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-quran",
+        "location": "Organization into chapters and verses",
+        "claim": "What is a chapter of the Qur'an called? Answer: Surah. The Qur'an is divided into 114 suras."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_hadith",
+    "status": "approved",
+    "sha256": "427358abd857ea76588819ef050536bcbd21414aff25dce9df374da6abff63e8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam",
+        "location": "Opening discussion of hadith and sunna",
+        "claim": "What are reports of the Prophet Muhammad's sayings and actions called? Answer: Hadith. Hadith transmit prophetic tradition and are distinct from the Qur'an itself."
+      }
+    ]
+  },
+  {
+    "id": "islam_nov08_safa",
+    "status": "approved",
+    "sha256": "f24aac95b45a17b6d44790634f61ed65f0f3c94476b0edea20ae4113f6b208f4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+        "location": "Pilgrimage rituals",
+        "claim": "Between which hills is one of the Mecca pilgrimage rites performed? Answer: Safa and Marwa. The rite recalls the tradition concerning Ishmael and his mother."
+      }
+    ]
+  }
+]

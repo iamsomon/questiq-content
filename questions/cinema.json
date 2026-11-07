@@ -1,0 +1,882 @@
+[
+  {
+    "id": "cinema_nov08_1998",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1998 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Джеймс Кэмерон за фильм «Титаник»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1998 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to James Cameron for Titanic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Титаник",
+        "en": "Titanic"
+      },
+      {
+        "id": "o1",
+        "ru": "Лучше не бывает",
+        "en": "As Good as It Gets"
+      },
+      {
+        "id": "o2",
+        "ru": "Мужской стриптиз",
+        "en": "The Full Monty"
+      },
+      {
+        "id": "o3",
+        "ru": "Умница Уилл Хантинг",
+        "en": "Good Will Hunting"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1998"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2004",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 2004 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Питер Джексон за фильм «Властелин колец: Возвращение короля»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 2004 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Peter Jackson for The Lord of the Rings: The Return of the King."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Властелин колец: Возвращение короля",
+        "en": "The Lord of the Rings: The Return of the King"
+      },
+      {
+        "id": "o1",
+        "ru": "Трудности перевода",
+        "en": "Lost in Translation"
+      },
+      {
+        "id": "o2",
+        "ru": "Хозяин морей: На краю Земли",
+        "en": "Master and Commander: The Far Side of the World"
+      },
+      {
+        "id": "o3",
+        "ru": "Таинственная река",
+        "en": "Mystic River"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2004"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1995",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1995 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Роберт Земекис за фильм «Форрест Гамп»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1995 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Robert Zemeckis for Forrest Gump."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Форрест Гамп",
+        "en": "Forrest Gump"
+      },
+      {
+        "id": "o1",
+        "ru": "Четыре свадьбы и одни похороны",
+        "en": "Four Weddings and a Funeral"
+      },
+      {
+        "id": "o2",
+        "ru": "Криминальное чтиво",
+        "en": "Pulp Fiction"
+      },
+      {
+        "id": "o3",
+        "ru": "Телевикторина",
+        "en": "Quiz Show"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1995"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2001",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 2001 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Стивен Содерберг за фильм «Траффик»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 2001 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Steven Soderbergh for Traffic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гладиатор",
+        "en": "Gladiator"
+      },
+      {
+        "id": "o1",
+        "ru": "Шоколад",
+        "en": "Chocolat"
+      },
+      {
+        "id": "o2",
+        "ru": "Крадущийся тигр, затаившийся дракон",
+        "en": "Crouching Tiger, Hidden Dragon"
+      },
+      {
+        "id": "o3",
+        "ru": "Эрин Брокович",
+        "en": "Erin Brockovich"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2001"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1994",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1994 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Стивен Спилберг за фильм «Список Шиндлера»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1994 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Steven Spielberg for Schindler's List."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Список Шиндлера",
+        "en": "Schindler's List"
+      },
+      {
+        "id": "o1",
+        "ru": "Беглец",
+        "en": "The Fugitive"
+      },
+      {
+        "id": "o2",
+        "ru": "Во имя отца",
+        "en": "In the Name of the Father"
+      },
+      {
+        "id": "o3",
+        "ru": "Пианино",
+        "en": "The Piano"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1994"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1973",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1973 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Боб Фосс за фильм «Кабаре»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1973 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Bob Fosse for Cabaret."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крёстный отец",
+        "en": "The Godfather"
+      },
+      {
+        "id": "o1",
+        "ru": "Кабаре",
+        "en": "Cabaret"
+      },
+      {
+        "id": "o2",
+        "ru": "Избавление",
+        "en": "Deliverance"
+      },
+      {
+        "id": "o3",
+        "ru": "Эмигранты",
+        "en": "The Emigrants"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1973"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1944",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1944 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Майкл Кёртис за фильм «Касабланка»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1944 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Michael Curtiz for Casablanca."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Касабланка",
+        "en": "Casablanca"
+      },
+      {
+        "id": "o1",
+        "ru": "По ком звонит колокол",
+        "en": "For Whom the Bell Tolls"
+      },
+      {
+        "id": "o2",
+        "ru": "Небеса могут подождать",
+        "en": "Heaven Can Wait"
+      },
+      {
+        "id": "o3",
+        "ru": "Человеческая комедия",
+        "en": "The Human Comedy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1944"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1966",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1966 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Роберт Уайз за фильм «Звуки музыки»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1966 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Robert Wise for The Sound of Music."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Звуки музыки",
+        "en": "The Sound of Music"
+      },
+      {
+        "id": "o1",
+        "ru": "Дорогая",
+        "en": "Darling"
+      },
+      {
+        "id": "o2",
+        "ru": "Доктор Живаго",
+        "en": "Doctor Zhivago"
+      },
+      {
+        "id": "o3",
+        "ru": "Корабль дураков",
+        "en": "Ship of Fools"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1966"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1980",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1980 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Роберт Бентон за фильм «Крамер против Крамера»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1980 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Robert Benton for Kramer vs. Kramer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крамер против Крамера",
+        "en": "Kramer vs. Kramer"
+      },
+      {
+        "id": "o1",
+        "ru": "Весь этот джаз",
+        "en": "All That Jazz"
+      },
+      {
+        "id": "o2",
+        "ru": "Апокалипсис сегодня",
+        "en": "Apocalypse Now"
+      },
+      {
+        "id": "o3",
+        "ru": "Уходя в отрыв",
+        "en": "Breaking Away"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1980"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1987",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильм получил «Оскар» за лучший фильм на церемонии 1987 года?",
+        "explanation": "Режиссёрскую награду той церемонии получил Оливер Стоун за фильм «Взвод»."
+      },
+      "en": {
+        "question": "Which film won Best Picture at the 1987 Academy Awards?",
+        "explanation": "The same ceremony's Directing award went to Oliver Stone for Platoon."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Взвод",
+        "en": "Platoon"
+      },
+      {
+        "id": "o1",
+        "ru": "Дети меньшего бога",
+        "en": "Children of a Lesser God"
+      },
+      {
+        "id": "o2",
+        "ru": "Ханна и её сёстры",
+        "en": "Hannah and Her Sisters"
+      },
+      {
+        "id": "o3",
+        "ru": "Миссия",
+        "en": "The Mission"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1987"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1992",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Молчание ягнят» на церемонии 1992 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Молчание ягнят»."
+      },
+      "en": {
+        "question": "Who won Directing for The Silence of the Lambs at the 1992 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was The Silence of the Lambs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джонатан Демми",
+        "en": "Jonathan Demme"
+      },
+      {
+        "id": "o1",
+        "ru": "Джон Синглтон",
+        "en": "John Singleton"
+      },
+      {
+        "id": "o2",
+        "ru": "Барри Левинсон",
+        "en": "Barry Levinson"
+      },
+      {
+        "id": "o3",
+        "ru": "Оливер Стоун",
+        "en": "Oliver Stone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1992"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_1997",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Английский пациент» на церемонии 1997 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Английский пациент»."
+      },
+      "en": {
+        "question": "Who won Directing for The English Patient at the 1997 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was The English Patient."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Энтони Мингелла",
+        "en": "Anthony Minghella"
+      },
+      {
+        "id": "o1",
+        "ru": "Джоэл Коэн",
+        "en": "Joel Coen"
+      },
+      {
+        "id": "o2",
+        "ru": "Милош Форман",
+        "en": "Milos Forman"
+      },
+      {
+        "id": "o3",
+        "ru": "Майк Ли",
+        "en": "Mike Leigh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/1997"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2009",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Миллионер из трущоб» на церемонии 2009 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Миллионер из трущоб»."
+      },
+      "en": {
+        "question": "Who won Directing for Slumdog Millionaire at the 2009 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was Slumdog Millionaire."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дэнни Бойл",
+        "en": "Danny Boyle"
+      },
+      {
+        "id": "o1",
+        "ru": "Дэвид Финчер",
+        "en": "David Fincher"
+      },
+      {
+        "id": "o2",
+        "ru": "Рон Ховард",
+        "en": "Ron Howard"
+      },
+      {
+        "id": "o3",
+        "ru": "Гас Ван Сент",
+        "en": "Gus Van Sant"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2009"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2012",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Артист» на церемонии 2012 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Артист»."
+      },
+      "en": {
+        "question": "Who won Directing for The Artist at the 2012 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was The Artist."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мишель Хазанавичус",
+        "en": "Michel Hazanavicius"
+      },
+      {
+        "id": "o1",
+        "ru": "Александр Пэйн",
+        "en": "Alexander Payne"
+      },
+      {
+        "id": "o2",
+        "ru": "Мартин Скорсезе",
+        "en": "Martin Scorsese"
+      },
+      {
+        "id": "o3",
+        "ru": "Вуди Аллен",
+        "en": "Woody Allen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2012"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2015",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Бёрдмэн» на церемонии 2015 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Бёрдмэн»."
+      },
+      "en": {
+        "question": "Who won Directing for Birdman or (The Unexpected Virtue of Ignorance) at the 2015 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was Birdman or (The Unexpected Virtue of Ignorance)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алехандро Гонсалес Иньярриту",
+        "en": "Alejandro G. Iñárritu"
+      },
+      {
+        "id": "o1",
+        "ru": "Ричард Линклейтер",
+        "en": "Richard Linklater"
+      },
+      {
+        "id": "o2",
+        "ru": "Беннетт Миллер",
+        "en": "Bennett Miller"
+      },
+      {
+        "id": "o3",
+        "ru": "Уэс Андерсон",
+        "en": "Wes Anderson"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2015"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2017",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Ла-Ла Ленд» на церемонии 2017 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Лунный свет»."
+      },
+      "en": {
+        "question": "Who won Directing for La La Land at the 2017 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was Moonlight."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дэмьен Шазелл",
+        "en": "Damien Chazelle"
+      },
+      {
+        "id": "o1",
+        "ru": "Дени Вильнёв",
+        "en": "Denis Villeneuve"
+      },
+      {
+        "id": "o2",
+        "ru": "Мел Гибсон",
+        "en": "Mel Gibson"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеннет Лонерган",
+        "en": "Kenneth Lonergan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2017"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2018",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Форма воды» на церемонии 2018 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Форма воды»."
+      },
+      "en": {
+        "question": "Who won Directing for The Shape of Water at the 2018 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was The Shape of Water."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гильермо дель Торо",
+        "en": "Guillermo del Toro"
+      },
+      {
+        "id": "o1",
+        "ru": "Кристофер Нолан",
+        "en": "Christopher Nolan"
+      },
+      {
+        "id": "o2",
+        "ru": "Джордан Пил",
+        "en": "Jordan Peele"
+      },
+      {
+        "id": "o3",
+        "ru": "Грета Гервиг",
+        "en": "Greta Gerwig"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2018"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2019",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Рома» на церемонии 2019 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Зелёная книга»."
+      },
+      "en": {
+        "question": "Who won Directing for Roma at the 2019 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was Green Book."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Альфонсо Куарон",
+        "en": "Alfonso Cuarón"
+      },
+      {
+        "id": "o1",
+        "ru": "Спайк Ли",
+        "en": "Spike Lee"
+      },
+      {
+        "id": "o2",
+        "ru": "Павел Павликовский",
+        "en": "Paweł Pawlikowski"
+      },
+      {
+        "id": "o3",
+        "ru": "Йоргос Лантимос",
+        "en": "Yorgos Lanthimos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2019"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2020",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Паразиты» на церемонии 2020 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Паразиты»."
+      },
+      "en": {
+        "question": "Who won Directing for Parasite at the 2020 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was Parasite."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пон Джун-хо",
+        "en": "Bong Joon Ho"
+      },
+      {
+        "id": "o1",
+        "ru": "Мартин Скорсезе",
+        "en": "Martin Scorsese"
+      },
+      {
+        "id": "o2",
+        "ru": "Тодд Филлипс",
+        "en": "Todd Phillips"
+      },
+      {
+        "id": "o3",
+        "ru": "Сэм Мендес",
+        "en": "Sam Mendes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2020"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_nov08_2011",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто получил режиссёрский «Оскар» за фильм «Король говорит!» на церемонии 2011 года?",
+        "explanation": "Лучшим фильмом той церемонии стал «Король говорит!»."
+      },
+      "en": {
+        "question": "Who won Directing for The King's Speech at the 2011 Academy Awards?",
+        "explanation": "The ceremony's Best Picture winner was The King's Speech."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Том Хупер",
+        "en": "Tom Hooper"
+      },
+      {
+        "id": "o1",
+        "ru": "Даррен Аронофски",
+        "en": "Darren Aronofsky"
+      },
+      {
+        "id": "o2",
+        "ru": "Дэвид О. Расселл",
+        "en": "David O. Russell"
+      },
+      {
+        "id": "o3",
+        "ru": "Дэвид Финчер",
+        "en": "David Fincher"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.oscars.org/oscars/ceremonies/2011"
+    ],
+    "image": null
+  }
+]

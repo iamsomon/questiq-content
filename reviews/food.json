@@ -1,0 +1,182 @@
+[
+  {
+    "id": "food_nov08_yeast",
+    "status": "approved",
+    "sha256": "7c491bc3dbbf31cf3dcb00fd7a3b4bee0885af0191b94d7433cfc504f876f5ef",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/bread/bread_science.html",
+        "location": "Yeast paragraph",
+        "claim": "To which group of organisms does baker's yeast belong? Answer: Fungi. Baker's yeast consists of single-celled organisms that feed on sugars."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_bread_gas",
+    "status": "approved",
+    "sha256": "b2f3a5707be573826b27848a6ef164c9b4b6571e871fa3bf486db3931f386a0e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/bread/bread_science.html",
+        "location": "Yeast and carbon dioxide",
+        "claim": "Which gas helps yeast dough rise? Answer: Carbon dioxide. Gas bubbles form as yeast processes sugars."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_lavash",
+    "status": "approved",
+    "sha256": "73724e60e1e2409a64c6c6e31685e4f618af471259b5bb58c9b829b2f4704b6e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/bread/bread_science.html",
+        "location": "Opening examples",
+        "claim": "What type of baked food is lavash? Answer: Thin flatbread. Bread ranges widely in thickness and texture, from flatbreads to airy brioche."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_sucrose",
+    "status": "approved",
+    "sha256": "722529ac076b2c014dbb821376ddec9959f9434fd03f5ecdfe1388f515950ef1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/candy/sugar.html",
+        "location": "Opening paragraph",
+        "claim": "What substance makes up ordinary table sugar? Answer: Sucrose. Sugarcane and sugar beet are major sources of it."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_leavener",
+    "status": "approved",
+    "sha256": "ece24bb13b31854ce08f241162b8fe7e6bf601d1abd5bfabe434ed0b4a394418",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/bread/bread_science.html",
+        "location": "Baking powder or baking soda",
+        "claim": "How does the action of baking soda and baking powder differ from that of yeast? Answer: Gas is produced by a chemical reaction. These leaveners generally work faster than yeast fermentation."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_lactic",
+    "status": "approved",
+    "sha256": "0d4b0dfdb3449eb1361cce1a2d61bd97f4b3e92583b222b1d077e9c7f04934cf",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/pickles/fermentation.html",
+        "location": "Pickled Vegetables",
+        "claim": "Which acid gives vegetables their characteristic sourness during lactic fermentation? Answer: Lactic. Bacteria produce it by processing sugars in the vegetables."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_whey",
+    "status": "approved",
+    "sha256": "4619a12a3496678aeff3aa3a90c80ee8955baa20ddc6619b822c9c227609af3b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/pickles/fermentation.html",
+        "location": "Cheeses",
+        "claim": "Which liquid is drained from curds during cheese-making? Answer: Whey. After drainage, the curds are compacted and may be ripened."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_cooked_white",
+    "status": "approved",
+    "sha256": "f17dd454fbbfdbbdb25cbdb5a76af35554de18e2199baf23e4512eb1555f8317",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/eggs/eggscience.html",
+        "location": "Heat them",
+        "claim": "Why does egg white become firm when heated? Answer: Protein molecules unfold and link into a network. The resulting protein network traps water."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_meringue",
+    "status": "approved",
+    "sha256": "95fe5850d062a047c2ea650ab6dfa3a0fb3643df5ade24f3c6bdccb0e0bc801c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/eggs/eggscience.html",
+        "location": "Beat them",
+        "claim": "What does beating incorporate into egg whites for meringue? Answer: Air bubbles. Beating also changes the shape of protein molecules."
+      }
+    ]
+  },
+  {
+    "id": "food_nov08_sugar_units",
+    "status": "approved",
+    "sha256": "143e00efa2e9323c680504adffce2e33c89917d01ed37f1f1b5ec241ed8cbf12",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://annex.exploratorium.edu/cooking/candy/sugar.html",
+        "location": "Opening two paragraphs",
+        "claim": "Which two simple sugars make up a sucrose molecule? Answer: Glucose and fructose. A little acid can help split sucrose into these components."
+      }
+    ]
+  }
+]

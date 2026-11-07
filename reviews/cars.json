@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cars_nov08_traction",
+    "status": "approved",
+    "sha256": "9ad61ad2c2b8ce9a6ce907de8274e7ed0a86df942c0a5d5e03b1830fe31e6a2d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Electric traction motor",
+        "claim": "What drives the wheels of an all-electric car? Answer: Electric traction motor. The motor receives energy from the traction battery."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_battery",
+    "status": "approved",
+    "sha256": "ec830865c4f94e0b1df34d45d19afc119867677558bc2bf0e2089d425a4186a4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Traction battery pack",
+        "claim": "Where does an electric car store its main driving energy? Answer: In the traction battery. The traction battery has a different role from the smaller auxiliary battery."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_hybrid",
+    "status": "approved",
+    "sha256": "c54161daacca9efc4e1a95b7aacd0beac8d69628c41b852504046ac06c3d03f2",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-hybrid-electric-cars-work",
+        "location": "Opening explanation",
+        "claim": "Which two engine types does a conventional hybrid car combine? Answer: Combustion engine and electric motor. A hybrid combines fuel use with electric drive."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_chargeport",
+    "status": "approved",
+    "sha256": "5d3075f286e851a449233c1efa9cd2f42c59f2657a451550f22355bea295dc53",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Charge port",
+        "claim": "What is an electric car's charge port for? Answer: Connection to an external electricity supply. Energy enters the battery charging system through the port."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_phev",
+    "status": "approved",
+    "sha256": "1862e195671ed4a4ecba138ca65982781fa9f05e5d6e0d8246ae97011d513af7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles",
+        "location": "PHEVs",
+        "claim": "What distinguishes a PHEV from a conventional HEV? Answer: It can be charged from an external supply. A PHEV also has an internal combustion engine."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_exhaust",
+    "status": "approved",
+    "sha256": "f20781e41ad4c3de27163e7292996cda9addf3a9953369f52b58fdc47ef43662",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Opening description",
+        "claim": "Which of these does an all-electric car not emit while driving? Answer: Tailpipe exhaust gases. No tailpipe exhaust does not mean energy and vehicle production have no environmental impact."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_regen",
+    "status": "approved",
+    "sha256": "c83722c76dd26e778c3ed760ddc4dc1caaae9e5b1e7ba2915e480c7fcb258a38",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles",
+        "location": "Regenerative braking",
+        "claim": "What does regenerative braking do? Answer: Returns some energy to the battery. While slowing, the motor can act as a generator."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_airbag",
+    "status": "approved",
+    "sha256": "dd5cb38cacfd14d12a310e039606b8195c7e1015f778008a3dfc10330352df59",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhtsa.gov/vehicle-safety/air-bags",
+        "location": "Air bags are supplemental protection",
+        "claim": "Which safety system does an air bag supplement? Answer: Seat belt. Air bags are designed to work together with seat belts."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_auxbattery",
+    "status": "approved",
+    "sha256": "2b573dd80ac684a2ba24abfa4ea2320c9810e92ecd15063a86bafe6a89e11617",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Battery all-electric auxiliary",
+        "claim": "What does an electric car's auxiliary battery normally supply? Answer: Electrical accessories. Accessories use a lower voltage than the traction system."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_dcdc",
+    "status": "approved",
+    "sha256": "6df9d94f89675fc9660030972348dcc9fb336a9f5dd410e85fe5796258df206c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "DC/DC converter",
+        "claim": "What does the DC/DC converter in an electric car do? Answer: Reduces DC voltage for auxiliary systems. It also helps recharge the low-voltage auxiliary battery."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_onboard",
+    "status": "approved",
+    "sha256": "645a664490b93410cbe0ffb2dc6ff9957bd2910c31cc631d399cb8a8f40682c6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Onboard charger",
+        "claim": "Which onboard device converts grid AC into DC for an electric car's battery? Answer: Onboard charger. The unit also monitors battery voltage, current, temperature and state of charge."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_thermal",
+    "status": "approved",
+    "sha256": "a5029be733c2b75c64f1829b44744e3a735378b916689ef32281f1e7d739ec3d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Thermal system",
+        "claim": "What does an electric car's thermal system do? Answer: Maintains suitable component temperatures. The battery, motor and power electronics require cooling."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_controller",
+    "status": "approved",
+    "sha256": "0988bbc34ca672e2f71e2772b681ffe4e72054e12d9b719a0e9ce8966f59f2a4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Power electronics controller",
+        "claim": "What is a function of an electric car's power electronics controller? Answer: Managing energy flow and motor operation. The controller regulates the traction motor's speed and torque."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_transmission",
+    "status": "approved",
+    "sha256": "3abd2f28e7faf1a776fe7b14ec6dd9cb49744b59165310244f920376468d1813",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Transmission",
+        "claim": "What transfers an electric motor's mechanical power to the wheels? Answer: Transmission. Transmission design depends on the particular vehicle."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_hevcharge",
+    "status": "approved",
+    "sha256": "327b5042385e2cd804502d2a288a3c865b4c552ebecff414957072ce2a2fa192",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-hybrid-electric-cars-work",
+        "location": "Opening explanation",
+        "claim": "How does a conventional HEV recharge without plugging into a socket? Answer: Through the engine and regenerative braking. The battery receives energy during braking and from the engine."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_bev",
+    "status": "approved",
+    "sha256": "158df0a3f26e74acc05eb98227df891df9e6fc0b0fb187720c994ecfee237b28",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Opening description",
+        "claim": "What does BEV stand for in vehicle terminology? Answer: Battery electric vehicle. BEVs are distinguished from plug-in and conventional hybrids."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_cooling",
+    "status": "approved",
+    "sha256": "ad2f1a424b95ffc556dd6d4dc90c439f8b58042cc9516abdb070aa6ad7c7feb0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Thermal system",
+        "claim": "Which statement about an all-electric car is correct? Answer: It has a cooling system for electrical components. The thermal system cools electrical components even when there is no combustion engine."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_motor_generator",
+    "status": "approved",
+    "sha256": "85362bc661fe703bd16e9ffb605d32ec91aab959f199dcc8da33a595c1a7dad5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Electric traction motor",
+        "claim": "Which device can provide both drive and generation functions in an electric car? Answer: Motor-generator. During regeneration, the direction of energy conversion reverses."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_charger_monitor",
+    "status": "approved",
+    "sha256": "7f9004ee09a77409e405b6250bafe35400ae963cab0fa071adc6b96b08c6b5c7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Onboard charger",
+        "claim": "Which battery parameters does an onboard charger monitor? Answer: Voltage, current and temperature. The unit also tracks the battery's state of charge."
+      }
+    ]
+  },
+  {
+    "id": "cars_nov08_fuelparts",
+    "status": "approved",
+    "sha256": "02b8f272cb282f722bea41a36da8b3fff5029e6a918ad81f7c96fbc77bccd9a8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+        "location": "Opening description",
+        "claim": "Which liquid-fuel component is unnecessary in a typical BEV? Answer: Fuel pump. An all-electric car has no conventional petrol fuel system."
+      }
+    ]
+  }
+]

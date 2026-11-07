@@ -1,0 +1,882 @@
+[
+  {
+    "id": "world_religions_nov08_synagogue",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется еврейский молитвенный дом?",
+        "explanation": "Синагога служит также местом учёбы и собраний общины."
+      },
+      "en": {
+        "question": "What is a Jewish house of worship called?",
+        "explanation": "A synagogue also serves as a place for learning and community gatherings."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Синагога",
+        "en": "Synagogue"
+      },
+      {
+        "id": "o1",
+        "ru": "Мечеть",
+        "en": "Mosque"
+      },
+      {
+        "id": "o2",
+        "ru": "Гурдвара",
+        "en": "Gurdwara"
+      },
+      {
+        "id": "o3",
+        "ru": "Пагода",
+        "en": "Pagoda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/the-synagogue"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_rabbi",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют учителя и знатока религиозного закона в иудаизме?",
+        "explanation": "Раввинская традиция связана с изучением и толкованием Торы."
+      },
+      "en": {
+        "question": "What is a teacher and scholar of religious law in Judaism called?",
+        "explanation": "The rabbinic tradition is associated with studying and interpreting the Torah."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Раввин",
+        "en": "Rabbi"
+      },
+      {
+        "id": "o1",
+        "ru": "Имам",
+        "en": "Imam"
+      },
+      {
+        "id": "o2",
+        "ru": "Гуру",
+        "en": "Guru"
+      },
+      {
+        "id": "o3",
+        "ru": "Лама",
+        "en": "Lama"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-judaism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_torah",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой текст занимает центральное место в иудаизме?",
+        "explanation": "В узком смысле Тора обозначает Пятикнижие Моисея."
+      },
+      "en": {
+        "question": "Which text has a central place in Judaism?",
+        "explanation": "In its narrower sense, Torah denotes the Five Books of Moses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тора",
+        "en": "Torah"
+      },
+      {
+        "id": "o1",
+        "ru": "Коран",
+        "en": "Qur'an"
+      },
+      {
+        "id": "o2",
+        "ru": "Авеста",
+        "en": "Avesta"
+      },
+      {
+        "id": "o3",
+        "ru": "Веды",
+        "en": "Vedas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-judaism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_nanak",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто считается первым гуру сикхской традиции?",
+        "explanation": "Сикхская традиция возникла в Пенджабе."
+      },
+      "en": {
+        "question": "Who is regarded as the first Guru of the Sikh tradition?",
+        "explanation": "The Sikh tradition arose in the Punjab."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гуру Нанак",
+        "en": "Guru Nanak"
+      },
+      {
+        "id": "o1",
+        "ru": "Махавира",
+        "en": "Mahavira"
+      },
+      {
+        "id": "o2",
+        "ru": "Конфуций",
+        "en": "Confucius"
+      },
+      {
+        "id": "o3",
+        "ru": "Заратустра",
+        "en": "Zarathustra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/sikhism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_vedas",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой религиозной традицией связаны Веды?",
+        "explanation": "Веды относятся к древнейшему слою священных текстов индуизма."
+      },
+      "en": {
+        "question": "With which religious tradition are the Vedas associated?",
+        "explanation": "The Vedas belong to the oldest layer of Hindu sacred texts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индуизм",
+        "en": "Hinduism"
+      },
+      {
+        "id": "o1",
+        "ru": "Иудаизм",
+        "en": "Judaism"
+      },
+      {
+        "id": "o2",
+        "ru": "Сикхизм",
+        "en": "Sikhism"
+      },
+      {
+        "id": "o3",
+        "ru": "Христианство",
+        "en": "Christianity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-hinduism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_sabbath",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется еженедельный день покоя в иудаизме?",
+        "explanation": "Его соблюдение связано с освящением времени и общинной жизнью."
+      },
+      "en": {
+        "question": "What is the weekly day of rest in Judaism called?",
+        "explanation": "Its observance connects sacred time with community life."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шаббат",
+        "en": "Shabbat"
+      },
+      {
+        "id": "o1",
+        "ru": "Навруз",
+        "en": "Nowruz"
+      },
+      {
+        "id": "o2",
+        "ru": "Дивали",
+        "en": "Diwali"
+      },
+      {
+        "id": "o3",
+        "ru": "Весак",
+        "en": "Vesak"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/keeping-shabbat"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_ahimsa",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое понятие особенно важно для джайнского принципа ненасилия?",
+        "explanation": "Ахимса означает стремление не причинять вред живым существам."
+      },
+      "en": {
+        "question": "Which term is especially important to Jain nonviolence?",
+        "explanation": "Ahimsa means striving not to harm living beings."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ахимса",
+        "en": "Ahimsa"
+      },
+      {
+        "id": "o1",
+        "ru": "Хиджра",
+        "en": "Hijra"
+      },
+      {
+        "id": "o2",
+        "ru": "Шахада",
+        "en": "Shahada"
+      },
+      {
+        "id": "o3",
+        "ru": "Хадж",
+        "en": "Hajj"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-jainism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_shinto_japan",
+    "categoryId": "world_religions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой страной исторически связан синтоизм?",
+        "explanation": "Синтоистская традиция связана с почитанием ками и святилищами."
+      },
+      "en": {
+        "question": "With which country is Shinto historically associated?",
+        "explanation": "The Shinto tradition is associated with reverence for kami and with shrines."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Япония",
+        "en": "Japan"
+      },
+      {
+        "id": "o1",
+        "ru": "Египет",
+        "en": "Egypt"
+      },
+      {
+        "id": "o2",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвегия",
+        "en": "Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.meijijingu.or.jp/en/about/aboutshinto/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_gurdwara",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется сикхское место богослужения?",
+        "explanation": "В гурдваре центральное место занимает Гуру Грантх Сахиб."
+      },
+      "en": {
+        "question": "What is a Sikh place of worship called?",
+        "explanation": "The Guru Granth Sahib occupies the central place in a gurdwara."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гурдвара",
+        "en": "Gurdwara"
+      },
+      {
+        "id": "o1",
+        "ru": "Синагога",
+        "en": "Synagogue"
+      },
+      {
+        "id": "o2",
+        "ru": "Собор",
+        "en": "Cathedral"
+      },
+      {
+        "id": "o3",
+        "ru": "Вихара",
+        "en": "Vihara"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/the-gurdwara"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_granth",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется священное писание, почитаемое сикхами как вечный Гуру?",
+        "explanation": "После линии человеческих гуру духовный авторитет связан с этим писанием."
+      },
+      "en": {
+        "question": "Which Sikh scripture is revered as the eternal Guru?",
+        "explanation": "After the line of human Gurus, spiritual authority is associated with this scripture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гуру Грантх Сахиб",
+        "en": "Guru Granth Sahib"
+      },
+      {
+        "id": "o1",
+        "ru": "Трипитака",
+        "en": "Tripitaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Талмуд",
+        "en": "Talmud"
+      },
+      {
+        "id": "o3",
+        "ru": "Авеста",
+        "en": "Avesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/the-guru-granth-sahib"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_langar",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает сикхская практика лангара?",
+        "explanation": "Лангар подчёркивает равенство людей независимо от происхождения."
+      },
+      "en": {
+        "question": "What does the Sikh practice of langar involve?",
+        "explanation": "Langar emphasises people's equality regardless of background."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Общая бесплатная трапеза",
+        "en": "A free communal meal"
+      },
+      {
+        "id": "o1",
+        "ru": "Чтение писания без перерыва",
+        "en": "An unbroken reading of scripture"
+      },
+      {
+        "id": "o2",
+        "ru": "Совместное пение гимнов",
+        "en": "Singing hymns together"
+      },
+      {
+        "id": "o3",
+        "ru": "Торжественная процессия",
+        "en": "A ceremonial procession"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/langar-the-communal-meal"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_puja",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют акт почитания божества в индуистской практике?",
+        "explanation": "Во время пуджи божеству предлагают, например, воду, плоды и благовония."
+      },
+      "en": {
+        "question": "What is an act of worship of a deity in Hindu practice called?",
+        "explanation": "Offerings in a puja may include water, fruit and incense."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пуджа",
+        "en": "Puja"
+      },
+      {
+        "id": "o1",
+        "ru": "Шаббат",
+        "en": "Shabbat"
+      },
+      {
+        "id": "o2",
+        "ru": "Закят",
+        "en": "Zakat"
+      },
+      {
+        "id": "o3",
+        "ru": "Хадж",
+        "en": "Hajj"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/puja"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_kami",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в синтоистской традиции называют почитаемые священные силы или присутствия?",
+        "explanation": "Ками могут быть связаны с природными местами и предками."
+      },
+      "en": {
+        "question": "What are the revered sacred powers or presences in Shinto called?",
+        "explanation": "Kami may be associated with natural places and ancestors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ками",
+        "en": "Kami"
+      },
+      {
+        "id": "o1",
+        "ru": "Апостолы",
+        "en": "Apostles"
+      },
+      {
+        "id": "o2",
+        "ru": "Тиртханкары",
+        "en": "Tirthankaras"
+      },
+      {
+        "id": "o3",
+        "ru": "Раввины",
+        "en": "Rabbis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.meijijingu.or.jp/en/about/aboutshinto/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_zoroaster",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С именем какого учителя связана зороастрийская традиция?",
+        "explanation": "Другое распространённое имя Заратустры — Зороастр."
+      },
+      "en": {
+        "question": "Which teacher is associated with the Zoroastrian tradition?",
+        "explanation": "Another familiar form of Zarathustra's name is Zoroaster."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Заратустра",
+        "en": "Zarathustra"
+      },
+      {
+        "id": "o1",
+        "ru": "Нанак",
+        "en": "Nanak"
+      },
+      {
+        "id": "o2",
+        "ru": "Лао-цзы",
+        "en": "Laozi"
+      },
+      {
+        "id": "o3",
+        "ru": "Махавира",
+        "en": "Mahavira"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/ancient-faith-in-the-modern-world"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_avesta",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется собрание священных текстов зороастризма?",
+        "explanation": "Древнейшие гимны в этой традиции известны как Гаты."
+      },
+      "en": {
+        "question": "What is the collection of Zoroastrian sacred texts called?",
+        "explanation": "The oldest hymns in this tradition are known as the Gathas."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Авеста",
+        "en": "Avesta"
+      },
+      {
+        "id": "o1",
+        "ru": "Талмуд",
+        "en": "Talmud"
+      },
+      {
+        "id": "o2",
+        "ru": "Веды",
+        "en": "Vedas"
+      },
+      {
+        "id": "o3",
+        "ru": "Трипитака",
+        "en": "Tripitaka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/avesta"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_monotheism",
+    "categoryId": "world_religions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется вера в единого Бога?",
+        "explanation": "Иудаизм, христианство и ислам обычно относят к монотеистическим традициям."
+      },
+      "en": {
+        "question": "What is belief in one God called?",
+        "explanation": "Judaism, Christianity and Islam are commonly classified as monotheistic traditions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монотеизм",
+        "en": "Monotheism"
+      },
+      {
+        "id": "o1",
+        "ru": "Политеизм",
+        "en": "Polytheism"
+      },
+      {
+        "id": "o2",
+        "ru": "Анимизм",
+        "en": "Animism"
+      },
+      {
+        "id": "o3",
+        "ru": "Дуализм",
+        "en": "Dualism"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-judaism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_mahavira",
+    "categoryId": "world_religions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой учитель считается двадцать четвёртым тиртханкарой в джайнизме?",
+        "explanation": "Тиртханкары — духовные учителя джайнской традиции."
+      },
+      "en": {
+        "question": "Which teacher is regarded as the twenty-fourth Tirthankara in Jainism?",
+        "explanation": "Tirthankaras are spiritual teachers in the Jain tradition."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Махавира",
+        "en": "Mahavira"
+      },
+      {
+        "id": "o1",
+        "ru": "Будда",
+        "en": "Buddha"
+      },
+      {
+        "id": "o2",
+        "ru": "Гуру Нанак",
+        "en": "Guru Nanak"
+      },
+      {
+        "id": "o3",
+        "ru": "Заратустра",
+        "en": "Zarathustra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-jainism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_upanishads",
+    "categoryId": "world_religions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой традицией связаны философские тексты Упанишад?",
+        "explanation": "Упанишады обсуждают, в частности, природу личности и высшей реальности."
+      },
+      "en": {
+        "question": "With which tradition are the philosophical texts called the Upanishads associated?",
+        "explanation": "The Upanishads discuss, among other things, the nature of self and ultimate reality."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индуизм",
+        "en": "Hinduism"
+      },
+      {
+        "id": "o1",
+        "ru": "Сикхизм",
+        "en": "Sikhism"
+      },
+      {
+        "id": "o2",
+        "ru": "Христианство",
+        "en": "Christianity"
+      },
+      {
+        "id": "o3",
+        "ru": "Синтоизм",
+        "en": "Shinto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-hinduism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_khalsa",
+    "categoryId": "world_religions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется сикхская община посвящённых, учреждённая Гуру Гобиндом Сингхом в 1699 году?",
+        "explanation": "Создание Хальсы стало важным событием в истории сикхской общины."
+      },
+      "en": {
+        "question": "What is the initiated Sikh community established by Guru Gobind Singh in 1699 called?",
+        "explanation": "The establishment of the Khalsa was a major event in Sikh community history."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хальса",
+        "en": "Khalsa"
+      },
+      {
+        "id": "o1",
+        "ru": "Сангха",
+        "en": "Sangha"
+      },
+      {
+        "id": "o2",
+        "ru": "Умма",
+        "en": "Ummah"
+      },
+      {
+        "id": "o3",
+        "ru": "Синод",
+        "en": "Synod"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/sikhism"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_nov08_covenant",
+    "categoryId": "world_religions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое понятие описывает особые отношения между Богом и народом Израиля в иудаизме?",
+        "explanation": "Завет связывает религиозное предание с обязательствами общины."
+      },
+      "en": {
+        "question": "Which concept describes the relationship between God and the people of Israel in Judaism?",
+        "explanation": "The covenant connects religious tradition with obligations of the community."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Завет",
+        "en": "Covenant"
+      },
+      {
+        "id": "o1",
+        "ru": "Карма",
+        "en": "Karma"
+      },
+      {
+        "id": "o2",
+        "ru": "Нирвана",
+        "en": "Nirvana"
+      },
+      {
+        "id": "o3",
+        "ru": "Мудра",
+        "en": "Mudra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/introduction-to-judaism"
+    ],
+    "image": null
+  }
+]

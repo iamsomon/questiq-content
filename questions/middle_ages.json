@@ -1,0 +1,882 @@
+[
+  {
+    "id": "middle_ages_nov08_charlemagne",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Королём какого народа Карл Великий стал в 768 году?",
+        "explanation": "В 800 году он также получил императорскую корону."
+      },
+      "en": {
+        "question": "Of which people did Charlemagne become king in 768?",
+        "explanation": "In 800 he also received an imperial crown."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Франками",
+        "en": "Franks"
+      },
+      {
+        "id": "o1",
+        "ru": "Лангобардами",
+        "en": "Lombards"
+      },
+      {
+        "id": "o2",
+        "ru": "Вестготами",
+        "en": "Visigoths"
+      },
+      {
+        "id": "o3",
+        "ru": "Остготами",
+        "en": "Ostrogoths"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/carolingian-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_coronation",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году Карл Великий был коронован императором?",
+        "explanation": "Коронация состоялась в день Рождества."
+      },
+      "en": {
+        "question": "In which year was Charlemagne crowned emperor?",
+        "explanation": "The coronation took place on Christmas Day."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "800",
+        "en": "800"
+      },
+      {
+        "id": "o1",
+        "ru": "476",
+        "en": "476"
+      },
+      {
+        "id": "o2",
+        "ru": "1066",
+        "en": "1066"
+      },
+      {
+        "id": "o3",
+        "ru": "1453",
+        "en": "1453"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/carolingian-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_leo",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой папа короновал Карла Великого императором?",
+        "explanation": "Коронация подчёркивала союз императорской власти и церкви."
+      },
+      "en": {
+        "question": "Which pope crowned Charlemagne emperor?",
+        "explanation": "The coronation emphasised the alliance between imperial authority and the Church."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лев III",
+        "en": "Leo III"
+      },
+      {
+        "id": "o1",
+        "ru": "Урбан II",
+        "en": "Urban II"
+      },
+      {
+        "id": "o2",
+        "ru": "Григорий VII",
+        "en": "Gregory VII"
+      },
+      {
+        "id": "o3",
+        "ru": "Иннокентий III",
+        "en": "Innocent III"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/carolingian-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_latin",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой язык Карл Великий поддерживал как язык учёности?",
+        "explanation": "Культурное возрождение сопровождалось повышением образовательных стандартов."
+      },
+      "en": {
+        "question": "Which language did Charlemagne promote as a language of scholarship?",
+        "explanation": "The cultural revival also raised educational standards."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Латынь",
+        "en": "Latin"
+      },
+      {
+        "id": "o1",
+        "ru": "Греческий",
+        "en": "Greek"
+      },
+      {
+        "id": "o2",
+        "ru": "Древнеанглийский",
+        "en": "Old English"
+      },
+      {
+        "id": "o3",
+        "ru": "Арабский",
+        "en": "Arabic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/carolingian-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_revival",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют Каролингским возрождением?",
+        "explanation": "Название происходит от латинской формы имени Карл — Carolus."
+      },
+      "en": {
+        "question": "What is the Carolingian Renaissance?",
+        "explanation": "The name derives from Carolus, the Latin form of Charles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Культурный подъём эпохи Карла Великого",
+        "en": "The cultural revival of Charlemagne's age"
+      },
+      {
+        "id": "o1",
+        "ru": "Культурный подъём Византии при Македонской династии",
+        "en": "Byzantium's cultural revival under the Macedonian dynasty"
+      },
+      {
+        "id": "o2",
+        "ru": "Расцвет итальянских городов XV века",
+        "en": "The flourishing of Italian cities in the fifteenth century"
+      },
+      {
+        "id": "o3",
+        "ru": "Распространение печатных книг XVI века",
+        "en": "The spread of printed books in the sixteenth century"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/carolingian-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_hastings_year",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году произошла битва при Гастингсе?",
+        "explanation": "Сражение состоялось 14 октября."
+      },
+      "en": {
+        "question": "In which year was the Battle of Hastings fought?",
+        "explanation": "The battle took place on 14 October."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1066",
+        "en": "1066"
+      },
+      {
+        "id": "o1",
+        "ru": "1215",
+        "en": "1215"
+      },
+      {
+        "id": "o2",
+        "ru": "1415",
+        "en": "1415"
+      },
+      {
+        "id": "o3",
+        "ru": "1485",
+        "en": "1485"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_normandy",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каким герцогством правил Вильгельм, вторгшийся в Англию в 1066 году?",
+        "explanation": "После победы его стали знать как Вильгельма Завоевателя."
+      },
+      "en": {
+        "question": "Which duchy did William rule when he invaded England in 1066?",
+        "explanation": "After his victory he became known as William the Conqueror."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нормандия",
+        "en": "Normandy"
+      },
+      {
+        "id": "o1",
+        "ru": "Бургундия",
+        "en": "Burgundy"
+      },
+      {
+        "id": "o2",
+        "ru": "Бретань",
+        "en": "Brittany"
+      },
+      {
+        "id": "o3",
+        "ru": "Аквитания",
+        "en": "Aquitaine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_harold",
+    "categoryId": "middle_ages",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какого английского короля победила армия Вильгельма при Гастингсе?",
+        "explanation": "Гарольд был коронован в январе того же года."
+      },
+      "en": {
+        "question": "Which English king's army did William defeat at Hastings?",
+        "explanation": "Harold had been crowned in January of the same year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гарольд II",
+        "en": "Harold II"
+      },
+      {
+        "id": "o1",
+        "ru": "Иоанн Безземельный",
+        "en": "King John"
+      },
+      {
+        "id": "o2",
+        "ru": "Ричард III",
+        "en": "Richard III"
+      },
+      {
+        "id": "o3",
+        "ru": "Генрих VIII",
+        "en": "Henry VIII"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_pointed",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой тип арки особенно характерен для готической архитектуры?",
+        "explanation": "Стрельчатая арка помогала перекрывать проёмы разной ширины и высоты."
+      },
+      "en": {
+        "question": "Which arch type is especially characteristic of Gothic architecture?",
+        "explanation": "Pointed arches helped span openings of different widths and heights."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрельчатая",
+        "en": "Pointed"
+      },
+      {
+        "id": "o1",
+        "ru": "Подковообразная",
+        "en": "Horseshoe"
+      },
+      {
+        "id": "o2",
+        "ru": "Полуциркульная",
+        "en": "Semicircular"
+      },
+      {
+        "id": "o3",
+        "ru": "Килевидная",
+        "en": "Ogee"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/gothic-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_windows",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую роль играли большие витражи в готическом соборе?",
+        "explanation": "Сюжеты витражей могли рассказывать о библейских событиях и святых."
+      },
+      "en": {
+        "question": "What role did large stained-glass windows play in a Gothic cathedral?",
+        "explanation": "Window scenes could recount biblical events and saints' lives."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Создавали цветное освещение и передавали сюжеты",
+        "en": "Created coloured light and conveyed stories"
+      },
+      {
+        "id": "o1",
+        "ru": "Передавали распор сводов наружным опорам",
+        "en": "Transferred vault thrust to external supports"
+      },
+      {
+        "id": "o2",
+        "ru": "Усиливали фундамент под колоннами",
+        "en": "Strengthened the foundation below columns"
+      },
+      {
+        "id": "o3",
+        "ru": "Поддерживали каменные рёбра сводов",
+        "en": "Supported the stone ribs of vaults"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/gothic-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_buttress",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую конструктивную задачу решает аркбутан готического собора?",
+        "explanation": "Внешние опоры позволяли делать стены тоньше и окна больше."
+      },
+      "en": {
+        "question": "What structural task does a Gothic flying buttress perform?",
+        "explanation": "External supports allowed thinner walls and larger windows."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Воспринимает боковой распор сводов",
+        "en": "Takes the vault's outward thrust"
+      },
+      {
+        "id": "o1",
+        "ru": "Несёт перемычку входного портала",
+        "en": "Carries the entrance portal lintel"
+      },
+      {
+        "id": "o2",
+        "ru": "Соединяет края витражных стёкол",
+        "en": "Joins the edges of stained-glass panes"
+      },
+      {
+        "id": "o3",
+        "ru": "Укрепляет подземный свод крипты",
+        "en": "Reinforces the underground crypt vault"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/gothic-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_gothic_birth",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком районе Европы в XII веке сложилась готическая архитектура?",
+        "explanation": "Затем новый архитектурный язык распространился по Европе."
+      },
+      "en": {
+        "question": "In which European area did Gothic architecture emerge in the twelfth century?",
+        "explanation": "The new architectural language subsequently spread across Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Окрестности Парижа",
+        "en": "The area around Paris"
+      },
+      {
+        "id": "o1",
+        "ru": "Окрестности Афин",
+        "en": "The area around Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Юг Португалии",
+        "en": "Southern Portugal"
+      },
+      {
+        "id": "o3",
+        "ru": "Север Исландии",
+        "en": "Northern Iceland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/gothic-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_mongols",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой народ правил Китаем при династии Юань?",
+        "explanation": "Китай стал частью более обширного Монгольского государства."
+      },
+      "en": {
+        "question": "Which people ruled China under the Yuan dynasty?",
+        "explanation": "China became part of a larger Mongol political realm."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монголы",
+        "en": "Mongols"
+      },
+      {
+        "id": "o1",
+        "ru": "Маньчжуры",
+        "en": "Manchus"
+      },
+      {
+        "id": "o2",
+        "ru": "Кидани",
+        "en": "Khitans"
+      },
+      {
+        "id": "o3",
+        "ru": "Чжурчжэни",
+        "en": "Jurchens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_dadu",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется сегодня город Даду, столица императоров Юань?",
+        "explanation": "Город также был известен под названием Ханбалык."
+      },
+      "en": {
+        "question": "What is Dadu, the Yuan emperors' capital, called today?",
+        "explanation": "The city was also known as Khanbaliq."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пекин",
+        "en": "Beijing"
+      },
+      {
+        "id": "o1",
+        "ru": "Шанхай",
+        "en": "Shanghai"
+      },
+      {
+        "id": "o2",
+        "ru": "Киото",
+        "en": "Kyoto"
+      },
+      {
+        "id": "o3",
+        "ru": "Сеул",
+        "en": "Seoul"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_centuries",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К каким векам относится правление династии Юань в Китае: 1271–1368 годы?",
+        "explanation": "Эта эпоха входит в историю средневековой Восточной Азии."
+      },
+      "en": {
+        "question": "Which centuries span China's Yuan dynasty, dated 1271–1368?",
+        "explanation": "This period belongs to the history of medieval East Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "XIII–XIV",
+        "en": "Thirteenth–fourteenth"
+      },
+      {
+        "id": "o1",
+        "ru": "IX–X",
+        "en": "Ninth–tenth"
+      },
+      {
+        "id": "o2",
+        "ru": "XI–XII",
+        "en": "Eleventh–twelfth"
+      },
+      {
+        "id": "o3",
+        "ru": "XV–XVI",
+        "en": "Fifteenth–sixteenth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_literati",
+    "categoryId": "middle_ages",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 2,
+    "localizations": {
+      "ru": {
+        "question": "Какая цель особенно важна для живописи учёных эпохи Юань?",
+        "explanation": "Художники использовали возможности кисти не только для внешнего сходства."
+      },
+      "en": {
+        "question": "Which aim is especially important in Yuan scholar-painting?",
+        "explanation": "Artists used brushwork for more than outward resemblance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Самовыражение художника",
+        "en": "The artist's self-expression"
+      },
+      {
+        "id": "o1",
+        "ru": "Точная копия архитектурного плана",
+        "en": "An exact copy of an architectural plan"
+      },
+      {
+        "id": "o2",
+        "ru": "Строгое воспроизведение внешнего сходства",
+        "en": "Strict reproduction of outward likeness"
+      },
+      {
+        "id": "o3",
+        "ru": "Стандартизация орнамента керамики",
+        "en": "Standardisation of ceramic decoration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_suger",
+    "categoryId": "middle_ages",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "При каком аббате перестройка Сен-Дени стала важным этапом ранней готики?",
+        "explanation": "Перестройка восточной части церкви датируется 1140–1144 годами."
+      },
+      "en": {
+        "question": "Under which abbot did the rebuilding of Saint-Denis become a key stage of early Gothic?",
+        "explanation": "The rebuilding of the church's eastern end dates to 1140–1144."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сугерий",
+        "en": "Suger"
+      },
+      {
+        "id": "o1",
+        "ru": "Бернард Клервоский",
+        "en": "Bernard of Clairvaux"
+      },
+      {
+        "id": "o2",
+        "ru": "Алкуин",
+        "en": "Alcuin"
+      },
+      {
+        "id": "o3",
+        "ru": "Беда Достопочтенный",
+        "en": "Bede"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/gothic-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_paiza",
+    "categoryId": "middle_ages",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 2,
+    "localizations": {
+      "ru": {
+        "question": "Для чего предназначалась монгольская пайцза — пластина с надписью?",
+        "explanation": "Такие пластины использовали как удостоверение права на проезд."
+      },
+      "en": {
+        "question": "What was a Mongol paiza, an inscribed tablet, intended for?",
+        "explanation": "Such tablets served as credentials for safe passage."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подтверждать право на безопасный проезд",
+        "en": "To certify safe conduct"
+      },
+      {
+        "id": "o1",
+        "ru": "Измерять вес серебра",
+        "en": "To measure silver weight"
+      },
+      {
+        "id": "o2",
+        "ru": "Определять время суток",
+        "en": "To tell the time of day"
+      },
+      {
+        "id": "o3",
+        "ru": "Записывать музыкальный строй",
+        "en": "To record musical tuning"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_cobalt",
+    "categoryId": "middle_ages",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 2,
+    "localizations": {
+      "ru": {
+        "question": "Какой пигмент использовали для синей подглазурной росписи фарфора эпохи Юань?",
+        "explanation": "Роспись нанесена под прозрачной глазурью."
+      },
+      "en": {
+        "question": "Which pigment was used for blue underglaze decoration on Yuan porcelain?",
+        "explanation": "The decoration lies beneath a transparent glaze."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кобальт",
+        "en": "Cobalt"
+      },
+      {
+        "id": "o1",
+        "ru": "Киноварь",
+        "en": "Cinnabar"
+      },
+      {
+        "id": "o2",
+        "ru": "Малахит",
+        "en": "Malachite"
+      },
+      {
+        "id": "o3",
+        "ru": "Охра",
+        "en": "Ochre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_nov08_kesi",
+    "categoryId": "middle_ages",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 2,
+    "localizations": {
+      "ru": {
+        "question": "К какому виду искусства относится китайская техника кэсы (kesi)?",
+        "explanation": "В этой технике создавали, в частности, тканые мандалы."
+      },
+      "en": {
+        "question": "Which art form uses the Chinese technique called kesi?",
+        "explanation": "Woven mandalas were among the works made using this technique."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шёлковое ткачество типа гобелена",
+        "en": "Silk tapestry weaving"
+      },
+      {
+        "id": "o1",
+        "ru": "Резьбу по нефриту",
+        "en": "Jade carving"
+      },
+      {
+        "id": "o2",
+        "ru": "Литьё бронзы",
+        "en": "Bronze casting"
+      },
+      {
+        "id": "o3",
+        "ru": "Письмо маслом на холсте",
+        "en": "Oil painting on canvas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
+    ],
+    "image": null
+  }
+]

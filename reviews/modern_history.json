@@ -1,0 +1,362 @@
+[
+  {
+    "id": "modern_history_nov08_peace_525_1965",
+    "status": "approved",
+    "sha256": "a1a45a4af58b101d31e809dd61987f7c8e89f655d0c2d1c771dad9f58748d78e",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=525",
+        "location": "laureate id=525; peace prize 1965; motivation; founding year (born) or other prizes",
+        "claim": "For which work was United Nations Children's Fund awarded the 1965 Nobel Peace Prize? Answer: Promoting international solidarity and reducing inequalities. This organisation began its work in 1946."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_994_2020",
+    "status": "approved",
+    "sha256": "7683993cb725ed79e2c0d9752e9684fd18d7dadc318bab9513b6e13194590afb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=994",
+        "location": "laureate id=994; peace prize 2020; motivation; founding year (born) or other prizes",
+        "claim": "For which work was World Food Programme awarded the 2020 Nobel Peace Prize? Answer: Combating hunger. This organisation began its work in 1961."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_568_1999",
+    "status": "approved",
+    "sha256": "20ae9b8593ac41904f2508e6e65aaadc887849346a54a5fb271a7dd7ef711f7c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=568",
+        "location": "laureate id=568; peace prize 1999; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Doctors Without Borders awarded the 1999 Nobel Peace Prize? Answer: Humanitarian work on several continents. This organisation began its work in 1971."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_537_1977",
+    "status": "approved",
+    "sha256": "513f7dc6926c6c42233d4a05f5f3954ed2883d08646409f1942ebed08fb0e36c",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=537",
+        "location": "laureate id=537; peace prize 1977; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Amnesty International awarded the 1977 Nobel Peace Prize? Answer: Worldwide respect for human rights. This organisation began its work in 1961."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_482_1917",
+    "status": "approved",
+    "sha256": "e02003510f351cd7c2cef08c63ce3c10d548002377ad10d30ab76545ad57e1b1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=482",
+        "location": "laureate id=482; peace prize 1917; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Committee of the Red Cross awarded the 1917 Nobel Peace Prize? Answer: Care for wounded soldiers and prisoners of war. The committee also received the Nobel Peace Prize in 1944 and 1963."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_515_1954",
+    "status": "approved",
+    "sha256": "89335e1d58162b0412d1993606c84526d90989dcf956f5074d73fa6aec57fbe6",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=515",
+        "location": "laureate id=515; peace prize 1954; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Office of the United Nations High Commissioner for Refugees awarded the 1954 Nobel Peace Prize? Answer: Protection and assistance for refugees. This organisation began its work in 1950."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_748_2001",
+    "status": "approved",
+    "sha256": "bc6703ed7773338930947d4ce19779049037ad3137f4d5de92eb4cfd1bad3569",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=748",
+        "location": "laureate id=748; peace prize 2001; motivation; founding year (born) or other prizes",
+        "claim": "For which work was United Nations awarded the 2001 Nobel Peace Prize? Answer: Promoting a more organised and peaceful world. This organisation began its work in 1945."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_881_2012",
+    "status": "approved",
+    "sha256": "913fdb95fc041a40d1ca59889ed45469e61bde0d50e77759ab958fb5cb1794d0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=881",
+        "location": "laureate id=881; peace prize 2012; motivation; founding year (born) or other prizes",
+        "claim": "For which work was European Union awarded the 2012 Nobel Peace Prize? Answer: Peace, reconciliation, democracy and human rights in Europe. The award recognised more than six decades of European cooperation."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_527_1969",
+    "status": "approved",
+    "sha256": "7ed99dcd9c4d2c7e57c725b13f99e5b521c1b36d7c64cfbfd53c3ff651048f14",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=527",
+        "location": "laureate id=527; peace prize 1969; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Labour Organization awarded the 1969 Nobel Peace Prize? Answer: International standards for working conditions. This organisation began its work in 1919."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_893_2013",
+    "status": "approved",
+    "sha256": "525076274c3ee4e2f6f6215c350c9f746e819b543c8eb84748d98a78d82b7bfc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=893",
+        "location": "laureate id=893; peace prize 2013; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Organisation for the Prohibition of Chemical Weapons awarded the 2013 Nobel Peace Prize? Answer: Efforts to eliminate chemical weapons. This organisation began its work in 1997."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_564_1997",
+    "status": "approved",
+    "sha256": "e7b58729ed6ca6d2458a1e0d72de858d90ebd4dde232f4fbb847d51a01be5c4a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=564",
+        "location": "laureate id=564; peace prize 1997; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Campaign to Ban Landmines awarded the 1997 Nobel Peace Prize? Answer: Banning and clearing anti-personnel mines. This organisation began its work in 1992."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_797_2005",
+    "status": "approved",
+    "sha256": "db9adf6c217287fddd153f616b51a3e0881e1761b88fb38fd9b73b4441e8fc23",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=797",
+        "location": "laureate id=797; peace prize 2005; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Atomic Energy Agency awarded the 2005 Nobel Peace Prize? Answer: Peaceful and safe use of nuclear energy. This organisation began its work in 1957."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_818_2007",
+    "status": "approved",
+    "sha256": "039610c69219cdc1becf030cc5cf8fa1fae9c55c152e5e3a366d4fc11ac28d7d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=818",
+        "location": "laureate id=818; peace prize 2007; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Intergovernmental Panel on Climate Change awarded the 2007 Nobel Peace Prize? Answer: Spreading knowledge of human-caused climate change. This organisation began its work in 1988."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_948_2017",
+    "status": "approved",
+    "sha256": "16f6449d87d54807137a404e1f3d517d8e4b8b2d5221fd089f8bd7ee2471223f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=948",
+        "location": "laureate id=948; peace prize 2017; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Campaign to Abolish Nuclear Weapons awarded the 2017 Nobel Peace Prize? Answer: A treaty-based prohibition of nuclear weapons. This organisation began its work in 2007."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_547_1985",
+    "status": "approved",
+    "sha256": "be66d915e192b25bd8f570aeef0a7ff1d6f5bd34fd851360169b0aa10075d0d5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=547",
+        "location": "laureate id=547; peace prize 1985; motivation; founding year (born) or other prizes",
+        "claim": "For which work was International Physicians for the Prevention of Nuclear War awarded the 1985 Nobel Peace Prize? Answer: Informing people about catastrophic consequences of nuclear war. This organisation began its work in 1980."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_561_1995",
+    "status": "approved",
+    "sha256": "b27558cebe6619e5287995e4b1be073efcc87f9cfc55a14cb29ad9df7db69d93",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=561",
+        "location": "laureate id=561; peace prize 1995; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Pugwash Conferences on Science and World Affairs awarded the 1995 Nobel Peace Prize? Answer: Reducing the role of nuclear weapons. This organisation began its work in 1957."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_467_1904",
+    "status": "approved",
+    "sha256": "298ef830bdbae56640fb3489013707be4f2795e2fcd17f3a0ddda3eed4973b12",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=467",
+        "location": "laureate id=467; peace prize 1904; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Institute of International Law awarded the 1904 Nobel Peace Prize? Answer: Developing peaceful relations through international law. This organisation began its work in 1873."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_477_1910",
+    "status": "approved",
+    "sha256": "ee05bb01c41d1e56f6ef3080ae9b0008c2fafddd51af6556964abb83fb36e149",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=477",
+        "location": "laureate id=477; peace prize 1910; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Permanent International Peace Bureau awarded the 1910 Nobel Peace Prize? Answer: Cooperation among national peace societies. This organisation began its work in 1891."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_503_1938",
+    "status": "approved",
+    "sha256": "dbc01719086a0e74247cba76aac56fde4cb49f936e3948b37d910c1e86e51a66",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=503",
+        "location": "laureate id=503; peace prize 1938; motivation; founding year (born) or other prizes",
+        "claim": "For which work was Nansen International Office for Refugees awarded the 1938 Nobel Peace Prize? Answer: Continuing aid to refugees in Europe. The organisation continued refugee assistance begun by Fridtjof Nansen."
+      }
+    ]
+  },
+  {
+    "id": "modern_history_nov08_peace_550_1988",
+    "status": "approved",
+    "sha256": "6ef3548286980ff49f5227ad1b47f27b012b38d62faba84e6059a52922d56d86",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=550",
+        "location": "laureate id=550; peace prize 1988; motivation; founding year (born) or other prizes",
+        "claim": "For which work was United Nations Peacekeeping Forces awarded the 1988 Nobel Peace Prize? Answer: Preventing armed clashes and creating conditions for negotiations. This organisation began its work in 1948."
+      }
+    ]
+  }
+]

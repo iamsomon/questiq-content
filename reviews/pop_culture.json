@@ -1,0 +1,362 @@
+[
+  {
+    "id": "pop_culture_nov08_luigi",
+    "status": "approved",
+    "sha256": "4757f4146eebb05092b71e5d384049aad9d80f8f4e94e698c3b3516ff6042645",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://mario.nintendo.com/ca/characters/",
+        "location": "Luigi",
+        "claim": "What is Mario's brother's name in Nintendo games? Answer: Luigi. Luigi is recognisable by his green cap and shirt."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_peach",
+    "status": "approved",
+    "sha256": "a683880f61986a793fcdb7c02881a6158a7a43cd6a0cc0aa83e2e6b2602a7bcc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://mario.nintendo.com/ca/characters/",
+        "location": "Princess Peach",
+        "claim": "Which princess is associated with the Mushroom Kingdom in Mario's world? Answer: Peach. Her familiar appearance includes a pink dress."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_bowser",
+    "status": "approved",
+    "sha256": "df12dbce5aa64043e5f4a4c3a1689f2e159b79c00fa0a1a2e63b7182f1366730",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://mario.nintendo.com/ca/characters/",
+        "location": "Bowser",
+        "claim": "Who is the King of the Koopas in Mario games? Answer: Bowser. Bowser is Mario's recurring adversary."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_yoshi",
+    "status": "approved",
+    "sha256": "8c9aff9e5902d539f9174ecdc61944d93102a83ab81f0b0dd74541679f2eb36d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://mario.nintendo.com/ca/characters/",
+        "location": "Yoshi",
+        "claim": "What is the name of Mario's green companion with a long tongue who can lay eggs? Answer: Yoshi. Yoshi can turn swallowed enemies into throwable eggs."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_daisy",
+    "status": "approved",
+    "sha256": "df6272847b5bf11a8df809e7c74f9cd9170d45aabe8b1f8feb934f6e317a0724",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://mario.nintendo.com/ca/characters/",
+        "location": "Daisy",
+        "claim": "Of which land does Nintendo describe Daisy as princess? Answer: Sarasaland. Her signature appearance includes a yellow dress and flower accessories."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_r2",
+    "status": "approved",
+    "sha256": "2b20141439710dc40d2d088f5c4ee2906faf1b69a5aa5829356b534bcb62313b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/r2-d2",
+        "location": "Databank description",
+        "claim": "Which Star Wars droid is an astromech? Answer: R2-D2. R2-D2 helps service spacecraft and accompanies pilots."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_c3",
+    "status": "approved",
+    "sha256": "15a56330d5768e6c4620095b1b0129d55ab795208042e3b9a61138cb7036efdd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/c-3po",
+        "location": "Databank description",
+        "claim": "What is C-3PO's speciality in Star Wars? Answer: Etiquette, protocol and translation. He is a protocol droid often working alongside R2-D2."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_chewbacca",
+    "status": "approved",
+    "sha256": "39785d78ce31bf79199b8bc9eb08d3ef2c8fe16d505b0bb936865da35b15b69f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/chewbacca",
+        "location": "Databank description",
+        "claim": "To which people does Chewbacca belong? Answer: Wookiees. Chewbacca is Han Solo's partner and the ship's co-pilot."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_falcon",
+    "status": "approved",
+    "sha256": "8a7029bbd0b31465cc39594d85a4592a77610c19b547bbf8847cf44a6de0216f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/millennium-falcon",
+        "location": "Databank description",
+        "claim": "What is Han Solo's famous ship called? Answer: Millennium Falcon. It is a modified freighter rather than a starfighter."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_yoda",
+    "status": "approved",
+    "sha256": "df800c50a20d68dc450909d2f9ecaffdf301cdda46ccce68b7f1e14c6fa6a802",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/yoda",
+        "location": "Databank description",
+        "claim": "To which order does Master Yoda belong? Answer: Jedi. Yoda trained Jedi over many generations."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_vader",
+    "status": "approved",
+    "sha256": "006d5765b4fb7937458db623ffba18ccf94611945cc187fec7f30a04ef22f217",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/darth-vader",
+        "location": "Databank description",
+        "claim": "Who was Darth Vader before turning to the dark side? Answer: Anakin Skywalker. His earlier life was connected with the Jedi Order."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_tatooine",
+    "status": "approved",
+    "sha256": "3b0560b251bb265873acd715f70b3b930711a702560a8a0d623f242d458e6a82",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/tatooine",
+        "location": "Databank description",
+        "claim": "Which landscape is characteristic of Tatooine? Answer: Desert. The planet orbits twin suns."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_lightsaber",
+    "status": "approved",
+    "sha256": "29dcc57c84881a584923ce024abba37acfbd02ef46527046d2a4dc18d6800292",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/lightsaber",
+        "location": "Databank description",
+        "claim": "Which weapon is especially associated with Jedi and Sith? Answer: Lightsaber. A lightsaber's blade is produced by an energy device in its hilt."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_hoth",
+    "status": "approved",
+    "sha256": "3afb2148e6d147ba4fa085b0190c76b6cf235f751bfd01ae5a7b5d3eb115c0fa",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/hoth",
+        "location": "Databank description",
+        "claim": "Which environment characterises the planet Hoth? Answer: Icy. The Rebels established Echo Base on Hoth."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_deathstar",
+    "status": "approved",
+    "sha256": "25204de4a30270ce4c673592a967a8bc687ac8d99afccf23ab28deb808209466",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.starwars.com/databank/death-star",
+        "location": "Databank description",
+        "claim": "What is the Death Star in Star Wars? Answer: A battle space station. The station carries a powerful weapon capable of destroying planets."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_hogwarts",
+    "status": "approved",
+    "sha256": "7045798a18ce52f35c361fc59cc8f346da097d46921de777787dc9a80bcd66fd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.harrypotter.com/fact-file/locations/hogwarts",
+        "location": "Fact file",
+        "claim": "What is taught at Hogwarts in the Harry Potter books? Answer: Witchcraft and wizardry. The school occupies a castle in the Scottish Highlands."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_gryffindor",
+    "status": "approved",
+    "sha256": "55ed2d3b9e3c309fe26377ff63e68800e541b27b9c83906b5f4107bfdc9c5d32",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.harrypotter.com/features/hogwarts-house-meanings",
+        "location": "Gryffindor",
+        "claim": "Which animal appears on Gryffindor's emblem? Answer: Lion. The house colours are scarlet and gold."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_slytherin",
+    "status": "approved",
+    "sha256": "3f4c2fe150675c417c2b21e713e994b6eea9e71ca175154c2761a302156332a9",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.harrypotter.com/features/hogwarts-house-meanings",
+        "location": "Slytherin",
+        "claim": "Which animal appears on Slytherin's emblem? Answer: Snake. The house colours are silver and emerald green."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_ravenclaw",
+    "status": "approved",
+    "sha256": "7f2411b5c7fc66bc4a35f22801085bb4ac39763da3a00fa9ab3f3cae12a92b14",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.harrypotter.com/features/hogwarts-house-meanings",
+        "location": "Ravenclaw",
+        "claim": "What is Ravenclaw's symbol in the Harry Potter books? Answer: Eagle. Despite the house's English name, its book symbol is an eagle."
+      }
+    ]
+  },
+  {
+    "id": "pop_culture_nov08_hufflepuff",
+    "status": "approved",
+    "sha256": "24fd2d2fe8a9720f0af77bba23316d9f53fa3c4fccb626a116c9d81e926f8e55",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.harrypotter.com/features/hogwarts-house-meanings",
+        "location": "Hufflepuff",
+        "claim": "Which animal is Hufflepuff's symbol? Answer: Badger. The house colours are yellow and black."
+      }
+    ]
+  }
+]

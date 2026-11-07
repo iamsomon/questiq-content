@@ -1,0 +1,362 @@
+[
+  {
+    "id": "celebrities_nov08_birth_937",
+    "status": "approved",
+    "sha256": "d54f480173910c44da711c239e7b8b12c7fd0041f3b8f98e9098d26100b440cd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=937",
+        "location": "laureate id=937; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Bob Dylan born? Answer: USA. He was born in Duluth, MN."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_583",
+    "status": "approved",
+    "sha256": "d364f5996665de05c17d939e5aa70a8217b45cf07469c6fc1901866194a69b0d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=583",
+        "location": "laureate id=583; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Rabindranath Tagore born? Answer: India. He was born in Calcutta."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_659",
+    "status": "approved",
+    "sha256": "9210ee87e76b38be5d00fb6a80094a94ae834c9e224b8df030cf1c863edd1261",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=659",
+        "location": "laureate id=659; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Gabriel García Márquez born? Answer: Colombia. He was born in Aracataca."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_625",
+    "status": "approved",
+    "sha256": "92c51ff849ad91b28e2ebbde80e2c7ef54bfe0e5fe735dde647abc5089db24a8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=625",
+        "location": "laureate id=625; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Ernest Hemingway born? Answer: USA. He was born in Oak Park, IL."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_624",
+    "status": "approved",
+    "sha256": "814f9a8b3f52dbfb65a47bf9d3501512656a1a77d1f7a80dee9834d10027f5d4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=624",
+        "location": "laureate id=624; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Winston Churchill born? Answer: United Kingdom. He was born in Woodstock."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_628",
+    "status": "approved",
+    "sha256": "7cb1e7c6115695cfca97902a04ab477015a14b7856980a53d7f53e7ab65c80d8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=628",
+        "location": "laureate id=628; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Albert Camus born? Answer: Algeria. He was born in Mondovi."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_637",
+    "status": "approved",
+    "sha256": "9bfa99dc4ed4a4c4837244c4a9f7cfa0d58922f5b4d9ac998af9593f8e292a9b",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=637",
+        "location": "laureate id=637; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Jean-Paul Sartre born? Answer: France. He was born in Paris."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_634",
+    "status": "approved",
+    "sha256": "a2d2fe475dc71d12f3bbabb0eddcf550a77317d45bd4462eb8b27747281ec1c3",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=634",
+        "location": "laureate id=634; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate John Steinbeck born? Answer: USA. He was born in Salinas, CA."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_620",
+    "status": "approved",
+    "sha256": "b9c390a194a7c89e4e02a39c90a965e8475c814499879519a55a3cf81e491ef4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=620",
+        "location": "laureate id=620; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate William Faulkner born? Answer: USA. He was born in New Albany, MS."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_629",
+    "status": "approved",
+    "sha256": "5a3863ded1677a7a5a6426629bfc3cd91dfa834e8f7c93111683dd46110e6fbc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=629",
+        "location": "laureate id=629; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Boris Pasternak born? Answer: Russia. He was born in Moscow."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_643",
+    "status": "approved",
+    "sha256": "190191602e9e22b0fd3ac53339862a44d784d7274046fd5144b171fb62b15141",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=643",
+        "location": "laureate id=643; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Samuel Beckett born? Answer: Ireland. He was born in Dublin."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_619",
+    "status": "approved",
+    "sha256": "43d4617f3354ab79f883342adb0b59a9888c44b19c96de72c4e3af8dd6319c6f",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=619",
+        "location": "laureate id=619; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate T.S. Eliot born? Answer: USA. He was born in St. Louis, MO."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_644",
+    "status": "approved",
+    "sha256": "ad270eff2576f16079ac740cd4a3879a719e76433d3bf8465abd64d2fd386a2a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=644",
+        "location": "laureate id=644; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Aleksandr Solzhenitsyn born? Answer: Russia. He was born in Kislovodsk."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_663",
+    "status": "approved",
+    "sha256": "f026ea415f43bca6b537c07e88db2d25441b9d9628a4243a172624682a0320cc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=663",
+        "location": "laureate id=663; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Wole Soyinka born? Answer: Nigeria. He was born in Abeokuta."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_667",
+    "status": "approved",
+    "sha256": "2948b7d176158ac680f4921bfb1371f1d8c34ee330230dec0c966f38aaafd0d4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=667",
+        "location": "laureate id=667; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Octavio Paz born? Answer: Mexico. He was born in Mexico City."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_670",
+    "status": "approved",
+    "sha256": "e831694b1752e14083774eb77aeb46ea1a81e2a61add3e60a80761612a9fc96d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=670",
+        "location": "laureate id=670; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Toni Morrison born? Answer: USA. She was born in Lorain, OH."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_577",
+    "status": "approved",
+    "sha256": "1c8db2d53b7bc28760dd62b0cec3f2796bcb50bcecf72362829b70569afd7fd0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=577",
+        "location": "laureate id=577; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Rudyard Kipling born? Answer: India. He was born in Bombay (now Mumbai)."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_615",
+    "status": "approved",
+    "sha256": "d90284311e4a93e070ff34928181b10faa6b53b498afcac2c930aa69556d92b1",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=615",
+        "location": "laureate id=615; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Gabriela Mistral born? Answer: Chile. She was born in Vicuña."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_669",
+    "status": "approved",
+    "sha256": "c3221d7afef57c6a53aac0dc4a12ca6a82de7e4fc79505054fc7cfcacb380734",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=669",
+        "location": "laureate id=669; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Derek Walcott born? Answer: Saint Lucia. He was born in Castries."
+      }
+    ]
+  },
+  {
+    "id": "celebrities_nov08_birth_673",
+    "status": "approved",
+    "sha256": "5de6ab417da71ca1d1de756aff176d8213e4cb9d20fd8f6131c8156f484ec601",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=673",
+        "location": "laureate id=673; bornCity and bornCountryCode",
+        "claim": "In which present-day country was Nobel laureate Wisława Szymborska born? Answer: Poland. She was born in Bnin (now Kórnik)."
+      }
+    ]
+  }
+]

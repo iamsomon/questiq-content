@@ -1,0 +1,882 @@
+[
+  {
+    "id": "buddhism_nov08_siddhartha",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое имя носил исторический Будда до просветления?",
+        "explanation": "В буддийской традиции Сиддхартха отказался от дворцовой жизни ради духовного поиска."
+      },
+      "en": {
+        "question": "What name did the historical Buddha bear before enlightenment?",
+        "explanation": "In Buddhist tradition, Siddhartha left palace life to pursue a spiritual quest."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сиддхартха",
+        "en": "Siddhartha"
+      },
+      {
+        "id": "o1",
+        "ru": "Конфуций",
+        "en": "Confucius"
+      },
+      {
+        "id": "o2",
+        "ru": "Махавира",
+        "en": "Mahavira"
+      },
+      {
+        "id": "o3",
+        "ru": "Лао-цзы",
+        "en": "Laozi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_meaning",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает титул «Будда»?",
+        "explanation": "Титул связан с достижением просветления, а не с царской должностью."
+      },
+      "en": {
+        "question": "What does the title Buddha mean?",
+        "explanation": "The title refers to enlightenment rather than a royal office."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пробуждённый",
+        "en": "Awakened One"
+      },
+      {
+        "id": "o1",
+        "ru": "Великий царь",
+        "en": "Great King"
+      },
+      {
+        "id": "o2",
+        "ru": "Хранитель огня",
+        "en": "Keeper of Fire"
+      },
+      {
+        "id": "o3",
+        "ru": "Небесный воин",
+        "en": "Heavenly Warrior"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_bodhi",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Под каким деревом, согласно буддийской традиции, Будда достиг просветления?",
+        "explanation": "Место просветления почитается в Бодх-Гае."
+      },
+      "en": {
+        "question": "Under which tree did the Buddha attain enlightenment in Buddhist tradition?",
+        "explanation": "The place of enlightenment is venerated at Bodh Gaya."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дерево бодхи",
+        "en": "Bodhi tree"
+      },
+      {
+        "id": "o1",
+        "ru": "Олива",
+        "en": "Olive tree"
+      },
+      {
+        "id": "o2",
+        "ru": "Кедр",
+        "en": "Cedar"
+      },
+      {
+        "id": "o3",
+        "ru": "Баобаб",
+        "en": "Baobab"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1056/"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_stupa",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется буддийское сооружение, традиционно хранящее реликвии?",
+        "explanation": "Ступы стали важными центрами паломничества и монастырских комплексов."
+      },
+      "en": {
+        "question": "What is a Buddhist monument traditionally containing relics called?",
+        "explanation": "Stupas became important centres of pilgrimage and monastic complexes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ступа",
+        "en": "Stupa"
+      },
+      {
+        "id": "o1",
+        "ru": "Минарет",
+        "en": "Minaret"
+      },
+      {
+        "id": "o2",
+        "ru": "Баптистерий",
+        "en": "Baptistery"
+      },
+      {
+        "id": "o3",
+        "ru": "Зиккурат",
+        "en": "Ziggurat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_meditation",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую практику обозначает поза Будды с обращёнными вверх ладонями, лежащими одна на другой на коленях?",
+        "explanation": "Такое положение рук называют дхьяна-мудрой."
+      },
+      "en": {
+        "question": "Which practice is indicated by a Buddha with upward-facing palms resting one on top of the other in the lap?",
+        "explanation": "This hand position is called the dhyana mudra."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медитация",
+        "en": "Meditation"
+      },
+      {
+        "id": "o1",
+        "ru": "Наставление",
+        "en": "Teaching"
+      },
+      {
+        "id": "o2",
+        "ru": "Защита",
+        "en": "Protection"
+      },
+      {
+        "id": "o3",
+        "ru": "Дарование",
+        "en": "Bestowing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/recognizing-the-gods"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_middle",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют путь Будды, отвергающий и роскошь, и крайнее самоистязание?",
+        "explanation": "Согласно традиции, Будда отказался от бесплодной суровой аскезы."
+      },
+      "en": {
+        "question": "What is the Buddha's path rejecting both luxury and extreme self-mortification called?",
+        "explanation": "According to tradition, the Buddha abandoned severe asceticism as unproductive."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Срединный путь",
+        "en": "Middle Path"
+      },
+      {
+        "id": "o1",
+        "ru": "Царский путь",
+        "en": "Royal Path"
+      },
+      {
+        "id": "o2",
+        "ru": "Северный путь",
+        "en": "Northern Path"
+      },
+      {
+        "id": "o3",
+        "ru": "Морской путь",
+        "en": "Sea Route"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_borobudur",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой современной стране находится буддийский храмовый комплекс Боробудур?",
+        "explanation": "Комплекс расположен в центральной части острова Ява."
+      },
+      "en": {
+        "question": "In which modern country is the Buddhist temple complex Borobudur?",
+        "explanation": "The complex stands in central Java."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Индонезия",
+        "en": "Indonesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o2",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o3",
+        "ru": "Китай",
+        "en": "China"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/592/"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_lumbini",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой современной страной связано место рождения Будды в Лумбини?",
+        "explanation": "Лумбини — место буддийского паломничества в южном Непале."
+      },
+      "en": {
+        "question": "Which modern country contains Lumbini, the traditional birthplace of the Buddha?",
+        "explanation": "Lumbini is a Buddhist pilgrimage site in southern Nepal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o1",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o2",
+        "ru": "Таиланд",
+        "en": "Thailand"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/666/"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_karma",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С чем буддийская традиция связывает карму?",
+        "explanation": "В учении о перерождении поступки влияют на будущую жизнь."
+      },
+      "en": {
+        "question": "What does Buddhist tradition associate karma with?",
+        "explanation": "In teachings on rebirth, deeds influence a future life."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поступки и их последствия",
+        "en": "Actions and their consequences"
+      },
+      {
+        "id": "o1",
+        "ru": "Только судьба, заданная при рождении",
+        "en": "Only destiny fixed at birth"
+      },
+      {
+        "id": "o2",
+        "ru": "Независимые от поступков случайности",
+        "en": "Chance events independent of actions"
+      },
+      {
+        "id": "o3",
+        "ru": "Только принадлежность к общине",
+        "en": "Only membership of a community"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_nirvana",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют освобождение от круговорота перерождений в буддизме?",
+        "explanation": "Нирвана обозначает духовную цель, а не название храма или жеста."
+      },
+      "en": {
+        "question": "What is release from the cycle of rebirth called in Buddhism?",
+        "explanation": "Nirvana names a spiritual goal, rather than a temple or a gesture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нирвана",
+        "en": "Nirvana"
+      },
+      {
+        "id": "o1",
+        "ru": "Мудра",
+        "en": "Mudra"
+      },
+      {
+        "id": "o2",
+        "ru": "Мандала",
+        "en": "Mandala"
+      },
+      {
+        "id": "o3",
+        "ru": "Джатака",
+        "en": "Jataka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_jataka",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "О чём рассказывают джатаки?",
+        "explanation": "Эти истории использовались в буддийском искусстве и наставлении."
+      },
+      "en": {
+        "question": "What do Jataka tales recount?",
+        "explanation": "These stories were used in Buddhist art and teaching."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "О прежних жизнях Будды",
+        "en": "The Buddha's previous lives"
+      },
+      {
+        "id": "o1",
+        "ru": "О воплощениях Вишну",
+        "en": "Vishnu's incarnations"
+      },
+      {
+        "id": "o2",
+        "ru": "О деяниях Гуру Нанака",
+        "en": "Guru Nanak's deeds"
+      },
+      {
+        "id": "o3",
+        "ru": "О путешествиях Махавиры",
+        "en": "Mahavira's journeys"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_maitreya",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какого Будду в буддийской традиции связывают с будущим?",
+        "explanation": "Майтрею изображают как будущего Будду, а также как бодхисаттву."
+      },
+      "en": {
+        "question": "Which Buddha is associated with the future in Buddhist tradition?",
+        "explanation": "Maitreya is portrayed as a future Buddha and also as a bodhisattva."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Майтрея",
+        "en": "Maitreya"
+      },
+      {
+        "id": "o1",
+        "ru": "Шакьямуни",
+        "en": "Shakyamuni"
+      },
+      {
+        "id": "o2",
+        "ru": "Амитабха",
+        "en": "Amitabha"
+      },
+      {
+        "id": "o3",
+        "ru": "Вайрочана",
+        "en": "Vairocana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_mudra",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют символическое положение рук в буддийском искусстве?",
+        "explanation": "Разные мудры передают медитацию, наставление или защиту."
+      },
+      "en": {
+        "question": "What is a symbolic hand position in Buddhist art called?",
+        "explanation": "Different mudras convey meditation, teaching or protection."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мудра",
+        "en": "Mudra"
+      },
+      {
+        "id": "o1",
+        "ru": "Сутра",
+        "en": "Sutra"
+      },
+      {
+        "id": "o2",
+        "ru": "Ступа",
+        "en": "Stupa"
+      },
+      {
+        "id": "o3",
+        "ru": "Джатака",
+        "en": "Jataka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/recognizing-the-gods"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_silk",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "По какому историческому торговому пути буддизм распространялся в Китай?",
+        "explanation": "Паломники и торговцы переносили тексты и художественные образы через Центральную Азию."
+      },
+      "en": {
+        "question": "Along which historic trade route did Buddhism spread to China?",
+        "explanation": "Pilgrims and traders carried texts and artistic images through Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шёлковый путь",
+        "en": "Silk Road"
+      },
+      {
+        "id": "o1",
+        "ru": "Янтарный путь",
+        "en": "Amber Road"
+      },
+      {
+        "id": "o2",
+        "ru": "Путь из варяг в греки",
+        "en": "Varangian Route"
+      },
+      {
+        "id": "o3",
+        "ru": "Королевская дорога инков",
+        "en": "Inca Royal Road"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_sanchi",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой индийский памятник известен большой буддийской ступой?",
+        "explanation": "Санчи хранит сооружения, связанные с длительной историей буддийского искусства."
+      },
+      "en": {
+        "question": "Which Indian site is known for its Great Buddhist Stupa?",
+        "explanation": "Sanchi preserves monuments spanning a long history of Buddhist art."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Санчи",
+        "en": "Sanchi"
+      },
+      {
+        "id": "o1",
+        "ru": "Аджанта",
+        "en": "Ajanta"
+      },
+      {
+        "id": "o2",
+        "ru": "Эллора",
+        "en": "Ellora"
+      },
+      {
+        "id": "o3",
+        "ru": "Бадами",
+        "en": "Badami"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/524/"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_bodhgaya",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким событием буддийская традиция связывает Бодх-Гаю?",
+        "explanation": "Храм Махабодхи отмечает место, связанное с этим событием."
+      },
+      "en": {
+        "question": "Which event is associated with Bodh Gaya in Buddhist tradition?",
+        "explanation": "The Mahabodhi Temple marks the place associated with this event."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Просветление Будды",
+        "en": "The Buddha's enlightenment"
+      },
+      {
+        "id": "o1",
+        "ru": "Рождение Будды",
+        "en": "The Buddha's birth"
+      },
+      {
+        "id": "o2",
+        "ru": "Рождение Конфуция",
+        "en": "The birth of Confucius"
+      },
+      {
+        "id": "o3",
+        "ru": "Основание Рима",
+        "en": "The founding of Rome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1056/"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_aniconic",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в раннем буддийском искусстве могли обозначать присутствие Будды без человеческой фигуры?",
+        "explanation": "Использовались также пустое сиденье и пространство под зонтом."
+      },
+      "en": {
+        "question": "How could early Buddhist art indicate the Buddha without a human figure?",
+        "explanation": "An empty seat and the space beneath a parasol were also used."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отпечатками стоп",
+        "en": "Footprints"
+      },
+      {
+        "id": "o1",
+        "ru": "Профильным портретом царя",
+        "en": "A king's portrait in profile"
+      },
+      {
+        "id": "o2",
+        "ru": "Царской погребальной маской",
+        "en": "A royal funerary mask"
+      },
+      {
+        "id": "o3",
+        "ru": "Головой слона с короной",
+        "en": "A crowned elephant head"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_circumambulation",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое ритуальное действие выполняют вокруг ступы?",
+        "explanation": "Вокруг ступы предусматривается путь для ритуального обхода."
+      },
+      "en": {
+        "question": "Which ritual action is performed around a stupa?",
+        "explanation": "A path around a stupa allows ritual circumambulation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обход по кругу",
+        "en": "Circumambulation"
+      },
+      {
+        "id": "o1",
+        "ru": "Подъём на вершину",
+        "en": "Climbing to the top"
+      },
+      {
+        "id": "o2",
+        "ru": "Прыжок через огонь",
+        "en": "Jumping over fire"
+      },
+      {
+        "id": "o3",
+        "ru": "Погружение в воду",
+        "en": "Immersion in water"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_avalokiteshvara",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С каким качеством в буддийском искусстве связан бодхисаттва Авалокитешвара?",
+        "explanation": "В коллекции Метрополитен-музея он назван бодхисаттвой бесконечного сострадания."
+      },
+      "en": {
+        "question": "Which quality is associated with the bodhisattva Avalokiteshvara in Buddhist art?",
+        "explanation": "The Met's collection identifies him as the Bodhisattva of Infinite Compassion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сострадание",
+        "en": "Compassion"
+      },
+      {
+        "id": "o1",
+        "ru": "Военная власть",
+        "en": "Military power"
+      },
+      {
+        "id": "o2",
+        "ru": "Морская торговля",
+        "en": "Maritime trade"
+      },
+      {
+        "id": "o3",
+        "ru": "Земледелие",
+        "en": "Agriculture"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_nov08_lotus",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется распространённая поза медитации со скрещёнными ногами?",
+        "explanation": "В искусствоведческой терминологии эту позу называют падмасаной."
+      },
+      "en": {
+        "question": "What is the common cross-legged meditation posture called?",
+        "explanation": "In art-historical terminology this posture is called padmasana."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поза лотоса",
+        "en": "Lotus posture"
+      },
+      {
+        "id": "o1",
+        "ru": "Поза орла",
+        "en": "Eagle posture"
+      },
+      {
+        "id": "o2",
+        "ru": "Поза лодки",
+        "en": "Boat posture"
+      },
+      {
+        "id": "o3",
+        "ru": "Поза дерева",
+        "en": "Tree posture"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/essays/recognizing-the-gods"
+    ],
+    "image": null
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": "pop_culture_nov08_luigi",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут брата Марио в играх Nintendo?",
+        "explanation": "Луиджи легко узнать по зелёной кепке и рубашке."
+      },
+      "en": {
+        "question": "What is Mario's brother's name in Nintendo games?",
+        "explanation": "Luigi is recognisable by his green cap and shirt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луиджи",
+        "en": "Luigi"
+      },
+      {
+        "id": "o1",
+        "ru": "Боузер",
+        "en": "Bowser"
+      },
+      {
+        "id": "o2",
+        "ru": "Варио",
+        "en": "Wario"
+      },
+      {
+        "id": "o3",
+        "ru": "Тоад",
+        "en": "Toad"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://mario.nintendo.com/ca/characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_peach",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая принцесса связана с Грибным королевством в мире Марио?",
+        "explanation": "Её традиционный образ включает розовое платье."
+      },
+      "en": {
+        "question": "Which princess is associated with the Mushroom Kingdom in Mario's world?",
+        "explanation": "Her familiar appearance includes a pink dress."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пич",
+        "en": "Peach"
+      },
+      {
+        "id": "o1",
+        "ru": "Дейзи",
+        "en": "Daisy"
+      },
+      {
+        "id": "o2",
+        "ru": "Розалина",
+        "en": "Rosalina"
+      },
+      {
+        "id": "o3",
+        "ru": "Зельда",
+        "en": "Zelda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://mario.nintendo.com/ca/characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_bowser",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто считается королём куп в играх о Марио?",
+        "explanation": "Боузер — постоянный противник Марио."
+      },
+      "en": {
+        "question": "Who is the King of the Koopas in Mario games?",
+        "explanation": "Bowser is Mario's recurring adversary."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боузер",
+        "en": "Bowser"
+      },
+      {
+        "id": "o1",
+        "ru": "Луиджи",
+        "en": "Luigi"
+      },
+      {
+        "id": "o2",
+        "ru": "Тоад",
+        "en": "Toad"
+      },
+      {
+        "id": "o3",
+        "ru": "Дидди Конг",
+        "en": "Diddy Kong"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://mario.nintendo.com/ca/characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_yoshi",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как зовут зелёного спутника Марио с длинным языком, который умеет откладывать яйца?",
+        "explanation": "Йоши может превращать проглоченных врагов в яйца для броска."
+      },
+      "en": {
+        "question": "What is the name of Mario's green companion with a long tongue who can lay eggs?",
+        "explanation": "Yoshi can turn swallowed enemies into throwable eggs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Йоши",
+        "en": "Yoshi"
+      },
+      {
+        "id": "o1",
+        "ru": "Варио",
+        "en": "Wario"
+      },
+      {
+        "id": "o2",
+        "ru": "Боузер",
+        "en": "Bowser"
+      },
+      {
+        "id": "o3",
+        "ru": "Валуиджи",
+        "en": "Waluigi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://mario.nintendo.com/ca/characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_daisy",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Принцессой какой страны Nintendo называет Дейзи?",
+        "explanation": "Её узнаваемый образ включает жёлтое платье и цветочные украшения."
+      },
+      "en": {
+        "question": "Of which land does Nintendo describe Daisy as princess?",
+        "explanation": "Her signature appearance includes a yellow dress and flower accessories."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сарасаленд",
+        "en": "Sarasaland"
+      },
+      {
+        "id": "o1",
+        "ru": "Хайрул",
+        "en": "Hyrule"
+      },
+      {
+        "id": "o2",
+        "ru": "Грибное королевство",
+        "en": "Mushroom Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Канто",
+        "en": "Kanto"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://mario.nintendo.com/ca/characters/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_r2",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой дроид из «Звёздных войн» относится к астромеханикам?",
+        "explanation": "R2-D2 помогает обслуживать корабли и сопровождать пилотов."
+      },
+      "en": {
+        "question": "Which Star Wars droid is an astromech?",
+        "explanation": "R2-D2 helps service spacecraft and accompanies pilots."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "R2-D2",
+        "en": "R2-D2"
+      },
+      {
+        "id": "o1",
+        "ru": "C-3PO",
+        "en": "C-3PO"
+      },
+      {
+        "id": "o2",
+        "ru": "IG-88",
+        "en": "IG-88"
+      },
+      {
+        "id": "o3",
+        "ru": "K-2SO",
+        "en": "K-2SO"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/r2-d2"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_c3",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова специализация C-3PO в «Звёздных войнах»?",
+        "explanation": "Он — протокольный дроид, часто действующий вместе с R2-D2."
+      },
+      "en": {
+        "question": "What is C-3PO's speciality in Star Wars?",
+        "explanation": "He is a protocol droid often working alongside R2-D2."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Этикет, протокол и перевод",
+        "en": "Etiquette, protocol and translation"
+      },
+      {
+        "id": "o1",
+        "ru": "Обслуживание кораблей",
+        "en": "Spacecraft maintenance"
+      },
+      {
+        "id": "o2",
+        "ru": "Медицинская помощь",
+        "en": "Medical assistance"
+      },
+      {
+        "id": "o3",
+        "ru": "Военная разведка",
+        "en": "Military reconnaissance"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/c-3po"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_chewbacca",
+    "categoryId": "pop_culture",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому народу относится Чубакка?",
+        "explanation": "Чубакка — напарник Хана Соло и второй пилот его корабля."
+      },
+      "en": {
+        "question": "To which people does Chewbacca belong?",
+        "explanation": "Chewbacca is Han Solo's partner and the ship's co-pilot."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вуки",
+        "en": "Wookiees"
+      },
+      {
+        "id": "o1",
+        "ru": "Эвоки",
+        "en": "Ewoks"
+      },
+      {
+        "id": "o2",
+        "ru": "Джавы",
+        "en": "Jawas"
+      },
+      {
+        "id": "o3",
+        "ru": "Гунганы",
+        "en": "Gungans"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/chewbacca"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_falcon",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется знаменитый корабль Хана Соло?",
+        "explanation": "Это модифицированный грузовой корабль, а не истребитель."
+      },
+      "en": {
+        "question": "What is Han Solo's famous ship called?",
+        "explanation": "It is a modified freighter rather than a starfighter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тысячелетний сокол",
+        "en": "Millennium Falcon"
+      },
+      {
+        "id": "o1",
+        "ru": "Звезда Смерти",
+        "en": "Death Star"
+      },
+      {
+        "id": "o2",
+        "ru": "Раб I",
+        "en": "Slave I"
+      },
+      {
+        "id": "o3",
+        "ru": "Призрак",
+        "en": "Ghost"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/millennium-falcon"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_yoda",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому ордену принадлежит мастер Йода?",
+        "explanation": "Йода обучал джедаев на протяжении многих поколений."
+      },
+      "en": {
+        "question": "To which order does Master Yoda belong?",
+        "explanation": "Yoda trained Jedi over many generations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джедаи",
+        "en": "Jedi"
+      },
+      {
+        "id": "o1",
+        "ru": "Ситхи",
+        "en": "Sith"
+      },
+      {
+        "id": "o2",
+        "ru": "Мандалорцы",
+        "en": "Mandalorians"
+      },
+      {
+        "id": "o3",
+        "ru": "Гильдия охотников",
+        "en": "Bounty Hunters' Guild"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/yoda"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_vader",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кем был Дарт Вейдер до перехода на тёмную сторону?",
+        "explanation": "Его прежняя жизнь связана с орденом джедаев."
+      },
+      "en": {
+        "question": "Who was Darth Vader before turning to the dark side?",
+        "explanation": "His earlier life was connected with the Jedi Order."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Энакин Скайуокер",
+        "en": "Anakin Skywalker"
+      },
+      {
+        "id": "o1",
+        "ru": "Оби-Ван Кеноби",
+        "en": "Obi-Wan Kenobi"
+      },
+      {
+        "id": "o2",
+        "ru": "Квай-Гон Джинн",
+        "en": "Qui-Gon Jinn"
+      },
+      {
+        "id": "o3",
+        "ru": "Мейс Винду",
+        "en": "Mace Windu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/darth-vader"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_tatooine",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 2,
+    "localizations": {
+      "ru": {
+        "question": "Какой тип ландшафта характерен для Татуина?",
+        "explanation": "Планета обращается вокруг двух солнц."
+      },
+      "en": {
+        "question": "Which landscape is characteristic of Tatooine?",
+        "explanation": "The planet orbits twin suns."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пустынный",
+        "en": "Desert"
+      },
+      {
+        "id": "o1",
+        "ru": "Ледниковый",
+        "en": "Glacial"
+      },
+      {
+        "id": "o2",
+        "ru": "Тропический лес",
+        "en": "Tropical forest"
+      },
+      {
+        "id": "o3",
+        "ru": "Сплошной океан",
+        "en": "Global ocean"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/tatooine"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_lightsaber",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое оружие особенно связано с джедаями и ситхами?",
+        "explanation": "Клинок светового меча создаётся энергетическим устройством в рукояти."
+      },
+      "en": {
+        "question": "Which weapon is especially associated with Jedi and Sith?",
+        "explanation": "A lightsaber's blade is produced by an energy device in its hilt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Световой меч",
+        "en": "Lightsaber"
+      },
+      {
+        "id": "o1",
+        "ru": "Лазерная пушка корабля",
+        "en": "A ship's laser cannon"
+      },
+      {
+        "id": "o2",
+        "ru": "Ионная торпеда",
+        "en": "Ion torpedo"
+      },
+      {
+        "id": "o3",
+        "ru": "Электрическая сеть",
+        "en": "Electrified net"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/lightsaber"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_hoth",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой климатический образ характерен для планеты Хот?",
+        "explanation": "На Хоте повстанцы устроили базу «Эхо»."
+      },
+      "en": {
+        "question": "Which environment characterises the planet Hoth?",
+        "explanation": "The Rebels established Echo Base on Hoth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ледяной",
+        "en": "Icy"
+      },
+      {
+        "id": "o1",
+        "ru": "Пустынный",
+        "en": "Desert"
+      },
+      {
+        "id": "o2",
+        "ru": "Вулканический",
+        "en": "Volcanic"
+      },
+      {
+        "id": "o3",
+        "ru": "Тропический",
+        "en": "Tropical"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/hoth"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_deathstar",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что представляет собой Звезда Смерти в «Звёздных войнах»?",
+        "explanation": "Станция вооружена сверхмощным орудием, способным уничтожать планеты."
+      },
+      "en": {
+        "question": "What is the Death Star in Star Wars?",
+        "explanation": "The station carries a powerful weapon capable of destroying planets."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боевая космическая станция",
+        "en": "A battle space station"
+      },
+      {
+        "id": "o1",
+        "ru": "Естественный спутник",
+        "en": "A natural moon"
+      },
+      {
+        "id": "o2",
+        "ru": "Комета",
+        "en": "A comet"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузовой шаттл",
+        "en": "A cargo shuttle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.starwars.com/databank/death-star"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_hogwarts",
+    "categoryId": "pop_culture",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему учат в Хогвартсе в книгах о Гарри Поттере?",
+        "explanation": "Школа находится в замке в Шотландском нагорье."
+      },
+      "en": {
+        "question": "What is taught at Hogwarts in the Harry Potter books?",
+        "explanation": "The school occupies a castle in the Scottish Highlands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колдовству и волшебству",
+        "en": "Witchcraft and wizardry"
+      },
+      {
+        "id": "o1",
+        "ru": "Морской навигации",
+        "en": "Sea navigation"
+      },
+      {
+        "id": "o2",
+        "ru": "Офицерскому делу",
+        "en": "Officer training"
+      },
+      {
+        "id": "o3",
+        "ru": "Классическому балету",
+        "en": "Classical ballet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.harrypotter.com/fact-file/locations/hogwarts"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_gryffindor",
+    "categoryId": "pop_culture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное изображено на эмблеме Гриффиндора?",
+        "explanation": "Цвета факультета — алый и золотой."
+      },
+      "en": {
+        "question": "Which animal appears on Gryffindor's emblem?",
+        "explanation": "The house colours are scarlet and gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лев",
+        "en": "Lion"
+      },
+      {
+        "id": "o1",
+        "ru": "Орёл",
+        "en": "Eagle"
+      },
+      {
+        "id": "o2",
+        "ru": "Барсук",
+        "en": "Badger"
+      },
+      {
+        "id": "o3",
+        "ru": "Змея",
+        "en": "Snake"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.harrypotter.com/features/hogwarts-house-meanings"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_slytherin",
+    "categoryId": "pop_culture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное изображено на эмблеме Слизерина?",
+        "explanation": "Цвета факультета — серебряный и изумрудно-зелёный."
+      },
+      "en": {
+        "question": "Which animal appears on Slytherin's emblem?",
+        "explanation": "The house colours are silver and emerald green."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Змея",
+        "en": "Snake"
+      },
+      {
+        "id": "o1",
+        "ru": "Лев",
+        "en": "Lion"
+      },
+      {
+        "id": "o2",
+        "ru": "Орёл",
+        "en": "Eagle"
+      },
+      {
+        "id": "o3",
+        "ru": "Барсук",
+        "en": "Badger"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.harrypotter.com/features/hogwarts-house-meanings"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_ravenclaw",
+    "categoryId": "pop_culture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой символ у Когтеврана в книжной традиции Гарри Поттера?",
+        "explanation": "Несмотря на английское название факультета, его книжный символ — орёл."
+      },
+      "en": {
+        "question": "What is Ravenclaw's symbol in the Harry Potter books?",
+        "explanation": "Despite the house's English name, its book symbol is an eagle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Орёл",
+        "en": "Eagle"
+      },
+      {
+        "id": "o1",
+        "ru": "Ворон",
+        "en": "Raven"
+      },
+      {
+        "id": "o2",
+        "ru": "Сова",
+        "en": "Owl"
+      },
+      {
+        "id": "o3",
+        "ru": "Сокол",
+        "en": "Falcon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.harrypotter.com/features/hogwarts-house-meanings"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_nov08_hufflepuff",
+    "categoryId": "pop_culture",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное служит символом Пуффендуя?",
+        "explanation": "Цвета факультета — жёлтый и чёрный."
+      },
+      "en": {
+        "question": "Which animal is Hufflepuff's symbol?",
+        "explanation": "The house colours are yellow and black."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Барсук",
+        "en": "Badger"
+      },
+      {
+        "id": "o1",
+        "ru": "Лев",
+        "en": "Lion"
+      },
+      {
+        "id": "o2",
+        "ru": "Орёл",
+        "en": "Eagle"
+      },
+      {
+        "id": "o3",
+        "ru": "Змея",
+        "en": "Snake"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.harrypotter.com/features/hogwarts-house-meanings"
+    ],
+    "image": null
+  }
+]

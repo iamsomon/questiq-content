@@ -1,0 +1,882 @@
+[
+  {
+    "id": "islam_nov08_shahada",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется исламское свидетельство веры?",
+        "explanation": "Шахада утверждает веру в единого Бога и пророческую миссию Мухаммада."
+      },
+      "en": {
+        "question": "What is the Islamic declaration of faith called?",
+        "explanation": "The shahada affirms belief in one God and Muhammad's prophethood."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шахада",
+        "en": "Shahada"
+      },
+      {
+        "id": "o1",
+        "ru": "Закят",
+        "en": "Zakat"
+      },
+      {
+        "id": "o2",
+        "ru": "Хадж",
+        "en": "Hajj"
+      },
+      {
+        "id": "o3",
+        "ru": "Саум",
+        "en": "Sawm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_ramadan",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой месяц исламского календаря соблюдают обязательный пост?",
+        "explanation": "Рамадан — девятый месяц исламского календаря."
+      },
+      "en": {
+        "question": "During which Islamic month is the obligatory fast observed?",
+        "explanation": "Ramadan is the ninth month of the Islamic calendar."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рамадан",
+        "en": "Ramadan"
+      },
+      {
+        "id": "o1",
+        "ru": "Шавваль",
+        "en": "Shawwal"
+      },
+      {
+        "id": "o2",
+        "ru": "Мухаррам",
+        "en": "Muharram"
+      },
+      {
+        "id": "o3",
+        "ru": "Сафар",
+        "en": "Safar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_hajj",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой город совершают хадж?",
+        "explanation": "В центре паломничества находится Кааба в Заповедной мечети."
+      },
+      "en": {
+        "question": "To which city is the Hajj pilgrimage made?",
+        "explanation": "The pilgrimage centres on the Kaaba in the Sacred Mosque."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мекка",
+        "en": "Mecca"
+      },
+      {
+        "id": "o1",
+        "ru": "Каир",
+        "en": "Cairo"
+      },
+      {
+        "id": "o2",
+        "ru": "Дамаск",
+        "en": "Damascus"
+      },
+      {
+        "id": "o3",
+        "ru": "Стамбул",
+        "en": "Istanbul"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_zakat",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С чем связан закят в исламе?",
+        "explanation": "Закят связывает религиозную практику с поддержкой членов общины."
+      },
+      "en": {
+        "question": "What does zakat concern in Islam?",
+        "explanation": "Zakat connects religious practice with support for members of the community."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обязательная помощь нуждающимся",
+        "en": "Obligatory almsgiving"
+      },
+      {
+        "id": "o1",
+        "ru": "Начало нового месяца",
+        "en": "The start of a new month"
+      },
+      {
+        "id": "o2",
+        "ru": "Призыв к молитве",
+        "en": "The call to prayer"
+      },
+      {
+        "id": "o3",
+        "ru": "Направление молитвы",
+        "en": "The direction of prayer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_quran",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется священная книга ислама?",
+        "explanation": "Мусульмане считают Коран откровением, переданным пророку Мухаммаду."
+      },
+      "en": {
+        "question": "What is the holy book of Islam called?",
+        "explanation": "Muslims regard the Qur'an as revelation conveyed to the Prophet Muhammad."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коран",
+        "en": "Qur'an"
+      },
+      {
+        "id": "o1",
+        "ru": "Тора",
+        "en": "Torah"
+      },
+      {
+        "id": "o2",
+        "ru": "Трипитака",
+        "en": "Tripitaka"
+      },
+      {
+        "id": "o3",
+        "ru": "Авеста",
+        "en": "Avesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-quran"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_mosque",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется мусульманский молитвенный дом?",
+        "explanation": "Арабское слово «масджид» связано с земным поклоном."
+      },
+      "en": {
+        "question": "What is a Muslim house of worship called?",
+        "explanation": "The Arabic word masjid refers to a place of prostration."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мечеть",
+        "en": "Mosque"
+      },
+      {
+        "id": "o1",
+        "ru": "Синагога",
+        "en": "Synagogue"
+      },
+      {
+        "id": "o2",
+        "ru": "Собор",
+        "en": "Cathedral"
+      },
+      {
+        "id": "o3",
+        "ru": "Гурдвара",
+        "en": "Gurdwara"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_salat",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в исламской традиции называется установленная молитва?",
+        "explanation": "Молитва входит в число пяти столпов ислама."
+      },
+      "en": {
+        "question": "What is the prescribed ritual prayer called in Islamic tradition?",
+        "explanation": "Prayer is one of the five pillars of Islam."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Салят",
+        "en": "Salat"
+      },
+      {
+        "id": "o1",
+        "ru": "Хадж",
+        "en": "Hajj"
+      },
+      {
+        "id": "o2",
+        "ru": "Закят",
+        "en": "Zakat"
+      },
+      {
+        "id": "o3",
+        "ru": "Саум",
+        "en": "Sawm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_imam",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто обычно руководит совместной молитвой в мечети?",
+        "explanation": "Имам ведёт молящихся; призыв к молитве — другая функция."
+      },
+      "en": {
+        "question": "Who usually leads congregational prayer in a mosque?",
+        "explanation": "The imam leads the congregation; issuing the call to prayer is a different role."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Имам",
+        "en": "Imam"
+      },
+      {
+        "id": "o1",
+        "ru": "Муэдзин",
+        "en": "Muezzin"
+      },
+      {
+        "id": "o2",
+        "ru": "Каллиграф",
+        "en": "Calligrapher"
+      },
+      {
+        "id": "o3",
+        "ru": "Архитектор",
+        "en": "Architect"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_qibla",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется направление, в котором мусульмане молятся?",
+        "explanation": "Кибла направлена к Каабе в Мекке."
+      },
+      "en": {
+        "question": "What is the direction Muslims face in prayer called?",
+        "explanation": "The qibla points toward the Kaaba in Mecca."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кибла",
+        "en": "Qibla"
+      },
+      {
+        "id": "o1",
+        "ru": "Минбар",
+        "en": "Minbar"
+      },
+      {
+        "id": "o2",
+        "ru": "Сахн",
+        "en": "Sahn"
+      },
+      {
+        "id": "o3",
+        "ru": "Минарет",
+        "en": "Minaret"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_mihrab",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая ниша в мечети указывает направление молитвы?",
+        "explanation": "Михраб устраивают в стене, обращённой к Мекке."
+      },
+      "en": {
+        "question": "Which niche in a mosque indicates the direction of prayer?",
+        "explanation": "The mihrab is set into the wall facing Mecca."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Михраб",
+        "en": "Mihrab"
+      },
+      {
+        "id": "o1",
+        "ru": "Минбар",
+        "en": "Minbar"
+      },
+      {
+        "id": "o2",
+        "ru": "Минарет",
+        "en": "Minaret"
+      },
+      {
+        "id": "o3",
+        "ru": "Сахн",
+        "en": "Sahn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_minbar",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какого сооружения в мечети произносят проповедь?",
+        "explanation": "Минбар — возвышение, часто выполненное в виде лестницы."
+      },
+      "en": {
+        "question": "From which structure in a mosque is a sermon delivered?",
+        "explanation": "The minbar is a raised pulpit, often shaped like a staircase."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Минбар",
+        "en": "Minbar"
+      },
+      {
+        "id": "o1",
+        "ru": "Михраб",
+        "en": "Mihrab"
+      },
+      {
+        "id": "o2",
+        "ru": "Минарет",
+        "en": "Minaret"
+      },
+      {
+        "id": "o3",
+        "ru": "Фонтан",
+        "en": "Fountain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_minaret",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая башня традиционно связана с призывом к молитве?",
+        "explanation": "Минарет расположен при мечети и служит заметным архитектурным ориентиром."
+      },
+      "en": {
+        "question": "Which tower is traditionally associated with the call to prayer?",
+        "explanation": "A minaret stands at or beside a mosque as a prominent architectural marker."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Минарет",
+        "en": "Minaret"
+      },
+      {
+        "id": "o1",
+        "ru": "Пагода",
+        "en": "Pagoda"
+      },
+      {
+        "id": "o2",
+        "ru": "Колокольня",
+        "en": "Bell tower"
+      },
+      {
+        "id": "o3",
+        "ru": "Донжон",
+        "en": "Keep"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_sawm",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется пост среди пяти столпов ислама?",
+        "explanation": "В Рамадан пост соблюдают в светлое время суток."
+      },
+      "en": {
+        "question": "Which term names fasting among the five pillars of Islam?",
+        "explanation": "During Ramadan, fasting takes place during daylight hours."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Саум",
+        "en": "Sawm"
+      },
+      {
+        "id": "o1",
+        "ru": "Шахада",
+        "en": "Shahada"
+      },
+      {
+        "id": "o2",
+        "ru": "Закят",
+        "en": "Zakat"
+      },
+      {
+        "id": "o3",
+        "ru": "Хадж",
+        "en": "Hajj"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_friday",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой день особенно связан с еженедельной общей молитвой в мечети?",
+        "explanation": "Пятничная полуденная молитва сопровождается проповедью."
+      },
+      "en": {
+        "question": "Which day is especially associated with weekly congregational mosque prayer?",
+        "explanation": "Friday's midday congregational prayer includes a sermon."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пятница",
+        "en": "Friday"
+      },
+      {
+        "id": "o1",
+        "ru": "Понедельник",
+        "en": "Monday"
+      },
+      {
+        "id": "o2",
+        "ru": "Среда",
+        "en": "Wednesday"
+      },
+      {
+        "id": "o3",
+        "ru": "Воскресенье",
+        "en": "Sunday"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_five",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько установленных ежедневных молитв совершают в исламской традиции?",
+        "explanation": "Время молитв связано с разными частями дня, от рассвета до ночи."
+      },
+      "en": {
+        "question": "How many prescribed daily prayers are performed in Islamic tradition?",
+        "explanation": "Prayer times mark different parts of the day, from dawn to night."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пять",
+        "en": "Five"
+      },
+      {
+        "id": "o1",
+        "ru": "Три",
+        "en": "Three"
+      },
+      {
+        "id": "o2",
+        "ru": "Семь",
+        "en": "Seven"
+      },
+      {
+        "id": "o3",
+        "ru": "Девять",
+        "en": "Nine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_hijra",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой город Мухаммад и его последователи переселились из Мекки в 622 году?",
+        "explanation": "Это переселение называют хиджрой; с ним связано начало исламского летоисчисления."
+      },
+      "en": {
+        "question": "To which city did Muhammad and his followers migrate from Mecca in 622?",
+        "explanation": "This migration is called the Hijra and marks the starting point of the Islamic era."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медина",
+        "en": "Medina"
+      },
+      {
+        "id": "o1",
+        "ru": "Багдад",
+        "en": "Baghdad"
+      },
+      {
+        "id": "o2",
+        "ru": "Кордова",
+        "en": "Cordoba"
+      },
+      {
+        "id": "o3",
+        "ru": "Каир",
+        "en": "Cairo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_sahn",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает «сахн» в архитектуре мечети?",
+        "explanation": "В таком дворе нередко находится фонтан для ритуального омовения."
+      },
+      "en": {
+        "question": "What does sahn mean in mosque architecture?",
+        "explanation": "Such courtyards often contain a fountain for ritual washing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Внутренний двор",
+        "en": "Courtyard"
+      },
+      {
+        "id": "o1",
+        "ru": "Молитвенная ниша",
+        "en": "Prayer niche"
+      },
+      {
+        "id": "o2",
+        "ru": "Кафедра проповедника",
+        "en": "Sermon pulpit"
+      },
+      {
+        "id": "o3",
+        "ru": "Высокая башня",
+        "en": "Tall tower"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-mosque"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_surah",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют отдельную главу Корана?",
+        "explanation": "Коран разделён на 114 сур."
+      },
+      "en": {
+        "question": "What is a chapter of the Qur'an called?",
+        "explanation": "The Qur'an is divided into 114 suras."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сура",
+        "en": "Surah"
+      },
+      {
+        "id": "o1",
+        "ru": "Аят",
+        "en": "Ayah"
+      },
+      {
+        "id": "o2",
+        "ru": "Хадис",
+        "en": "Hadith"
+      },
+      {
+        "id": "o3",
+        "ru": "Минбар",
+        "en": "Minbar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-quran"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_hadith",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют сообщения о словах и поступках пророка Мухаммада?",
+        "explanation": "Хадисы относятся к передаче пророческой традиции и отличаются от текста Корана."
+      },
+      "en": {
+        "question": "What are reports of the Prophet Muhammad's sayings and actions called?",
+        "explanation": "Hadith transmit prophetic tradition and are distinct from the Qur'an itself."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хадисы",
+        "en": "Hadith"
+      },
+      {
+        "id": "o1",
+        "ru": "Суры",
+        "en": "Surahs"
+      },
+      {
+        "id": "o2",
+        "ru": "Тафсиры",
+        "en": "Tafsirs"
+      },
+      {
+        "id": "o3",
+        "ru": "Дуа",
+        "en": "Duas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-prophet-muhammad-and-the-origins-of-islam"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_nov08_safa",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Между какими холмами совершают один из обрядов паломничества в Мекке?",
+        "explanation": "Обряд связан с преданием об Исмаиле и его матери."
+      },
+      "en": {
+        "question": "Between which hills is one of the Mecca pilgrimage rites performed?",
+        "explanation": "The rite recalls the tradition concerning Ishmael and his mother."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сафа и Марва",
+        "en": "Safa and Marwa"
+      },
+      {
+        "id": "o1",
+        "ru": "Синай и Фавор",
+        "en": "Sinai and Tabor"
+      },
+      {
+        "id": "o2",
+        "ru": "Сион и Мориа",
+        "en": "Zion and Moriah"
+      },
+      {
+        "id": "o3",
+        "ru": "Палатин и Капитолий",
+        "en": "Palatine and Capitoline"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
+    ],
+    "image": null
+  }
+]

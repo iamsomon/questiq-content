@@ -1,0 +1,362 @@
+[
+  {
+    "id": "historical_figures_nov08_award_26",
+    "status": "approved",
+    "sha256": "1d11bbd5c9ef8ea53654ff0080d0b0c18d1046cd445b267009be07638353a6cd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=26",
+        "location": "laureate id=26; prizes year=1921, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1921 for the law of the photoelectric effect? Answer: Albert Einstein. The laureate was born in 1879; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_1",
+    "status": "approved",
+    "sha256": "b597a6b2b7dbd9c4d45d468adbbc83b0e523198991012bc437877b0698dd16db",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=1",
+        "location": "laureate id=1; prizes year=1901, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1901 for the discovery of X-rays? Answer: Wilhelm Conrad Röntgen. The laureate was born in 1845; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_6",
+    "status": "approved",
+    "sha256": "b9aacaf57cd304e6f1becd7cf826014510acbeb612d0e3b2b15cfb0fe59779f7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=6",
+        "location": "laureate id=6; prizes year=1911, category=chemistry; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1911 for the discovery of radium and polonium? Answer: Marie Curie. The same laureate also received a prize in 1903."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_555",
+    "status": "approved",
+    "sha256": "22867a719bfb6c058212938a25b09eb1e4d8c5f2d8e8929eb87547059ae617c7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=555",
+        "location": "laureate id=555; prizes year=1993, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1993 for the peaceful ending of apartheid? Answer: Nelson Mandela. The laureate was born in 1918."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_524",
+    "status": "approved",
+    "sha256": "d8d4b3a02ab6c03689d5473a8c987f07b35e5d3e8b33c151283ec69cf61f08f4",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=524",
+        "location": "laureate id=524; prizes year=1964, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1964 for nonviolent work for civil rights? Answer: Martin Luther King Jr.. The laureate was born in 1929."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_914",
+    "status": "approved",
+    "sha256": "a451c58cbc6e9a12eff9b450f9d52c4dff3d0a46672d65c5efe3dae09b43d53a",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=914",
+        "location": "laureate id=914; prizes year=2014, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 2014 for defending children's right to education? Answer: Malala Yousafzai. The laureate was born in 1997."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_339",
+    "status": "approved",
+    "sha256": "154340cd1a4f130ba738e99d443f2006952b2d432edc71660e2139341246abb5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=339",
+        "location": "laureate id=339; prizes year=1945, category=medicine; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1945 for the discovery of penicillin? Answer: Sir Alexander Fleming. The laureate was born in 1881; the award category was Physiology or Medicine."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_296",
+    "status": "approved",
+    "sha256": "b5a0d4282fb2a2dbe2afe8ea6c87b67cc7b638e58a4aecc3b4e906182aa0223d",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=296",
+        "location": "laureate id=296; prizes year=1904, category=medicine; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1904 for the physiology of digestion? Answer: Ivan Pavlov. The laureate was born in 1849; the award category was Physiology or Medicine."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_23",
+    "status": "approved",
+    "sha256": "467542f9abf65eb8c6d42171f741430363a1c76cab54a92b7841b05ed35a43e0",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=23",
+        "location": "laureate id=23; prizes year=1918, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1918 for the discovery of energy quanta? Answer: Max Planck. The laureate was born in 1858; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_27",
+    "status": "approved",
+    "sha256": "d9dcbde83d33a1ad7adffb413aa7e8ee478e9bf172e50a13280365885b047593",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=27",
+        "location": "laureate id=27; prizes year=1922, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1922 for atomic structure and radiation? Answer: Niels Bohr. The laureate was born in 1885; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_4",
+    "status": "approved",
+    "sha256": "a230416da1757aa09450f5a564a1099cbf121620750c2a00c04d723aeefa5fdc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=4",
+        "location": "laureate id=4; prizes year=1903, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1903 for the discovery of spontaneous radioactivity? Answer: Henri Becquerel. The laureate was born in 1852; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_167",
+    "status": "approved",
+    "sha256": "d9420a4bfbf8ffa0ad3a9a94b1855f1e69c9bf18265faf96ff352cf6eb9098d7",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=167",
+        "location": "laureate id=167; prizes year=1908, category=chemistry; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1908 for element disintegration and the chemistry of radioactive substances? Answer: Ernest Rutherford. The laureate was born in 1871; the award category was Chemistry."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_41",
+    "status": "approved",
+    "sha256": "31be06434e52162479e0620731a7c09cac17ffe2c2608d802f6f213f454558fd",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=41",
+        "location": "laureate id=41; prizes year=1935, category=physics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1935 for the discovery of the neutron? Answer: James Chadwick. The laureate was born in 1891; the award category was Physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_297",
+    "status": "approved",
+    "sha256": "a7a57230e779deb29867a4081a63e452c99631073ee82e8650e41a824f5230fc",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=297",
+        "location": "laureate id=297; prizes year=1905, category=medicine; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1905 for research on tuberculosis? Answer: Robert Koch. The laureate was born in 1843; the award category was Physiology or Medicine."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_552",
+    "status": "approved",
+    "sha256": "711f91c20278f1ea87eb33038996b3652c50777568e130e6e7f816ef71fdb5cb",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=552",
+        "location": "laureate id=552; prizes year=1990, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1990 for changes in East-West relations? Answer: Mikhail Gorbachev. The laureate was born in 1931."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_468",
+    "status": "approved",
+    "sha256": "2732af1a715296baa5bf0f912571b595c875346e00fdbf3a7d7bf16b363f25cf",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=468",
+        "location": "laureate id=468; prizes year=1905, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1905 for opposition to war? Answer: Bertha von Suttner. The laureate was born in 1843."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_230",
+    "status": "approved",
+    "sha256": "48c7c169d92818c7209b1e9d6f593b26602e25a4a2833d8d68dac84adec943ff",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=230",
+        "location": "laureate id=230; prizes year=1964, category=chemistry; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1964 for using X-rays to determine structures of biochemical substances? Answer: Dorothy Crowfoot Hodgkin. The laureate was born in 1910; the award category was Chemistry."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_719",
+    "status": "approved",
+    "sha256": "d1fd86340d17887a1696a78cfdbe15e90932ff89e552cbb12bc2d339b1285ec5",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=719",
+        "location": "laureate id=719; prizes year=1998, category=economics; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1998 for welfare economics? Answer: Amartya Sen. The laureate was born in 1933; the award category was Economic Sciences."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_870",
+    "status": "approved",
+    "sha256": "595fb80ba9eb7c50192161a6a62be49a2ad914d5c792beca971dc0370d8a3025",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=870",
+        "location": "laureate id=870; prizes year=2011, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 2011 for women's participation in peace-building? Answer: Leymah Gbowee. The laureate was born in 1972."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_nov08_award_546",
+    "status": "approved",
+    "sha256": "47599124ae96f67fd1cb272fa734446fdbe5ca9b2d1608908e633f4272ef10e8",
+    "author": "Codex: original bilingual question authoring",
+    "factReviewer": "Codex: separate source-record and distractor review pass",
+    "languageReviewer": "Codex: separate RU/EN wording comparison pass",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/v1/laureate.json?id=546",
+        "location": "laureate id=546; prizes year=1984, category=peace; motivation; born; prizes/category",
+        "claim": "Which of these laureates was recognised in 1984 for nonviolent opposition to apartheid? Answer: Desmond Tutu. The laureate was born in 1931."
+      }
+    ]
+  }
+]

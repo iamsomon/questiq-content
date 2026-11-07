@@ -101,6 +101,19 @@ def build(root,base):
   payload=encoded(batch)+b'\n';require(len(payload)<=2097152,f'{c}: pack exceeds byte budget')
   sha=hashlib.sha256(payload).hexdigest();name=f'{c}-{sha[:16]}.json';keep.add(name);(packs/name).write_bytes(payload)
   for lang in ['ru','en']:manifest['packs'].append({'schemaVersion':1,'locale':lang,'category':c,'url':base.rstrip('/')+'/packs/'+name,'sha256':sha,'size':len(payload)})
+ # Clients may already hold the previous manifest when main changes. Keep
+ # explicitly pinned, content-addressed files available during that rollout.
+ # They are never added back to the active manifest or counted as questions.
+ retained=load(root/'catalog/retained-packs.json',{'schemaVersion':1,'packs':[]})
+ require(retained.get('schemaVersion')==1,'Retained pack schema')
+ for entry in retained.get('packs',[]):
+  name=entry.get('file','')
+  require(re.fullmatch(r'[a-z_]+-[0-9a-f]{16}\.json',name),'Unsafe retained pack filename')
+  old=packs/name
+  require(old.is_file(),f'Missing retained production pack: {name}')
+  payload=old.read_bytes()
+  require(len(payload)==entry.get('size') and hashlib.sha256(payload).hexdigest()==entry.get('sha256'),f'Invalid retained production pack: {name}')
+  keep.add(name)
  for p in packs.glob('*.json'):
   if p.name not in keep:p.unlink()
  (dist/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
