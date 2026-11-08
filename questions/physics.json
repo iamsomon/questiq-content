@@ -438,5 +438,885 @@
       "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
     ],
     "image": null
+  },
+  {
+    "id": "physics_depth_inertia",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют способность тела сохранять состояние покоя или равномерного прямолинейного движения?",
+        "explanation": "Чем больше масса тела, тем труднее изменить его скорость одной и той же силой."
+      },
+      "en": {
+        "question": "What is the tendency to remain at rest or in uniform straight-line motion called?",
+        "explanation": "A larger mass requires more force for the same acceleration."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Инерция",
+        "en": "Inertia"
+      },
+      {
+        "id": "o1",
+        "ru": "Упругость",
+        "en": "Elasticity"
+      },
+      {
+        "id": "o2",
+        "ru": "Плавучесть",
+        "en": "Buoyancy"
+      },
+      {
+        "id": "o3",
+        "ru": "Электропроводность",
+        "en": "Electrical conductivity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_net_force",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как находят равнодействующую нескольких сил?",
+        "explanation": "При сложении сил учитывают не только величину, но и направление каждой силы."
+      },
+      "en": {
+        "question": "How is the resultant of several forces found?",
+        "explanation": "Both magnitude and direction matter when combining forces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Складывают их как векторы",
+        "en": "By adding them as vectors"
+      },
+      {
+        "id": "o1",
+        "ru": "Перемножают их модули",
+        "en": "By multiplying their magnitudes"
+      },
+      {
+        "id": "o2",
+        "ru": "Берут только самую большую",
+        "en": "By taking only the largest"
+      },
+      {
+        "id": "o3",
+        "ru": "Усредняют их модули",
+        "en": "By averaging their magnitudes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_mass_weight",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что произойдёт с массой одного и того же камня при переносе с Земли на Луну?",
+        "explanation": "При переносе изменится сила тяжести, действующая на камень, а не его масса."
+      },
+      "en": {
+        "question": "What happens to the mass of the same rock when it is moved from Earth to the Moon?",
+        "explanation": "The gravitational force on the rock changes, rather than its mass."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Масса сохранится",
+        "en": "Its mass stays the same"
+      },
+      {
+        "id": "o1",
+        "ru": "Масса станет нулевой",
+        "en": "Its mass becomes zero"
+      },
+      {
+        "id": "o2",
+        "ru": "Масса вырастет в шесть раз",
+        "en": "Its mass increases sixfold"
+      },
+      {
+        "id": "o3",
+        "ru": "Масса уменьшится в шесть раз",
+        "en": "Its mass decreases sixfold"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_kinetic",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая энергия связана с движением тела?",
+        "explanation": "В классической механике она зависит от массы и квадрата скорости."
+      },
+      "en": {
+        "question": "Which energy is associated with an object's motion?",
+        "explanation": "In classical mechanics, it depends on mass and the square of speed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кинетическая",
+        "en": "Kinetic"
+      },
+      {
+        "id": "o1",
+        "ru": "Гравитационная потенциальная",
+        "en": "Gravitational potential"
+      },
+      {
+        "id": "o2",
+        "ru": "Упругая потенциальная",
+        "en": "Elastic potential"
+      },
+      {
+        "id": "o3",
+        "ru": "Химическая",
+        "en": "Chemical"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_conduction",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется передача тепла через неподвижное вещество за счёт взаимодействия его частиц?",
+        "explanation": "Вещество при этом не должно перемещаться как единый поток."
+      },
+      "en": {
+        "question": "What is heat transfer through stationary matter by interactions between its particles called?",
+        "explanation": "The material need not move as a bulk flow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Теплопроводность",
+        "en": "Conduction"
+      },
+      {
+        "id": "o1",
+        "ru": "Конвекция",
+        "en": "Convection"
+      },
+      {
+        "id": "o2",
+        "ru": "Тепловое излучение",
+        "en": "Thermal radiation"
+      },
+      {
+        "id": "o3",
+        "ru": "Испарение",
+        "en": "Evaporation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_convection",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой способ переноса тепла связан с движением потоков жидкости или газа?",
+        "explanation": "Поток переносит нагретое вещество из одной области в другую."
+      },
+      "en": {
+        "question": "Which heat-transfer mechanism involves the bulk movement of a liquid or gas?",
+        "explanation": "The flow carries warmer material from one region to another."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Конвекция",
+        "en": "Convection"
+      },
+      {
+        "id": "o1",
+        "ru": "Теплопроводность",
+        "en": "Conduction"
+      },
+      {
+        "id": "o2",
+        "ru": "Тепловое излучение",
+        "en": "Thermal radiation"
+      },
+      {
+        "id": "o3",
+        "ru": "Сублимация",
+        "en": "Sublimation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_radiation",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как тепло Солнца достигает Земли через космическое пространство?",
+        "explanation": "Для этого переноса энергии не нужна вещественная среда между Солнцем и Землёй."
+      },
+      "en": {
+        "question": "How does the Sun's heat reach Earth through space?",
+        "explanation": "This energy transfer does not require matter between the Sun and Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Электромагнитным излучением",
+        "en": "By electromagnetic radiation"
+      },
+      {
+        "id": "o1",
+        "ru": "Конвекцией воздуха",
+        "en": "By air convection"
+      },
+      {
+        "id": "o2",
+        "ru": "Теплопроводностью газа",
+        "en": "By gas conduction"
+      },
+      {
+        "id": "o3",
+        "ru": "Потоком звуковых волн",
+        "en": "By a stream of sound waves"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_pitch",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая характеристика звуковой волны прежде всего определяет высоту тона?",
+        "explanation": "Более высокой частоте соответствует более высокий тон."
+      },
+      "en": {
+        "question": "Which property of a sound wave primarily determines its pitch?",
+        "explanation": "A higher frequency corresponds to a higher pitch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Частота",
+        "en": "Frequency"
+      },
+      {
+        "id": "o1",
+        "ru": "Амплитуда",
+        "en": "Amplitude"
+      },
+      {
+        "id": "o2",
+        "ru": "Направление распространения",
+        "en": "Propagation direction"
+      },
+      {
+        "id": "o3",
+        "ru": "Продолжительность звучания",
+        "en": "Duration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_acceleration",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На тело массой 4 кг действует равнодействующая 12 Н. Каково ускорение?",
+        "explanation": "По второму закону Ньютона a = F/m: 12/4 = 3 м/с²."
+      },
+      "en": {
+        "question": "A net force of 12 N acts on a 4 kg object. What is its acceleration?",
+        "explanation": "Newton's second law gives a = F/m: 12/4 = 3 m/s²."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3 м/с²",
+        "en": "3 m/s²"
+      },
+      {
+        "id": "o1",
+        "ru": "0,33 м/с²",
+        "en": "0.33 m/s²"
+      },
+      {
+        "id": "o2",
+        "ru": "16 м/с²",
+        "en": "16 m/s²"
+      },
+      {
+        "id": "o3",
+        "ru": "48 м/с²",
+        "en": "48 m/s²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_third_law",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К чему приложены две силы, образующие пару по третьему закону Ньютона?",
+        "explanation": "Силы равны по модулю и противоположны по направлению, но действуют на разные тела."
+      },
+      "en": {
+        "question": "What do the two forces in a Newton's-third-law pair act on?",
+        "explanation": "The forces have equal magnitudes and opposite directions, but act on different objects."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "К разным телам",
+        "en": "Different objects"
+      },
+      {
+        "id": "o1",
+        "ru": "К одному телу в одной точке",
+        "en": "One object at the same point"
+      },
+      {
+        "id": "o2",
+        "ru": "Только к более тяжёлому телу",
+        "en": "Only the heavier object"
+      },
+      {
+        "id": "o3",
+        "ru": "Только к неподвижному телу",
+        "en": "Only the stationary object"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/4-4-newtons-third-law-of-motion-symmetry-in-forces"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_potential",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как изменится гравитационная потенциальная энергия книги при подъёме со стола на более высокую полку?",
+        "explanation": "Вблизи поверхности Земли изменение этой энергии равно mgh, где h — высота подъёма."
+      },
+      "en": {
+        "question": "How does a book's gravitational potential energy change when it is lifted from a table to a higher shelf?",
+        "explanation": "Near Earth's surface, the energy change is mgh, where h is the vertical rise."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Увеличится",
+        "en": "It increases"
+      },
+      {
+        "id": "o1",
+        "ru": "Уменьшится",
+        "en": "It decreases"
+      },
+      {
+        "id": "o2",
+        "ru": "Обязательно станет нулевой",
+        "en": "It necessarily becomes zero"
+      },
+      {
+        "id": "o3",
+        "ru": "Не изменится при любом подъёме",
+        "en": "It stays unchanged for any lift"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/7-3-gravitational-potential-energy"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_frequency_unit",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает частота колебаний 1 герц?",
+        "explanation": "Частота показывает число полных колебаний за единицу времени."
+      },
+      "en": {
+        "question": "What does an oscillation frequency of 1 hertz mean?",
+        "explanation": "Frequency counts complete oscillations per unit time."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Один полный цикл в секунду",
+        "en": "One complete cycle per second"
+      },
+      {
+        "id": "o1",
+        "ru": "Один цикл в минуту",
+        "en": "One cycle per minute"
+      },
+      {
+        "id": "o2",
+        "ru": "Один метр за секунду",
+        "en": "One metre per second"
+      },
+      {
+        "id": "o3",
+        "ru": "Один радиан за секунду",
+        "en": "One radian per second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_period",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Период колебаний равен 0,25 с. Какова частота?",
+        "explanation": "Частота обратна периоду: f = 1/T = 1/0,25 = 4 Гц."
+      },
+      "en": {
+        "question": "An oscillation has a period of 0.25 s. What is its frequency?",
+        "explanation": "Frequency is the reciprocal of period: f = 1/T = 1/0.25 = 4 Hz."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "4 Гц",
+        "en": "4 Hz"
+      },
+      {
+        "id": "o1",
+        "ru": "0,25 Гц",
+        "en": "0.25 Hz"
+      },
+      {
+        "id": "o2",
+        "ru": "2 Гц",
+        "en": "2 Hz"
+      },
+      {
+        "id": "o3",
+        "ru": "25 Гц",
+        "en": "25 Hz"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_reflection",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Луч падает на плоское зеркало под углом 30° к нормали. Чему равен угол отражения от нормали?",
+        "explanation": "Углы падения и отражения измеряют от перпендикуляра к поверхности, и они равны."
+      },
+      "en": {
+        "question": "A ray strikes a plane mirror at 30° to the normal. What is its reflection angle from the normal?",
+        "explanation": "The incidence and reflection angles are measured from the surface normal and are equal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "30°",
+        "en": "30°"
+      },
+      {
+        "id": "o1",
+        "ru": "60°",
+        "en": "60°"
+      },
+      {
+        "id": "o2",
+        "ru": "90°",
+        "en": "90°"
+      },
+      {
+        "id": "o3",
+        "ru": "15°",
+        "en": "15°"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_refraction",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют преломлением света?",
+        "explanation": "При переходе между средами скорость света меняется, и при наклонном падении луч обычно отклоняется."
+      },
+      "en": {
+        "question": "What is refraction of light?",
+        "explanation": "Light changes speed between media, usually bending when it enters at an angle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Изменение направления при переходе между средами",
+        "en": "A change of direction between media"
+      },
+      {
+        "id": "o1",
+        "ru": "Отражение от непрозрачной поверхности",
+        "en": "Reflection from an opaque surface"
+      },
+      {
+        "id": "o2",
+        "ru": "Полное поглощение света",
+        "en": "Complete absorption of light"
+      },
+      {
+        "id": "o3",
+        "ru": "Изменение направления из-за дифракции",
+        "en": "A change of direction due to diffraction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_current",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую величину получают, разделив прошедший через сечение проводника заряд на время?",
+        "explanation": "Заряд в кулонах, делённый на время в секундах, даёт ток в амперах."
+      },
+      "en": {
+        "question": "Which quantity is charge passing through a conductor's cross-section divided by elapsed time?",
+        "explanation": "Charge in coulombs divided by time in seconds gives current in amperes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Среднюю силу тока",
+        "en": "Average electric current"
+      },
+      {
+        "id": "o1",
+        "ru": "Электрическое сопротивление",
+        "en": "Electrical resistance"
+      },
+      {
+        "id": "o2",
+        "ru": "Электрическую мощность",
+        "en": "Electric power"
+      },
+      {
+        "id": "o3",
+        "ru": "Разность потенциалов",
+        "en": "Potential difference"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/20-1-current"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_perpendicular_work",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сила направлена строго перпендикулярно перемещению. Какую работу она совершает?",
+        "explanation": "В формуле W = Fd cos θ при θ = 90° косинус равен нулю."
+      },
+      "en": {
+        "question": "A force is exactly perpendicular to displacement. How much work does it do?",
+        "explanation": "In W = Fd cos θ, the cosine is zero when θ = 90°."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нулевую",
+        "en": "Zero"
+      },
+      {
+        "id": "o1",
+        "ru": "Равную произведению Fd",
+        "en": "Equal to Fd"
+      },
+      {
+        "id": "o2",
+        "ru": "Равную отношению F/d",
+        "en": "Equal to F/d"
+      },
+      {
+        "id": "o3",
+        "ru": "Равную половине Fd",
+        "en": "Equal to half of Fd"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_wave_relation",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как связаны скорость волны v, частота f и длина волны λ?",
+        "explanation": "За один период волна проходит расстояние, равное одной длине волны."
+      },
+      "en": {
+        "question": "How are wave speed v, frequency f and wavelength λ related?",
+        "explanation": "In one period, a wave travels one wavelength."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "v = fλ",
+        "en": "v = fλ"
+      },
+      {
+        "id": "o1",
+        "ru": "v = f/λ",
+        "en": "v = f/λ"
+      },
+      {
+        "id": "o2",
+        "ru": "v = λ/f",
+        "en": "v = λ/f"
+      },
+      {
+        "id": "o3",
+        "ru": "v = f + λ",
+        "en": "v = f + λ"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_mirror_image",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Предмет стоит в 2 м перед плоским зеркалом. Где находится его мнимое изображение?",
+        "explanation": "Мнимое изображение располагается за плоским зеркалом на том же расстоянии, что предмет перед ним."
+      },
+      "en": {
+        "question": "An object stands 2 m in front of a plane mirror. Where is its virtual image?",
+        "explanation": "A plane mirror's virtual image lies as far behind it as the object lies in front."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В 2 м за зеркалом",
+        "en": "2 m behind the mirror"
+      },
+      {
+        "id": "o1",
+        "ru": "В 1 м за зеркалом",
+        "en": "1 m behind the mirror"
+      },
+      {
+        "id": "o2",
+        "ru": "На поверхности зеркала",
+        "en": "On the mirror surface"
+      },
+      {
+        "id": "o3",
+        "ru": "В 4 м за зеркалом",
+        "en": "4 m behind the mirror"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_depth_ohm",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой ток течёт через омический резистор 6 Ом при напряжении 18 В?",
+        "explanation": "Закон Ома даёт I = V/R: 18/6 = 3 А."
+      },
+      "en": {
+        "question": "What current flows through a 6-ohm ohmic resistor at 18 V?",
+        "explanation": "Ohm's law gives I = V/R: 18/6 = 3 A."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3 А",
+        "en": "3 A"
+      },
+      {
+        "id": "o1",
+        "ru": "0,33 А",
+        "en": "0.33 A"
+      },
+      {
+        "id": "o2",
+        "ru": "12 А",
+        "en": "12 A"
+      },
+      {
+        "id": "o3",
+        "ru": "108 А",
+        "en": "108 A"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits"
+    ],
+    "image": null
   }
 ]

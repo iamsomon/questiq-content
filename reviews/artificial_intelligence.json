@@ -178,5 +178,365 @@
         "url": "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
       }
     ]
+  },
+  {
+    "id": "artificial_intelligence_depth_feature",
+    "status": "approved",
+    "sha256": "f2b9fc48d2a11748dd3ecd13fefdcb35471ad66d70c272b06fa2686bc4e58cf5",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary",
+        "location": "feature",
+        "claim": "Correct answer: An input variable of the model. One training example can contain several features."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_label",
+    "status": "approved",
+    "sha256": "84f09fe5cb71273201fce47d743138d4789624b0952d17d62456e424cf5f693b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary",
+        "location": "label",
+        "claim": "Correct answer: The known target answer. In supervised learning, the model relates input features to these answers."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_training_set",
+    "status": "approved",
+    "sha256": "42fb3dd8b1ca34c3e6ad437f11580ec51478fa8ee9dd22d72e1aa4d81e1fa2a8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+        "location": "Training, validation, and test sets",
+        "claim": "Correct answer: The training set. Evaluation sets are kept separate to check performance on unseen examples."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_test_set",
+    "status": "approved",
+    "sha256": "004e62aa69e31e326b67357d617c4da12ba1b996538ba607f395311d85eb4206",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+        "location": "Separate final test set; repeated use can wear out evaluation data",
+        "claim": "Correct answer: For final evaluation on unseen data. Repeated tuning against the test set makes that evaluation less reliable."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_loss",
+    "status": "approved",
+    "sha256": "79d0e4ca7f2cbbe52b1b5fc68b31c359ff38e8dd67c35b6bffd456ffadc925df",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/loss",
+        "location": "Definition and goal of minimising loss",
+        "claim": "Correct answer: The error in predictions. Training usually adjusts parameters to reduce the chosen error measure."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_overfitting",
+    "status": "approved",
+    "sha256": "b17104fbbef8d290732219d429fbf9e366dbb8dcd5c5041f3f7ae9d8e9dabe54",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+        "location": "Opening definition and contrast with new examples",
+        "claim": "Correct answer: Overfitting. A model can fit training-set details too closely, including details that do not generalise."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_generalisation",
+    "status": "approved",
+    "sha256": "5d1e4f98be59c02ebf6467b1a170fae8af3a9c430865e3929092ba236eca01e9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+        "location": "Generalisation and representative data",
+        "claim": "Correct answer: Good performance on new examples. Evaluation should reflect the task and data the model will face after training."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_epoch",
+    "status": "approved",
+    "sha256": "bc2daf441901678d5e594f1f91b0cf44d00356152f6b8eedc2bcd24476d4a097",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+        "location": "Epochs",
+        "claim": "Correct answer: One pass through the entire training set. An epoch can contain several updates using mini-batches."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_validation_set",
+    "status": "approved",
+    "sha256": "eff45573e3a19b049120f17f1b833c6a7fc4e39adcfb4094a14570d37eefecfd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+        "location": "Three-way split and repeated evaluation",
+        "claim": "Correct answer: Validation. This separation helps avoid tuning every decision to the final test."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_learning_rate",
+    "status": "approved",
+    "sha256": "97fb6a2271b56a88f113dde4fe83501d8c16caf2744d047d0980b790480905fd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+        "location": "Learning rate",
+        "claim": "Correct answer: Learning rate. An excessively large step can prevent convergence, while an excessively small one can slow training."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_batch_size",
+    "status": "approved",
+    "sha256": "42e612f7310913b549814cad46d7c783dca7a35f2884afde11e5be57fd09e41f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+        "location": "Batch size",
+        "claim": "Correct answer: The number of examples before a parameter update. A mini-batch contains part of the training data, rather than necessarily the whole set."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_gradient_descent",
+    "status": "approved",
+    "sha256": "3a3db75def6afd69710c9430933b30e89ae8a5adedea91d23703684e6a99ddcd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent",
+        "location": "Opening definition and iterative process",
+        "claim": "Correct answer: Adjusts parameters to reduce loss. The algorithm uses the direction of change in the loss function to choose an update step."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_underfitting",
+    "status": "approved",
+    "sha256": "7ab9e540ec631b77407699f79bc1829e0d9e72c35ca897d23fa7732a62d08e44",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+        "location": "Fitting, overfitting, and underfitting",
+        "claim": "Correct answer: Underfitting. In this case, the model does not adequately capture the relationship between features and the target."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_embedding",
+    "status": "approved",
+    "sha256": "6e444d9f7c30be926389c4289b154fabd7425acf64d37a2c87a1d539b0252f41",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary",
+        "location": "embedding vector",
+        "claim": "Correct answer: As a numerical vector. This representation consists of numbers and can be passed to subsequent model layers."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_activation",
+    "status": "approved",
+    "sha256": "3552f015609e9c76090c8f926d98fa4af1edea2d38854cefefba180246209c8e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions",
+        "location": "Opening paragraphs: adding nonlinear mathematical operations",
+        "claim": "Correct answer: To model nonlinear relationships. A sequence of purely linear transformations remains linear."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_false_positive",
+    "status": "approved",
+    "sha256": "634b7f5ab5d9513d4ae35c838c5778c764d0d25370d25c90644c1b2a15780de3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/classification/thresholding",
+        "location": "Effect of threshold on true and false positives; original industrial example",
+        "claim": "Correct answer: A false positive. The model predicted positive even though the actual class was negative."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_precision",
+    "status": "approved",
+    "sha256": "b0e7702f48161e9b3392bebad832db046d5ae78089a78723c61d45fe381b9322",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall",
+        "location": "Precision",
+        "claim": "Correct answer: True positives among all predicted positives. Precision is TP/(TP + FP): the denominator contains positive predictions."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_recall",
+    "status": "approved",
+    "sha256": "2dfa8dde2b65daa4ecbc6b515a21e038a593c645ef7747660ec851482e2cfb1e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall",
+        "location": "Recall, or true positive rate",
+        "claim": "Correct answer: TP/(TP + FN). Recall measures the fraction of all actual positive examples that were detected."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_squared_error",
+    "status": "approved",
+    "sha256": "c12c8416ca1c6682d1308e9029582f476e44e56eac4c97fb4d7c93dd15732c78",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/loss",
+        "location": "L1 versus L2 loss and sensitivity to large errors",
+        "claim": "Correct answer: Mean squared error, MSE. Squaring a deviation increases the influence of large errors compared with using its absolute magnitude."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_depth_relu",
+    "status": "approved",
+    "sha256": "f8180d8f7e5a95bccc6d61c5090fbb4cd2945db3330489f07ee15e6c8e3672a8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions",
+        "location": "Common activation functions: ReLU; original input",
+        "claim": "Correct answer: 0. ReLU is defined as max(0, x): negative inputs are replaced with zero."
+      }
+    ]
   }
 ]

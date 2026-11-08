@@ -438,5 +438,885 @@
       "https://developers.google.com/machine-learning/intro-to-ml/what-is-ml"
     ],
     "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_feature",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют признаком, или feature, в модели машинного обучения?",
+        "explanation": "Один обучающий пример может содержать несколько признаков."
+      },
+      "en": {
+        "question": "What is a feature in a machine learning model?",
+        "explanation": "One training example can contain several features."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Входную переменную модели",
+        "en": "An input variable of the model"
+      },
+      {
+        "id": "o1",
+        "ru": "Только окончательный прогноз",
+        "en": "Only the final prediction"
+      },
+      {
+        "id": "o2",
+        "ru": "Число шагов обучения",
+        "en": "The number of training steps"
+      },
+      {
+        "id": "o3",
+        "ru": "Название алгоритма оптимизации",
+        "en": "The name of an optimisation algorithm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_label",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют меткой, или label, в размеченном обучающем примере?",
+        "explanation": "При обучении с учителем модель сопоставляет входные признаки с такими ответами."
+      },
+      "en": {
+        "question": "What is the label in a labelled training example?",
+        "explanation": "In supervised learning, the model relates input features to these answers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Известный целевой ответ",
+        "en": "The known target answer"
+      },
+      {
+        "id": "o1",
+        "ru": "Случайное начальное значение веса",
+        "en": "A random initial weight"
+      },
+      {
+        "id": "o2",
+        "ru": "Размер очередной порции данных",
+        "en": "The size of the next data batch"
+      },
+      {
+        "id": "o3",
+        "ru": "Число слоёв нейросети",
+        "en": "The number of neural-network layers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_training_set",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой части данных модель непосредственно обучается?",
+        "explanation": "Выборки для оценки отделяют от обучающей, чтобы проверять работу на незнакомых примерах."
+      },
+      "en": {
+        "question": "On which data split is a model directly trained?",
+        "explanation": "Evaluation sets are kept separate to check performance on unseen examples."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "На обучающей выборке",
+        "en": "The training set"
+      },
+      {
+        "id": "o1",
+        "ru": "На окончательной тестовой выборке",
+        "en": "The final test set"
+      },
+      {
+        "id": "o2",
+        "ru": "Только на валидационной выборке",
+        "en": "Only the validation set"
+      },
+      {
+        "id": "o3",
+        "ru": "Только на будущих пользовательских запросах",
+        "en": "Only future user queries"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_test_set",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для чего оставляют отдельную тестовую выборку?",
+        "explanation": "Постоянная подстройка под тестовую выборку делает такую оценку менее надёжной."
+      },
+      "en": {
+        "question": "Why is a separate test set held out?",
+        "explanation": "Repeated tuning against the test set makes that evaluation less reliable."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Для итоговой оценки на незнакомых данных",
+        "en": "For final evaluation on unseen data"
+      },
+      {
+        "id": "o1",
+        "ru": "Для подбора каждого веса во время обучения",
+        "en": "For choosing every weight during training"
+      },
+      {
+        "id": "o2",
+        "ru": "Для хранения только ошибочных ответов",
+        "en": "For storing only incorrect answers"
+      },
+      {
+        "id": "o3",
+        "ru": "Для замены всех обучающих примеров",
+        "en": "For replacing all training examples"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_loss",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что измеряет функция потерь при обучении модели?",
+        "explanation": "Обучение обычно настраивает параметры так, чтобы уменьшить выбранную меру ошибки."
+      },
+      "en": {
+        "question": "What does a loss function measure during model training?",
+        "explanation": "Training usually adjusts parameters to reduce the chosen error measure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Величину ошибки предсказаний",
+        "en": "The error in predictions"
+      },
+      {
+        "id": "o1",
+        "ru": "Число обучающих примеров",
+        "en": "The number of training examples"
+      },
+      {
+        "id": "o2",
+        "ru": "Количество обучаемых весов",
+        "en": "The number of trainable weights"
+      },
+      {
+        "id": "o3",
+        "ru": "Объём памяти, занимаемый моделью",
+        "en": "The memory occupied by the model"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/loss"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_overfitting",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Модель отлично отвечает на обучающих данных, но плохо — на новых. Как называют эту проблему?",
+        "explanation": "Модель может слишком точно подстроиться под особенности обучающего набора, которые не обобщаются."
+      },
+      "en": {
+        "question": "A model performs very well on training data but poorly on new data. What is this problem called?",
+        "explanation": "A model can fit training-set details too closely, including details that do not generalise."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Переобучение",
+        "en": "Overfitting"
+      },
+      {
+        "id": "o1",
+        "ru": "Квантование",
+        "en": "Quantisation"
+      },
+      {
+        "id": "o2",
+        "ru": "Токенизация",
+        "en": "Tokenisation"
+      },
+      {
+        "id": "o3",
+        "ru": "Сжатие данных",
+        "en": "Data compression"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_generalisation",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает хорошая обобщающая способность модели?",
+        "explanation": "Оценка должна отражать задачу и данные, с которыми модель столкнётся после обучения."
+      },
+      "en": {
+        "question": "What does good model generalisation mean?",
+        "explanation": "Evaluation should reflect the task and data the model will face after training."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Успешную работу на новых примерах",
+        "en": "Good performance on new examples"
+      },
+      {
+        "id": "o1",
+        "ru": "Максимальную точность только на обучающей выборке",
+        "en": "Maximum accuracy only on the training set"
+      },
+      {
+        "id": "o2",
+        "ru": "Обязательное отсутствие тестовой выборки",
+        "en": "A mandatory absence of a test set"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязательное использование одного признака",
+        "en": "Mandatory use of one feature"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_epoch",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает одна эпоха обучения?",
+        "explanation": "Эпоха может состоять из нескольких шагов обновления по мини-пакетам."
+      },
+      "en": {
+        "question": "What does one training epoch mean?",
+        "explanation": "An epoch can contain several updates using mini-batches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Один проход по всей обучающей выборке",
+        "en": "One pass through the entire training set"
+      },
+      {
+        "id": "o1",
+        "ru": "Одно изменение одного веса",
+        "en": "One update to one weight"
+      },
+      {
+        "id": "o2",
+        "ru": "Один запуск приложения",
+        "en": "One application launch"
+      },
+      {
+        "id": "o3",
+        "ru": "Один прогноз на тестовой выборке",
+        "en": "One prediction on the test set"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_validation_set",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую выборку обычно используют при подборе настроек модели, сохраняя тестовую для итоговой оценки?",
+        "explanation": "Такое разделение помогает не подстраивать все решения под окончательный тест."
+      },
+      "en": {
+        "question": "Which set is normally used when tuning model settings while reserving the test set for final evaluation?",
+        "explanation": "This separation helps avoid tuning every decision to the final test."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Валидационную",
+        "en": "Validation"
+      },
+      {
+        "id": "o1",
+        "ru": "Только обучающую",
+        "en": "Training only"
+      },
+      {
+        "id": "o2",
+        "ru": "Итоговую тестовую",
+        "en": "The final test set"
+      },
+      {
+        "id": "o3",
+        "ru": "Смесь обучающей и тестовой без разделения",
+        "en": "An unsplit mixture of training and test data"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_learning_rate",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой гиперпараметр задаёт масштаб изменения параметров на шаге градиентного спуска?",
+        "explanation": "Слишком большой шаг может мешать сходимости, а слишком маленький — замедлять обучение."
+      },
+      "en": {
+        "question": "Which hyperparameter sets the scale of parameter changes in a gradient-descent step?",
+        "explanation": "An excessively large step can prevent convergence, while an excessively small one can slow training."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Скорость обучения",
+        "en": "Learning rate"
+      },
+      {
+        "id": "o1",
+        "ru": "Число эпох",
+        "en": "Number of epochs"
+      },
+      {
+        "id": "o2",
+        "ru": "Размер мини-пакета",
+        "en": "Mini-batch size"
+      },
+      {
+        "id": "o3",
+        "ru": "Число выходных классов",
+        "en": "Number of output classes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_batch_size",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что задаёт размер пакета, или batch size, при обучении?",
+        "explanation": "Мини-пакет содержит часть обучающих данных, а не обязательно всю выборку."
+      },
+      "en": {
+        "question": "What does batch size specify during training?",
+        "explanation": "A mini-batch contains part of the training data, rather than necessarily the whole set."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Число примеров перед очередным обновлением параметров",
+        "en": "The number of examples before a parameter update"
+      },
+      {
+        "id": "o1",
+        "ru": "Число классов в каждом ответе",
+        "en": "The number of classes in each answer"
+      },
+      {
+        "id": "o2",
+        "ru": "Число скрытых слоёв",
+        "en": "The number of hidden layers"
+      },
+      {
+        "id": "o3",
+        "ru": "Число повторных запусков программы",
+        "en": "The number of program restarts"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_gradient_descent",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую задачу решает градиентный спуск при обучении модели?",
+        "explanation": "Алгоритм использует направление изменения функции потерь, чтобы выбрать шаг обновления."
+      },
+      "en": {
+        "question": "What task does gradient descent perform during model training?",
+        "explanation": "The algorithm uses the direction of change in the loss function to choose an update step."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Изменяет параметры для уменьшения потерь",
+        "en": "Adjusts parameters to reduce loss"
+      },
+      {
+        "id": "o1",
+        "ru": "Разбивает данные на обучающую и тестовую части",
+        "en": "Splits data into training and test sets"
+      },
+      {
+        "id": "o2",
+        "ru": "Считает матрицу ошибок после обучения",
+        "en": "Calculates a confusion matrix after training"
+      },
+      {
+        "id": "o3",
+        "ru": "Выбирает новые имена для целевых классов",
+        "en": "Chooses new names for target classes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_underfitting",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют ситуацию, когда слишком простая модель не улавливает закономерности даже обучающей выборки?",
+        "explanation": "В таком случае модель недостаточно хорошо описывает связь между признаками и целевым ответом."
+      },
+      "en": {
+        "question": "What is it called when an overly simple model fails to capture patterns even in its training set?",
+        "explanation": "In this case, the model does not adequately capture the relationship between features and the target."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Недообучение",
+        "en": "Underfitting"
+      },
+      {
+        "id": "o1",
+        "ru": "Переобучение",
+        "en": "Overfitting"
+      },
+      {
+        "id": "o2",
+        "ru": "Развёртывание",
+        "en": "Deployment"
+      },
+      {
+        "id": "o3",
+        "ru": "Ансамблирование",
+        "en": "Ensembling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_embedding",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде эмбеддинг обычно представляет объект для модели?",
+        "explanation": "Такое представление состоит из чисел и может передаваться следующим слоям модели."
+      },
+      "en": {
+        "question": "In what form does an embedding typically represent an object for a model?",
+        "explanation": "This representation consists of numbers and can be passed to subsequent model layers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Как числовой вектор",
+        "en": "As a numerical vector"
+      },
+      {
+        "id": "o1",
+        "ru": "Как неизменённое текстовое название",
+        "en": "As an unchanged text name"
+      },
+      {
+        "id": "o2",
+        "ru": "Как таблицу ошибок классификации",
+        "en": "As a classification error table"
+      },
+      {
+        "id": "o3",
+        "ru": "Как набор правил «если — то»",
+        "en": "As a set of if–then rules"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_activation",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Зачем нейросети нелинейные функции активации?",
+        "explanation": "Последовательность только линейных преобразований сама остаётся линейной."
+      },
+      "en": {
+        "question": "Why does a neural network use nonlinear activation functions?",
+        "explanation": "A sequence of purely linear transformations remains linear."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чтобы моделировать нелинейные зависимости",
+        "en": "To model nonlinear relationships"
+      },
+      {
+        "id": "o1",
+        "ru": "Чтобы запретить изменение весов",
+        "en": "To prevent weight updates"
+      },
+      {
+        "id": "o2",
+        "ru": "Чтобы исключить все скрытые слои",
+        "en": "To remove all hidden layers"
+      },
+      {
+        "id": "o3",
+        "ru": "Чтобы гарантировать нулевую ошибку на тесте",
+        "en": "To guarantee zero test error"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_false_positive",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Если «положительный» класс означает дефект, как назвать исправную деталь, ошибочно признанную дефектной?",
+        "explanation": "Модель дала положительный ответ, хотя реальный класс отрицательный."
+      },
+      "en": {
+        "question": "If the positive class means defective, what is a sound part incorrectly classified as defective?",
+        "explanation": "The model predicted positive even though the actual class was negative."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ложноположительный результат",
+        "en": "A false positive"
+      },
+      {
+        "id": "o1",
+        "ru": "Ложноотрицательный результат",
+        "en": "A false negative"
+      },
+      {
+        "id": "o2",
+        "ru": "Истинноположительный результат",
+        "en": "A true positive"
+      },
+      {
+        "id": "o3",
+        "ru": "Истинноотрицательный результат",
+        "en": "A true negative"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/classification/thresholding"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_precision",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую долю измеряет precision в бинарной классификации?",
+        "explanation": "Формула precision — TP/(TP + FP): в знаменателе находятся положительные предсказания."
+      },
+      "en": {
+        "question": "What proportion does precision measure in binary classification?",
+        "explanation": "Precision is TP/(TP + FP): the denominator contains positive predictions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Истинно положительных среди всех предсказанных положительных",
+        "en": "True positives among all predicted positives"
+      },
+      {
+        "id": "o1",
+        "ru": "Верно найденных положительных среди всех реальных положительных",
+        "en": "Correctly detected positives among all actual positives"
+      },
+      {
+        "id": "o2",
+        "ru": "Истинно отрицательных среди всех реальных отрицательных",
+        "en": "True negatives among all actual negatives"
+      },
+      {
+        "id": "o3",
+        "ru": "Всех ошибок среди всех примеров",
+        "en": "All errors among all examples"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_recall",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая формула задаёт recall, если TP — истинно положительные, а FN — ложноотрицательные результаты?",
+        "explanation": "Полнота показывает, какая часть всех реальных положительных примеров была найдена."
+      },
+      "en": {
+        "question": "Which formula gives recall, where TP means true positives and FN means false negatives?",
+        "explanation": "Recall measures the fraction of all actual positive examples that were detected."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "TP/(TP + FN)",
+        "en": "TP/(TP + FN)"
+      },
+      {
+        "id": "o1",
+        "ru": "FN/(TP + FN)",
+        "en": "FN/(TP + FN)"
+      },
+      {
+        "id": "o2",
+        "ru": "TP/FN",
+        "en": "TP/FN"
+      },
+      {
+        "id": "o3",
+        "ru": "FN/TP",
+        "en": "FN/TP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_squared_error",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая мера ошибки сильнее увеличивает вклад больших отклонений за счёт возведения их в квадрат?",
+        "explanation": "Квадрат отклонения усиливает влияние больших ошибок по сравнению с их абсолютной величиной."
+      },
+      "en": {
+        "question": "Which error measure gives large deviations extra weight by squaring them?",
+        "explanation": "Squaring a deviation increases the influence of large errors compared with using its absolute magnitude."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Среднеквадратичная ошибка, MSE",
+        "en": "Mean squared error, MSE"
+      },
+      {
+        "id": "o1",
+        "ru": "Средняя абсолютная ошибка, MAE",
+        "en": "Mean absolute error, MAE"
+      },
+      {
+        "id": "o2",
+        "ru": "Медианная абсолютная ошибка",
+        "en": "Median absolute error"
+      },
+      {
+        "id": "o3",
+        "ru": "Доля правильных классификаций",
+        "en": "Classification accuracy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/linear-regression/loss"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_depth_relu",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое значение возвращает функция ReLU при входе −3?",
+        "explanation": "ReLU задаётся формулой max(0, x): отрицательные входы заменяются нулём."
+      },
+      "en": {
+        "question": "What value does ReLU return for an input of −3?",
+        "explanation": "ReLU is defined as max(0, x): negative inputs are replaced with zero."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "0",
+        "en": "0"
+      },
+      {
+        "id": "o1",
+        "ru": "−3",
+        "en": "−3"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "1",
+        "en": "1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions"
+    ],
+    "image": null
   }
 ]

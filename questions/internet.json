@@ -438,5 +438,885 @@
       "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
     ],
     "image": null
+  },
+  {
+    "id": "internet_depth_dns",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая система помогает найти IP-адрес по доменному имени?",
+        "explanation": "Устройство может использовать ответ из локального кэша или обратиться к DNS-серверу."
+      },
+      "en": {
+        "question": "Which system helps find an IP address from a domain name?",
+        "explanation": "A device can use a locally cached answer or query a DNS server."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "DNS",
+        "en": "DNS"
+      },
+      {
+        "id": "o1",
+        "ru": "DHCP",
+        "en": "DHCP"
+      },
+      {
+        "id": "o2",
+        "ru": "SMTP",
+        "en": "SMTP"
+      },
+      {
+        "id": "o3",
+        "ru": "NTP",
+        "en": "NTP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_https",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой протокол защищает обмен веб-страницами между браузером и сервером с помощью TLS?",
+        "explanation": "Шифрование защищает содержимое соединения при передаче по сети."
+      },
+      "en": {
+        "question": "Which protocol protects browser-server webpage exchanges using TLS?",
+        "explanation": "Encryption protects the connection's contents while they travel over the network."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "HTTPS",
+        "en": "HTTPS"
+      },
+      {
+        "id": "o1",
+        "ru": "FTP",
+        "en": "FTP"
+      },
+      {
+        "id": "o2",
+        "ru": "SMTP",
+        "en": "SMTP"
+      },
+      {
+        "id": "o3",
+        "ru": "DHCP",
+        "en": "DHCP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_html",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой язык задаёт структуру обычной веб-страницы?",
+        "explanation": "HTML описывает элементы документа, например заголовки, абзацы и ссылки."
+      },
+      "en": {
+        "question": "Which language defines the structure of a typical webpage?",
+        "explanation": "HTML describes document elements such as headings, paragraphs and links."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "HTML",
+        "en": "HTML"
+      },
+      {
+        "id": "o1",
+        "ru": "CSS",
+        "en": "CSS"
+      },
+      {
+        "id": "o2",
+        "ru": "SQL",
+        "en": "SQL"
+      },
+      {
+        "id": "o3",
+        "ru": "Python",
+        "en": "Python"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/HTML"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_not_found",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой HTTP-код обычно означает «ресурс не найден»?",
+        "explanation": "Сервер не смог найти запрошенный ресурс; иногда этот код также скрывает существование закрытого ресурса."
+      },
+      "en": {
+        "question": "Which HTTP status code usually means a resource was not found?",
+        "explanation": "The server could not find the requested resource; sometimes this code also conceals a restricted resource's existence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "404",
+        "en": "404"
+      },
+      {
+        "id": "o1",
+        "ru": "200",
+        "en": "200"
+      },
+      {
+        "id": "o2",
+        "ru": "301",
+        "en": "301"
+      },
+      {
+        "id": "o3",
+        "ru": "500",
+        "en": "500"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_cache",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Зачем браузер сохраняет HTTP-кэш?",
+        "explanation": "Повторное использование подходящего ответа может уменьшить задержку и нагрузку на сервер."
+      },
+      "en": {
+        "question": "Why does a browser keep an HTTP cache?",
+        "explanation": "Reusing an appropriate response can reduce delay and server load."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чтобы повторно использовать полученные ответы",
+        "en": "To reuse previously received responses"
+      },
+      {
+        "id": "o1",
+        "ru": "Чтобы шифровать весь сетевой трафик",
+        "en": "To encrypt all network traffic"
+      },
+      {
+        "id": "o2",
+        "ru": "Чтобы назначать устройству IP-адрес",
+        "en": "To assign an IP address to the device"
+      },
+      {
+        "id": "o3",
+        "ru": "Чтобы проверять сертификат сервера",
+        "en": "To verify the server certificate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_cookie",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую задачу решает cookie с идентификатором сеанса?",
+        "explanation": "Браузер может отправлять сохранённую cookie с последующими запросами к тому же серверу."
+      },
+      "en": {
+        "question": "What task does a cookie containing a session identifier perform?",
+        "explanation": "The browser can send a stored cookie with later requests to the same server."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Связывает запросы с сохранённым сеансом",
+        "en": "Links requests to a stored session"
+      },
+      {
+        "id": "o1",
+        "ru": "Гарантирует доставку байтов по порядку",
+        "en": "Guarantees ordered byte delivery"
+      },
+      {
+        "id": "o2",
+        "ru": "Преобразует доменное имя в IP-адрес",
+        "en": "Resolves a domain name to an IP address"
+      },
+      {
+        "id": "o3",
+        "ru": "Проверяет сертификат TLS",
+        "en": "Verifies the TLS certificate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_ftp",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для какой задачи изначально предназначен FTP?",
+        "explanation": "Название расшифровывается как File Transfer Protocol; обычный FTP не шифрует передачу."
+      },
+      "en": {
+        "question": "What task was FTP originally designed for?",
+        "explanation": "The name means File Transfer Protocol; ordinary FTP does not encrypt transfers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Передача файлов между компьютерами",
+        "en": "Transferring files between computers"
+      },
+      {
+        "id": "o1",
+        "ru": "Разметка заголовков страницы",
+        "en": "Marking up webpage headings"
+      },
+      {
+        "id": "o2",
+        "ru": "Сжатие цифровых фотографий",
+        "en": "Compressing digital photographs"
+      },
+      {
+        "id": "o3",
+        "ru": "Воспроизведение звука через колонки",
+        "en": "Playing sound through speakers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/FTP"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_url_scheme",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется часть https в начале адреса https://example.org?",
+        "explanation": "Схема указывает браузеру способ обращения к ресурсу."
+      },
+      "en": {
+        "question": "What is the https part at the start of https://example.org called?",
+        "explanation": "The scheme tells the browser how to access the resource."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Схема",
+        "en": "Scheme"
+      },
+      {
+        "id": "o1",
+        "ru": "Путь",
+        "en": "Path"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрагмент",
+        "en": "Fragment"
+      },
+      {
+        "id": "o3",
+        "ru": "Параметр запроса",
+        "en": "Query parameter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_get",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой HTTP-метод предназначен для запроса представления ресурса без изменения его состояния?",
+        "explanation": "GET используют для получения данных; отправка тела в таком запросе не имеет общепринятой семантики."
+      },
+      "en": {
+        "question": "Which HTTP method is intended to request a resource representation without changing its state?",
+        "explanation": "GET retrieves data; sending a body in such a request has no generally defined semantics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "GET",
+        "en": "GET"
+      },
+      {
+        "id": "o1",
+        "ru": "POST",
+        "en": "POST"
+      },
+      {
+        "id": "o2",
+        "ru": "DELETE",
+        "en": "DELETE"
+      },
+      {
+        "id": "o3",
+        "ru": "PATCH",
+        "en": "PATCH"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/GET"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_post",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой HTTP-метод обычно отправляет данные формы на сервер и может создавать новый заказ?",
+        "explanation": "Повтор одинакового POST-запроса может иметь дополнительные последствия, например создать ещё один заказ."
+      },
+      "en": {
+        "question": "Which HTTP method commonly sends form data to a server and may create a new order?",
+        "explanation": "Repeating an identical POST request can have additional effects, such as creating another order."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "POST",
+        "en": "POST"
+      },
+      {
+        "id": "o1",
+        "ru": "HEAD",
+        "en": "HEAD"
+      },
+      {
+        "id": "o2",
+        "ru": "GET",
+        "en": "GET"
+      },
+      {
+        "id": "o3",
+        "ru": "OPTIONS",
+        "en": "OPTIONS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_cdn",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что такое CDN?",
+        "explanation": "Копии данных в разных местах позволяют обслуживать запросы ближе к пользователям."
+      },
+      "en": {
+        "question": "What is a CDN?",
+        "explanation": "Copies of data in different locations allow requests to be served nearer to users."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сеть распределённых серверов доставки контента",
+        "en": "A distributed network of content-delivery servers"
+      },
+      {
+        "id": "o1",
+        "ru": "Формат сжатого изображения",
+        "en": "A compressed image format"
+      },
+      {
+        "id": "o2",
+        "ru": "Язык запросов к таблицам",
+        "en": "A table-query language"
+      },
+      {
+        "id": "o3",
+        "ru": "Протокол выдачи IP-адресов",
+        "en": "A protocol for assigning IP addresses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/CDN"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_path",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая часть адреса https://example.org/books/index.html является путём?",
+        "explanation": "Путь указывает ресурс на сервере и не обязан соответствовать настоящему файлу на диске."
+      },
+      "en": {
+        "question": "Which part of https://example.org/books/index.html is the path?",
+        "explanation": "A path identifies a server resource and need not correspond to an actual disk file."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "/books/index.html",
+        "en": "/books/index.html"
+      },
+      {
+        "id": "o1",
+        "ru": "https",
+        "en": "https"
+      },
+      {
+        "id": "o2",
+        "ru": "example.org",
+        "en": "example.org"
+      },
+      {
+        "id": "o3",
+        "ru": ".org",
+        "en": ".org"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_query",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой символ начинает строку параметров запроса в URL?",
+        "explanation": "Параметры после него могут задавать поиск, фильтрацию или сортировку — в зависимости от сервера."
+      },
+      "en": {
+        "question": "Which character begins a URL query component?",
+        "explanation": "The parameters can specify searching, filtering or sorting, depending on the server."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вопросительный знак (?)",
+        "en": "Question mark (?)"
+      },
+      {
+        "id": "o1",
+        "ru": "Решётка (#)",
+        "en": "Hash sign (#)"
+      },
+      {
+        "id": "o2",
+        "ru": "Знак @",
+        "en": "At sign (@)"
+      },
+      {
+        "id": "o3",
+        "ru": "Восклицательный знак (!)",
+        "en": "Exclamation mark (!)"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Query"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_permanent_redirect",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает HTTP-ответ 301 Moved Permanently?",
+        "explanation": "Новый URL сообщается в ответе, чтобы клиент мог обратиться по нему."
+      },
+      "en": {
+        "question": "What does an HTTP 301 Moved Permanently response mean?",
+        "explanation": "The response supplies the new URL so the client can use it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "У ресурса постоянно изменился адрес",
+        "en": "The resource has permanently changed address"
+      },
+      {
+        "id": "o1",
+        "ru": "Запрос успешно создал новый ресурс",
+        "en": "The request created a new resource"
+      },
+      {
+        "id": "o2",
+        "ru": "Серверу неизвестен метод запроса",
+        "en": "The server does not recognise the method"
+      },
+      {
+        "id": "o3",
+        "ru": "Для запроса требуется пароль",
+        "en": "The request requires a password"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_server_error",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе относится HTTP-код 500?",
+        "explanation": "Коды 5xx описывают ошибки на стороне сервера; 500 — общий код внутренней ошибки."
+      },
+      "en": {
+        "question": "Which group includes HTTP status code 500?",
+        "explanation": "5xx codes describe server-side errors; 500 is a generic internal-error code."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ошибки сервера",
+        "en": "Server errors"
+      },
+      {
+        "id": "o1",
+        "ru": "Успешные ответы",
+        "en": "Successful responses"
+      },
+      {
+        "id": "o2",
+        "ru": "Перенаправления",
+        "en": "Redirections"
+      },
+      {
+        "id": "o3",
+        "ru": "Информационные ответы",
+        "en": "Informational responses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_ipv4_bits",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова длина адреса IPv4?",
+        "explanation": "Адрес состоит из четырёх октетов, то есть четырёх групп по восемь бит."
+      },
+      "en": {
+        "question": "How long is an IPv4 address?",
+        "explanation": "An address contains four octets, each a group of eight bits."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "32 бита",
+        "en": "32 bits"
+      },
+      {
+        "id": "o1",
+        "ru": "16 бит",
+        "en": "16 bits"
+      },
+      {
+        "id": "o2",
+        "ru": "48 бит",
+        "en": "48 bits"
+      },
+      {
+        "id": "o3",
+        "ru": "64 бита",
+        "en": "64 bits"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.rfc-editor.org/rfc/rfc791"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_tcp_order",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое свойство потока данных обеспечивает TCP?",
+        "explanation": "TCP управляет доставкой потока; шифрование при необходимости обеспечивает отдельный протокол, например TLS."
+      },
+      "en": {
+        "question": "Which property does TCP provide for a data stream?",
+        "explanation": "TCP manages stream delivery; a separate protocol such as TLS provides encryption when needed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доставку байтов по порядку с контролем надёжности",
+        "en": "Reliable, ordered byte delivery"
+      },
+      {
+        "id": "o1",
+        "ru": "Обязательное шифрование содержимого",
+        "en": "Mandatory content encryption"
+      },
+      {
+        "id": "o2",
+        "ru": "Преобразование доменов в IP-адреса",
+        "en": "Resolution of domains to IP addresses"
+      },
+      {
+        "id": "o3",
+        "ru": "Выдачу устройству сетевых настроек",
+        "en": "Assignment of network settings to a device"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/TCP"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_https_port",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой порт используется для HTTPS по умолчанию?",
+        "explanation": "Стандартный порт обычно можно не писать в адресной строке."
+      },
+      "en": {
+        "question": "What is the default port for HTTPS?",
+        "explanation": "A standard port can usually be omitted from the address bar."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "443",
+        "en": "443"
+      },
+      {
+        "id": "o1",
+        "ru": "80",
+        "en": "80"
+      },
+      {
+        "id": "o2",
+        "ru": "25",
+        "en": "25"
+      },
+      {
+        "id": "o3",
+        "ru": "21",
+        "en": "21"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_fragment",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая часть веб-адреса обычно обрабатывается браузером и не отправляется серверу в HTTP-запросе?",
+        "explanation": "Фрагмент может указывать на раздел страницы или временную отметку в медиаресурсе."
+      },
+      "en": {
+        "question": "Which part of a web address is normally processed by the browser and not sent to the server in an HTTP request?",
+        "explanation": "A fragment can identify a page section or a time position in a media resource."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрагмент после #",
+        "en": "The fragment after #"
+      },
+      {
+        "id": "o1",
+        "ru": "Путь к ресурсу",
+        "en": "The resource path"
+      },
+      {
+        "id": "o2",
+        "ru": "Имя домена",
+        "en": "The domain name"
+      },
+      {
+        "id": "o3",
+        "ru": "Строка параметров после ?",
+        "en": "The query after ?"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_depth_ipv6_bits",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "До какой длины в IPv6 расширено поле адреса по сравнению с IPv4?",
+        "explanation": "Расширение адресного пространства — одно из основных отличий IPv6 от IPv4."
+      },
+      "en": {
+        "question": "To what length does IPv6 expand the address field compared with IPv4?",
+        "explanation": "A larger address space is one of the main differences between IPv6 and IPv4."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "128 бит",
+        "en": "128 bits"
+      },
+      {
+        "id": "o1",
+        "ru": "64 бита",
+        "en": "64 bits"
+      },
+      {
+        "id": "o2",
+        "ru": "256 бит",
+        "en": "256 bits"
+      },
+      {
+        "id": "o3",
+        "ru": "512 бит",
+        "en": "512 bits"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.rfc-editor.org/rfc/rfc8200"
+    ],
+    "image": null
   }
 ]

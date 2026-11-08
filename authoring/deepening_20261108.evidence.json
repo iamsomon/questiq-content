@@ -1,0 +1,1002 @@
+{
+  "physics_depth_inertia": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia",
+    "location": "Newton's first law and mass as a measure of inertia",
+    "claim": "A larger mass requires more force for the same acceleration."
+  },
+  "physics_depth_net_force": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+    "location": "External forces and vector sum",
+    "claim": "Both magnitude and direction matter when combining forces."
+  },
+  "physics_depth_mass_weight": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia",
+    "location": "Mass does not vary with location; distinction from weight",
+    "claim": "The gravitational force on the rock changes, rather than its mass."
+  },
+  "physics_depth_kinetic": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem",
+    "location": "Kinetic energy definition and equation",
+    "claim": "In classical mechanics, it depends on mass and the square of speed."
+  },
+  "physics_depth_conduction": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+    "location": "Numbered list, conduction",
+    "claim": "The material need not move as a bulk flow."
+  },
+  "physics_depth_convection": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+    "location": "Numbered list, convection",
+    "claim": "The flow carries warmer material from one region to another."
+  },
+  "physics_depth_radiation": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+    "location": "Radiation and warming of Earth by the Sun",
+    "claim": "This energy transfer does not require matter between the Sun and Earth."
+  },
+  "physics_depth_pitch": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+    "location": "Opening paragraphs, frequency perceived as pitch",
+    "claim": "A higher frequency corresponds to a higher pitch."
+  },
+  "physics_depth_acceleration": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+    "location": "Newton's second law, F = ma; original calculation",
+    "claim": "Newton's second law gives a = F/m: 12/4 = 3 m/s²."
+  },
+  "physics_depth_third_law": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/4-4-newtons-third-law-of-motion-symmetry-in-forces",
+    "location": "Statement of the third law and different systems",
+    "claim": "The forces have equal magnitudes and opposite directions, but act on different objects."
+  },
+  "physics_depth_potential": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/7-3-gravitational-potential-energy",
+    "location": "Change in gravitational potential energy near Earth",
+    "claim": "Near Earth's surface, the energy change is mgh, where h is the vertical rise."
+  },
+  "physics_depth_frequency_unit": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations",
+    "location": "Frequency and hertz definition",
+    "claim": "Frequency counts complete oscillations per unit time."
+  },
+  "physics_depth_period": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations",
+    "location": "Reciprocal relationship between period and frequency; original calculation",
+    "claim": "Frequency is the reciprocal of period: f = 1/T = 1/0.25 = 4 Hz."
+  },
+  "physics_depth_reflection": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection",
+    "location": "Law of reflection; original angle",
+    "claim": "The incidence and reflection angles are measured from the surface normal and are equal."
+  },
+  "physics_depth_refraction": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction",
+    "location": "Refraction at a boundary and change of speed",
+    "claim": "Light changes speed between media, usually bending when it enters at an angle."
+  },
+  "physics_depth_current": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/20-1-current",
+    "location": "Electric current, I = ΔQ/Δt",
+    "claim": "Charge in coulombs divided by time in seconds gives current in amperes."
+  },
+  "physics_depth_perpendicular_work": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem",
+    "location": "Work equation and forces perpendicular to displacement",
+    "claim": "In W = Fd cos θ, the cosine is zero when θ = 90°."
+  },
+  "physics_depth_wave_relation": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+    "location": "Equation 17.1, wave speed = frequency × wavelength",
+    "claim": "In one period, a wave travels one wavelength."
+  },
+  "physics_depth_mirror_image": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection",
+    "location": "Plane-mirror image and equal distances; original distance",
+    "claim": "A plane mirror's virtual image lies as far behind it as the object lies in front."
+  },
+  "physics_depth_ohm": {
+    "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+    "location": "Equation 20.14, I = V/R; original calculation",
+    "claim": "Ohm's law gives I = V/R: 18/6 = 3 A."
+  },
+  "biology_depth_mitochondria": {
+    "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+    "location": "Key Terms: mitochondria",
+    "claim": "ATP carries energy that the cell uses in its processes."
+  },
+  "biology_depth_lysosome": {
+    "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+    "location": "Key Terms: lysosome",
+    "claim": "Lysosomes contain enzymes that break down various biological molecules."
+  },
+  "biology_depth_prokaryote": {
+    "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+    "location": "Key Terms: nucleoid; prokaryotic cell",
+    "claim": "Their DNA occupies a region of the cell called the nucleoid."
+  },
+  "biology_depth_osmosis": {
+    "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+    "location": "Key Terms: osmosis",
+    "claim": "The net direction depends on solute concentrations on the two sides of the membrane."
+  },
+  "biology_depth_enzyme": {
+    "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+    "location": "Opening paragraphs: catalysts and lowered activation energy",
+    "claim": "Enzymes act as catalysts, lowering a reaction's activation-energy barrier."
+  },
+  "biology_depth_homeostasis": {
+    "url": "https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology",
+    "location": "Properties of Life: Regulation and Homeostasis",
+    "claim": "Regulation helps keep conditions suitable for cells as the external environment changes."
+  },
+  "biology_depth_allele": {
+    "url": "https://www.genome.gov/genetics-glossary/Allele",
+    "location": "Definition and homozygous/heterozygous alleles",
+    "claim": "In a diploid organism, the two copies of that location can carry the same or different variants."
+  },
+  "biology_depth_fungal_wall": {
+    "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+    "location": "Cell Structure and Function: chitin and glucans",
+    "claim": "Chitin strengthens the wall and also occurs in arthropod exoskeletons."
+  },
+  "biology_depth_diffusion": {
+    "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+    "location": "Key Terms: diffusion; passive transport",
+    "claim": "It is passive: movement down the gradient does not directly require the cell to spend ATP."
+  },
+  "biology_depth_active_transport": {
+    "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+    "location": "Key Terms: active transport; pump",
+    "claim": "Energy can, for example, drive substances against their electrochemical gradient."
+  },
+  "biology_depth_atp": {
+    "url": "https://openstax.org/books/biology-2e/pages/6-key-terms",
+    "location": "Key Terms: ATP; high-energy phosphate bond",
+    "claim": "ATP has three phosphate groups; their transformations are linked to cellular energy transfer."
+  },
+  "biology_depth_binomial": {
+    "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+    "location": "Taxonomy: binomial nomenclature",
+    "claim": "In binomial naming, the first word identifies the genus and begins with a capital letter."
+  },
+  "biology_depth_meiosis": {
+    "url": "https://www.genome.gov/genetics-glossary/Meiosis",
+    "location": "Definition: two divisions and haploid gametes",
+    "claim": "In sexual reproduction, meiosis produces haploid cells, while fertilisation restores diploidy."
+  },
+  "biology_depth_genotype": {
+    "url": "https://www.genome.gov/genetics-glossary/genotype",
+    "location": "Definition and BB/Bb/bb examples; original AA/Aa notation",
+    "claim": "This notation describes genetic variants rather than just an observable trait."
+  },
+  "biology_depth_phenotype": {
+    "url": "https://www.genome.gov/genetics-glossary/Phenotype",
+    "location": "Definition: observable traits and environment",
+    "claim": "Both genotype and environment influence how traits are expressed."
+  },
+  "biology_depth_bacteriophage": {
+    "url": "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+    "location": "Morphology: bacteriophages and T4",
+    "claim": "Bacteriophages are viruses; some have a head containing genetic material and a tail."
+  },
+  "biology_depth_taxonomic_family": {
+    "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+    "location": "Taxonomy: ranks from kingdom to species",
+    "claim": "This part of the hierarchy runs order, family, genus, species."
+  },
+  "biology_depth_mycorrhiza": {
+    "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+    "location": "Opening discussion of mycorrhizae",
+    "claim": "In this association, the fungus and plant exchange resources, including water and nutrients."
+  },
+  "biology_depth_hyphae": {
+    "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+    "location": "Growth: hyphae and mycelium",
+    "claim": "A network of hyphae forms a mycelium."
+  },
+  "biology_depth_capsid": {
+    "url": "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+    "location": "Morphology: nucleic acid core, capsid and optional envelope",
+    "claim": "Some viruses also have an additional outer membrane envelope."
+  },
+  "mathematics_depth_rectangle_area": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+    "location": "9.4 rectangle area formula; original dimensions",
+    "claim": "A rectangle's area is length times width: 7 × 4 = 28."
+  },
+  "mathematics_depth_triangle_sum": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+    "location": "9.3 triangle angle sum",
+    "claim": "For triangles in Euclidean geometry, this sum does not depend on side lengths."
+  },
+  "mathematics_depth_percent": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent",
+    "location": "Translate and solve basic percent equations; original calculation",
+    "claim": "Twenty percent is one fifth: 150/5 = 30."
+  },
+  "mathematics_depth_prime": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts",
+    "location": "Determine if a number is prime; original choices",
+    "claim": "A prime has exactly two positive divisors: one and itself."
+  },
+  "mathematics_depth_mean": {
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+    "location": "Mean definition; original data",
+    "claim": "The sum, 15, is divided by the number of values, three."
+  },
+  "mathematics_depth_x_axis": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs",
+    "location": "Plotting ordered pairs; x-axis horizontal",
+    "claim": "A point's first coordinate gives its displacement along the x-axis from the origin."
+  },
+  "mathematics_depth_absolute": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/3-1-introduction-to-integers",
+    "location": "Absolute Value definition; original number",
+    "claim": "Absolute value is distance from zero on the number line."
+  },
+  "mathematics_depth_linear_equation": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable",
+    "location": "Solving linear equations in one variable; original equation",
+    "claim": "Add 5 to both sides, then divide by 3: 3x = 15, x = 5."
+  },
+  "mathematics_depth_triangle_area": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+    "location": "9.5 triangle area; original dimensions",
+    "claim": "A triangle's area is half the product of its base and corresponding height."
+  },
+  "mathematics_depth_circle_area": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+    "location": "9.5 properties of circles: area and circumference",
+    "claim": "Area uses square units, whereas circumference uses linear units."
+  },
+  "mathematics_depth_fraction_sum": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/4-5-add-and-subtract-fractions-with-different-denominators",
+    "location": "Adding fractions with different denominators; original expression",
+    "claim": "Use a common denominator of 8: 6/8 + 1/8 = 7/8."
+  },
+  "mathematics_depth_lcm": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/2-5-prime-factorization-and-the-least-common-multiple",
+    "location": "LCM definition; original pair",
+    "claim": "24 is the smallest positive integer divisible by both 6 and 8."
+  },
+  "mathematics_depth_gcd": {
+    "url": "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts",
+    "location": "Factors and prime factorization; original divisor calculation",
+    "claim": "Their common positive divisors are 1, 2, 3 and 6; the greatest is 6."
+  },
+  "mathematics_depth_median": {
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+    "location": "Median for an odd number of observations; original data",
+    "claim": "In an ordered set of five values, the median is the third value."
+  },
+  "mathematics_depth_die_probability": {
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology",
+    "location": "Equally likely outcomes and probability as favourable/total; original event",
+    "claim": "Three of the six equally likely outcomes qualify: 2, 4 and 6."
+  },
+  "mathematics_depth_slope": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions",
+    "location": "Slope-intercept form; original line",
+    "claim": "In y = mx + b, m gives the change in y for a one-unit increase in x."
+  },
+  "mathematics_depth_factorial": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/9-1-sequences-and-their-notations",
+    "location": "Using factorial notation; original integer",
+    "claim": "A positive integer's factorial is the product of the integers from 1 to it: 1 × 2 × 3 × 4 × 5."
+  },
+  "mathematics_depth_geometric": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences",
+    "location": "Common ratio and listing terms; original progression",
+    "claim": "The common ratio is 3: each term is multiplied by the same number."
+  },
+  "mathematics_depth_quadrant": {
+    "url": "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs",
+    "location": "Quadrants and signs of ordered pairs; original point",
+    "claim": "A negative x-coordinate and positive y-coordinate place the point at the upper left."
+  },
+  "mathematics_depth_independent_coins": {
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology",
+    "location": "Two-coin sample space HH, TH, HT, TT; original event",
+    "claim": "Only one of the four equally likely outcome pairs contains two heads."
+  },
+  "internet_depth_dns": {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name",
+    "location": "How does a DNS request work?, steps 2–3",
+    "claim": "A device can use a locally cached answer or query a DNS server."
+  },
+  "internet_depth_https": {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS",
+    "location": "Opening definition",
+    "claim": "Encryption protects the connection's contents while they travel over the network."
+  },
+  "internet_depth_html": {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTML",
+    "location": "Opening definition; syntax of elements",
+    "claim": "HTML describes document elements such as headings, paragraphs and links."
+  },
+  "internet_depth_not_found": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+    "location": "404 Not Found",
+    "claim": "The server could not find the requested resource; sometimes this code also conceals a restricted resource's existence."
+  },
+  "internet_depth_cache": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+    "location": "Opening paragraphs on response reuse",
+    "claim": "Reusing an appropriate response can reduce delay and server load."
+  },
+  "internet_depth_cookie": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies",
+    "location": "Opening definition; basic user sign-in system",
+    "claim": "The browser can send a stored cookie with later requests to the same server."
+  },
+  "internet_depth_ftp": {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/FTP",
+    "location": "Opening definition",
+    "claim": "The name means File Transfer Protocol; ordinary FTP does not encrypt transfers."
+  },
+  "internet_depth_url_scheme": {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+    "location": "Scheme",
+    "claim": "The scheme tells the browser how to access the resource."
+  },
+  "internet_depth_get": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/GET",
+    "location": "Opening description and note about message bodies",
+    "claim": "GET retrieves data; sending a body in such a request has no generally defined semantics."
+  },
+  "internet_depth_post": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST",
+    "location": "Opening paragraphs: forms and non-idempotency",
+    "claim": "Repeating an identical POST request can have additional effects, such as creating another order."
+  },
+  "internet_depth_cdn": {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/CDN",
+    "location": "Opening definition",
+    "claim": "Copies of data in different locations allow requests to be served nearer to users."
+  },
+  "internet_depth_path": {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+    "location": "Path to resource; original URL",
+    "claim": "A path identifies a server resource and need not correspond to an actual disk file."
+  },
+  "internet_depth_query": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Query",
+    "location": "Syntax and description of key/value query parameters",
+    "claim": "The parameters can specify searching, filtering or sorting, depending on the server."
+  },
+  "internet_depth_permanent_redirect": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+    "location": "301 Moved Permanently",
+    "claim": "The response supplies the new URL so the client can use it."
+  },
+  "internet_depth_server_error": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+    "location": "Server error responses; 500 Internal Server Error",
+    "claim": "5xx codes describe server-side errors; 500 is a generic internal-error code."
+  },
+  "internet_depth_ipv4_bits": {
+    "url": "https://www.rfc-editor.org/rfc/rfc791",
+    "location": "3.2 Discussion, Addressing: four octets (32 bits)",
+    "claim": "An address contains four octets, each a group of eight bits."
+  },
+  "internet_depth_tcp_order": {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/TCP",
+    "location": "Opening paragraphs: delivery in order and reliability",
+    "claim": "TCP manages stream delivery; a separate protocol such as TLS provides encryption when needed."
+  },
+  "internet_depth_https_port": {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+    "location": "Authority: default ports 80 and 443",
+    "claim": "A standard port can usually be omitted from the address bar."
+  },
+  "internet_depth_fragment": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment",
+    "location": "Opening definition and usage notes",
+    "claim": "A fragment can identify a page section or a time position in a media resource."
+  },
+  "internet_depth_ipv6_bits": {
+    "url": "https://www.rfc-editor.org/rfc/rfc8200",
+    "location": "1. Introduction: Expanded Addressing Capabilities",
+    "claim": "A larger address space is one of the main differences between IPv6 and IPv4."
+  },
+  "artificial_intelligence_depth_feature": {
+    "url": "https://developers.google.com/machine-learning/glossary",
+    "location": "feature",
+    "claim": "One training example can contain several features."
+  },
+  "artificial_intelligence_depth_label": {
+    "url": "https://developers.google.com/machine-learning/glossary",
+    "location": "label",
+    "claim": "In supervised learning, the model relates input features to these answers."
+  },
+  "artificial_intelligence_depth_training_set": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+    "location": "Training, validation, and test sets",
+    "claim": "Evaluation sets are kept separate to check performance on unseen examples."
+  },
+  "artificial_intelligence_depth_test_set": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+    "location": "Separate final test set; repeated use can wear out evaluation data",
+    "claim": "Repeated tuning against the test set makes that evaluation less reliable."
+  },
+  "artificial_intelligence_depth_loss": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/loss",
+    "location": "Definition and goal of minimising loss",
+    "claim": "Training usually adjusts parameters to reduce the chosen error measure."
+  },
+  "artificial_intelligence_depth_overfitting": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+    "location": "Opening definition and contrast with new examples",
+    "claim": "A model can fit training-set details too closely, including details that do not generalise."
+  },
+  "artificial_intelligence_depth_generalisation": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+    "location": "Generalisation and representative data",
+    "claim": "Evaluation should reflect the task and data the model will face after training."
+  },
+  "artificial_intelligence_depth_epoch": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+    "location": "Epochs",
+    "claim": "An epoch can contain several updates using mini-batches."
+  },
+  "artificial_intelligence_depth_validation_set": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/dividing-datasets",
+    "location": "Three-way split and repeated evaluation",
+    "claim": "This separation helps avoid tuning every decision to the final test."
+  },
+  "artificial_intelligence_depth_learning_rate": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+    "location": "Learning rate",
+    "claim": "An excessively large step can prevent convergence, while an excessively small one can slow training."
+  },
+  "artificial_intelligence_depth_batch_size": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/hyperparameters",
+    "location": "Batch size",
+    "claim": "A mini-batch contains part of the training data, rather than necessarily the whole set."
+  },
+  "artificial_intelligence_depth_gradient_descent": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent",
+    "location": "Opening definition and iterative process",
+    "claim": "The algorithm uses the direction of change in the loss function to choose an update step."
+  },
+  "artificial_intelligence_depth_underfitting": {
+    "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+    "location": "Fitting, overfitting, and underfitting",
+    "claim": "In this case, the model does not adequately capture the relationship between features and the target."
+  },
+  "artificial_intelligence_depth_embedding": {
+    "url": "https://developers.google.com/machine-learning/glossary",
+    "location": "embedding vector",
+    "claim": "This representation consists of numbers and can be passed to subsequent model layers."
+  },
+  "artificial_intelligence_depth_activation": {
+    "url": "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions",
+    "location": "Opening paragraphs: adding nonlinear mathematical operations",
+    "claim": "A sequence of purely linear transformations remains linear."
+  },
+  "artificial_intelligence_depth_false_positive": {
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/thresholding",
+    "location": "Effect of threshold on true and false positives; original industrial example",
+    "claim": "The model predicted positive even though the actual class was negative."
+  },
+  "artificial_intelligence_depth_precision": {
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall",
+    "location": "Precision",
+    "claim": "Precision is TP/(TP + FP): the denominator contains positive predictions."
+  },
+  "artificial_intelligence_depth_recall": {
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall",
+    "location": "Recall, or true positive rate",
+    "claim": "Recall measures the fraction of all actual positive examples that were detected."
+  },
+  "artificial_intelligence_depth_squared_error": {
+    "url": "https://developers.google.com/machine-learning/crash-course/linear-regression/loss",
+    "location": "L1 versus L2 loss and sensitivity to large errors",
+    "claim": "Squaring a deviation increases the influence of large errors compared with using its absolute magnitude."
+  },
+  "artificial_intelligence_depth_relu": {
+    "url": "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions",
+    "location": "Common activation functions: ReLU; original input",
+    "claim": "ReLU is defined as max(0, x): negative inputs are replaced with zero."
+  },
+  "plants_depth_chlorophyll": {
+    "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+    "location": "Structures of Photosynthesis: chlorophyll in thylakoid membranes",
+    "claim": "Chlorophyll is located in the thylakoid membranes of chloroplasts."
+  },
+  "plants_depth_xylem": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+    "location": "Plant Tissue Systems: xylem",
+    "claim": "Its conducting elements include vessels and tracheids."
+  },
+  "plants_depth_phloem": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+    "location": "Plant Tissue Systems: phloem and living conducting cells",
+    "claim": "Phloem's conducting elements remain alive, unlike mature xylem vessels."
+  },
+  "plants_depth_root_hairs": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+    "location": "Root Anatomy: epidermis and root hairs",
+    "claim": "They are extensions of the root's outer cells that help absorb water and minerals."
+  },
+  "plants_depth_anther": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+    "location": "Development of the Male Gametophyte",
+    "claim": "The anther sits on a filament and contains pollen sacs."
+  },
+  "plants_depth_pollination": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+    "location": "Opening definition of angiosperm pollination",
+    "claim": "Pollination precedes fertilisation but is not the fusion of sex cells."
+  },
+  "plants_depth_fern_spores": {
+    "url": "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants",
+    "location": "Ferns: reproductive cycle and spores",
+    "claim": "Spores form in sporangia and develop into the fern's sexual generation."
+  },
+  "plants_depth_phototropism": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+    "location": "Plant Responses to Light: positive phototropism",
+    "claim": "Light direction affects unequal cell elongation and the bending of the shoot."
+  },
+  "plants_depth_wheat_cotyledon": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+    "location": "Fruit and Seed Formation: monocots, wheat and scutellum",
+    "claim": "Wheat and maize are monocots; their single cotyledon is called the scutellum."
+  },
+  "plants_depth_fruit_ovary": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+    "location": "Fruit and Seed Formation",
+    "claim": "After fertilisation, the ovary matures into a fruit and the ovules into seeds."
+  },
+  "plants_depth_seed_embryo": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+    "location": "Development of the Female Gametophyte: zygote, embryo and seed coat",
+    "claim": "The embryo is protected by a seed coat and begins growing under suitable conditions."
+  },
+  "plants_depth_moss_tissue": {
+    "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes",
+    "location": "Opening paragraphs: non-tracheophytes and lack of actual tracheids",
+    "claim": "Mosses are therefore classed as nonvascular plants, though some have simple conducting cells."
+  },
+  "plants_depth_moss_water": {
+    "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes",
+    "location": "Bryophytes: flagellated sperm and water-dependent fertilisation",
+    "claim": "The motile male gametes have flagella and must reach an egg cell."
+  },
+  "plants_depth_pine": {
+    "url": "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms",
+    "location": "Life Cycle of a Conifer: pine trees",
+    "claim": "Pines are gymnosperms and produce pollen cones and seed cones."
+  },
+  "plants_depth_annual": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction",
+    "location": "Plant Life Spans: annuals",
+    "claim": "This classifies life-cycle duration rather than whether foliage is retained."
+  },
+  "plants_depth_asexual_clone": {
+    "url": "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction",
+    "location": "Opening paragraphs: genetically identical offspring",
+    "claim": "No gametes fuse, so this method can preserve the original plant's characteristics."
+  },
+  "plants_depth_meristem": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+    "location": "Plant Tissue Systems: meristematic tissue",
+    "claim": "Apical meristems are associated with lengthwise root and shoot growth."
+  },
+  "plants_depth_root_cap": {
+    "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+    "location": "Root Growth: root cap",
+    "claim": "Its outer cells are damaged by the soil and continually replaced."
+  },
+  "plants_depth_sori": {
+    "url": "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants",
+    "location": "Ferns: sori and sporangia, Figure 25.23",
+    "claim": "Spores form in sporangia; in many species, sori are visible on the frond's underside."
+  },
+  "plants_depth_naked_seeds": {
+    "url": "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms",
+    "location": "Opening definition: seeds not enclosed in an ovary",
+    "claim": "In pines, for example, seeds develop on cone scales."
+  },
+  "oceans_depth_pacific": {
+    "url": "https://oceanservice.noaa.gov/facts/biggestocean.html",
+    "location": "Heading and opening paragraph",
+    "claim": "The Pacific basin is also the deepest ocean basin."
+  },
+  "oceans_depth_arctic": {
+    "url": "https://oceanservice.noaa.gov/facts/biggestocean.html",
+    "location": "Final paragraph ranking ocean basins",
+    "claim": "The Southern Ocean is larger, while the Indian Ocean ranks third by area."
+  },
+  "oceans_depth_surface_waves": {
+    "url": "https://oceanservice.noaa.gov/facts/wavesinocean.html",
+    "location": "Wind-driven waves paragraph",
+    "claim": "Wind transfers energy to water through friction, generating waves."
+  },
+  "oceans_depth_gulfstream": {
+    "url": "https://oceanservice.noaa.gov/facts/gulfstreamspeed.html",
+    "location": "Paragraph on location and route",
+    "claim": "The Gulf Stream runs along Florida, then turns east near North Carolina."
+  },
+  "oceans_depth_tsunami": {
+    "url": "https://oceanservice.noaa.gov/facts/tsunami.html",
+    "location": "Definition; earthquake example; term tidal wave discouraged",
+    "claim": "A tsunami is not an ordinary tide; its waves can cross an ocean basin."
+  },
+  "oceans_depth_plankton": {
+    "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+    "location": "Opening definition and phytoplankton/zooplankton",
+    "claim": "Plankton includes both animals and photosynthetic organisms."
+  },
+  "oceans_depth_sonar": {
+    "url": "https://oceanservice.noaa.gov/facts/sonar.html",
+    "location": "Active Sonar",
+    "claim": "The instrument sends a pulse and receives a signal reflected from the object."
+  },
+  "oceans_depth_mangroves": {
+    "url": "https://oceanservice.noaa.gov/facts/mangroves.html",
+    "location": "Definition, latitude range and coastline stabilisation",
+    "claim": "Their root systems trap sediments and help protect coasts from erosion."
+  },
+  "oceans_depth_thermocline": {
+    "url": "https://oceanservice.noaa.gov/facts/thermocline.html",
+    "location": "Opening definition and rapid temperature decrease",
+    "claim": "In the ocean, it often separates warm mixed surface water from colder deep water."
+  },
+  "oceans_depth_upwelling": {
+    "url": "https://oceanservice.noaa.gov/facts/upwelling.html",
+    "location": "Nutrients and biological productivity",
+    "claim": "Deep water is usually colder and supplies nutrients that increase surface productivity."
+  },
+  "oceans_depth_gyre": {
+    "url": "https://oceanservice.noaa.gov/facts/gyre.html",
+    "location": "Definition and five major subtropical gyres",
+    "claim": "Such persistent systems include the North Atlantic Subtropical Gyre."
+  },
+  "oceans_depth_zooplankton": {
+    "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+    "location": "Zooplankton examples and krill as whale food",
+    "claim": "Krill are small crustaceans eaten by many large marine animals."
+  },
+  "oceans_depth_ridge": {
+    "url": "https://oceanservice.noaa.gov/facts/midoceanridge.html",
+    "location": "Tectonic plate movement and volcanic ridge segments",
+    "claim": "Most of this global mountain system lies underwater."
+  },
+  "oceans_depth_bathymetry": {
+    "url": "https://oceanservice.noaa.gov/facts/bathymetry.html",
+    "location": "Submarine topography and isobaths",
+    "claim": "Lines joining equal depths on such a map are called isobaths."
+  },
+  "oceans_depth_deepest_trench": {
+    "url": "https://oceanservice.noaa.gov/facts/oceandepth.html",
+    "location": "Challenger Deep location",
+    "claim": "It is the deepest known part of the world ocean, in the western Pacific."
+  },
+  "oceans_depth_bioluminescence": {
+    "url": "https://oceanservice.noaa.gov/facts/biolum.html",
+    "location": "Definition, chemical reactions and functions",
+    "claim": "At sea, such light can serve communication, prey attraction or defence."
+  },
+  "oceans_depth_passive_sonar": {
+    "url": "https://oceanservice.noaa.gov/facts/sonar.html",
+    "location": "Passive Sonar",
+    "claim": "Passive systems can detect noise from ships, submarines and marine animals."
+  },
+  "oceans_depth_black_smoker": {
+    "url": "https://oceanservice.noaa.gov/facts/vents.html",
+    "location": "Caption explaining black smokers and iron sulfide",
+    "claim": "Minerals precipitate when hot hydrothermal fluids mix with cold seawater."
+  },
+  "oceans_depth_vent_boiling": {
+    "url": "https://oceanservice.noaa.gov/facts/vents.html",
+    "location": "Final paragraph: extreme pressure prevents boiling",
+    "claim": "Boiling temperature depends on pressure and is higher at great depth than at the surface."
+  },
+  "oceans_depth_seamount": {
+    "url": "https://oceanservice.noaa.gov/facts/seamounts.html",
+    "location": "Definition and volcanic origin",
+    "claim": "Such a mountain rises above the surrounding seafloor, but its summit does not reach the sea surface."
+  },
+  "ecology_depth_ecosystem": {
+    "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+    "location": "Ecosystem Ecology",
+    "claim": "Water, air and soil interact with an ecosystem's living components."
+  },
+  "ecology_depth_abiotic": {
+    "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+    "location": "Abiotic and biotic components",
+    "claim": "Abiotic factors are nonliving physical and chemical conditions."
+  },
+  "ecology_depth_population": {
+    "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+    "location": "Population Ecology",
+    "claim": "Population ecology studies, for example, changes in such a group's size."
+  },
+  "ecology_depth_producer": {
+    "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+    "location": "Food Chains and Food Webs: primary producers",
+    "claim": "They produce organic matter that other organisms can use."
+  },
+  "ecology_depth_primary_consumer": {
+    "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+    "location": "Food Chains and Food Webs: herbivores; original hare example",
+    "claim": "Primary consumers obtain food directly from producers."
+  },
+  "ecology_depth_food_web": {
+    "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+    "location": "Food webs as interconnected food chains",
+    "claim": "One species can participate in several food chains."
+  },
+  "ecology_depth_mutualism": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+    "location": "Symbiosis: mutualism",
+    "claim": "Benefit to both partners distinguishes it from relationships benefiting only one."
+  },
+  "ecology_depth_parasitism": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+    "location": "Symbiosis: parasitism",
+    "claim": "A parasite can live on a host's surface or inside it."
+  },
+  "ecology_depth_commensalism": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+    "location": "Symbiosis: commensal relationships",
+    "claim": "The classification depends on the interaction's consequences for each participant."
+  },
+  "ecology_depth_carrying_capacity": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
+    "location": "Carrying Capacity and the Logistic Model",
+    "claim": "In a logistic model, growth slows as the population approaches this level."
+  },
+  "ecology_depth_biodiversity": {
+    "url": "https://openstax.org/books/biology-2e/pages/47-1-the-biodiversity-crisis",
+    "location": "Types of Biodiversity",
+    "claim": "Preserving different ecosystems matters even when some of their species also occur elsewhere."
+  },
+  "ecology_depth_genetic_diversity": {
+    "url": "https://openstax.org/books/biology-2e/pages/47-1-the-biodiversity-crisis",
+    "location": "Types of Biodiversity: genetic variation",
+    "claim": "These differences provide material for evolution and adaptation to environmental change."
+  },
+  "ecology_depth_invasive": {
+    "url": "https://oceanservice.noaa.gov/facts/invasive.html",
+    "location": "Definition: ecological or economic harm in a non-native environment",
+    "claim": "Not every introduced species becomes invasive: its impact also matters."
+  },
+  "ecology_depth_eutrophication": {
+    "url": "https://www.epa.gov/nutrientpollution/basic-information-nutrient-pollution",
+    "location": "The Challenges of Nutrient Pollution",
+    "claim": "Excess nutrient inputs disrupt the balance of an aquatic ecosystem."
+  },
+  "ecology_depth_watershed": {
+    "url": "https://oceanservice.noaa.gov/facts/watershed.html",
+    "location": "Definition and flow from smaller streams to larger water bodies",
+    "claim": "Pollution far from a river mouth can be carried downstream through the basin."
+  },
+  "ecology_depth_primary_succession": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+    "location": "primary succession; pioneer species",
+    "claim": "Pioneer species arrive first; conditions and community composition develop over time."
+  },
+  "ecology_depth_secondary_succession": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+    "location": "secondary succession",
+    "claim": "Unlike colonisation of a new surface, recovery begins with an existing community's legacy."
+  },
+  "ecology_depth_keystone": {
+    "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+    "location": "keystone species",
+    "claim": "Its role depends on consequences for the community, rather than simply individual size."
+  },
+  "ecology_depth_biomagnification": {
+    "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+    "location": "Biological Magnification",
+    "claim": "A predator can acquire the pollutant from many prey organisms at lower levels."
+  },
+  "ecology_depth_energy_transfer": {
+    "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+    "location": "Energy flow, respiration and metabolic heat loss",
+    "claim": "Energy flows through an ecosystem with reduced availability rather than passing intact along the chain."
+  },
+  "animals_depth_elephant_trunk": {
+    "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+    "location": "Physical Description: trunk",
+    "claim": "The trunk has no bones; numerous muscles provide precise movement."
+  },
+  "animals_depth_koala_group": {
+    "url": "https://animals.sandiegozoo.org/animals/koala",
+    "location": "About; Family Life: marsupials and joey development",
+    "claim": "The young is born undeveloped and continues growing in its mother's pouch."
+  },
+  "animals_depth_koala_food": {
+    "url": "https://animals.sandiegozoo.org/animals/koala",
+    "location": "Food and Eating Habits",
+    "claim": "Koalas select particular eucalypt species rather than eating all foliage equally readily."
+  },
+  "animals_depth_capybara_group": {
+    "url": "https://animals.sandiegozoo.org/animals/capybara",
+    "location": "About: rodent classification",
+    "claim": "The capybara is related to guinea pigs and is the largest living rodent."
+  },
+  "animals_depth_axolotl_group": {
+    "url": "https://animals.sandiegozoo.org/animals/axolotl",
+    "location": "About: salamander and neoteny",
+    "claim": "It belongs to the salamanders and retains some larval characteristics as an adult."
+  },
+  "animals_depth_flamingo_colour": {
+    "url": "https://animals.sandiegozoo.org/animals/flamingo",
+    "location": "About: carotenoid pigments",
+    "claim": "Carotenoids come from algae and small crustaceans."
+  },
+  "animals_depth_bat_flight": {
+    "url": "https://animals.sandiegozoo.org/animals/bat",
+    "location": "About: only mammals capable of true flight",
+    "claim": "Unlike gliding, this flight generates thrust by flapping the wings."
+  },
+  "animals_depth_komodo_group": {
+    "url": "https://nationalzoo.si.edu/animals/komodo-dragon",
+    "location": "Opening description and Native Habitat",
+    "claim": "It is the largest living lizard and inhabits several Indonesian islands."
+  },
+  "animals_depth_elephant_tusks": {
+    "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+    "location": "Physical Description: tusks as modified upper incisors",
+    "claim": "Tusks continue growing throughout life and are used for more than defence."
+  },
+  "animals_depth_red_panda_family": {
+    "url": "https://nationalzoo.si.edu/animals/red-panda",
+    "location": "Physical Description: independent family Ailuridae",
+    "claim": "Despite their shared common name, red and giant pandas belong to different families."
+  },
+  "animals_depth_orangutan_range": {
+    "url": "https://nationalzoo.si.edu/animals/orangutan",
+    "location": "Native Habitat",
+    "claim": "They live in forests and spend much of their time in trees."
+  },
+  "animals_depth_orangutan_limbs": {
+    "url": "https://nationalzoo.si.edu/animals/orangutan",
+    "location": "Physical Description: arboreal adaptations",
+    "claim": "Long arms and grasping hands and feet help distribute weight among branches."
+  },
+  "animals_depth_capybara_water": {
+    "url": "https://animals.sandiegozoo.org/animals/capybara",
+    "location": "About: webbed feet and water",
+    "claim": "Capybaras use water for feeding and shelter from danger."
+  },
+  "animals_depth_flamingo_feeding": {
+    "url": "https://animals.sandiegozoo.org/animals/flamingo",
+    "location": "Food and Eating Habits: lamellae",
+    "claim": "During feeding, the bill is usually inverted and its plates retain food particles."
+  },
+  "animals_depth_bat_echolocation": {
+    "url": "https://animals.sandiegozoo.org/animals/bat",
+    "location": "About: microbats and echolocation",
+    "claim": "Echolocation helps distinguish obstacles and flying insects."
+  },
+  "animals_depth_armadillo_group": {
+    "url": "https://animals.sandiegozoo.org/animals/armadillo",
+    "location": "About: mammal with a shell; Family Life",
+    "claim": "Their protective armour does not make them turtles: armadillos have hair and nurse their young."
+  },
+  "animals_depth_red_panda_ankles": {
+    "url": "https://nationalzoo.si.edu/animals/red-panda",
+    "location": "Physical Description: flexible ankles and headfirst descent",
+    "claim": "Rotation of the hind feet helps maintain a grip on the trunk."
+  },
+  "animals_depth_komodo_smell": {
+    "url": "https://nationalzoo.si.edu/animals/komodo-dragon",
+    "location": "Opening description and Physical Description: forked tongue and smell",
+    "claim": "Sampling the air with its tongue gives the lizard information about surrounding scents."
+  },
+  "animals_depth_axolotl_neoteny": {
+    "url": "https://animals.sandiegozoo.org/animals/axolotl",
+    "location": "About: neoteny and external gills",
+    "claim": "Axolotls normally retain feathery external gills and an aquatic lifestyle."
+  },
+  "animals_depth_armadillo_ball": {
+    "url": "https://animals.sandiegozoo.org/animals/armadillo",
+    "location": "Shell game: three-banded armadillo",
+    "claim": "The head plate seals the opening left when the animal curls up."
+  },
+  "space_technology_depth_sputnik": {
+    "url": "https://www.nasa.gov/history/sputnik/chronology.html",
+    "location": "Chronology: October 4 and November 3, 1957",
+    "claim": "The launch took place on 4 October; Sputnik 2 followed the next month."
+  },
+  "space_technology_depth_gagarin_craft": {
+    "url": "https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1",
+    "location": "Opening paragraphs and Launch",
+    "claim": "The spacecraft launched from the Baikonur Cosmodrome."
+  },
+  "space_technology_depth_first_woman": {
+    "url": "https://www.nasa.gov/history/sally-ride-first-american-woman-in-space/",
+    "location": "20th anniversary comparison and Tereshkova's flight",
+    "claim": "Tereshkova flew aboard Vostok 6 in June 1963."
+  },
+  "space_technology_depth_first_spacewalk": {
+    "url": "https://www.nasa.gov/history/space-station-20th-spacewalking-history/",
+    "location": "Opening history: Leonov's first EVA",
+    "claim": "Leonov left the Voskhod 2 airlock on 18 March 1965."
+  },
+  "space_technology_depth_webb_band": {
+    "url": "https://science.nasa.gov/mission/webb/",
+    "location": "Innovative design and five-layer sunshield",
+    "claim": "A sunshield protects its instruments from radiation from the Sun, Earth and Moon."
+  },
+  "space_technology_depth_ingenuity": {
+    "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+    "location": "First in Flight, 19 April 2021",
+    "claim": "The helicopter travelled to Mars with the Perseverance rover."
+  },
+  "space_technology_depth_iss_power": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/06/international_space_station_activity_kit.pdf",
+    "location": "Page 10, Solar Energy: Talking Points",
+    "claim": "Photovoltaic cells convert sunlight into electricity."
+  },
+  "space_technology_depth_rocket_staging": {
+    "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/stage/",
+    "location": "Opening explanation of staging",
+    "claim": "After propellant is used, a spent stage's tanks and structure become unnecessary mass."
+  },
+  "space_technology_depth_hubble_launch": {
+    "url": "https://science.nasa.gov/mission/hubble/",
+    "location": "Launch: APR 24, 1990",
+    "claim": "Its launch date was 24 April 1990."
+  },
+  "space_technology_depth_curiosity_crater": {
+    "url": "https://science.nasa.gov/mission/msl-curiosity/",
+    "location": "Landing Site: Gale Crater; mission purpose",
+    "claim": "There it studies rocks and conditions that could once have supported microbial life."
+  },
+  "space_technology_depth_perseverance_crater": {
+    "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+    "location": "Landing Site: Jezero Crater",
+    "claim": "The area preserves evidence of an ancient lake and river delta."
+  },
+  "space_technology_depth_horizons_pluto": {
+    "url": "https://science.nasa.gov/mission/new-horizons/",
+    "location": "Overview: 14 July 2015 Pluto flyby",
+    "claim": "The flyby took place on 14 July after a multi-year journey from Earth."
+  },
+  "space_technology_depth_cassini_planet": {
+    "url": "https://science.nasa.gov/mission/cassini/",
+    "location": "Mission to Saturn",
+    "claim": "The mission studied the planet's rings and icy moons."
+  },
+  "space_technology_depth_huygens_titan": {
+    "url": "https://www.esa.int/Newsroom/Press_Releases/Europe_reaches_new_frontier_Huygens_lands_on_Titan",
+    "location": "Press release opening: successful landing on Titan",
+    "claim": "The probe travelled to the Saturn system aboard Cassini."
+  },
+  "space_technology_depth_philae_role": {
+    "url": "https://www.esa.int/Newsroom/Press_Releases/Touchdown%21_Rosetta_s_Philae_probe_lands_on_comet",
+    "location": "12 November 2014; touchdown confirmation and first probe delivery",
+    "claim": "The lander's signal was relayed to Earth through Rosetta."
+  },
+  "space_technology_depth_dawn_targets": {
+    "url": "https://science.nasa.gov/mission/dawn/",
+    "location": "Mission overview: extended stays at Vesta and Ceres",
+    "claim": "Both lie in the main asteroid belt between Mars and Jupiter."
+  },
+  "space_technology_depth_rosetta_comet": {
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta",
+    "location": "Mission introduction and target",
+    "claim": "The mission observed the nucleus and surrounding gas and dust as the comet travelled around the Sun."
+  },
+  "space_technology_depth_arrokoth": {
+    "url": "https://science.nasa.gov/mission/new-horizons/",
+    "location": "Overview: Arrokoth flyby in early 2019",
+    "claim": "It was the spacecraft's second major science target after Pluto."
+  },
+  "space_technology_depth_dawn_xenon": {
+    "url": "https://science.nasa.gov/mission/dawn/technology/ion-propulsion/",
+    "location": "Xenon propellant and electric acceleration of ions",
+    "claim": "An electric field accelerated ions, producing a small but sustained thrust."
+  },
+  "space_technology_depth_geostationary": {
+    "url": "https://science.nasa.gov/learn/basics-of-space-flight/glossary/",
+    "location": "Geostationary and Geosynchronous entries",
+    "claim": "Its period matches Earth's rotation, so the satellite remains above one point on the equator."
+  }
+}

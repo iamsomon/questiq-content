@@ -438,5 +438,885 @@
       "https://www.genome.gov/genetics-glossary"
     ],
     "image": null
+  },
+  {
+    "id": "biology_depth_mitochondria",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие органоиды эукариотической клетки обычно связывают с клеточным дыханием и выработкой АТФ?",
+        "explanation": "АТФ переносит энергию, которую клетка использует в своих процессах."
+      },
+      "en": {
+        "question": "Which eukaryotic organelles are usually associated with cellular respiration and ATP production?",
+        "explanation": "ATP carries energy that the cell uses in its processes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Митохондрии",
+        "en": "Mitochondria"
+      },
+      {
+        "id": "o1",
+        "ru": "Лизосомы",
+        "en": "Lysosomes"
+      },
+      {
+        "id": "o2",
+        "ru": "Аппарат Гольджи",
+        "en": "Golgi apparatus"
+      },
+      {
+        "id": "o3",
+        "ru": "Центриоли",
+        "en": "Centrioles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/4-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_lysosome",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой органоид животной клетки расщепляет изношенные клеточные структуры?",
+        "explanation": "Внутри лизосом находятся ферменты, расщепляющие разные биологические молекулы."
+      },
+      "en": {
+        "question": "Which animal-cell organelle breaks down worn-out cellular structures?",
+        "explanation": "Lysosomes contain enzymes that break down various biological molecules."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лизосома",
+        "en": "Lysosome"
+      },
+      {
+        "id": "o1",
+        "ru": "Рибосома",
+        "en": "Ribosome"
+      },
+      {
+        "id": "o2",
+        "ru": "Центриоль",
+        "en": "Centriole"
+      },
+      {
+        "id": "o3",
+        "ru": "Ядрышко",
+        "en": "Nucleolus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/4-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_prokaryote",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какого клеточного образования нет у прокариот?",
+        "explanation": "Их ДНК находится в области клетки, называемой нуклеоидом."
+      },
+      "en": {
+        "question": "Which cellular structure do prokaryotes lack?",
+        "explanation": "Their DNA occupies a region of the cell called the nucleoid."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ядра с мембранной оболочкой",
+        "en": "A membrane-bound nucleus"
+      },
+      {
+        "id": "o1",
+        "ru": "Плазматической мембраны",
+        "en": "A plasma membrane"
+      },
+      {
+        "id": "o2",
+        "ru": "Рибосом",
+        "en": "Ribosomes"
+      },
+      {
+        "id": "o3",
+        "ru": "Цитоплазмы",
+        "en": "Cytoplasm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/4-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_osmosis",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют перенос воды через полупроницаемую мембрану?",
+        "explanation": "Направление чистого переноса зависит от концентрации растворённых веществ по обе стороны мембраны."
+      },
+      "en": {
+        "question": "What is water movement across a selectively permeable membrane called?",
+        "explanation": "The net direction depends on solute concentrations on the two sides of the membrane."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Осмос",
+        "en": "Osmosis"
+      },
+      {
+        "id": "o1",
+        "ru": "Экзоцитоз",
+        "en": "Exocytosis"
+      },
+      {
+        "id": "o2",
+        "ru": "Фагоцитоз",
+        "en": "Phagocytosis"
+      },
+      {
+        "id": "o3",
+        "ru": "Трансляция",
+        "en": "Translation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/5-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_enzyme",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова основная роль ферментов в обмене веществ?",
+        "explanation": "Ферменты действуют как катализаторы и снижают энергетический барьер реакции."
+      },
+      "en": {
+        "question": "What is the main role of enzymes in metabolism?",
+        "explanation": "Enzymes act as catalysts, lowering a reaction's activation-energy barrier."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ускорять химические реакции",
+        "en": "To speed up chemical reactions"
+      },
+      {
+        "id": "o1",
+        "ru": "Повышать энергию активации",
+        "en": "To raise activation energy"
+      },
+      {
+        "id": "o2",
+        "ru": "Менять положение химического равновесия",
+        "en": "To shift chemical equilibrium"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязательно расходоваться в каждой реакции",
+        "en": "To be consumed in every reaction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/6-5-enzymes"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_homeostasis",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют поддержание относительно постоянных внутренних условий организма?",
+        "explanation": "Регуляция помогает сохранять рабочие условия для клеток при изменении внешней среды."
+      },
+      "en": {
+        "question": "What is maintenance of relatively stable internal conditions in an organism called?",
+        "explanation": "Regulation helps keep conditions suitable for cells as the external environment changes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гомеостаз",
+        "en": "Homeostasis"
+      },
+      {
+        "id": "o1",
+        "ru": "Мутагенез",
+        "en": "Mutagenesis"
+      },
+      {
+        "id": "o2",
+        "ru": "Миграция",
+        "en": "Migration"
+      },
+      {
+        "id": "o3",
+        "ru": "Опыление",
+        "en": "Pollination"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_allele",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют один из вариантов гена в определённом участке хромосомы?",
+        "explanation": "У диплоидного организма две копии такого участка могут нести одинаковые или разные варианты."
+      },
+      "en": {
+        "question": "What is one version of a gene at a particular chromosome location called?",
+        "explanation": "In a diploid organism, the two copies of that location can carry the same or different variants."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аллель",
+        "en": "Allele"
+      },
+      {
+        "id": "o1",
+        "ru": "Органелла",
+        "en": "Organelle"
+      },
+      {
+        "id": "o2",
+        "ru": "Рибосома",
+        "en": "Ribosome"
+      },
+      {
+        "id": "o3",
+        "ru": "Фермент",
+        "en": "Enzyme"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Allele"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_fungal_wall",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой полисахарид характерен для клеточных стенок грибов?",
+        "explanation": "Хитин обеспечивает прочность стенки; он также входит в покровы членистоногих."
+      },
+      "en": {
+        "question": "Which polysaccharide is characteristic of fungal cell walls?",
+        "explanation": "Chitin strengthens the wall and also occurs in arthropod exoskeletons."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хитин",
+        "en": "Chitin"
+      },
+      {
+        "id": "o1",
+        "ru": "Гликоген",
+        "en": "Glycogen"
+      },
+      {
+        "id": "o2",
+        "ru": "Крахмал",
+        "en": "Starch"
+      },
+      {
+        "id": "o3",
+        "ru": "Агароза",
+        "en": "Agarose"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_diffusion",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как направлен чистый перенос частиц при обычной диффузии?",
+        "explanation": "Это пассивный процесс: для переноса по градиенту клетке не нужно напрямую расходовать АТФ."
+      },
+      "en": {
+        "question": "In which direction does net particle movement occur during ordinary diffusion?",
+        "explanation": "It is passive: movement down the gradient does not directly require the cell to spend ATP."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "От большей концентрации к меньшей",
+        "en": "From higher to lower concentration"
+      },
+      {
+        "id": "o1",
+        "ru": "От меньшей концентрации к большей",
+        "en": "From lower to higher concentration"
+      },
+      {
+        "id": "o2",
+        "ru": "Всегда к центру клетки",
+        "en": "Always toward the cell centre"
+      },
+      {
+        "id": "o3",
+        "ru": "Всегда против электрического поля",
+        "en": "Always against the electric field"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/5-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_active_transport",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что отличает активный транспорт через мембрану от пассивного?",
+        "explanation": "Энергия позволяет, например, переносить вещества против их электрохимического градиента."
+      },
+      "en": {
+        "question": "What distinguishes active membrane transport from passive transport?",
+        "explanation": "Energy can, for example, drive substances against their electrochemical gradient."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Он требует затраты энергии",
+        "en": "It requires energy"
+      },
+      {
+        "id": "o1",
+        "ru": "Он бывает только у растений",
+        "en": "It occurs only in plants"
+      },
+      {
+        "id": "o2",
+        "ru": "Он не использует белки",
+        "en": "It never uses proteins"
+      },
+      {
+        "id": "o3",
+        "ru": "Он всегда переносит только воду",
+        "en": "It always transports only water"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/5-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_atp",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как расшифровывается сокращение АТФ?",
+        "explanation": "У молекулы АТФ три фосфатные группы; их превращения связаны с переносом энергии в клетке."
+      },
+      "en": {
+        "question": "What does ATP stand for?",
+        "explanation": "ATP has three phosphate groups; their transformations are linked to cellular energy transfer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аденозинтрифосфат",
+        "en": "Adenosine triphosphate"
+      },
+      {
+        "id": "o1",
+        "ru": "Аденозинмонофосфат",
+        "en": "Adenosine monophosphate"
+      },
+      {
+        "id": "o2",
+        "ru": "Аденозиндифосфат",
+        "en": "Adenosine diphosphate"
+      },
+      {
+        "id": "o3",
+        "ru": "Дезоксирибонуклеиновая кислота",
+        "en": "Deoxyribonucleic acid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/6-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_binomial",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из каких двух частей состоит видовое научное название Homo sapiens?",
+        "explanation": "В биноминальной записи первое слово обозначает род и начинается с прописной буквы."
+      },
+      "en": {
+        "question": "What are the two parts of the scientific species name Homo sapiens?",
+        "explanation": "In binomial naming, the first word identifies the genus and begins with a capital letter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Родовое название и видовой эпитет",
+        "en": "Genus name and specific epithet"
+      },
+      {
+        "id": "o1",
+        "ru": "Название семейства и отряда",
+        "en": "Family and order names"
+      },
+      {
+        "id": "o2",
+        "ru": "Название класса и царства",
+        "en": "Class and kingdom names"
+      },
+      {
+        "id": "o3",
+        "ru": "Название типа и домена",
+        "en": "Phylum and domain names"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_meiosis",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит с числом наборов хромосом при мейозе у диплоидного организма?",
+        "explanation": "При половом размножении мейоз даёт гаплоидные клетки, а оплодотворение восстанавливает диплоидность."
+      },
+      "en": {
+        "question": "What happens to the number of chromosome sets during meiosis in a diploid organism?",
+        "explanation": "In sexual reproduction, meiosis produces haploid cells, while fertilisation restores diploidy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оно уменьшается вдвое",
+        "en": "It is halved"
+      },
+      {
+        "id": "o1",
+        "ru": "Оно удваивается",
+        "en": "It doubles"
+      },
+      {
+        "id": "o2",
+        "ru": "Оно увеличивается втрое",
+        "en": "It triples"
+      },
+      {
+        "id": "o3",
+        "ru": "Оно всегда остаётся прежним",
+        "en": "It always stays unchanged"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Meiosis"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_genotype",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют сочетание аллелей в определённом генетическом локусе, например AA или Aa?",
+        "explanation": "Такое обозначение описывает генетические варианты, а не только видимый признак."
+      },
+      "en": {
+        "question": "What is the combination of alleles at a particular genetic locus, such as AA or Aa, called?",
+        "explanation": "This notation describes genetic variants rather than just an observable trait."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генотип",
+        "en": "Genotype"
+      },
+      {
+        "id": "o1",
+        "ru": "Фенотип",
+        "en": "Phenotype"
+      },
+      {
+        "id": "o2",
+        "ru": "Кариотип",
+        "en": "Karyotype"
+      },
+      {
+        "id": "o3",
+        "ru": "Гаплотип",
+        "en": "Haplotype"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/genotype"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_phenotype",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют фенотипом организма?",
+        "explanation": "На проявление признаков влияют как генотип, так и условия среды."
+      },
+      "en": {
+        "question": "What is an organism's phenotype?",
+        "explanation": "Both genotype and environment influence how traits are expressed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Его наблюдаемые признаки",
+        "en": "Its observable traits"
+      },
+      {
+        "id": "o1",
+        "ru": "Только порядок генов в хромосоме",
+        "en": "Only the order of genes on a chromosome"
+      },
+      {
+        "id": "o2",
+        "ru": "Только число хромосом",
+        "en": "Only its chromosome count"
+      },
+      {
+        "id": "o3",
+        "ru": "Только последовательность одного гена",
+        "en": "Only one gene's sequence"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Phenotype"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_bacteriophage",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие организмы заражают бактериофаги?",
+        "explanation": "Бактериофаги — вирусы; у некоторых есть головка с генетическим материалом и хвост."
+      },
+      "en": {
+        "question": "What organisms do bacteriophages infect?",
+        "explanation": "Bacteriophages are viruses; some have a head containing genetic material and a tail."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бактерии",
+        "en": "Bacteria"
+      },
+      {
+        "id": "o1",
+        "ru": "Только грибы",
+        "en": "Only fungi"
+      },
+      {
+        "id": "o2",
+        "ru": "Только растения",
+        "en": "Only plants"
+      },
+      {
+        "id": "o3",
+        "ru": "Только животных",
+        "en": "Only animals"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_taxonomic_family",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой таксон непосредственно объединяет роды в стандартной линнеевской иерархии?",
+        "explanation": "В этом участке иерархии порядок такой: отряд, семейство, род, вид."
+      },
+      "en": {
+        "question": "Which taxonomic rank directly groups genera in the standard Linnaean hierarchy?",
+        "explanation": "This part of the hierarchy runs order, family, genus, species."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Семейство",
+        "en": "Family"
+      },
+      {
+        "id": "o1",
+        "ru": "Вид",
+        "en": "Species"
+      },
+      {
+        "id": "o2",
+        "ru": "Класс",
+        "en": "Class"
+      },
+      {
+        "id": "o3",
+        "ru": "Домен",
+        "en": "Domain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_mycorrhiza",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что такое микориза?",
+        "explanation": "В таком союзе гриб и растение обмениваются ресурсами, в том числе водой и питательными веществами."
+      },
+      "en": {
+        "question": "What is a mycorrhiza?",
+        "explanation": "In this association, the fungus and plant exchange resources, including water and nutrients."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Связь гриба с корнями растения",
+        "en": "An association of a fungus and plant roots"
+      },
+      {
+        "id": "o1",
+        "ru": "Союз гриба с фотосинтезирующим партнёром в лишайнике",
+        "en": "A fungus–photosynthetic-partner association in a lichen"
+      },
+      {
+        "id": "o2",
+        "ru": "Поражение листьев паразитическим грибом",
+        "en": "Infection of leaves by a parasitic fungus"
+      },
+      {
+        "id": "o3",
+        "ru": "Разложение древесины грибом",
+        "en": "Fungal decomposition of wood"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_hyphae",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют нити, из которых состоит тело большинства многоклеточных грибов?",
+        "explanation": "Сплетение гиф образует мицелий — грибницу."
+      },
+      "en": {
+        "question": "What are the filaments making up the bodies of most multicellular fungi called?",
+        "explanation": "A network of hyphae forms a mycelium."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гифы",
+        "en": "Hyphae"
+      },
+      {
+        "id": "o1",
+        "ru": "Ворсинки",
+        "en": "Villi"
+      },
+      {
+        "id": "o2",
+        "ru": "Нейроны",
+        "en": "Neurons"
+      },
+      {
+        "id": "o3",
+        "ru": "Трахеиды",
+        "en": "Tracheids"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_depth_capsid",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется белковая оболочка, окружающая генетический материал вируса?",
+        "explanation": "У некоторых вирусов снаружи есть и дополнительная мембранная оболочка."
+      },
+      "en": {
+        "question": "What is the protein coat surrounding a virus's genetic material called?",
+        "explanation": "Some viruses also have an additional outer membrane envelope."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Капсид",
+        "en": "Capsid"
+      },
+      {
+        "id": "o1",
+        "ru": "Нуклеоид",
+        "en": "Nucleoid"
+      },
+      {
+        "id": "o2",
+        "ru": "Хлоропласт",
+        "en": "Chloroplast"
+      },
+      {
+        "id": "o3",
+        "ru": "Рибосома",
+        "en": "Ribosome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification"
+    ],
+    "image": null
   }
 ]

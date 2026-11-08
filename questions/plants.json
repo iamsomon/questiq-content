@@ -452,5 +452,885 @@
       "https://raw.githubusercontent.com/iamsomon/questiq-content/main/imports/global-mmlu/LICENSE-APACHE-2.0.txt"
     ],
     "image": null
+  },
+  {
+    "id": "plants_depth_chlorophyll",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой зелёный пигмент поглощает свет для фотосинтеза?",
+        "explanation": "Хлорофилл находится в тилакоидных мембранах хлоропластов."
+      },
+      "en": {
+        "question": "Which green pigment absorbs light for photosynthesis?",
+        "explanation": "Chlorophyll is located in the thylakoid membranes of chloroplasts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хлорофилл",
+        "en": "Chlorophyll"
+      },
+      {
+        "id": "o1",
+        "ru": "Меланин",
+        "en": "Melanin"
+      },
+      {
+        "id": "o2",
+        "ru": "Гемоглобин",
+        "en": "Haemoglobin"
+      },
+      {
+        "id": "o3",
+        "ru": "Кератин",
+        "en": "Keratin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_xylem",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая проводящая ткань растения переносит воду и минеральные вещества от корней?",
+        "explanation": "К её проводящим элементам относятся сосуды и трахеиды."
+      },
+      "en": {
+        "question": "Which plant vascular tissue carries water and minerals from the roots?",
+        "explanation": "Its conducting elements include vessels and tracheids."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ксилема",
+        "en": "Xylem"
+      },
+      {
+        "id": "o1",
+        "ru": "Флоэма",
+        "en": "Phloem"
+      },
+      {
+        "id": "o2",
+        "ru": "Эпидерма",
+        "en": "Epidermis"
+      },
+      {
+        "id": "o3",
+        "ru": "Пробка",
+        "en": "Cork"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_phloem",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая ткань переносит сахара от мест их образования к другим частям растения?",
+        "explanation": "Проводящие элементы флоэмы, в отличие от зрелых сосудов ксилемы, остаются живыми."
+      },
+      "en": {
+        "question": "Which tissue transports sugars from where they are produced to other parts of a plant?",
+        "explanation": "Phloem's conducting elements remain alive, unlike mature xylem vessels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Флоэма",
+        "en": "Phloem"
+      },
+      {
+        "id": "o1",
+        "ru": "Ксилема",
+        "en": "Xylem"
+      },
+      {
+        "id": "o2",
+        "ru": "Пробка",
+        "en": "Cork"
+      },
+      {
+        "id": "o3",
+        "ru": "Эпидерма",
+        "en": "Epidermis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_root_hairs",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Зачем корню нужны многочисленные корневые волоски?",
+        "explanation": "Это выросты клеток наружного слоя корня, помогающие поглощать воду и минералы."
+      },
+      "en": {
+        "question": "Why does a root have many root hairs?",
+        "explanation": "They are extensions of the root's outer cells that help absorb water and minerals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Увеличивают поверхность всасывания",
+        "en": "They increase the absorption surface"
+      },
+      {
+        "id": "o1",
+        "ru": "Защищают верхушку от повреждений",
+        "en": "They protect the tip from damage"
+      },
+      {
+        "id": "o2",
+        "ru": "Переносят сахара вдоль побега",
+        "en": "They transport sugars along the shoot"
+      },
+      {
+        "id": "o3",
+        "ru": "Образуют боковые корни делением своих клеток",
+        "en": "They form lateral roots by dividing their cells"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-3-roots"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_anther",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой части тычинки образуется пыльца?",
+        "explanation": "Пыльник расположен на тычиночной нити и содержит пыльцевые мешки."
+      },
+      "en": {
+        "question": "In which part of a stamen is pollen produced?",
+        "explanation": "The anther sits on a filament and contains pollen sacs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В пыльнике",
+        "en": "In the anther"
+      },
+      {
+        "id": "o1",
+        "ru": "В рыльце",
+        "en": "In the stigma"
+      },
+      {
+        "id": "o2",
+        "ru": "В завязи",
+        "en": "In the ovary"
+      },
+      {
+        "id": "o3",
+        "ru": "В тычиночной нити",
+        "en": "In the filament"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_pollination",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют опылением у цветковых растений?",
+        "explanation": "Опыление предшествует оплодотворению, но не является слиянием половых клеток."
+      },
+      "en": {
+        "question": "What is pollination in flowering plants?",
+        "explanation": "Pollination precedes fertilisation but is not the fusion of sex cells."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перенос пыльцы на рыльце",
+        "en": "Transfer of pollen to a stigma"
+      },
+      {
+        "id": "o1",
+        "ru": "Слияние яйцеклетки со спермием",
+        "en": "Fusion of an egg and a sperm cell"
+      },
+      {
+        "id": "o2",
+        "ru": "Прорастание корня из семени",
+        "en": "A root emerging from a seed"
+      },
+      {
+        "id": "o3",
+        "ru": "Созревание плода после цветения",
+        "en": "Fruit ripening after flowering"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_fern_spores",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чем папоротники размножаются и расселяются вместо семян?",
+        "explanation": "Споры образуются в спорангиях; из них развивается половое поколение папоротника."
+      },
+      "en": {
+        "question": "What do ferns produce for reproduction and dispersal instead of seeds?",
+        "explanation": "Spores form in sporangia and develop into the fern's sexual generation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спорами",
+        "en": "Spores"
+      },
+      {
+        "id": "o1",
+        "ru": "Шишками с семенами",
+        "en": "Seed-bearing cones"
+      },
+      {
+        "id": "o2",
+        "ru": "Плодами с косточками",
+        "en": "Stony fruits"
+      },
+      {
+        "id": "o3",
+        "ru": "Луковицами цветков",
+        "en": "Flower bulbs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_phototropism",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется рост побега в сторону источника света?",
+        "explanation": "Направление света влияет на неравномерное удлинение клеток и изгиб побега."
+      },
+      "en": {
+        "question": "What is shoot growth toward a light source called?",
+        "explanation": "Light direction affects unequal cell elongation and the bending of the shoot."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Положительный фототропизм",
+        "en": "Positive phototropism"
+      },
+      {
+        "id": "o1",
+        "ru": "Отрицательный фототропизм",
+        "en": "Negative phototropism"
+      },
+      {
+        "id": "o2",
+        "ru": "Положительный гравитропизм",
+        "en": "Positive gravitropism"
+      },
+      {
+        "id": "o3",
+        "ru": "Отрицательный гидротропизм",
+        "en": "Negative hydrotropism"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_wheat_cotyledon",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько семядолей у зародыша пшеницы?",
+        "explanation": "Пшеница и кукуруза относятся к однодольным растениям; их семядолю называют щитком."
+      },
+      "en": {
+        "question": "How many cotyledons does a wheat embryo have?",
+        "explanation": "Wheat and maize are monocots; their single cotyledon is called the scutellum."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Одна",
+        "en": "One"
+      },
+      {
+        "id": "o1",
+        "ru": "Две",
+        "en": "Two"
+      },
+      {
+        "id": "o2",
+        "ru": "Три",
+        "en": "Three"
+      },
+      {
+        "id": "o3",
+        "ru": "Четыре",
+        "en": "Four"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_fruit_ovary",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из какой части цветка обычно развивается плод?",
+        "explanation": "После оплодотворения завязь созревает в плод, а семязачатки — в семена."
+      },
+      "en": {
+        "question": "From which flower structure does a fruit usually develop?",
+        "explanation": "After fertilisation, the ovary matures into a fruit and the ovules into seeds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Из завязи",
+        "en": "The ovary"
+      },
+      {
+        "id": "o1",
+        "ru": "Из пыльника",
+        "en": "The anther"
+      },
+      {
+        "id": "o2",
+        "ru": "Из тычиночной нити",
+        "en": "The filament"
+      },
+      {
+        "id": "o3",
+        "ru": "Из столбика",
+        "en": "The style"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_seed_embryo",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что представляет собой зародыш внутри семени?",
+        "explanation": "Зародыш защищён семенной кожурой и при подходящих условиях начинает расти."
+      },
+      "en": {
+        "question": "What is the embryo inside a seed?",
+        "explanation": "The embryo is protected by a seed coat and begins growing under suitable conditions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Молодое растение на ранней стадии развития",
+        "en": "A young plant at an early developmental stage"
+      },
+      {
+        "id": "o1",
+        "ru": "Наружную защитную оболочку",
+        "en": "The outer protective coat"
+      },
+      {
+        "id": "o2",
+        "ru": "Только запас питательных веществ",
+        "en": "Only the stored nutrient reserve"
+      },
+      {
+        "id": "o3",
+        "ru": "Скопление пыльцевых зёрен",
+        "en": "A cluster of pollen grains"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_moss_tissue",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каких специализированных водопроводящих клеток нет у мхов?",
+        "explanation": "Поэтому мхи относят к несосудистым растениям, хотя у некоторых есть простые проводящие клетки."
+      },
+      "en": {
+        "question": "Which specialised water-conducting cells do mosses lack?",
+        "explanation": "Mosses are therefore classed as nonvascular plants, though some have simple conducting cells."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Настоящих трахеид ксилемы",
+        "en": "True xylem tracheids"
+      },
+      {
+        "id": "o1",
+        "ru": "Клеток с хлоропластами",
+        "en": "Cells with chloroplasts"
+      },
+      {
+        "id": "o2",
+        "ru": "Клеток с целлюлозной стенкой",
+        "en": "Cells with a cellulose wall"
+      },
+      {
+        "id": "o3",
+        "ru": "Клеток с оформленным ядром",
+        "en": "Cells with a membrane-bound nucleus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/25-3-bryophytes"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_moss_water",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Почему для оплодотворения мхам обычно нужна плёнка воды?",
+        "explanation": "Подвижные мужские гаметы снабжены жгутиками и должны достичь яйцеклетки."
+      },
+      "en": {
+        "question": "Why do mosses usually need a film of water for fertilisation?",
+        "explanation": "The motile male gametes have flagella and must reach an egg cell."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "По ней движутся мужские половые клетки",
+        "en": "Male gametes swim through it"
+      },
+      {
+        "id": "o1",
+        "ru": "Она переносит пыльцу на рыльце",
+        "en": "It carries pollen to a stigma"
+      },
+      {
+        "id": "o2",
+        "ru": "Она формирует кожуру семени",
+        "en": "It forms a seed coat"
+      },
+      {
+        "id": "o3",
+        "ru": "В ней раскрываются плоды",
+        "en": "Fruits open in it"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/25-3-bryophytes"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_pine",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе растений относится сосна?",
+        "explanation": "Сосны относятся к голосеменным и образуют пыльцевые и семенные шишки."
+      },
+      "en": {
+        "question": "To which plant group does a pine belong?",
+        "explanation": "Pines are gymnosperms and produce pollen cones and seed cones."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "К хвойным",
+        "en": "Conifers"
+      },
+      {
+        "id": "o1",
+        "ru": "К мхам",
+        "en": "Mosses"
+      },
+      {
+        "id": "o2",
+        "ru": "К папоротникам",
+        "en": "Ferns"
+      },
+      {
+        "id": "o3",
+        "ru": "К покрытосеменным",
+        "en": "Angiosperms"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_annual",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют растения, проходящие жизненный цикл от прорастания до образования семян и гибели за один сезон?",
+        "explanation": "Это классификация по длительности жизненного цикла, а не по сохранению листвы."
+      },
+      "en": {
+        "question": "What are plants that complete germination, seed production and death in one growing season called?",
+        "explanation": "This classifies life-cycle duration rather than whether foliage is retained."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Однолетние",
+        "en": "Annuals"
+      },
+      {
+        "id": "o1",
+        "ru": "Двулетние",
+        "en": "Biennials"
+      },
+      {
+        "id": "o2",
+        "ru": "Многолетние",
+        "en": "Perennials"
+      },
+      {
+        "id": "o3",
+        "ru": "Вечнозелёные",
+        "en": "Evergreens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_asexual_clone",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что обычно получается при вегетативном размножении растения без мутаций?",
+        "explanation": "Половые клетки не сливаются, поэтому такой способ позволяет сохранять свойства исходного растения."
+      },
+      "en": {
+        "question": "What usually results from vegetative plant propagation in the absence of mutations?",
+        "explanation": "No gametes fuse, so this method can preserve the original plant's characteristics."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Потомство с тем же генотипом",
+        "en": "Offspring with the same genotype"
+      },
+      {
+        "id": "o1",
+        "ru": "Потомство с сочетанием генов двух родителей",
+        "en": "Offspring combining two parents' genes"
+      },
+      {
+        "id": "o2",
+        "ru": "Потомство после слияния гамет",
+        "en": "Offspring resulting from gamete fusion"
+      },
+      {
+        "id": "o3",
+        "ru": "Потомство после обязательного мейоза",
+        "en": "Offspring following obligatory meiosis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_meristem",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется растительная ткань с активно делящимися клетками, обеспечивающими рост?",
+        "explanation": "Верхушечные меристемы связаны с ростом корней и побегов в длину."
+      },
+      "en": {
+        "question": "What is plant tissue with actively dividing cells that support growth called?",
+        "explanation": "Apical meristems are associated with lengthwise root and shoot growth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Меристема",
+        "en": "Meristem"
+      },
+      {
+        "id": "o1",
+        "ru": "Пробка",
+        "en": "Cork"
+      },
+      {
+        "id": "o2",
+        "ru": "Зрелая ксилема",
+        "en": "Mature xylem"
+      },
+      {
+        "id": "o3",
+        "ru": "Кутикула",
+        "en": "Cuticle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_root_cap",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что защищает самую верхушку растущего корня при продвижении через почву?",
+        "explanation": "Его наружные клетки повреждаются в почве и постоянно заменяются новыми."
+      },
+      "en": {
+        "question": "What protects the tip of a growing root as it pushes through soil?",
+        "explanation": "Its outer cells are damaged by the soil and continually replaced."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Корневой чехлик",
+        "en": "Root cap"
+      },
+      {
+        "id": "o1",
+        "ru": "Семядоля",
+        "en": "Cotyledon"
+      },
+      {
+        "id": "o2",
+        "ru": "Прилистник",
+        "en": "Stipule"
+      },
+      {
+        "id": "o3",
+        "ru": "Пыльник",
+        "en": "Anther"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-3-roots"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_sori",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что такое сорусы на листьях многих папоротников?",
+        "explanation": "В спорангиях формируются споры; у многих видов сорусы заметны на нижней стороне листа."
+      },
+      "en": {
+        "question": "What are sori on the fronds of many ferns?",
+        "explanation": "Spores form in sporangia; in many species, sori are visible on the frond's underside."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Группы спорангиев",
+        "en": "Clusters of sporangia"
+      },
+      {
+        "id": "o1",
+        "ru": "Группы семязачатков",
+        "en": "Clusters of ovules"
+      },
+      {
+        "id": "o2",
+        "ru": "Скопления цветочных почек",
+        "en": "Clusters of flower buds"
+      },
+      {
+        "id": "o3",
+        "ru": "Участки образования плодов",
+        "en": "Fruit-forming regions"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_depth_naked_seeds",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Почему семена голосеменных называют «голыми»?",
+        "explanation": "Например, у сосны семена развиваются на чешуях шишек."
+      },
+      "en": {
+        "question": "Why are gymnosperm seeds called naked?",
+        "explanation": "In pines, for example, seeds develop on cone scales."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Они не заключены в завязь",
+        "en": "They are not enclosed in an ovary"
+      },
+      {
+        "id": "o1",
+        "ru": "У них никогда нет семенной кожуры",
+        "en": "They never have a seed coat"
+      },
+      {
+        "id": "o2",
+        "ru": "В них нет зародыша",
+        "en": "They contain no embryo"
+      },
+      {
+        "id": "o3",
+        "ru": "В них никогда нет запаса питательных веществ",
+        "en": "They never contain nutrient reserves"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms"
+    ],
+    "image": null
   }
 ]

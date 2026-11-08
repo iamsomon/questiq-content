@@ -178,5 +178,365 @@
         "url": "https://oceanservice.noaa.gov/facts/coral.html"
       }
     ]
+  },
+  {
+    "id": "oceans_depth_pacific",
+    "status": "approved",
+    "sha256": "02cf0e6eb07c1dc02b1f5133cd8ac86fa6c439345fc94ba78fb370eef689f73e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/biggestocean.html",
+        "location": "Heading and opening paragraph",
+        "claim": "Correct answer: Pacific. The Pacific basin is also the deepest ocean basin."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_arctic",
+    "status": "approved",
+    "sha256": "b12f2ea0cfcebd7d90531fe13ad1646f09d120638218d5cb02c22fe9e61f09e3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/biggestocean.html",
+        "location": "Final paragraph ranking ocean basins",
+        "claim": "Correct answer: Arctic. The Southern Ocean is larger, while the Indian Ocean ranks third by area."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_surface_waves",
+    "status": "approved",
+    "sha256": "46175dced5cec69948a4078214724f497e9c0cec445d66110a08947fe5e199cc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/wavesinocean.html",
+        "location": "Wind-driven waves paragraph",
+        "claim": "Correct answer: Wind. Wind transfers energy to water through friction, generating waves."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_gulfstream",
+    "status": "approved",
+    "sha256": "03fa8636575eaeeb6edba9f642a47ae22c69341b55e7c29e2f4e858ffdf9b7e0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/gulfstreamspeed.html",
+        "location": "Paragraph on location and route",
+        "claim": "Correct answer: Gulf Stream. The Gulf Stream runs along Florida, then turns east near North Carolina."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_tsunami",
+    "status": "approved",
+    "sha256": "e7fd09d566f1affeb51e77551416bbdf1d9051eb9b708bc3128742c4c315625d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/tsunami.html",
+        "location": "Definition; earthquake example; term tidal wave discouraged",
+        "claim": "Correct answer: Sudden seafloor displacement in an earthquake. A tsunami is not an ordinary tide; its waves can cross an ocean basin."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_plankton",
+    "status": "approved",
+    "sha256": "d1646eda5e0b60caa704087d045ebb38f6b41b7eacff92f2dd1de7d7528b9914",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+        "location": "Opening definition and phytoplankton/zooplankton",
+        "claim": "Correct answer: Plankton. Plankton includes both animals and photosynthetic organisms."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_sonar",
+    "status": "approved",
+    "sha256": "3e54ee4e92c29c3612cb39884e4e5520663f9e4f38591256d389dbc8191921c1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/sonar.html",
+        "location": "Active Sonar",
+        "claim": "Correct answer: Sound waves. The instrument sends a pulse and receives a signal reflected from the object."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_mangroves",
+    "status": "approved",
+    "sha256": "599f271067b000c83357a0877780d12bd8065aa0f908d0b249484da11d5069c8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/mangroves.html",
+        "location": "Definition, latitude range and coastline stabilisation",
+        "claim": "Correct answer: In tropical and subtropical intertidal zones. Their root systems trap sediments and help protect coasts from erosion."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_thermocline",
+    "status": "approved",
+    "sha256": "c5b8a9dd8532af87fbf7d7933d4665c30dff248e72ab537c324e934d5865d6c9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/thermocline.html",
+        "location": "Opening definition and rapid temperature decrease",
+        "claim": "Correct answer: Thermocline. In the ocean, it often separates warm mixed surface water from colder deep water."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_upwelling",
+    "status": "approved",
+    "sha256": "c19125d774604b8ae51c5f0a936e141d4cd803b5c8211244d1fb3f974e1f327e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/upwelling.html",
+        "location": "Nutrients and biological productivity",
+        "claim": "Correct answer: Nutrient-rich water rises to the surface. Deep water is usually colder and supplies nutrients that increase surface productivity."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_gyre",
+    "status": "approved",
+    "sha256": "e7e1fb4a4d0a582742a62f89b5a08c233de645b6cffd5e57adffb40f1ff48e78",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/gyre.html",
+        "location": "Definition and five major subtropical gyres",
+        "claim": "Correct answer: A large system of rotating currents. Such persistent systems include the North Atlantic Subtropical Gyre."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_zooplankton",
+    "status": "approved",
+    "sha256": "f4d7249ae35d16dcef6eb2ed37ad21d5ddb783d3065ce373928a8bb23b8ddee9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+        "location": "Zooplankton examples and krill as whale food",
+        "claim": "Correct answer: Zooplankton. Krill are small crustaceans eaten by many large marine animals."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_ridge",
+    "status": "approved",
+    "sha256": "f396a5a71be50a2a31240be96bc427c6f3633a6594564ed35126e54efb0ad621",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/midoceanridge.html",
+        "location": "Tectonic plate movement and volcanic ridge segments",
+        "claim": "Correct answer: Plate motion and submarine volcanism. Most of this global mountain system lies underwater."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_bathymetry",
+    "status": "approved",
+    "sha256": "9dc2cc494e523f39765f2711124cbdf89a94419bc2a08dc1b36e23451f9278a9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/bathymetry.html",
+        "location": "Submarine topography and isobaths",
+        "claim": "Correct answer: Depths and seafloor relief. Lines joining equal depths on such a map are called isobaths."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_deepest_trench",
+    "status": "approved",
+    "sha256": "4c5a1b66432470dcfcb77ba158c50667e1e9091ac68d631df161e098d9b594cd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/oceandepth.html",
+        "location": "Challenger Deep location",
+        "claim": "Correct answer: Mariana. It is the deepest known part of the world ocean, in the western Pacific."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_bioluminescence",
+    "status": "approved",
+    "sha256": "95c152385429d5d3f9e262cc1b4ee81ee6e2680bad255f91a1ab6048406fb729",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/biolum.html",
+        "location": "Definition, chemical reactions and functions",
+        "claim": "Correct answer: Bioluminescence. At sea, such light can serve communication, prey attraction or defence."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_passive_sonar",
+    "status": "approved",
+    "sha256": "0e45339af06b33d6c201139262f472b7d34a74d78ff167e58d8716d0836d5b92",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/sonar.html",
+        "location": "Passive Sonar",
+        "claim": "Correct answer: It listens without sending its own pulse. Passive systems can detect noise from ships, submarines and marine animals."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_black_smoker",
+    "status": "approved",
+    "sha256": "89b01712478fd13b43aff3faaf837eeb91ca77df6de09e7cc464285b5cd481ce",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/vents.html",
+        "location": "Caption explaining black smokers and iron sulfide",
+        "claim": "Correct answer: Iron sulfides. Minerals precipitate when hot hydrothermal fluids mix with cold seawater."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_vent_boiling",
+    "status": "approved",
+    "sha256": "b29ffeef43b2163cda3e5219d38dbb6255cf7101858a96410d9fc1d4ec087fe8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/vents.html",
+        "location": "Final paragraph: extreme pressure prevents boiling",
+        "claim": "Correct answer: Because of high pressure. Boiling temperature depends on pressure and is higher at great depth than at the surface."
+      }
+    ]
+  },
+  {
+    "id": "oceans_depth_seamount",
+    "status": "approved",
+    "sha256": "8a67be9a5d3b1ce774aa2da772334e4e9d5a81e5e42c194cd7bf41b57d1a2e64",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/seamounts.html",
+        "location": "Definition and volcanic origin",
+        "claim": "Correct answer: Through volcanic activity. Such a mountain rises above the surrounding seafloor, but its summit does not reach the sea surface."
+      }
+    ]
   }
 ]

@@ -178,5 +178,365 @@
         "claim": "Which process uses carbon dioxide to form organic matter in plants? Answer: Photosynthesis. The carbon becomes part of the plants’ organic material."
       }
     ]
+  },
+  {
+    "id": "ecology_depth_ecosystem",
+    "status": "approved",
+    "sha256": "c0ce7afb42851a67a0cd6795ad5152699b6dca31a6edd5257870a68427f48f19",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+        "location": "Ecosystem Ecology",
+        "claim": "Correct answer: Nonliving environmental components. Water, air and soil interact with an ecosystem's living components."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_abiotic",
+    "status": "approved",
+    "sha256": "efd14aa6115388e24b0387bdfb992f024033b6845c8a1f7f192ff892c0288d39",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+        "location": "Abiotic and biotic components",
+        "claim": "Correct answer: Water temperature. Abiotic factors are nonliving physical and chemical conditions."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_population",
+    "status": "approved",
+    "sha256": "8bac9c66d2e00d194ede3366e2230a7d041439bef0a7cdd6b179c98b6d75ad06",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/44-1-the-scope-of-ecology",
+        "location": "Population Ecology",
+        "claim": "Correct answer: Individuals of one species in a given area. Population ecology studies, for example, changes in such a group's size."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_producer",
+    "status": "approved",
+    "sha256": "ae67921f6342f026b2114b84d7fd502d736c021549539791c6e09be5bbf68926",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+        "location": "Food Chains and Food Webs: primary producers",
+        "claim": "Correct answer: Producers. They produce organic matter that other organisms can use."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_primary_consumer",
+    "status": "approved",
+    "sha256": "7b3f00a1631bd2772d00abbbefc52e86b39d6d3491633d631e2a9ae6a6b9379e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+        "location": "Food Chains and Food Webs: herbivores; original hare example",
+        "claim": "Correct answer: Primary consumer. Primary consumers obtain food directly from producers."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_food_web",
+    "status": "approved",
+    "sha256": "41c36057fe2ce653fcbbd07df03f4ba3574da09f7f5fcb519dbfa6b76d64660c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+        "location": "Food webs as interconnected food chains",
+        "claim": "Correct answer: Several interconnected feeding pathways. One species can participate in several food chains."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_mutualism",
+    "status": "approved",
+    "sha256": "42173cd9fbba4c3b8c1742fedd9b58fdd75fe5304ee8f6281d4b4093a86496ca",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Symbiosis: mutualism",
+        "claim": "Correct answer: Mutualism. Benefit to both partners distinguishes it from relationships benefiting only one."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_parasitism",
+    "status": "approved",
+    "sha256": "7e45594699cf8b4e85cf13dd15d5b9ed45d32caf40b1b4237b4253680e2eb9fb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Symbiosis: parasitism",
+        "claim": "Correct answer: Parasitism. A parasite can live on a host's surface or inside it."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_commensalism",
+    "status": "approved",
+    "sha256": "7771eed8f134bbaa1cd8fa20243377c1d0d0a02533db50ee299f5c928f6e8f8e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Symbiosis: commensal relationships",
+        "claim": "Correct answer: Commensalism. The classification depends on the interaction's consequences for each participant."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_carrying_capacity",
+    "status": "approved",
+    "sha256": "9120c92d9e2c6cac2ac897f6dd2fe079d426584d879d0d287fe5890d0e9d50c1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
+        "location": "Carrying Capacity and the Logistic Model",
+        "claim": "Correct answer: The population size available resources can support. In a logistic model, growth slows as the population approaches this level."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_biodiversity",
+    "status": "approved",
+    "sha256": "bdb5250604ee4d10c59910c2c9f7a6fff4aa46e6f2abe25660c0bf5f1a51f6cb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-1-the-biodiversity-crisis",
+        "location": "Types of Biodiversity",
+        "claim": "Correct answer: Genetic, species and ecosystem diversity. Preserving different ecosystems matters even when some of their species also occur elsewhere."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_genetic_diversity",
+    "status": "approved",
+    "sha256": "36585270cd1902f4050baa0993104f01cf6830662b484804e2a7c3d3308b1900",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-1-the-biodiversity-crisis",
+        "location": "Types of Biodiversity: genetic variation",
+        "claim": "Correct answer: Genetic. These differences provide material for evolution and adaptation to environmental change."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_invasive",
+    "status": "approved",
+    "sha256": "1723146ebeb36800c501b7a71f1d5e3d500af53d1324dd69ddd3c3d4e640df7a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/invasive.html",
+        "location": "Definition: ecological or economic harm in a non-native environment",
+        "claim": "Correct answer: A non-native species causing harm in a new environment. Not every introduced species becomes invasive: its impact also matters."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_eutrophication",
+    "status": "approved",
+    "sha256": "2542c72cb0be41be7e1d9459fb2b9aa6fd068641516ef8d026736a3f128ae11d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/nutrientpollution/basic-information-nutrient-pollution",
+        "location": "The Challenges of Nutrient Pollution",
+        "claim": "Correct answer: It promotes algal blooms and oxygen depletion. Excess nutrient inputs disrupt the balance of an aquatic ecosystem."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_watershed",
+    "status": "approved",
+    "sha256": "7ccd6b3ccce993edc9d80a4e24408c6f97d66eb898623a01440cc92695baca7c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/watershed.html",
+        "location": "Definition and flow from smaller streams to larger water bodies",
+        "claim": "Correct answer: An area draining water to a common water body. Pollution far from a river mouth can be carried downstream through the basin."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_primary_succession",
+    "status": "approved",
+    "sha256": "12d5042305e9eb3b89f8a36e6bb747bf164d94f34bd5975f7cf3b747d31223ec",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+        "location": "primary succession; pioneer species",
+        "claim": "Correct answer: Primary succession. Pioneer species arrive first; conditions and community composition develop over time."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_secondary_succession",
+    "status": "approved",
+    "sha256": "9208c715a27b336e729a7447c7fb6033e89e55e0d4da428e783b3e7488836bfd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+        "location": "secondary succession",
+        "claim": "Correct answer: Secondary succession. Unlike colonisation of a new surface, recovery begins with an existing community's legacy."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_keystone",
+    "status": "approved",
+    "sha256": "108788fe0ad4c99fb98862557f302c24217313ad82136516a327379517dd2ca3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+        "location": "keystone species",
+        "claim": "Correct answer: Keystone species. Its role depends on consequences for the community, rather than simply individual size."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_biomagnification",
+    "status": "approved",
+    "sha256": "7938a9ed104d5a86a434fd74ad9a57209f51d3f655bc13f8db23c1df0ae4f3df",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+        "location": "Biological Magnification",
+        "claim": "Correct answer: Biomagnification. A predator can acquire the pollutant from many prey organisms at lower levels."
+      }
+    ]
+  },
+  {
+    "id": "ecology_depth_energy_transfer",
+    "status": "approved",
+    "sha256": "0eaad649a32bd5f7b13b0b8b47aa0496d99b0eb45ff9682cbfe7ee67a80ddbc3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+        "location": "Energy flow, respiration and metabolic heat loss",
+        "claim": "Correct answer: Some supports life processes and dissipates as heat. Energy flows through an ecosystem with reduced availability rather than passing intact along the chain."
+      }
+    ]
   }
 ]

@@ -47,6 +47,86 @@
     "revision": 1,
     "sha256": "ec7ee34a2cf870b9b8aa5a32d7505aaaff008b06423f6a1aff19dbd6c4c23a68"
   },
+  "animals_depth_armadillo_ball": {
+    "revision": 1,
+    "sha256": "ae063e3cd2d71424ce3cbf2b99555476b8f4cce9c4ca99b75dccc4fd7ad95334"
+  },
+  "animals_depth_armadillo_group": {
+    "revision": 1,
+    "sha256": "a0529d5267ec99a287118df3430e6db940314294249e028d3393faf586fbfa40"
+  },
+  "animals_depth_axolotl_group": {
+    "revision": 1,
+    "sha256": "f21f5695cdd81d08b77aed6d5de4f0360be19d793962da39b62e891363906a4e"
+  },
+  "animals_depth_axolotl_neoteny": {
+    "revision": 1,
+    "sha256": "637fb3ca97820ae32cc91cb57232629a74543d2adce22774f4225fb14be659a8"
+  },
+  "animals_depth_bat_echolocation": {
+    "revision": 1,
+    "sha256": "8487acb04d3afd0a845c195b9090dfd0610940682a0efb0e7624c3c1886ae08b"
+  },
+  "animals_depth_bat_flight": {
+    "revision": 1,
+    "sha256": "ae0e261d7e207891daaf9f44b35eb7bec0091771642b0d266ea37c02975a4f2d"
+  },
+  "animals_depth_capybara_group": {
+    "revision": 1,
+    "sha256": "2d956c47b4dd8c7b1a265f566cbb211d88ec771d2cd841d78f305b08d99df0c1"
+  },
+  "animals_depth_capybara_water": {
+    "revision": 1,
+    "sha256": "84aec7c12db7b0d8ad4febcd13db50657208ff91725bb3db889f53df9f396fab"
+  },
+  "animals_depth_elephant_trunk": {
+    "revision": 1,
+    "sha256": "821fe66a547f868eb3825fe2c0cfd50e389c4588e815041d5069ceef6b0361f2"
+  },
+  "animals_depth_elephant_tusks": {
+    "revision": 1,
+    "sha256": "40388878b85246cdebf0fc123d3f041d2757f6bf664eccdcf32d7cb424879931"
+  },
+  "animals_depth_flamingo_colour": {
+    "revision": 1,
+    "sha256": "5cfbb383920b10b00df85dea59a8cb3cccd338b2392e49524cd4cdb012b8c0dc"
+  },
+  "animals_depth_flamingo_feeding": {
+    "revision": 1,
+    "sha256": "f9338dc68a40786033df8c246ad481c047fcea8e1c244519992c5a648030532a"
+  },
+  "animals_depth_koala_food": {
+    "revision": 1,
+    "sha256": "dfef3b847adf9c63547b4c00bbd6b4861e75b7f90ab46a086243399eeb3eddaa"
+  },
+  "animals_depth_koala_group": {
+    "revision": 1,
+    "sha256": "cbb2ca67f621b63d2f8edcbf7cb9a8a50ff6e3d468804d077bd9d8006210b6c4"
+  },
+  "animals_depth_komodo_group": {
+    "revision": 1,
+    "sha256": "bc1d7b5d5730bcb26963436f829043fa632ee28b87c5473d31db391663b70e67"
+  },
+  "animals_depth_komodo_smell": {
+    "revision": 1,
+    "sha256": "958aeb9fc02b591e4d47d052010c606b68794587bb8eec5b3b3fca89dde646cb"
+  },
+  "animals_depth_orangutan_limbs": {
+    "revision": 1,
+    "sha256": "3daddde6e3700e7c082e7063180b70beb1194f87094006c69e28965be05c8b9f"
+  },
+  "animals_depth_orangutan_range": {
+    "revision": 1,
+    "sha256": "0cdb91a77335712bba5be899fc758ca93603e45fc43df3e157ac516b109f2450"
+  },
+  "animals_depth_red_panda_ankles": {
+    "revision": 1,
+    "sha256": "3b6eb4ceef5152638928fc0215268df821d3957c4b4d3b7a28a004d3bdb6730f"
+  },
+  "animals_depth_red_panda_family": {
+    "revision": 1,
+    "sha256": "219cb864658a31d222a23ec7982906d56a9d93aaeb1b060cd8ab954650a91781"
+  },
   "animals_giraffe_height_0001": {
     "revision": 1,
     "sha256": "e32af30b280cbca3c8fcc5fa9a365dce6cd6e44a0cf12e6f041935ed6d7c5b39"
@@ -527,6 +607,86 @@
     "revision": 1,
     "sha256": "982833b65f5471da0326d63a9977b8b28718076443a7196012e6fff4e6c9a234"
   },
+  "artificial_intelligence_depth_activation": {
+    "revision": 1,
+    "sha256": "3552f015609e9c76090c8f926d98fa4af1edea2d38854cefefba180246209c8e"
+  },
+  "artificial_intelligence_depth_batch_size": {
+    "revision": 1,
+    "sha256": "42e612f7310913b549814cad46d7c783dca7a35f2884afde11e5be57fd09e41f"
+  },
+  "artificial_intelligence_depth_embedding": {
+    "revision": 1,
+    "sha256": "6e444d9f7c30be926389c4289b154fabd7425acf64d37a2c87a1d539b0252f41"
+  },
+  "artificial_intelligence_depth_epoch": {
+    "revision": 1,
+    "sha256": "bc2daf441901678d5e594f1f91b0cf44d00356152f6b8eedc2bcd24476d4a097"
+  },
+  "artificial_intelligence_depth_false_positive": {
+    "revision": 1,
+    "sha256": "634b7f5ab5d9513d4ae35c838c5778c764d0d25370d25c90644c1b2a15780de3"
+  },
+  "artificial_intelligence_depth_feature": {
+    "revision": 1,
+    "sha256": "f2b9fc48d2a11748dd3ecd13fefdcb35471ad66d70c272b06fa2686bc4e58cf5"
+  },
+  "artificial_intelligence_depth_generalisation": {
+    "revision": 1,
+    "sha256": "5d1e4f98be59c02ebf6467b1a170fae8af3a9c430865e3929092ba236eca01e9"
+  },
+  "artificial_intelligence_depth_gradient_descent": {
+    "revision": 1,
+    "sha256": "3a3db75def6afd69710c9430933b30e89ae8a5adedea91d23703684e6a99ddcd"
+  },
+  "artificial_intelligence_depth_label": {
+    "revision": 1,
+    "sha256": "84f09fe5cb71273201fce47d743138d4789624b0952d17d62456e424cf5f693b"
+  },
+  "artificial_intelligence_depth_learning_rate": {
+    "revision": 1,
+    "sha256": "97fb6a2271b56a88f113dde4fe83501d8c16caf2744d047d0980b790480905fd"
+  },
+  "artificial_intelligence_depth_loss": {
+    "revision": 1,
+    "sha256": "79d0e4ca7f2cbbe52b1b5fc68b31c359ff38e8dd67c35b6bffd456ffadc925df"
+  },
+  "artificial_intelligence_depth_overfitting": {
+    "revision": 1,
+    "sha256": "b17104fbbef8d290732219d429fbf9e366dbb8dcd5c5041f3f7ae9d8e9dabe54"
+  },
+  "artificial_intelligence_depth_precision": {
+    "revision": 1,
+    "sha256": "b0e7702f48161e9b3392bebad832db046d5ae78089a78723c61d45fe381b9322"
+  },
+  "artificial_intelligence_depth_recall": {
+    "revision": 1,
+    "sha256": "2dfa8dde2b65daa4ecbc6b515a21e038a593c645ef7747660ec851482e2cfb1e"
+  },
+  "artificial_intelligence_depth_relu": {
+    "revision": 1,
+    "sha256": "f8180d8f7e5a95bccc6d61c5090fbb4cd2945db3330489f07ee15e6c8e3672a8"
+  },
+  "artificial_intelligence_depth_squared_error": {
+    "revision": 1,
+    "sha256": "c12c8416ca1c6682d1308e9029582f476e44e56eac4c97fb4d7c93dd15732c78"
+  },
+  "artificial_intelligence_depth_test_set": {
+    "revision": 1,
+    "sha256": "004e62aa69e31e326b67357d617c4da12ba1b996538ba607f395311d85eb4206"
+  },
+  "artificial_intelligence_depth_training_set": {
+    "revision": 1,
+    "sha256": "42fb3dd8b1ca34c3e6ad437f11580ec51478fa8ee9dd22d72e1aa4d81e1fa2a8"
+  },
+  "artificial_intelligence_depth_underfitting": {
+    "revision": 1,
+    "sha256": "7ab9e540ec631b77407699f79bc1829e0d9e72c35ca897d23fa7732a62d08e44"
+  },
+  "artificial_intelligence_depth_validation_set": {
+    "revision": 1,
+    "sha256": "eff45573e3a19b049120f17f1b833c6a7fc4e39adcfb4094a14570d37eefecfd"
+  },
   "artificial_intelligence_generative_output_0001": {
     "revision": 1,
     "sha256": "99f47a188e3a7f48059e00e0b2c26403a8fa2af7d42bb7c015e78324f64220d2"
@@ -922,6 +1082,86 @@
   "biology_adenine_partner_0001": {
     "revision": 1,
     "sha256": "0534e11f633f5cb5100777128d6e5d552f4a1a4326954e60d3f7c98156819032"
+  },
+  "biology_depth_active_transport": {
+    "revision": 1,
+    "sha256": "5614c61b57d2cec2b72f4b28bc1c7f111e985e2bd03d382413c982b6d3cb35da"
+  },
+  "biology_depth_allele": {
+    "revision": 1,
+    "sha256": "9eae5d45f3a15966a4f41d4acbe6bcd07c3d3c674e3a1b9e17a50f662131419e"
+  },
+  "biology_depth_atp": {
+    "revision": 1,
+    "sha256": "701cf9700c8f8c49a8e1f3c49cdef066452a1e60f530e807f52bb3f9d8b14b35"
+  },
+  "biology_depth_bacteriophage": {
+    "revision": 1,
+    "sha256": "e1b441e194a6ff87a0bc5e78018adf0125e18d7af1ff11e5c942a93736c76865"
+  },
+  "biology_depth_binomial": {
+    "revision": 1,
+    "sha256": "86ad28515a6e4dad104ff6869bce0e944d0bede840eb747cec28d3b33fe871e6"
+  },
+  "biology_depth_capsid": {
+    "revision": 1,
+    "sha256": "0aa2eb09951a9632ef72f986d714d17b73c8cd103f69d1f802907927a5769a28"
+  },
+  "biology_depth_diffusion": {
+    "revision": 1,
+    "sha256": "c46fd4fe4e7163a0e43ff201d4ca77b611b2f3ff26bfbee6511b0168fe74b1c0"
+  },
+  "biology_depth_enzyme": {
+    "revision": 1,
+    "sha256": "6df3d0f7b26f7ab94de0a98c276a156fed137d5b8e2506c9a4f8dc11370e53c9"
+  },
+  "biology_depth_fungal_wall": {
+    "revision": 1,
+    "sha256": "cb04ad28d086f73a0fd9db8797a70e34942441db32f0142b7fc76a4f16d4f657"
+  },
+  "biology_depth_genotype": {
+    "revision": 1,
+    "sha256": "f088c223dde1b6a611728350ee49e1525f5f0e69fadfb6d54a7db35eb41a125f"
+  },
+  "biology_depth_homeostasis": {
+    "revision": 1,
+    "sha256": "7366fe3e1839d12d7e7993ef8bd15873990f7cfa446f4bd4243af16abe30690f"
+  },
+  "biology_depth_hyphae": {
+    "revision": 1,
+    "sha256": "5644b4c2e30bdfa293e74bda8c4e4bd8a2d7141045e80d87547f735096c74ee1"
+  },
+  "biology_depth_lysosome": {
+    "revision": 1,
+    "sha256": "8664feb35aa783d70d595b2c66f40b127a06b91d6b844851e650c39ebf77dcfc"
+  },
+  "biology_depth_meiosis": {
+    "revision": 1,
+    "sha256": "85dc4874592490181255c421445307b25d6abdbe5d6c2817b8bbb5d28870ac3a"
+  },
+  "biology_depth_mitochondria": {
+    "revision": 1,
+    "sha256": "da3e2fe6cfa0de67623c1d334d7b4f2d376733c8a944c542acbc88f22c23370e"
+  },
+  "biology_depth_mycorrhiza": {
+    "revision": 1,
+    "sha256": "3b3f8073d069e8321f73a18f6dd29bea3f9f7c85cf73a6ae1c25a233ae5eb510"
+  },
+  "biology_depth_osmosis": {
+    "revision": 1,
+    "sha256": "4ce56afd3e3b287b6264444f78707ffe824e983e4ce502fcf75089d88858b01c"
+  },
+  "biology_depth_phenotype": {
+    "revision": 1,
+    "sha256": "c1ab892d32ce4d76597510f56cf52f40c924ec71332007fca7bf0a2ffc634395"
+  },
+  "biology_depth_prokaryote": {
+    "revision": 1,
+    "sha256": "628d3ab3fad64d213e33ca554bcd1a469819433c834b6a2df8b538a345c20d95"
+  },
+  "biology_depth_taxonomic_family": {
+    "revision": 1,
+    "sha256": "6459821c9a0ab8c44ebb83e471b08abafb504ac31a6c5091bb40d81ce3da2b65"
   },
   "biology_dna_replication_0001": {
     "revision": 1,
@@ -2371,6 +2611,86 @@
     "revision": 1,
     "sha256": "6a49a8a9eb5f56c8bf365986c6bd6f4365d8be61bd0636bf31f8bd40551c8dca"
   },
+  "ecology_depth_abiotic": {
+    "revision": 1,
+    "sha256": "efd14aa6115388e24b0387bdfb992f024033b6845c8a1f7f192ff892c0288d39"
+  },
+  "ecology_depth_biodiversity": {
+    "revision": 1,
+    "sha256": "bdb5250604ee4d10c59910c2c9f7a6fff4aa46e6f2abe25660c0bf5f1a51f6cb"
+  },
+  "ecology_depth_biomagnification": {
+    "revision": 1,
+    "sha256": "7938a9ed104d5a86a434fd74ad9a57209f51d3f655bc13f8db23c1df0ae4f3df"
+  },
+  "ecology_depth_carrying_capacity": {
+    "revision": 1,
+    "sha256": "9120c92d9e2c6cac2ac897f6dd2fe079d426584d879d0d287fe5890d0e9d50c1"
+  },
+  "ecology_depth_commensalism": {
+    "revision": 1,
+    "sha256": "7771eed8f134bbaa1cd8fa20243377c1d0d0a02533db50ee299f5c928f6e8f8e"
+  },
+  "ecology_depth_ecosystem": {
+    "revision": 1,
+    "sha256": "c0ce7afb42851a67a0cd6795ad5152699b6dca31a6edd5257870a68427f48f19"
+  },
+  "ecology_depth_energy_transfer": {
+    "revision": 1,
+    "sha256": "0eaad649a32bd5f7b13b0b8b47aa0496d99b0eb45ff9682cbfe7ee67a80ddbc3"
+  },
+  "ecology_depth_eutrophication": {
+    "revision": 1,
+    "sha256": "2542c72cb0be41be7e1d9459fb2b9aa6fd068641516ef8d026736a3f128ae11d"
+  },
+  "ecology_depth_food_web": {
+    "revision": 1,
+    "sha256": "41c36057fe2ce653fcbbd07df03f4ba3574da09f7f5fcb519dbfa6b76d64660c"
+  },
+  "ecology_depth_genetic_diversity": {
+    "revision": 1,
+    "sha256": "36585270cd1902f4050baa0993104f01cf6830662b484804e2a7c3d3308b1900"
+  },
+  "ecology_depth_invasive": {
+    "revision": 1,
+    "sha256": "1723146ebeb36800c501b7a71f1d5e3d500af53d1324dd69ddd3c3d4e640df7a"
+  },
+  "ecology_depth_keystone": {
+    "revision": 1,
+    "sha256": "108788fe0ad4c99fb98862557f302c24217313ad82136516a327379517dd2ca3"
+  },
+  "ecology_depth_mutualism": {
+    "revision": 1,
+    "sha256": "42173cd9fbba4c3b8c1742fedd9b58fdd75fe5304ee8f6281d4b4093a86496ca"
+  },
+  "ecology_depth_parasitism": {
+    "revision": 1,
+    "sha256": "7e45594699cf8b4e85cf13dd15d5b9ed45d32caf40b1b4237b4253680e2eb9fb"
+  },
+  "ecology_depth_population": {
+    "revision": 1,
+    "sha256": "8bac9c66d2e00d194ede3366e2230a7d041439bef0a7cdd6b179c98b6d75ad06"
+  },
+  "ecology_depth_primary_consumer": {
+    "revision": 1,
+    "sha256": "7b3f00a1631bd2772d00abbbefc52e86b39d6d3491633d631e2a9ae6a6b9379e"
+  },
+  "ecology_depth_primary_succession": {
+    "revision": 1,
+    "sha256": "12d5042305e9eb3b89f8a36e6bb747bf164d94f34bd5975f7cf3b747d31223ec"
+  },
+  "ecology_depth_producer": {
+    "revision": 1,
+    "sha256": "ae67921f6342f026b2114b84d7fd502d736c021549539791c6e09be5bbf68926"
+  },
+  "ecology_depth_secondary_succession": {
+    "revision": 1,
+    "sha256": "9208c715a27b336e729a7447c7fb6033e89e55e0d4da428e783b3e7488836bfd"
+  },
+  "ecology_depth_watershed": {
+    "revision": 1,
+    "sha256": "7ccd6b3ccce993edc9d80a4e24408c6f97d66eb898623a01440cc92695baca7c"
+  },
   "ecology_greenhouse_gas_0001": {
     "revision": 1,
     "sha256": "b3cd3aeb76aa5c7593a64a5cbb12e25755b23f4d8e9e2a9079f4da8711941064"
@@ -3119,6 +3439,86 @@
     "revision": 1,
     "sha256": "ac231cad4a56b874d9d639b24be8a57c0a8df4b7682431a68eceb49d48a4ea5f"
   },
+  "internet_depth_cache": {
+    "revision": 1,
+    "sha256": "93f0094ed36cff2014057e324a9bc85ad2983edd022d956c6491636a483b0b73"
+  },
+  "internet_depth_cdn": {
+    "revision": 1,
+    "sha256": "1e9f383908bd22e70f7c3cb91c625d0a6b87d03559949f4f0fa42c9759bcfc13"
+  },
+  "internet_depth_cookie": {
+    "revision": 1,
+    "sha256": "ef3c1949d17ce23f9fa62aec770ded497301aa6f244f46ed1362d9345677e24f"
+  },
+  "internet_depth_dns": {
+    "revision": 1,
+    "sha256": "bc71e1939dd04895bb45a43a382467c3554a96352737516a4ba926733bf14175"
+  },
+  "internet_depth_fragment": {
+    "revision": 1,
+    "sha256": "2fc9e207841a1a91e0358b94fb88ee811d573a97052f16deda6c2a421cf1e10a"
+  },
+  "internet_depth_ftp": {
+    "revision": 1,
+    "sha256": "11af6b4388a72651415f9ff0f64a3a9636d906a60a8182920378417347fec444"
+  },
+  "internet_depth_get": {
+    "revision": 1,
+    "sha256": "f46822b4d67c434761036e7952b8acd3019f5d0f040751852ff23d65619ac5f8"
+  },
+  "internet_depth_html": {
+    "revision": 1,
+    "sha256": "af53e4b4df881c2a4f6940ccf1f6afe35307bb715ea09ac1796114e6417906ae"
+  },
+  "internet_depth_https": {
+    "revision": 1,
+    "sha256": "0b53218e909250de6e5b052b8df52fb867c9897e8355351a88e7e84c87dce9b6"
+  },
+  "internet_depth_https_port": {
+    "revision": 1,
+    "sha256": "07095ca79dd75d76602c14dbc9a90afeef5ec685473bd62a0c4f6cc8c10fe2a6"
+  },
+  "internet_depth_ipv4_bits": {
+    "revision": 1,
+    "sha256": "337d56130620e321338bb4a4509e0a40a3cb9e618ae5695c6f4ec4b663e0b806"
+  },
+  "internet_depth_ipv6_bits": {
+    "revision": 1,
+    "sha256": "c28b1099ed916771cfaa401cdce2b3b23f96f7b74cbc3696221fd43fc4bd2638"
+  },
+  "internet_depth_not_found": {
+    "revision": 1,
+    "sha256": "03939bfebfe8d885422b393e6f3ec481160fcd198be7c820651e00b26f22e828"
+  },
+  "internet_depth_path": {
+    "revision": 1,
+    "sha256": "4f48f81044b891dc3f91701c9fb989cf1565f7efeb8fe9b4dba45daebd409c08"
+  },
+  "internet_depth_permanent_redirect": {
+    "revision": 1,
+    "sha256": "e6454800cfb91c19615da6b4a93be84bbc4db6ff98780d714d310cec91140f77"
+  },
+  "internet_depth_post": {
+    "revision": 1,
+    "sha256": "4924705b409c940e9fddd496602dba8a8f780feb28b9c47f6234b36d4f79cc19"
+  },
+  "internet_depth_query": {
+    "revision": 1,
+    "sha256": "fe3ec195242d780d2f35a857179607ebb0450dc3908f0619439d1c8d976e6cca"
+  },
+  "internet_depth_server_error": {
+    "revision": 1,
+    "sha256": "1fce0544a1c0c6334fe2a974052d63dd1e5c2e03b8656f5822e9f2ff769b8e8f"
+  },
+  "internet_depth_tcp_order": {
+    "revision": 1,
+    "sha256": "20d3fbccf1f39bf8bbd01f2e24931006c4b5855e09ca2bc6176d060b0f2e9aaf"
+  },
+  "internet_depth_url_scheme": {
+    "revision": 1,
+    "sha256": "d49a0ce588c737187b368b96309b0271fb9133aec099b24fc3585055a2c18711"
+  },
   "internet_domain_name_0001": {
     "revision": 1,
     "sha256": "313bcad5388f613d56ba10f03c52a2e5365927e5a29fd9583a868001ce0c845e"
@@ -3726,6 +4126,86 @@
   "mathematics_cube_value_0001": {
     "revision": 1,
     "sha256": "8d4055bfdc296088a5a1196897ccff825c390ed730dc63caab8a89d186ea03b0"
+  },
+  "mathematics_depth_absolute": {
+    "revision": 1,
+    "sha256": "e6d66c9b366ecccc914ec42bfd85365ee771b6e5c9a3a64449e37b01e15214d9"
+  },
+  "mathematics_depth_circle_area": {
+    "revision": 1,
+    "sha256": "f80f87f68d2e49522ef92daead2472c0be0d41da686e49bd6c8350ca67d22286"
+  },
+  "mathematics_depth_die_probability": {
+    "revision": 1,
+    "sha256": "d6ab6ee4a3c09a92b5b65837c678b4dadaa96797219e52e9dc917d5b07fd8771"
+  },
+  "mathematics_depth_factorial": {
+    "revision": 1,
+    "sha256": "40a411348fb5aa07b0f9cc54830323530eda3edd09754222ea8431878a566125"
+  },
+  "mathematics_depth_fraction_sum": {
+    "revision": 1,
+    "sha256": "43a5f50aa80b8eaff81b31418067f02f597ed32ef9d34aeca7c4ad2c2da45273"
+  },
+  "mathematics_depth_gcd": {
+    "revision": 1,
+    "sha256": "0a24cff4777bbca7547cbba6f741a103973b7e6aee75c7e416d1fd16c4733ee1"
+  },
+  "mathematics_depth_geometric": {
+    "revision": 1,
+    "sha256": "19c24af90cf09432e860fa7abf82f6f35ad651f10ada794d51c68df5d9261a53"
+  },
+  "mathematics_depth_independent_coins": {
+    "revision": 1,
+    "sha256": "236c082dcb2789c23958d33f2c82c0454d9674eebe2c4f22e9a19e8f8648162d"
+  },
+  "mathematics_depth_lcm": {
+    "revision": 1,
+    "sha256": "834441eb194581b281177c4e20b2b212273d5f9ebef690c85d9cea511f455869"
+  },
+  "mathematics_depth_linear_equation": {
+    "revision": 1,
+    "sha256": "5721046a0302c71001451c85579d328c197e4db7185950369c7b79ccb37d975b"
+  },
+  "mathematics_depth_mean": {
+    "revision": 1,
+    "sha256": "1f34023a774812d8094ff2f7ea6845bafaa3171cef22481301018d9f7093c3f2"
+  },
+  "mathematics_depth_median": {
+    "revision": 1,
+    "sha256": "16dd775a1ee07eabb376b13791e5b42503a77787ba5b5c52335eec93e4e25d5d"
+  },
+  "mathematics_depth_percent": {
+    "revision": 1,
+    "sha256": "a992819d6a3ba29c4a2995956b72173e912b1386ef6f02f506c6c978196060ac"
+  },
+  "mathematics_depth_prime": {
+    "revision": 1,
+    "sha256": "28371c97f5082bd5910406873f3e3d2d18dee2d94ff0305e46e4a25bb5fc301b"
+  },
+  "mathematics_depth_quadrant": {
+    "revision": 1,
+    "sha256": "3d4f07af15a51863aacd6a23c5251d72c931cf457ebe0dda67af8edaf7803f8e"
+  },
+  "mathematics_depth_rectangle_area": {
+    "revision": 1,
+    "sha256": "8d68f58ffefb56292efe63f2da6fba45cb7df9c31bd0e284acc85c0d1e9d0741"
+  },
+  "mathematics_depth_slope": {
+    "revision": 1,
+    "sha256": "19f2cb1fd10cd258c4f3749575d048d8b636ecb74372a77bd72d1c9526e42032"
+  },
+  "mathematics_depth_triangle_area": {
+    "revision": 1,
+    "sha256": "523fecb558273dd8e62b56c84da9688d9ec898ae62260e59858f3585e3279b3a"
+  },
+  "mathematics_depth_triangle_sum": {
+    "revision": 1,
+    "sha256": "4b3b69dea359de495005e44e413bf2048316ef72ffe7c55d94852659dea11f32"
+  },
+  "mathematics_depth_x_axis": {
+    "revision": 1,
+    "sha256": "38d4d5302e5d7681a0acd619a0ae4925b0054a80f51f9c3c6790cf5dccb084cd"
   },
   "mathematics_division_left_0001": {
     "revision": 1,
@@ -4495,9 +4975,89 @@
     "revision": 1,
     "sha256": "c9f832ff5700cf78c05d3023c863ef9856deaec635fee161e5a61bebe7fc6efb"
   },
+  "oceans_depth_arctic": {
+    "revision": 1,
+    "sha256": "b12f2ea0cfcebd7d90531fe13ad1646f09d120638218d5cb02c22fe9e61f09e3"
+  },
+  "oceans_depth_bathymetry": {
+    "revision": 1,
+    "sha256": "9dc2cc494e523f39765f2711124cbdf89a94419bc2a08dc1b36e23451f9278a9"
+  },
+  "oceans_depth_bioluminescence": {
+    "revision": 1,
+    "sha256": "95c152385429d5d3f9e262cc1b4ee81ee6e2680bad255f91a1ab6048406fb729"
+  },
+  "oceans_depth_black_smoker": {
+    "revision": 1,
+    "sha256": "89b01712478fd13b43aff3faaf837eeb91ca77df6de09e7cc464285b5cd481ce"
+  },
+  "oceans_depth_deepest_trench": {
+    "revision": 1,
+    "sha256": "4c5a1b66432470dcfcb77ba158c50667e1e9091ac68d631df161e098d9b594cd"
+  },
+  "oceans_depth_gulfstream": {
+    "revision": 1,
+    "sha256": "03fa8636575eaeeb6edba9f642a47ae22c69341b55e7c29e2f4e858ffdf9b7e0"
+  },
+  "oceans_depth_gyre": {
+    "revision": 1,
+    "sha256": "e7e1fb4a4d0a582742a62f89b5a08c233de645b6cffd5e57adffb40f1ff48e78"
+  },
+  "oceans_depth_mangroves": {
+    "revision": 1,
+    "sha256": "599f271067b000c83357a0877780d12bd8065aa0f908d0b249484da11d5069c8"
+  },
+  "oceans_depth_pacific": {
+    "revision": 1,
+    "sha256": "02cf0e6eb07c1dc02b1f5133cd8ac86fa6c439345fc94ba78fb370eef689f73e"
+  },
+  "oceans_depth_passive_sonar": {
+    "revision": 1,
+    "sha256": "0e45339af06b33d6c201139262f472b7d34a74d78ff167e58d8716d0836d5b92"
+  },
+  "oceans_depth_plankton": {
+    "revision": 1,
+    "sha256": "d1646eda5e0b60caa704087d045ebb38f6b41b7eacff92f2dd1de7d7528b9914"
+  },
   "oceans_depth_pressure_0001": {
     "revision": 1,
     "sha256": "d8fe9ee9198d6c5bf4b78474bbcd80ca8f5c91e7437d3843a5d381f8099d7276"
+  },
+  "oceans_depth_ridge": {
+    "revision": 1,
+    "sha256": "f396a5a71be50a2a31240be96bc427c6f3633a6594564ed35126e54efb0ad621"
+  },
+  "oceans_depth_seamount": {
+    "revision": 1,
+    "sha256": "8a67be9a5d3b1ce774aa2da772334e4e9d5a81e5e42c194cd7bf41b57d1a2e64"
+  },
+  "oceans_depth_sonar": {
+    "revision": 1,
+    "sha256": "3e54ee4e92c29c3612cb39884e4e5520663f9e4f38591256d389dbc8191921c1"
+  },
+  "oceans_depth_surface_waves": {
+    "revision": 1,
+    "sha256": "46175dced5cec69948a4078214724f497e9c0cec445d66110a08947fe5e199cc"
+  },
+  "oceans_depth_thermocline": {
+    "revision": 1,
+    "sha256": "c5b8a9dd8532af87fbf7d7933d4665c30dff248e72ab537c324e934d5865d6c9"
+  },
+  "oceans_depth_tsunami": {
+    "revision": 1,
+    "sha256": "e7fd09d566f1affeb51e77551416bbdf1d9051eb9b708bc3128742c4c315625d"
+  },
+  "oceans_depth_upwelling": {
+    "revision": 1,
+    "sha256": "c19125d774604b8ae51c5f0a936e141d4cd803b5c8211244d1fb3f974e1f327e"
+  },
+  "oceans_depth_vent_boiling": {
+    "revision": 1,
+    "sha256": "b29ffeef43b2163cda3e5219d38dbb6255cf7101858a96410d9fc1d4ec087fe8"
+  },
+  "oceans_depth_zooplankton": {
+    "revision": 1,
+    "sha256": "f4d7249ae35d16dcef6eb2ed37ad21d5ddb783d3065ce373928a8bb23b8ddee9"
   },
   "oceans_surface_coverage_0001": {
     "revision": 1,
@@ -4847,6 +5407,86 @@
     "revision": 1,
     "sha256": "75038c9e896c25d9f0f90b98fb27fae19436c16e2f8550eea24a86db21d06e75"
   },
+  "physics_depth_acceleration": {
+    "revision": 1,
+    "sha256": "e812911cd32b9af3b498aa685d5c80ad62095eabf8493e2affbbcb612cabbcbe"
+  },
+  "physics_depth_conduction": {
+    "revision": 1,
+    "sha256": "4a4edb80c4e624a6d00d1a01593ab13299c74d4512fda2ecda45b295ede37fac"
+  },
+  "physics_depth_convection": {
+    "revision": 1,
+    "sha256": "0c82b871e945459c58f01e3fee92a9887f4ef8159fe79c4fdc1b61394571d775"
+  },
+  "physics_depth_current": {
+    "revision": 1,
+    "sha256": "2e11c9cc047edad6b933de374c557789e57b6478ce208e66aa6c40c420304a20"
+  },
+  "physics_depth_frequency_unit": {
+    "revision": 1,
+    "sha256": "4b602f7248a2a8ca679ab5c8c04f7208af9da502108d8970a81a39cf8564f841"
+  },
+  "physics_depth_inertia": {
+    "revision": 1,
+    "sha256": "fff5734227beaacc5c875c755b258883c3eeabe5e89b965c37f63805e9b51c4b"
+  },
+  "physics_depth_kinetic": {
+    "revision": 1,
+    "sha256": "4ee9271a4f57342b5bbd980a5428d1812870a8472a31fa45c4b76817a735a547"
+  },
+  "physics_depth_mass_weight": {
+    "revision": 1,
+    "sha256": "4185235d216c0fc04be1e401790a0917e093a99cb59c2d28391be54cdfba3533"
+  },
+  "physics_depth_mirror_image": {
+    "revision": 1,
+    "sha256": "e1e270e024c11435591ea8d4235b45ca6c197b7ed4dbcf41b8aa61a62bfbc73a"
+  },
+  "physics_depth_net_force": {
+    "revision": 1,
+    "sha256": "31f8b333e130535c3e8013989bb4d5662cf3a41e433ede69742d8365129ca7b9"
+  },
+  "physics_depth_ohm": {
+    "revision": 1,
+    "sha256": "bb977ab6bff365e2930fddf1bc38d4e89e5d9cb4df2fcbf54a2625d84d3f7847"
+  },
+  "physics_depth_period": {
+    "revision": 1,
+    "sha256": "c2932df18013f743f0a690a2ecca172e2b87a68ae65da3e6170b58c63931f6f8"
+  },
+  "physics_depth_perpendicular_work": {
+    "revision": 1,
+    "sha256": "60a47cd1ef82574016a34e27d83f633f3ca033821f7ba8a254745f2bd47adb09"
+  },
+  "physics_depth_pitch": {
+    "revision": 1,
+    "sha256": "4b27760e9ee0da07b20c27ac4389afa4f96110645ce155fc0bd263aeeed0c15a"
+  },
+  "physics_depth_potential": {
+    "revision": 1,
+    "sha256": "3858f6fe4fba361ab2ca7ef1679d7b2d48e48241d2d08f1288b604c974f76ea8"
+  },
+  "physics_depth_radiation": {
+    "revision": 1,
+    "sha256": "9149fbb9f517a6c7710499d415e3768b8e02e89a90d6603b6695b4ecba27316f"
+  },
+  "physics_depth_reflection": {
+    "revision": 1,
+    "sha256": "c21091b2b602b95d58820f965f3cadb8c47de5e21beed5c4cef07eb00fd3e94e"
+  },
+  "physics_depth_refraction": {
+    "revision": 1,
+    "sha256": "7844af1169f52045b3d82cbb3c4f82a02ca1d3a58f0ea1b80700b0e1183214b3"
+  },
+  "physics_depth_third_law": {
+    "revision": 1,
+    "sha256": "d57622981a4e9bc3e70ceaf41919c8bbab3f4110c1d2a2d9dbd9400b202b909a"
+  },
+  "physics_depth_wave_relation": {
+    "revision": 1,
+    "sha256": "d10809a48e68781c2f06ad9b3c3c7a555c6d89f007ca6c6804c79f8e7b796284"
+  },
   "physics_energy_unit_0001": {
     "revision": 1,
     "sha256": "d0033ebafe1dbbee188b47d8f7da3eba79cedca8a43654cf53d07f66ac0e8e41"
@@ -4890,6 +5530,86 @@
   "plants_coast_redwood_0001": {
     "revision": 1,
     "sha256": "06b8534f1182e5dbed795e30997100c098a7773e78e339e836160bb9c404ea64"
+  },
+  "plants_depth_annual": {
+    "revision": 1,
+    "sha256": "daa6a097895879ac0c5fb71930d06380160d124e3bbf7eb7edf4f6d3e0845049"
+  },
+  "plants_depth_anther": {
+    "revision": 1,
+    "sha256": "9f118aa0f979c3b23ac7fa20959bd613457d5d42ea435b7176b71769ce74e3f3"
+  },
+  "plants_depth_asexual_clone": {
+    "revision": 1,
+    "sha256": "4ded477992345cfd5af5153707854ad7d84f43ae9ef5d1fe913d125cd0a85565"
+  },
+  "plants_depth_chlorophyll": {
+    "revision": 1,
+    "sha256": "478320458876a4b66570f8c779a25d1eb0066d37d12a90a5596cf7c18a701521"
+  },
+  "plants_depth_fern_spores": {
+    "revision": 1,
+    "sha256": "c40a4f9e5af012f90398aec5f0e6e5a6b256e5004aa6ad54fca627eb683e924d"
+  },
+  "plants_depth_fruit_ovary": {
+    "revision": 1,
+    "sha256": "c0dd2d8379007d2e7462c1aa4402b48407c59db90928430904dd0d32aebfebda"
+  },
+  "plants_depth_meristem": {
+    "revision": 1,
+    "sha256": "4bf1eb562a8aa543984e4c7d138d45009d950b0b33f0b6dea6fcd3f01290fa3e"
+  },
+  "plants_depth_moss_tissue": {
+    "revision": 1,
+    "sha256": "b9c8930da9cf26ba19a35413c5b81f2471b442321834c7acbcd76723f29e4bb1"
+  },
+  "plants_depth_moss_water": {
+    "revision": 1,
+    "sha256": "d5592f30190bc46e89fc46fa02eb0892d5818971c54fe257281844d6afb6ab20"
+  },
+  "plants_depth_naked_seeds": {
+    "revision": 1,
+    "sha256": "4ea4ae5d3adb5ab6df7157e9cb6bed65a29a58f9eef2a1c47cd3ae473aa62d88"
+  },
+  "plants_depth_phloem": {
+    "revision": 1,
+    "sha256": "db2033b08339547efedbdacb6b3bf3f72bf3a5eda3c19fc94ee2d2a49a683924"
+  },
+  "plants_depth_phototropism": {
+    "revision": 1,
+    "sha256": "38a73bd40d8af8f538d60e6b3c0c9cb1e4d4f662bb2cece3101737bf4293ef47"
+  },
+  "plants_depth_pine": {
+    "revision": 1,
+    "sha256": "051aff7939ce10ea626df1eb2b4d472755993fb422653ceda6c7533ffa51a245"
+  },
+  "plants_depth_pollination": {
+    "revision": 1,
+    "sha256": "a3456dd0ebb79b1165eca56d87bdde7b45e84fe0a7868649c757395c668d1b6d"
+  },
+  "plants_depth_root_cap": {
+    "revision": 1,
+    "sha256": "2b5e7d9ae812cedd139bcee94876300b4ccb68171266a965f7390373575b7a14"
+  },
+  "plants_depth_root_hairs": {
+    "revision": 1,
+    "sha256": "6202367ee037e2ef551d839b6891d2cf5ee4d4a72013a74661f29f95fd46e569"
+  },
+  "plants_depth_seed_embryo": {
+    "revision": 1,
+    "sha256": "d91bd00909866cfb4c29bd59738a2f9d2310ce49da1370930c371e3572d1b134"
+  },
+  "plants_depth_sori": {
+    "revision": 1,
+    "sha256": "25e9214a274c0ed026d6d928863b05ae4b5d0b5778da0e6abd3ab6e2b9d5d5cf"
+  },
+  "plants_depth_wheat_cotyledon": {
+    "revision": 1,
+    "sha256": "e6141bd6fbb6d30860956b0c2322f3de61e281bbd17204318cdd7e51ca750a10"
+  },
+  "plants_depth_xylem": {
+    "revision": 1,
+    "sha256": "7a4552e7e5cee99fd47cff9052f6f9fa60f0b3e9032af4c8a24eea9ba035238d"
   },
   "plants_ethylene_0001": {
     "revision": 1,
@@ -5006,6 +5726,86 @@
   "space_technology_collins_role_0001": {
     "revision": 1,
     "sha256": "68c471c3e3960a8259a9fcd020a35b076f435e475201c306e8222efb6795de8a"
+  },
+  "space_technology_depth_arrokoth": {
+    "revision": 1,
+    "sha256": "2fe75b1a65ae96c986690a8091bf7eb0cf67127e05fc12c726eb5600055a2aa2"
+  },
+  "space_technology_depth_cassini_planet": {
+    "revision": 1,
+    "sha256": "6e30f2b23c09dfdc272818f1333d2ae5fb7a302a8318e1647aa792d6ba10202f"
+  },
+  "space_technology_depth_curiosity_crater": {
+    "revision": 1,
+    "sha256": "f2f3f6536a97981c0e9a7cae2fec36ecd48f15655efdd8835a753047b00c4f68"
+  },
+  "space_technology_depth_dawn_targets": {
+    "revision": 1,
+    "sha256": "62569a21a7130792c0992e07680f7701ab9e8a2512face6050285993b7887949"
+  },
+  "space_technology_depth_dawn_xenon": {
+    "revision": 1,
+    "sha256": "6be5314b552bace081a0d7fede2ddcd2e9acbb2ef8260a5ea597a15c8efb6eca"
+  },
+  "space_technology_depth_first_spacewalk": {
+    "revision": 1,
+    "sha256": "741b77f4a49b11aba8a7709f738c1e981fff1b031524a62e11b0979f1bdc60af"
+  },
+  "space_technology_depth_first_woman": {
+    "revision": 1,
+    "sha256": "33e9174214b60f149560c9902ba2441771af3332cdbb190d95a00d5d065f57c0"
+  },
+  "space_technology_depth_gagarin_craft": {
+    "revision": 1,
+    "sha256": "1282ba6ad0b6e6836f4cf72f78edd58ccec638306cb08b3917582c35f6af448f"
+  },
+  "space_technology_depth_geostationary": {
+    "revision": 1,
+    "sha256": "8a907ec39626990ad76369aeb6e2a61d36a2d916fda6737aae9d38927bb5cddc"
+  },
+  "space_technology_depth_horizons_pluto": {
+    "revision": 1,
+    "sha256": "4c6e716fc0305291a0d65ac9e6d690a3868b3d1bfae361037424d63e07063837"
+  },
+  "space_technology_depth_hubble_launch": {
+    "revision": 1,
+    "sha256": "85e5e077068bbed2bb71db5cff404fbd8dde63840befdc9cfff6c57ac5601a99"
+  },
+  "space_technology_depth_huygens_titan": {
+    "revision": 1,
+    "sha256": "dd74d9ebd3ca11dd8e06a779de0dcc2dd7521e56c9846d58ed537d4cd52a6f8f"
+  },
+  "space_technology_depth_ingenuity": {
+    "revision": 1,
+    "sha256": "acfe0f414526b236b896782d20016785d342e0f8c6a0a1666df18b709f339644"
+  },
+  "space_technology_depth_iss_power": {
+    "revision": 1,
+    "sha256": "c82a4168bb4f72f2f0177ab6c3397491743b8763d3f55370810fdf8cdeeefc5b"
+  },
+  "space_technology_depth_perseverance_crater": {
+    "revision": 1,
+    "sha256": "9e491477a9634b8f46903b0015329fec2edbec483999d8f7fec3789bd9c7e47d"
+  },
+  "space_technology_depth_philae_role": {
+    "revision": 1,
+    "sha256": "4e2de868356e7b355d720b83018607b7e0a1c442b80fb07fbcdd5da2fff6525d"
+  },
+  "space_technology_depth_rocket_staging": {
+    "revision": 1,
+    "sha256": "a6ee504701dd337beb9a764e12c4619c6ac2a82e0fb1e23ff20ff2f54c7c5880"
+  },
+  "space_technology_depth_rosetta_comet": {
+    "revision": 1,
+    "sha256": "f92ffa48ab37c0ed800ed39dd932ffc12caa63258961935ab33da8da1221febf"
+  },
+  "space_technology_depth_sputnik": {
+    "revision": 1,
+    "sha256": "e90536481b24f50f28e373aa26c9d3ddf62ac0d8e8cd58146a9fd155d94b4b01"
+  },
+  "space_technology_depth_webb_band": {
+    "revision": 1,
+    "sha256": "48ece427bf1710570dacc5f3120822e051c8ac54c85f358b1214fa4b79c9a939"
   },
   "space_technology_eagle_module_0001": {
     "revision": 1,
