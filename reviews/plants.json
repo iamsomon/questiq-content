@@ -188,5 +188,365 @@
       }
     ],
     "reviewNotes": "Photosystem II section confirms two H2O split for one diatomic O2. CO2 supplies carbon rather than released oxygen; H2O2 decomposition is not the specified photosynthetic source, and CO is not that substrate. Subscripts and compound names match RU/EN."
+  },
+  {
+    "id": "plants_depth_chlorophyll",
+    "status": "approved",
+    "sha256": "478320458876a4b66570f8c779a25d1eb0066d37d12a90a5596cf7c18a701521",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+        "location": "Structures of Photosynthesis: chlorophyll in thylakoid membranes",
+        "claim": "Correct answer: Chlorophyll. Chlorophyll is located in the thylakoid membranes of chloroplasts."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_xylem",
+    "status": "approved",
+    "sha256": "7a4552e7e5cee99fd47cff9052f6f9fa60f0b3e9032af4c8a24eea9ba035238d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+        "location": "Plant Tissue Systems: xylem",
+        "claim": "Correct answer: Xylem. Its conducting elements include vessels and tracheids."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_phloem",
+    "status": "approved",
+    "sha256": "db2033b08339547efedbdacb6b3bf3f72bf3a5eda3c19fc94ee2d2a49a683924",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+        "location": "Plant Tissue Systems: phloem and living conducting cells",
+        "claim": "Correct answer: Phloem. Phloem's conducting elements remain alive, unlike mature xylem vessels."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_root_hairs",
+    "status": "approved",
+    "sha256": "6202367ee037e2ef551d839b6891d2cf5ee4d4a72013a74661f29f95fd46e569",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+        "location": "Root Anatomy: epidermis and root hairs",
+        "claim": "Correct answer: They increase the absorption surface. They are extensions of the root's outer cells that help absorb water and minerals."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_anther",
+    "status": "approved",
+    "sha256": "9f118aa0f979c3b23ac7fa20959bd613457d5d42ea435b7176b71769ce74e3f3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Development of the Male Gametophyte",
+        "claim": "Correct answer: In the anther. The anther sits on a filament and contains pollen sacs."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_pollination",
+    "status": "approved",
+    "sha256": "a3456dd0ebb79b1165eca56d87bdde7b45e84fe0a7868649c757395c668d1b6d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Opening definition of angiosperm pollination",
+        "claim": "Correct answer: Transfer of pollen to a stigma. Pollination precedes fertilisation but is not the fusion of sex cells."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_fern_spores",
+    "status": "approved",
+    "sha256": "c40a4f9e5af012f90398aec5f0e6e5a6b256e5004aa6ad54fca627eb683e924d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants",
+        "location": "Ferns: reproductive cycle and spores",
+        "claim": "Correct answer: Spores. Spores form in sporangia and develop into the fern's sexual generation."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_phototropism",
+    "status": "approved",
+    "sha256": "38a73bd40d8af8f538d60e6b3c0c9cb1e4d4f662bb2cece3101737bf4293ef47",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses",
+        "location": "Plant Responses to Light: positive phototropism",
+        "claim": "Correct answer: Positive phototropism. Light direction affects unequal cell elongation and the bending of the shoot."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_wheat_cotyledon",
+    "status": "approved",
+    "sha256": "e6141bd6fbb6d30860956b0c2322f3de61e281bbd17204318cdd7e51ca750a10",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Fruit and Seed Formation: monocots, wheat and scutellum",
+        "claim": "Correct answer: One. Wheat and maize are monocots; their single cotyledon is called the scutellum."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_fruit_ovary",
+    "status": "approved",
+    "sha256": "c0dd2d8379007d2e7462c1aa4402b48407c59db90928430904dd0d32aebfebda",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Fruit and Seed Formation",
+        "claim": "Correct answer: The ovary. After fertilisation, the ovary matures into a fruit and the ovules into seeds."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_seed_embryo",
+    "status": "approved",
+    "sha256": "d91bd00909866cfb4c29bd59738a2f9d2310ce49da1370930c371e3572d1b134",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Development of the Female Gametophyte: zygote, embryo and seed coat",
+        "claim": "Correct answer: A young plant at an early developmental stage. The embryo is protected by a seed coat and begins growing under suitable conditions."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_moss_tissue",
+    "status": "approved",
+    "sha256": "b9c8930da9cf26ba19a35413c5b81f2471b442321834c7acbcd76723f29e4bb1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes",
+        "location": "Opening paragraphs: non-tracheophytes and lack of actual tracheids",
+        "claim": "Correct answer: True xylem tracheids. Mosses are therefore classed as nonvascular plants, though some have simple conducting cells."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_moss_water",
+    "status": "approved",
+    "sha256": "d5592f30190bc46e89fc46fa02eb0892d5818971c54fe257281844d6afb6ab20",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/25-3-bryophytes",
+        "location": "Bryophytes: flagellated sperm and water-dependent fertilisation",
+        "claim": "Correct answer: Male gametes swim through it. The motile male gametes have flagella and must reach an egg cell."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_pine",
+    "status": "approved",
+    "sha256": "051aff7939ce10ea626df1eb2b4d472755993fb422653ceda6c7533ffa51a245",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms",
+        "location": "Life Cycle of a Conifer: pine trees",
+        "claim": "Correct answer: Conifers. Pines are gymnosperms and produce pollen cones and seed cones."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_annual",
+    "status": "approved",
+    "sha256": "daa6a097895879ac0c5fb71930d06380160d124e3bbf7eb7edf4f6d3e0845049",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction",
+        "location": "Plant Life Spans: annuals",
+        "claim": "Correct answer: Annuals. This classifies life-cycle duration rather than whether foliage is retained."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_asexual_clone",
+    "status": "approved",
+    "sha256": "4ded477992345cfd5af5153707854ad7d84f43ae9ef5d1fe913d125cd0a85565",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-3-asexual-reproduction",
+        "location": "Opening paragraphs: genetically identical offspring",
+        "claim": "Correct answer: Offspring with the same genotype. No gametes fuse, so this method can preserve the original plant's characteristics."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_meristem",
+    "status": "approved",
+    "sha256": "4bf1eb562a8aa543984e4c7d138d45009d950b0b33f0b6dea6fcd3f01290fa3e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+        "location": "Plant Tissue Systems: meristematic tissue",
+        "claim": "Correct answer: Meristem. Apical meristems are associated with lengthwise root and shoot growth."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_root_cap",
+    "status": "approved",
+    "sha256": "2b5e7d9ae812cedd139bcee94876300b4ccb68171266a965f7390373575b7a14",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-3-roots",
+        "location": "Root Growth: root cap",
+        "claim": "Correct answer: Root cap. Its outer cells are damaged by the soil and continually replaced."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_sori",
+    "status": "approved",
+    "sha256": "25e9214a274c0ed026d6d928863b05ae4b5d0b5778da0e6abd3ab6e2b9d5d5cf",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/25-4-seedless-vascular-plants",
+        "location": "Ferns: sori and sporangia, Figure 25.23",
+        "claim": "Correct answer: Clusters of sporangia. Spores form in sporangia; in many species, sori are visible on the frond's underside."
+      }
+    ]
+  },
+  {
+    "id": "plants_depth_naked_seeds",
+    "status": "approved",
+    "sha256": "4ea4ae5d3adb5ab6df7157e9cb6bed65a29a58f9eef2a1c47cd3ae473aa62d88",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms",
+        "location": "Opening definition: seeds not enclosed in an ovary",
+        "claim": "Correct answer: They are not enclosed in an ovary. In pines, for example, seeds develop on cone scales."
+      }
+    ]
   }
 ]

@@ -438,5 +438,885 @@
       "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
     ],
     "image": null
+  },
+  {
+    "id": "space_technology_depth_sputnik",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году был запущен первый искусственный спутник Земли — «Спутник-1»?",
+        "explanation": "Запуск состоялся 4 октября; в следующем месяце на орбиту отправился «Спутник-2»."
+      },
+      "en": {
+        "question": "In what year was Sputnik 1, the first artificial Earth satellite, launched?",
+        "explanation": "The launch took place on 4 October; Sputnik 2 followed the next month."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1957",
+        "en": "1957"
+      },
+      {
+        "id": "o1",
+        "ru": "1947",
+        "en": "1947"
+      },
+      {
+        "id": "o2",
+        "ru": "1967",
+        "en": "1967"
+      },
+      {
+        "id": "o3",
+        "ru": "1977",
+        "en": "1977"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/history/sputnik/chronology.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_gagarin_craft",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком корабле Юрий Гагарин совершил полёт 12 апреля 1961 года?",
+        "explanation": "Корабль стартовал с космодрома Байконур."
+      },
+      "en": {
+        "question": "In which spacecraft did Yuri Gagarin fly on 12 April 1961?",
+        "explanation": "The spacecraft launched from the Baikonur Cosmodrome."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "«Восток-1»",
+        "en": "Vostok 1"
+      },
+      {
+        "id": "o1",
+        "ru": "«Восход-2»",
+        "en": "Voskhod 2"
+      },
+      {
+        "id": "o2",
+        "ru": "«Союз-1»",
+        "en": "Soyuz 1"
+      },
+      {
+        "id": "o3",
+        "ru": "«Меркурий-Редстоун-3»",
+        "en": "Mercury-Redstone 3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_first_woman",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто стала первой женщиной, побывавшей в космосе?",
+        "explanation": "Терешкова отправилась в полёт на «Востоке-6» в июне 1963 года."
+      },
+      "en": {
+        "question": "Who was the first woman in space?",
+        "explanation": "Tereshkova flew aboard Vostok 6 in June 1963."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Валентина Терешкова",
+        "en": "Valentina Tereshkova"
+      },
+      {
+        "id": "o1",
+        "ru": "Светлана Савицкая",
+        "en": "Svetlana Savitskaya"
+      },
+      {
+        "id": "o2",
+        "ru": "Салли Райд",
+        "en": "Sally Ride"
+      },
+      {
+        "id": "o3",
+        "ru": "Елена Кондакова",
+        "en": "Yelena Kondakova"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/history/sally-ride-first-american-woman-in-space/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_first_spacewalk",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто первым вышел в открытый космос?",
+        "explanation": "Леонов вышел из шлюза «Восхода-2» 18 марта 1965 года."
+      },
+      "en": {
+        "question": "Who performed the first spacewalk?",
+        "explanation": "Leonov left the Voskhod 2 airlock on 18 March 1965."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алексей Леонов",
+        "en": "Alexei Leonov"
+      },
+      {
+        "id": "o1",
+        "ru": "Юрий Гагарин",
+        "en": "Yuri Gagarin"
+      },
+      {
+        "id": "o2",
+        "ru": "Джон Гленн",
+        "en": "John Glenn"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдвард Уайт",
+        "en": "Edward White"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/history/space-station-20th-spacewalking-history/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_webb_band",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком диапазоне в основном наблюдает телескоп «Джеймс Уэбб»?",
+        "explanation": "Тепловой экран защищает его приборы от излучения Солнца, Земли и Луны."
+      },
+      "en": {
+        "question": "In which band does the James Webb Space Telescope primarily observe?",
+        "explanation": "A sunshield protects its instruments from radiation from the Sun, Earth and Moon."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Инфракрасном",
+        "en": "Infrared"
+      },
+      {
+        "id": "o1",
+        "ru": "Рентгеновском",
+        "en": "X-ray"
+      },
+      {
+        "id": "o2",
+        "ru": "Гамма-диапазоне",
+        "en": "Gamma-ray"
+      },
+      {
+        "id": "o3",
+        "ru": "Радиодиапазоне метровых волн",
+        "en": "Metre-wave radio"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/webb/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_ingenuity",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой аппарат в 2021 году выполнил первый управляемый полёт с двигателем на другой планете?",
+        "explanation": "Вертолёт доставили на Марс вместе с марсоходом Perseverance."
+      },
+      "en": {
+        "question": "Which craft made the first powered, controlled flight on another planet in 2021?",
+        "explanation": "The helicopter travelled to Mars with the Perseverance rover."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ingenuity",
+        "en": "Ingenuity"
+      },
+      {
+        "id": "o1",
+        "ru": "Sojourner",
+        "en": "Sojourner"
+      },
+      {
+        "id": "o2",
+        "ru": "Spirit",
+        "en": "Spirit"
+      },
+      {
+        "id": "o3",
+        "ru": "Opportunity",
+        "en": "Opportunity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_iss_power",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как МКС получает основную электрическую энергию?",
+        "explanation": "Фотоэлементы преобразуют солнечный свет в электричество."
+      },
+      "en": {
+        "question": "How does the ISS generate its main electrical power?",
+        "explanation": "Photovoltaic cells convert sunlight into electricity."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "С помощью солнечных батарей",
+        "en": "Using solar arrays"
+      },
+      {
+        "id": "o1",
+        "ru": "С помощью радиоизотопных генераторов",
+        "en": "Using radioisotope generators"
+      },
+      {
+        "id": "o2",
+        "ru": "Только топливными элементами",
+        "en": "Only using fuel cells"
+      },
+      {
+        "id": "o3",
+        "ru": "С помощью турбин на сжатом газе",
+        "en": "Using compressed-gas turbines"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nasa.gov/wp-content/uploads/2020/06/international_space_station_activity_kit.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_rocket_staging",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Зачем ракета-носитель сбрасывает отработавшие ступени?",
+        "explanation": "После расходования топлива баки и конструкции отработавшей ступени становятся лишним грузом."
+      },
+      "en": {
+        "question": "Why does a launch vehicle discard spent stages?",
+        "explanation": "After propellant is used, a spent stage's tanks and structure become unnecessary mass."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чтобы уменьшить массу разгоняемой части",
+        "en": "To reduce the mass still being accelerated"
+      },
+      {
+        "id": "o1",
+        "ru": "Чтобы увеличить сопротивление воздуха",
+        "en": "To increase aerodynamic drag"
+      },
+      {
+        "id": "o2",
+        "ru": "Чтобы снизить скорость выхлопа оставшихся двигателей",
+        "en": "To reduce the exhaust speed of remaining engines"
+      },
+      {
+        "id": "o3",
+        "ru": "Чтобы увеличить запас кислорода без дополнительного бака",
+        "en": "To increase the oxygen supply without an additional tank"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/stage/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_hubble_launch",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком году был запущен космический телескоп «Хаббл»?",
+        "explanation": "Дата запуска — 24 апреля 1990 года."
+      },
+      "en": {
+        "question": "In what year was the Hubble Space Telescope launched?",
+        "explanation": "Its launch date was 24 April 1990."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1990",
+        "en": "1990"
+      },
+      {
+        "id": "o1",
+        "ru": "1970",
+        "en": "1970"
+      },
+      {
+        "id": "o2",
+        "ru": "1980",
+        "en": "1980"
+      },
+      {
+        "id": "o3",
+        "ru": "2000",
+        "en": "2000"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/hubble/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_curiosity_crater",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком кратере сел марсоход Curiosity в 2012 году?",
+        "explanation": "Там марсоход изучает породы и условия, которые могли быть пригодны для микробной жизни в прошлом."
+      },
+      "en": {
+        "question": "In which crater did Curiosity land in 2012?",
+        "explanation": "There it studies rocks and conditions that could once have supported microbial life."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гейл",
+        "en": "Gale"
+      },
+      {
+        "id": "o1",
+        "ru": "Езеро",
+        "en": "Jezero"
+      },
+      {
+        "id": "o2",
+        "ru": "Гусев",
+        "en": "Gusev"
+      },
+      {
+        "id": "o3",
+        "ru": "Эндьюранс",
+        "en": "Endurance"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/msl-curiosity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_perseverance_crater",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кратер выбрали для посадки Perseverance на Марсе?",
+        "explanation": "В этом районе сохранились следы древнего озера и речной дельты."
+      },
+      "en": {
+        "question": "Which crater was chosen as Perseverance's landing site on Mars?",
+        "explanation": "The area preserves evidence of an ancient lake and river delta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Езеро",
+        "en": "Jezero"
+      },
+      {
+        "id": "o1",
+        "ru": "Гейл",
+        "en": "Gale"
+      },
+      {
+        "id": "o2",
+        "ru": "Гусев",
+        "en": "Gusev"
+      },
+      {
+        "id": "o3",
+        "ru": "Тихо",
+        "en": "Tycho"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/mars-2020-perseverance/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_horizons_pluto",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой аппарат впервые исследовал Плутон с близкого расстояния в 2015 году?",
+        "explanation": "Пролёт состоялся 14 июля после многолетнего путешествия от Земли."
+      },
+      "en": {
+        "question": "Which spacecraft first explored Pluto at close range in 2015?",
+        "explanation": "The flyby took place on 14 July after a multi-year journey from Earth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "New Horizons",
+        "en": "New Horizons"
+      },
+      {
+        "id": "o1",
+        "ru": "Cassini",
+        "en": "Cassini"
+      },
+      {
+        "id": "o2",
+        "ru": "Galileo",
+        "en": "Galileo"
+      },
+      {
+        "id": "o3",
+        "ru": "Magellan",
+        "en": "Magellan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/new-horizons/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_cassini_planet",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету и её спутники исследовал орбитальный аппарат Cassini?",
+        "explanation": "Миссия изучала кольца планеты и её ледяные спутники."
+      },
+      "en": {
+        "question": "Which planet and its moons did the Cassini orbiter study?",
+        "explanation": "The mission studied the planet's rings and icy moons."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      },
+      {
+        "id": "o1",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/cassini/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_huygens_titan",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой спутник в 2005 году сел зонд Huygens?",
+        "explanation": "Зонд доставили к системе Сатурна на борту Cassini."
+      },
+      "en": {
+        "question": "On which moon did the Huygens probe land in 2005?",
+        "explanation": "The probe travelled to the Saturn system aboard Cassini."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Титан",
+        "en": "Titan"
+      },
+      {
+        "id": "o1",
+        "ru": "Европа",
+        "en": "Europa"
+      },
+      {
+        "id": "o2",
+        "ru": "Тритон",
+        "en": "Triton"
+      },
+      {
+        "id": "o3",
+        "ru": "Фобос",
+        "en": "Phobos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.esa.int/Newsroom/Press_Releases/Europe_reaches_new_frontier_Huygens_lands_on_Titan"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_philae_role",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую задачу выполнил аппарат Philae в ноябре 2014 года?",
+        "explanation": "Сигнал с посадочного модуля передавался на Землю через Rosetta."
+      },
+      "en": {
+        "question": "What did Philae achieve in November 2014?",
+        "explanation": "The lander's signal was relayed to Earth through Rosetta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Первую посадку зонда на комету",
+        "en": "The first probe landing on a comet"
+      },
+      {
+        "id": "o1",
+        "ru": "Первый полёт человека к Луне",
+        "en": "The first crewed flight to the Moon"
+      },
+      {
+        "id": "o2",
+        "ru": "Первую посадку на Венеру",
+        "en": "The first landing on Venus"
+      },
+      {
+        "id": "o3",
+        "ru": "Первый облёт Нептуна",
+        "en": "The first Neptune flyby"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.esa.int/Newsroom/Press_Releases/Touchdown%21_Rosetta_s_Philae_probe_lands_on_comet"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_dawn_targets",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие два тела посетила на орбите миссия Dawn?",
+        "explanation": "Оба находятся в главном поясе астероидов между Марсом и Юпитером."
+      },
+      "en": {
+        "question": "Which two bodies did the Dawn mission orbit?",
+        "explanation": "Both lie in the main asteroid belt between Mars and Jupiter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Весту и Цереру",
+        "en": "Vesta and Ceres"
+      },
+      {
+        "id": "o1",
+        "ru": "Плутон и Харон",
+        "en": "Pluto and Charon"
+      },
+      {
+        "id": "o2",
+        "ru": "Титан и Энцелад",
+        "en": "Titan and Enceladus"
+      },
+      {
+        "id": "o3",
+        "ru": "Фобос и Деймос",
+        "en": "Phobos and Deimos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/dawn/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_rosetta_comet",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую комету сопровождала Rosetta?",
+        "explanation": "Миссия наблюдала ядро и окружающие его газ и пыль по мере движения кометы вокруг Солнца."
+      },
+      "en": {
+        "question": "Which comet did Rosetta escort?",
+        "explanation": "The mission observed the nucleus and surrounding gas and dust as the comet travelled around the Sun."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "67P/Чурюмова — Герасименко",
+        "en": "67P/Churyumov–Gerasimenko"
+      },
+      {
+        "id": "o1",
+        "ru": "1P/Галлея",
+        "en": "1P/Halley"
+      },
+      {
+        "id": "o2",
+        "ru": "2P/Энке",
+        "en": "2P/Encke"
+      },
+      {
+        "id": "o3",
+        "ru": "9P/Темпеля",
+        "en": "9P/Tempel 1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.esa.int/Science_Exploration/Space_Science/Rosetta"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_arrokoth",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мимо какого объекта пояса Койпера New Horizons пролетел в начале 2019 года?",
+        "explanation": "Это была вторая главная научная цель аппарата после Плутона."
+      },
+      "en": {
+        "question": "Which Kuiper Belt object did New Horizons fly past in early 2019?",
+        "explanation": "It was the spacecraft's second major science target after Pluto."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аррокот",
+        "en": "Arrokoth"
+      },
+      {
+        "id": "o1",
+        "ru": "Эрида",
+        "en": "Eris"
+      },
+      {
+        "id": "o2",
+        "ru": "Хаумеа",
+        "en": "Haumea"
+      },
+      {
+        "id": "o3",
+        "ru": "Макемаке",
+        "en": "Makemake"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/new-horizons/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_dawn_xenon",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой газ служил рабочим веществом ионных двигателей Dawn?",
+        "explanation": "Электрическое поле ускоряло ионы, создавая небольшую, но длительно действующую тягу."
+      },
+      "en": {
+        "question": "Which gas was the propellant for Dawn's ion engines?",
+        "explanation": "An electric field accelerated ions, producing a small but sustained thrust."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ксенон",
+        "en": "Xenon"
+      },
+      {
+        "id": "o1",
+        "ru": "Гелий",
+        "en": "Helium"
+      },
+      {
+        "id": "o2",
+        "ru": "Азот",
+        "en": "Nitrogen"
+      },
+      {
+        "id": "o3",
+        "ru": "Метан",
+        "en": "Methane"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/dawn/technology/ion-propulsion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_depth_geostationary",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Над какой линией Земли проходит круговая геостационарная орбита?",
+        "explanation": "Её период совпадает с вращением Земли, поэтому спутник сохраняет положение над одной точкой экватора."
+      },
+      "en": {
+        "question": "Above which Earth line does a circular geostationary orbit lie?",
+        "explanation": "Its period matches Earth's rotation, so the satellite remains above one point on the equator."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Над экватором",
+        "en": "The equator"
+      },
+      {
+        "id": "o1",
+        "ru": "Над северным полярным кругом",
+        "en": "The Arctic Circle"
+      },
+      {
+        "id": "o2",
+        "ru": "Над нулевым меридианом",
+        "en": "The prime meridian"
+      },
+      {
+        "id": "o3",
+        "ru": "Над Южным тропиком",
+        "en": "The Tropic of Capricorn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/glossary/"
+    ],
+    "image": null
   }
 ]

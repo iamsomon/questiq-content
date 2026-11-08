@@ -178,5 +178,365 @@
         "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work"
       }
     ]
+  },
+  {
+    "id": "internet_depth_dns",
+    "status": "approved",
+    "sha256": "bc71e1939dd04895bb45a43a382467c3554a96352737516a4ba926733bf14175",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name",
+        "location": "How does a DNS request work?, steps 2–3",
+        "claim": "Correct answer: DNS. A device can use a locally cached answer or query a DNS server."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_https",
+    "status": "approved",
+    "sha256": "0b53218e909250de6e5b052b8df52fb867c9897e8355351a88e7e84c87dce9b6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS",
+        "location": "Opening definition",
+        "claim": "Correct answer: HTTPS. Encryption protects the connection's contents while they travel over the network."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_html",
+    "status": "approved",
+    "sha256": "af53e4b4df881c2a4f6940ccf1f6afe35307bb715ea09ac1796114e6417906ae",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTML",
+        "location": "Opening definition; syntax of elements",
+        "claim": "Correct answer: HTML. HTML describes document elements such as headings, paragraphs and links."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_not_found",
+    "status": "approved",
+    "sha256": "03939bfebfe8d885422b393e6f3ec481160fcd198be7c820651e00b26f22e828",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "location": "404 Not Found",
+        "claim": "Correct answer: 404. The server could not find the requested resource; sometimes this code also conceals a restricted resource's existence."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_cache",
+    "status": "approved",
+    "sha256": "93f0094ed36cff2014057e324a9bc85ad2983edd022d956c6491636a483b0b73",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+        "location": "Opening paragraphs on response reuse",
+        "claim": "Correct answer: To reuse previously received responses. Reusing an appropriate response can reduce delay and server load."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_cookie",
+    "status": "approved",
+    "sha256": "ef3c1949d17ce23f9fa62aec770ded497301aa6f244f46ed1362d9345677e24f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies",
+        "location": "Opening definition; basic user sign-in system",
+        "claim": "Correct answer: Links requests to a stored session. The browser can send a stored cookie with later requests to the same server."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_ftp",
+    "status": "approved",
+    "sha256": "11af6b4388a72651415f9ff0f64a3a9636d906a60a8182920378417347fec444",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/FTP",
+        "location": "Opening definition",
+        "claim": "Correct answer: Transferring files between computers. The name means File Transfer Protocol; ordinary FTP does not encrypt transfers."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_url_scheme",
+    "status": "approved",
+    "sha256": "d49a0ce588c737187b368b96309b0271fb9133aec099b24fc3585055a2c18711",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+        "location": "Scheme",
+        "claim": "Correct answer: Scheme. The scheme tells the browser how to access the resource."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_get",
+    "status": "approved",
+    "sha256": "f46822b4d67c434761036e7952b8acd3019f5d0f040751852ff23d65619ac5f8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/GET",
+        "location": "Opening description and note about message bodies",
+        "claim": "Correct answer: GET. GET retrieves data; sending a body in such a request has no generally defined semantics."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_post",
+    "status": "approved",
+    "sha256": "4924705b409c940e9fddd496602dba8a8f780feb28b9c47f6234b36d4f79cc19",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/POST",
+        "location": "Opening paragraphs: forms and non-idempotency",
+        "claim": "Correct answer: POST. Repeating an identical POST request can have additional effects, such as creating another order."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_cdn",
+    "status": "approved",
+    "sha256": "1e9f383908bd22e70f7c3cb91c625d0a6b87d03559949f4f0fa42c9759bcfc13",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/CDN",
+        "location": "Opening definition",
+        "claim": "Correct answer: A distributed network of content-delivery servers. Copies of data in different locations allow requests to be served nearer to users."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_path",
+    "status": "approved",
+    "sha256": "4f48f81044b891dc3f91701c9fb989cf1565f7efeb8fe9b4dba45daebd409c08",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+        "location": "Path to resource; original URL",
+        "claim": "Correct answer: /books/index.html. A path identifies a server resource and need not correspond to an actual disk file."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_query",
+    "status": "approved",
+    "sha256": "fe3ec195242d780d2f35a857179607ebb0450dc3908f0619439d1c8d976e6cca",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Query",
+        "location": "Syntax and description of key/value query parameters",
+        "claim": "Correct answer: Question mark (?). The parameters can specify searching, filtering or sorting, depending on the server."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_permanent_redirect",
+    "status": "approved",
+    "sha256": "e6454800cfb91c19615da6b4a93be84bbc4db6ff98780d714d310cec91140f77",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "location": "301 Moved Permanently",
+        "claim": "Correct answer: The resource has permanently changed address. The response supplies the new URL so the client can use it."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_server_error",
+    "status": "approved",
+    "sha256": "1fce0544a1c0c6334fe2a974052d63dd1e5c2e03b8656f5822e9f2ff769b8e8f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+        "location": "Server error responses; 500 Internal Server Error",
+        "claim": "Correct answer: Server errors. 5xx codes describe server-side errors; 500 is a generic internal-error code."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_ipv4_bits",
+    "status": "approved",
+    "sha256": "337d56130620e321338bb4a4509e0a40a3cb9e618ae5695c6f4ec4b663e0b806",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.rfc-editor.org/rfc/rfc791",
+        "location": "3.2 Discussion, Addressing: four octets (32 bits)",
+        "claim": "Correct answer: 32 bits. An address contains four octets, each a group of eight bits."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_tcp_order",
+    "status": "approved",
+    "sha256": "20d3fbccf1f39bf8bbd01f2e24931006c4b5855e09ca2bc6176d060b0f2e9aaf",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/TCP",
+        "location": "Opening paragraphs: delivery in order and reliability",
+        "claim": "Correct answer: Reliable, ordered byte delivery. TCP manages stream delivery; a separate protocol such as TLS provides encryption when needed."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_https_port",
+    "status": "approved",
+    "sha256": "07095ca79dd75d76602c14dbc9a90afeef5ec685473bd62a0c4f6cc8c10fe2a6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+        "location": "Authority: default ports 80 and 443",
+        "claim": "Correct answer: 443. A standard port can usually be omitted from the address bar."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_fragment",
+    "status": "approved",
+    "sha256": "2fc9e207841a1a91e0358b94fb88ee811d573a97052f16deda6c2a421cf1e10a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment",
+        "location": "Opening definition and usage notes",
+        "claim": "Correct answer: The fragment after #. A fragment can identify a page section or a time position in a media resource."
+      }
+    ]
+  },
+  {
+    "id": "internet_depth_ipv6_bits",
+    "status": "approved",
+    "sha256": "c28b1099ed916771cfaa401cdce2b3b23f96f7b74cbc3696221fd43fc4bd2638",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.rfc-editor.org/rfc/rfc8200",
+        "location": "1. Introduction: Expanded Addressing Capabilities",
+        "claim": "Correct answer: 128 bits. A larger address space is one of the main differences between IPv6 and IPv4."
+      }
+    ]
   }
 ]

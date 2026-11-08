@@ -178,5 +178,365 @@
         "location": "NHGRI Talking Glossary entries: amino acids, DNA, nucleus, mitosis, ribosome, DNA replication, adenine, mutation, RNA and nucleolus"
       }
     ]
+  },
+  {
+    "id": "biology_depth_mitochondria",
+    "status": "approved",
+    "sha256": "da3e2fe6cfa0de67623c1d334d7b4f2d376733c8a944c542acbc88f22c23370e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+        "location": "Key Terms: mitochondria",
+        "claim": "Correct answer: Mitochondria. ATP carries energy that the cell uses in its processes."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_lysosome",
+    "status": "approved",
+    "sha256": "8664feb35aa783d70d595b2c66f40b127a06b91d6b844851e650c39ebf77dcfc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+        "location": "Key Terms: lysosome",
+        "claim": "Correct answer: Lysosome. Lysosomes contain enzymes that break down various biological molecules."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_prokaryote",
+    "status": "approved",
+    "sha256": "628d3ab3fad64d213e33ca554bcd1a469819433c834b6a2df8b538a345c20d95",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/4-key-terms",
+        "location": "Key Terms: nucleoid; prokaryotic cell",
+        "claim": "Correct answer: A membrane-bound nucleus. Their DNA occupies a region of the cell called the nucleoid."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_osmosis",
+    "status": "approved",
+    "sha256": "4ce56afd3e3b287b6264444f78707ffe824e983e4ce502fcf75089d88858b01c",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+        "location": "Key Terms: osmosis",
+        "claim": "Correct answer: Osmosis. The net direction depends on solute concentrations on the two sides of the membrane."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_enzyme",
+    "status": "approved",
+    "sha256": "6df3d0f7b26f7ab94de0a98c276a156fed137d5b8e2506c9a4f8dc11370e53c9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+        "location": "Opening paragraphs: catalysts and lowered activation energy",
+        "claim": "Correct answer: To speed up chemical reactions. Enzymes act as catalysts, lowering a reaction's activation-energy barrier."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_homeostasis",
+    "status": "approved",
+    "sha256": "7366fe3e1839d12d7e7993ef8bd15873990f7cfa446f4bd4243af16abe30690f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology",
+        "location": "Properties of Life: Regulation and Homeostasis",
+        "claim": "Correct answer: Homeostasis. Regulation helps keep conditions suitable for cells as the external environment changes."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_allele",
+    "status": "approved",
+    "sha256": "9eae5d45f3a15966a4f41d4acbe6bcd07c3d3c674e3a1b9e17a50f662131419e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Allele",
+        "location": "Definition and homozygous/heterozygous alleles",
+        "claim": "Correct answer: Allele. In a diploid organism, the two copies of that location can carry the same or different variants."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_fungal_wall",
+    "status": "approved",
+    "sha256": "cb04ad28d086f73a0fd9db8797a70e34942441db32f0142b7fc76a4f16d4f657",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+        "location": "Cell Structure and Function: chitin and glucans",
+        "claim": "Correct answer: Chitin. Chitin strengthens the wall and also occurs in arthropod exoskeletons."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_diffusion",
+    "status": "approved",
+    "sha256": "c46fd4fe4e7163a0e43ff201d4ca77b611b2f3ff26bfbee6511b0168fe74b1c0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+        "location": "Key Terms: diffusion; passive transport",
+        "claim": "Correct answer: From higher to lower concentration. It is passive: movement down the gradient does not directly require the cell to spend ATP."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_active_transport",
+    "status": "approved",
+    "sha256": "5614c61b57d2cec2b72f4b28bc1c7f111e985e2bd03d382413c982b6d3cb35da",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/5-key-terms",
+        "location": "Key Terms: active transport; pump",
+        "claim": "Correct answer: It requires energy. Energy can, for example, drive substances against their electrochemical gradient."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_atp",
+    "status": "approved",
+    "sha256": "701cf9700c8f8c49a8e1f3c49cdef066452a1e60f530e807f52bb3f9d8b14b35",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/6-key-terms",
+        "location": "Key Terms: ATP; high-energy phosphate bond",
+        "claim": "Correct answer: Adenosine triphosphate. ATP has three phosphate groups; their transformations are linked to cellular energy transfer."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_binomial",
+    "status": "approved",
+    "sha256": "86ad28515a6e4dad104ff6869bce0e944d0bede840eb747cec28d3b33fe871e6",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+        "location": "Taxonomy: binomial nomenclature",
+        "claim": "Correct answer: Genus name and specific epithet. In binomial naming, the first word identifies the genus and begins with a capital letter."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_meiosis",
+    "status": "approved",
+    "sha256": "85dc4874592490181255c421445307b25d6abdbe5d6c2817b8bbb5d28870ac3a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Meiosis",
+        "location": "Definition: two divisions and haploid gametes",
+        "claim": "Correct answer: It is halved. In sexual reproduction, meiosis produces haploid cells, while fertilisation restores diploidy."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_genotype",
+    "status": "approved",
+    "sha256": "f088c223dde1b6a611728350ee49e1525f5f0e69fadfb6d54a7db35eb41a125f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/genotype",
+        "location": "Definition and BB/Bb/bb examples; original AA/Aa notation",
+        "claim": "Correct answer: Genotype. This notation describes genetic variants rather than just an observable trait."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_phenotype",
+    "status": "approved",
+    "sha256": "c1ab892d32ce4d76597510f56cf52f40c924ec71332007fca7bf0a2ffc634395",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Phenotype",
+        "location": "Definition: observable traits and environment",
+        "claim": "Correct answer: Its observable traits. Both genotype and environment influence how traits are expressed."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_bacteriophage",
+    "status": "approved",
+    "sha256": "e1b441e194a6ff87a0bc5e78018adf0125e18d7af1ff11e5c942a93736c76865",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+        "location": "Morphology: bacteriophages and T4",
+        "claim": "Correct answer: Bacteria. Bacteriophages are viruses; some have a head containing genetic material and a tail."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_taxonomic_family",
+    "status": "approved",
+    "sha256": "6459821c9a0ab8c44ebb83e471b08abafb504ac31a6c5091bb40d81ce3da2b65",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+        "location": "Taxonomy: ranks from kingdom to species",
+        "claim": "Correct answer: Family. This part of the hierarchy runs order, family, genus, species."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_mycorrhiza",
+    "status": "approved",
+    "sha256": "3b3f8073d069e8321f73a18f6dd29bea3f9f7c85cf73a6ae1c25a233ae5eb510",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+        "location": "Opening discussion of mycorrhizae",
+        "claim": "Correct answer: An association of a fungus and plant roots. In this association, the fungus and plant exchange resources, including water and nutrients."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_hyphae",
+    "status": "approved",
+    "sha256": "5644b4c2e30bdfa293e74bda8c4e4bd8a2d7141045e80d87547f735096c74ee1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/24-1-characteristics-of-fungi",
+        "location": "Growth: hyphae and mycelium",
+        "claim": "Correct answer: Hyphae. A network of hyphae forms a mycelium."
+      }
+    ]
+  },
+  {
+    "id": "biology_depth_capsid",
+    "status": "approved",
+    "sha256": "0aa2eb09951a9632ef72f986d714d17b73c8cd103f69d1f802907927a5769a28",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification",
+        "location": "Morphology: nucleic acid core, capsid and optional envelope",
+        "claim": "Correct answer: Capsid. Some viruses also have an additional outer membrane envelope."
+      }
+    ]
   }
 ]

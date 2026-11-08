@@ -178,5 +178,365 @@
         "url": "https://science.nasa.gov/mission/voyager/frequently-asked-questions/"
       }
     ]
+  },
+  {
+    "id": "space_technology_depth_sputnik",
+    "status": "approved",
+    "sha256": "e90536481b24f50f28e373aa26c9d3ddf62ac0d8e8cd58146a9fd155d94b4b01",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nasa.gov/history/sputnik/chronology.html",
+        "location": "Chronology: October 4 and November 3, 1957",
+        "claim": "Correct answer: 1957. The launch took place on 4 October; Sputnik 2 followed the next month."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_gagarin_craft",
+    "status": "approved",
+    "sha256": "1282ba6ad0b6e6836f4cf72f78edd58ccec638306cb08b3917582c35f6af448f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1",
+        "location": "Opening paragraphs and Launch",
+        "claim": "Correct answer: Vostok 1. The spacecraft launched from the Baikonur Cosmodrome."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_first_woman",
+    "status": "approved",
+    "sha256": "33e9174214b60f149560c9902ba2441771af3332cdbb190d95a00d5d065f57c0",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nasa.gov/history/sally-ride-first-american-woman-in-space/",
+        "location": "20th anniversary comparison and Tereshkova's flight",
+        "claim": "Correct answer: Valentina Tereshkova. Tereshkova flew aboard Vostok 6 in June 1963."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_first_spacewalk",
+    "status": "approved",
+    "sha256": "741b77f4a49b11aba8a7709f738c1e981fff1b031524a62e11b0979f1bdc60af",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nasa.gov/history/space-station-20th-spacewalking-history/",
+        "location": "Opening history: Leonov's first EVA",
+        "claim": "Correct answer: Alexei Leonov. Leonov left the Voskhod 2 airlock on 18 March 1965."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_webb_band",
+    "status": "approved",
+    "sha256": "48ece427bf1710570dacc5f3120822e051c8ac54c85f358b1214fa4b79c9a939",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/webb/",
+        "location": "Innovative design and five-layer sunshield",
+        "claim": "Correct answer: Infrared. A sunshield protects its instruments from radiation from the Sun, Earth and Moon."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_ingenuity",
+    "status": "approved",
+    "sha256": "acfe0f414526b236b896782d20016785d342e0f8c6a0a1666df18b709f339644",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "location": "First in Flight, 19 April 2021",
+        "claim": "Correct answer: Ingenuity. The helicopter travelled to Mars with the Perseverance rover."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_iss_power",
+    "status": "approved",
+    "sha256": "c82a4168bb4f72f2f0177ab6c3397491743b8763d3f55370810fdf8cdeeefc5b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nasa.gov/wp-content/uploads/2020/06/international_space_station_activity_kit.pdf",
+        "location": "Page 10, Solar Energy: Talking Points",
+        "claim": "Correct answer: Using solar arrays. Photovoltaic cells convert sunlight into electricity."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_rocket_staging",
+    "status": "approved",
+    "sha256": "a6ee504701dd337beb9a764e12c4619c6ac2a82e0fb1e23ff20ff2f54c7c5880",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/stage/",
+        "location": "Opening explanation of staging",
+        "claim": "Correct answer: To reduce the mass still being accelerated. After propellant is used, a spent stage's tanks and structure become unnecessary mass."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_hubble_launch",
+    "status": "approved",
+    "sha256": "85e5e077068bbed2bb71db5cff404fbd8dde63840befdc9cfff6c57ac5601a99",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/",
+        "location": "Launch: APR 24, 1990",
+        "claim": "Correct answer: 1990. Its launch date was 24 April 1990."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_curiosity_crater",
+    "status": "approved",
+    "sha256": "f2f3f6536a97981c0e9a7cae2fec36ecd48f15655efdd8835a753047b00c4f68",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/msl-curiosity/",
+        "location": "Landing Site: Gale Crater; mission purpose",
+        "claim": "Correct answer: Gale. There it studies rocks and conditions that could once have supported microbial life."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_perseverance_crater",
+    "status": "approved",
+    "sha256": "9e491477a9634b8f46903b0015329fec2edbec483999d8f7fec3789bd9c7e47d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+        "location": "Landing Site: Jezero Crater",
+        "claim": "Correct answer: Jezero. The area preserves evidence of an ancient lake and river delta."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_horizons_pluto",
+    "status": "approved",
+    "sha256": "4c6e716fc0305291a0d65ac9e6d690a3868b3d1bfae361037424d63e07063837",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/new-horizons/",
+        "location": "Overview: 14 July 2015 Pluto flyby",
+        "claim": "Correct answer: New Horizons. The flyby took place on 14 July after a multi-year journey from Earth."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_cassini_planet",
+    "status": "approved",
+    "sha256": "6e30f2b23c09dfdc272818f1333d2ae5fb7a302a8318e1647aa792d6ba10202f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/cassini/",
+        "location": "Mission to Saturn",
+        "claim": "Correct answer: Saturn. The mission studied the planet's rings and icy moons."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_huygens_titan",
+    "status": "approved",
+    "sha256": "dd74d9ebd3ca11dd8e06a779de0dcc2dd7521e56c9846d58ed537d4cd52a6f8f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.esa.int/Newsroom/Press_Releases/Europe_reaches_new_frontier_Huygens_lands_on_Titan",
+        "location": "Press release opening: successful landing on Titan",
+        "claim": "Correct answer: Titan. The probe travelled to the Saturn system aboard Cassini."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_philae_role",
+    "status": "approved",
+    "sha256": "4e2de868356e7b355d720b83018607b7e0a1c442b80fb07fbcdd5da2fff6525d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.esa.int/Newsroom/Press_Releases/Touchdown%21_Rosetta_s_Philae_probe_lands_on_comet",
+        "location": "12 November 2014; touchdown confirmation and first probe delivery",
+        "claim": "Correct answer: The first probe landing on a comet. The lander's signal was relayed to Earth through Rosetta."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_dawn_targets",
+    "status": "approved",
+    "sha256": "62569a21a7130792c0992e07680f7701ab9e8a2512face6050285993b7887949",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/dawn/",
+        "location": "Mission overview: extended stays at Vesta and Ceres",
+        "claim": "Correct answer: Vesta and Ceres. Both lie in the main asteroid belt between Mars and Jupiter."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_rosetta_comet",
+    "status": "approved",
+    "sha256": "f92ffa48ab37c0ed800ed39dd932ffc12caa63258961935ab33da8da1221febf",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta",
+        "location": "Mission introduction and target",
+        "claim": "Correct answer: 67P/Churyumov–Gerasimenko. The mission observed the nucleus and surrounding gas and dust as the comet travelled around the Sun."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_arrokoth",
+    "status": "approved",
+    "sha256": "2fe75b1a65ae96c986690a8091bf7eb0cf67127e05fc12c726eb5600055a2aa2",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/new-horizons/",
+        "location": "Overview: Arrokoth flyby in early 2019",
+        "claim": "Correct answer: Arrokoth. It was the spacecraft's second major science target after Pluto."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_dawn_xenon",
+    "status": "approved",
+    "sha256": "6be5314b552bace081a0d7fede2ddcd2e9acbb2ef8260a5ea597a15c8efb6eca",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/dawn/technology/ion-propulsion/",
+        "location": "Xenon propellant and electric acceleration of ions",
+        "claim": "Correct answer: Xenon. An electric field accelerated ions, producing a small but sustained thrust."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_depth_geostationary",
+    "status": "approved",
+    "sha256": "8a907ec39626990ad76369aeb6e2a61d36a2d916fda6737aae9d38927bb5cddc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/glossary/",
+        "location": "Geostationary and Geosynchronous entries",
+        "claim": "Correct answer: The equator. Its period matches Earth's rotation, so the satellite remains above one point on the equator."
+      }
+    ]
   }
 ]

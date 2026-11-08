@@ -438,5 +438,885 @@
       "https://animals.sandiegozoo.org/animals/platypus"
     ],
     "image": null
+  },
+  {
+    "id": "animals_depth_elephant_trunk",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Слиянием каких частей тела образован хобот слона?",
+        "explanation": "В хоботе нет костей; точные движения обеспечивают многочисленные мышцы."
+      },
+      "en": {
+        "question": "Which body parts fuse to form an elephant's trunk?",
+        "explanation": "The trunk has no bones; numerous muscles provide precise movement."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Носа и верхней губы",
+        "en": "The nose and upper lip"
+      },
+      {
+        "id": "o1",
+        "ru": "Нижней губы и подбородка",
+        "en": "The lower lip and chin"
+      },
+      {
+        "id": "o2",
+        "ru": "Языка и нёба",
+        "en": "The tongue and palate"
+      },
+      {
+        "id": "o3",
+        "ru": "Щёк и нижней челюсти",
+        "en": "The cheeks and lower jaw"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/asian-elephant"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_koala_group",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе млекопитающих относится коала?",
+        "explanation": "Детёныш рождается недоразвитым и продолжает расти в сумке матери."
+      },
+      "en": {
+        "question": "To which mammal group does the koala belong?",
+        "explanation": "The young is born undeveloped and continues growing in its mother's pouch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сумчатые",
+        "en": "Marsupials"
+      },
+      {
+        "id": "o1",
+        "ru": "Медвежьи",
+        "en": "Bears"
+      },
+      {
+        "id": "o2",
+        "ru": "Грызуны",
+        "en": "Rodents"
+      },
+      {
+        "id": "o3",
+        "ru": "Приматы",
+        "en": "Primates"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/koala"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_koala_food",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Листья каких деревьев составляют основу рациона коал?",
+        "explanation": "Коалы выбирают определённые виды эвкалиптов, а не одинаково охотно едят любую листву."
+      },
+      "en": {
+        "question": "Leaves of which trees make up the basis of a koala's diet?",
+        "explanation": "Koalas select particular eucalypt species rather than eating all foliage equally readily."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эвкалиптов",
+        "en": "Eucalypts"
+      },
+      {
+        "id": "o1",
+        "ru": "Клёнов",
+        "en": "Maples"
+      },
+      {
+        "id": "o2",
+        "ru": "Берёз",
+        "en": "Birches"
+      },
+      {
+        "id": "o3",
+        "ru": "Дубов",
+        "en": "Oaks"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/koala"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_capybara_group",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе относится капибара?",
+        "explanation": "Капибара родственна морским свинкам и считается крупнейшим современным грызуном."
+      },
+      "en": {
+        "question": "To which group does the capybara belong?",
+        "explanation": "The capybara is related to guinea pigs and is the largest living rodent."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Грызуны",
+        "en": "Rodents"
+      },
+      {
+        "id": "o1",
+        "ru": "Свиньи",
+        "en": "Pigs"
+      },
+      {
+        "id": "o2",
+        "ru": "Непарнокопытные",
+        "en": "Odd-toed ungulates"
+      },
+      {
+        "id": "o3",
+        "ru": "Приматы",
+        "en": "Primates"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/capybara"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_axolotl_group",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто такой аксолотль с точки зрения зоологии?",
+        "explanation": "Он относится к саламандрам и сохраняет некоторые личиночные признаки во взрослом состоянии."
+      },
+      "en": {
+        "question": "What is an axolotl zoologically?",
+        "explanation": "It belongs to the salamanders and retains some larval characteristics as an adult."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хвостатое земноводное",
+        "en": "A salamander"
+      },
+      {
+        "id": "o1",
+        "ru": "Костная рыба",
+        "en": "A bony fish"
+      },
+      {
+        "id": "o2",
+        "ru": "Водная ящерица",
+        "en": "An aquatic lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Морской моллюск",
+        "en": "A marine mollusc"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/axolotl"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_flamingo_colour",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Откуда фламинго получают пигменты, придающие оперению розовый цвет?",
+        "explanation": "Каротиноиды поступают с водорослями и мелкими ракообразными."
+      },
+      "en": {
+        "question": "Where do flamingos obtain pigments that give their plumage a pink colour?",
+        "explanation": "Carotenoids come from algae and small crustaceans."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Из пищи",
+        "en": "From food"
+      },
+      {
+        "id": "o1",
+        "ru": "Только из морской соли",
+        "en": "Only from sea salt"
+      },
+      {
+        "id": "o2",
+        "ru": "Только из солнечного света",
+        "en": "Only from sunlight"
+      },
+      {
+        "id": "o3",
+        "ru": "Из растворённого в воде железа",
+        "en": "From iron dissolved in water"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/flamingo"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_bat_flight",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие млекопитающие способны к активному машущему полёту?",
+        "explanation": "В отличие от планирования, такой полёт создаёт тягу взмахами крыльев."
+      },
+      "en": {
+        "question": "Which mammals are capable of powered flapping flight?",
+        "explanation": "Unlike gliding, this flight generates thrust by flapping the wings."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Летучие мыши",
+        "en": "Bats"
+      },
+      {
+        "id": "o1",
+        "ru": "Белки-летяги",
+        "en": "Flying squirrels"
+      },
+      {
+        "id": "o2",
+        "ru": "Шерстокрылы",
+        "en": "Colugos"
+      },
+      {
+        "id": "o3",
+        "ru": "Сахарные поссумы",
+        "en": "Sugar gliders"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/bat"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_komodo_group",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе пресмыкающихся относится комодский варан?",
+        "explanation": "Это крупнейшая из современных ящериц, обитающая на нескольких индонезийских островах."
+      },
+      "en": {
+        "question": "To which reptile group does the Komodo dragon belong?",
+        "explanation": "It is the largest living lizard and inhabits several Indonesian islands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ящерицы",
+        "en": "Lizards"
+      },
+      {
+        "id": "o1",
+        "ru": "Крокодилы",
+        "en": "Crocodiles"
+      },
+      {
+        "id": "o2",
+        "ru": "Черепахи",
+        "en": "Turtles"
+      },
+      {
+        "id": "o3",
+        "ru": "Клювоголовые",
+        "en": "Rhynchocephalians"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/komodo-dragon"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_elephant_tusks",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие зубы преобразованы в бивни слона?",
+        "explanation": "Бивни продолжают расти в течение жизни и используются не только для защиты."
+      },
+      "en": {
+        "question": "Which teeth are modified into elephant tusks?",
+        "explanation": "Tusks continue growing throughout life and are used for more than defence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Верхние резцы",
+        "en": "Upper incisors"
+      },
+      {
+        "id": "o1",
+        "ru": "Нижние клыки",
+        "en": "Lower canines"
+      },
+      {
+        "id": "o2",
+        "ru": "Верхние коренные",
+        "en": "Upper molars"
+      },
+      {
+        "id": "o3",
+        "ru": "Нижние предкоренные",
+        "en": "Lower premolars"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/asian-elephant"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_red_panda_family",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому семейству относят малых панд?",
+        "explanation": "Несмотря на общее название, малая и большая панды принадлежат к разным семействам."
+      },
+      "en": {
+        "question": "To which family do red pandas belong?",
+        "explanation": "Despite their shared common name, red and giant pandas belong to different families."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малопандовые, Ailuridae",
+        "en": "Ailuridae"
+      },
+      {
+        "id": "o1",
+        "ru": "Медвежьи, Ursidae",
+        "en": "Ursidae"
+      },
+      {
+        "id": "o2",
+        "ru": "Енотовые, Procyonidae",
+        "en": "Procyonidae"
+      },
+      {
+        "id": "o3",
+        "ru": "Кошачьи, Felidae",
+        "en": "Felidae"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/red-panda"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_orangutan_range",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каких островах находятся естественные места обитания орангутанов?",
+        "explanation": "Они живут в лесах и большую часть времени проводят на деревьях."
+      },
+      "en": {
+        "question": "On which islands do orangutans naturally occur?",
+        "explanation": "They live in forests and spend much of their time in trees."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Борнео и Суматра",
+        "en": "Borneo and Sumatra"
+      },
+      {
+        "id": "o1",
+        "ru": "Мадагаскар и Коморы",
+        "en": "Madagascar and the Comoros"
+      },
+      {
+        "id": "o2",
+        "ru": "Куба и Ямайка",
+        "en": "Cuba and Jamaica"
+      },
+      {
+        "id": "o3",
+        "ru": "Тасмания и Новая Зеландия",
+        "en": "Tasmania and New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/orangutan"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_orangutan_limbs",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая особенность пропорций тела помогает орангутану передвигаться по деревьям?",
+        "explanation": "Длинные руки и хватательные кисти и стопы помогают распределять вес между ветвями."
+      },
+      "en": {
+        "question": "Which body proportion helps an orangutan move through trees?",
+        "explanation": "Long arms and grasping hands and feet help distribute weight among branches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Руки заметно длиннее ног",
+        "en": "Arms much longer than legs"
+      },
+      {
+        "id": "o1",
+        "ru": "Ноги заметно длиннее рук",
+        "en": "Legs much longer than arms"
+      },
+      {
+        "id": "o2",
+        "ru": "Хватательный хвост длиннее тела",
+        "en": "A prehensile tail longer than the body"
+      },
+      {
+        "id": "o3",
+        "ru": "Очень короткие предплечья",
+        "en": "Very short forearms"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/orangutan"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_capybara_water",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая особенность лап помогает капибаре плавать?",
+        "explanation": "Капибары используют водоёмы для питания и укрытия от опасности."
+      },
+      "en": {
+        "question": "Which foot feature helps a capybara swim?",
+        "explanation": "Capybaras use water for feeding and shelter from danger."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Небольшие перепонки между пальцами",
+        "en": "Partly webbed toes"
+      },
+      {
+        "id": "o1",
+        "ru": "Сплошная жёсткая подошва без пальцев",
+        "en": "A solid, rigid sole without toes"
+      },
+      {
+        "id": "o2",
+        "ru": "Очень длинные пальцы без перепонок",
+        "en": "Very long toes without webbing"
+      },
+      {
+        "id": "o3",
+        "ru": "Широкие раздвоенные копыта",
+        "en": "Broad cloven hooves"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/capybara"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_flamingo_feeding",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как фламинго добывают мелкую пищу из воды и ила?",
+        "explanation": "При кормлении клюв обычно перевёрнут, а пластинки удерживают частицы пищи."
+      },
+      "en": {
+        "question": "How do flamingos obtain small food items from water and mud?",
+        "explanation": "During feeding, the bill is usually inverted and its plates retain food particles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Процеживают воду пластинками в клюве",
+        "en": "Filter water through plates in the bill"
+      },
+      {
+        "id": "o1",
+        "ru": "Прокалывают добычу прямым копьевидным клювом",
+        "en": "Spear prey with a straight, spear-shaped bill"
+      },
+      {
+        "id": "o2",
+        "ru": "Разрывают крупную добычу крючковатым клювом",
+        "en": "Tear large prey with a hooked bill"
+      },
+      {
+        "id": "o3",
+        "ru": "Собирают только сухие семена коническим клювом",
+        "en": "Collect only dry seeds with a conical bill"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/flamingo"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_bat_echolocation",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как многие насекомоядные летучие мыши находят добычу в темноте?",
+        "explanation": "Эхолокация помогает различать препятствия и летящих насекомых."
+      },
+      "en": {
+        "question": "How do many insect-eating bats locate prey in darkness?",
+        "explanation": "Echolocation helps distinguish obstacles and flying insects."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "По отражению собственных звуков",
+        "en": "By echoes of their own sounds"
+      },
+      {
+        "id": "o1",
+        "ru": "Только по поляризации лунного света",
+        "en": "Only by polarised moonlight"
+      },
+      {
+        "id": "o2",
+        "ru": "Только по следам на земле",
+        "en": "Only by tracks on the ground"
+      },
+      {
+        "id": "o3",
+        "ru": "По электрическим разрядам жертвы",
+        "en": "By electrical discharges from prey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/bat"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_armadillo_group",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому классу животных относятся броненосцы?",
+        "explanation": "Защитный панцирь не делает их черепахами: у броненосцев есть шерсть и молочное вскармливание."
+      },
+      "en": {
+        "question": "To which animal class do armadillos belong?",
+        "explanation": "Their protective armour does not make them turtles: armadillos have hair and nurse their young."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Млекопитающие",
+        "en": "Mammals"
+      },
+      {
+        "id": "o1",
+        "ru": "Пресмыкающиеся",
+        "en": "Reptiles"
+      },
+      {
+        "id": "o2",
+        "ru": "Земноводные",
+        "en": "Amphibians"
+      },
+      {
+        "id": "o3",
+        "ru": "Птицы",
+        "en": "Birds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/armadillo"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_red_panda_ankles",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая особенность помогает малой панде спускаться по стволу головой вниз?",
+        "explanation": "Поворот задних лап помогает сохранять хватку на стволе."
+      },
+      "en": {
+        "question": "Which adaptation helps a red panda descend a tree headfirst?",
+        "explanation": "Rotation of the hind feet helps maintain a grip on the trunk."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Очень подвижные голеностопные суставы",
+        "en": "Highly flexible ankles"
+      },
+      {
+        "id": "o1",
+        "ru": "Сросшиеся передние лапы",
+        "en": "Fused forefeet"
+      },
+      {
+        "id": "o2",
+        "ru": "Жёсткий неподвижный хвост",
+        "en": "A rigid immobile tail"
+      },
+      {
+        "id": "o3",
+        "ru": "Отсутствие когтей на лапах",
+        "en": "Clawless feet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/red-panda"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_komodo_smell",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как комодский варан использует раздвоенный язык при поиске пищи?",
+        "explanation": "Пробуя воздух языком, варан получает информацию о запахах вокруг."
+      },
+      "en": {
+        "question": "How does a Komodo dragon use its forked tongue when searching for food?",
+        "explanation": "Sampling the air with its tongue gives the lizard information about surrounding scents."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Собирает химические частицы из воздуха",
+        "en": "It samples airborne chemical particles"
+      },
+      {
+        "id": "o1",
+        "ru": "Использует его как главный орган осязания",
+        "en": "It uses it as its main touch organ"
+      },
+      {
+        "id": "o2",
+        "ru": "Издаёт звуки для эхолокации",
+        "en": "It produces sounds for echolocation"
+      },
+      {
+        "id": "o3",
+        "ru": "Определяет тепловое излучение добычи",
+        "en": "It detects the prey's thermal radiation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/komodo-dragon"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_axolotl_neoteny",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют сохранение личиночных признаков у взрослого аксолотля?",
+        "explanation": "Аксолотль обычно сохраняет наружные перистые жабры и водный образ жизни."
+      },
+      "en": {
+        "question": "What is retention of larval characteristics in an adult axolotl called?",
+        "explanation": "Axolotls normally retain feathery external gills and an aquatic lifestyle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Неотения",
+        "en": "Neoteny"
+      },
+      {
+        "id": "o1",
+        "ru": "Партеногенез",
+        "en": "Parthenogenesis"
+      },
+      {
+        "id": "o2",
+        "ru": "Мимикрия",
+        "en": "Mimicry"
+      },
+      {
+        "id": "o3",
+        "ru": "Гибернация",
+        "en": "Hibernation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/axolotl"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_depth_armadillo_ball",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие броненосцы способны полностью сворачиваться в защитный шар?",
+        "explanation": "Головной щиток закрывает отверстие, оставшееся при сворачивании."
+      },
+      "en": {
+        "question": "Which armadillos can roll fully into a protective ball?",
+        "explanation": "The head plate seals the opening left when the animal curls up."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трёхпоясные",
+        "en": "Three-banded armadillos"
+      },
+      {
+        "id": "o1",
+        "ru": "Девятипоясные",
+        "en": "Nine-banded armadillos"
+      },
+      {
+        "id": "o2",
+        "ru": "Гигантские",
+        "en": "Giant armadillos"
+      },
+      {
+        "id": "o3",
+        "ru": "Плащеносные",
+        "en": "Pink fairy armadillos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/armadillo"
+    ],
+    "image": null
   }
 ]

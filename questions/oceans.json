@@ -438,5 +438,885 @@
       "https://oceanservice.noaa.gov/facts/coral.html"
     ],
     "image": null
+  },
+  {
+    "id": "oceans_depth_pacific",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой океан самый большой по площади?",
+        "explanation": "Тихоокеанский бассейн также является самым глубоким среди океанских бассейнов."
+      },
+      "en": {
+        "question": "Which ocean has the largest surface area?",
+        "explanation": "The Pacific basin is also the deepest ocean basin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тихий",
+        "en": "Pacific"
+      },
+      {
+        "id": "o1",
+        "ru": "Атлантический",
+        "en": "Atlantic"
+      },
+      {
+        "id": "o2",
+        "ru": "Индийский",
+        "en": "Indian"
+      },
+      {
+        "id": "o3",
+        "ru": "Северный Ледовитый",
+        "en": "Arctic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/biggestocean.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_arctic",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой океан наименьший по площади?",
+        "explanation": "Южный океан больше него, а Индийский занимает третье место по площади."
+      },
+      "en": {
+        "question": "Which ocean has the smallest surface area?",
+        "explanation": "The Southern Ocean is larger, while the Indian Ocean ranks third by area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северный Ледовитый",
+        "en": "Arctic"
+      },
+      {
+        "id": "o1",
+        "ru": "Индийский",
+        "en": "Indian"
+      },
+      {
+        "id": "o2",
+        "ru": "Атлантический",
+        "en": "Atlantic"
+      },
+      {
+        "id": "o3",
+        "ru": "Южный",
+        "en": "Southern"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/biggestocean.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_surface_waves",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что чаще всего вызывает обычные волны на поверхности океана?",
+        "explanation": "Трение ветра о воду передаёт ей энергию и создаёт волны."
+      },
+      "en": {
+        "question": "What most commonly causes ordinary ocean surface waves?",
+        "explanation": "Wind transfers energy to water through friction, generating waves."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ветер",
+        "en": "Wind"
+      },
+      {
+        "id": "o1",
+        "ru": "Подводные землетрясения",
+        "en": "Undersea earthquakes"
+      },
+      {
+        "id": "o2",
+        "ru": "Притяжение Луны",
+        "en": "The Moon's gravitational pull"
+      },
+      {
+        "id": "o3",
+        "ru": "Подводные оползни",
+        "en": "Undersea landslides"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/wavesinocean.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_gulfstream",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих течений тёплое и проходит в западной части Северной Атлантики?",
+        "explanation": "Гольфстрим идёт вдоль Флориды, затем поворачивает к востоку у Северной Каролины."
+      },
+      "en": {
+        "question": "Which of these is a warm current in the western North Atlantic?",
+        "explanation": "The Gulf Stream runs along Florida, then turns east near North Carolina."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гольфстрим",
+        "en": "Gulf Stream"
+      },
+      {
+        "id": "o1",
+        "ru": "Лабрадорское",
+        "en": "Labrador Current"
+      },
+      {
+        "id": "o2",
+        "ru": "Перуанское",
+        "en": "Peru Current"
+      },
+      {
+        "id": "o3",
+        "ru": "Канарское",
+        "en": "Canary Current"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/gulfstreamspeed.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_tsunami",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что может вызвать цунами?",
+        "explanation": "Цунами не является обычным приливом; его волны могут пересекать океанский бассейн."
+      },
+      "en": {
+        "question": "What can cause a tsunami?",
+        "explanation": "A tsunami is not an ordinary tide; its waves can cross an ocean basin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Резкое смещение морского дна при землетрясении",
+        "en": "Sudden seafloor displacement in an earthquake"
+      },
+      {
+        "id": "o1",
+        "ru": "Обычный ветер над поверхностью моря",
+        "en": "Ordinary wind over the sea surface"
+      },
+      {
+        "id": "o2",
+        "ru": "Регулярная смена приливов и отливов",
+        "en": "The regular tidal cycle"
+      },
+      {
+        "id": "o3",
+        "ru": "Сезонное испарение с поверхности",
+        "en": "Seasonal surface evaporation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/tsunami.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_plankton",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют организмы, которые переносятся течениями и не могут достаточно хорошо плыть против них?",
+        "explanation": "К планктону относят и животных, и фотосинтезирующие организмы."
+      },
+      "en": {
+        "question": "What are organisms carried by currents that cannot swim strongly enough against them called?",
+        "explanation": "Plankton includes both animals and photosynthetic organisms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Планктон",
+        "en": "Plankton"
+      },
+      {
+        "id": "o1",
+        "ru": "Нектон",
+        "en": "Nekton"
+      },
+      {
+        "id": "o2",
+        "ru": "Бентос",
+        "en": "Benthos"
+      },
+      {
+        "id": "o3",
+        "ru": "Наземная фауна",
+        "en": "Terrestrial fauna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/plankton.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_sonar",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие волны использует активный сонар для обнаружения объектов под водой?",
+        "explanation": "Прибор посылает импульс и принимает отражённый от объекта сигнал."
+      },
+      "en": {
+        "question": "What waves does active sonar use to detect underwater objects?",
+        "explanation": "The instrument sends a pulse and receives a signal reflected from the object."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Звуковые",
+        "en": "Sound waves"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиоволны метрового диапазона",
+        "en": "Metre-band radio waves"
+      },
+      {
+        "id": "o2",
+        "ru": "Ультрафиолетовые",
+        "en": "Ultraviolet waves"
+      },
+      {
+        "id": "o3",
+        "ru": "Рентгеновские",
+        "en": "X-rays"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/sonar.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_mangroves",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где обычно растут мангровые леса?",
+        "explanation": "Их корневая система удерживает осадки и помогает защищать берег от эрозии."
+      },
+      "en": {
+        "question": "Where do mangrove forests typically grow?",
+        "explanation": "Their root systems trap sediments and help protect coasts from erosion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В тропической и субтропической приливной зоне",
+        "en": "In tropical and subtropical intertidal zones"
+      },
+      {
+        "id": "o1",
+        "ru": "У берегов полярных ледников",
+        "en": "Along polar glacier coasts"
+      },
+      {
+        "id": "o2",
+        "ru": "В умеренных высокогорьях",
+        "en": "In temperate high mountains"
+      },
+      {
+        "id": "o3",
+        "ru": "В засушливых континентальных пустынях",
+        "en": "In arid continental deserts"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/mangroves.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_thermocline",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется слой воды, в котором температура быстро меняется с глубиной?",
+        "explanation": "В океане он часто разделяет тёплый перемешанный поверхностный слой и холодную глубинную воду."
+      },
+      "en": {
+        "question": "What is a water layer in which temperature changes rapidly with depth called?",
+        "explanation": "In the ocean, it often separates warm mixed surface water from colder deep water."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Термоклин",
+        "en": "Thermocline"
+      },
+      {
+        "id": "o1",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o2",
+        "ru": "Приливной фронт",
+        "en": "Tidal front"
+      },
+      {
+        "id": "o3",
+        "ru": "Континентальный склон",
+        "en": "Continental slope"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/thermocline.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_upwelling",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Почему районы апвеллинга часто богаты морской жизнью?",
+        "explanation": "Глубинная вода обычно холоднее и приносит вещества, повышающие продуктивность поверхностного слоя."
+      },
+      "en": {
+        "question": "Why are upwelling regions often rich in marine life?",
+        "explanation": "Deep water is usually colder and supplies nutrients that increase surface productivity."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "К поверхности поднимается вода с питательными веществами",
+        "en": "Nutrient-rich water rises to the surface"
+      },
+      {
+        "id": "o1",
+        "ru": "Поднимающаяся вода всегда теплее поверхностной",
+        "en": "The rising water is always warmer than surface water"
+      },
+      {
+        "id": "o2",
+        "ru": "Подъём воды удаляет все питательные вещества",
+        "en": "The rising water removes all nutrients"
+      },
+      {
+        "id": "o3",
+        "ru": "Планктон получает энергию непосредственно от приливов",
+        "en": "Plankton obtains energy directly from tides"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/upwelling.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_gyre",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что называют океаническим круговоротом, или gyre?",
+        "explanation": "Такие устойчивые системы включают, например, Североатлантический субтропический круговорот."
+      },
+      "en": {
+        "question": "What is an ocean gyre?",
+        "explanation": "Such persistent systems include the North Atlantic Subtropical Gyre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крупную систему вращающихся течений",
+        "en": "A large system of rotating currents"
+      },
+      {
+        "id": "o1",
+        "ru": "Область резкого изменения температуры по глубине",
+        "en": "A zone of rapid temperature change with depth"
+      },
+      {
+        "id": "o2",
+        "ru": "Зону подъёма глубинной воды",
+        "en": "A zone of rising deep water"
+      },
+      {
+        "id": "o3",
+        "ru": "Линию равной глубины на карте",
+        "en": "A line of equal depth on a map"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/gyre.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_zooplankton",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой группе планктона относят криль?",
+        "explanation": "Криль — мелкие ракообразные, которыми питаются многие крупные морские животные."
+      },
+      "en": {
+        "question": "To which plankton group does krill belong?",
+        "explanation": "Krill are small crustaceans eaten by many large marine animals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зоопланктон",
+        "en": "Zooplankton"
+      },
+      {
+        "id": "o1",
+        "ru": "Фитопланктон",
+        "en": "Phytoplankton"
+      },
+      {
+        "id": "o2",
+        "ru": "Бактериопланктон",
+        "en": "Bacterioplankton"
+      },
+      {
+        "id": "o3",
+        "ru": "Вирусный планктон",
+        "en": "Viral plankton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/plankton.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_ridge",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой геологический процесс создаёт систему срединно-океанических хребтов?",
+        "explanation": "Большая часть этой глобальной горной системы скрыта под водой."
+      },
+      "en": {
+        "question": "Which geological process creates the mid-ocean ridge system?",
+        "explanation": "Most of this global mountain system lies underwater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Движение тектонических плит и подводный вулканизм",
+        "en": "Plate motion and submarine volcanism"
+      },
+      {
+        "id": "o1",
+        "ru": "Накопление речных осадков в дельтах",
+        "en": "Deposition of river sediment in deltas"
+      },
+      {
+        "id": "o2",
+        "ru": "Разрастание коралловых рифов",
+        "en": "Coral-reef growth"
+      },
+      {
+        "id": "o3",
+        "ru": "Размыв дна мощными течениями",
+        "en": "Seafloor erosion by strong currents"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/midoceanridge.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_bathymetry",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что показывает батиметрическая карта?",
+        "explanation": "Линии равной глубины на такой карте называют изобатами."
+      },
+      "en": {
+        "question": "What does a bathymetric map show?",
+        "explanation": "Lines joining equal depths on such a map are called isobaths."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Глубины и рельеф дна",
+        "en": "Depths and seafloor relief"
+      },
+      {
+        "id": "o1",
+        "ru": "Температуру воды у поверхности",
+        "en": "Surface-water temperature"
+      },
+      {
+        "id": "o2",
+        "ru": "Направления и скорости течений",
+        "en": "Current directions and speeds"
+      },
+      {
+        "id": "o3",
+        "ru": "Распределение атмосферных осадков",
+        "en": "Precipitation distribution"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/bathymetry.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_deepest_trench",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком желобе находится Бездна Челленджера?",
+        "explanation": "Это глубочайший известный участок Мирового океана, расположенный в западной части Тихого океана."
+      },
+      "en": {
+        "question": "In which trench is Challenger Deep located?",
+        "explanation": "It is the deepest known part of the world ocean, in the western Pacific."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марианском",
+        "en": "Mariana"
+      },
+      {
+        "id": "o1",
+        "ru": "Пуэрто-Рико",
+        "en": "Puerto Rico"
+      },
+      {
+        "id": "o2",
+        "ru": "Яванском",
+        "en": "Java"
+      },
+      {
+        "id": "o3",
+        "ru": "Перуанско-Чилийском",
+        "en": "Peru–Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/oceandepth.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_bioluminescence",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется образование света живыми организмами за счёт химических реакций?",
+        "explanation": "В море такое свечение может служить для связи, привлечения добычи или защиты."
+      },
+      "en": {
+        "question": "What is light production by living organisms through chemical reactions called?",
+        "explanation": "At sea, such light can serve communication, prey attraction or defence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Биолюминесценция",
+        "en": "Bioluminescence"
+      },
+      {
+        "id": "o1",
+        "ru": "Фотосинтез",
+        "en": "Photosynthesis"
+      },
+      {
+        "id": "o2",
+        "ru": "Эхолокация",
+        "en": "Echolocation"
+      },
+      {
+        "id": "o3",
+        "ru": "Терморегуляция",
+        "en": "Thermoregulation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/biolum.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_passive_sonar",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чем пассивный сонар отличается от активного?",
+        "explanation": "Пассивные системы могут обнаруживать шум судов, подлодок и морских животных."
+      },
+      "en": {
+        "question": "How does passive sonar differ from active sonar?",
+        "explanation": "Passive systems can detect noise from ships, submarines and marine animals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Он слушает звуки, не посылая собственный импульс",
+        "en": "It listens without sending its own pulse"
+      },
+      {
+        "id": "o1",
+        "ru": "Он использует только ультрафиолет",
+        "en": "It uses only ultraviolet light"
+      },
+      {
+        "id": "o2",
+        "ru": "Он не регистрирует звуки животных",
+        "en": "It cannot detect animal sounds"
+      },
+      {
+        "id": "o3",
+        "ru": "Он работает только в пресной воде",
+        "en": "It works only in fresh water"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/sonar.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_black_smoker",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие отложения придают «чёрным курильщикам» характерный чёрный цвет?",
+        "explanation": "Минералы осаждаются при смешении горячих гидротермальных растворов с холодной морской водой."
+      },
+      "en": {
+        "question": "Which deposits give black-smoker chimneys their characteristic dark colour?",
+        "explanation": "Minerals precipitate when hot hydrothermal fluids mix with cold seawater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сульфиды железа",
+        "en": "Iron sulfides"
+      },
+      {
+        "id": "o1",
+        "ru": "Карбонат кальция",
+        "en": "Calcium carbonate"
+      },
+      {
+        "id": "o2",
+        "ru": "Хлорид натрия",
+        "en": "Sodium chloride"
+      },
+      {
+        "id": "o3",
+        "ru": "Сульфат бария",
+        "en": "Barium sulfate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/vents.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_vent_boiling",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Почему вода у глубоководного гидротермального источника может оставаться жидкой при температуре выше 100 °C?",
+        "explanation": "Температура кипения зависит от давления и на большой глубине выше, чем у поверхности."
+      },
+      "en": {
+        "question": "Why can water at a deep hydrothermal vent remain liquid above 100°C?",
+        "explanation": "Boiling temperature depends on pressure and is higher at great depth than at the surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Из-за высокого давления",
+        "en": "Because of high pressure"
+      },
+      {
+        "id": "o1",
+        "ru": "Из-за отсутствия растворённого кислорода",
+        "en": "Because dissolved oxygen is absent"
+      },
+      {
+        "id": "o2",
+        "ru": "Из-за нулевой солёности",
+        "en": "Because salinity is zero"
+      },
+      {
+        "id": "o3",
+        "ru": "Из-за низкой теплопроводности воды",
+        "en": "Because water has low thermal conductivity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/vents.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_depth_seamount",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как обычно образуются подводные горы — seamounts?",
+        "explanation": "Такая гора поднимается над окружающим дном, но её вершина не достигает поверхности моря."
+      },
+      "en": {
+        "question": "How do seamounts usually form?",
+        "explanation": "Such a mountain rises above the surrounding seafloor, but its summit does not reach the sea surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В результате вулканической деятельности",
+        "en": "Through volcanic activity"
+      },
+      {
+        "id": "o1",
+        "ru": "Из речных осадков в дельте",
+        "en": "From river deposits in a delta"
+      },
+      {
+        "id": "o2",
+        "ru": "Только за счёт роста кораллов",
+        "en": "Only through coral growth"
+      },
+      {
+        "id": "o3",
+        "ru": "Из-за размыва дна течениями",
+        "en": "Through seafloor erosion by currents"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/seamounts.html"
+    ],
+    "image": null
   }
 ]

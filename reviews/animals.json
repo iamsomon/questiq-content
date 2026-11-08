@@ -178,5 +178,365 @@
         "claim": "In what kind of water do platypuses usually forage? Answer: Fresh water. They live mainly in streams, rivers, lakes and ponds."
       }
     ]
+  },
+  {
+    "id": "animals_depth_elephant_trunk",
+    "status": "approved",
+    "sha256": "821fe66a547f868eb3825fe2c0cfd50e389c4588e815041d5069ceef6b0361f2",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+        "location": "Physical Description: trunk",
+        "claim": "Correct answer: The nose and upper lip. The trunk has no bones; numerous muscles provide precise movement."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_koala_group",
+    "status": "approved",
+    "sha256": "cbb2ca67f621b63d2f8edcbf7cb9a8a50ff6e3d468804d077bd9d8006210b6c4",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/koala",
+        "location": "About; Family Life: marsupials and joey development",
+        "claim": "Correct answer: Marsupials. The young is born undeveloped and continues growing in its mother's pouch."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_koala_food",
+    "status": "approved",
+    "sha256": "dfef3b847adf9c63547b4c00bbd6b4861e75b7f90ab46a086243399eeb3eddaa",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/koala",
+        "location": "Food and Eating Habits",
+        "claim": "Correct answer: Eucalypts. Koalas select particular eucalypt species rather than eating all foliage equally readily."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_capybara_group",
+    "status": "approved",
+    "sha256": "2d956c47b4dd8c7b1a265f566cbb211d88ec771d2cd841d78f305b08d99df0c1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/capybara",
+        "location": "About: rodent classification",
+        "claim": "Correct answer: Rodents. The capybara is related to guinea pigs and is the largest living rodent."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_axolotl_group",
+    "status": "approved",
+    "sha256": "f21f5695cdd81d08b77aed6d5de4f0360be19d793962da39b62e891363906a4e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/axolotl",
+        "location": "About: salamander and neoteny",
+        "claim": "Correct answer: A salamander. It belongs to the salamanders and retains some larval characteristics as an adult."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_flamingo_colour",
+    "status": "approved",
+    "sha256": "5cfbb383920b10b00df85dea59a8cb3cccd338b2392e49524cd4cdb012b8c0dc",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/flamingo",
+        "location": "About: carotenoid pigments",
+        "claim": "Correct answer: From food. Carotenoids come from algae and small crustaceans."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_bat_flight",
+    "status": "approved",
+    "sha256": "ae0e261d7e207891daaf9f44b35eb7bec0091771642b0d266ea37c02975a4f2d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/bat",
+        "location": "About: only mammals capable of true flight",
+        "claim": "Correct answer: Bats. Unlike gliding, this flight generates thrust by flapping the wings."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_komodo_group",
+    "status": "approved",
+    "sha256": "bc1d7b5d5730bcb26963436f829043fa632ee28b87c5473d31db391663b70e67",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/komodo-dragon",
+        "location": "Opening description and Native Habitat",
+        "claim": "Correct answer: Lizards. It is the largest living lizard and inhabits several Indonesian islands."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_elephant_tusks",
+    "status": "approved",
+    "sha256": "40388878b85246cdebf0fc123d3f041d2757f6bf664eccdcf32d7cb424879931",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/asian-elephant",
+        "location": "Physical Description: tusks as modified upper incisors",
+        "claim": "Correct answer: Upper incisors. Tusks continue growing throughout life and are used for more than defence."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_red_panda_family",
+    "status": "approved",
+    "sha256": "219cb864658a31d222a23ec7982906d56a9d93aaeb1b060cd8ab954650a91781",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/red-panda",
+        "location": "Physical Description: independent family Ailuridae",
+        "claim": "Correct answer: Ailuridae. Despite their shared common name, red and giant pandas belong to different families."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_orangutan_range",
+    "status": "approved",
+    "sha256": "0cdb91a77335712bba5be899fc758ca93603e45fc43df3e157ac516b109f2450",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/orangutan",
+        "location": "Native Habitat",
+        "claim": "Correct answer: Borneo and Sumatra. They live in forests and spend much of their time in trees."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_orangutan_limbs",
+    "status": "approved",
+    "sha256": "3daddde6e3700e7c082e7063180b70beb1194f87094006c69e28965be05c8b9f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/orangutan",
+        "location": "Physical Description: arboreal adaptations",
+        "claim": "Correct answer: Arms much longer than legs. Long arms and grasping hands and feet help distribute weight among branches."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_capybara_water",
+    "status": "approved",
+    "sha256": "84aec7c12db7b0d8ad4febcd13db50657208ff91725bb3db889f53df9f396fab",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/capybara",
+        "location": "About: webbed feet and water",
+        "claim": "Correct answer: Partly webbed toes. Capybaras use water for feeding and shelter from danger."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_flamingo_feeding",
+    "status": "approved",
+    "sha256": "f9338dc68a40786033df8c246ad481c047fcea8e1c244519992c5a648030532a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/flamingo",
+        "location": "Food and Eating Habits: lamellae",
+        "claim": "Correct answer: Filter water through plates in the bill. During feeding, the bill is usually inverted and its plates retain food particles."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_bat_echolocation",
+    "status": "approved",
+    "sha256": "8487acb04d3afd0a845c195b9090dfd0610940682a0efb0e7624c3c1886ae08b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/bat",
+        "location": "About: microbats and echolocation",
+        "claim": "Correct answer: By echoes of their own sounds. Echolocation helps distinguish obstacles and flying insects."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_armadillo_group",
+    "status": "approved",
+    "sha256": "a0529d5267ec99a287118df3430e6db940314294249e028d3393faf586fbfa40",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/armadillo",
+        "location": "About: mammal with a shell; Family Life",
+        "claim": "Correct answer: Mammals. Their protective armour does not make them turtles: armadillos have hair and nurse their young."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_red_panda_ankles",
+    "status": "approved",
+    "sha256": "3b6eb4ceef5152638928fc0215268df821d3957c4b4d3b7a28a004d3bdb6730f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/red-panda",
+        "location": "Physical Description: flexible ankles and headfirst descent",
+        "claim": "Correct answer: Highly flexible ankles. Rotation of the hind feet helps maintain a grip on the trunk."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_komodo_smell",
+    "status": "approved",
+    "sha256": "958aeb9fc02b591e4d47d052010c606b68794587bb8eec5b3b3fca89dde646cb",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/komodo-dragon",
+        "location": "Opening description and Physical Description: forked tongue and smell",
+        "claim": "Correct answer: It samples airborne chemical particles. Sampling the air with its tongue gives the lizard information about surrounding scents."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_axolotl_neoteny",
+    "status": "approved",
+    "sha256": "637fb3ca97820ae32cc91cb57232629a74543d2adce22774f4225fb14be659a8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/axolotl",
+        "location": "About: neoteny and external gills",
+        "claim": "Correct answer: Neoteny. Axolotls normally retain feathery external gills and an aquatic lifestyle."
+      }
+    ]
+  },
+  {
+    "id": "animals_depth_armadillo_ball",
+    "status": "approved",
+    "sha256": "ae063e3cd2d71424ce3cbf2b99555476b8f4cce9c4ca99b75dccc4fd7ad95334",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/armadillo",
+        "location": "Shell game: three-banded armadillo",
+        "claim": "Correct answer: Three-banded armadillos. The head plate seals the opening left when the animal curls up."
+      }
+    ]
   }
 ]

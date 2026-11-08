@@ -178,5 +178,365 @@
         "location": "OpenStax Prealgebra 2e 2.1: definitions, exponents and order of operations; direct recalculation of authored expressions"
       }
     ]
+  },
+  {
+    "id": "mathematics_depth_rectangle_area",
+    "status": "approved",
+    "sha256": "8d68f58ffefb56292efe63f2da6fba45cb7df9c31bd0e284acc85c0d1e9d0741",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+        "location": "9.4 rectangle area formula; original dimensions",
+        "claim": "Correct answer: 28 cm². A rectangle's area is length times width: 7 × 4 = 28."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_triangle_sum",
+    "status": "approved",
+    "sha256": "4b3b69dea359de495005e44e413bf2048316ef72ffe7c55d94852659dea11f32",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+        "location": "9.3 triangle angle sum",
+        "claim": "Correct answer: 180°. For triangles in Euclidean geometry, this sum does not depend on side lengths."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_percent",
+    "status": "approved",
+    "sha256": "a992819d6a3ba29c4a2995956b72173e912b1386ef6f02f506c6c978196060ac",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent",
+        "location": "Translate and solve basic percent equations; original calculation",
+        "claim": "Correct answer: 30. Twenty percent is one fifth: 150/5 = 30."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_prime",
+    "status": "approved",
+    "sha256": "28371c97f5082bd5910406873f3e3d2d18dee2d94ff0305e46e4a25bb5fc301b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts",
+        "location": "Determine if a number is prime; original choices",
+        "claim": "Correct answer: 17. A prime has exactly two positive divisors: one and itself."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_mean",
+    "status": "approved",
+    "sha256": "1f34023a774812d8094ff2f7ea6845bafaa3171cef22481301018d9f7093c3f2",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "location": "Mean definition; original data",
+        "claim": "Correct answer: 5. The sum, 15, is divided by the number of values, three."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_x_axis",
+    "status": "approved",
+    "sha256": "38d4d5302e5d7681a0acd619a0ae4925b0054a80f51f9c3c6790cf5dccb084cd",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs",
+        "location": "Plotting ordered pairs; x-axis horizontal",
+        "claim": "Correct answer: The x-axis. A point's first coordinate gives its displacement along the x-axis from the origin."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_absolute",
+    "status": "approved",
+    "sha256": "e6d66c9b366ecccc914ec42bfd85365ee771b6e5c9a3a64449e37b01e15214d9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/3-1-introduction-to-integers",
+        "location": "Absolute Value definition; original number",
+        "claim": "Correct answer: 7. Absolute value is distance from zero on the number line."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_linear_equation",
+    "status": "approved",
+    "sha256": "5721046a0302c71001451c85579d328c197e4db7185950369c7b79ccb37d975b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable",
+        "location": "Solving linear equations in one variable; original equation",
+        "claim": "Correct answer: 5. Add 5 to both sides, then divide by 3: 3x = 15, x = 5."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_triangle_area",
+    "status": "approved",
+    "sha256": "523fecb558273dd8e62b56c84da9688d9ec898ae62260e59858f3585e3279b3a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+        "location": "9.5 triangle area; original dimensions",
+        "claim": "Correct answer: 20 cm². A triangle's area is half the product of its base and corresponding height."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_circle_area",
+    "status": "approved",
+    "sha256": "f80f87f68d2e49522ef92daead2472c0be0d41da686e49bd6c8350ca67d22286",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts",
+        "location": "9.5 properties of circles: area and circumference",
+        "claim": "Correct answer: πr². Area uses square units, whereas circumference uses linear units."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_fraction_sum",
+    "status": "approved",
+    "sha256": "43a5f50aa80b8eaff81b31418067f02f597ed32ef9d34aeca7c4ad2c2da45273",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/4-5-add-and-subtract-fractions-with-different-denominators",
+        "location": "Adding fractions with different denominators; original expression",
+        "claim": "Correct answer: 7/8. Use a common denominator of 8: 6/8 + 1/8 = 7/8."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_lcm",
+    "status": "approved",
+    "sha256": "834441eb194581b281177c4e20b2b212273d5f9ebef690c85d9cea511f455869",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-5-prime-factorization-and-the-least-common-multiple",
+        "location": "LCM definition; original pair",
+        "claim": "Correct answer: 24. 24 is the smallest positive integer divisible by both 6 and 8."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_gcd",
+    "status": "approved",
+    "sha256": "0a24cff4777bbca7547cbba6f741a103973b7e6aee75c7e416d1fd16c4733ee1",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts",
+        "location": "Factors and prime factorization; original divisor calculation",
+        "claim": "Correct answer: 6. Their common positive divisors are 1, 2, 3 and 6; the greatest is 6."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_median",
+    "status": "approved",
+    "sha256": "16dd775a1ee07eabb376b13791e5b42503a77787ba5b5c52335eec93e4e25d5d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+        "location": "Median for an odd number of observations; original data",
+        "claim": "Correct answer: 10. In an ordered set of five values, the median is the third value."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_die_probability",
+    "status": "approved",
+    "sha256": "d6ab6ee4a3c09a92b5b65837c678b4dadaa96797219e52e9dc917d5b07fd8771",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology",
+        "location": "Equally likely outcomes and probability as favourable/total; original event",
+        "claim": "Correct answer: 1/2. Three of the six equally likely outcomes qualify: 2, 4 and 6."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_slope",
+    "status": "approved",
+    "sha256": "19f2cb1fd10cd258c4f3749575d048d8b636ecb74372a77bd72d1c9526e42032",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions",
+        "location": "Slope-intercept form; original line",
+        "claim": "Correct answer: 2. In y = mx + b, m gives the change in y for a one-unit increase in x."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_factorial",
+    "status": "approved",
+    "sha256": "40a411348fb5aa07b0f9cc54830323530eda3edd09754222ea8431878a566125",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/9-1-sequences-and-their-notations",
+        "location": "Using factorial notation; original integer",
+        "claim": "Correct answer: 120. A positive integer's factorial is the product of the integers from 1 to it: 1 × 2 × 3 × 4 × 5."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_geometric",
+    "status": "approved",
+    "sha256": "19c24af90cf09432e860fa7abf82f6f35ad651f10ada794d51c68df5d9261a53",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences",
+        "location": "Common ratio and listing terms; original progression",
+        "claim": "Correct answer: 54. The common ratio is 3: each term is multiplied by the same number."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_quadrant",
+    "status": "approved",
+    "sha256": "3d4f07af15a51863aacd6a23c5251d72c931cf457ebe0dda67af8edaf7803f8e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs",
+        "location": "Quadrants and signs of ordered pairs; original point",
+        "claim": "Correct answer: The second. A negative x-coordinate and positive y-coordinate place the point at the upper left."
+      }
+    ]
+  },
+  {
+    "id": "mathematics_depth_independent_coins",
+    "status": "approved",
+    "sha256": "236c082dcb2789c23958d33f2c82c0454d9674eebe2c4f22e9a19e8f8648162d",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology",
+        "location": "Two-coin sample space HH, TH, HT, TT; original event",
+        "claim": "Correct answer: 1/4. Only one of the four equally likely outcome pairs contains two heads."
+      }
+    ]
   }
 ]

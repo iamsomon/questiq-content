@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1320,
+  "approvedQuestions": 1520,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 8680,
+  "remainingQuestions": 8480,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
     {
       "id": "physics",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -49,40 +49,40 @@
     },
     {
       "id": "biology",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
       "id": "mathematics",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -391,59 +391,59 @@
     },
     {
       "id": "animals",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
       "id": "plants",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
       "id": "oceans",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -467,21 +467,21 @@
     },
     {
       "id": "ecology",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -505,21 +505,21 @@
     },
     {
       "id": "artificial_intelligence",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
@@ -543,40 +543,40 @@
     },
     {
       "id": "internet",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {
       "id": "space_technology",
-      "approved": 10,
+      "approved": 30,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 12,
+        "medium": 12,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 170,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 68,
+        "medium": 68,
+        "hard": 34
       }
     },
     {

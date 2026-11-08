@@ -438,5 +438,885 @@
       "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
     ],
     "image": null
+  },
+  {
+    "id": "mathematics_depth_rectangle_area",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова площадь прямоугольника со сторонами 7 и 4 см?",
+        "explanation": "Площадь прямоугольника равна произведению длины и ширины: 7 × 4 = 28."
+      },
+      "en": {
+        "question": "What is the area of a rectangle with sides of 7 cm and 4 cm?",
+        "explanation": "A rectangle's area is length times width: 7 × 4 = 28."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "28 см²",
+        "en": "28 cm²"
+      },
+      {
+        "id": "o1",
+        "ru": "22 см²",
+        "en": "22 cm²"
+      },
+      {
+        "id": "o2",
+        "ru": "11 см²",
+        "en": "11 cm²"
+      },
+      {
+        "id": "o3",
+        "ru": "14 см²",
+        "en": "14 cm²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_triangle_sum",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равна сумма внутренних углов треугольника на плоскости?",
+        "explanation": "Для треугольников в евклидовой геометрии эта сумма не зависит от длин сторон."
+      },
+      "en": {
+        "question": "What is the sum of a plane triangle's interior angles?",
+        "explanation": "For triangles in Euclidean geometry, this sum does not depend on side lengths."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "180°",
+        "en": "180°"
+      },
+      {
+        "id": "o1",
+        "ru": "90°",
+        "en": "90°"
+      },
+      {
+        "id": "o2",
+        "ru": "270°",
+        "en": "270°"
+      },
+      {
+        "id": "o3",
+        "ru": "360°",
+        "en": "360°"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_percent",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько составляет 20% от 150?",
+        "explanation": "Двадцать процентов — это одна пятая: 150/5 = 30."
+      },
+      "en": {
+        "question": "What is 20% of 150?",
+        "explanation": "Twenty percent is one fifth: 150/5 = 30."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "30",
+        "en": "30"
+      },
+      {
+        "id": "o1",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o2",
+        "ru": "20",
+        "en": "20"
+      },
+      {
+        "id": "o3",
+        "ru": "75",
+        "en": "75"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_prime",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое из этих чисел простое?",
+        "explanation": "У простого числа ровно два положительных делителя: единица и само число."
+      },
+      "en": {
+        "question": "Which of these numbers is prime?",
+        "explanation": "A prime has exactly two positive divisors: one and itself."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "17",
+        "en": "17"
+      },
+      {
+        "id": "o1",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o2",
+        "ru": "21",
+        "en": "21"
+      },
+      {
+        "id": "o3",
+        "ru": "27",
+        "en": "27"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_mean",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каково среднее арифметическое чисел 2, 4 и 9?",
+        "explanation": "Сумму 15 делят на количество чисел — три."
+      },
+      "en": {
+        "question": "What is the arithmetic mean of 2, 4 and 9?",
+        "explanation": "The sum, 15, is divided by the number of values, three."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o2",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o3",
+        "ru": "7,5",
+        "en": "7.5"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_x_axis",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая ось стандартной прямоугольной системы координат направлена горизонтально?",
+        "explanation": "Первая координата точки задаёт смещение вдоль оси x от начала координат."
+      },
+      "en": {
+        "question": "Which axis is horizontal in the standard rectangular coordinate system?",
+        "explanation": "A point's first coordinate gives its displacement along the x-axis from the origin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ось x",
+        "en": "The x-axis"
+      },
+      {
+        "id": "o1",
+        "ru": "Ось y",
+        "en": "The y-axis"
+      },
+      {
+        "id": "o2",
+        "ru": "Биссектриса первого угла",
+        "en": "The first-quadrant bisector"
+      },
+      {
+        "id": "o3",
+        "ru": "Биссектриса второго угла",
+        "en": "The second-quadrant bisector"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_absolute",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен модуль числа −7?",
+        "explanation": "Модуль показывает расстояние от числа до нуля на числовой прямой."
+      },
+      "en": {
+        "question": "What is the absolute value of −7?",
+        "explanation": "Absolute value is distance from zero on the number line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "−7",
+        "en": "−7"
+      },
+      {
+        "id": "o2",
+        "ru": "0",
+        "en": "0"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/3-1-introduction-to-integers"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_linear_equation",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Найдите x: 3x − 5 = 10.",
+        "explanation": "Прибавляем 5 к обеим частям и делим на 3: 3x = 15, x = 5."
+      },
+      "en": {
+        "question": "Find x: 3x − 5 = 10.",
+        "explanation": "Add 5 to both sides, then divide by 3: 3x = 15, x = 5."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o3",
+        "ru": "−5",
+        "en": "−5"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_triangle_area",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Основание треугольника равно 8 см, высота к нему — 5 см. Какова площадь?",
+        "explanation": "Площадь треугольника равна половине произведения основания на высоту."
+      },
+      "en": {
+        "question": "A triangle has an 8 cm base and a corresponding height of 5 cm. What is its area?",
+        "explanation": "A triangle's area is half the product of its base and corresponding height."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "20 см²",
+        "en": "20 cm²"
+      },
+      {
+        "id": "o1",
+        "ru": "40 см²",
+        "en": "40 cm²"
+      },
+      {
+        "id": "o2",
+        "ru": "13 см²",
+        "en": "13 cm²"
+      },
+      {
+        "id": "o3",
+        "ru": "26 см²",
+        "en": "26 cm²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_circle_area",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая формула задаёт площадь круга радиуса r?",
+        "explanation": "Площадь измеряют в квадратных единицах, а длину окружности — в линейных."
+      },
+      "en": {
+        "question": "Which formula gives the area of a disk with radius r?",
+        "explanation": "Area uses square units, whereas circumference uses linear units."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "πr²",
+        "en": "πr²"
+      },
+      {
+        "id": "o1",
+        "ru": "2πr",
+        "en": "2πr"
+      },
+      {
+        "id": "o2",
+        "ru": "πr",
+        "en": "πr"
+      },
+      {
+        "id": "o3",
+        "ru": "2r²",
+        "en": "2r²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/9-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_fraction_sum",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 3/4 + 1/8?",
+        "explanation": "Приводим дроби к знаменателю 8: 6/8 + 1/8 = 7/8."
+      },
+      "en": {
+        "question": "What is 3/4 + 1/8?",
+        "explanation": "Use a common denominator of 8: 6/8 + 1/8 = 7/8."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7/8",
+        "en": "7/8"
+      },
+      {
+        "id": "o1",
+        "ru": "4/12",
+        "en": "4/12"
+      },
+      {
+        "id": "o2",
+        "ru": "1/2",
+        "en": "1/2"
+      },
+      {
+        "id": "o3",
+        "ru": "5/8",
+        "en": "5/8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/4-5-add-and-subtract-fractions-with-different-denominators"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_lcm",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каково наименьшее общее кратное чисел 6 и 8?",
+        "explanation": "Число 24 — наименьшее положительное целое, которое делится и на 6, и на 8."
+      },
+      "en": {
+        "question": "What is the least common multiple of 6 and 8?",
+        "explanation": "24 is the smallest positive integer divisible by both 6 and 8."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "24",
+        "en": "24"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o3",
+        "ru": "48",
+        "en": "48"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-5-prime-factorization-and-the-least-common-multiple"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_gcd",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков наибольший общий делитель чисел 18 и 24?",
+        "explanation": "Общие положительные делители — 1, 2, 3 и 6; наибольший из них — 6."
+      },
+      "en": {
+        "question": "What is the greatest common divisor of 18 and 24?",
+        "explanation": "Their common positive divisors are 1, 2, 3 and 6; the greatest is 6."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "72",
+        "en": "72"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/2-key-concepts"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_median",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Найдите медиану набора 1, 2, 10, 11, 100.",
+        "explanation": "В упорядоченном наборе из пяти чисел медиана — третье число."
+      },
+      "en": {
+        "question": "Find the median of 1, 2, 10, 11, 100.",
+        "explanation": "In an ordered set of five values, the median is the third value."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o3",
+        "ru": "24,8",
+        "en": "24.8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_die_probability",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова вероятность получить чётное число при одном броске честного шестигранного кубика?",
+        "explanation": "Из шести равновероятных исходов подходят три: 2, 4 и 6."
+      },
+      "en": {
+        "question": "What is the probability of an even number on one roll of a fair six-sided die?",
+        "explanation": "Three of the six equally likely outcomes qualify: 2, 4 and 6."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1/2",
+        "en": "1/2"
+      },
+      {
+        "id": "o1",
+        "ru": "1/6",
+        "en": "1/6"
+      },
+      {
+        "id": "o2",
+        "ru": "1/3",
+        "en": "1/3"
+      },
+      {
+        "id": "o3",
+        "ru": "2/3",
+        "en": "2/3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_slope",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен угловой коэффициент прямой y = 2x + 1?",
+        "explanation": "В записи y = mx + b коэффициент m показывает изменение y при увеличении x на единицу."
+      },
+      "en": {
+        "question": "What is the slope of the line y = 2x + 1?",
+        "explanation": "In y = mx + b, m gives the change in y for a one-unit increase in x."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "−2",
+        "en": "−2"
+      },
+      {
+        "id": "o3",
+        "ru": "1/2",
+        "en": "1/2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/4-1-linear-functions"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_factorial",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 5! в факториальной записи?",
+        "explanation": "Факториал положительного целого — произведение всех целых от 1 до него: 1 × 2 × 3 × 4 × 5."
+      },
+      "en": {
+        "question": "What is 5! in factorial notation?",
+        "explanation": "A positive integer's factorial is the product of the integers from 1 to it: 1 × 2 × 3 × 4 × 5."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "120",
+        "en": "120"
+      },
+      {
+        "id": "o1",
+        "ru": "25",
+        "en": "25"
+      },
+      {
+        "id": "o2",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o3",
+        "ru": "60",
+        "en": "60"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/9-1-sequences-and-their-notations"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_geometric",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У геометрической прогрессии первые члены 2, 6, 18. Каков следующий член?",
+        "explanation": "Знаменатель прогрессии равен 3: каждый член умножают на одно и то же число."
+      },
+      "en": {
+        "question": "A geometric sequence starts 2, 6, 18. What is the next term?",
+        "explanation": "The common ratio is 3: each term is multiplied by the same number."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "54",
+        "en": "54"
+      },
+      {
+        "id": "o1",
+        "ru": "36",
+        "en": "36"
+      },
+      {
+        "id": "o2",
+        "ru": "30",
+        "en": "30"
+      },
+      {
+        "id": "o3",
+        "ru": "24",
+        "en": "24"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/9-3-geometric-sequences"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_quadrant",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой четверти координатной плоскости находится точка (−3, 4)?",
+        "explanation": "Отрицательная координата x и положительная y помещают точку слева вверху."
+      },
+      "en": {
+        "question": "In which quadrant of the coordinate plane is the point (−3, 4)?",
+        "explanation": "A negative x-coordinate and positive y-coordinate place the point at the upper left."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Во второй",
+        "en": "The second"
+      },
+      {
+        "id": "o1",
+        "ru": "В первой",
+        "en": "The first"
+      },
+      {
+        "id": "o2",
+        "ru": "В третьей",
+        "en": "The third"
+      },
+      {
+        "id": "o3",
+        "ru": "В четвёртой",
+        "en": "The fourth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/2-1-the-rectangular-coordinate-systems-and-graphs"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_depth_independent_coins",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Две честные монеты бросают независимо. Какова вероятность получить два орла?",
+        "explanation": "Из четырёх равновероятных пар исходов только одна содержит два орла."
+      },
+      "en": {
+        "question": "Two fair coins are tossed independently. What is the probability of two heads?",
+        "explanation": "Only one of the four equally likely outcome pairs contains two heads."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1/4",
+        "en": "1/4"
+      },
+      {
+        "id": "o1",
+        "ru": "1/2",
+        "en": "1/2"
+      },
+      {
+        "id": "o2",
+        "ru": "3/4",
+        "en": "3/4"
+      },
+      {
+        "id": "o3",
+        "ru": "1/8",
+        "en": "1/8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology"
+    ],
+    "image": null
   }
 ]

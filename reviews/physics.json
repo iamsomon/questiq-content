@@ -178,5 +178,365 @@
         "location": "SI base units table / NIST SP 811, Chapter 4, Table 3"
       }
     ]
+  },
+  {
+    "id": "physics_depth_inertia",
+    "status": "approved",
+    "sha256": "fff5734227beaacc5c875c755b258883c3eeabe5e89b965c37f63805e9b51c4b",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia",
+        "location": "Newton's first law and mass as a measure of inertia",
+        "claim": "Correct answer: Inertia. A larger mass requires more force for the same acceleration."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_net_force",
+    "status": "approved",
+    "sha256": "31f8b333e130535c3e8013989bb4d5662cf3a41e433ede69742d8365129ca7b9",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+        "location": "External forces and vector sum",
+        "claim": "Correct answer: By adding them as vectors. Both magnitude and direction matter when combining forces."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_mass_weight",
+    "status": "approved",
+    "sha256": "4185235d216c0fc04be1e401790a0917e093a99cb59c2d28391be54cdfba3533",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/4-2-newtons-first-law-of-motion-inertia",
+        "location": "Mass does not vary with location; distinction from weight",
+        "claim": "Correct answer: Its mass stays the same. The gravitational force on the rock changes, rather than its mass."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_kinetic",
+    "status": "approved",
+    "sha256": "4ee9271a4f57342b5bbd980a5428d1812870a8472a31fa45c4b76817a735a547",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem",
+        "location": "Kinetic energy definition and equation",
+        "claim": "Correct answer: Kinetic. In classical mechanics, it depends on mass and the square of speed."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_conduction",
+    "status": "approved",
+    "sha256": "4a4edb80c4e624a6d00d1a01593ab13299c74d4512fda2ecda45b295ede37fac",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+        "location": "Numbered list, conduction",
+        "claim": "Correct answer: Conduction. The material need not move as a bulk flow."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_convection",
+    "status": "approved",
+    "sha256": "0c82b871e945459c58f01e3fee92a9887f4ef8159fe79c4fdc1b61394571d775",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+        "location": "Numbered list, convection",
+        "claim": "Correct answer: Convection. The flow carries warmer material from one region to another."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_radiation",
+    "status": "approved",
+    "sha256": "9149fbb9f517a6c7710499d415e3768b8e02e89a90d6603b6695b4ecba27316f",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/14-4-heat-transfer-methods",
+        "location": "Radiation and warming of Earth by the Sun",
+        "claim": "Correct answer: By electromagnetic radiation. This energy transfer does not require matter between the Sun and Earth."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_pitch",
+    "status": "approved",
+    "sha256": "4b27760e9ee0da07b20c27ac4389afa4f96110645ce155fc0bd263aeeed0c15a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+        "location": "Opening paragraphs, frequency perceived as pitch",
+        "claim": "Correct answer: Frequency. A higher frequency corresponds to a higher pitch."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_acceleration",
+    "status": "approved",
+    "sha256": "e812911cd32b9af3b498aa685d5c80ad62095eabf8493e2affbbcb612cabbcbe",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/4-3-newtons-second-law-of-motion-concept-of-a-system",
+        "location": "Newton's second law, F = ma; original calculation",
+        "claim": "Correct answer: 3 m/s². Newton's second law gives a = F/m: 12/4 = 3 m/s²."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_third_law",
+    "status": "approved",
+    "sha256": "d57622981a4e9bc3e70ceaf41919c8bbab3f4110c1d2a2d9dbd9400b202b909a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/4-4-newtons-third-law-of-motion-symmetry-in-forces",
+        "location": "Statement of the third law and different systems",
+        "claim": "Correct answer: Different objects. The forces have equal magnitudes and opposite directions, but act on different objects."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_potential",
+    "status": "approved",
+    "sha256": "3858f6fe4fba361ab2ca7ef1679d7b2d48e48241d2d08f1288b604c974f76ea8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/7-3-gravitational-potential-energy",
+        "location": "Change in gravitational potential energy near Earth",
+        "claim": "Correct answer: It increases. Near Earth's surface, the energy change is mgh, where h is the vertical rise."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_frequency_unit",
+    "status": "approved",
+    "sha256": "4b602f7248a2a8ca679ab5c8c04f7208af9da502108d8970a81a39cf8564f841",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations",
+        "location": "Frequency and hertz definition",
+        "claim": "Correct answer: One complete cycle per second. Frequency counts complete oscillations per unit time."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_period",
+    "status": "approved",
+    "sha256": "c2932df18013f743f0a690a2ecca172e2b87a68ae65da3e6170b58c63931f6f8",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/16-2-period-and-frequency-in-oscillations",
+        "location": "Reciprocal relationship between period and frequency; original calculation",
+        "claim": "Correct answer: 4 Hz. Frequency is the reciprocal of period: f = 1/T = 1/0.25 = 4 Hz."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_reflection",
+    "status": "approved",
+    "sha256": "c21091b2b602b95d58820f965f3cadb8c47de5e21beed5c4cef07eb00fd3e94e",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection",
+        "location": "Law of reflection; original angle",
+        "claim": "Correct answer: 30°. The incidence and reflection angles are measured from the surface normal and are equal."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_refraction",
+    "status": "approved",
+    "sha256": "7844af1169f52045b3d82cbb3c4f82a02ca1d3a58f0ea1b80700b0e1183214b3",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction",
+        "location": "Refraction at a boundary and change of speed",
+        "claim": "Correct answer: A change of direction between media. Light changes speed between media, usually bending when it enters at an angle."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_current",
+    "status": "approved",
+    "sha256": "2e11c9cc047edad6b933de374c557789e57b6478ce208e66aa6c40c420304a20",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/20-1-current",
+        "location": "Electric current, I = ΔQ/Δt",
+        "claim": "Correct answer: Average electric current. Charge in coulombs divided by time in seconds gives current in amperes."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_perpendicular_work",
+    "status": "approved",
+    "sha256": "60a47cd1ef82574016a34e27d83f633f3ca033821f7ba8a254745f2bd47adb09",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/7-2-kinetic-energy-and-the-work-energy-theorem",
+        "location": "Work equation and forces perpendicular to displacement",
+        "claim": "Correct answer: Zero. In W = Fd cos θ, the cosine is zero when θ = 90°."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_wave_relation",
+    "status": "approved",
+    "sha256": "d10809a48e68781c2f06ad9b3c3c7a555c6d89f007ca6c6804c79f8e7b796284",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+        "location": "Equation 17.1, wave speed = frequency × wavelength",
+        "claim": "Correct answer: v = fλ. In one period, a wave travels one wavelength."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_mirror_image",
+    "status": "approved",
+    "sha256": "e1e270e024c11435591ea8d4235b45ca6c197b7ed4dbcf41b8aa61a62bfbc73a",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection",
+        "location": "Plane-mirror image and equal distances; original distance",
+        "claim": "Correct answer: 2 m behind the mirror. A plane mirror's virtual image lies as far behind it as the object lies in front."
+      }
+    ]
+  },
+  {
+    "id": "physics_depth_ohm",
+    "status": "approved",
+    "sha256": "bb977ab6bff365e2930fddf1bc38d4e89e5d9cb4df2fcbf54a2625d84d3f7847",
+    "author": "Codex original bilingual authoring",
+    "factReviewer": "Codex separate source, distractor and calculation pass (same agent)",
+    "languageReviewer": "Codex separate RU/EN read-through (same agent)",
+    "checkedAt": "2026-11-08",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+        "location": "Equation 20.14, I = V/R; original calculation",
+        "claim": "Correct answer: 3 A. Ohm's law gives I = V/R: 18/6 = 3 A."
+      }
+    ]
   }
 ]
