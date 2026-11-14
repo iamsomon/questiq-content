@@ -438,5 +438,1765 @@
       "https://www.olympics.com/ioc/news/from-major-sports-events-to-rock-concerts-the-legacy-of-helsinki-1952-lives-on"
     ],
     "image": null
+  },
+  {
+    "id": "sports_records_m50_phelps",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал пловец Майкл Фелпс в 2004–2016 годах?",
+        "explanation": "Двадцать три из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Michael Phelps win from 2004–2016?",
+        "explanation": "Twenty-three of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "28",
+        "en": "28"
+      },
+      {
+        "id": "o1",
+        "ru": "24",
+        "en": "24"
+      },
+      {
+        "id": "o2",
+        "ru": "26",
+        "en": "26"
+      },
+      {
+        "id": "o3",
+        "ru": "30",
+        "en": "30"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_andrianov",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Николай Андрианов в 1972–1980 годах?",
+        "explanation": "Семь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Nikolay Andrianov win from 1972–1980?",
+        "explanation": "Seven of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o1",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o2",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o3",
+        "ru": "17",
+        "en": "17"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_shakhlin",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Борис Шахлин в 1956–1964 годах?",
+        "explanation": "Семь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Boris Shakhlin win from 1956–1964?",
+        "explanation": "Seven of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o1",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o2",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o3",
+        "ru": "15",
+        "en": "15"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_mangiarotti",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал фехтовальщик Эдоардо Манджаротти в 1936–1960 годах?",
+        "explanation": "Шесть из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did fencer Edoardo Mangiarotti win from 1936–1960?",
+        "explanation": "Six of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "15",
+        "en": "15"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_ono",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Такаси Оно в 1952–1964 годах?",
+        "explanation": "Пять из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Takashi Ono win from 1952–1964?",
+        "explanation": "Five of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "13",
+        "en": "13"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "15",
+        "en": "15"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_kato",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Савао Като в 1968–1976 годах?",
+        "explanation": "Восемь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Sawao Kato win from 1968–1976?",
+        "explanation": "Eight of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o2",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o3",
+        "ru": "16",
+        "en": "16"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_nurmi",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал бегун Пааво Нурми в 1920–1928 годах?",
+        "explanation": "Девять из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did runner Paavo Nurmi win from 1920–1928?",
+        "explanation": "Nine of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_nemov",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Алексей Немов в 1996–2000 годах?",
+        "explanation": "Четыре из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Alexei Nemov win from 1996–2000?",
+        "explanation": "Four of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_lochte",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал пловец Райан Лохте в 2004–2016 годах?",
+        "explanation": "Шесть из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Ryan Lochte win from 2004–2016?",
+        "explanation": "Six of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_osburn",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал стрелок Карл Осберн в 1912–1924 годах?",
+        "explanation": "Пять из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did sport shooter Carl Osburn win from 1912–1924?",
+        "explanation": "Five of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_chukarin",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал гимнаст Виктор Чукарин в 1952–1956 годах?",
+        "explanation": "Семь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Viktor Chukarin win from 1952–1956?",
+        "explanation": "Seven of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_spitz",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал пловец Марк Спитц в 1968–1972 годах?",
+        "explanation": "Девять из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Mark Spitz win from 1968–1972?",
+        "explanation": "Nine of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_biondi",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевал пловец Мэтт Бионди в 1984–1992 годах?",
+        "explanation": "Восемь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Matt Biondi win from 1984–1992?",
+        "explanation": "Eight of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_latynina",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала гимнастка Лариса Латынина в 1956–1964 годах?",
+        "explanation": "Девять из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Larisa Latynina win from 1956–1964?",
+        "explanation": "Nine of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "18",
+        "en": "18"
+      },
+      {
+        "id": "o1",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o2",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o3",
+        "ru": "21",
+        "en": "21"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_fischer",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала байдарочница Биргит Фишер в 1980–2004 годах?",
+        "explanation": "Восемь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did canoe sprint athlete Birgit Fischer win from 1980–2004?",
+        "explanation": "Eight of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_thompson",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала пловчиха Дженни Томпсон в 1992–2004 годах?",
+        "explanation": "Восемь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Jenny Thompson win from 1992–2004?",
+        "explanation": "Eight of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_torres",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала пловчиха Дара Торрес в 1984–2008 годах?",
+        "explanation": "Четыре из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Dara Torres win from 1984–2008?",
+        "explanation": "Four of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_coughlin",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала пловчиха Натали Кафлин в 2004–2012 годах?",
+        "explanation": "Пять из этих медалей были бронзовыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Natalie Coughlin win from 2004–2012?",
+        "explanation": "Five of those medals were bronze."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_caslavska",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала гимнастка Вера Чаславска в 1960–1968 годах?",
+        "explanation": "Семь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did gymnast Věra Čáslavská win from 1960–1968?",
+        "explanation": "Seven of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_felix",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей завоевала бегунья Эллисон Феликс в 2004–2020 годах?",
+        "explanation": "Семь из этих медалей были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did runner Allyson Felix win from 2004–2020?",
+        "explanation": "Seven of those medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "13",
+        "en": "13"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_millar",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта канадец Иэн Миллар выступил на десяти Олимпиадах с 1972 по 2012 год?",
+        "explanation": "Он завоевал одну олимпийскую серебряную медаль."
+      },
+      "en": {
+        "question": "In which sport did Canada’s Ian Millar compete at ten Olympics from 1972 to 2012?",
+        "explanation": "He won one Olympic silver medal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Конный спорт",
+        "en": "Equestrian"
+      },
+      {
+        "id": "o1",
+        "ru": "Парусный спорт",
+        "en": "Sailing"
+      },
+      {
+        "id": "o2",
+        "ru": "Стрельба",
+        "en": "Shooting"
+      },
+      {
+        "id": "o3",
+        "ru": "Велоспорт",
+        "en": "Cycling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_salukvadze",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Нино Салуквадзе выступила на десяти Олимпиадах с 1988 по 2024 год?",
+        "explanation": "У неё по одной олимпийской медали каждого достоинства."
+      },
+      "en": {
+        "question": "In which sport did Nino Salukvadze compete at ten Olympics from 1988 to 2024?",
+        "explanation": "She won one Olympic medal of each colour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрельба",
+        "en": "Shooting"
+      },
+      {
+        "id": "o1",
+        "ru": "Стрельба из лука",
+        "en": "Archery"
+      },
+      {
+        "id": "o2",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      },
+      {
+        "id": "o3",
+        "ru": "Конный спорт",
+        "en": "Equestrian"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_knowles",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько Олимпиад было у яхтсмена Дарварда Ноулза с 1948 по 1988 год?",
+        "explanation": "Он выступал за Великобританию и Багамы и завоевал золото и бронзу."
+      },
+      "en": {
+        "question": "How many Olympics did sailor Durward Knowles attend from 1948 to 1988?",
+        "explanation": "He represented Great Britain and the Bahamas and won gold and bronze."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o1",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o2",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o3",
+        "ru": "10",
+        "en": "10"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_chusovitina",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Оксана Чусовитина выступила на восьми Олимпиадах в 1992–2020 годах?",
+        "explanation": "В её олимпийской коллекции есть золото и серебро."
+      },
+      "en": {
+        "question": "In which sport did Oksana Chusovitina compete at eight Olympic Games from 1992 to 2020?",
+        "explanation": "Her Olympic medals include one gold and one silver."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спортивная гимнастика",
+        "en": "Artistic gymnastics"
+      },
+      {
+        "id": "o1",
+        "ru": "Прыжки в воду",
+        "en": "Diving"
+      },
+      {
+        "id": "o2",
+        "ru": "Синхронное плавание",
+        "en": "Artistic swimming"
+      },
+      {
+        "id": "o3",
+        "ru": "Лёгкая атлетика",
+        "en": "Athletics"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_gerevich",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой дисциплине венгр Аладар Геревич выиграл шесть олимпийских золотых медалей подряд с 1932 по 1960 год?",
+        "explanation": "Всего Геревич получил десять олимпийских медалей."
+      },
+      "en": {
+        "question": "In which event did Hungary’s Aladár Gerevich win six consecutive Olympic gold medals from 1932 to 1960?",
+        "explanation": "Gerevich won ten Olympic medals in all."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Командная сабля",
+        "en": "Team sabre"
+      },
+      {
+        "id": "o1",
+        "ru": "Командная шпага",
+        "en": "Team épée"
+      },
+      {
+        "id": "o2",
+        "ru": "Командная рапира",
+        "en": "Team foil"
+      },
+      {
+        "id": "o3",
+        "ru": "Личная сабля",
+        "en": "Individual sabre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_oerter",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой дисциплине Эл Ортер выигрывал золото четыре Олимпиады подряд с 1956 по 1968 год?",
+        "explanation": "Все четыре победы он одержал в одной дисциплине лёгкой атлетики."
+      },
+      "en": {
+        "question": "In which event did Al Oerter win gold at four consecutive Olympics from 1956 to 1968?",
+        "explanation": "All four wins came in the same track and field event."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метание диска",
+        "en": "Discus throw"
+      },
+      {
+        "id": "o1",
+        "ru": "Метание молота",
+        "en": "Hammer throw"
+      },
+      {
+        "id": "o2",
+        "ru": "Метание копья",
+        "en": "Javelin throw"
+      },
+      {
+        "id": "o3",
+        "ru": "Толкание ядра",
+        "en": "Shot put"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_lewis",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой дисциплине Карл Льюис выиграл четыре олимпийских золота подряд с 1984 по 1996 год?",
+        "explanation": "Всего за этот период Льюис завоевал девять золотых медалей."
+      },
+      "en": {
+        "question": "In which event did Carl Lewis win four consecutive Olympic gold medals from 1984 to 1996?",
+        "explanation": "Lewis won nine gold medals in all over that period."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прыжок в длину",
+        "en": "Long jump"
+      },
+      {
+        "id": "o1",
+        "ru": "Бег на 100 м",
+        "en": "100 metres"
+      },
+      {
+        "id": "o2",
+        "ru": "Тройной прыжок",
+        "en": "Triple jump"
+      },
+      {
+        "id": "o3",
+        "ru": "Бег на 200 м",
+        "en": "200 metres"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_icho",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Каори Итё выиграла четыре олимпийских золота подряд с 2004 по 2016 год?",
+        "explanation": "В 2016 году она выступала в категории до 58 кг."
+      },
+      "en": {
+        "question": "In which sport did Kaori Icho win four consecutive Olympic gold medals from 2004 to 2016?",
+        "explanation": "In 2016 she competed at 58 kg."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вольная борьба",
+        "en": "Freestyle wrestling"
+      },
+      {
+        "id": "o1",
+        "ru": "Дзюдо",
+        "en": "Judo"
+      },
+      {
+        "id": "o2",
+        "ru": "Тхэквондо",
+        "en": "Taekwondo"
+      },
+      {
+        "id": "o3",
+        "ru": "Тяжёлая атлетика",
+        "en": "Weightlifting"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_ledecky",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой дистанции Кэти Ледеки выиграла четыре олимпийских золота подряд с 2012 по 2024 год?",
+        "explanation": "К концу Игр 2024 года у неё было девять олимпийских золотых медалей."
+      },
+      "en": {
+        "question": "In which race did Katie Ledecky win four consecutive Olympic gold medals from 2012 to 2024?",
+        "explanation": "By the end of the 2024 Games, she had won nine Olympic gold medals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "800 м вольным стилем",
+        "en": "800 m freestyle"
+      },
+      {
+        "id": "o1",
+        "ru": "400 м вольным стилем",
+        "en": "400 m freestyle"
+      },
+      {
+        "id": "o2",
+        "ru": "200 м вольным стилем",
+        "en": "200 m freestyle"
+      },
+      {
+        "id": "o3",
+        "ru": "1500 м вольным стилем",
+        "en": "1500 m freestyle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_sorensen",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой дисциплине датчанка Инге Сёренсен выиграла олимпийскую бронзу в 1936 году?",
+        "explanation": "На момент заплыва ей было всего двенадцать лет."
+      },
+      "en": {
+        "question": "In which event did Denmark’s Inge Sørensen win Olympic bronze in 1936?",
+        "explanation": "She was just twelve years old at the time."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "200 м брассом",
+        "en": "200 m breaststroke"
+      },
+      {
+        "id": "o1",
+        "ru": "100 м на спине",
+        "en": "100 m backstroke"
+      },
+      {
+        "id": "o2",
+        "ru": "400 м вольным стилем",
+        "en": "400 m freestyle"
+      },
+      {
+        "id": "o3",
+        "ru": "100 м вольным стилем",
+        "en": "100 m freestyle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_kitamura",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую дистанцию выиграл четырнадцатилетний Кусуо Китамура на Олимпиаде 1932 года?",
+        "explanation": "Китамура выступал за Японию."
+      },
+      "en": {
+        "question": "Which swimming race did fourteen-year-old Kusuo Kitamura win at the 1932 Olympics?",
+        "explanation": "Kitamura represented Japan."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1500 м вольным стилем",
+        "en": "1500 m freestyle"
+      },
+      {
+        "id": "o1",
+        "ru": "400 м вольным стилем",
+        "en": "400 m freestyle"
+      },
+      {
+        "id": "o2",
+        "ru": "100 м вольным стилем",
+        "en": "100 m freestyle"
+      },
+      {
+        "id": "o3",
+        "ru": "200 м брассом",
+        "en": "200 m breaststroke"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_swahn",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Оскар Сван завоевал олимпийское серебро в 72 года?",
+        "explanation": "Эту медаль он получил в командных соревнованиях 1920 года."
+      },
+      "en": {
+        "question": "In which sport did Oscar Swahn win Olympic silver at the age of 72?",
+        "explanation": "He won the medal in a team event in 1920."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрельба",
+        "en": "Shooting"
+      },
+      {
+        "id": "o1",
+        "ru": "Стрельба из лука",
+        "en": "Archery"
+      },
+      {
+        "id": "o2",
+        "ru": "Конный спорт",
+        "en": "Equestrian"
+      },
+      {
+        "id": "o3",
+        "ru": "Парусный спорт",
+        "en": "Sailing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_van_innis",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта бельгиец Юбер Ван Иннис завоевал десять олимпийских медалей в 1900–1920 годах?",
+        "explanation": "Шесть из его медалей были золотыми, четыре — серебряными."
+      },
+      "en": {
+        "question": "In which sport did Belgium’s Hubert Van Innis win ten Olympic medals from 1900 to 1920?",
+        "explanation": "Six of his medals were gold and four were silver."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрельба из лука",
+        "en": "Archery"
+      },
+      {
+        "id": "o1",
+        "ru": "Стрельба",
+        "en": "Shooting"
+      },
+      {
+        "id": "o2",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      },
+      {
+        "id": "o3",
+        "ru": "Велоспорт",
+        "en": "Cycling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_carrington",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой стране Лиза Каррингтон принесла восемь олимпийских золотых медалей в гребле к концу Игр 2024 года?",
+        "explanation": "К этому моменту у неё также была одна бронза."
+      },
+      "en": {
+        "question": "Which country did Lisa Carrington win eight Olympic canoe sprint gold medals for through the 2024 Games?",
+        "explanation": "She also had one Olympic bronze medal by that point."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      },
+      {
+        "id": "o1",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o2",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o3",
+        "ru": "Великобритания",
+        "en": "Great Britain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_pajon",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой дисциплине Мариана Пахон завоевала два золота и серебро за Колумбию в 2012–2020 годах?",
+        "explanation": "Все три медали она выиграла в личных соревнованиях по велоспорту."
+      },
+      "en": {
+        "question": "In which discipline did Mariana Pajón win two golds and a silver for Colombia from 2012 to 2020?",
+        "explanation": "All three medals came in an individual cycling discipline."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Велогонки BMX",
+        "en": "BMX racing"
+      },
+      {
+        "id": "o1",
+        "ru": "Трековый велоспорт",
+        "en": "Track cycling"
+      },
+      {
+        "id": "o2",
+        "ru": "Маунтинбайк",
+        "en": "Mountain bike"
+      },
+      {
+        "id": "o3",
+        "ru": "Шоссейный велоспорт",
+        "en": "Road cycling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_sautin",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Дмитрий Саутин завоевал восемь олимпийских медалей с 1992 по 2004 год?",
+        "explanation": "На его счету два золота, два серебра и четыре бронзы."
+      },
+      "en": {
+        "question": "In which sport did Dmitry Sautin win eight Olympic medals from 1992 to 2004?",
+        "explanation": "His tally was two gold, two silver and four bronze medals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прыжки в воду",
+        "en": "Diving"
+      },
+      {
+        "id": "o1",
+        "ru": "Плавание",
+        "en": "Swimming"
+      },
+      {
+        "id": "o2",
+        "ru": "Спортивная гимнастика",
+        "en": "Artistic gymnastics"
+      },
+      {
+        "id": "o3",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_vezzali",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских золотых медалей выиграла фехтовальщица Валентина Веццали в 1996–2012 годах?",
+        "explanation": "У итальянской спортсменки девять олимпийских медалей всех достоинств."
+      },
+      "en": {
+        "question": "How many Olympic gold medals did fencer Valentina Vezzali win from 1996 to 2012?",
+        "explanation": "The Italian fencer won nine Olympic medals in total."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o1",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o2",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o3",
+        "ru": "7",
+        "en": "7"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_garnbret",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Яня Гарнбрет выиграла золото на Играх в Токио и Париже?",
+        "explanation": "Она выступала за Словению."
+      },
+      "en": {
+        "question": "In which sport did Janja Garnbret win gold at both Tokyo and Paris?",
+        "explanation": "She represented Slovenia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спортивное скалолазание",
+        "en": "Sport climbing"
+      },
+      {
+        "id": "o1",
+        "ru": "Спортивная гимнастика",
+        "en": "Artistic gymnastics"
+      },
+      {
+        "id": "o2",
+        "ru": "Маунтинбайк",
+        "en": "Mountain bike"
+      },
+      {
+        "id": "o3",
+        "ru": "Прыжки в воду",
+        "en": "Diving"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_ma_long",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Ма Лун завоевал шесть олимпийских золотых медалей с 2012 по 2024 год?",
+        "explanation": "К концу Игр в Париже все его олимпийские медали были золотыми."
+      },
+      "en": {
+        "question": "In which sport did Ma Long win six Olympic gold medals from 2012 to 2024?",
+        "explanation": "Through the Paris Games, all his Olympic medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Настольный теннис",
+        "en": "Table tennis"
+      },
+      {
+        "id": "o1",
+        "ru": "Бадминтон",
+        "en": "Badminton"
+      },
+      {
+        "id": "o2",
+        "ru": "Теннис",
+        "en": "Tennis"
+      },
+      {
+        "id": "o3",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
+  },
+  {
+    "id": "sports_records_m50_panipak",
+    "categoryId": "sports_records",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Панипак Вонгпаттанакит завоевала два олимпийских золота и бронзу в 2016–2024 годах?",
+        "explanation": "Она представляла Таиланд."
+      },
+      "en": {
+        "question": "In which sport did Panipak Wongpattanakit win two Olympic golds and one bronze from 2016 to 2024?",
+        "explanation": "She represented Thailand."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тхэквондо",
+        "en": "Taekwondo"
+      },
+      {
+        "id": "o1",
+        "ru": "Дзюдо",
+        "en": "Judo"
+      },
+      {
+        "id": "o2",
+        "ru": "Вольная борьба",
+        "en": "Freestyle wrestling"
+      },
+      {
+        "id": "o3",
+        "ru": "Бокс",
+        "en": "Boxing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue"
+    ],
+    "image": null
   }
 ]

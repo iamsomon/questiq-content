@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 2460,
+  "approvedQuestions": 2540,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 7540,
+  "remainingQuestions": 7460,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -144,20 +144,20 @@
     },
     {
       "id": "flags",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
-        "medium": 4,
+        "medium": 44,
         "hard": 2
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
         "easy": 76,
-        "medium": 76,
+        "medium": 36,
         "hard": 38
       }
     },
@@ -752,21 +752,21 @@
     },
     {
       "id": "sports_records",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
         "medium": 4,
-        "hard": 2
+        "hard": 42
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
         "easy": 76,
         "medium": 76,
-        "hard": 38
+        "hard": 0
       }
     },
     {

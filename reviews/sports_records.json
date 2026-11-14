@@ -178,5 +178,725 @@
         "claim": "Which Australian sprinter won the 100m and 200m at the 1952 Games? Answer: Marjorie Jackson. The Helsinki Games were a major milestone in her athletics career."
       }
     ]
+  },
+  {
+    "id": "sports_records_m50_phelps",
+    "status": "approved",
+    "sha256": "1e2a7fe1c66578601a54c0886b4c72a4da3aaec6a4637564cfcc3f969ba906da",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Michael Phelps, 2004–2016",
+        "claim": "How many Olympic medals did swimmer Michael Phelps win from 2004–2016? Answer: 28. Twenty-three of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_andrianov",
+    "status": "approved",
+    "sha256": "31c91ebb7540eb87fc99e88ac0d635a3d95f64626ebc5af89e79c67d6ccbe0bd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Nikolay Andrianov, 1972–1980",
+        "claim": "How many Olympic medals did gymnast Nikolay Andrianov win from 1972–1980? Answer: 15. Seven of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_shakhlin",
+    "status": "approved",
+    "sha256": "2832cdc5c3af816c1a9599bc96d5ea9c611d52b2a1a77aa072a75d6b7a2e7072",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Boris Shakhlin, 1956–1964",
+        "claim": "How many Olympic medals did gymnast Boris Shakhlin win from 1956–1964? Answer: 13. Seven of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_mangiarotti",
+    "status": "approved",
+    "sha256": "a20baab80f48ffa9ef10bd923d239e815c4ad3bf77c68029466942af3d3bcb36",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, fencer Edoardo Mangiarotti, 1936–1960",
+        "claim": "How many Olympic medals did fencer Edoardo Mangiarotti win from 1936–1960? Answer: 13. Six of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_ono",
+    "status": "approved",
+    "sha256": "89bd2b8b3cedfe4724cf184a6096f774b590ac386e80569dd8e4ccd878faaf0a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Takashi Ono, 1952–1964",
+        "claim": "How many Olympic medals did gymnast Takashi Ono win from 1952–1964? Answer: 13. Five of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_kato",
+    "status": "approved",
+    "sha256": "337bc0026d216b65977a783ce03356238fb42830b319125e3a58dd81d0386451",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Sawao Kato, 1968–1976",
+        "claim": "How many Olympic medals did gymnast Sawao Kato win from 1968–1976? Answer: 12. Eight of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_nurmi",
+    "status": "approved",
+    "sha256": "73496553e31bee72ea33d4d1e1cdfce86725f332db5ff0acd2cc89da6d9486d6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, runner Paavo Nurmi, 1920–1928",
+        "claim": "How many Olympic medals did runner Paavo Nurmi win from 1920–1928? Answer: 12. Nine of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_nemov",
+    "status": "approved",
+    "sha256": "cc4436ad881c9c01065fe95353258ab987295d346c7736d2b3b7c3a50080be11",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Alexei Nemov, 1996–2000",
+        "claim": "How many Olympic medals did gymnast Alexei Nemov win from 1996–2000? Answer: 12. Four of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_lochte",
+    "status": "approved",
+    "sha256": "772a2d20cd876339c5af6ed4e2b3bb1928f1a93ca4ac24f9c69a6a27b7069169",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Ryan Lochte, 2004–2016",
+        "claim": "How many Olympic medals did swimmer Ryan Lochte win from 2004–2016? Answer: 12. Six of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_osburn",
+    "status": "approved",
+    "sha256": "6370ea424aa478a6dde0eb045c52e5ca0752f508b2414e0abf227348e9fda339",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, sport shooter Carl Osburn, 1912–1924",
+        "claim": "How many Olympic medals did sport shooter Carl Osburn win from 1912–1924? Answer: 11. Five of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_chukarin",
+    "status": "approved",
+    "sha256": "a00b7ee1a2671b803661097e4a539a47f8ea4e701ed64f9d686716cb5c592eb7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Viktor Chukarin, 1952–1956",
+        "claim": "How many Olympic medals did gymnast Viktor Chukarin win from 1952–1956? Answer: 11. Seven of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_spitz",
+    "status": "approved",
+    "sha256": "4a90638b11f79c1646419a3536970b049a607b52f3a9f7c076b42bfe87c6f6cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Mark Spitz, 1968–1972",
+        "claim": "How many Olympic medals did swimmer Mark Spitz win from 1968–1972? Answer: 11. Nine of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_biondi",
+    "status": "approved",
+    "sha256": "e210a1a75932e31eba09b9279deb7ce647cb67e84f44b33d762457932a44c7b3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Matt Biondi, 1984–1992",
+        "claim": "How many Olympic medals did swimmer Matt Biondi win from 1984–1992? Answer: 11. Eight of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_latynina",
+    "status": "approved",
+    "sha256": "81e94a87ccaac0bfaeb485a184c8621b9bab23adf18a280802ab18464137ffed",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Larisa Latynina, 1956–1964",
+        "claim": "How many Olympic medals did gymnast Larisa Latynina win from 1956–1964? Answer: 18. Nine of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_fischer",
+    "status": "approved",
+    "sha256": "63f275310609664fc9dbc9623c7c085640355c8064acd44d52272c1084f2026d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, canoe sprint athlete Birgit Fischer, 1980–2004",
+        "claim": "How many Olympic medals did canoe sprint athlete Birgit Fischer win from 1980–2004? Answer: 12. Eight of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_thompson",
+    "status": "approved",
+    "sha256": "86c6bf9e6fd2ea3c448d1f197f8e824cca418cba369de665f7fc88bc0750bb2b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Jenny Thompson, 1992–2004",
+        "claim": "How many Olympic medals did swimmer Jenny Thompson win from 1992–2004? Answer: 12. Eight of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_torres",
+    "status": "approved",
+    "sha256": "9b4b0ef0ab437a9ceb4c9290cacbe7270191601b8e97686c6667fd7c95f761df",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Dara Torres, 1984–2008",
+        "claim": "How many Olympic medals did swimmer Dara Torres win from 1984–2008? Answer: 12. Four of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_coughlin",
+    "status": "approved",
+    "sha256": "2718f17712c54fafe3bb03426e7495422fd09f51825b33b50a85e497b792fa6f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, swimmer Natalie Coughlin, 2004–2012",
+        "claim": "How many Olympic medals did swimmer Natalie Coughlin win from 2004–2012? Answer: 12. Five of those medals were bronze."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_caslavska",
+    "status": "approved",
+    "sha256": "57796494469c70097fb1a812b35afe678f31b0a673222985bbac7d74abd5ad06",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, gymnast Věra Čáslavská, 1960–1968",
+        "claim": "How many Olympic medals did gymnast Věra Čáslavská win from 1960–1968? Answer: 11. Seven of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_felix",
+    "status": "approved",
+    "sha256": "d8daa6448c3562d88203ad93ecef51e17eef6921d4df0adfe0c6486d975a0c43",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most medals won and discipline or medal-colour table, runner Allyson Felix, 2004–2020",
+        "claim": "How many Olympic medals did runner Allyson Felix win from 2004–2020? Answer: 11. Seven of those medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_millar",
+    "status": "approved",
+    "sha256": "ba86e1b2378cab8640a8e68438b4befb1022a5f579dba27837f0693a08ddce21",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most appearances, Ian Millar",
+        "claim": "In which sport did Canada’s Ian Millar compete at ten Olympics from 1972 to 2012? Answer: Equestrian. He won one Olympic silver medal."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_salukvadze",
+    "status": "approved",
+    "sha256": "428c652c0d970d2bfaa8ffdbbdcb53af5df9c78eb58d09f0e003b07ddec6633f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most appearances, Nino Salukvadze",
+        "claim": "In which sport did Nino Salukvadze compete at ten Olympics from 1988 to 2024? Answer: Shooting. She won one Olympic medal of each colour."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_knowles",
+    "status": "approved",
+    "sha256": "39783ca79b29b9256b0fdf2cf99a918c878a99c0851e4311a70803c25c22ca67",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most appearances, Durward Knowles",
+        "claim": "How many Olympics did sailor Durward Knowles attend from 1948 to 1988? Answer: 8. He represented Great Britain and the Bahamas and won gold and bronze."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_chusovitina",
+    "status": "approved",
+    "sha256": "d0312fcebb25236c5a4b7e731b17726a5c35efe8cd7fa963bd84aed20f40392b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most appearances, Oksana Chusovitina",
+        "claim": "In which sport did Oksana Chusovitina compete at eight Olympic Games from 1992 to 2020? Answer: Artistic gymnastics. Her Olympic medals include one gold and one silver."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_gerevich",
+    "status": "approved",
+    "sha256": "0be8ca8f7a8c07f6513b25bd83ce3f5f3980ea5351f14a8093274938a21d98a4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most consecutive wins in the same event and Fencing, Aladár Gerevich",
+        "claim": "In which event did Hungary’s Aladár Gerevich win six consecutive Olympic gold medals from 1932 to 1960? Answer: Team sabre. Gerevich won ten Olympic medals in all."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_oerter",
+    "status": "approved",
+    "sha256": "2f9a18a5ad96d054ab8f63c5b7484df6f9362e0723cead9ced7b4d0b89dff987",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most consecutive wins in the same individual event, Al Oerter",
+        "claim": "In which event did Al Oerter win gold at four consecutive Olympics from 1956 to 1968? Answer: Discus throw. All four wins came in the same track and field event."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_lewis",
+    "status": "approved",
+    "sha256": "e5bd57ebc4cdcc55bf951919fa93e1ba6d54942ec354c6f402d282e7f0ddad8d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most consecutive wins in same individual event and men's athletics, Carl Lewis",
+        "claim": "In which event did Carl Lewis win four consecutive Olympic gold medals from 1984 to 1996? Answer: Long jump. Lewis won nine gold medals in all over that period."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_icho",
+    "status": "approved",
+    "sha256": "7b6537f700805788fc9c0ca84527c9cddacda625ec75f4247b822885c65f56dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most consecutive wins in same individual event, Kaori Icho and weight categories",
+        "claim": "In which sport did Kaori Icho win four consecutive Olympic gold medals from 2004 to 2016? Answer: Freestyle wrestling. In 2016 she competed at 58 kg."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_ledecky",
+    "status": "approved",
+    "sha256": "0e2f0c8c4827e13c6f9eed010e766d6bf387ff9caf7b3ebe013bb886374b453f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Most consecutive wins and women's swimming, Katie Ledecky",
+        "claim": "In which race did Katie Ledecky win four consecutive Olympic gold medals from 2012 to 2024? Answer: 800 m freestyle. By the end of the 2024 Games, she had won nine Olympic gold medals."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_sorensen",
+    "status": "approved",
+    "sha256": "bbdeb8ed7f72da8363cdd77064910f5d7b06347e3192a6fc4f05a9463a4d6170",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Youngest known medallists in an individual event, Inge Sørensen",
+        "claim": "In which event did Denmark’s Inge Sørensen win Olympic bronze in 1936? Answer: 200 m breaststroke. She was just twelve years old at the time."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_kitamura",
+    "status": "approved",
+    "sha256": "cbe231866956f7e55962debdca16fa351ad200610150ad0a921efc36a1bf7e4f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Youngest known gold medallists in an individual event, Kusuo Kitamura",
+        "claim": "Which swimming race did fourteen-year-old Kusuo Kitamura win at the 1932 Olympics? Answer: 1500 m freestyle. Kitamura represented Japan."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_swahn",
+    "status": "approved",
+    "sha256": "f5a93f77112ac69c6b827361dff4d51ff1277920db1dab1a9ba806e273715066",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Oldest medallists in an event, Oscar Swahn",
+        "claim": "In which sport did Oscar Swahn win Olympic silver at the age of 72? Answer: Shooting. He won the medal in a team event in 1920."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_van_innis",
+    "status": "approved",
+    "sha256": "389b6a80d44468b580ebff5425d8b19e9c0c838e777b3e4d5d51275b9542399a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Men’s archery, Hubert Van Innis",
+        "claim": "In which sport did Belgium’s Hubert Van Innis win ten Olympic medals from 1900 to 1920? Answer: Archery. Six of his medals were gold and four were silver."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_carrington",
+    "status": "approved",
+    "sha256": "fdef757314d31d6689f2d97602f1a4297939e7fd0d6c2bd5aaf016ed469c3874",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Women’s canoe sprint, Lisa Carrington",
+        "claim": "Which country did Lisa Carrington win eight Olympic canoe sprint gold medals for through the 2024 Games? Answer: New Zealand. She also had one Olympic bronze medal by that point."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_pajon",
+    "status": "approved",
+    "sha256": "4c4658e2043dd028ac1f583dfbff04b0ade33161aee286e9cec2cc91c60de053",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, BMX Racing, Mariana Pajón",
+        "claim": "In which discipline did Mariana Pajón win two golds and a silver for Colombia from 2012 to 2020? Answer: BMX racing. All three medals came in an individual cycling discipline."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_sautin",
+    "status": "approved",
+    "sha256": "31785c8b5a988ae3db351dc8a1cb5f8cf31c974c6fab2b751490e2a40202d2da",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Men’s diving, Dmitry Sautin",
+        "claim": "In which sport did Dmitry Sautin win eight Olympic medals from 1992 to 2004? Answer: Diving. His tally was two gold, two silver and four bronze medals."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_vezzali",
+    "status": "approved",
+    "sha256": "917a2936476a6a085228a96b2a26a8313873660f220fe10445cbb6893442ebdf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Women’s fencing, Valentina Vezzali",
+        "claim": "How many Olympic gold medals did fencer Valentina Vezzali win from 1996 to 2012? Answer: 6. The Italian fencer won nine Olympic medals in total."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_garnbret",
+    "status": "approved",
+    "sha256": "aa8279194cab94c76f1251cbcfe3c391e8042303fede4ac6e6f57ed4141bccdc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Sport climbing, Janja Garnbret, gold at 2020 and 2024 Games",
+        "claim": "In which sport did Janja Garnbret win gold at both Tokyo and Paris? Answer: Sport climbing. She represented Slovenia."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_ma_long",
+    "status": "approved",
+    "sha256": "d68bbcaa1f2abb4b4db8e0bf09830778df266d92418fa30d6413dfffbc89aafc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Men’s table tennis, Ma Long",
+        "claim": "In which sport did Ma Long win six Olympic gold medals from 2012 to 2024? Answer: Table tennis. Through the Paris Games, all his Olympic medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "sports_records_m50_panipak",
+    "status": "approved",
+    "sha256": "3a9cba21ab518421c3515b746357bc7c21022e5b5faf0233c1fcb36a350166d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Checked the 40 historical athlete facts in the IOC June 2025 medal tables, with date-bounded claims and a separate answer-choice pass.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf?displayAsWebView=true%2Ctrue",
+        "location": "IOC medal factsheet, Women’s taekwondo, Panipak Wongpattanakit",
+        "claim": "In which sport did Panipak Wongpattanakit win two Olympic golds and one bronze from 2016 to 2024? Answer: Taekwondo. She represented Thailand."
+      }
+    ]
   }
 ]
