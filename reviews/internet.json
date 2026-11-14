@@ -538,5 +538,365 @@
         "claim": "Correct answer: 128 bits. A larger address space is one of the main differences between IPv6 and IPv4."
       }
     ]
+  },
+  {
+    "id": "internet_m50_css",
+    "status": "approved",
+    "sha256": "46c966cbbdfb49e0fbbfab9388e100ebb9e2780eb10dd550c03598b673ae37a5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/CSS",
+        "location": "Glossary entry CSS",
+        "claim": "Which term means the language used to style an HTML page? Answer: CSS. It controls features such as colours, fonts and the layout of boxes."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_javascript",
+    "status": "approved",
+    "sha256": "c32ed23cd3b22084c8fe5fcb317f93933842926a123a4b7f953da6985331041c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/JavaScript",
+        "location": "Glossary entry JavaScript",
+        "claim": "Which term means the programming language browsers execute for page interactivity? Answer: JavaScript. Event handlers allow a page to react to user actions."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_smtp",
+    "status": "approved",
+    "sha256": "e15feec1ca21030c7f204c0abaebb305c36ac4bc0f024d747e7323b26fb94002",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/SMTP",
+        "location": "Glossary entry SMTP",
+        "claim": "Which term means the protocol for transferring email between mail servers? Answer: SMTP. Mail clients usually retrieve messages using other protocols."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_imap",
+    "status": "approved",
+    "sha256": "2232252d8c7692d70663d5c4f714e4895e9d675ff4e88463ab074180303c008e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/IMAP",
+        "location": "Glossary entry IMAP",
+        "claim": "Which term means a mail-access protocol that keeps messages and folders on a server? Answer: IMAP. This makes it easier to synchronise a mailbox across devices."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_udp",
+    "status": "approved",
+    "sha256": "54fffa104fa7d329674acae2796d4480150fe2b03837cf97f198f54440eff058",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/UDP",
+        "location": "Glossary entry UDP",
+        "claim": "Which term means a connectionless transport protocol without built-in delivery guarantees? Answer: UDP. An application must add reliability when needed."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_websocket",
+    "status": "approved",
+    "sha256": "34e835c436236c4f2661b4d711e6fe0a6e39e1e6f7f4f008eb8c610890acf221",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/WebSockets",
+        "location": "Glossary entry WebSockets",
+        "claim": "Which term means a protocol for persistent two-way browser-server communication? Answer: WebSocket. It suits applications that need real-time messages."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_bandwidth",
+    "status": "approved",
+    "sha256": "6e682110bedd3c12da2b7e0920fa7357882a489b77ca1f06009bdecad0f018d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Bandwidth",
+        "location": "Glossary entry Bandwidth",
+        "claim": "Which term means the data-carrying capacity of a communication link? Answer: Bandwidth. It is often expressed in bits per second."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_latency",
+    "status": "approved",
+    "sha256": "f64bb83fd6e1744f75ab934615ed21882588a61e41d1cd05768fc10cdcb2970e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Latency",
+        "location": "Glossary entry Latency",
+        "claim": "Which term means the delay in transferring data over a network? Answer: Latency. High bandwidth does not rule out a long delay."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_phishing",
+    "status": "approved",
+    "sha256": "17c66d610027027056eddb3e653573a50f88685e2cd29169bc4e979ec0602efd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cisa.gov/sites/default/files/publications/Phishing%20General%20Security%20Postcard_6.24.2021_508c.pdf",
+        "location": "Phishing: social engineering and spoofed links requesting credentials",
+        "claim": "Which term means deception that uses a fake message or page to obtain a password? Answer: Phishing. A fake page can imitate a familiar service's appearance."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_firewall",
+    "status": "approved",
+    "sha256": "3b64f75b10bdf63254a08a383f8a81ffb62874704d9c7724cc36c85015816fb7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Firewall",
+        "location": "Glossary entry Firewall",
+        "claim": "Which term means a system that filters network traffic according to rules? Answer: Firewall. Rules can allow or block particular connections."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_vpn",
+    "status": "approved",
+    "sha256": "f0696dabe70fa18d1a2f6a4cdbbde888917ce8fcef710ec932d367bd3f46c6e0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cloudflare.com/learning/access-management/what-is-a-vpn/",
+        "location": "What is a VPN; how VPN tunnels connect client and server",
+        "claim": "Which term means a protected virtual tunnel over another network? Answer: VPN. Such a tunnel can connect a device to a remote private network."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_api",
+    "status": "approved",
+    "sha256": "3ea8587d0018780812fcafcf92a399a6e76b49b0bda239c6b7e9be566d95577d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/API",
+        "location": "Glossary entry API",
+        "claim": "Which term means a defined interface through which programs interact? Answer: API. It specifies ways to access a service's functions or data."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_json",
+    "status": "approved",
+    "sha256": "044f010f39b2f6867e063b9e95f5cf4574ae8d8f2360fd4a08c50a888e3c9760",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/JSON",
+        "location": "Glossary entry JSON",
+        "claim": "Which term means a text data-exchange format using objects and arrays? Answer: JSON. Property names and string values use double quotation marks."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_xml",
+    "status": "approved",
+    "sha256": "dc5cb4e7e4239218e3f3fd562097f755faadb8c2b39cf5157e6dcab703f42655",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/XML",
+        "location": "Glossary entry XML",
+        "claim": "Which term means a markup language with custom tags for structured data? Answer: XML. Unlike HTML it is not limited to a predefined set of tags."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_url_encoding",
+    "status": "approved",
+    "sha256": "dabd510bb73e9300c3f1db32e8640ce4a0d5d0e9f65604fa788ecb7279c452d5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding",
+        "location": "Glossary entry Percent-encoding",
+        "claim": "Which term means replacing special bytes in a URL with percent-prefixed sequences? Answer: Percent-encoding. For example, a space can be represented as %20."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_domain_registrar",
+    "status": "approved",
+    "sha256": "6f01b9571d706d248318eb93aa739369515ce2d9f971781aaffffee86c9e29ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.icann.org/en/contracted-parties/accredited-registrars",
+        "location": "Registration Information and About ICANN-Accredited Registrar",
+        "claim": "Which term means an organisation that handles domain-name registrations? Answer: Domain registrar. Registering a name and hosting a website are different services."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_browser_engine",
+    "status": "approved",
+    "sha256": "3c2347e9d5c39dc8e7210437e585015ff4b82d6d9102174f2880789a39d7a4d1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Engine/Rendering",
+        "location": "Rendering engine definition",
+        "claim": "Which term means the browser component that turns HTML and CSS into a displayed page? Answer: Rendering engine. It calculates element layout before painting them."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_local_storage",
+    "status": "approved",
+    "sha256": "0afde0625956f7c9aea387fa30eef6ae71731e89b47a73293293f9aacd800165",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage",
+        "location": "Description: persistent origin storage; contrasted with sessionStorage",
+        "claim": "Which term means browser key-value storage that persists across sessions? Answer: localStorage. It is separate from cookies and is not automatically sent with each HTTP request."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_same_origin",
+    "status": "approved",
+    "sha256": "b5b06c6be79003fc68f3e2b8a3facd64b8539806c41f12259ae52e973b827f3a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy",
+        "location": "Definition of an origin; cross-origin data access restrictions",
+        "claim": "Which term means the policy restricting a script's access to another origin's data? Answer: Same-origin policy. An origin is determined by scheme, hostname and port."
+      }
+    ]
+  },
+  {
+    "id": "internet_m50_cors",
+    "status": "approved",
+    "sha256": "03cbdc169cf69c7e136fd808dcd7645debdaa7c284b1f0e0e1e1ff3b9fb30466",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. MDN individual glossary/security/API pages; ICANN registrar; CISA phishing and Cloudflare VPN explanation.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/CORS",
+        "location": "Glossary entry CORS",
+        "claim": "Which term means the mechanism by which a server permits certain cross-origin browser requests? Answer: CORS. Permissions are communicated in HTTP response headers."
+      }
+    ]
   }
 ]

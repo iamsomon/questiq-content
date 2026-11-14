@@ -1318,5 +1318,885 @@
       "https://www.rfc-editor.org/rfc/rfc8200"
     ],
     "image": null
+  },
+  {
+    "id": "internet_m50_css",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает язык, задающий оформление HTML-страницы?",
+        "explanation": "Он управляет, например, цветами, шрифтами и расположением блоков."
+      },
+      "en": {
+        "question": "Which term means the language used to style an HTML page?",
+        "explanation": "It controls features such as colours, fonts and the layout of boxes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "CSS",
+        "en": "CSS"
+      },
+      {
+        "id": "o1",
+        "ru": "WebSocket",
+        "en": "WebSocket"
+      },
+      {
+        "id": "o2",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o3",
+        "ru": "IMAP",
+        "en": "IMAP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/CSS"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_javascript",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает язык программирования, который браузеры выполняют для интерактивности страниц?",
+        "explanation": "Обработчики событий позволяют странице реагировать на действия пользователя."
+      },
+      "en": {
+        "question": "Which term means the programming language browsers execute for page interactivity?",
+        "explanation": "Event handlers allow a page to react to user actions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "JavaScript",
+        "en": "JavaScript"
+      },
+      {
+        "id": "o1",
+        "ru": "JSON",
+        "en": "JSON"
+      },
+      {
+        "id": "o2",
+        "ru": "CORS",
+        "en": "CORS"
+      },
+      {
+        "id": "o3",
+        "ru": "Фишинг",
+        "en": "Phishing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/JavaScript"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_smtp",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает протокол передачи электронной почты между почтовыми серверами?",
+        "explanation": "Получение писем клиентом обычно выполняют другие протоколы."
+      },
+      "en": {
+        "question": "Which term means the protocol for transferring email between mail servers?",
+        "explanation": "Mail clients usually retrieve messages using other protocols."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "SMTP",
+        "en": "SMTP"
+      },
+      {
+        "id": "o1",
+        "ru": "CSS",
+        "en": "CSS"
+      },
+      {
+        "id": "o2",
+        "ru": "CORS",
+        "en": "CORS"
+      },
+      {
+        "id": "o3",
+        "ru": "Движок рендеринга",
+        "en": "Rendering engine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/SMTP"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_imap",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает протокол доступа к почте с хранением писем и папок на сервере?",
+        "explanation": "Так удобнее согласовывать почтовый ящик на нескольких устройствах."
+      },
+      "en": {
+        "question": "Which term means a mail-access protocol that keeps messages and folders on a server?",
+        "explanation": "This makes it easier to synchronise a mailbox across devices."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "IMAP",
+        "en": "IMAP"
+      },
+      {
+        "id": "o1",
+        "ru": "JavaScript",
+        "en": "JavaScript"
+      },
+      {
+        "id": "o2",
+        "ru": "SMTP",
+        "en": "SMTP"
+      },
+      {
+        "id": "o3",
+        "ru": "CSS",
+        "en": "CSS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/IMAP"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_udp",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает транспортный протокол без установления соединения и встроенной гарантии доставки?",
+        "explanation": "Надёжность при необходимости обеспечивает приложение."
+      },
+      "en": {
+        "question": "Which term means a connectionless transport protocol without built-in delivery guarantees?",
+        "explanation": "An application must add reliability when needed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "UDP",
+        "en": "UDP"
+      },
+      {
+        "id": "o1",
+        "ru": "XML",
+        "en": "XML"
+      },
+      {
+        "id": "o2",
+        "ru": "Процентное кодирование",
+        "en": "Percent-encoding"
+      },
+      {
+        "id": "o3",
+        "ru": "SMTP",
+        "en": "SMTP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/UDP"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_websocket",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает протокол постоянного двустороннего обмена между браузером и сервером?",
+        "explanation": "Он подходит для приложений, которым нужны сообщения в реальном времени."
+      },
+      "en": {
+        "question": "Which term means a protocol for persistent two-way browser-server communication?",
+        "explanation": "It suits applications that need real-time messages."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "WebSocket",
+        "en": "WebSocket"
+      },
+      {
+        "id": "o1",
+        "ru": "Движок рендеринга",
+        "en": "Rendering engine"
+      },
+      {
+        "id": "o2",
+        "ru": "JavaScript",
+        "en": "JavaScript"
+      },
+      {
+        "id": "o3",
+        "ru": "Фишинг",
+        "en": "Phishing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/WebSockets"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_bandwidth",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает пропускную способность канала связи?",
+        "explanation": "Её часто выражают в битах в секунду."
+      },
+      "en": {
+        "question": "Which term means the data-carrying capacity of a communication link?",
+        "explanation": "It is often expressed in bits per second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Полоса пропускания",
+        "en": "Bandwidth"
+      },
+      {
+        "id": "o1",
+        "ru": "Движок рендеринга",
+        "en": "Rendering engine"
+      },
+      {
+        "id": "o2",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o3",
+        "ru": "CORS",
+        "en": "CORS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/Bandwidth"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_latency",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает задержку при передаче данных по сети?",
+        "explanation": "Даже высокая пропускная способность не исключает большой задержки."
+      },
+      "en": {
+        "question": "Which term means the delay in transferring data over a network?",
+        "explanation": "High bandwidth does not rule out a long delay."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Латентность",
+        "en": "Latency"
+      },
+      {
+        "id": "o1",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o2",
+        "ru": "WebSocket",
+        "en": "WebSocket"
+      },
+      {
+        "id": "o3",
+        "ru": "Процентное кодирование",
+        "en": "Percent-encoding"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/Latency"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_phishing",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает обман, побуждающий человека выдать пароль через поддельное сообщение или страницу?",
+        "explanation": "Поддельная страница может внешне копировать известный сервис."
+      },
+      "en": {
+        "question": "Which term means deception that uses a fake message or page to obtain a password?",
+        "explanation": "A fake page can imitate a familiar service's appearance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фишинг",
+        "en": "Phishing"
+      },
+      {
+        "id": "o1",
+        "ru": "XML",
+        "en": "XML"
+      },
+      {
+        "id": "o2",
+        "ru": "Политика одного источника",
+        "en": "Same-origin policy"
+      },
+      {
+        "id": "o3",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cisa.gov/sites/default/files/publications/Phishing%20General%20Security%20Postcard_6.24.2021_508c.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_firewall",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает средство, фильтрующее сетевой трафик по правилам?",
+        "explanation": "Правила могут разрешать или запрещать отдельные соединения."
+      },
+      "en": {
+        "question": "Which term means a system that filters network traffic according to rules?",
+        "explanation": "Rules can allow or block particular connections."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Межсетевой экран",
+        "en": "Firewall"
+      },
+      {
+        "id": "o1",
+        "ru": "JavaScript",
+        "en": "JavaScript"
+      },
+      {
+        "id": "o2",
+        "ru": "XML",
+        "en": "XML"
+      },
+      {
+        "id": "o3",
+        "ru": "JSON",
+        "en": "JSON"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/Firewall"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_vpn",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает защищённый виртуальный туннель поверх другой сети?",
+        "explanation": "Такой туннель может соединять устройство с удалённой частной сетью."
+      },
+      "en": {
+        "question": "Which term means a protected virtual tunnel over another network?",
+        "explanation": "Such a tunnel can connect a device to a remote private network."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "VPN",
+        "en": "VPN"
+      },
+      {
+        "id": "o1",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      },
+      {
+        "id": "o2",
+        "ru": "UDP",
+        "en": "UDP"
+      },
+      {
+        "id": "o3",
+        "ru": "JSON",
+        "en": "JSON"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cloudflare.com/learning/access-management/what-is-a-vpn/"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_api",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает оговорённый интерфейс взаимодействия программ?",
+        "explanation": "Он задаёт способы обращения к функциям или данным сервиса."
+      },
+      "en": {
+        "question": "Which term means a defined interface through which programs interact?",
+        "explanation": "It specifies ways to access a service's functions or data."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "API",
+        "en": "API"
+      },
+      {
+        "id": "o1",
+        "ru": "Межсетевой экран",
+        "en": "Firewall"
+      },
+      {
+        "id": "o2",
+        "ru": "IMAP",
+        "en": "IMAP"
+      },
+      {
+        "id": "o3",
+        "ru": "WebSocket",
+        "en": "WebSocket"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/API"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_json",
+    "categoryId": "internet",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает текстовый формат обмена данными с объектами и массивами?",
+        "explanation": "Имена свойств и строковые значения в нём записываются в двойных кавычках."
+      },
+      "en": {
+        "question": "Which term means a text data-exchange format using objects and arrays?",
+        "explanation": "Property names and string values use double quotation marks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "JSON",
+        "en": "JSON"
+      },
+      {
+        "id": "o1",
+        "ru": "Фишинг",
+        "en": "Phishing"
+      },
+      {
+        "id": "o2",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o3",
+        "ru": "CORS",
+        "en": "CORS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/JSON"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_xml",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает язык разметки с пользовательскими тегами для структурированных данных?",
+        "explanation": "В отличие от HTML он не ограничен заранее заданным набором тегов."
+      },
+      "en": {
+        "question": "Which term means a markup language with custom tags for structured data?",
+        "explanation": "Unlike HTML it is not limited to a predefined set of tags."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "XML",
+        "en": "XML"
+      },
+      {
+        "id": "o1",
+        "ru": "JSON",
+        "en": "JSON"
+      },
+      {
+        "id": "o2",
+        "ru": "Полоса пропускания",
+        "en": "Bandwidth"
+      },
+      {
+        "id": "o3",
+        "ru": "SMTP",
+        "en": "SMTP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/XML"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_url_encoding",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает замену специальных байтов в URL последовательностями со знаком процента?",
+        "explanation": "Например, пробел может быть записан как %20."
+      },
+      "en": {
+        "question": "Which term means replacing special bytes in a URL with percent-prefixed sequences?",
+        "explanation": "For example, a space can be represented as %20."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Процентное кодирование",
+        "en": "Percent-encoding"
+      },
+      {
+        "id": "o1",
+        "ru": "SMTP",
+        "en": "SMTP"
+      },
+      {
+        "id": "o2",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o3",
+        "ru": "CORS",
+        "en": "CORS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_domain_registrar",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает организацию, оформляющую регистрацию доменных имён?",
+        "explanation": "Регистрация имени и размещение сайта — разные услуги."
+      },
+      "en": {
+        "question": "Which term means an organisation that handles domain-name registrations?",
+        "explanation": "Registering a name and hosting a website are different services."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      },
+      {
+        "id": "o1",
+        "ru": "CSS",
+        "en": "CSS"
+      },
+      {
+        "id": "o2",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o3",
+        "ru": "Полоса пропускания",
+        "en": "Bandwidth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.icann.org/en/contracted-parties/accredited-registrars"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_browser_engine",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает компонент браузера, превращающий HTML и CSS в изображение страницы?",
+        "explanation": "Он рассчитывает расположение элементов перед их отрисовкой."
+      },
+      "en": {
+        "question": "Which term means the browser component that turns HTML and CSS into a displayed page?",
+        "explanation": "It calculates element layout before painting them."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Движок рендеринга",
+        "en": "Rendering engine"
+      },
+      {
+        "id": "o1",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      },
+      {
+        "id": "o2",
+        "ru": "Процентное кодирование",
+        "en": "Percent-encoding"
+      },
+      {
+        "id": "o3",
+        "ru": "SMTP",
+        "en": "SMTP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/Engine/Rendering"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_local_storage",
+    "categoryId": "internet",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает браузерное хранилище ключей и значений, сохраняющееся между сеансами?",
+        "explanation": "Оно отделено от cookie и автоматически не отправляется с каждым HTTP-запросом."
+      },
+      "en": {
+        "question": "Which term means browser key-value storage that persists across sessions?",
+        "explanation": "It is separate from cookies and is not automatically sent with each HTTP request."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "localStorage",
+        "en": "localStorage"
+      },
+      {
+        "id": "o1",
+        "ru": "Межсетевой экран",
+        "en": "Firewall"
+      },
+      {
+        "id": "o2",
+        "ru": "Латентность",
+        "en": "Latency"
+      },
+      {
+        "id": "o3",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_same_origin",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает политику, ограничивающую доступ скрипта к данным другого источника?",
+        "explanation": "Источник определяется сочетанием схемы, имени хоста и порта."
+      },
+      "en": {
+        "question": "Which term means the policy restricting a script's access to another origin's data?",
+        "explanation": "An origin is determined by scheme, hostname and port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Политика одного источника",
+        "en": "Same-origin policy"
+      },
+      {
+        "id": "o1",
+        "ru": "Регистратор доменов",
+        "en": "Domain registrar"
+      },
+      {
+        "id": "o2",
+        "ru": "Полоса пропускания",
+        "en": "Bandwidth"
+      },
+      {
+        "id": "o3",
+        "ru": "SMTP",
+        "en": "SMTP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy"
+    ],
+    "image": null
+  },
+  {
+    "id": "internet_m50_cors",
+    "categoryId": "internet",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает механизм разрешения сервером определённых межсайтовых запросов браузера?",
+        "explanation": "Разрешения передаются в HTTP-заголовках ответа."
+      },
+      "en": {
+        "question": "Which term means the mechanism by which a server permits certain cross-origin browser requests?",
+        "explanation": "Permissions are communicated in HTTP response headers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "CORS",
+        "en": "CORS"
+      },
+      {
+        "id": "o1",
+        "ru": "Фишинг",
+        "en": "Phishing"
+      },
+      {
+        "id": "o2",
+        "ru": "Полоса пропускания",
+        "en": "Bandwidth"
+      },
+      {
+        "id": "o3",
+        "ru": "Процентное кодирование",
+        "en": "Percent-encoding"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Glossary/CORS"
+    ],
+    "image": null
   }
 ]

@@ -1332,5 +1332,885 @@
       "https://openstax.org/books/biology-2e/pages/26-2-gymnosperms"
     ],
     "image": null
+  },
+  {
+    "id": "plants_m50_cuticle",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется восковой защитный слой на поверхности надземных частей растения?",
+        "explanation": "Она помогает ограничивать потерю воды."
+      },
+      "en": {
+        "question": "What is the waxy protective layer on aerial plant surfaces called?",
+        "explanation": "It helps limit water loss."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кутикула",
+        "en": "Cuticle"
+      },
+      {
+        "id": "o1",
+        "ru": "Эпидерма",
+        "en": "Epidermis"
+      },
+      {
+        "id": "o2",
+        "ru": "Перидерма",
+        "en": "Periderm"
+      },
+      {
+        "id": "o3",
+        "ru": "Флоэма",
+        "en": "Phloem"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_lenticel",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется участок пробки древесного стебля, через который идёт газообмен?",
+        "explanation": "Газообмен необходим и живым клеткам древесного стебля."
+      },
+      "en": {
+        "question": "What is a region of woody stem cork that permits gas exchange called?",
+        "explanation": "Living cells in woody stems also need gas exchange."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чечевичка",
+        "en": "Lenticel"
+      },
+      {
+        "id": "o1",
+        "ru": "Листовой рубец",
+        "en": "Leaf scar"
+      },
+      {
+        "id": "o2",
+        "ru": "Междоузлие",
+        "en": "Internode"
+      },
+      {
+        "id": "o3",
+        "ru": "Пазушная почка",
+        "en": "Axillary bud"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_rhizome",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется горизонтальный подземный побег с узлами и почками?",
+        "explanation": "Несмотря на название, это видоизменённый побег, а не корень."
+      },
+      "en": {
+        "question": "What is a horizontal underground stem with nodes and buds called?",
+        "explanation": "Despite its rootlike appearance it is a modified stem, not a root."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Корневище",
+        "en": "Rhizome"
+      },
+      {
+        "id": "o1",
+        "ru": "Главный корень",
+        "en": "Taproot"
+      },
+      {
+        "id": "o2",
+        "ru": "Луковица",
+        "en": "Bulb"
+      },
+      {
+        "id": "o3",
+        "ru": "Ус",
+        "en": "Runner"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_tuber",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется утолщённый подземный побег картофеля, запасающий питательные вещества?",
+        "explanation": "Его «глазки» — почки, из которых могут вырасти новые побеги."
+      },
+      "en": {
+        "question": "What is the swollen underground potato stem that stores nutrients called?",
+        "explanation": "Its eyes are buds from which new shoots can grow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клубень",
+        "en": "Tuber"
+      },
+      {
+        "id": "o1",
+        "ru": "Покой семян",
+        "en": "Seed dormancy"
+      },
+      {
+        "id": "o2",
+        "ru": "Заболонь",
+        "en": "Sapwood"
+      },
+      {
+        "id": "o3",
+        "ru": "Эндосперм",
+        "en": "Endosperm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_bulb",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется укороченный побег с мясистыми запасающими листьями, как у лука?",
+        "explanation": "Основные запасы в ней находятся в видоизменённых листьях."
+      },
+      "en": {
+        "question": "What is a short stem surrounded by fleshy storage leaves, as in an onion called?",
+        "explanation": "Most stored reserves are in modified leaves."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луковица",
+        "en": "Bulb"
+      },
+      {
+        "id": "o1",
+        "ru": "Клубень",
+        "en": "Tuber"
+      },
+      {
+        "id": "o2",
+        "ru": "Корневище",
+        "en": "Rhizome"
+      },
+      {
+        "id": "o3",
+        "ru": "Клубнелуковица",
+        "en": "Corm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_stolon",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется горизонтальный побег над землёй, образующий новые растения в узлах?",
+        "explanation": "У земляники такие побеги часто называют усами."
+      },
+      "en": {
+        "question": "What is a horizontal above-ground stem that forms new plants at nodes called?",
+        "explanation": "In strawberries these shoots are commonly called runners."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Столон",
+        "en": "Stolon"
+      },
+      {
+        "id": "o1",
+        "ru": "Корневище",
+        "en": "Rhizome"
+      },
+      {
+        "id": "o2",
+        "ru": "Корневой волосок",
+        "en": "Root hair"
+      },
+      {
+        "id": "o3",
+        "ru": "Колючка",
+        "en": "Thorn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_petiole",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется часть листа, соединяющая листовую пластинку со стеблем?",
+        "explanation": "Некоторые листья сидячие и не имеют этой части."
+      },
+      "en": {
+        "question": "What is the leaf part connecting its blade to the stem called?",
+        "explanation": "Some leaves are sessile and lack this part."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Черешок",
+        "en": "Petiole"
+      },
+      {
+        "id": "o1",
+        "ru": "Луковица",
+        "en": "Bulb"
+      },
+      {
+        "id": "o2",
+        "ru": "Годичное кольцо",
+        "en": "Growth ring"
+      },
+      {
+        "id": "o3",
+        "ru": "Заболонь",
+        "en": "Sapwood"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_sepal",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется наружный листочек околоцветника, обычно защищающий бутон?",
+        "explanation": "Совокупность чашелистиков образует чашечку."
+      },
+      "en": {
+        "question": "What is an outer flower part that usually protects the bud called?",
+        "explanation": "All the sepals together form the calyx."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чашелистик",
+        "en": "Sepal"
+      },
+      {
+        "id": "o1",
+        "ru": "Корневище",
+        "en": "Rhizome"
+      },
+      {
+        "id": "o2",
+        "ru": "Ядровая древесина",
+        "en": "Heartwood"
+      },
+      {
+        "id": "o3",
+        "ru": "Столон",
+        "en": "Stolon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_petal",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется часть венчика, часто привлекающая опылителей окраской?",
+        "explanation": "Лепестки не обязательно имеют яркую окраску у всех растений."
+      },
+      "en": {
+        "question": "What is a corolla part that often attracts pollinators through colour called?",
+        "explanation": "Petals are not necessarily brightly coloured in all plants."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лепесток",
+        "en": "Petal"
+      },
+      {
+        "id": "o1",
+        "ru": "Эндосперм",
+        "en": "Endosperm"
+      },
+      {
+        "id": "o2",
+        "ru": "Столбик",
+        "en": "Style"
+      },
+      {
+        "id": "o3",
+        "ru": "Кутикула",
+        "en": "Cuticle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_filament",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется тонкая часть тычинки, поддерживающая пыльник?",
+        "explanation": "Вместе с пыльником она составляет тычинку."
+      },
+      "en": {
+        "question": "What is the slender stamen part supporting the anther called?",
+        "explanation": "Together with the anther it forms a stamen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тычиночная нить",
+        "en": "Filament"
+      },
+      {
+        "id": "o1",
+        "ru": "Черешок",
+        "en": "Petiole"
+      },
+      {
+        "id": "o2",
+        "ru": "Столбик",
+        "en": "Style"
+      },
+      {
+        "id": "o3",
+        "ru": "Цветоножка",
+        "en": "Pedicel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_style",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется часть пестика между рыльцем и завязью?",
+        "explanation": "По столбику обычно растёт пыльцевая трубка."
+      },
+      "en": {
+        "question": "What is the pistil part between the stigma and ovary called?",
+        "explanation": "The pollen tube usually grows through it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Столбик",
+        "en": "Style"
+      },
+      {
+        "id": "o1",
+        "ru": "Тычиночная нить",
+        "en": "Filament"
+      },
+      {
+        "id": "o2",
+        "ru": "Чашелистик",
+        "en": "Sepal"
+      },
+      {
+        "id": "o3",
+        "ru": "Пыльник",
+        "en": "Anther"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_endosperm",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется питательная ткань семени многих цветковых растений?",
+        "explanation": "Она поддерживает развитие зародыша."
+      },
+      "en": {
+        "question": "What is the nutritive seed tissue of many flowering plants called?",
+        "explanation": "It supports embryo development."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эндосперм",
+        "en": "Endosperm"
+      },
+      {
+        "id": "o1",
+        "ru": "Семенная кожура",
+        "en": "Seed coat"
+      },
+      {
+        "id": "o2",
+        "ru": "Зародышевый корешок",
+        "en": "Radicle"
+      },
+      {
+        "id": "o3",
+        "ru": "Пыльцевое зерно",
+        "en": "Pollen grain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_dormancy",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется период, когда жизнеспособное семя не прорастает и его обмен веществ замедлен?",
+        "explanation": "Для выхода из него иногда нужны определённая температура или свет."
+      },
+      "en": {
+        "question": "What is a resting seed state that delays germination called?",
+        "explanation": "Breaking it may require particular temperatures or light."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Покой семян",
+        "en": "Seed dormancy"
+      },
+      {
+        "id": "o1",
+        "ru": "Ядровая древесина",
+        "en": "Heartwood"
+      },
+      {
+        "id": "o2",
+        "ru": "Заболонь",
+        "en": "Sapwood"
+      },
+      {
+        "id": "o3",
+        "ru": "Корневище",
+        "en": "Rhizome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_germination",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется начало роста зародыша из семени?",
+        "explanation": "Обычно оно начинается с поглощения воды семенем."
+      },
+      "en": {
+        "question": "What is the start of an embryo's growth from a seed called?",
+        "explanation": "It usually begins when the seed takes up water."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прорастание",
+        "en": "Germination"
+      },
+      {
+        "id": "o1",
+        "ru": "Многолетник",
+        "en": "Perennial"
+      },
+      {
+        "id": "o2",
+        "ru": "Клубень",
+        "en": "Tuber"
+      },
+      {
+        "id": "o3",
+        "ru": "Кутикула",
+        "en": "Cuticle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_biennial",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется растение, завершающее жизненный цикл за два вегетационных сезона?",
+        "explanation": "В первый сезон многие такие растения накапливают вещества, а во второй цветут."
+      },
+      "en": {
+        "question": "What is a plant completing its life cycle in two growing seasons called?",
+        "explanation": "Many store reserves in the first season and flower in the second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Двулетник",
+        "en": "Biennial"
+      },
+      {
+        "id": "o1",
+        "ru": "Однолетник",
+        "en": "Annual"
+      },
+      {
+        "id": "o2",
+        "ru": "Многолетник",
+        "en": "Perennial"
+      },
+      {
+        "id": "o3",
+        "ru": "Эфемер",
+        "en": "Ephemeral annual"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.uvm.edu/extension/news/annuals-vs-perennials"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_perennial",
+    "categoryId": "plants",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется растение, живущее более двух лет?",
+        "explanation": "Надземные части некоторых многолетников могут ежегодно отмирать."
+      },
+      "en": {
+        "question": "What is a plant that lives for more than two years called?",
+        "explanation": "The aerial parts of some perennials may die back each year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Многолетник",
+        "en": "Perennial"
+      },
+      {
+        "id": "o1",
+        "ru": "Однолетник",
+        "en": "Annual"
+      },
+      {
+        "id": "o2",
+        "ru": "Двулетник",
+        "en": "Biennial"
+      },
+      {
+        "id": "o3",
+        "ru": "Эфемер",
+        "en": "Ephemeral annual"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.uvm.edu/extension/news/annuals-vs-perennials"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_compound_leaf",
+    "categoryId": "plants",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется лист, пластинка которого разделена на отдельные листочки?",
+        "explanation": "Листочки могут располагаться перисто или пальчато."
+      },
+      "en": {
+        "question": "What is a leaf whose blade is divided into separate leaflets called?",
+        "explanation": "The leaflets can have pinnate or palmate arrangements."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сложный лист",
+        "en": "Compound leaf"
+      },
+      {
+        "id": "o1",
+        "ru": "Простой лист",
+        "en": "Simple leaf"
+      },
+      {
+        "id": "o2",
+        "ru": "Прилистник",
+        "en": "Stipule"
+      },
+      {
+        "id": "o3",
+        "ru": "Черешок",
+        "en": "Petiole"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_companion_cell",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие клетки флоэмы поддерживают обмен веществ в ситовидных трубках?",
+        "explanation": "Клетки-спутницы соединены с ситовидными элементами и содержат много митохондрий."
+      },
+      "en": {
+        "question": "Which phloem cells support the metabolism of sieve-tube elements?",
+        "explanation": "Companion cells are connected to sieve elements and contain many mitochondria."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клетки-спутницы",
+        "en": "Companion cells"
+      },
+      {
+        "id": "o1",
+        "ru": "Замыкающие клетки",
+        "en": "Guard cells"
+      },
+      {
+        "id": "o2",
+        "ru": "Трахеиды",
+        "en": "Tracheids"
+      },
+      {
+        "id": "o3",
+        "ru": "Корневые волоски",
+        "en": "Root hairs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_cambium",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется боковая меристема, образующая вторичные ксилему и флоэму?",
+        "explanation": "Камбий способствует росту стебля и корня в толщину."
+      },
+      "en": {
+        "question": "What is the lateral meristem producing secondary xylem and phloem called?",
+        "explanation": "It contributes to the thickening of stems and roots."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сосудистый камбий",
+        "en": "Vascular cambium"
+      },
+      {
+        "id": "o1",
+        "ru": "Пробковый камбий",
+        "en": "Cork cambium"
+      },
+      {
+        "id": "o2",
+        "ru": "Верхушечная меристема",
+        "en": "Apical meristem"
+      },
+      {
+        "id": "o3",
+        "ru": "Перицикл",
+        "en": "Pericycle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-2-stems"
+    ],
+    "image": null
+  },
+  {
+    "id": "plants_m50_annual_ring",
+    "categoryId": "plants",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется слой древесины, обычно отражающий один сезон роста?",
+        "explanation": "Ранняя и поздняя древесина различаются строением клеток."
+      },
+      "en": {
+        "question": "What is a wood layer that usually records one growing season called?",
+        "explanation": "Earlywood and latewood differ in cell structure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Годичное кольцо",
+        "en": "Growth ring"
+      },
+      {
+        "id": "o1",
+        "ru": "Заболонь",
+        "en": "Sapwood"
+      },
+      {
+        "id": "o2",
+        "ru": "Клубень",
+        "en": "Tuber"
+      },
+      {
+        "id": "o3",
+        "ru": "Луковица",
+        "en": "Bulb"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/30-2-stems"
+    ],
+    "image": null
   }
 ]

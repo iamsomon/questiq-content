@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1880,
+  "approvedQuestions": 2020,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 8120,
+  "remainingQuestions": 7980,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -49,21 +49,21 @@
     },
     {
       "id": "biology",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -391,59 +391,59 @@
     },
     {
       "id": "animals",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
       "id": "plants",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
       "id": "oceans",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -467,21 +467,21 @@
     },
     {
       "id": "ecology",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -505,21 +505,21 @@
     },
     {
       "id": "artificial_intelligence",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -543,21 +543,21 @@
     },
     {
       "id": "internet",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {

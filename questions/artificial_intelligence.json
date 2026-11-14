@@ -1318,5 +1318,885 @@
       "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions"
     ],
     "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_inference",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется применение обученной модели для получения предсказаний?",
+        "explanation": "На этом этапе веса обычно уже определены обучением."
+      },
+      "en": {
+        "question": "In machine learning, what is using a trained model to produce predictions called?",
+        "explanation": "At this stage the weights have usually already been learned."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Инференс",
+        "en": "Inference"
+      },
+      {
+        "id": "o1",
+        "ru": "Перенос обучения",
+        "en": "Transfer learning"
+      },
+      {
+        "id": "o2",
+        "ru": "Dropout",
+        "en": "Dropout"
+      },
+      {
+        "id": "o3",
+        "ru": "Утечка данных",
+        "en": "Data leakage"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#inference"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_fine_tuning",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется дополнительное обучение предобученной модели под конкретную задачу?",
+        "explanation": "Оно позволяет приспособить общую модель к более узкой области."
+      },
+      "en": {
+        "question": "In machine learning, what is additional training of a pretrained model for a particular task called?",
+        "explanation": "It can adapt a general model to a narrower domain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дообучение",
+        "en": "Fine-tuning"
+      },
+      {
+        "id": "o1",
+        "ru": "Обучение с нуля",
+        "en": "Training from scratch"
+      },
+      {
+        "id": "o2",
+        "ru": "Кластеризация",
+        "en": "Clustering"
+      },
+      {
+        "id": "o3",
+        "ru": "Понижение размерности",
+        "en": "Dimensionality reduction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#fine-tuning"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_transfer",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется использование знаний, полученных моделью на одной задаче, для другой?",
+        "explanation": "Предобученные представления могут уменьшить потребность в новых данных."
+      },
+      "en": {
+        "question": "In machine learning, what is using knowledge learned on one task for another task called?",
+        "explanation": "Pretrained representations can reduce the need for new data."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перенос обучения",
+        "en": "Transfer learning"
+      },
+      {
+        "id": "o1",
+        "ru": "Dropout",
+        "en": "Dropout"
+      },
+      {
+        "id": "o2",
+        "ru": "One-hot-кодирование",
+        "en": "One-hot encoding"
+      },
+      {
+        "id": "o3",
+        "ru": "Внимание",
+        "en": "Attention"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#transfer-learning"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_regularization",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется ограничение сложности модели или штрафование её параметров для уменьшения переобучения?",
+        "explanation": "Штраф добавляется к цели обучения, а не заменяет проверку на новых данных."
+      },
+      "en": {
+        "question": "In machine learning, what is constraining model complexity or penalising its parameters to reduce overfitting called?",
+        "explanation": "A penalty can be added to the training objective without replacing evaluation on new data."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Регуляризация",
+        "en": "Regularization"
+      },
+      {
+        "id": "o1",
+        "ru": "Инициализация",
+        "en": "Initialization"
+      },
+      {
+        "id": "o2",
+        "ru": "Разметка",
+        "en": "Labelling"
+      },
+      {
+        "id": "o3",
+        "ru": "Токенизация",
+        "en": "Tokenization"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#regularization"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_cross_validation",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется оценка модели с последовательным использованием разных частей данных для проверки?",
+        "explanation": "В k-fold варианте набор делят на k частей."
+      },
+      "en": {
+        "question": "In machine learning, what is evaluating a model by taking turns using different data subsets for validation called?",
+        "explanation": "In the k-fold version the dataset is split into k folds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кросс-валидация",
+        "en": "Cross-validation"
+      },
+      {
+        "id": "o1",
+        "ru": "One-hot-кодирование",
+        "en": "One-hot encoding"
+      },
+      {
+        "id": "o2",
+        "ru": "Обратное распространение ошибки",
+        "en": "Backpropagation"
+      },
+      {
+        "id": "o3",
+        "ru": "Случайный лес",
+        "en": "Random forest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://scikit-learn.org/stable/modules/cross_validation.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_confusion",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется таблица сопоставления истинных и предсказанных классов?",
+        "explanation": "По ней видны не только верные ответы, но и типы ошибок классификации."
+      },
+      "en": {
+        "question": "In machine learning, what is a table comparing actual classes with predicted classes called?",
+        "explanation": "It reveals types of classification errors as well as correct predictions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Матрица ошибок",
+        "en": "Confusion matrix"
+      },
+      {
+        "id": "o1",
+        "ru": "Корреляционная матрица",
+        "en": "Correlation matrix"
+      },
+      {
+        "id": "o2",
+        "ru": "Матрица признаков",
+        "en": "Feature matrix"
+      },
+      {
+        "id": "o3",
+        "ru": "Таблица эмбеддингов",
+        "en": "Embedding table"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#confusion-matrix"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_accuracy",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется доля верных предсказаний среди всех предсказаний?",
+        "explanation": "При сильном дисбалансе классов одной этой метрики может быть недостаточно."
+      },
+      "en": {
+        "question": "In machine learning, what is the fraction of all predictions that are correct called?",
+        "explanation": "This metric alone may be insufficient when classes are highly imbalanced."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Доля правильных ответов",
+        "en": "Accuracy"
+      },
+      {
+        "id": "o1",
+        "ru": "Precision",
+        "en": "Precision"
+      },
+      {
+        "id": "o2",
+        "ru": "Recall",
+        "en": "Recall"
+      },
+      {
+        "id": "o3",
+        "ru": "Среднеквадратичная ошибка",
+        "en": "Mean squared error"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#accuracy"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_f1",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется гармоническое среднее precision и recall?",
+        "explanation": "Высокое значение требует хорошего баланса точности и полноты."
+      },
+      "en": {
+        "question": "In machine learning, what is the harmonic mean of precision and recall called?",
+        "explanation": "A high value requires a good balance of precision and recall."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "F1-мера",
+        "en": "F1 score"
+      },
+      {
+        "id": "o1",
+        "ru": "Среднее арифметическое",
+        "en": "Arithmetic mean"
+      },
+      {
+        "id": "o2",
+        "ru": "Точность классификации",
+        "en": "Accuracy"
+      },
+      {
+        "id": "o3",
+        "ru": "Среднеквадратичная ошибка",
+        "en": "Mean squared error"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_outlier",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется наблюдение, заметно отличающееся от основной массы данных?",
+        "explanation": "Такое наблюдение может быть ошибкой или редким реальным случаем."
+      },
+      "en": {
+        "question": "In machine learning, what is an observation that differs markedly from most of the data called?",
+        "explanation": "It may be an error or a rare genuine case."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Выброс",
+        "en": "Outlier"
+      },
+      {
+        "id": "o1",
+        "ru": "Инференс",
+        "en": "Inference"
+      },
+      {
+        "id": "o2",
+        "ru": "Случайный лес",
+        "en": "Random forest"
+      },
+      {
+        "id": "o3",
+        "ru": "F1-мера",
+        "en": "F1 score"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#outliers"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_data_leakage",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется попадание в обучение информации, недоступной при реальном предсказании?",
+        "explanation": "Из-за неё качество на проверке может оказаться обманчиво высоким."
+      },
+      "en": {
+        "question": "In machine learning, what is training on information unavailable at real prediction time called?",
+        "explanation": "It can make evaluation results misleadingly high."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Утечка данных",
+        "en": "Data leakage"
+      },
+      {
+        "id": "o1",
+        "ru": "Промпт",
+        "en": "Prompt"
+      },
+      {
+        "id": "o2",
+        "ru": "Выброс",
+        "en": "Outlier"
+      },
+      {
+        "id": "o3",
+        "ru": "F1-мера",
+        "en": "F1 score"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://scikit-learn.org/stable/common_pitfalls.html#data-leakage"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_normalization",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется приведение числовых признаков к сопоставимому масштабу?",
+        "explanation": "Без обработки крупные числовые масштабы могут чрезмерно влиять на обучение."
+      },
+      "en": {
+        "question": "In machine learning, what is rescaling numerical features to comparable ranges called?",
+        "explanation": "Without preprocessing, large numerical scales can dominate training."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нормализация",
+        "en": "Normalization"
+      },
+      {
+        "id": "o1",
+        "ru": "Аугментация данных",
+        "en": "Data augmentation"
+      },
+      {
+        "id": "o2",
+        "ru": "Разметка данных",
+        "en": "Data labelling"
+      },
+      {
+        "id": "o3",
+        "ru": "Кластеризация",
+        "en": "Clustering"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#normalization"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_one_hot",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется кодирование категории вектором с одной единицей и нулями в остальных позициях?",
+        "explanation": "Разные позиции единицы представляют разные категории."
+      },
+      "en": {
+        "question": "In machine learning, what is encoding a category as a vector with one 1 and zeros elsewhere called?",
+        "explanation": "Different positions of the 1 represent different categories."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "One-hot-кодирование",
+        "en": "One-hot encoding"
+      },
+      {
+        "id": "o1",
+        "ru": "Порядковое кодирование",
+        "en": "Ordinal encoding"
+      },
+      {
+        "id": "o2",
+        "ru": "Нормализация",
+        "en": "Normalization"
+      },
+      {
+        "id": "o3",
+        "ru": "Хеширование",
+        "en": "Hashing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#one-hot-encoding"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_ensemble",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется объединение предсказаний нескольких моделей?",
+        "explanation": "Сочетание моделей может уменьшать отдельные ошибки."
+      },
+      "en": {
+        "question": "In machine learning, what is combining predictions from several models called?",
+        "explanation": "Combining models can reduce individual errors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ансамблирование",
+        "en": "Ensembling"
+      },
+      {
+        "id": "o1",
+        "ru": "Дообучение",
+        "en": "Fine-tuning"
+      },
+      {
+        "id": "o2",
+        "ru": "Токен",
+        "en": "Token"
+      },
+      {
+        "id": "o3",
+        "ru": "F1-мера",
+        "en": "F1 score"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#ensemble"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_random_forest",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется ансамбль деревьев решений с рандомизацией обучения?",
+        "explanation": "Ответы деревьев объединяют голосованием или усреднением."
+      },
+      "en": {
+        "question": "In machine learning, what is an ensemble of decision trees trained with randomisation called?",
+        "explanation": "Tree predictions are combined by voting or averaging."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Случайный лес",
+        "en": "Random forest"
+      },
+      {
+        "id": "o1",
+        "ru": "Промпт",
+        "en": "Prompt"
+      },
+      {
+        "id": "o2",
+        "ru": "F1-мера",
+        "en": "F1 score"
+      },
+      {
+        "id": "o3",
+        "ru": "Токен",
+        "en": "Token"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#random-forest"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_backpropagation",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется вычисление градиентов в нейросети с передачей производных от выхода к предыдущим слоям?",
+        "explanation": "В основе вычислений лежит цепное правило дифференцирования."
+      },
+      "en": {
+        "question": "In machine learning, what is computing neural-network gradients by propagating derivatives back from the output called?",
+        "explanation": "The calculations rely on the chain rule of differentiation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обратное распространение ошибки",
+        "en": "Backpropagation"
+      },
+      {
+        "id": "o1",
+        "ru": "Дообучение",
+        "en": "Fine-tuning"
+      },
+      {
+        "id": "o2",
+        "ru": "One-hot-кодирование",
+        "en": "One-hot encoding"
+      },
+      {
+        "id": "o3",
+        "ru": "Ансамблирование",
+        "en": "Ensembling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#backpropagation"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_dropout",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется случайное отключение части нейронов во время обучения?",
+        "explanation": "Это способ регуляризации, а не постоянное удаление нейронов модели."
+      },
+      "en": {
+        "question": "In machine learning, what is randomly disabling some neurons during training called?",
+        "explanation": "It is a regularisation technique, not permanent removal of model neurons."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Dropout",
+        "en": "Dropout"
+      },
+      {
+        "id": "o1",
+        "ru": "Пакетная нормализация",
+        "en": "Batch normalization"
+      },
+      {
+        "id": "o2",
+        "ru": "Квантизация",
+        "en": "Quantization"
+      },
+      {
+        "id": "o3",
+        "ru": "Отсечение градиента",
+        "en": "Gradient clipping"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#dropout-regularization"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_token",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется элемент последовательности текста, который обрабатывает языковая модель?",
+        "explanation": "Им может быть слово, часть слова или отдельный символ."
+      },
+      "en": {
+        "question": "In machine learning, what is an element of a text sequence processed by a language model called?",
+        "explanation": "It can be a word, part of a word or an individual character."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Токен",
+        "en": "Token"
+      },
+      {
+        "id": "o1",
+        "ru": "Эпоха",
+        "en": "Epoch"
+      },
+      {
+        "id": "o2",
+        "ru": "Вектор градиента",
+        "en": "Gradient vector"
+      },
+      {
+        "id": "o3",
+        "ru": "Параметр модели",
+        "en": "Model parameter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#token"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_attention",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется механизм взвешивания значимости разных элементов входной последовательности?",
+        "explanation": "Он позволяет учитывать связь с другими частями последовательности."
+      },
+      "en": {
+        "question": "In machine learning, what is a mechanism for weighting the relevance of different input-sequence elements called?",
+        "explanation": "It allows relationships with other parts of the sequence to be taken into account."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Внимание",
+        "en": "Attention"
+      },
+      {
+        "id": "o1",
+        "ru": "Промпт",
+        "en": "Prompt"
+      },
+      {
+        "id": "o2",
+        "ru": "One-hot-кодирование",
+        "en": "One-hot encoding"
+      },
+      {
+        "id": "o3",
+        "ru": "Дообучение",
+        "en": "Fine-tuning"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#attention"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_hallucination",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется правдоподобный, но неверный или необоснованный ответ генеративной модели?",
+        "explanation": "Уверенная формулировка сама по себе не гарантирует достоверность ответа."
+      },
+      "en": {
+        "question": "In machine learning, what is a plausible but false or unsupported generative-model response called?",
+        "explanation": "Confident wording does not guarantee that the answer is true."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Галлюцинация",
+        "en": "Hallucination"
+      },
+      {
+        "id": "o1",
+        "ru": "Ансамблирование",
+        "en": "Ensembling"
+      },
+      {
+        "id": "o2",
+        "ru": "Утечка данных",
+        "en": "Data leakage"
+      },
+      {
+        "id": "o3",
+        "ru": "Регуляризация",
+        "en": "Regularization"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#hallucination"
+    ],
+    "image": null
+  },
+  {
+    "id": "artificial_intelligence_m50_prompt",
+    "categoryId": "artificial_intelligence",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в машинном обучении называется входная инструкция или запрос к генеративной модели?",
+        "explanation": "Контекст и примеры во входном запросе могут менять результат."
+      },
+      "en": {
+        "question": "In machine learning, what is an input instruction or request to a generative model called?",
+        "explanation": "Context and examples in the input can change the result."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Промпт",
+        "en": "Prompt"
+      },
+      {
+        "id": "o1",
+        "ru": "Выброс",
+        "en": "Outlier"
+      },
+      {
+        "id": "o2",
+        "ru": "Ансамблирование",
+        "en": "Ensembling"
+      },
+      {
+        "id": "o3",
+        "ru": "Кросс-валидация",
+        "en": "Cross-validation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://developers.google.com/machine-learning/glossary#prompt"
+    ],
+    "image": null
   }
 ]

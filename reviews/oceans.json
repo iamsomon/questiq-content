@@ -538,5 +538,365 @@
         "claim": "Correct answer: Through volcanic activity. Such a mountain rises above the surrounding seafloor, but its summit does not reach the sea surface."
       }
     ]
+  },
+  {
+    "id": "oceans_m50_salinity",
+    "status": "approved",
+    "sha256": "6051ba723df667838ac5742ac5ee42eac45516fe54c42b4a793cdafd89366ef2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usgs.gov/faqs/why-ocean-salty",
+        "location": "Dissolved salt concentration (salinity); NOAA linked explanation",
+        "claim": "What is the concentration of dissolved salts in seawater called? Answer: Salinity. Evaporation and freshwater input can change it."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_estuary",
+    "status": "approved",
+    "sha256": "c53fa673ddb9c5603443025924572a49f268d1bbd033fdfb06b284a22463a3cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/estuary.html",
+        "location": "Estuaries where fresh and saltwater mix",
+        "claim": "What is a coastal zone where river water mixes with seawater called? Answer: Estuary. These areas often provide important nursery habitats for fish."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_shelf",
+    "status": "approved",
+    "sha256": "975f014d8fddce22b72079c1e9027ab8bdf483811997c931638c50267c0edecb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
+        "location": "Ocean floor features: Continental shelf",
+        "claim": "What is the submerged continuation of a continent before the pronounced break in slope called? Answer: Continental shelf. Beyond the shelf break a steeper continental slope usually begins."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_slope",
+    "status": "approved",
+    "sha256": "1a247b4f8e90bc7a7a79a8394748c6aedceeec6427050ab377cdf4528f0902c8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
+        "location": "Ocean floor features: Continental slope",
+        "claim": "What is the steep part of a continental margin beyond the shelf called? Answer: Continental slope. It leads from the shallow margin towards greater depths."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_abyssal",
+    "status": "approved",
+    "sha256": "5849cff9c4b5b7a6e998b9b424400f40ead771979f85604d60a35b8c4dfc5def",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
+        "location": "Ocean floor features: Abyssal plain",
+        "claim": "What is a broad flat region of the deep ocean floor called? Answer: Abyssal plain. Sediments gradually smooth irregularities on its surface."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_bathymetry",
+    "status": "approved",
+    "sha256": "c998bb640d7ab3939a1f391cbb1a5285cbc97ffebd8e15070149dff862a5af6a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
+        "location": "Bathymetry and Hydrography sections",
+        "claim": "What is the study of water depth and underwater terrain called? Answer: Bathymetry. Bathymetric maps show underwater mountains, depressions and plains."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_atoll",
+    "status": "approved",
+    "sha256": "0503a0650517d45509f47b5fe6f257bcedcabf1ae6368fcd4ec81985b023b534",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_corals/coral04_reefs.html",
+        "location": "Atoll formation after island subsidence",
+        "claim": "What is a ring-shaped coral reef surrounding a lagoon called? Answer: Atoll. Such formations are often associated with a sinking volcanic island."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_lagoon",
+    "status": "approved",
+    "sha256": "19cd8e6fdee7dd499c56b8fd2ab10291a7030ca56b4479e087912febb42747c9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/lagoon.html",
+        "location": "Coastal and atoll lagoons",
+        "claim": "What is a water body separated from the sea by a natural barrier such as a reef or sandbar called? Answer: Lagoon. Coastal lagoons are generally shallower than coral-atoll lagoons."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_halocline",
+    "status": "approved",
+    "sha256": "ade72736fe43df5f88d94d400604cbf854f7403a2a8c23b20c0bc7c08e88150f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanmotion.org/html/background/ocean-vertical-structure.htm",
+        "location": "Pycnocline and salinity gradients",
+        "claim": "What is a water layer where salinity changes rapidly with depth called? Answer: Halocline. The name refers to a salinity gradient rather than a temperature gradient."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_pycnocline",
+    "status": "approved",
+    "sha256": "6ec944acb22e25fee87c35745623abb70efab78fc39f700f3fe324fb6af3b628",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanmotion.org/html/background/ocean-vertical-structure.htm",
+        "location": "Density gradient between mixed and deep layers",
+        "claim": "What is a water layer where density changes rapidly with depth called? Answer: Pycnocline. Density depends partly on temperature and salinity."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_ekman_spiral",
+    "status": "approved",
+    "sha256": "9f6c98da0468b42ce2bff489a36193f72f81cc30f6a3915ceca252ead1175cd1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents4.html",
+        "location": "The Ekman Spiral",
+        "claim": "What is the rotation-driven turning of a wind-induced current with depth called? Answer: Ekman spiral. Deeper layers move more slowly, and their direction gradually changes."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_coriolis",
+    "status": "approved",
+    "sha256": "cbae179e2577bb16aee37f24654c260c33e5d9cf5b520578f5121211afb55390",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html",
+        "location": "The Coriolis Effect",
+        "claim": "What is the apparent deflection of moving water in Earth's rotating reference frame called? Answer: Coriolis effect. In the Northern Hemisphere the deflection is to the right of motion."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_spring_tide",
+    "status": "approved",
+    "sha256": "7950a3d082d7b9ee96f99c3f022b79aa9e5daa671d9e792be84ec71b43490ff4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html",
+        "location": "Tidal Variations: spring tides",
+        "claim": "What is a large-range tide when the Sun, Earth and Moon are nearly aligned called? Answer: Spring tide. The word spring here does not refer to the season."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_neap_tide",
+    "status": "approved",
+    "sha256": "1c2c93db9119e6f4d18b3a740aad00709815137fa97c35e58483b6d8b4e1732d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html",
+        "location": "Tidal Variations: neap tides",
+        "claim": "What is a smaller-range tide near the first and last lunar quarters called? Answer: Neap tide. The solar and lunar pulls partly reduce the combined tidal effect."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_rip",
+    "status": "approved",
+    "sha256": "f3bc3314f5f593368928b18a2251022534fb9326e306b54f013fcb97274810ac",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/ripcurrent.html",
+        "location": "Rip currents vs rip tides",
+        "claim": "What is a narrow flow of water moving away from shore through the surf zone called? Answer: Rip current. It is a horizontal flow, not a current that pulls people underwater."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_sargasso",
+    "status": "approved",
+    "sha256": "ca25efa4d17788c36ec7a40829e27eb26a444aedd9fc9fdf56db9bfcc1050cba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+        "location": "The Sargasso Sea bounded by ocean currents",
+        "claim": "What is the Atlantic sea bounded by currents rather than coastlines called? Answer: Sargasso Sea. It is named after floating Sargassum seaweed."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_acidification",
+    "status": "approved",
+    "sha256": "d1d0b81854bc3bbe7d20eb003d9397b6cfa3c32d8e705b08448ffd8d5d5430ad",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/acidification.html",
+        "location": "Ocean acidification; carbonate ions",
+        "claim": "What is the decline in ocean pH caused by carbon-dioxide uptake called? Answer: Ocean acidification. The process makes shell building harder for some organisms."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_marine_snow",
+    "status": "approved",
+    "sha256": "16db513484c5c982fbb82a3e97d12dae10b0d7f96a9f8c19a4f0c46a71fec1b6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/marinesnow.html",
+        "location": "Organic debris falling to the seafloor",
+        "claim": "What is the shower of organic debris sinking from upper ocean waters called? Answer: Marine snow. These particles provide food for many deep-sea organisms."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_chemosynthesis",
+    "status": "approved",
+    "sha256": "2888aed69e175aeef39833623cb5d05b522232a2e028ae6dc85660a62b03ba79",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pmel.noaa.gov/eoi/nemo/explorer/concepts/chemosynthesis.html",
+        "location": "Chemical energy and vent ecosystems",
+        "claim": "What is the production of organic matter using energy from chemical reactions called? Answer: Chemosynthesis. This can support vent communities without sunlight."
+      }
+    ]
+  },
+  {
+    "id": "oceans_m50_polynya",
+    "status": "approved",
+    "sha256": "64833366bf061b5b1456ef4c55ae81e9139a1b17e7ed1f9d05b4a446fcc70c9a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NOAA ocean-floor, tides, currents, corals and ocean facts; NSIDC sea-ice science and USGS salinity. Replaced unsupported canyon wording with bathymetry and transport wording with Ekman spiral.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice",
+        "location": "Polynyas: persistent open water, winds and ocean heat",
+        "claim": "What is a persistent area of open water within sea ice called? Answer: Polynya. Winds, currents or heat input can keep it open."
+      }
+    ]
   }
 ]

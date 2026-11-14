@@ -538,5 +538,365 @@
         "claim": "Correct answer: Three-banded armadillos. The head plate seals the opening left when the animal curls up."
       }
     ]
+  },
+  {
+    "id": "animals_m50_penguin",
+    "status": "approved",
+    "sha256": "e18af58ed17f6b12fb3a41cd1fa8e2e9a4a4709df869fa17ae2fd2cd91bc0d17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://seaworld.org/animals/all-about/penguin/adaptations/",
+        "location": "Swimming: paddle-like flippers",
+        "claim": "Which animal uses its wings as flippers while swimming? Answer: Penguin. These birds cannot fly but are well adapted to moving underwater."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_polar_bear",
+    "status": "approved",
+    "sha256": "770b04020495f7dbb88e9f0440aa6733a3da07cda8585602d4f0efbdecee21b8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/polar-bear",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal has apparently white fur made of clear, hollow hairs? Answer: Polar bear. A dense undercoat and fat reserves help it retain heat in the Arctic."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_sloth",
+    "status": "approved",
+    "sha256": "559ee7fc1c513b399ecb7b1697b2bde259eaec8da74b8d1f806758326b817f70",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/two-toed-sloth",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal spends much of its time hanging beneath tree branches? Answer: Sloth. Long curved claws help it hold onto branches."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_meerkat",
+    "status": "approved",
+    "sha256": "6a1bb3c9f07b4ae7a4282b0845059d871f82725a6271c7c6c055bcf8a5eba42d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/meerkat",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal belongs to the mongoose family and lives in groups in southern Africa? Answer: Meerkat. Group members may take turns watching for danger."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_rhinoceros",
+    "status": "approved",
+    "sha256": "ed8340b1041163a24a15508ba4aa13693759bd7b4048e7b0966108fef20d72af",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/rhinoceros",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal has a nasal horn made of keratin rather than bone? Answer: Rhinoceros. Keratin is also found in human hair and nails."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_hippopotamus",
+    "status": "approved",
+    "sha256": "05cac577373c844a6d81eb5b011288ba5322a1f81fceb5443a32949e61e66fec",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/hippo",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal produces a skin secretion sometimes misleadingly called blood sweat? Answer: Hippopotamus. The secretion is neither blood nor ordinary sweat."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_beaver",
+    "status": "approved",
+    "sha256": "4f03c5fd5c34aaed983049ae7ca63e29e55f2962b5eb2fe8ff623f420bb6098f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/beaver",
+        "location": "Physical description and dams",
+        "claim": "Which animal builds dams and has a broad flattened tail? Answer: Beaver. Its incisors keep growing throughout life."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_porcupine",
+    "status": "approved",
+    "sha256": "91ff8a4a3a5d1e3c78b05fb9d48cd656921b923baacad392963ee209c3b16a5c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/porcupine",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal defends itself with quills that are modified hairs? Answer: Porcupine. It cannot shoot its quills, despite a common myth."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_kangaroo",
+    "status": "approved",
+    "sha256": "643bea8caa0dbbfb6394d36ff35cceb4a58b6fe48eb408c38aa09f1bc93a4d77",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/kangaroo-and-wallaby",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal uses powerful hind legs for hopping and its tail for support? Answer: Kangaroo. The young continues developing in its mother's pouch."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_wombat",
+    "status": "approved",
+    "sha256": "5a6919269d06fbf0f5ce1f3316a9ac3bc6088f337bf5632d23a7c8798ce9374f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.hu.gatech.edu/Lee/cubed-poops/",
+        "location": "Cube-shaped feces formed in distal colon; wombat research",
+        "claim": "Which animal is known for characteristically cube-shaped droppings? Answer: Wombat. It is a burrowing marsupial from Australia."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_lemur",
+    "status": "approved",
+    "sha256": "f1e16859aaf5eefe8104f9dd5e8adfbce8a7f8d3ea73eba15b025b44dd1bdab8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/lemur",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal is native to Madagascar and nearby islands? Answer: Lemur. Lemurs are primates."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_hyena",
+    "status": "approved",
+    "sha256": "9c3ba236eab801d44bd63f7d55e6fa40161fa75da617bcf83db168396cd67f16",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/spotted-hyena",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal has powerful jaws capable of crushing bones? Answer: Spotted hyena. Its digestion allows it to use the nutrient-rich contents of bones."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_ostrich",
+    "status": "approved",
+    "sha256": "13d157f470dfcb450d7222e90707c840425b31be4887ff7c72a255fe7e0a9641",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/ostrich",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal is the largest living bird? Answer: Ostrich. It cannot fly and is adapted for fast running."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_hummingbird",
+    "status": "approved",
+    "sha256": "9666a6e220748f33667b0b3fbb42859e52f5637dd9870fd516afa3df0d805089",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/hummingbird",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal can hover in front of a flower using rapid wingbeats? Answer: Hummingbird. Its nectar diet is supplemented by small invertebrates."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_pelican",
+    "status": "approved",
+    "sha256": "d3e5a3f11200be9848874ddf397360e979d673767554606a99315cd10c4cefef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/pelican",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal has a large expandable pouch beneath its bill for catching food? Answer: Pelican. It drains water from the pouch before swallowing prey."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_chameleon",
+    "status": "approved",
+    "sha256": "e5cf4e71eef832d002903d412012ff06389f7adb6e2ba3bd1125722d68a86f0f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/chameleon",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal can move its eyes independently? Answer: Chameleon. When hunting, both eyes can focus on the same prey."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_crocodilians",
+    "status": "approved",
+    "sha256": "4f9b7e9b1c346e629ff228da57cc964672ff3a54bab9e2702aa479bab4a653ae",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/crocodilian",
+        "location": "About; habitat and diet; family life",
+        "claim": "To which reptile order do alligators, caimans and gharials belong? Answer: Crocodylia. Despite differences in snout shape, they all belong to the order Crocodylia."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_tortoise",
+    "status": "approved",
+    "sha256": "c59ded863666a4553e85be4813e388404124333d62cef40d78e81ac9ca28c221",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animals.sandiegozoo.org/animals/turtle-and-tortoise",
+        "location": "About; habitat and diet; family life",
+        "claim": "Which animal has a shell joined to its spine and ribs? Answer: Turtle. The shell is part of the skeleton, not a removable home."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_seahorse",
+    "status": "approved",
+    "sha256": "6ab9abe43cfe3630c1d39b3d29bdf469ff908307c083bdd42b6837c464125f55",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/seahorse.html",
+        "location": "Female eggs transferred to male brood pouch",
+        "claim": "In which animal does the male carry developing eggs in a specialised pouch? Answer: Seahorse. The female transfers eggs to the male’s pouch, where the young develop."
+      }
+    ]
+  },
+  {
+    "id": "animals_m50_archerfish",
+    "status": "approved",
+    "sha256": "089d021d3eeaf045291e3ae982541d12f66e71016ac04d59d982622b2335cdab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Zoo, aquarium and university sources for each species; SeaWorld penguin adaptations and NOAA seahorse. Checked identifying traits and comparable species alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/banded_archerfish/",
+        "location": "Banded archerfish: spitting water at prey",
+        "claim": "Which animal knocks insects above water down with a jet of water? Answer: Archerfish. This allows it to catch prey on overhanging branches."
+      }
+    ]
   }
 ]

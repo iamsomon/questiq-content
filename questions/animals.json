@@ -1318,5 +1318,885 @@
       "https://animals.sandiegozoo.org/animals/armadillo"
     ],
     "image": null
+  },
+  {
+    "id": "animals_m50_penguin",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное использует крылья как ласты при плавании?",
+        "explanation": "Эти птицы не летают, но хорошо приспособлены к движению под водой."
+      },
+      "en": {
+        "question": "Which animal uses its wings as flippers while swimming?",
+        "explanation": "These birds cannot fly but are well adapted to moving underwater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пингвин",
+        "en": "Penguin"
+      },
+      {
+        "id": "o1",
+        "ru": "Пеликан",
+        "en": "Pelican"
+      },
+      {
+        "id": "o2",
+        "ru": "Фламинго",
+        "en": "Flamingo"
+      },
+      {
+        "id": "o3",
+        "ru": "Альбатрос",
+        "en": "Albatross"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://seaworld.org/animals/all-about/penguin/adaptations/"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_polar_bear",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какого животного кажущаяся белой шерсть состоит из прозрачных полых волосков?",
+        "explanation": "Густой подшёрсток и жировые запасы помогают ему сохранять тепло в Арктике."
+      },
+      "en": {
+        "question": "Which animal has apparently white fur made of clear, hollow hairs?",
+        "explanation": "A dense undercoat and fat reserves help it retain heat in the Arctic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белый медведь",
+        "en": "Polar bear"
+      },
+      {
+        "id": "o1",
+        "ru": "Бурый медведь",
+        "en": "Brown bear"
+      },
+      {
+        "id": "o2",
+        "ru": "Большая панда",
+        "en": "Giant panda"
+      },
+      {
+        "id": "o3",
+        "ru": "Чёрный медведь",
+        "en": "American black bear"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/polar-bear"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_sloth",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное проводит большую часть жизни, повиснув под ветвями деревьев?",
+        "explanation": "Длинные изогнутые когти помогают удерживаться на ветвях."
+      },
+      "en": {
+        "question": "Which animal spends much of its time hanging beneath tree branches?",
+        "explanation": "Long curved claws help it hold onto branches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ленивец",
+        "en": "Sloth"
+      },
+      {
+        "id": "o1",
+        "ru": "Лемур",
+        "en": "Lemur"
+      },
+      {
+        "id": "o2",
+        "ru": "Белка",
+        "en": "Squirrel"
+      },
+      {
+        "id": "o3",
+        "ru": "Сурикат",
+        "en": "Meerkat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/two-toed-sloth"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_meerkat",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное относится к семейству мангустовых и живёт группами в южной Африке?",
+        "explanation": "Члены группы могут по очереди следить за опасностью."
+      },
+      "en": {
+        "question": "Which animal belongs to the mongoose family and lives in groups in southern Africa?",
+        "explanation": "Group members may take turns watching for danger."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сурикат",
+        "en": "Meerkat"
+      },
+      {
+        "id": "o1",
+        "ru": "Луговая собачка",
+        "en": "Prairie dog"
+      },
+      {
+        "id": "o2",
+        "ru": "Лемур",
+        "en": "Lemur"
+      },
+      {
+        "id": "o3",
+        "ru": "Фенек",
+        "en": "Fennec fox"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/meerkat"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_rhinoceros",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное носит на носу рог из кератина, а не из костной ткани?",
+        "explanation": "Кератин входит и в состав волос и ногтей человека."
+      },
+      "en": {
+        "question": "Which animal has a nasal horn made of keratin rather than bone?",
+        "explanation": "Keratin is also found in human hair and nails."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Носорог",
+        "en": "Rhinoceros"
+      },
+      {
+        "id": "o1",
+        "ru": "Орикс",
+        "en": "Oryx"
+      },
+      {
+        "id": "o2",
+        "ru": "Бизон",
+        "en": "Bison"
+      },
+      {
+        "id": "o3",
+        "ru": "Муфлон",
+        "en": "Mouflon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/rhinoceros"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_hippopotamus",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное выделяет кожный секрет, который иногда ошибочно называют «кровавым потом»?",
+        "explanation": "Этот секрет не является ни кровью, ни обычным потом."
+      },
+      "en": {
+        "question": "Which animal produces a skin secretion sometimes misleadingly called blood sweat?",
+        "explanation": "The secretion is neither blood nor ordinary sweat."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бегемот",
+        "en": "Hippopotamus"
+      },
+      {
+        "id": "o1",
+        "ru": "Носорог",
+        "en": "Rhinoceros"
+      },
+      {
+        "id": "o2",
+        "ru": "Слон",
+        "en": "Elephant"
+      },
+      {
+        "id": "o3",
+        "ru": "Буйвол",
+        "en": "Buffalo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/hippo"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_beaver",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное строит плотины и имеет широкий уплощённый хвост?",
+        "explanation": "Его резцы продолжают расти на протяжении жизни."
+      },
+      "en": {
+        "question": "Which animal builds dams and has a broad flattened tail?",
+        "explanation": "Its incisors keep growing throughout life."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бобр",
+        "en": "Beaver"
+      },
+      {
+        "id": "o1",
+        "ru": "Выдра",
+        "en": "Otter"
+      },
+      {
+        "id": "o2",
+        "ru": "Нутрия",
+        "en": "Coypu"
+      },
+      {
+        "id": "o3",
+        "ru": "Капибара",
+        "en": "Capybara"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nationalzoo.si.edu/animals/beaver"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_porcupine",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное защищается иглами, представляющими собой видоизменённые волосы?",
+        "explanation": "Он не умеет выстреливать иглами, вопреки распространённому мифу."
+      },
+      "en": {
+        "question": "Which animal defends itself with quills that are modified hairs?",
+        "explanation": "It cannot shoot its quills, despite a common myth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дикобраз",
+        "en": "Porcupine"
+      },
+      {
+        "id": "o1",
+        "ru": "Броненосец",
+        "en": "Armadillo"
+      },
+      {
+        "id": "o2",
+        "ru": "Панголин",
+        "en": "Pangolin"
+      },
+      {
+        "id": "o3",
+        "ru": "Дикдик",
+        "en": "Dik-dik"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/porcupine"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_kangaroo",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное использует мощные задние ноги для прыжков и хвост для опоры?",
+        "explanation": "Детёныш продолжает развитие в материнской сумке."
+      },
+      "en": {
+        "question": "Which animal uses powerful hind legs for hopping and its tail for support?",
+        "explanation": "The young continues developing in its mother's pouch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кенгуру",
+        "en": "Kangaroo"
+      },
+      {
+        "id": "o1",
+        "ru": "Вомбат",
+        "en": "Wombat"
+      },
+      {
+        "id": "o2",
+        "ru": "Коала",
+        "en": "Koala"
+      },
+      {
+        "id": "o3",
+        "ru": "Тасманийский дьявол",
+        "en": "Tasmanian devil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/kangaroo-and-wallaby"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_wombat",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное известно помётом характерной кубической формы?",
+        "explanation": "Это роющий сумчатый зверь из Австралии."
+      },
+      "en": {
+        "question": "Which animal is known for characteristically cube-shaped droppings?",
+        "explanation": "It is a burrowing marsupial from Australia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вомбат",
+        "en": "Wombat"
+      },
+      {
+        "id": "o1",
+        "ru": "Кенгуру",
+        "en": "Kangaroo"
+      },
+      {
+        "id": "o2",
+        "ru": "Коала",
+        "en": "Koala"
+      },
+      {
+        "id": "o3",
+        "ru": "Бандикут",
+        "en": "Bandicoot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.hu.gatech.edu/Lee/cubed-poops/"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_lemur",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное естественно обитает на Мадагаскаре и соседних островах?",
+        "explanation": "Лемуры относятся к приматам."
+      },
+      "en": {
+        "question": "Which animal is native to Madagascar and nearby islands?",
+        "explanation": "Lemurs are primates."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лемур",
+        "en": "Lemur"
+      },
+      {
+        "id": "o1",
+        "ru": "Долгопят",
+        "en": "Tarsier"
+      },
+      {
+        "id": "o2",
+        "ru": "Шимпанзе",
+        "en": "Chimpanzee"
+      },
+      {
+        "id": "o3",
+        "ru": "Макака",
+        "en": "Macaque"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/lemur"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_hyena",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное обладает мощными челюстями, позволяющими дробить кости?",
+        "explanation": "Её пищеварение позволяет использовать богатое питательными веществами содержимое костей."
+      },
+      "en": {
+        "question": "Which animal has powerful jaws capable of crushing bones?",
+        "explanation": "Its digestion allows it to use the nutrient-rich contents of bones."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пятнистая гиена",
+        "en": "Spotted hyena"
+      },
+      {
+        "id": "o1",
+        "ru": "Гепард",
+        "en": "Cheetah"
+      },
+      {
+        "id": "o2",
+        "ru": "Сервал",
+        "en": "Serval"
+      },
+      {
+        "id": "o3",
+        "ru": "Каракал",
+        "en": "Caracal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/spotted-hyena"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_ostrich",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное является самой крупной из современных птиц?",
+        "explanation": "Он не летает и приспособлен к быстрому бегу."
+      },
+      "en": {
+        "question": "Which animal is the largest living bird?",
+        "explanation": "It cannot fly and is adapted for fast running."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Страус",
+        "en": "Ostrich"
+      },
+      {
+        "id": "o1",
+        "ru": "Эму",
+        "en": "Emu"
+      },
+      {
+        "id": "o2",
+        "ru": "Казуар",
+        "en": "Cassowary"
+      },
+      {
+        "id": "o3",
+        "ru": "Нанду",
+        "en": "Rhea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/ostrich"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_hummingbird",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное может зависать перед цветком благодаря быстрым взмахам крыльев?",
+        "explanation": "Питание нектаром дополняется мелкими беспозвоночными."
+      },
+      "en": {
+        "question": "Which animal can hover in front of a flower using rapid wingbeats?",
+        "explanation": "Its nectar diet is supplemented by small invertebrates."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колибри",
+        "en": "Hummingbird"
+      },
+      {
+        "id": "o1",
+        "ru": "Пеликан",
+        "en": "Pelican"
+      },
+      {
+        "id": "o2",
+        "ru": "Дятел",
+        "en": "Woodpecker"
+      },
+      {
+        "id": "o3",
+        "ru": "Иволга",
+        "en": "Oriole"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/hummingbird"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_pelican",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное имеет большой растяжимый мешок под клювом для ловли пищи?",
+        "explanation": "Воду из мешка птица выпускает, прежде чем проглотить добычу."
+      },
+      "en": {
+        "question": "Which animal has a large expandable pouch beneath its bill for catching food?",
+        "explanation": "It drains water from the pouch before swallowing prey."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пеликан",
+        "en": "Pelican"
+      },
+      {
+        "id": "o1",
+        "ru": "Цапля",
+        "en": "Heron"
+      },
+      {
+        "id": "o2",
+        "ru": "Аист",
+        "en": "Stork"
+      },
+      {
+        "id": "o3",
+        "ru": "Ибис",
+        "en": "Ibis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/pelican"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_chameleon",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное способно двигать глазами независимо друг от друга?",
+        "explanation": "При охоте оба глаза могут направляться на одну добычу."
+      },
+      "en": {
+        "question": "Which animal can move its eyes independently?",
+        "explanation": "When hunting, both eyes can focus on the same prey."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хамелеон",
+        "en": "Chameleon"
+      },
+      {
+        "id": "o1",
+        "ru": "Игуана",
+        "en": "Iguana"
+      },
+      {
+        "id": "o2",
+        "ru": "Геккон",
+        "en": "Gecko"
+      },
+      {
+        "id": "o3",
+        "ru": "Варан",
+        "en": "Monitor lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/chameleon"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_crocodilians",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какому отряду пресмыкающихся относятся аллигаторы, кайманы и гавиалы?",
+        "explanation": "Несмотря на различия формы морды, все они входят в отряд Crocodylia."
+      },
+      "en": {
+        "question": "To which reptile order do alligators, caimans and gharials belong?",
+        "explanation": "Despite differences in snout shape, they all belong to the order Crocodylia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крокодилы",
+        "en": "Crocodylia"
+      },
+      {
+        "id": "o1",
+        "ru": "Чешуйчатые",
+        "en": "Squamata"
+      },
+      {
+        "id": "o2",
+        "ru": "Черепахи",
+        "en": "Testudines"
+      },
+      {
+        "id": "o3",
+        "ru": "Клювоголовые",
+        "en": "Rhynchocephalia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/crocodilian"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_tortoise",
+    "categoryId": "animals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное носит панцирь, связанный с позвоночником и рёбрами?",
+        "explanation": "Панцирь является частью скелета, а не снимаемым домиком."
+      },
+      "en": {
+        "question": "Which animal has a shell joined to its spine and ribs?",
+        "explanation": "The shell is part of the skeleton, not a removable home."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Черепаха",
+        "en": "Turtle"
+      },
+      {
+        "id": "o1",
+        "ru": "Броненосец",
+        "en": "Armadillo"
+      },
+      {
+        "id": "o2",
+        "ru": "Панголин",
+        "en": "Pangolin"
+      },
+      {
+        "id": "o3",
+        "ru": "Краб",
+        "en": "Crab"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animals.sandiegozoo.org/animals/turtle-and-tortoise"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_seahorse",
+    "categoryId": "animals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какого животного самец вынашивает развивающуюся икру в специальной сумке?",
+        "explanation": "Самка передаёт икру в сумку самца, где развиваются будущие мальки."
+      },
+      "en": {
+        "question": "In which animal does the male carry developing eggs in a specialised pouch?",
+        "explanation": "The female transfers eggs to the male’s pouch, where the young develop."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Морской конёк",
+        "en": "Seahorse"
+      },
+      {
+        "id": "o1",
+        "ru": "Рыба-клоун",
+        "en": "Clownfish"
+      },
+      {
+        "id": "o2",
+        "ru": "Тунец",
+        "en": "Tuna"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыба-попугай",
+        "en": "Parrotfish"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/seahorse.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "animals_m50_archerfish",
+    "categoryId": "animals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое животное сбивает насекомых над водой направленной струёй воды?",
+        "explanation": "Так она может ловить добычу на нависающих ветках."
+      },
+      "en": {
+        "question": "Which animal knocks insects above water down with a jet of water?",
+        "explanation": "This allows it to catch prey on overhanging branches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рыба-брызгун",
+        "en": "Archerfish"
+      },
+      {
+        "id": "o1",
+        "ru": "Рыба-клоун",
+        "en": "Clownfish"
+      },
+      {
+        "id": "o2",
+        "ru": "Рыба-бабочка",
+        "en": "Butterflyfish"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыба-хирург",
+        "en": "Surgeonfish"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.aquariumofpacific.org/onlinelearningcenter/species/banded_archerfish/"
+    ],
+    "image": null
   }
 ]

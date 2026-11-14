@@ -548,5 +548,365 @@
         "claim": "Correct answer: They are not enclosed in an ovary. In pines, for example, seeds develop on cone scales."
       }
     ]
+  },
+  {
+    "id": "plants_m50_cuticle",
+    "status": "approved",
+    "sha256": "4a7c7d0803d43cddcb043569d49ee45fa39781a97e179ffe1ff6816c266ace96",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Cuticle",
+        "claim": "What is the waxy protective layer on aerial plant surfaces called? Answer: Cuticle. It helps limit water loss."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_lenticel",
+    "status": "approved",
+    "sha256": "8ac785ab0d74ddfd9864e4c157702fe87919dab320bea2b08742a4123319610f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Lenticel",
+        "claim": "What is a region of woody stem cork that permits gas exchange called? Answer: Lenticel. Living cells in woody stems also need gas exchange."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_rhizome",
+    "status": "approved",
+    "sha256": "3a973a3c573f6cec18f374dc128dbcacea718d89ede0de0f3bb7e7397cfe5f3d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Rhizome",
+        "claim": "What is a horizontal underground stem with nodes and buds called? Answer: Rhizome. Despite its rootlike appearance it is a modified stem, not a root."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_tuber",
+    "status": "approved",
+    "sha256": "24d7a8a91f91a1a1dcee4b7a1ed13c050b179160b4d75fc753890e02edb5cd03",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Tuber",
+        "claim": "What is the swollen underground potato stem that stores nutrients called? Answer: Tuber. Its eyes are buds from which new shoots can grow."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_bulb",
+    "status": "approved",
+    "sha256": "f5fdd648d5901c59696884b4c1b3675c13bca996a6c8c63973e7afab08ebd636",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Bulb",
+        "claim": "What is a short stem surrounded by fleshy storage leaves, as in an onion called? Answer: Bulb. Most stored reserves are in modified leaves."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_stolon",
+    "status": "approved",
+    "sha256": "a7e5ce3a896b41e8fe701cccd0fbda815bb93f20f4a5d95ab07ffd48d55b0dce",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Stolon",
+        "claim": "What is a horizontal above-ground stem that forms new plants at nodes called? Answer: Stolon. In strawberries these shoots are commonly called runners."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_petiole",
+    "status": "approved",
+    "sha256": "afd9e5d28c7d7e7b895b086a235c8f78b4f556815d8c12df220b248ce8a72a92",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Petiole",
+        "claim": "What is the leaf part connecting its blade to the stem called? Answer: Petiole. Some leaves are sessile and lack this part."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_sepal",
+    "status": "approved",
+    "sha256": "4259f1c2d1edc2b2d91b46b3e3d24984cb982c654a1ba57cad59c1104b1415ba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Life cycle of an angiosperm; flower parts and development of the male gametophyte",
+        "claim": "What is an outer flower part that usually protects the bud called? Answer: Sepal. All the sepals together form the calyx."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_petal",
+    "status": "approved",
+    "sha256": "04827255154dcfe116495068f3b81e56ee8d04f72c6c194e89145654be3a0ed5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Life cycle of an angiosperm; flower parts and development of the male gametophyte",
+        "claim": "What is a corolla part that often attracts pollinators through colour called? Answer: Petal. Petals are not necessarily brightly coloured in all plants."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_filament",
+    "status": "approved",
+    "sha256": "7f19aaf9aa43d129b37ab2f6db679c86f5caa63eabc291ccf6e99f99f3286236",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Life cycle of an angiosperm; flower parts and development of the male gametophyte",
+        "claim": "What is the slender stamen part supporting the anther called? Answer: Filament. Together with the anther it forms a stamen."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_style",
+    "status": "approved",
+    "sha256": "e937bc051a0d9394cd3e8c859fde8e176b21d2929df83b8a251a4cd5538045ba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+        "location": "Life cycle of an angiosperm; flower parts and development of the male gametophyte",
+        "claim": "What is the pistil part between the stigma and ovary called? Answer: Style. The pollen tube usually grows through it."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_endosperm",
+    "status": "approved",
+    "sha256": "97e7f2c31409be9163d7648fc216e678952f55749250847382b25dfca8503d2e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Double fertilization; development and germination of seeds",
+        "claim": "What is the nutritive seed tissue of many flowering plants called? Answer: Endosperm. It supports embryo development."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_dormancy",
+    "status": "approved",
+    "sha256": "7e61aa3dc6b787b9e6e03df6915ba6754269f59fce03e2c983bf7813d15fee4b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Double fertilization; development and germination of seeds",
+        "claim": "What is a resting seed state that delays germination called? Answer: Seed dormancy. Breaking it may require particular temperatures or light."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_germination",
+    "status": "approved",
+    "sha256": "63bf76d3af4c1a1b8806390bce7ddf511d70474ef10966279d4162dcc5c05c47",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+        "location": "Double fertilization; development and germination of seeds",
+        "claim": "What is the start of an embryo's growth from a seed called? Answer: Germination. It usually begins when the seed takes up water."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_biennial",
+    "status": "approved",
+    "sha256": "3e048b3db1e0590555b201326f1a23b75c0b056131ae4d2f22ed00145c054ebd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.uvm.edu/extension/news/annuals-vs-perennials",
+        "location": "Annuals vs Perennials: two-year and perennial life cycles",
+        "claim": "What is a plant completing its life cycle in two growing seasons called? Answer: Biennial. Many store reserves in the first season and flower in the second."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_perennial",
+    "status": "approved",
+    "sha256": "c3f3390e445c7f7a1c9b72ef7553d934168729396a9372f05bab71ea91feb0cd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.uvm.edu/extension/news/annuals-vs-perennials",
+        "location": "Annuals vs Perennials: two-year and perennial life cycles",
+        "claim": "What is a plant that lives for more than two years called? Answer: Perennial. The aerial parts of some perennials may die back each year."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_compound_leaf",
+    "status": "approved",
+    "sha256": "3a84f03e43161c3924a2037a01b40ea1effaa61a9e5532b4819f33532662e6ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Compound leaf",
+        "claim": "What is a leaf whose blade is divided into separate leaflets called? Answer: Compound leaf. The leaflets can have pinnate or palmate arrangements."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_companion_cell",
+    "status": "approved",
+    "sha256": "481af16cfe76e81e1bdfa8904ace818ede3d7375b534e775d92d4353c563c37f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-key-terms",
+        "location": "Key term Companion cells",
+        "claim": "Which phloem cells support the metabolism of sieve-tube elements? Answer: Companion cells. Companion cells are connected to sieve elements and contain many mitochondria."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_cambium",
+    "status": "approved",
+    "sha256": "1434ba7e18c83d30f41457e21daf4ae37d41eca790d664284e2ed1e008c489b6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-2-stems",
+        "location": "Secondary Growth and Annual Rings",
+        "claim": "What is the lateral meristem producing secondary xylem and phloem called? Answer: Vascular cambium. It contributes to the thickening of stems and roots."
+      }
+    ]
+  },
+  {
+    "id": "plants_m50_annual_ring",
+    "status": "approved",
+    "sha256": "8e9509d5c1c4686f4b123330fa5a1d4d9558bda18bd61af6266c2bf2371ffdd2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 30 and 32; UVM plant life cycles. Replaced unsupported heartwood/sapwood rows with checked compound leaves and companion cells.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/30-2-stems",
+        "location": "Secondary Growth and Annual Rings",
+        "claim": "What is a wood layer that usually records one growing season called? Answer: Growth ring. Earlywood and latewood differ in cell structure."
+      }
+    ]
   }
 ]

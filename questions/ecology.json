@@ -1318,5 +1318,885 @@
       "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems"
     ],
     "image": null
+  },
+  {
+    "id": "ecology_m50_habitat",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает место естественного обитания организма?",
+        "explanation": "Оно предоставляет условия и ресурсы для жизни вида."
+      },
+      "en": {
+        "question": "Which term means the natural place where an organism lives?",
+        "explanation": "It provides conditions and resources for the species."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Местообитание",
+        "en": "Habitat"
+      },
+      {
+        "id": "o1",
+        "ru": "Вымирание",
+        "en": "Extinction"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислотные осадки",
+        "en": "Acid precipitation"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана ex situ",
+        "en": "Ex situ conservation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_niche",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает роль вида в экосистеме и способы использования им ресурсов?",
+        "explanation": "Два вида могут жить в одном месте, но использовать разные ресурсы."
+      },
+      "en": {
+        "question": "Which term means a species' role in an ecosystem and how it uses resources?",
+        "explanation": "Two species can live in one place but use different resources."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экологическая ниша",
+        "en": "Ecological niche"
+      },
+      {
+        "id": "o1",
+        "ru": "Местообитание",
+        "en": "Habitat"
+      },
+      {
+        "id": "o2",
+        "ru": "Поглотитель углерода",
+        "en": "Carbon sink"
+      },
+      {
+        "id": "o3",
+        "ru": "Хищничество",
+        "en": "Predation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_endemic",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает вид, естественный ареал которого ограничен определённой территорией?",
+        "explanation": "Ограниченный ареал может повышать уязвимость к местным изменениям."
+      },
+      "en": {
+        "question": "Which term means a species naturally restricted to a particular geographic area?",
+        "explanation": "A restricted range can increase vulnerability to local changes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эндемик",
+        "en": "Endemic species"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      },
+      {
+        "id": "o2",
+        "ru": "Вымирание",
+        "en": "Extinction"
+      },
+      {
+        "id": "o3",
+        "ru": "Экологический коридор",
+        "en": "Ecological corridor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/47-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_extinction",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает полное исчезновение вида на Земле?",
+        "explanation": "Исчезновение одной популяции не всегда означает исчезновение всего вида."
+      },
+      "en": {
+        "question": "Which term means the complete disappearance of a species from Earth?",
+        "explanation": "Losing one population does not always mean losing the entire species."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вымирание",
+        "en": "Extinction"
+      },
+      {
+        "id": "o1",
+        "ru": "Поглотитель углерода",
+        "en": "Carbon sink"
+      },
+      {
+        "id": "o2",
+        "ru": "Нитрификация",
+        "en": "Nitrification"
+      },
+      {
+        "id": "o3",
+        "ru": "Фенология",
+        "en": "Phenology"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/47-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_in_situ",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает охрану вида непосредственно в его естественном местообитании?",
+        "explanation": "Пример — защита природного сообщества в заповеднике."
+      },
+      "en": {
+        "question": "Which term means protecting a species within its natural habitat?",
+        "explanation": "Protecting a natural community in a reserve is one example."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      },
+      {
+        "id": "o1",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрагментация местообитаний",
+        "en": "Habitat fragmentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Азотфиксация",
+        "en": "Nitrogen fixation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_ex_situ",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает охрану вида вне его естественного местообитания?",
+        "explanation": "К ней относятся, например, банки семян."
+      },
+      "en": {
+        "question": "Which term means protecting a species outside its natural habitat?",
+        "explanation": "Seed banks are one example."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Охрана ex situ",
+        "en": "Ex situ conservation"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      },
+      {
+        "id": "o2",
+        "ru": "Местообитание",
+        "en": "Habitat"
+      },
+      {
+        "id": "o3",
+        "ru": "Кислотные осадки",
+        "en": "Acid precipitation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_corridor",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает полосу местообитаний, соединяющую разобщённые природные участки?",
+        "explanation": "Такая связь облегчает перемещение организмов между участками."
+      },
+      "en": {
+        "question": "Which term means a habitat strip connecting separated natural areas?",
+        "explanation": "The connection helps organisms move between habitat patches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экологический коридор",
+        "en": "Ecological corridor"
+      },
+      {
+        "id": "o1",
+        "ru": "Денитрификация",
+        "en": "Denitrification"
+      },
+      {
+        "id": "o2",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o3",
+        "ru": "Вид-индикатор",
+        "en": "Indicator species"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/47-4-preserving-biodiversity"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_fragmentation",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает разделение сплошного местообитания на изолированные участки?",
+        "explanation": "Дороги и застройка могут разрывать прежние связи между популяциями."
+      },
+      "en": {
+        "question": "Which term means breaking a continuous habitat into isolated patches?",
+        "explanation": "Roads and construction can interrupt connections between populations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрагментация местообитаний",
+        "en": "Habitat fragmentation"
+      },
+      {
+        "id": "o1",
+        "ru": "Местообитание",
+        "en": "Habitat"
+      },
+      {
+        "id": "o2",
+        "ru": "Денитрификация",
+        "en": "Denitrification"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_bioaccumulation",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает накопление вещества в отдельном организме со временем?",
+        "explanation": "Это отличается от усиления концентрации при переходе по пищевой цепи."
+      },
+      "en": {
+        "question": "Which term means the buildup of a substance within one organism over time?",
+        "explanation": "This differs from concentration increasing up a food chain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Биоаккумуляция",
+        "en": "Bioaccumulation"
+      },
+      {
+        "id": "o1",
+        "ru": "Поглотитель углерода",
+        "en": "Carbon sink"
+      },
+      {
+        "id": "o2",
+        "ru": "Маскировка",
+        "en": "Camouflage"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/salish-sea/toxics-food-web"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_nitrogen_fixation",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает превращение атмосферного азота в доступные живым организмам соединения?",
+        "explanation": "В природе важную роль играют некоторые бактерии и археи."
+      },
+      "en": {
+        "question": "Which term means converting atmospheric nitrogen into compounds usable by organisms?",
+        "explanation": "Some bacteria and archaea play a major natural role."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Азотфиксация",
+        "en": "Nitrogen fixation"
+      },
+      {
+        "id": "o1",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрагментация местообитаний",
+        "en": "Habitat fragmentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Поглотитель углерода",
+        "en": "Carbon sink"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_nitrification",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает микробное окисление аммония через нитриты до нитратов?",
+        "explanation": "Это один из этапов круговорота азота."
+      },
+      "en": {
+        "question": "Which term means microbial oxidation of ammonium through nitrite to nitrate?",
+        "explanation": "It is one stage of the nitrogen cycle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нитрификация",
+        "en": "Nitrification"
+      },
+      {
+        "id": "o1",
+        "ru": "Местообитание",
+        "en": "Habitat"
+      },
+      {
+        "id": "o2",
+        "ru": "Конкуренция",
+        "en": "Competition"
+      },
+      {
+        "id": "o3",
+        "ru": "Экологический коридор",
+        "en": "Ecological corridor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_denitrification",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает микробное превращение нитратов в газообразные формы азота?",
+        "explanation": "Процесс возвращает азот в атмосферу."
+      },
+      "en": {
+        "question": "Which term means microbial conversion of nitrate into gaseous nitrogen forms?",
+        "explanation": "The process returns nitrogen to the atmosphere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Денитрификация",
+        "en": "Denitrification"
+      },
+      {
+        "id": "o1",
+        "ru": "Кислотные осадки",
+        "en": "Acid precipitation"
+      },
+      {
+        "id": "o2",
+        "ru": "Эндемик",
+        "en": "Endemic species"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрагментация местообитаний",
+        "en": "Habitat fragmentation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_biomass",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется общая масса живых организмов на определённой площади или в определённом объёме?",
+        "explanation": "При сравнении трофических уровней её часто выражают в массе на единицу площади."
+      },
+      "en": {
+        "question": "What is the total mass of living organisms in a given area or volume called?",
+        "explanation": "When comparing trophic levels, it is often expressed as mass per unit area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Биомасса",
+        "en": "Biomass"
+      },
+      {
+        "id": "o1",
+        "ru": "Первичная продуктивность",
+        "en": "Primary productivity"
+      },
+      {
+        "id": "o2",
+        "ru": "Видовое богатство",
+        "en": "Species richness"
+      },
+      {
+        "id": "o3",
+        "ru": "Плотность популяции",
+        "en": "Population density"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/46-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_acid_rain",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает осадки с повышенной кислотностью из-за соединений серы и азота?",
+        "explanation": "Загрязняющие вещества могут переноситься далеко от источника выброса."
+      },
+      "en": {
+        "question": "Which term means precipitation with increased acidity due to sulfur and nitrogen compounds?",
+        "explanation": "Pollutants can travel far from their emission source."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кислотные осадки",
+        "en": "Acid precipitation"
+      },
+      {
+        "id": "o1",
+        "ru": "Экологический коридор",
+        "en": "Ecological corridor"
+      },
+      {
+        "id": "o2",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o3",
+        "ru": "Маскировка",
+        "en": "Camouflage"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.epa.gov/acidrain/what-acid-rain"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_restoration",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает восстановление нарушенных экосистем?",
+        "explanation": "Она может включать возвращение местных видов и восстановление водного режима."
+      },
+      "en": {
+        "question": "Which term means helping degraded ecosystems recover?",
+        "explanation": "It can include restoring native species and water regimes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экологическая реставрация",
+        "en": "Ecological restoration"
+      },
+      {
+        "id": "o1",
+        "ru": "Конкуренция",
+        "en": "Competition"
+      },
+      {
+        "id": "o2",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o3",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/47-4-preserving-biodiversity"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_population_density",
+    "categoryId": "ecology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется число особей популяции на единицу площади или объёма?",
+        "explanation": "Одинаковая численность может соответствовать разной плотности, если территории отличаются по размеру."
+      },
+      "en": {
+        "question": "What is the number of population members per unit area or volume called?",
+        "explanation": "Equal population sizes can have different densities when their territories differ in size."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плотность популяции",
+        "en": "Population density"
+      },
+      {
+        "id": "o1",
+        "ru": "Видовое богатство",
+        "en": "Species richness"
+      },
+      {
+        "id": "o2",
+        "ru": "Скорость рождаемости",
+        "en": "Birth rate"
+      },
+      {
+        "id": "o3",
+        "ru": "Биомасса",
+        "en": "Biomass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/45-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_phenology",
+    "categoryId": "ecology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает изучение сезонных сроков цветения, миграций и других природных явлений?",
+        "explanation": "Изменение этих сроков помогает отслеживать реакцию природы на климат."
+      },
+      "en": {
+        "question": "Which term means the study of seasonal timing such as flowering and migration?",
+        "explanation": "Changes in timing help track nature's response to climate."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фенология",
+        "en": "Phenology"
+      },
+      {
+        "id": "o1",
+        "ru": "Экологическая ниша",
+        "en": "Ecological niche"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислотные осадки",
+        "en": "Acid precipitation"
+      },
+      {
+        "id": "o3",
+        "ru": "Поглотитель углерода",
+        "en": "Carbon sink"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usanpn.org/about/phenology"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_competition",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает взаимодействие организмов, использующих один ограниченный ресурс?",
+        "explanation": "Она возможна как между видами, так и внутри одного вида."
+      },
+      "en": {
+        "question": "Which term means an interaction between organisms using the same limited resource?",
+        "explanation": "It can occur within a species or between species."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Конкуренция",
+        "en": "Competition"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана ex situ",
+        "en": "Ex situ conservation"
+      },
+      {
+        "id": "o2",
+        "ru": "Денитрификация",
+        "en": "Denitrification"
+      },
+      {
+        "id": "o3",
+        "ru": "Вид-индикатор",
+        "en": "Indicator species"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_predation",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает взаимодействие, при котором один организм ловит и поедает другой?",
+        "explanation": "Хищники могут влиять на численность и поведение добычи."
+      },
+      "en": {
+        "question": "Which term means an interaction in which one organism captures and eats another?",
+        "explanation": "Predators can affect prey abundance and behaviour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хищничество",
+        "en": "Predation"
+      },
+      {
+        "id": "o1",
+        "ru": "Охрана in situ",
+        "en": "In situ conservation"
+      },
+      {
+        "id": "o2",
+        "ru": "Эндемик",
+        "en": "Endemic species"
+      },
+      {
+        "id": "o3",
+        "ru": "Экологическая реставрация",
+        "en": "Ecological restoration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+    ],
+    "image": null
+  },
+  {
+    "id": "ecology_m50_camouflage",
+    "categoryId": "ecology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает окраску или форму, уменьшающую заметность организма?",
+        "explanation": "Такой признак может помогать и хищнику, и его добыче."
+      },
+      "en": {
+        "question": "Which term means colour or shape that makes an organism harder to detect?",
+        "explanation": "This trait can help both predators and prey."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Маскировка",
+        "en": "Camouflage"
+      },
+      {
+        "id": "o1",
+        "ru": "Нитрификация",
+        "en": "Nitrification"
+      },
+      {
+        "id": "o2",
+        "ru": "Экологическая ниша",
+        "en": "Ecological niche"
+      },
+      {
+        "id": "o3",
+        "ru": "Вид-индикатор",
+        "en": "Indicator species"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/biology-2e/pages/45-6-community-ecology"
+    ],
+    "image": null
   }
 ]

@@ -1318,5 +1318,885 @@
       "https://openstax.org/books/biology-2e/pages/21-1-viral-evolution-morphology-and-classification"
     ],
     "image": null
+  },
+  {
+    "id": "biology_m50_homozygous",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется состояние с двумя одинаковыми аллелями одного гена?",
+        "explanation": "Обозначения AA и aa — примеры такой записи для диплоидного организма."
+      },
+      "en": {
+        "question": "What is a state with two identical alleles of one gene called?",
+        "explanation": "AA and aa are examples of this notation in a diploid organism."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гомозиготность",
+        "en": "Homozygosity"
+      },
+      {
+        "id": "o1",
+        "ru": "Гетерозиготность",
+        "en": "Heterozygosity"
+      },
+      {
+        "id": "o2",
+        "ru": "Гемизиготность",
+        "en": "Hemizygosity"
+      },
+      {
+        "id": "o3",
+        "ru": "Полиплоидность",
+        "en": "Polyploidy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Homozygous"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_heterozygous",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется состояние с двумя разными аллелями одного гена?",
+        "explanation": "Для двух аллелей такое сочетание часто обозначают Aa."
+      },
+      "en": {
+        "question": "What is a state with two different alleles of one gene called?",
+        "explanation": "With two alleles this combination is often written Aa."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гетерозиготность",
+        "en": "Heterozygosity"
+      },
+      {
+        "id": "o1",
+        "ru": "Гомозиготность",
+        "en": "Homozygosity"
+      },
+      {
+        "id": "o2",
+        "ru": "Гемизиготность",
+        "en": "Hemizygosity"
+      },
+      {
+        "id": "o3",
+        "ru": "Полиплоидность",
+        "en": "Polyploidy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Heterozygous"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_autosome",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется хромосома, не относящаяся к половым?",
+        "explanation": "У человека обычно 22 пары таких хромосом."
+      },
+      "en": {
+        "question": "What is a chromosome that is not a sex chromosome called?",
+        "explanation": "Humans usually have 22 pairs of these chromosomes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аутосома",
+        "en": "Autosome"
+      },
+      {
+        "id": "o1",
+        "ru": "Половая хромосома",
+        "en": "Sex chromosome"
+      },
+      {
+        "id": "o2",
+        "ru": "Плазмида",
+        "en": "Plasmid"
+      },
+      {
+        "id": "o3",
+        "ru": "Нуклеосома",
+        "en": "Nucleosome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Autosome"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_centromere",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется область хромосомы, на которой при делении формируется кинетохор?",
+        "explanation": "Она важна для правильного расхождения хромосом к дочерним клеткам."
+      },
+      "en": {
+        "question": "What is the chromosome region where the kinetochore assembles during division called?",
+        "explanation": "It helps chromosomes separate correctly into daughter cells."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центромера",
+        "en": "Centromere"
+      },
+      {
+        "id": "o1",
+        "ru": "Теломера",
+        "en": "Telomere"
+      },
+      {
+        "id": "o2",
+        "ru": "Экзон",
+        "en": "Exon"
+      },
+      {
+        "id": "o3",
+        "ru": "Промотор",
+        "en": "Promoter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Centromere"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_telomere",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется защитный участок на конце линейной хромосомы?",
+        "explanation": "Повторяющиеся последовательности помогают защищать концы хромосом."
+      },
+      "en": {
+        "question": "What is a protective region at the end of a linear chromosome called?",
+        "explanation": "Repeated sequences help protect chromosome ends."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Теломера",
+        "en": "Telomere"
+      },
+      {
+        "id": "o1",
+        "ru": "Центромера",
+        "en": "Centromere"
+      },
+      {
+        "id": "o2",
+        "ru": "Промотор",
+        "en": "Promoter"
+      },
+      {
+        "id": "o3",
+        "ru": "Интрон",
+        "en": "Intron"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Telomere"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_codon",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется тройка нуклеотидов мРНК, задающая аминокислоту или сигнал остановки?",
+        "explanation": "Рибосома считывает кодирующую последовательность тройками нуклеотидов."
+      },
+      "en": {
+        "question": "What is an mRNA triplet specifying an amino acid or a stop signal called?",
+        "explanation": "The ribosome reads a coding sequence in nucleotide triplets."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кодон",
+        "en": "Codon"
+      },
+      {
+        "id": "o1",
+        "ru": "Антикодон",
+        "en": "Anticodon"
+      },
+      {
+        "id": "o2",
+        "ru": "Интрон",
+        "en": "Intron"
+      },
+      {
+        "id": "o3",
+        "ru": "Промотор",
+        "en": "Promoter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Codon"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_transcription",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется синтез РНК по матрице ДНК?",
+        "explanation": "Это один из этапов реализации информации, записанной в гене."
+      },
+      "en": {
+        "question": "What is the synthesis of RNA using a DNA template called?",
+        "explanation": "This is one stage in expressing information stored in a gene."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Транскрипция",
+        "en": "Transcription"
+      },
+      {
+        "id": "o1",
+        "ru": "Трансляция",
+        "en": "Translation"
+      },
+      {
+        "id": "o2",
+        "ru": "Репликация",
+        "en": "Replication"
+      },
+      {
+        "id": "o3",
+        "ru": "Рекомбинация",
+        "en": "Recombination"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Transcription"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_translation",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется синтез белка по последовательности мРНК?",
+        "explanation": "При этом аминокислоты соединяются в полипептидную цепь."
+      },
+      "en": {
+        "question": "What is protein synthesis directed by an mRNA sequence called?",
+        "explanation": "Amino acids are joined into a polypeptide chain in this process."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трансляция",
+        "en": "Translation"
+      },
+      {
+        "id": "o1",
+        "ru": "Транскрипция",
+        "en": "Transcription"
+      },
+      {
+        "id": "o2",
+        "ru": "Репликация",
+        "en": "Replication"
+      },
+      {
+        "id": "o3",
+        "ru": "Сплайсинг",
+        "en": "Splicing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Translation"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_intron",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется участок первичного РНК-транскрипта, удаляемый при сплайсинге?",
+        "explanation": "После обработки остаётся зрелая РНК с соединёнными экзонами."
+      },
+      "en": {
+        "question": "What is a region removed from a primary RNA transcript during splicing called?",
+        "explanation": "Processing produces mature RNA with the exons joined."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Интрон",
+        "en": "Intron"
+      },
+      {
+        "id": "o1",
+        "ru": "Экзон",
+        "en": "Exon"
+      },
+      {
+        "id": "o2",
+        "ru": "Кодон",
+        "en": "Codon"
+      },
+      {
+        "id": "o3",
+        "ru": "Антикодон",
+        "en": "Anticodon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Intron"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_exon",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется участок гена, сохраняющийся в зрелой РНК после сплайсинга?",
+        "explanation": "Не вся сохраняющаяся последовательность обязательно кодирует аминокислоты."
+      },
+      "en": {
+        "question": "What is a gene region retained in mature RNA after splicing called?",
+        "explanation": "Not every retained sequence necessarily encodes amino acids."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экзон",
+        "en": "Exon"
+      },
+      {
+        "id": "o1",
+        "ru": "Интрон",
+        "en": "Intron"
+      },
+      {
+        "id": "o2",
+        "ru": "Промотор",
+        "en": "Promoter"
+      },
+      {
+        "id": "o3",
+        "ru": "Центромера",
+        "en": "Centromere"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Exon"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_plasmid",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется небольшая кольцевая молекула ДНК, часто существующая отдельно от бактериальной хромосомы?",
+        "explanation": "Такие молекулы используют как переносчики ДНК в генетической инженерии."
+      },
+      "en": {
+        "question": "What is a small circular DNA molecule often separate from a bacterial chromosome called?",
+        "explanation": "These molecules are used as DNA vectors in genetic engineering."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плазмида",
+        "en": "Plasmid"
+      },
+      {
+        "id": "o1",
+        "ru": "Бактериальная хромосома",
+        "en": "Bacterial chromosome"
+      },
+      {
+        "id": "o2",
+        "ru": "Нуклеосома",
+        "en": "Nucleosome"
+      },
+      {
+        "id": "o3",
+        "ru": "Рибосома",
+        "en": "Ribosome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Plasmid"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_karyotype",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется полный набор хромосом организма или его упорядоченное изображение?",
+        "explanation": "Изображение позволяет сравнивать число и форму хромосом."
+      },
+      "en": {
+        "question": "What is an organism's full chromosome set or an ordered image of it called?",
+        "explanation": "The image makes chromosome number and shape easier to compare."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кариотип",
+        "en": "Karyotype"
+      },
+      {
+        "id": "o1",
+        "ru": "Генотип",
+        "en": "Genotype"
+      },
+      {
+        "id": "o2",
+        "ru": "Фенотип",
+        "en": "Phenotype"
+      },
+      {
+        "id": "o3",
+        "ru": "Протеом",
+        "en": "Proteome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Karyotype"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_recombination",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется обмен участками ДНК, создающий новые сочетания генетического материала?",
+        "explanation": "При мейозе обмен может происходить между гомологичными хромосомами."
+      },
+      "en": {
+        "question": "What is DNA exchange that creates new combinations of genetic material called?",
+        "explanation": "During meiosis exchange can occur between homologous chromosomes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рекомбинация",
+        "en": "Recombination"
+      },
+      {
+        "id": "o1",
+        "ru": "Репликация",
+        "en": "Replication"
+      },
+      {
+        "id": "o2",
+        "ru": "Транскрипция",
+        "en": "Transcription"
+      },
+      {
+        "id": "o3",
+        "ru": "Трансляция",
+        "en": "Translation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Homologous-Recombination"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_haploid",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется клетка с одним набором хромосом?",
+        "explanation": "У человека к таким клеткам обычно относятся яйцеклетки и сперматозоиды."
+      },
+      "en": {
+        "question": "What is a cell with one chromosome set called?",
+        "explanation": "Human egg and sperm cells are normally examples."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гаплоидная клетка",
+        "en": "Haploid cell"
+      },
+      {
+        "id": "o1",
+        "ru": "Диплоидная клетка",
+        "en": "Diploid cell"
+      },
+      {
+        "id": "o2",
+        "ru": "Триплоидная клетка",
+        "en": "Triploid cell"
+      },
+      {
+        "id": "o3",
+        "ru": "Тетраплоидная клетка",
+        "en": "Tetraploid cell"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Haploid"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_diploid",
+    "categoryId": "biology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется клетка с двумя наборами хромосом?",
+        "explanation": "Один набор обычно получен от матери, другой — от отца."
+      },
+      "en": {
+        "question": "What is a cell with two chromosome sets called?",
+        "explanation": "One set is usually inherited from each parent."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диплоидная клетка",
+        "en": "Diploid cell"
+      },
+      {
+        "id": "o1",
+        "ru": "Гаплоидная клетка",
+        "en": "Haploid cell"
+      },
+      {
+        "id": "o2",
+        "ru": "Триплоидная клетка",
+        "en": "Triploid cell"
+      },
+      {
+        "id": "o3",
+        "ru": "Тетраплоидная клетка",
+        "en": "Tetraploid cell"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Diploid"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_polygenic",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется признак, на который влияют несколько генов?",
+        "explanation": "Рост человека — пример сложного признака с вкладом многих генов."
+      },
+      "en": {
+        "question": "What is a trait influenced by multiple genes called?",
+        "explanation": "Human height is an example of a complex trait influenced by many genes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Полигенный признак",
+        "en": "Polygenic trait"
+      },
+      {
+        "id": "o1",
+        "ru": "Моногенный признак",
+        "en": "Monogenic trait"
+      },
+      {
+        "id": "o2",
+        "ru": "Аллель",
+        "en": "Allele"
+      },
+      {
+        "id": "o3",
+        "ru": "Хромосомный набор",
+        "en": "Chromosome set"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Polygenic-Trait"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_gene_flow",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется перенос вариантов генов между популяциями при размножении мигрантов?",
+        "explanation": "Он может изменять частоты аллелей в популяции."
+      },
+      "en": {
+        "question": "What is the transfer of gene variants between populations when migrants reproduce called?",
+        "explanation": "It can change allele frequencies in a population."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поток генов",
+        "en": "Gene flow"
+      },
+      {
+        "id": "o1",
+        "ru": "Генетический дрейф",
+        "en": "Genetic drift"
+      },
+      {
+        "id": "o2",
+        "ru": "Мутация",
+        "en": "Mutation"
+      },
+      {
+        "id": "o3",
+        "ru": "Искусственный отбор",
+        "en": "Artificial selection"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/gene-flow/"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_genetic_drift",
+    "categoryId": "biology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется случайное изменение частот аллелей между поколениями?",
+        "explanation": "Его влияние особенно заметно в небольших популяциях."
+      },
+      "en": {
+        "question": "What is a random change in allele frequencies across generations called?",
+        "explanation": "Its effects are especially noticeable in small populations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генетический дрейф",
+        "en": "Genetic drift"
+      },
+      {
+        "id": "o1",
+        "ru": "Поток генов",
+        "en": "Gene flow"
+      },
+      {
+        "id": "o2",
+        "ru": "Направленный отбор",
+        "en": "Directional selection"
+      },
+      {
+        "id": "o3",
+        "ru": "Рекомбинация",
+        "en": "Recombination"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Genetic-Drift"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_proteome",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется совокупность белков организма, клетки или ткани?",
+        "explanation": "Набор белков зависит от типа клетки и условий."
+      },
+      "en": {
+        "question": "What is the complete set of proteins of an organism, cell or tissue called?",
+        "explanation": "The protein set depends on cell type and conditions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Протеом",
+        "en": "Proteome"
+      },
+      {
+        "id": "o1",
+        "ru": "Геном",
+        "en": "Genome"
+      },
+      {
+        "id": "o2",
+        "ru": "Транскриптом",
+        "en": "Transcriptome"
+      },
+      {
+        "id": "o3",
+        "ru": "Кариотип",
+        "en": "Karyotype"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.rockefeller.edu/proteomics/proteomics-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "biology_m50_epigenetics",
+    "categoryId": "biology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется изучение изменений активности генов без изменения самой последовательности ДНК?",
+        "explanation": "Один из изучаемых механизмов — химические метки на ДНК."
+      },
+      "en": {
+        "question": "What is the study of gene-activity changes without altering the DNA sequence itself called?",
+        "explanation": "Chemical tags on DNA are one of the mechanisms studied."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпигенетика",
+        "en": "Epigenetics"
+      },
+      {
+        "id": "o1",
+        "ru": "Цитогенетика",
+        "en": "Cytogenetics"
+      },
+      {
+        "id": "o2",
+        "ru": "Протеомика",
+        "en": "Proteomics"
+      },
+      {
+        "id": "o3",
+        "ru": "Генетика популяций",
+        "en": "Population genetics"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.genome.gov/genetics-glossary/Epigenetics"
+    ],
+    "image": null
   }
 ]

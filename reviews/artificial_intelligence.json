@@ -538,5 +538,365 @@
         "claim": "Correct answer: 0. ReLU is defined as max(0, x): negative inputs are replaced with zero."
       }
     ]
+  },
+  {
+    "id": "artificial_intelligence_m50_inference",
+    "status": "approved",
+    "sha256": "94c8178050c84b1050979e764b02f45e06e54afa975f7bb385b9aa42535090bd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#inference",
+        "location": "Glossary entry inference",
+        "claim": "In machine learning, what is using a trained model to produce predictions called? Answer: Inference. At this stage the weights have usually already been learned."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_fine_tuning",
+    "status": "approved",
+    "sha256": "df38e771f4de1c931d151f3930bcb293efe448a7fdca57d21ee264556fcf02f8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#fine-tuning",
+        "location": "Glossary entry fine-tuning",
+        "claim": "In machine learning, what is additional training of a pretrained model for a particular task called? Answer: Fine-tuning. It can adapt a general model to a narrower domain."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_transfer",
+    "status": "approved",
+    "sha256": "ab652dc61178f703364ea66e15ddee3142a76bd447beff5cad115b791de7c639",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#transfer-learning",
+        "location": "Glossary entry transfer-learning",
+        "claim": "In machine learning, what is using knowledge learned on one task for another task called? Answer: Transfer learning. Pretrained representations can reduce the need for new data."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_regularization",
+    "status": "approved",
+    "sha256": "4ddca4ead8b053d60bf84cf39a232f62450bb3253f75f24ecd1cfdc3ab1a2714",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#regularization",
+        "location": "Glossary entry regularization",
+        "claim": "In machine learning, what is constraining model complexity or penalising its parameters to reduce overfitting called? Answer: Regularization. A penalty can be added to the training objective without replacing evaluation on new data."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_cross_validation",
+    "status": "approved",
+    "sha256": "789fbc955060fd54e87889378fed7b7305c175793ddb3575d17f3ccfa5cc4464",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+        "location": "Cross validation: k-fold split and evaluation on held-out folds",
+        "claim": "In machine learning, what is evaluating a model by taking turns using different data subsets for validation called? Answer: Cross-validation. In the k-fold version the dataset is split into k folds."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_confusion",
+    "status": "approved",
+    "sha256": "7a7e46a53efd3034ad43fcefa00329d462300c4c4c8182ad7f8d0cb5a261364d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#confusion-matrix",
+        "location": "Glossary entry confusion-matrix",
+        "claim": "In machine learning, what is a table comparing actual classes with predicted classes called? Answer: Confusion matrix. It reveals types of classification errors as well as correct predictions."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_accuracy",
+    "status": "approved",
+    "sha256": "294ca56894878e5c5447d9c8b53c5dbfe6038c2257a542af7dd6a1295ef99c1e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#accuracy",
+        "location": "Glossary entry accuracy",
+        "claim": "In machine learning, what is the fraction of all predictions that are correct called? Answer: Accuracy. This metric alone may be insufficient when classes are highly imbalanced."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_f1",
+    "status": "approved",
+    "sha256": "c943bb9314fe69d7557c78e067dc8fe831ef79e7b8feb720b444c59d328b31c3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html",
+        "location": "f1_score definition and harmonic-mean formula",
+        "claim": "In machine learning, what is the harmonic mean of precision and recall called? Answer: F1 score. A high value requires a good balance of precision and recall."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_outlier",
+    "status": "approved",
+    "sha256": "435588cf20e8c428f9d92893832744123d8d3d9d789311baf50fdd3c1177bdc2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#outliers",
+        "location": "Glossary entry outliers",
+        "claim": "In machine learning, what is an observation that differs markedly from most of the data called? Answer: Outlier. It may be an error or a rare genuine case."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_data_leakage",
+    "status": "approved",
+    "sha256": "d28c59532e3ffbedd8dd889c3b71b0a18d5310bd34b5270f0ebf79ea06e94fee",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://scikit-learn.org/stable/common_pitfalls.html#data-leakage",
+        "location": "Data leakage: information unavailable at prediction time and optimistic evaluation",
+        "claim": "In machine learning, what is training on information unavailable at real prediction time called? Answer: Data leakage. It can make evaluation results misleadingly high."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_normalization",
+    "status": "approved",
+    "sha256": "3002fa145781b26fb292abfba1fa3ff0ead0ec9a1d483dd89ae652c0caf78caa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#normalization",
+        "location": "Glossary entry normalization",
+        "claim": "In machine learning, what is rescaling numerical features to comparable ranges called? Answer: Normalization. Without preprocessing, large numerical scales can dominate training."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_one_hot",
+    "status": "approved",
+    "sha256": "8264ce704b2193b39c6a6ed3b7e09713e97b057b12d6ddfd958e74b538f2de0d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#one-hot-encoding",
+        "location": "Glossary entry one-hot-encoding",
+        "claim": "In machine learning, what is encoding a category as a vector with one 1 and zeros elsewhere called? Answer: One-hot encoding. Different positions of the 1 represent different categories."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_ensemble",
+    "status": "approved",
+    "sha256": "05b5e51b224f748bb88eee264c3bfe28b9af3201e3f2566bf66754a251cd57af",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#ensemble",
+        "location": "Glossary entry ensemble",
+        "claim": "In machine learning, what is combining predictions from several models called? Answer: Ensembling. Combining models can reduce individual errors."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_random_forest",
+    "status": "approved",
+    "sha256": "63d1dcf74c35b33c02d67fcb86c9bf02bbc834c2fc1df00bd2b315964d4015d6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#random-forest",
+        "location": "Glossary entry random-forest",
+        "claim": "In machine learning, what is an ensemble of decision trees trained with randomisation called? Answer: Random forest. Tree predictions are combined by voting or averaging."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_backpropagation",
+    "status": "approved",
+    "sha256": "1d6dd9a2535c3d35aa8c9c1097fba7fb7d9ef93ffddf45cdca7209cdbc96b4fb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#backpropagation",
+        "location": "Glossary entry backpropagation",
+        "claim": "In machine learning, what is computing neural-network gradients by propagating derivatives back from the output called? Answer: Backpropagation. The calculations rely on the chain rule of differentiation."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_dropout",
+    "status": "approved",
+    "sha256": "5dcee0b3610c3ed68a08d7c117a7fe36b7a7f790e5a76d66d674861526a0f284",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#dropout-regularization",
+        "location": "Glossary entry dropout-regularization",
+        "claim": "In machine learning, what is randomly disabling some neurons during training called? Answer: Dropout. It is a regularisation technique, not permanent removal of model neurons."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_token",
+    "status": "approved",
+    "sha256": "e7a5e8d9d36829c74de5ff8b64e49e819dcfbbb3c9e65be4a440faf0b5469b17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#token",
+        "location": "Glossary entry token",
+        "claim": "In machine learning, what is an element of a text sequence processed by a language model called? Answer: Token. It can be a word, part of a word or an individual character."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_attention",
+    "status": "approved",
+    "sha256": "c8f962e42489c9b5beecb17dc15879c3130c31a113dbac1e8b3d737446e1253f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#attention",
+        "location": "Glossary entry attention",
+        "claim": "In machine learning, what is a mechanism for weighting the relevance of different input-sequence elements called? Answer: Attention. It allows relationships with other parts of the sequence to be taken into account."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_hallucination",
+    "status": "approved",
+    "sha256": "cab40626a34b2040be10be480d8f3c6eb37263ac43080d9cb5909589762a25df",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#hallucination",
+        "location": "Glossary entry hallucination",
+        "claim": "In machine learning, what is a plausible but false or unsupported generative-model response called? Answer: Hallucination. Confident wording does not guarantee that the answer is true."
+      }
+    ]
+  },
+  {
+    "id": "artificial_intelligence_m50_prompt",
+    "status": "approved",
+    "sha256": "e441488a8a2724b0d8481a8b76337f494fda0c8caa3b61de7709425a485be5c9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Google glossary entries; scikit-learn F1, cross-validation and leakage documentation. Removed transfer-learning as an ambiguous fine-tuning distractor.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://developers.google.com/machine-learning/glossary#prompt",
+        "location": "Glossary entry prompt",
+        "claim": "In machine learning, what is an input instruction or request to a generative model called? Answer: Prompt. Context and examples in the input can change the result."
+      }
+    ]
   }
 ]
