@@ -358,5 +358,545 @@
         "claim": "Which art form uses the Chinese technique called kesi? Answer: Silk tapestry weaving. Woven mandalas were among the works made using this technique."
       }
     ]
+  },
+  {
+    "id": "middle_ages_m50_verdun",
+    "status": "approved",
+    "sha256": "5b2ff4a5096a997edf6c7923f2d5988619528c55174351209c7a72e4272a98eb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Post-Roman West in the Early Middle Ages, named passage on verdun",
+        "claim": "Which treaty divided the Carolingian Empire into three parts in 843? Answer: Treaty of Verdun. The agreement was made by the sons of Louis the Pious."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_pepin",
+    "status": "approved",
+    "sha256": "f3ea1aad7624762702853f19051de9d4f8c1694056eb340cad85ca1377d43a02",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Post-Roman West in the Early Middle Ages, named passage on pepin",
+        "claim": "Which grant by a Frankish king laid the foundation for the Papal States? Answer: Donation of Pepin. The grant gave the pope control of lands in Italy."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_lindisfarne",
+    "status": "approved",
+    "sha256": "6be749b68431f593ab95d0cf139cc1271ed0b21c169db996970b2f8cc8b90ee5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Post-Roman West in the Early Middle Ages, named passage on lindisfarne",
+        "claim": "Which monastery in Northumbria was raided by Vikings? Answer: Lindisfarne. Before the raid, Lindisfarne was a renowned centre of learning."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_clermont",
+    "status": "approved",
+    "sha256": "7caf4c3248c1fbff033771743ce38c5cf8851050e484428b670a297b110fe6fd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml",
+        "location": "OpenStax World History Volume 1, Patriarch and Papacy: The Church and the Call to Crusade, named passage on clermont",
+        "claim": "Where did Pope Urban II call for a crusade in 1095? Answer: Clermont. At Clermont the pope answered a Byzantine emperor’s appeal for help."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_alexios",
+    "status": "approved",
+    "sha256": "009ecc3af8a7db0ce91d2201a5282beaf757951af7c26e2f046c93b35b24458a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml",
+        "location": "OpenStax World History Volume 1, Patriarch and Papacy: The Church and the Call to Crusade, named passage on alexios",
+        "claim": "Which Byzantine emperor appealed to the pope for help before the First Crusade? Answer: Alexios I Komnenos. Alexios I sent envoys in 1095 as Byzantium faced the threat of invasion."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_schism",
+    "status": "approved",
+    "sha256": "0889388f7728d6d9b8fb1ffd06ef5ffbdd29c589b1d589e30ff484d2fde316f9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml",
+        "location": "OpenStax World History Volume 1, Patriarch and Papacy: The Church and the Call to Crusade, named passage on schism",
+        "claim": "Which year conventionally marks the Great Schism between the Eastern and Western churches? Answer: 1054. A dispute between papal envoys and the patriarch of Constantinople deepened the division that year."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_jerusalem",
+    "status": "approved",
+    "sha256": "c65ed888a4a40e75202b4f7221e1cbde3a81c09946741b41c687388a7a506657",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Crusading Movement, named passage on jerusalem",
+        "claim": "Which city did the First Crusade capture in the summer of 1099? Answer: Jerusalem. Following the conquest it became the capital of the Kingdom of Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_hattin",
+    "status": "approved",
+    "sha256": "a81ca948816d2a91820f9132a106a1261fed57ea59f197a8f750efe2afceaf78",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Crusading Movement, named passage on hattin",
+        "claim": "Who defeated the Crusaders at Hattin in 1187? Answer: Saladin. Jerusalem fell to Saladin within a few months."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_richard",
+    "status": "approved",
+    "sha256": "6aa3262825bf73f221352331bae4b067e73fa609e548fd0f8b6975682d0167fa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Crusading Movement, named passage on richard",
+        "claim": "Which English king reached an agreement with Saladin allowing pilgrims to visit Jerusalem? Answer: Richard I. Under the agreement the city remained under Saladin’s rule."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_outremer",
+    "status": "approved",
+    "sha256": "f7942b368de06f52f2e06976de5fd818968239b71b7f34bd2ecd9831175617f8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Crusading Movement, named passage on outremer",
+        "claim": "What French name referred to the Crusader states in the eastern Mediterranean? Answer: Outremer. The name means “overseas”."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_zara",
+    "status": "approved",
+    "sha256": "52a9e244c676920b6dd1947841ad960aaaaf6613fff2726ee0aff450acab7211",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Crusading Movement, named passage on zara",
+        "claim": "Which Dalmatian port did the Fourth Crusade attack at Venice’s request? Answer: Zara. Zara was a rival of Venice. The pope condemned the attack."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_sack",
+    "status": "approved",
+    "sha256": "7d33a263e9065a5300b9bb1c8365945ef76698405591610c66b0fb7d40140eef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Ottomans and the Mongols, named passage on sack",
+        "claim": "Which city did Crusaders sack in 1204? Answer: Constantinople. After the sack, some Byzantine forces established themselves in northwestern Anatolia."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_ottoman_capture",
+    "status": "approved",
+    "sha256": "09808c5a85f3082dc24bfe12bc62c22e70da70e467987aca43c534b966f5dc47",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00125/index.cnxml",
+        "location": "OpenStax World History Volume 1, Gunpowder and Nomads in a Transitional Age, named passage on ottoman_capture",
+        "claim": "When did the Ottomans capture Constantinople and bring the Byzantine Empire to an end? Answer: 1453. Cannons helped the Ottomans overcome the city’s formidable defences."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_ankara",
+    "status": "approved",
+    "sha256": "640b99ad5d0b11cca2ffae247ce8cddb32ca00e086a97c8cbbe008c13cf36082",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Ottomans and the Mongols, named passage on ankara",
+        "claim": "In which battle did Timur face Bayezid I’s army in 1402? Answer: Battle of Ankara. The battle took place in Anatolia in July."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_nicopolis",
+    "status": "approved",
+    "sha256": "8803c5fa84909977b84d7163a511b6890340fa3790c835cb601451f678113a59",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Ottomans and the Mongols, named passage on nicopolis",
+        "claim": "Where did Bayezid I’s army defeat the Crusaders on the Danube in 1396? Answer: Nicopolis. Bayezid’s Serbian vassals fought on his side."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_kosovo",
+    "status": "approved",
+    "sha256": "e24315bc2c1c944d73127c0a15bcc1f88d27c119b2c576de559ceb32a2f4399a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Ottomans and the Mongols, named passage on kosovo",
+        "claim": "In which battle did Ottoman sultan Murad I and Serbian prince Lazar both die? Answer: Battle of Kosovo. The battle took place in 1389."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_kurultai",
+    "status": "approved",
+    "sha256": "1999bd95ee7d04b0f63e91ddaabda3b03cbd1bb9fb5e485c92d4f4ec39a41ea3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml",
+        "location": "OpenStax World History Volume 1, Chinggis Khan and the Early Mongol Empire, named passage on kurultai",
+        "claim": "What was the assembly that confirmed Genghis Khan’s rule over the Mongols in 1206 called? Answer: Kurultai. Such assemblies gathered a leader’s followers to agree on major decisions."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_yassa",
+    "status": "approved",
+    "sha256": "143ca7f29205f75cf3c0a99fe5ae0063ffc2191af6f17c0d086ec505ea7e766b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml",
+        "location": "OpenStax World History Volume 1, Chinggis Khan and the Early Mongol Empire, named passage on yassa",
+        "claim": "What was the code of rules associated with Genghis Khan called? Answer: Yassa. The code included rules against theft and robbery."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_post_stations",
+    "status": "approved",
+    "sha256": "001da47a0fc457d8f91e54a9dc4ff4651b3257a6947047e760d98be5d87f41c8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml",
+        "location": "OpenStax World History Volume 1, Chinggis Khan and the Early Mongol Empire, named passage on post_stations",
+        "claim": "What network let the central government of the Mongol Empire communicate over long distances? Answer: Postal stations. The stations were part of central administration alongside storehouses for tribute."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_hulagu",
+    "status": "approved",
+    "sha256": "58ee04f7944765944a7ed8760bd9b0f2cc8a2c030cdf56296f4ca9ab234b8f4b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00146/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Mongol Empire Fragments, named passage on hulagu",
+        "claim": "Which Mongol ruler captured Baghdad and ended the rule of its caliph? Answer: Hulagu. The destruction of the city worsened relations between Hulagu and Berke."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_berke",
+    "status": "approved",
+    "sha256": "55c6b9234bf81f283e36f79e6afa8fc9843f02421fb76b45d9d6af89fb70ceb8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00146/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Mongol Empire Fragments, named passage on berke",
+        "claim": "Which ruler of the Golden Horde came into conflict with Hulagu? Answer: Berke. Berke was Batu’s younger brother."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_mamluks",
+    "status": "approved",
+    "sha256": "f6186d54b8f34e3ddf1bdebaec6da77e08608da2cff6e2383b2f490891c6d20a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml",
+        "location": "OpenStax World History Volume 1, From the Mamluks to Ming China, named passage on mamluks",
+        "claim": "What were the soldiers from whom the ruling elite of a thirteenth-century Egyptian sultanate emerged called? Answer: Mamluks. Many came from Turkic peoples in Central Asia, as well as the Caucasus and Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_ming",
+    "status": "approved",
+    "sha256": "599760d1ecb15b2e6cc1378bec97f26872f6110cfd3c07d2d3d00a6f30e7f67c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml",
+        "location": "OpenStax World History Volume 1, From the Mamluks to Ming China, named passage on ming",
+        "claim": "Which dynasty took power in China after the fall of the Yuan in 1368? Answer: Ming. The new dynasty’s first emperor took the name Hongwu."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_zheng",
+    "status": "approved",
+    "sha256": "c023978e5c1c69376c0a7725fa2512934aa5950971941031365772f701b3aaf7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml",
+        "location": "OpenStax World History Volume 1, From the Mamluks to Ming China, named passage on zheng",
+        "claim": "Who commanded the Chinese maritime expeditions that began in 1405? Answer: Zheng He. The fleets reached India, Arabia and East Africa."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_yongle",
+    "status": "approved",
+    "sha256": "72bd3a8b824a12bcb50375c1697d0c8a13989588b4eb904588bddcaf698c9d84",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml",
+        "location": "OpenStax World History Volume 1, From the Mamluks to Ming China, named passage on yongle",
+        "claim": "Which Ming emperor dispatched Zheng He’s fleet on distant expeditions? Answer: Yongle. The Yongle emperor’s personal name was Zhu Di."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_mansa",
+    "status": "approved",
+    "sha256": "e3206fb59f500a14d2f3de8ac58826f544cc3e4c436731113ab096b748b4c239",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml",
+        "location": "OpenStax World History Volume 1, Medieval Sub-Saharan Africa, named passage on mansa",
+        "claim": "Which ruler of Mali visited Cairo on his way to Mecca in 1324–1325? Answer: Mansa Musa. Mansa Musa travelled with a large caravan and gave away substantial amounts of gold in Egypt."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_sundiata",
+    "status": "approved",
+    "sha256": "bdc36c45933b3c95479ef70cf8734b59a818c80c86f1c18228872f34bd9ade2a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml",
+        "location": "OpenStax World History Volume 1, Medieval Sub-Saharan Africa, named passage on sundiata",
+        "claim": "Who laid the foundations of the Mali Empire by defeating the Sosso Kingdom? Answer: Sundiata Keita. Sundiata also took Koumbi Saleh, an important city in the region."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_bure",
+    "status": "approved",
+    "sha256": "21078c2aff43025659f2f72cded815dfa678b46acec68d9a578faed654809110",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml",
+        "location": "OpenStax World History Volume 1, Medieval Sub-Saharan Africa, named passage on bure",
+        "claim": "What resource did the Bure deposits provide to the Mali Empire? Answer: Gold. The deposits were one source of Mali’s wealth alongside farming and trade."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_mali_routes",
+    "status": "approved",
+    "sha256": "d607985d6e13098ee7a03f28c761f6355cc9523a895924eb6fab8a14fcf563ef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml",
+        "location": "OpenStax World History Volume 1, Medieval Sub-Saharan Africa, named passage on mali_routes",
+        "claim": "Which trading city formed part of the medieval Mali Empire? Answer: Timbuktu. Mali also controlled Gao, Djenné and Oualata."
+      }
+    ]
+  },
+  {
+    "id": "middle_ages_m50_normandy_duchy",
+    "status": "approved",
+    "sha256": "d3e485749e1d14770fe1d871270e1bd95cba171d15560cd6144af87c1c18dd8e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the OpenStax passages on Frankish and medieval European history, crusades, Mali, the Mongol Empire and the Ming dynasty.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml",
+        "location": "OpenStax World History Volume 1, The Post-Roman West in the Early Middle Ages, named passage on lotharingia",
+        "claim": "In which part of Europe did Vikings establish the Duchy of Normandy? Answer: Northern France. Normandy lay in northern France."
+      }
+    ]
   }
 ]

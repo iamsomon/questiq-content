@@ -878,5 +878,1325 @@
       "https://www.harrypotter.com/features/hogwarts-house-meanings"
     ],
     "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_1997",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Falling Into You»?",
+        "explanation": "В 1997 году «Falling Into You» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Falling Into You”?",
+        "explanation": "Falling Into You won the Grammy Award for Album of the Year in 1997."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Селин Дион",
+        "en": "Celine Dion"
+      },
+      {
+        "id": "o1",
+        "ru": "Мэрайя Кэри",
+        "en": "Mariah Carey"
+      },
+      {
+        "id": "o2",
+        "ru": "Уитни Хьюстон",
+        "en": "Whitney Houston"
+      },
+      {
+        "id": "o3",
+        "ru": "Тони Брэкстон",
+        "en": "Toni Braxton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/1997/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_1998",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Time Out Of Mind»?",
+        "explanation": "В 1998 году «Time Out Of Mind» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Time Out Of Mind”?",
+        "explanation": "Time Out Of Mind won the Grammy Award for Album of the Year in 1998."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Боб Дилан",
+        "en": "Bob Dylan"
+      },
+      {
+        "id": "o1",
+        "ru": "Нил Янг",
+        "en": "Neil Young"
+      },
+      {
+        "id": "o2",
+        "ru": "Пол Саймон",
+        "en": "Paul Simon"
+      },
+      {
+        "id": "o3",
+        "ru": "Брюс Спрингстин",
+        "en": "Bruce Springsteen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/1998/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_1999",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «The Miseducation Of Lauryn Hill»?",
+        "explanation": "В 1999 году «The Miseducation Of Lauryn Hill» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “The Miseducation Of Lauryn Hill”?",
+        "explanation": "The Miseducation Of Lauryn Hill won the Grammy Award for Album of the Year in 1999."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лорин Хилл",
+        "en": "Lauryn Hill"
+      },
+      {
+        "id": "o1",
+        "ru": "Мэри Джей Блайдж",
+        "en": "Mary J. Blige"
+      },
+      {
+        "id": "o2",
+        "ru": "Эрика Баду",
+        "en": "Erykah Badu"
+      },
+      {
+        "id": "o3",
+        "ru": "Мисси Эллиотт",
+        "en": "Missy Elliott"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/1999/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2000",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Supernatural»?",
+        "explanation": "В 2000 году «Supernatural» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Supernatural”?",
+        "explanation": "Supernatural won the Grammy Award for Album of the Year in 2000."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Santana",
+        "en": "Santana"
+      },
+      {
+        "id": "o1",
+        "ru": "Red Hot Chili Peppers",
+        "en": "Red Hot Chili Peppers"
+      },
+      {
+        "id": "o2",
+        "ru": "Aerosmith",
+        "en": "Aerosmith"
+      },
+      {
+        "id": "o3",
+        "ru": "U2",
+        "en": "U2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2000/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2001",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Two Against Nature»?",
+        "explanation": "В 2001 году «Two Against Nature» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Two Against Nature”?",
+        "explanation": "Two Against Nature won the Grammy Award for Album of the Year in 2001."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Steely Dan",
+        "en": "Steely Dan"
+      },
+      {
+        "id": "o1",
+        "ru": "Fleetwood Mac",
+        "en": "Fleetwood Mac"
+      },
+      {
+        "id": "o2",
+        "ru": "The Eagles",
+        "en": "The Eagles"
+      },
+      {
+        "id": "o3",
+        "ru": "Dire Straits",
+        "en": "Dire Straits"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2001/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2002",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Саундтрек к какому фильму получил «Грэмми» за альбом года в 2002 году?",
+        "explanation": "В числе получателей премии был продюсер Ти-Боун Бернетт."
+      },
+      "en": {
+        "question": "Which film’s soundtrack won the 2002 Grammy for Album of the Year?",
+        "explanation": "Producer T Bone Burnett was among the recipients of the award."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "О, где же ты, брат?",
+        "en": "O Brother, Where Art Thou?"
+      },
+      {
+        "id": "o1",
+        "ru": "Холодная гора",
+        "en": "Cold Mountain"
+      },
+      {
+        "id": "o2",
+        "ru": "Переступить черту",
+        "en": "Walk the Line"
+      },
+      {
+        "id": "o3",
+        "ru": "Рэй",
+        "en": "Ray"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2002/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2003",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Come Away With Me»?",
+        "explanation": "В 2003 году «Come Away With Me» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Come Away With Me”?",
+        "explanation": "Come Away With Me won the Grammy Award for Album of the Year in 2003."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нора Джонс",
+        "en": "Norah Jones"
+      },
+      {
+        "id": "o1",
+        "ru": "Диана Кролл",
+        "en": "Diana Krall"
+      },
+      {
+        "id": "o2",
+        "ru": "Алиша Киз",
+        "en": "Alicia Keys"
+      },
+      {
+        "id": "o3",
+        "ru": "Фиона Эппл",
+        "en": "Fiona Apple"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2003/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2004",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Speakerboxxx/The Love Below»?",
+        "explanation": "В 2004 году «Speakerboxxx/The Love Below» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Speakerboxxx/The Love Below”?",
+        "explanation": "Speakerboxxx/The Love Below won the Grammy Award for Album of the Year in 2004."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "OutKast",
+        "en": "OutKast"
+      },
+      {
+        "id": "o1",
+        "ru": "The Roots",
+        "en": "The Roots"
+      },
+      {
+        "id": "o2",
+        "ru": "De La Soul",
+        "en": "De La Soul"
+      },
+      {
+        "id": "o3",
+        "ru": "A Tribe Called Quest",
+        "en": "A Tribe Called Quest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2004/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2005",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Genius Loves Company»?",
+        "explanation": "В 2005 году «Genius Loves Company» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Genius Loves Company”?",
+        "explanation": "Genius Loves Company won the Grammy Award for Album of the Year in 2005."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рэй Чарльз",
+        "en": "Ray Charles"
+      },
+      {
+        "id": "o1",
+        "ru": "Стиви Уандер",
+        "en": "Stevie Wonder"
+      },
+      {
+        "id": "o2",
+        "ru": "Лайонел Ричи",
+        "en": "Lionel Richie"
+      },
+      {
+        "id": "o3",
+        "ru": "Смоки Робинсон",
+        "en": "Smokey Robinson"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2005/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2006",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «How To Dismantle An Atomic Bomb»?",
+        "explanation": "В 2006 году «How To Dismantle An Atomic Bomb» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “How To Dismantle An Atomic Bomb”?",
+        "explanation": "How To Dismantle An Atomic Bomb won the Grammy Award for Album of the Year in 2006."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "U2",
+        "en": "U2"
+      },
+      {
+        "id": "o1",
+        "ru": "Coldplay",
+        "en": "Coldplay"
+      },
+      {
+        "id": "o2",
+        "ru": "Oasis",
+        "en": "Oasis"
+      },
+      {
+        "id": "o3",
+        "ru": "R.E.M.",
+        "en": "R.E.M."
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2006/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2007",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Taking The Long Way»?",
+        "explanation": "В 2007 году альбом получил «Грэмми». В списке победителей группа указана под прежним названием Dixie Chicks."
+      },
+      "en": {
+        "question": "Who released the album “Taking The Long Way”?",
+        "explanation": "The album won the 2007 Grammy. The award archive credits the group under its former name, Dixie Chicks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Dixie Chicks",
+        "en": "Dixie Chicks"
+      },
+      {
+        "id": "o1",
+        "ru": "Sugarland",
+        "en": "Sugarland"
+      },
+      {
+        "id": "o2",
+        "ru": "Rascal Flatts",
+        "en": "Rascal Flatts"
+      },
+      {
+        "id": "o3",
+        "ru": "Little Big Town",
+        "en": "Little Big Town"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2007/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2008",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «River: The Joni Letters»?",
+        "explanation": "В 2008 году «River: The Joni Letters» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “River: The Joni Letters”?",
+        "explanation": "River: The Joni Letters won the Grammy Award for Album of the Year in 2008."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Херби Хэнкок",
+        "en": "Herbie Hancock"
+      },
+      {
+        "id": "o1",
+        "ru": "Чик Кориа",
+        "en": "Chick Corea"
+      },
+      {
+        "id": "o2",
+        "ru": "Кит Джарретт",
+        "en": "Keith Jarrett"
+      },
+      {
+        "id": "o3",
+        "ru": "Брэд Мелдау",
+        "en": "Brad Mehldau"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2008/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2009",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Raising Sand»?",
+        "explanation": "В 2009 году «Raising Sand» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Raising Sand”?",
+        "explanation": "Raising Sand won the Grammy Award for Album of the Year in 2009."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Плант и Элисон Краусс",
+        "en": "Robert Plant and Alison Krauss"
+      },
+      {
+        "id": "o1",
+        "ru": "Марк Нопфлер и Эммилу Харрис",
+        "en": "Mark Knopfler and Emmylou Harris"
+      },
+      {
+        "id": "o2",
+        "ru": "Тим Макгроу и Фейт Хилл",
+        "en": "Tim McGraw and Faith Hill"
+      },
+      {
+        "id": "o3",
+        "ru": "Джонни Кэш и Джун Картер",
+        "en": "Johnny Cash and June Carter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2009/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2010",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Fearless»?",
+        "explanation": "В 2010 году «Fearless» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Fearless”?",
+        "explanation": "Fearless won the Grammy Award for Album of the Year in 2010."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тейлор Свифт",
+        "en": "Taylor Swift"
+      },
+      {
+        "id": "o1",
+        "ru": "Кэрри Андервуд",
+        "en": "Carrie Underwood"
+      },
+      {
+        "id": "o2",
+        "ru": "Келли Кларксон",
+        "en": "Kelly Clarkson"
+      },
+      {
+        "id": "o3",
+        "ru": "Миранда Ламберт",
+        "en": "Miranda Lambert"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2010/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2011",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «The Suburbs»?",
+        "explanation": "В 2011 году «The Suburbs» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “The Suburbs”?",
+        "explanation": "The Suburbs won the Grammy Award for Album of the Year in 2011."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Arcade Fire",
+        "en": "Arcade Fire"
+      },
+      {
+        "id": "o1",
+        "ru": "The National",
+        "en": "The National"
+      },
+      {
+        "id": "o2",
+        "ru": "Vampire Weekend",
+        "en": "Vampire Weekend"
+      },
+      {
+        "id": "o3",
+        "ru": "The Killers",
+        "en": "The Killers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2011/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2012",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «21»?",
+        "explanation": "В 2012 году «21» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “21”?",
+        "explanation": "21 won the Grammy Award for Album of the Year in 2012."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Адель",
+        "en": "Adele"
+      },
+      {
+        "id": "o1",
+        "ru": "Джесси Джей",
+        "en": "Jessie J"
+      },
+      {
+        "id": "o2",
+        "ru": "Эми Уайнхаус",
+        "en": "Amy Winehouse"
+      },
+      {
+        "id": "o3",
+        "ru": "Даффи",
+        "en": "Duffy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2012/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2013",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Babel»?",
+        "explanation": "В 2013 году «Babel» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Babel”?",
+        "explanation": "Babel won the Grammy Award for Album of the Year in 2013."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Mumford & Sons",
+        "en": "Mumford & Sons"
+      },
+      {
+        "id": "o1",
+        "ru": "The Lumineers",
+        "en": "The Lumineers"
+      },
+      {
+        "id": "o2",
+        "ru": "The Avett Brothers",
+        "en": "The Avett Brothers"
+      },
+      {
+        "id": "o3",
+        "ru": "Fleet Foxes",
+        "en": "Fleet Foxes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2013/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2014",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Random Access Memories»?",
+        "explanation": "В 2014 году «Random Access Memories» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Random Access Memories”?",
+        "explanation": "Random Access Memories won the Grammy Award for Album of the Year in 2014."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Daft Punk",
+        "en": "Daft Punk"
+      },
+      {
+        "id": "o1",
+        "ru": "Justice",
+        "en": "Justice"
+      },
+      {
+        "id": "o2",
+        "ru": "The Chemical Brothers",
+        "en": "The Chemical Brothers"
+      },
+      {
+        "id": "o3",
+        "ru": "The Crystal Method",
+        "en": "The Crystal Method"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2014/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2015",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Morning Phase»?",
+        "explanation": "В 2015 году «Morning Phase» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Morning Phase”?",
+        "explanation": "Morning Phase won the Grammy Award for Album of the Year in 2015."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бек",
+        "en": "Beck"
+      },
+      {
+        "id": "o1",
+        "ru": "Джек Уайт",
+        "en": "Jack White"
+      },
+      {
+        "id": "o2",
+        "ru": "Бон Айвер",
+        "en": "Bon Iver"
+      },
+      {
+        "id": "o3",
+        "ru": "Суфьян Стивенс",
+        "en": "Sufjan Stevens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2015/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2016",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «1989»?",
+        "explanation": "В 2016 году «1989» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “1989”?",
+        "explanation": "1989 won the Grammy Award for Album of the Year in 2016."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тейлор Свифт",
+        "en": "Taylor Swift"
+      },
+      {
+        "id": "o1",
+        "ru": "Кэти Перри",
+        "en": "Katy Perry"
+      },
+      {
+        "id": "o2",
+        "ru": "Селена Гомес",
+        "en": "Selena Gomez"
+      },
+      {
+        "id": "o3",
+        "ru": "Деми Ловато",
+        "en": "Demi Lovato"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2016/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2017",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «25»?",
+        "explanation": "В 2017 году «25» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “25”?",
+        "explanation": "25 won the Grammy Award for Album of the Year in 2017."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Адель",
+        "en": "Adele"
+      },
+      {
+        "id": "o1",
+        "ru": "Леди Гага",
+        "en": "Lady Gaga"
+      },
+      {
+        "id": "o2",
+        "ru": "Сэм Смит",
+        "en": "Sam Smith"
+      },
+      {
+        "id": "o3",
+        "ru": "Сиа",
+        "en": "Sia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2017/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2018",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «24K Magic»?",
+        "explanation": "В 2018 году «24K Magic» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “24K Magic”?",
+        "explanation": "24K Magic won the Grammy Award for Album of the Year in 2018."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бруно Марс",
+        "en": "Bruno Mars"
+      },
+      {
+        "id": "o1",
+        "ru": "Джастин Тимберлейк",
+        "en": "Justin Timberlake"
+      },
+      {
+        "id": "o2",
+        "ru": "Ашер",
+        "en": "Usher"
+      },
+      {
+        "id": "o3",
+        "ru": "The Weeknd",
+        "en": "The Weeknd"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2018/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2019",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Golden Hour»?",
+        "explanation": "В 2019 году «Golden Hour» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Golden Hour”?",
+        "explanation": "Golden Hour won the Grammy Award for Album of the Year in 2019."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кейси Масгрейвс",
+        "en": "Kacey Musgraves"
+      },
+      {
+        "id": "o1",
+        "ru": "Миранда Ламберт",
+        "en": "Miranda Lambert"
+      },
+      {
+        "id": "o2",
+        "ru": "Марен Моррис",
+        "en": "Maren Morris"
+      },
+      {
+        "id": "o3",
+        "ru": "Кэрри Андервуд",
+        "en": "Carrie Underwood"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2019/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2020",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил пластинку «When We All Fall Asleep, Where Do We Go?»",
+        "explanation": "В 2020 году «When We All Fall Asleep, Where Do We Go?» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released “When We All Fall Asleep, Where Do We Go?”",
+        "explanation": "When We All Fall Asleep, Where Do We Go? won the Grammy Award for Album of the Year in 2020."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Билли Айлиш",
+        "en": "Billie Eilish"
+      },
+      {
+        "id": "o1",
+        "ru": "Лорд",
+        "en": "Lorde"
+      },
+      {
+        "id": "o2",
+        "ru": "Холзи",
+        "en": "Halsey"
+      },
+      {
+        "id": "o3",
+        "ru": "Дуа Липа",
+        "en": "Dua Lipa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2020/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2021",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Folklore»?",
+        "explanation": "В 2021 году «Folklore» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Folklore”?",
+        "explanation": "Folklore won the Grammy Award for Album of the Year in 2021."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тейлор Свифт",
+        "en": "Taylor Swift"
+      },
+      {
+        "id": "o1",
+        "ru": "Лана Дель Рей",
+        "en": "Lana Del Rey"
+      },
+      {
+        "id": "o2",
+        "ru": "Лорд",
+        "en": "Lorde"
+      },
+      {
+        "id": "o3",
+        "ru": "Фиби Бриджерс",
+        "en": "Phoebe Bridgers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2021/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2022",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «We Are»?",
+        "explanation": "В 2022 году «We Are» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “We Are”?",
+        "explanation": "We Are won the Grammy Award for Album of the Year in 2022."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джон Батист",
+        "en": "Jon Batiste"
+      },
+      {
+        "id": "o1",
+        "ru": "Андерсон Пак",
+        "en": "Anderson .Paak"
+      },
+      {
+        "id": "o2",
+        "ru": "Джон Ледженд",
+        "en": "John Legend"
+      },
+      {
+        "id": "o3",
+        "ru": "Леон Бриджес",
+        "en": "Leon Bridges"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2022/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2023",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Harry's House»?",
+        "explanation": "В 2023 году «Harry's House» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Harry's House”?",
+        "explanation": "Harry's House won the Grammy Award for Album of the Year in 2023."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гарри Стайлс",
+        "en": "Harry Styles"
+      },
+      {
+        "id": "o1",
+        "ru": "Шон Мендес",
+        "en": "Shawn Mendes"
+      },
+      {
+        "id": "o2",
+        "ru": "Чарли Пут",
+        "en": "Charlie Puth"
+      },
+      {
+        "id": "o3",
+        "ru": "Найл Хоран",
+        "en": "Niall Horan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2023/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2024",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «Midnights»?",
+        "explanation": "В 2024 году «Midnights» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “Midnights”?",
+        "explanation": "Midnights won the Grammy Award for Album of the Year in 2024."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тейлор Свифт",
+        "en": "Taylor Swift"
+      },
+      {
+        "id": "o1",
+        "ru": "Ариана Гранде",
+        "en": "Ariana Grande"
+      },
+      {
+        "id": "o2",
+        "ru": "Оливия Родриго",
+        "en": "Olivia Rodrigo"
+      },
+      {
+        "id": "o3",
+        "ru": "Майли Сайрус",
+        "en": "Miley Cyrus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2024/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2025",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "easy",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «COWBOY CARTER»?",
+        "explanation": "В 2025 году «COWBOY CARTER» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “COWBOY CARTER”?",
+        "explanation": "COWBOY CARTER won the Grammy Award for Album of the Year in 2025."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бейонсе",
+        "en": "Beyoncé"
+      },
+      {
+        "id": "o1",
+        "ru": "Рианна",
+        "en": "Rihanna"
+      },
+      {
+        "id": "o2",
+        "ru": "Алиша Киз",
+        "en": "Alicia Keys"
+      },
+      {
+        "id": "o3",
+        "ru": "Джанель Монэ",
+        "en": "Janelle Monáe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2025/"
+    ],
+    "image": null
+  },
+  {
+    "id": "pop_culture_m50_album_2026",
+    "categoryId": "pop_culture",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто выпустил альбом «DeBÍ TiRAR MáS FOToS»?",
+        "explanation": "В 2026 году «DeBÍ TiRAR MáS FOToS» получил «Грэмми» как альбом года."
+      },
+      "en": {
+        "question": "Who released the album “DeBÍ TiRAR MáS FOToS”?",
+        "explanation": "DeBÍ TiRAR MáS FOToS won the Grammy Award for Album of the Year in 2026."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Bad Bunny",
+        "en": "Bad Bunny"
+      },
+      {
+        "id": "o1",
+        "ru": "J Balvin",
+        "en": "J Balvin"
+      },
+      {
+        "id": "o2",
+        "ru": "Maluma",
+        "en": "Maluma"
+      },
+      {
+        "id": "o3",
+        "ru": "Rauw Alejandro",
+        "en": "Rauw Alejandro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.grammy.com/awards/categories/album-of-the-year/2026/"
+    ],
+    "image": null
   }
 ]

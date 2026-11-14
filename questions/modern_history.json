@@ -878,5 +878,1325 @@
       "https://api.nobelprize.org/v1/laureate.json?id=550"
     ],
     "image": null
+  },
+  {
+    "id": "modern_history_m50_bastille",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какую крепость-тюрьму захватили парижане 14 июля 1789 года?",
+        "explanation": "Бастилия стала символом королевской власти во Франции."
+      },
+      "en": {
+        "question": "Which fortress and prison did Parisians seize on 14 July 1789?",
+        "explanation": "The Bastille had become a symbol of royal authority in France."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бастилия",
+        "en": "Bastille"
+      },
+      {
+        "id": "o1",
+        "ru": "Венсенский замок",
+        "en": "Château de Vincennes"
+      },
+      {
+        "id": "o2",
+        "ru": "Консьержери",
+        "en": "Conciergerie"
+      },
+      {
+        "id": "o3",
+        "ru": "Тампль",
+        "en": "Temple"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_declaration",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой документ американский Континентальный конгресс одобрил в 1776 году?",
+        "explanation": "Документ обосновывал разрыв колоний с Великобританией."
+      },
+      "en": {
+        "question": "Which document did the Continental Congress approve in 1776?",
+        "explanation": "The document set out the colonies’ reasons for breaking with Britain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Декларация независимости",
+        "en": "Declaration of Independence"
+      },
+      {
+        "id": "o1",
+        "ru": "Статьи Конфедерации",
+        "en": "Articles of Confederation"
+      },
+      {
+        "id": "o2",
+        "ru": "Билль о правах",
+        "en": "Bill of Rights"
+      },
+      {
+        "id": "o3",
+        "ru": "Конституция США",
+        "en": "US Constitution"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_articles",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как назывался первый письменный основной закон США, ратифицированный в 1781 году?",
+        "explanation": "Он позволял Конгрессу заключать союзы, но оставлял федеральную власть ограниченной."
+      },
+      "en": {
+        "question": "What was the first written constitution of the United States, ratified in 1781, called?",
+        "explanation": "It let Congress form alliances while leaving the federal government with limited powers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Статьи Конфедерации",
+        "en": "Articles of Confederation"
+      },
+      {
+        "id": "o1",
+        "ru": "Конституция США",
+        "en": "US Constitution"
+      },
+      {
+        "id": "o2",
+        "ru": "Билль о правах",
+        "en": "Bill of Rights"
+      },
+      {
+        "id": "o3",
+        "ru": "Декларация независимости",
+        "en": "Declaration of Independence"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_constitution",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком году в Филадельфии подготовили Конституцию США?",
+        "explanation": "Она дала федеральному правительству право взимать налоги и регулировать торговлю между штатами."
+      },
+      "en": {
+        "question": "In which year was the US Constitution drafted in Philadelphia?",
+        "explanation": "It gave the federal government powers to tax and regulate interstate commerce."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1787",
+        "en": "1787"
+      },
+      {
+        "id": "o1",
+        "ru": "1776",
+        "en": "1776"
+      },
+      {
+        "id": "o2",
+        "ru": "1781",
+        "en": "1781"
+      },
+      {
+        "id": "o3",
+        "ru": "1791",
+        "en": "1791"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_dessalines",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто провозгласил независимость Гаити 1 января 1804 года?",
+        "explanation": "Новое название страны происходит из языка таино."
+      },
+      "en": {
+        "question": "Who proclaimed Haiti’s independence on 1 January 1804?",
+        "explanation": "The country’s new name came from the Taíno language."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жан-Жак Дессалин",
+        "en": "Jean-Jacques Dessalines"
+      },
+      {
+        "id": "o1",
+        "ru": "Туссен-Лувертюр",
+        "en": "Toussaint Louverture"
+      },
+      {
+        "id": "o2",
+        "ru": "Анри Кристоф",
+        "en": "Henri Christophe"
+      },
+      {
+        "id": "o3",
+        "ru": "Александр Петион",
+        "en": "Alexandre Pétion"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_robespierre",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто возглавлял Комитет общественного спасения во Франции в 1793–1794 годах?",
+        "explanation": "До революции Робеспьер занимался юридической практикой."
+      },
+      "en": {
+        "question": "Who led France’s Committee of Public Safety in 1793–1794?",
+        "explanation": "Robespierre practised law before the revolution."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Максимилиан Робеспьер",
+        "en": "Maximilien Robespierre"
+      },
+      {
+        "id": "o1",
+        "ru": "Жорж Дантон",
+        "en": "Georges Danton"
+      },
+      {
+        "id": "o2",
+        "ru": "Жан-Поль Марат",
+        "en": "Jean-Paul Marat"
+      },
+      {
+        "id": "o3",
+        "ru": "Жак-Пьер Бриссо",
+        "en": "Jacques Pierre Brissot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00019/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_versailles",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Где в 1919 году союзники вели переговоры о мирном договоре с Германией?",
+        "explanation": "Договор стал частью урегулирования после Первой мировой войны."
+      },
+      "en": {
+        "question": "Where did the Allied powers negotiate the 1919 peace treaty with Germany?",
+        "explanation": "The treaty formed part of the settlement after World War I."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Версаль",
+        "en": "Versailles"
+      },
+      {
+        "id": "o1",
+        "ru": "Женева",
+        "en": "Geneva"
+      },
+      {
+        "id": "o2",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o3",
+        "ru": "Лондон",
+        "en": "London"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00022/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_weimar",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называлась германская республика, правительство которой должно было выплачивать репарации после Первой мировой войны?",
+        "explanation": "Первый платёж по репарациям пришёлся на 1921 год."
+      },
+      "en": {
+        "question": "Which German republic’s government faced reparations payments after World War I?",
+        "explanation": "The first reparations payment fell due in 1921."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Веймарская республика",
+        "en": "Weimar Republic"
+      },
+      {
+        "id": "o1",
+        "ru": "Федеративная Республика Германия",
+        "en": "Federal Republic of Germany"
+      },
+      {
+        "id": "o2",
+        "ru": "Германская Демократическая Республика",
+        "en": "German Democratic Republic"
+      },
+      {
+        "id": "o3",
+        "ru": "Австрийская республика",
+        "en": "Austrian Republic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00022/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_sarajevo",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком городе в июне 1914 года убили эрцгерцога Франца Фердинанда?",
+        "explanation": "Покушение вызвало международный кризис, предшествовавший Первой мировой войне."
+      },
+      "en": {
+        "question": "In which city was Archduke Franz Ferdinand assassinated in June 1914?",
+        "explanation": "The assassination triggered the international crisis that preceded World War I."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сараево",
+        "en": "Sarajevo"
+      },
+      {
+        "id": "o1",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o2",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o3",
+        "ru": "Загреб",
+        "en": "Zagreb"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00029/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_serbia",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой стране Австро-Венгрия объявила войну 28 июля 1914 года?",
+        "explanation": "Через два дня Россия распорядилась начать мобилизацию."
+      },
+      "en": {
+        "question": "On 28 July 1914, which country received Austria-Hungary’s declaration of war?",
+        "explanation": "Two days later Russia ordered mobilisation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сербия",
+        "en": "Serbia"
+      },
+      {
+        "id": "o1",
+        "ru": "Болгария",
+        "en": "Bulgaria"
+      },
+      {
+        "id": "o2",
+        "ru": "Румыния",
+        "en": "Romania"
+      },
+      {
+        "id": "o3",
+        "ru": "Греция",
+        "en": "Greece"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00029/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_zimmermann",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой стране Германия предложила соглашение в телеграмме Циммермана?",
+        "explanation": "Публикация сообщения в марте 1917 года повлияла на решение США вступить в войну."
+      },
+      "en": {
+        "question": "Which country did Germany approach with a proposal in the Zimmermann Telegram?",
+        "explanation": "Publication of the message in March 1917 influenced the US decision to enter the war."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00030/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_lusitania",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой британский пассажирский лайнер затонул после атаки подводной лодки в мае 1915 года?",
+        "explanation": "Лайнер шёл из Нью-Йорка в Ливерпуль."
+      },
+      "en": {
+        "question": "Which British passenger liner sank after a submarine attack in May 1915?",
+        "explanation": "The liner was sailing from New York to Liverpool."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лузитания",
+        "en": "Lusitania"
+      },
+      {
+        "id": "o1",
+        "ru": "Мавритания",
+        "en": "Mauretania"
+      },
+      {
+        "id": "o2",
+        "ru": "Аквитания",
+        "en": "Aquitania"
+      },
+      {
+        "id": "o3",
+        "ru": "Олимпик",
+        "en": "Olympic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00030/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_armistice",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой день вступило в силу перемирие с Германией, завершившее боевые действия Первой мировой войны на Западном фронте?",
+        "explanation": "Прекращение огня было назначено на 11 утра."
+      },
+      "en": {
+        "question": "On what date did the armistice with Germany end World War I fighting on the Western Front?",
+        "explanation": "The ceasefire was set for 11 a.m."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "11 ноября 1918 года",
+        "en": "11 November 1918"
+      },
+      {
+        "id": "o1",
+        "ru": "28 июня 1919 года",
+        "en": "28 June 1919"
+      },
+      {
+        "id": "o2",
+        "ru": "4 августа 1914 года",
+        "en": "4 August 1914"
+      },
+      {
+        "id": "o3",
+        "ru": "30 октября 1918 года",
+        "en": "30 October 1918"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00032/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_midway",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком морском сражении 1942 года Япония потеряла четыре авианосца?",
+        "explanation": "После боя у Мидуэя японское продвижение в центральной части Тихого океана остановилось."
+      },
+      "en": {
+        "question": "In which 1942 naval battle did Japan lose four aircraft carriers?",
+        "explanation": "After Midway, Japan’s advance across the central Pacific halted."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Битва у Мидуэя",
+        "en": "Battle of Midway"
+      },
+      {
+        "id": "o1",
+        "ru": "Битва в Коралловом море",
+        "en": "Battle of the Coral Sea"
+      },
+      {
+        "id": "o2",
+        "ru": "Битва у островов Санта-Крус",
+        "en": "Battle of the Santa Cruz Islands"
+      },
+      {
+        "id": "o3",
+        "ru": "Битва в заливе Лейте",
+        "en": "Battle of Leyte Gulf"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00046/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_stalingrad",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой город на Волге стал местом одного из крупнейших сражений Второй мировой войны в 1942–1943 годах?",
+        "explanation": "Бои шли среди городской застройки, иногда за отдельные здания."
+      },
+      "en": {
+        "question": "Which city on the Volga was the site of a major World War II battle in 1942–1943?",
+        "explanation": "Fighting took place through the city, sometimes building by building."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сталинград",
+        "en": "Stalingrad"
+      },
+      {
+        "id": "o1",
+        "ru": "Саратов",
+        "en": "Saratov"
+      },
+      {
+        "id": "o2",
+        "ru": "Куйбышев",
+        "en": "Kuibyshev"
+      },
+      {
+        "id": "o3",
+        "ru": "Казань",
+        "en": "Kazan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00046/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_normandy",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком регионе Франции 6 июня 1944 года началась высадка союзников?",
+        "explanation": "До начала операции союзники несколько месяцев собирали и готовили войска."
+      },
+      "en": {
+        "question": "In which part of France did the Allied landings begin on 6 June 1944?",
+        "explanation": "The Allies spent months assembling and training troops before the operation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нормандия",
+        "en": "Normandy"
+      },
+      {
+        "id": "o1",
+        "ru": "Бретань",
+        "en": "Brittany"
+      },
+      {
+        "id": "o2",
+        "ru": "Прованс",
+        "en": "Provence"
+      },
+      {
+        "id": "o3",
+        "ru": "Пикардия",
+        "en": "Picardy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00048/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_berlin_airlift",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как союзники снабжали Западный Берлин во время блокады 1948–1949 годов?",
+        "explanation": "Одним из узлов воздушного моста стал аэропорт Темпельхоф."
+      },
+      "en": {
+        "question": "How did the Allies supply West Berlin during the 1948–1949 blockade?",
+        "explanation": "Tempelhof Airport was one hub of the airlift."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Самолётами",
+        "en": "By air"
+      },
+      {
+        "id": "o1",
+        "ru": "Поездами",
+        "en": "By rail"
+      },
+      {
+        "id": "o2",
+        "ru": "Баржами",
+        "en": "By barge"
+      },
+      {
+        "id": "o3",
+        "ru": "Грузовиками",
+        "en": "By truck"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_tempelhof",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Из какого берлинского аэропорта во время воздушного моста в отдельные периоды самолёты взлетали каждые 45 секунд?",
+        "explanation": "Воздушный мост продолжался почти год, пока город находился в блокаде."
+      },
+      "en": {
+        "question": "From which Berlin airport did airlift planes at one point take off every 45 seconds?",
+        "explanation": "The airlift supplied the city for nearly a year during the blockade."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Темпельхоф",
+        "en": "Tempelhof"
+      },
+      {
+        "id": "o1",
+        "ru": "Шёнефельд",
+        "en": "Schönefeld"
+      },
+      {
+        "id": "o2",
+        "ru": "Гатов",
+        "en": "Gatow"
+      },
+      {
+        "id": "o3",
+        "ru": "Тегель",
+        "en": "Tegel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_marshall",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называлась американская программа экономической помощи послевоенной Европе?",
+        "explanation": "Программу назвали в честь государственного секретаря, предложившего помощь в 1947 году."
+      },
+      "en": {
+        "question": "What was the US economic aid programme for postwar Europe called?",
+        "explanation": "The programme was named after the US secretary of state who proposed aid in 1947."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "План Маршалла",
+        "en": "Marshall Plan"
+      },
+      {
+        "id": "o1",
+        "ru": "План Дауэса",
+        "en": "Dawes Plan"
+      },
+      {
+        "id": "o2",
+        "ru": "План Юнга",
+        "en": "Young Plan"
+      },
+      {
+        "id": "o3",
+        "ru": "План Шумана",
+        "en": "Schuman Plan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_truman",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Каким двум странам США предложили помощь в 1947 году, объявляя доктрину Трумэна?",
+        "explanation": "Трумэн обратился с просьбой о финансировании к Конгрессу."
+      },
+      "en": {
+        "question": "Which two countries did the US offer aid to in 1947 when outlining the Truman Doctrine?",
+        "explanation": "Truman asked Congress to fund the aid."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Греции и Турции",
+        "en": "Greece and Turkey"
+      },
+      {
+        "id": "o1",
+        "ru": "Франции и Италии",
+        "en": "France and Italy"
+      },
+      {
+        "id": "o2",
+        "ru": "Бельгии и Нидерландам",
+        "en": "Belgium and the Netherlands"
+      },
+      {
+        "id": "o3",
+        "ru": "Дании и Норвегии",
+        "en": "Denmark and Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_nato",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой союз страны Северной Америки и Западной Европы создали для коллективной обороны в 1949 году?",
+        "explanation": "Его участники договорились помогать друг другу в случае нападения."
+      },
+      "en": {
+        "question": "Which alliance did North American and Western European countries form for collective defence in 1949?",
+        "explanation": "Its members agreed to assist one another in the event of an attack."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "НАТО",
+        "en": "NATO"
+      },
+      {
+        "id": "o1",
+        "ru": "Организация Варшавского договора",
+        "en": "Warsaw Pact"
+      },
+      {
+        "id": "o2",
+        "ru": "СЕАТО",
+        "en": "SEATO"
+      },
+      {
+        "id": "o3",
+        "ru": "Лига Наций",
+        "en": "League of Nations"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_warsaw",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой военный союз СССР и восточноевропейские страны создали в 1955 году?",
+        "explanation": "Его создание последовало за вступлением Западной Германии в НАТО."
+      },
+      "en": {
+        "question": "Which military alliance did the USSR and Eastern European countries form in 1955?",
+        "explanation": "It was formed after West Germany joined NATO."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Организация Варшавского договора",
+        "en": "Warsaw Pact"
+      },
+      {
+        "id": "o1",
+        "ru": "НАТО",
+        "en": "NATO"
+      },
+      {
+        "id": "o2",
+        "ru": "СЕАТО",
+        "en": "SEATO"
+      },
+      {
+        "id": "o3",
+        "ru": "АНЗЮС",
+        "en": "ANZUS"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_sputnik",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая страна запустила первый искусственный спутник Земли?",
+        "explanation": "После запуска «Спутника» США учредили своё космическое агентство NASA в 1958 году."
+      },
+      "en": {
+        "question": "Which country launched the first artificial satellite of Earth?",
+        "explanation": "After Sputnik’s launch, the US established NASA in 1958."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "СССР",
+        "en": "Soviet Union"
+      },
+      {
+        "id": "o1",
+        "ru": "США",
+        "en": "United States"
+      },
+      {
+        "id": "o2",
+        "ru": "Великобритания",
+        "en": "United Kingdom"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_bessemer",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой процесс помог увеличить выпуск стали в XIX веке, удаляя примеси из расплавленного чугуна?",
+        "explanation": "Сталь лучше подходила для рельсов и машин."
+      },
+      "en": {
+        "question": "Which process helped expand nineteenth-century steel production by removing impurities from molten pig iron?",
+        "explanation": "The resulting steel was better suited to rails and machinery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бессемеровский процесс",
+        "en": "Bessemer process"
+      },
+      {
+        "id": "o1",
+        "ru": "Пудлингование",
+        "en": "Puddling"
+      },
+      {
+        "id": "o2",
+        "ru": "Цементация",
+        "en": "Cementation"
+      },
+      {
+        "id": "o3",
+        "ru": "Коксование",
+        "en": "Coking"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00068/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_air_brake",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство для железных дорог Джордж Вестингауз изобрёл в 1869 году?",
+        "explanation": "Машинист мог управлять торможением с помощью сжатого воздуха."
+      },
+      "en": {
+        "question": "Which railway device did George Westinghouse invent in 1869?",
+        "explanation": "The locomotive driver could apply the brakes using compressed air."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пневматический тормоз",
+        "en": "Air brake"
+      },
+      {
+        "id": "o1",
+        "ru": "Автоматическая сцепка",
+        "en": "Automatic coupler"
+      },
+      {
+        "id": "o2",
+        "ru": "Паровой свисток",
+        "en": "Steam whistle"
+      },
+      {
+        "id": "o3",
+        "ru": "Путевой семафор",
+        "en": "Railway semaphore"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00068/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_bell",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какое средство связи Александр Грейам Белл запатентовал в 1876 году?",
+        "explanation": "Устройство быстро распространилось в Европе и Северной Америке и упростило деловое общение."
+      },
+      "en": {
+        "question": "Which communications device did Alexander Graham Bell patent in 1876?",
+        "explanation": "The device spread through Europe and North America and made business communication easier."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Телефон",
+        "en": "Telephone"
+      },
+      {
+        "id": "o1",
+        "ru": "Фонограф",
+        "en": "Phonograph"
+      },
+      {
+        "id": "o2",
+        "ru": "Радиоприёмник",
+        "en": "Radio receiver"
+      },
+      {
+        "id": "o3",
+        "ru": "Фототелеграф",
+        "en": "Facsimile telegraph"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00068/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_watt",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой шотландский инженер усовершенствовал паровую машину в эпоху промышленной революции?",
+        "explanation": "Паровые машины помогли механизировать фабрики и перевозить грузы."
+      },
+      "en": {
+        "question": "Which Scottish engineer improved the steam engine during the Industrial Revolution?",
+        "explanation": "Steam engines helped power factories and transport goods."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джеймс Уатт",
+        "en": "James Watt"
+      },
+      {
+        "id": "o1",
+        "ru": "Джордж Стефенсон",
+        "en": "George Stephenson"
+      },
+      {
+        "id": "o2",
+        "ru": "Ричард Аркрайт",
+        "en": "Richard Arkwright"
+      },
+      {
+        "id": "o3",
+        "ru": "Сэмюэл Кромптон",
+        "en": "Samuel Crompton"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00078/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_fulton",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой изобретатель запустил коммерческое пароходное сообщение в США в 1807 году?",
+        "explanation": "Пароходы и паровозы стали доставлять сырьё и готовые товары."
+      },
+      "en": {
+        "question": "Which inventor began commercial steamboat operations in the United States in 1807?",
+        "explanation": "Steamboats and locomotives carried raw materials and finished goods."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роберт Фултон",
+        "en": "Robert Fulton"
+      },
+      {
+        "id": "o1",
+        "ru": "Джеймс Уатт",
+        "en": "James Watt"
+      },
+      {
+        "id": "o2",
+        "ru": "Ричард Тревитик",
+        "en": "Richard Trevithick"
+      },
+      {
+        "id": "o3",
+        "ru": "Джордж Стефенсон",
+        "en": "George Stephenson"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00078/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_watt_power",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Что в поршневой паровой машине непосредственно приводит поршень в движение?",
+        "explanation": "Для получения пара нагревают воду."
+      },
+      "en": {
+        "question": "What directly moves the piston in a reciprocating steam engine?",
+        "explanation": "Heating water produces the steam used by the engine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Расширяющийся пар",
+        "en": "Expanding steam"
+      },
+      {
+        "id": "o1",
+        "ru": "Нагретая смазка",
+        "en": "Heated lubricant"
+      },
+      {
+        "id": "o2",
+        "ru": "Вращающееся колесо",
+        "en": "Rotating wheel"
+      },
+      {
+        "id": "o3",
+        "ru": "Охлаждающая вода",
+        "en": "Cooling water"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00078/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "modern_history_m50_soviet_space",
+    "categoryId": "modern_history",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком году Советский Союз отправил первого человека в космос?",
+        "explanation": "Это произошло после запуска первого спутника и до высадки людей на Луне."
+      },
+      "en": {
+        "question": "In which year did the Soviet Union send the first human into space?",
+        "explanation": "It followed the first satellite launch and preceded the first crewed Moon landing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1961",
+        "en": "1961"
+      },
+      {
+        "id": "o1",
+        "ru": "1957",
+        "en": "1957"
+      },
+      {
+        "id": "o2",
+        "ru": "1965",
+        "en": "1965"
+      },
+      {
+        "id": "o3",
+        "ru": "1969",
+        "en": "1969"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00034/index.cnxml"
+    ],
+    "image": null
   }
 ]

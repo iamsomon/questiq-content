@@ -440,5 +440,1765 @@
       "https://egyptianmuseum.org/deities-thoth"
     ],
     "image": null
+  },
+  {
+    "id": "mythology_m50_zeus",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кого древние греки считали царём олимпийских богов?",
+        "explanation": "Зевс был также связан с небом и погодой."
+      },
+      "en": {
+        "question": "Who was the king of the Olympian gods in Greek myth?",
+        "explanation": "Zeus was also associated with the sky and weather."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зевс",
+        "en": "Zeus"
+      },
+      {
+        "id": "o1",
+        "ru": "Аполлон",
+        "en": "Apollo"
+      },
+      {
+        "id": "o2",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o3",
+        "ru": "Гефест",
+        "en": "Hephaestus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_hera",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая греческая богиня была супругой Зевса и покровительницей брака?",
+        "explanation": "В мифах Геру называют царицей богов."
+      },
+      "en": {
+        "question": "Which Greek goddess was Zeus’s wife and a protector of marriage?",
+        "explanation": "Hera is described as the queen of the gods."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гера",
+        "en": "Hera"
+      },
+      {
+        "id": "o1",
+        "ru": "Деметра",
+        "en": "Demeter"
+      },
+      {
+        "id": "o2",
+        "ru": "Афина",
+        "en": "Athena"
+      },
+      {
+        "id": "o3",
+        "ru": "Гестия",
+        "en": "Hestia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_demeter",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая богиня в греческих мифах покровительствовала земледелию?",
+        "explanation": "С Деметрой связывали путь зерна от обработки земли до помола."
+      },
+      "en": {
+        "question": "Which goddess was the patron of farming in Greek myth?",
+        "explanation": "Demeter was associated with grain from ploughing the soil to milling it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Деметра",
+        "en": "Demeter"
+      },
+      {
+        "id": "o1",
+        "ru": "Артемида",
+        "en": "Artemis"
+      },
+      {
+        "id": "o2",
+        "ru": "Гера",
+        "en": "Hera"
+      },
+      {
+        "id": "o3",
+        "ru": "Гестия",
+        "en": "Hestia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_aphrodite",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая олимпийская богиня олицетворяла любовь и красоту?",
+        "explanation": "Эрот входил в свиту Афродиты."
+      },
+      "en": {
+        "question": "Which Olympian goddess embodied love and beauty?",
+        "explanation": "Eros was among Aphrodite’s attendants."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афродита",
+        "en": "Aphrodite"
+      },
+      {
+        "id": "o1",
+        "ru": "Гестия",
+        "en": "Hestia"
+      },
+      {
+        "id": "o2",
+        "ru": "Деметра",
+        "en": "Demeter"
+      },
+      {
+        "id": "o3",
+        "ru": "Артемида",
+        "en": "Artemis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_ares",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой греческий бог считался олицетворением войны и раздора?",
+        "explanation": "В мифах Ареса на поле боя сопровождал его сын Деймос, олицетворявший ужас."
+      },
+      "en": {
+        "question": "Which Greek god embodied war and conflict?",
+        "explanation": "Ares was accompanied into battle by his son Deimos, who personified terror."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o1",
+        "ru": "Аполлон",
+        "en": "Apollo"
+      },
+      {
+        "id": "o2",
+        "ru": "Гефест",
+        "en": "Hephaestus"
+      },
+      {
+        "id": "o3",
+        "ru": "Гермес",
+        "en": "Hermes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_hephaestus",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто в греческих мифах покровительствовал кузнецам и другим мастерам по металлу?",
+        "explanation": "Гефеста также связывали со строительством и скульптурой."
+      },
+      "en": {
+        "question": "Who was the patron of smiths and other metalworkers in Greek myth?",
+        "explanation": "Hephaestus was also associated with building and sculpture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гефест",
+        "en": "Hephaestus"
+      },
+      {
+        "id": "o1",
+        "ru": "Посейдон",
+        "en": "Poseidon"
+      },
+      {
+        "id": "o2",
+        "ru": "Аполлон",
+        "en": "Apollo"
+      },
+      {
+        "id": "o3",
+        "ru": "Арес",
+        "en": "Ares"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_hestia",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая греческая богиня охраняла домашний очаг?",
+        "explanation": "Гестию связывали и с огнём на алтаре."
+      },
+      "en": {
+        "question": "Which Greek goddess watched over the household hearth?",
+        "explanation": "Hestia was also associated with the altar flame."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гестия",
+        "en": "Hestia"
+      },
+      {
+        "id": "o1",
+        "ru": "Деметра",
+        "en": "Demeter"
+      },
+      {
+        "id": "o2",
+        "ru": "Афродита",
+        "en": "Aphrodite"
+      },
+      {
+        "id": "o3",
+        "ru": "Артемида",
+        "en": "Artemis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_apollo",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой олимпийский бог покровительствовал музыке и пророчествам?",
+        "explanation": "Аполлона также связывали с врачеванием."
+      },
+      "en": {
+        "question": "Which Olympian god was a patron of music and prophecy?",
+        "explanation": "Apollo was also associated with healing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аполлон",
+        "en": "Apollo"
+      },
+      {
+        "id": "o1",
+        "ru": "Арес",
+        "en": "Ares"
+      },
+      {
+        "id": "o2",
+        "ru": "Гефест",
+        "en": "Hephaestus"
+      },
+      {
+        "id": "o3",
+        "ru": "Посейдон",
+        "en": "Poseidon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_asclepius",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кого в греческих мифах называли богом врачевания и сыном Аполлона?",
+        "explanation": "В одном из преданий Асклепий обрёл божественный статус после смерти."
+      },
+      "en": {
+        "question": "Who was the god of healing and son of Apollo in Greek myth?",
+        "explanation": "In one myth Asclepius gained divine status after his death."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Асклепий",
+        "en": "Asclepius"
+      },
+      {
+        "id": "o1",
+        "ru": "Геракл",
+        "en": "Heracles"
+      },
+      {
+        "id": "o2",
+        "ru": "Орфей",
+        "en": "Orpheus"
+      },
+      {
+        "id": "o3",
+        "ru": "Персей",
+        "en": "Perseus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_leto",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно греческим мифам, был матерью Аполлона и Артемиды?",
+        "explanation": "Лето принадлежала к поколению титанов."
+      },
+      "en": {
+        "question": "Who was the mother of Apollo and Artemis in Greek myth?",
+        "explanation": "Leto belonged to the generation of the Titans."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лето",
+        "en": "Leto"
+      },
+      {
+        "id": "o1",
+        "ru": "Гера",
+        "en": "Hera"
+      },
+      {
+        "id": "o2",
+        "ru": "Деметра",
+        "en": "Demeter"
+      },
+      {
+        "id": "o3",
+        "ru": "Фемида",
+        "en": "Themis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_hebe",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как звали греческую богиню юности, дочь Зевса и Геры?",
+        "explanation": "В мифах Геба стала супругой Геракла."
+      },
+      "en": {
+        "question": "What was the name of the Greek goddess of youth, daughter of Zeus and Hera?",
+        "explanation": "In Greek myth Hebe became the wife of Heracles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Геба",
+        "en": "Hebe"
+      },
+      {
+        "id": "o1",
+        "ru": "Ирида",
+        "en": "Iris"
+      },
+      {
+        "id": "o2",
+        "ru": "Ника",
+        "en": "Nike"
+      },
+      {
+        "id": "o3",
+        "ru": "Гигиея",
+        "en": "Hygieia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_nike",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая греческая богиня олицетворяла победу?",
+        "explanation": "В мифах Ника входила в число крылатых хранителей трона Зевса."
+      },
+      "en": {
+        "question": "Which Greek goddess personified victory?",
+        "explanation": "In myth Nike was among the winged guardians of Zeus’s throne."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ника",
+        "en": "Nike"
+      },
+      {
+        "id": "o1",
+        "ru": "Тюхе",
+        "en": "Tyche"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирида",
+        "en": "Iris"
+      },
+      {
+        "id": "o3",
+        "ru": "Геба",
+        "en": "Hebe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_themis",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая титанида олицетворяла божественный закон и обычай?",
+        "explanation": "В греческих преданиях Фемида была советницей Зевса."
+      },
+      "en": {
+        "question": "Which Titaness personified divine law and custom?",
+        "explanation": "In Greek myth Themis advised Zeus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фемида",
+        "en": "Themis"
+      },
+      {
+        "id": "o1",
+        "ru": "Лето",
+        "en": "Leto"
+      },
+      {
+        "id": "o2",
+        "ru": "Феба",
+        "en": "Phoebe"
+      },
+      {
+        "id": "o3",
+        "ru": "Мнемосина",
+        "en": "Mnemosyne"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_ganymede",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой троянский царевич стал виночерпием Зевса?",
+        "explanation": "На пирах богов он подавал нектар."
+      },
+      "en": {
+        "question": "Which Trojan prince became Zeus’s cupbearer?",
+        "explanation": "He served nectar at the gods’ feasts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ганимед",
+        "en": "Ganymede"
+      },
+      {
+        "id": "o1",
+        "ru": "Парис",
+        "en": "Paris"
+      },
+      {
+        "id": "o2",
+        "ru": "Гектор",
+        "en": "Hector"
+      },
+      {
+        "id": "o3",
+        "ru": "Эней",
+        "en": "Aeneas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_calliope",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая муза покровительствовала эпической поэзии?",
+        "explanation": "Каллиопу считали предводительницей девяти муз."
+      },
+      "en": {
+        "question": "Which Muse presided over epic poetry?",
+        "explanation": "Calliope was regarded as the leader of the nine Muses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Каллиопа",
+        "en": "Calliope"
+      },
+      {
+        "id": "o1",
+        "ru": "Эрато",
+        "en": "Erato"
+      },
+      {
+        "id": "o2",
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      {
+        "id": "o3",
+        "ru": "Урания",
+        "en": "Urania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_clio",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая муза покровительствовала истории?",
+        "explanation": "В греческой традиции музы покровительствовали искусствам и знаниям."
+      },
+      "en": {
+        "question": "Which Muse presided over historical writing?",
+        "explanation": "In Greek tradition the Muses were patrons of the arts and learning."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      {
+        "id": "o1",
+        "ru": "Каллиопа",
+        "en": "Calliope"
+      },
+      {
+        "id": "o2",
+        "ru": "Терпсихора",
+        "en": "Terpsichore"
+      },
+      {
+        "id": "o3",
+        "ru": "Мельпомена",
+        "en": "Melpomene"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_melpomene",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая муза покровительствовала трагедии?",
+        "explanation": "За комедией в этой традиции закреплена другая муза, Талия."
+      },
+      "en": {
+        "question": "Which Muse presided over tragedy?",
+        "explanation": "In the same tradition, Thalia presided over comedy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мельпомена",
+        "en": "Melpomene"
+      },
+      {
+        "id": "o1",
+        "ru": "Талия",
+        "en": "Thalia"
+      },
+      {
+        "id": "o2",
+        "ru": "Эрато",
+        "en": "Erato"
+      },
+      {
+        "id": "o3",
+        "ru": "Полигимния",
+        "en": "Polyhymnia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_urania",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая муза покровительствовала астрономии?",
+        "explanation": "Уранию связывали также с трудами об устройстве неба."
+      },
+      "en": {
+        "question": "Which Muse presided over astronomy?",
+        "explanation": "Urania was also associated with writings about the heavens."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Урания",
+        "en": "Urania"
+      },
+      {
+        "id": "o1",
+        "ru": "Каллиопа",
+        "en": "Calliope"
+      },
+      {
+        "id": "o2",
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      {
+        "id": "o3",
+        "ru": "Эвтерпа",
+        "en": "Euterpe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_terpsichore",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая муза покровительствовала хоровому танцу и пению?",
+        "explanation": "Древние греки связывали каждую музу с особыми занятиями."
+      },
+      "en": {
+        "question": "Which Muse presided over choral dance and song?",
+        "explanation": "The Greeks associated individual Muses with different pursuits."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Терпсихора",
+        "en": "Terpsichore"
+      },
+      {
+        "id": "o1",
+        "ru": "Клио",
+        "en": "Clio"
+      },
+      {
+        "id": "o2",
+        "ru": "Урания",
+        "en": "Urania"
+      },
+      {
+        "id": "o3",
+        "ru": "Мельпомена",
+        "en": "Melpomene"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_moirai",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называли трёх богинь, прявших нить человеческой судьбы?",
+        "explanation": "В преданиях Зевса называли предводителем Мойр."
+      },
+      "en": {
+        "question": "What were the three Greek goddesses who spun the thread of human destiny called?",
+        "explanation": "In Greek tradition Zeus was called the leader of the Fates."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мойры",
+        "en": "Moirai"
+      },
+      {
+        "id": "o1",
+        "ru": "Хариты",
+        "en": "Charites"
+      },
+      {
+        "id": "o2",
+        "ru": "Оры",
+        "en": "Horae"
+      },
+      {
+        "id": "o3",
+        "ru": "Музы",
+        "en": "Muses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_dioscuri",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называли мифологических близнецов Кастора и Полидевка?",
+        "explanation": "Диоскуров считали покровителями всадников и защитниками моряков."
+      },
+      "en": {
+        "question": "What was the collective name of the mythical twins Castor and Polydeuces?",
+        "explanation": "The Dioscuri were regarded as patrons of horsemen and protectors of sailors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диоскуры",
+        "en": "Dioscuri"
+      },
+      {
+        "id": "o1",
+        "ru": "Титаны",
+        "en": "Titans"
+      },
+      {
+        "id": "o2",
+        "ru": "Киклопы",
+        "en": "Cyclopes"
+      },
+      {
+        "id": "o3",
+        "ru": "Кабиры",
+        "en": "Cabeiri"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_eileithyia",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая греческая богиня, дочь Зевса и Геры, покровительствовала родам?",
+        "explanation": "Илифию особенно связывали с родовыми схватками."
+      },
+      "en": {
+        "question": "Which Greek goddess, daughter of Zeus and Hera, presided over childbirth?",
+        "explanation": "Eileithyia was especially associated with the pains of labour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Илифия",
+        "en": "Eileithyia"
+      },
+      {
+        "id": "o1",
+        "ru": "Геба",
+        "en": "Hebe"
+      },
+      {
+        "id": "o2",
+        "ru": "Ника",
+        "en": "Nike"
+      },
+      {
+        "id": "o3",
+        "ru": "Гигиея",
+        "en": "Hygieia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_tyche",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая греческая богиня олицетворяла удачу?",
+        "explanation": "В некоторых изображениях Тюхе выступает спутницей Геры."
+      },
+      "en": {
+        "question": "Which Greek goddess personified good fortune?",
+        "explanation": "Tyche was sometimes represented as an attendant of Hera."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тюхе",
+        "en": "Tyche"
+      },
+      {
+        "id": "o1",
+        "ru": "Ника",
+        "en": "Nike"
+      },
+      {
+        "id": "o2",
+        "ru": "Ирида",
+        "en": "Iris"
+      },
+      {
+        "id": "o3",
+        "ru": "Геба",
+        "en": "Hebe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_hymenaios",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какого греческого бога связывали со свадебной песней?",
+        "explanation": "Гименея причисляли к свите Афродиты."
+      },
+      "en": {
+        "question": "Which Greek god was associated with the wedding song?",
+        "explanation": "Hymenaeus was counted among Aphrodite’s followers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гименей",
+        "en": "Hymenaeus"
+      },
+      {
+        "id": "o1",
+        "ru": "Асклепий",
+        "en": "Asclepius"
+      },
+      {
+        "id": "o2",
+        "ru": "Ганимед",
+        "en": "Ganymede"
+      },
+      {
+        "id": "o3",
+        "ru": "Орфей",
+        "en": "Orpheus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_panacea",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как звали дочь Асклепия, имя которой стало обозначать универсальное средство от бед?",
+        "explanation": "В греческом имени Панакеи заложено значение «всё исцеляющая»."
+      },
+      "en": {
+        "question": "Which daughter of Asclepius gave her name to the idea of a universal remedy?",
+        "explanation": "Panacea’s Greek name carries the meaning of healing all things."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Панакея",
+        "en": "Panacea"
+      },
+      {
+        "id": "o1",
+        "ru": "Гигиея",
+        "en": "Hygieia"
+      },
+      {
+        "id": "o2",
+        "ru": "Эпиона",
+        "en": "Epione"
+      },
+      {
+        "id": "o3",
+        "ru": "Эгла",
+        "en": "Aegle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.theoi.com/greek-mythology/olympian-gods.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_loki",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какого скандинавского бога в «Младшей Эдде» называют сыном Фарбаути и Лаувей?",
+        "explanation": "В этом рассказе Локи выделяется хитростью и изобретательностью."
+      },
+      "en": {
+        "question": "Which Norse god does the Prose Edda name as the son of Farbauti and Laufey?",
+        "explanation": "Loki stands out for his cunning and resourcefulness in this account."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Локи",
+        "en": "Loki"
+      },
+      {
+        "id": "o1",
+        "ru": "Один",
+        "en": "Odin"
+      },
+      {
+        "id": "o2",
+        "ru": "Тюр",
+        "en": "Týr"
+      },
+      {
+        "id": "o3",
+        "ru": "Хеймдалль",
+        "en": "Heimdall"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_fenrir",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какого волка асы связали волшебными путами Глейпнир?",
+        "explanation": "По рассказу «Младшей Эдды», Тюр лишился руки, пока боги связывали волка."
+      },
+      "en": {
+        "question": "Which wolf did the Æsir bind with the magical fetter Gleipnir?",
+        "explanation": "In the Prose Edda, Týr lost his hand when the gods bound the wolf."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фенрир",
+        "en": "Fenrir"
+      },
+      {
+        "id": "o1",
+        "ru": "Гарм",
+        "en": "Garmr"
+      },
+      {
+        "id": "o2",
+        "ru": "Сколль",
+        "en": "Sköll"
+      },
+      {
+        "id": "o3",
+        "ru": "Хати",
+        "en": "Hati"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_jormungandr",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как звали змея, окружавшего мир людей в скандинавских мифах?",
+        "explanation": "В «Младшей Эдде» Тор встречает этого змея в последней битве."
+      },
+      "en": {
+        "question": "What was the name of the serpent that encircled the human world in Norse myth?",
+        "explanation": "In the Prose Edda, Thor faces the serpent in the final battle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ёрмунганд",
+        "en": "Jörmungandr"
+      },
+      {
+        "id": "o1",
+        "ru": "Нидхёгг",
+        "en": "Níðhöggr"
+      },
+      {
+        "id": "o2",
+        "ru": "Фафнир",
+        "en": "Fáfnir"
+      },
+      {
+        "id": "o3",
+        "ru": "Фенрир",
+        "en": "Fenrir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_yggdrasil",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется мировой ясень в «Младшей Эдде»?",
+        "explanation": "Под одним из его корней находится колодец Мимира, связанный с мудростью."
+      },
+      "en": {
+        "question": "What is the world ash tree called in the Prose Edda?",
+        "explanation": "Under one of its roots is Mimir’s well, associated with wisdom."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иггдрасиль",
+        "en": "Yggdrasil"
+      },
+      {
+        "id": "o1",
+        "ru": "Лэрад",
+        "en": "Læraðr"
+      },
+      {
+        "id": "o2",
+        "ru": "Гласир",
+        "en": "Glasir"
+      },
+      {
+        "id": "o3",
+        "ru": "Мимамейд",
+        "en": "Mímameiðr"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_bifrost",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как назывался мост, который «Младшая Эдда» отождествляет с радугой?",
+        "explanation": "В рассказе этот мост имеет три цвета."
+      },
+      "en": {
+        "question": "What is the name of the bridge identified as the rainbow in the Prose Edda?",
+        "explanation": "The story describes the bridge as having three colours."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Биврёст",
+        "en": "Bifröst"
+      },
+      {
+        "id": "o1",
+        "ru": "Гьялларбру",
+        "en": "Gjallarbrú"
+      },
+      {
+        "id": "o2",
+        "ru": "Нагльфар",
+        "en": "Naglfar"
+      },
+      {
+        "id": "o3",
+        "ru": "Скидбладнир",
+        "en": "Skíðblaðnir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_sleipnir",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как звали восьминогого коня Одина?",
+        "explanation": "В «Младшей Эдде» Хермод отправляется на нём в царство Хель."
+      },
+      "en": {
+        "question": "What was the name of Odin’s eight-legged horse?",
+        "explanation": "In the Prose Edda, Hermod rides him to the realm of Hel."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Слейпнир",
+        "en": "Sleipnir"
+      },
+      {
+        "id": "o1",
+        "ru": "Гулльфакси",
+        "en": "Gullfaxi"
+      },
+      {
+        "id": "o2",
+        "ru": "Грани",
+        "en": "Grani"
+      },
+      {
+        "id": "o3",
+        "ru": "Гулльтопп",
+        "en": "Gulltoppr"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_skidbladnir",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой корабль в скандинавском мифе можно было свернуть, когда он не нужен?",
+        "explanation": "Сыновья Ивальди построили корабль и подарили его Фрейру."
+      },
+      "en": {
+        "question": "Which ship in Norse myth could be folded away when it was not needed?",
+        "explanation": "The sons of Ivaldi built the ship and gave it to Freyr."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Скидбладнир",
+        "en": "Skíðblaðnir"
+      },
+      {
+        "id": "o1",
+        "ru": "Нагльфар",
+        "en": "Naglfar"
+      },
+      {
+        "id": "o2",
+        "ru": "Хрингхорни",
+        "en": "Hringhorni"
+      },
+      {
+        "id": "o3",
+        "ru": "Эллиди",
+        "en": "Elliði"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_ragnarok",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называют последнюю битву богов и гибель старого мира в скандинавских мифах?",
+        "explanation": "В «Младшей Эдде» после катастрофы из моря поднимается новая земля."
+      },
+      "en": {
+        "question": "What is the final battle of the gods and the destruction of the old world called in Norse myth?",
+        "explanation": "In the Prose Edda, a new earth rises from the sea afterwards."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рагнарёк",
+        "en": "Ragnarök"
+      },
+      {
+        "id": "o1",
+        "ru": "Фимбульветр",
+        "en": "Fimbulwinter"
+      },
+      {
+        "id": "o2",
+        "ru": "Альвеблот",
+        "en": "Álfablót"
+      },
+      {
+        "id": "o3",
+        "ru": "Дисаблот",
+        "en": "Dísablót"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/files/14726/14726-h/14726-h.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_osiris",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой бог в древнеегипетских мифах правил царством мёртвых и олицетворял преодоление смерти?",
+        "explanation": "Его часто изображали в погребальных пеленах с жезлом и плетью."
+      },
+      "en": {
+        "question": "Which Egyptian god ruled the underworld and embodied the overcoming of death?",
+        "explanation": "He was often shown shrouded, holding a sceptre and flail."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Осирис",
+        "en": "Osiris"
+      },
+      {
+        "id": "o1",
+        "ru": "Ра",
+        "en": "Ra"
+      },
+      {
+        "id": "o2",
+        "ru": "Гор",
+        "en": "Horus"
+      },
+      {
+        "id": "o3",
+        "ru": "Тот",
+        "en": "Thoth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_isis",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая египетская богиня часто изображалась с младенцем Гором?",
+        "explanation": "Исида и Гор почитались в святилищах, куда люди приходили за помощью."
+      },
+      "en": {
+        "question": "Which Egyptian goddess was often depicted with the infant Horus?",
+        "explanation": "Isis and Horus were worshipped at shrines where people could ask for help."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Исида",
+        "en": "Isis"
+      },
+      {
+        "id": "o1",
+        "ru": "Маат",
+        "en": "Maat"
+      },
+      {
+        "id": "o2",
+        "ru": "Нейт",
+        "en": "Neith"
+      },
+      {
+        "id": "o3",
+        "ru": "Сехмет",
+        "en": "Sekhmet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_horus",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какого египетского бога с обликом сокола особенно связывали с царской властью?",
+        "explanation": "Фараоны отождествляли свою власть с Гором."
+      },
+      "en": {
+        "question": "Which Egyptian god with falcon imagery was particularly associated with kingship?",
+        "explanation": "Pharaohs identified their kingship with Horus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гор",
+        "en": "Horus"
+      },
+      {
+        "id": "o1",
+        "ru": "Тот",
+        "en": "Thoth"
+      },
+      {
+        "id": "o2",
+        "ru": "Осирис",
+        "en": "Osiris"
+      },
+      {
+        "id": "o3",
+        "ru": "Хнум",
+        "en": "Khnum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_set",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто в одном из главных египетских мифов убил своего брата Осириса?",
+        "explanation": "После гибели Осириса Исида и Нефтида помогли восстановить его тело."
+      },
+      "en": {
+        "question": "Who killed his brother Osiris in a major Egyptian myth?",
+        "explanation": "After Osiris’s death, Isis and Nephthys helped put his body back together."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сет",
+        "en": "Seth"
+      },
+      {
+        "id": "o1",
+        "ru": "Гор",
+        "en": "Horus"
+      },
+      {
+        "id": "o2",
+        "ru": "Анубис",
+        "en": "Anubis"
+      },
+      {
+        "id": "o3",
+        "ru": "Тот",
+        "en": "Thoth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_ra",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой египетский солнечный бог, по мифу, днём пересекал небо, а ночью проходил через загробный мир?",
+        "explanation": "Его ежедневное возвращение связывали с поддержанием мирового порядка."
+      },
+      "en": {
+        "question": "Which Egyptian sun god crossed the sky by day and travelled through the underworld by night?",
+        "explanation": "His daily return was linked to the maintenance of cosmic order."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ра",
+        "en": "Ra"
+      },
+      {
+        "id": "o1",
+        "ru": "Осирис",
+        "en": "Osiris"
+      },
+      {
+        "id": "o2",
+        "ru": "Тот",
+        "en": "Thoth"
+      },
+      {
+        "id": "o3",
+        "ru": "Птах",
+        "en": "Ptah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_maat",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая богиня олицетворяла правильный порядок мира в египетской традиции?",
+        "explanation": "Её знаком было страусиное перо, с которым сопоставляли души умерших."
+      },
+      "en": {
+        "question": "Which goddess embodied proper cosmic order in Egyptian tradition?",
+        "explanation": "Her emblem was an ostrich feather against which the dead were weighed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Маат",
+        "en": "Maat"
+      },
+      {
+        "id": "o1",
+        "ru": "Исида",
+        "en": "Isis"
+      },
+      {
+        "id": "o2",
+        "ru": "Бастет",
+        "en": "Bastet"
+      },
+      {
+        "id": "o3",
+        "ru": "Нефтида",
+        "en": "Nephthys"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/ru/exhibitions/divine-egypt/inside-the-exhibition"
+    ],
+    "image": null
+  },
+  {
+    "id": "mythology_m50_bastet",
+    "categoryId": "mythology",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какую египетскую богиню часто изображали с головой кошки?",
+        "explanation": "Главный центр её почитания находился в Бубастисе в дельте Нила."
+      },
+      "en": {
+        "question": "Which Egyptian goddess was often depicted with a cat’s head?",
+        "explanation": "The main centre of her cult was Bubastis in the Nile Delta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бастет",
+        "en": "Bastet"
+      },
+      {
+        "id": "o1",
+        "ru": "Исида",
+        "en": "Isis"
+      },
+      {
+        "id": "o2",
+        "ru": "Хатхор",
+        "en": "Hathor"
+      },
+      {
+        "id": "o3",
+        "ru": "Маат",
+        "en": "Maat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.metmuseum.org/art/collection/search/552468"
+    ],
+    "image": null
   }
 ]
