@@ -1318,5 +1318,885 @@
       "https://science.nasa.gov/learn/basics-of-space-flight/glossary/"
     ],
     "image": null
+  },
+  {
+    "id": "space_technology_m50_osiris",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой астероид стал источником образца, доставленного OSIRIS-REx на Землю в 2023 году?",
+        "explanation": "Образец был собран в 2020 году манипулятором TAGSAM."
+      },
+      "en": {
+        "question": "Which asteroid supplied the sample OSIRIS-REx delivered to Earth in 2023?",
+        "explanation": "The sample was collected in 2020 using the TAGSAM arm."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бенну",
+        "en": "Bennu"
+      },
+      {
+        "id": "o1",
+        "ru": "Рюгу",
+        "en": "Ryugu"
+      },
+      {
+        "id": "o2",
+        "ru": "Веста",
+        "en": "Vesta"
+      },
+      {
+        "id": "o3",
+        "ru": "Эрос",
+        "en": "Eros"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/osiris-rex/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_dart",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой спутник астероида стал целью столкновения аппарата DART в 2022 году?",
+        "explanation": "Эксперимент проверял изменение орбиты кинетическим ударом."
+      },
+      "en": {
+        "question": "Which asteroid moon was the target of DART's 2022 impact?",
+        "explanation": "The experiment tested changing an orbit through a kinetic impact."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диморф",
+        "en": "Dimorphos"
+      },
+      {
+        "id": "o1",
+        "ru": "Титан",
+        "en": "Titan"
+      },
+      {
+        "id": "o2",
+        "ru": "Фобос",
+        "en": "Phobos"
+      },
+      {
+        "id": "o3",
+        "ru": "Европа",
+        "en": "Europa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/dart/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_chandra",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком диапазоне работает космическая обсерватория Chandra?",
+        "explanation": "Рентгеновские лучи помогают наблюдать области, в которых вещество нагрето до очень высоких температур."
+      },
+      "en": {
+        "question": "Which band does the Chandra space observatory observe?",
+        "explanation": "X-rays help astronomers observe regions where matter is extremely hot."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рентгеновском",
+        "en": "X-ray"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиодиапазоне",
+        "en": "Radio"
+      },
+      {
+        "id": "o2",
+        "ru": "Микроволновом",
+        "en": "Microwave"
+      },
+      {
+        "id": "o3",
+        "ru": "Только видимом",
+        "en": "Visible only"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/chandra/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_kepler",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Поиск каких объектов был основной задачей телескопа Kepler?",
+        "explanation": "Телескоп искал небольшие падения яркости звёзд при прохождении планет."
+      },
+      "en": {
+        "question": "What objects was the Kepler telescope primarily designed to find?",
+        "explanation": "It looked for slight dips in starlight as planets passed in front."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экзопланет",
+        "en": "Exoplanets"
+      },
+      {
+        "id": "o1",
+        "ru": "Комет Солнечной системы",
+        "en": "Solar System comets"
+      },
+      {
+        "id": "o2",
+        "ru": "Искусственных спутников",
+        "en": "Artificial satellites"
+      },
+      {
+        "id": "o3",
+        "ru": "Кратеров Луны",
+        "en": "Lunar craters"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/kepler/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_galileo",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету исследовал орбитальный аппарат Galileo с 1995 года?",
+        "explanation": "Отдельный зонд миссии вошёл в атмосферу этой планеты."
+      },
+      "en": {
+        "question": "Which planet did the Galileo orbiter study from 1995?",
+        "explanation": "A separate mission probe entered the planet's atmosphere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o2",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "o3",
+        "ru": "Нептун",
+        "en": "Neptune"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/galileo/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_magellan",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую планету Magellan картографировал с помощью радара?",
+        "explanation": "Радар позволял изучать поверхность сквозь плотную облачность."
+      },
+      "en": {
+        "question": "Which planet did Magellan map using radar?",
+        "explanation": "Radar made it possible to study the surface through dense clouds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Венеру",
+        "en": "Venus"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o3",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/magellan/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_juno",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой планете в 2016 году прибыл аппарат Juno?",
+        "explanation": "С орбиты аппарат обнаружил группы мощных штормов у полюсов планеты."
+      },
+      "en": {
+        "question": "Which planet did Juno reach in 2016?",
+        "explanation": "From orbit, the spacecraft discovered clusters of powerful storms close to the planet’s poles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "o2",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o3",
+        "ru": "Уран",
+        "en": "Uranus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/juno/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_soho",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что изучает космическая обсерватория SOHO?",
+        "explanation": "SOHO — совместный проект ESA и NASA."
+      },
+      "en": {
+        "question": "What does the SOHO observatory study?",
+        "explanation": "SOHO is a joint ESA and NASA project."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Солнце и его окрестности",
+        "en": "The Sun and its surroundings"
+      },
+      {
+        "id": "o1",
+        "ru": "Атмосферу Венеры",
+        "en": "The atmosphere of Venus"
+      },
+      {
+        "id": "o2",
+        "ru": "Ядра комет",
+        "en": "Comet nuclei"
+      },
+      {
+        "id": "o3",
+        "ru": "Поверхность Меркурия",
+        "en": "The surface of Mercury"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/soho/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_tess",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое явление использует TESS для поиска планет у других звёзд?",
+        "explanation": "Планета ненадолго закрывает небольшую часть света своей звезды."
+      },
+      "en": {
+        "question": "Which phenomenon does TESS use to search for planets around other stars?",
+        "explanation": "A planet briefly blocks a small fraction of its star's light."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Транзиты",
+        "en": "Transits"
+      },
+      {
+        "id": "o1",
+        "ru": "Лунные затмения",
+        "en": "Lunar eclipses"
+      },
+      {
+        "id": "o2",
+        "ru": "Солнечные вспышки",
+        "en": "Solar flares"
+      },
+      {
+        "id": "o3",
+        "ru": "Метеорные потоки",
+        "en": "Meteor showers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/exoplanets/whats-a-transit/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_spirit",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой марсоход был близнецом Spirit в программе NASA Mars Exploration Rovers?",
+        "explanation": "Два марсохода стартовали в 2003 году и сели в разных районах Марса."
+      },
+      "en": {
+        "question": "Which rover was Spirit’s twin in NASA’s Mars Exploration Rovers programme?",
+        "explanation": "The two rovers launched in 2003 and landed in different regions of Mars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оппортьюнити",
+        "en": "Opportunity"
+      },
+      {
+        "id": "o1",
+        "ru": "Соджорнер",
+        "en": "Sojourner"
+      },
+      {
+        "id": "o2",
+        "ru": "Кьюриосити",
+        "en": "Curiosity"
+      },
+      {
+        "id": "o3",
+        "ru": "Персеверанс",
+        "en": "Perseverance"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_insight",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что регистрировал сейсмометр InSight на Марсе?",
+        "explanation": "Изучение марсотрясений помогает понять внутреннее строение планеты."
+      },
+      "en": {
+        "question": "What did InSight's seismometer record on Mars?",
+        "explanation": "Studying marsquakes helps reveal the planet's interior."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сейсмические колебания",
+        "en": "Seismic vibrations"
+      },
+      {
+        "id": "o1",
+        "ru": "Направление солнечного ветра",
+        "en": "Solar-wind direction"
+      },
+      {
+        "id": "o2",
+        "ru": "Состав колец",
+        "en": "Ring composition"
+      },
+      {
+        "id": "o3",
+        "ru": "Массу спутников",
+        "en": "Moon masses"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/insight/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_messenger",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Орбиту какой планеты первым достиг аппарат MESSENGER?",
+        "explanation": "Выход на орбиту состоялся в 2011 году."
+      },
+      "en": {
+        "question": "Which planet did MESSENGER become the first spacecraft to orbit?",
+        "explanation": "It entered orbit in 2011."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "o1",
+        "ru": "Венеру",
+        "en": "Venus"
+      },
+      {
+        "id": "o2",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o3",
+        "ru": "Сатурн",
+        "en": "Saturn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/messenger/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_pioneer",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какой планеты Pioneer 10 совершил пролёт в 1973 году?",
+        "explanation": "Аппарат передал близкие изображения гиганта и данные о его окружении."
+      },
+      "en": {
+        "question": "Which planet did Pioneer 10 fly past in 1973?",
+        "explanation": "The spacecraft returned close-up images and measurements of the giant's environment."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      },
+      {
+        "id": "o1",
+        "ru": "Нептун",
+        "en": "Neptune"
+      },
+      {
+        "id": "o2",
+        "ru": "Уран",
+        "en": "Uranus"
+      },
+      {
+        "id": "o3",
+        "ru": "Венера",
+        "en": "Venus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/pioneer-10/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_mariner",
+    "categoryId": "space_technology",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая планета стала целью успешного пролёта Mariner 2 в 1962 году?",
+        "explanation": "Это был первый успешный близкий пролёт аппарата у другой планеты."
+      },
+      "en": {
+        "question": "Which planet did Mariner 2 successfully fly past in 1962?",
+        "explanation": "It was the first successful close spacecraft flyby of another planet."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Венера",
+        "en": "Venus"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Меркурий",
+        "en": "Mercury"
+      },
+      {
+        "id": "o3",
+        "ru": "Юпитер",
+        "en": "Jupiter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/mariner-2/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_lro",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое небесное тело картографирует Lunar Reconnaissance Orbiter?",
+        "explanation": "Его снимки помогают изучать рельеф и выбирать места посадки."
+      },
+      "en": {
+        "question": "Which celestial body does Lunar Reconnaissance Orbiter map?",
+        "explanation": "Its images help study terrain and select landing sites."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Луну",
+        "en": "The Moon"
+      },
+      {
+        "id": "o1",
+        "ru": "Марс",
+        "en": "Mars"
+      },
+      {
+        "id": "o2",
+        "ru": "Цереру",
+        "en": "Ceres"
+      },
+      {
+        "id": "o3",
+        "ru": "Весту",
+        "en": "Vesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/lro/about/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_stardust",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Из комы какой кометы Stardust доставил пыль на Землю?",
+        "explanation": "Частицы улавливали при помощи аэрогеля."
+      },
+      "en": {
+        "question": "From which comet’s coma did Stardust return dust to Earth?",
+        "explanation": "The particles were captured using aerogel."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вильда 2",
+        "en": "Wild 2"
+      },
+      {
+        "id": "o1",
+        "ru": "Галлея",
+        "en": "Halley"
+      },
+      {
+        "id": "o2",
+        "ru": "Энке",
+        "en": "Encke"
+      },
+      {
+        "id": "o3",
+        "ru": "Темпеля 1",
+        "en": "Tempel 1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/stardust/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_genesis",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Образцы чего собирал аппарат Genesis?",
+        "explanation": "Коллекторы улавливали частицы, исходящие от Солнца."
+      },
+      "en": {
+        "question": "What did the Genesis spacecraft collect samples of?",
+        "explanation": "Collectors captured particles originating from the Sun."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Солнечного ветра",
+        "en": "Solar wind"
+      },
+      {
+        "id": "o1",
+        "ru": "Лунного грунта",
+        "en": "Lunar soil"
+      },
+      {
+        "id": "o2",
+        "ru": "Марсианского льда",
+        "en": "Martian ice"
+      },
+      {
+        "id": "o3",
+        "ru": "Кометной пыли",
+        "en": "Comet dust"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/genesis/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_deep_impact",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой кометой столкнулся ударный модуль Deep Impact в 2005 году?",
+        "explanation": "Наблюдение выброшенного вещества помогло изучить состав кометы."
+      },
+      "en": {
+        "question": "Which comet did Deep Impact's impactor strike in 2005?",
+        "explanation": "Observing the ejected material helped investigate the comet's composition."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Темпеля 1",
+        "en": "Tempel 1"
+      },
+      {
+        "id": "o1",
+        "ru": "Галлея",
+        "en": "Halley"
+      },
+      {
+        "id": "o2",
+        "ru": "Вильда 2",
+        "en": "Wild 2"
+      },
+      {
+        "id": "o3",
+        "ru": "Энке",
+        "en": "Encke"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/deep-impact-epoxi/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_ibex",
+    "categoryId": "space_technology",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую область изучает космический аппарат IBEX?",
+        "explanation": "Аппарат строит карты по энергичным нейтральным атомам."
+      },
+      "en": {
+        "question": "What region does the spacecraft IBEX study?",
+        "explanation": "The spacecraft builds maps using energetic neutral atoms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Границу гелиосферы",
+        "en": "The heliosphere's boundary"
+      },
+      {
+        "id": "o1",
+        "ru": "Поверхность Луны",
+        "en": "The Moon's surface"
+      },
+      {
+        "id": "o2",
+        "ru": "Кольца Сатурна",
+        "en": "Saturn's rings"
+      },
+      {
+        "id": "o3",
+        "ru": "Вулканы Венеры",
+        "en": "Volcanoes on Venus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/ibex/"
+    ],
+    "image": null
+  },
+  {
+    "id": "space_technology_m50_wise",
+    "categoryId": "space_technology",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком диапазоне WISE первоначально обследовал всё небо?",
+        "explanation": "По инфракрасным наблюдениям составили карту всего неба."
+      },
+      "en": {
+        "question": "In which band did WISE originally survey the whole sky?",
+        "explanation": "Infrared observations were used to map the entire sky."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Инфракрасном",
+        "en": "Infrared"
+      },
+      {
+        "id": "o1",
+        "ru": "Рентгеновском",
+        "en": "X-ray"
+      },
+      {
+        "id": "o2",
+        "ru": "Гамма-диапазоне",
+        "en": "Gamma-ray"
+      },
+      {
+        "id": "o3",
+        "ru": "Ультрафиолетовом",
+        "en": "Ultraviolet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://science.nasa.gov/mission/wise/"
+    ],
+    "image": null
   }
 ]

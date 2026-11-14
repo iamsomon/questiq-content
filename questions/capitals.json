@@ -438,5 +438,1805 @@
       "https://api.worldbank.org/v2/country?format=json&per_page=400"
     ],
     "image": null
+  },
+  {
+    "id": "capitals_m50_tj",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Таджикистана?",
+        "explanation": "По статистической классификации ООН страна относится к Центральной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Tajikistan?",
+        "explanation": "The UN statistical classification places the country in Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Душанбе",
+        "en": "Dushanbe"
+      },
+      {
+        "id": "o1",
+        "ru": "Ташкент",
+        "en": "Tashkent"
+      },
+      {
+        "id": "o2",
+        "ru": "Бишкек",
+        "en": "Bishkek"
+      },
+      {
+        "id": "o3",
+        "ru": "Ашхабад",
+        "en": "Ashgabat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/tj.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_uz",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Узбекистана?",
+        "explanation": "По статистической классификации ООН страна относится к Центральной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Uzbekistan?",
+        "explanation": "The UN statistical classification places the country in Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ташкент",
+        "en": "Tashkent"
+      },
+      {
+        "id": "o1",
+        "ru": "Душанбе",
+        "en": "Dushanbe"
+      },
+      {
+        "id": "o2",
+        "ru": "Бишкек",
+        "en": "Bishkek"
+      },
+      {
+        "id": "o3",
+        "ru": "Астана",
+        "en": "Astana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/uz.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_kg",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Кыргызстана?",
+        "explanation": "По статистической классификации ООН страна относится к Центральной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Kyrgyzstan?",
+        "explanation": "The UN statistical classification places the country in Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бишкек",
+        "en": "Bishkek"
+      },
+      {
+        "id": "o1",
+        "ru": "Ташкент",
+        "en": "Tashkent"
+      },
+      {
+        "id": "o2",
+        "ru": "Астана",
+        "en": "Astana"
+      },
+      {
+        "id": "o3",
+        "ru": "Душанбе",
+        "en": "Dushanbe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/kg.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_kz",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Казахстана?",
+        "explanation": "По статистической классификации ООН страна относится к Центральной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Kazakhstan?",
+        "explanation": "The UN statistical classification places the country in Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Астана",
+        "en": "Astana"
+      },
+      {
+        "id": "o1",
+        "ru": "Душанбе",
+        "en": "Dushanbe"
+      },
+      {
+        "id": "o2",
+        "ru": "Бишкек",
+        "en": "Bishkek"
+      },
+      {
+        "id": "o3",
+        "ru": "Ашхабад",
+        "en": "Ashgabat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/kz.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_tm",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Туркменистана?",
+        "explanation": "По статистической классификации ООН страна относится к Центральной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Turkmenistan?",
+        "explanation": "The UN statistical classification places the country in Central Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ашхабад",
+        "en": "Ashgabat"
+      },
+      {
+        "id": "o1",
+        "ru": "Душанбе",
+        "en": "Dushanbe"
+      },
+      {
+        "id": "o2",
+        "ru": "Ташкент",
+        "en": "Tashkent"
+      },
+      {
+        "id": "o3",
+        "ru": "Астана",
+        "en": "Astana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/tm.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_es",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Испании?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Spain?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мадрид",
+        "en": "Madrid"
+      },
+      {
+        "id": "o1",
+        "ru": "Лиссабон",
+        "en": "Lisbon"
+      },
+      {
+        "id": "o2",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o3",
+        "ru": "Афины",
+        "en": "Athens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/es.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_pt",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Португалии?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Portugal?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лиссабон",
+        "en": "Lisbon"
+      },
+      {
+        "id": "o1",
+        "ru": "Мадрид",
+        "en": "Madrid"
+      },
+      {
+        "id": "o2",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o3",
+        "ru": "Любляна",
+        "en": "Ljubljana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/pt.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_it",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Италии?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Italy?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Загреб",
+        "en": "Zagreb"
+      },
+      {
+        "id": "o3",
+        "ru": "Мадрид",
+        "en": "Madrid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/it.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_gr",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Греции?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Greece?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o1",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o2",
+        "ru": "Тирана",
+        "en": "Tirana"
+      },
+      {
+        "id": "o3",
+        "ru": "Белград",
+        "en": "Belgrade"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/gr.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_at",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Австрии?",
+        "explanation": "По статистической классификации ООН страна относится к Западной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Austria?",
+        "explanation": "The UN statistical classification places the country in Western Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o1",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o2",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o3",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/at.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_pl",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Польши?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Poland?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Варшава",
+        "en": "Warsaw"
+      },
+      {
+        "id": "o1",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o2",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o3",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/pl.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_cz",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Чехии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Czechia?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o1",
+        "ru": "Варшава",
+        "en": "Warsaw"
+      },
+      {
+        "id": "o2",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o3",
+        "ru": "Вена",
+        "en": "Vienna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/cz.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_sk",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Словакии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Slovakia?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o1",
+        "ru": "Прага",
+        "en": "Prague"
+      },
+      {
+        "id": "o2",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      },
+      {
+        "id": "o3",
+        "ru": "Вена",
+        "en": "Vienna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/sk.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_hu",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Венгрии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Hungary?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      },
+      {
+        "id": "o1",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o2",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o3",
+        "ru": "Бухарест",
+        "en": "Bucharest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/hu.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_ro",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Румынии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Romania?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бухарест",
+        "en": "Bucharest"
+      },
+      {
+        "id": "o1",
+        "ru": "Будапешт",
+        "en": "Budapest"
+      },
+      {
+        "id": "o2",
+        "ru": "София",
+        "en": "Sofia"
+      },
+      {
+        "id": "o3",
+        "ru": "Белград",
+        "en": "Belgrade"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/ro.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_bg",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Болгарии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Bulgaria?",
+        "explanation": "The UN statistical classification places the country in Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "София",
+        "en": "Sofia"
+      },
+      {
+        "id": "o1",
+        "ru": "Бухарест",
+        "en": "Bucharest"
+      },
+      {
+        "id": "o2",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o3",
+        "ru": "Афины",
+        "en": "Athens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/bg.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_no",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Норвегии?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Norway?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o1",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o2",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      },
+      {
+        "id": "o3",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/no.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_se",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Швеции?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Sweden?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o1",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o2",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      },
+      {
+        "id": "o3",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/se.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_fi",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Финляндии?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Finland?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      },
+      {
+        "id": "o1",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o2",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o3",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/fi.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_dk",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Дании?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Denmark?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      },
+      {
+        "id": "o1",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o2",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o3",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/dk.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_is",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Исландии?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Iceland?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рейкьявик",
+        "en": "Reykjavik"
+      },
+      {
+        "id": "o1",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      },
+      {
+        "id": "o2",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o3",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/is.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_ie",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Ирландии?",
+        "explanation": "По статистической классификации ООН страна относится к Северной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Ireland?",
+        "explanation": "The UN statistical classification places the country in Northern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дублин",
+        "en": "Dublin"
+      },
+      {
+        "id": "o1",
+        "ru": "Брюссель",
+        "en": "Brussels"
+      },
+      {
+        "id": "o2",
+        "ru": "Рейкьявик",
+        "en": "Reykjavik"
+      },
+      {
+        "id": "o3",
+        "ru": "Копенгаген",
+        "en": "Copenhagen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/ie.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_be",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Бельгии?",
+        "explanation": "По статистической классификации ООН страна относится к Западной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Belgium?",
+        "explanation": "The UN statistical classification places the country in Western Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Брюссель",
+        "en": "Brussels"
+      },
+      {
+        "id": "o1",
+        "ru": "Вена",
+        "en": "Vienna"
+      },
+      {
+        "id": "o2",
+        "ru": "Лиссабон",
+        "en": "Lisbon"
+      },
+      {
+        "id": "o3",
+        "ru": "Дублин",
+        "en": "Dublin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/be.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_rs",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Сербии?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Serbia?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o1",
+        "ru": "Загреб",
+        "en": "Zagreb"
+      },
+      {
+        "id": "o2",
+        "ru": "София",
+        "en": "Sofia"
+      },
+      {
+        "id": "o3",
+        "ru": "Бухарест",
+        "en": "Bucharest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/rs.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_hr",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Хорватии?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Croatia?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Загреб",
+        "en": "Zagreb"
+      },
+      {
+        "id": "o1",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o2",
+        "ru": "Любляна",
+        "en": "Ljubljana"
+      },
+      {
+        "id": "o3",
+        "ru": "Тирана",
+        "en": "Tirana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/hr.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_si",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Словении?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Slovenia?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Любляна",
+        "en": "Ljubljana"
+      },
+      {
+        "id": "o1",
+        "ru": "Загреб",
+        "en": "Zagreb"
+      },
+      {
+        "id": "o2",
+        "ru": "Братислава",
+        "en": "Bratislava"
+      },
+      {
+        "id": "o3",
+        "ru": "Вена",
+        "en": "Vienna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/si.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_al",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Албании?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Европе."
+      },
+      "en": {
+        "question": "Which city is the capital of Albania?",
+        "explanation": "The UN statistical classification places the country in Southern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тирана",
+        "en": "Tirana"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o3",
+        "ru": "Любляна",
+        "en": "Ljubljana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/al.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_mn",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Монголии?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Mongolia?",
+        "explanation": "The UN statistical classification places the country in Eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Улан-Батор",
+        "en": "Ulaanbaatar"
+      },
+      {
+        "id": "o1",
+        "ru": "Астана",
+        "en": "Astana"
+      },
+      {
+        "id": "o2",
+        "ru": "Бишкек",
+        "en": "Bishkek"
+      },
+      {
+        "id": "o3",
+        "ru": "Сеул",
+        "en": "Seoul"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/mn.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_kr",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Республики Корея?",
+        "explanation": "По статистической классификации ООН страна относится к Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of the Republic of Korea?",
+        "explanation": "The UN statistical classification places the country in Eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сеул",
+        "en": "Seoul"
+      },
+      {
+        "id": "o1",
+        "ru": "Улан-Батор",
+        "en": "Ulaanbaatar"
+      },
+      {
+        "id": "o2",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      },
+      {
+        "id": "o3",
+        "ru": "Манила",
+        "en": "Manila"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/kr.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_vn",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Вьетнама?",
+        "explanation": "По статистической классификации ООН страна относится к Юго-Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Vietnam?",
+        "explanation": "The UN statistical classification places the country in South-eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      },
+      {
+        "id": "o1",
+        "ru": "Вьентьян",
+        "en": "Vientiane"
+      },
+      {
+        "id": "o2",
+        "ru": "Пномпень",
+        "en": "Phnom Penh"
+      },
+      {
+        "id": "o3",
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/vn.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_th",
+    "categoryId": "capitals",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Таиланда?",
+        "explanation": "По статистической классификации ООН страна относится к Юго-Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Thailand?",
+        "explanation": "The UN statistical classification places the country in South-eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      },
+      {
+        "id": "o1",
+        "ru": "Вьентьян",
+        "en": "Vientiane"
+      },
+      {
+        "id": "o2",
+        "ru": "Пномпень",
+        "en": "Phnom Penh"
+      },
+      {
+        "id": "o3",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/th.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_kh",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Камбоджи?",
+        "explanation": "По статистической классификации ООН страна относится к Юго-Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Cambodia?",
+        "explanation": "The UN statistical classification places the country in South-eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пномпень",
+        "en": "Phnom Penh"
+      },
+      {
+        "id": "o1",
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      },
+      {
+        "id": "o2",
+        "ru": "Вьентьян",
+        "en": "Vientiane"
+      },
+      {
+        "id": "o3",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/kh.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_la",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Лаоса?",
+        "explanation": "По статистической классификации ООН страна относится к Юго-Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of Laos?",
+        "explanation": "The UN statistical classification places the country in South-eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вьентьян",
+        "en": "Vientiane"
+      },
+      {
+        "id": "o1",
+        "ru": "Бангкок",
+        "en": "Bangkok"
+      },
+      {
+        "id": "o2",
+        "ru": "Пномпень",
+        "en": "Phnom Penh"
+      },
+      {
+        "id": "o3",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/la.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_ph",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Филиппин?",
+        "explanation": "По статистической классификации ООН страна относится к Юго-Восточной Азии."
+      },
+      "en": {
+        "question": "Which city is the capital of the Philippines?",
+        "explanation": "The UN statistical classification places the country in South-eastern Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Манила",
+        "en": "Manila"
+      },
+      {
+        "id": "o1",
+        "ru": "Пномпень",
+        "en": "Phnom Penh"
+      },
+      {
+        "id": "o2",
+        "ru": "Ханой",
+        "en": "Hanoi"
+      },
+      {
+        "id": "o3",
+        "ru": "Сеул",
+        "en": "Seoul"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/ph.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_nz",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Новой Зеландии?",
+        "explanation": "По классификации ООН Новая Зеландия входит в одноимённый субрегион Океании вместе с Австралией."
+      },
+      "en": {
+        "question": "Which city is the capital of New Zealand?",
+        "explanation": "The UN statistical classification places the country in Oceania, in the Australia and New Zealand subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Веллингтон",
+        "en": "Wellington"
+      },
+      {
+        "id": "o1",
+        "ru": "Окленд",
+        "en": "Auckland"
+      },
+      {
+        "id": "o2",
+        "ru": "Крайстчерч",
+        "en": "Christchurch"
+      },
+      {
+        "id": "o3",
+        "ru": "Данидин",
+        "en": "Dunedin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/nz.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_ar",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Аргентины?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Америке."
+      },
+      "en": {
+        "question": "Which city is the capital of Argentina?",
+        "explanation": "The UN statistical classification places the country in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Буэнос-Айрес",
+        "en": "Buenos Aires"
+      },
+      {
+        "id": "o1",
+        "ru": "Монтевидео",
+        "en": "Montevideo"
+      },
+      {
+        "id": "o2",
+        "ru": "Сантьяго",
+        "en": "Santiago"
+      },
+      {
+        "id": "o3",
+        "ru": "Лима",
+        "en": "Lima"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/ar.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_cl",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Чили?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Америке."
+      },
+      "en": {
+        "question": "Which city is the capital of Chile?",
+        "explanation": "The UN statistical classification places the country in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сантьяго",
+        "en": "Santiago"
+      },
+      {
+        "id": "o1",
+        "ru": "Буэнос-Айрес",
+        "en": "Buenos Aires"
+      },
+      {
+        "id": "o2",
+        "ru": "Лима",
+        "en": "Lima"
+      },
+      {
+        "id": "o3",
+        "ru": "Богота",
+        "en": "Bogotá"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/cl.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_pe",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Перу?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Америке."
+      },
+      "en": {
+        "question": "Which city is the capital of Peru?",
+        "explanation": "The UN statistical classification places the country in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лима",
+        "en": "Lima"
+      },
+      {
+        "id": "o1",
+        "ru": "Сантьяго",
+        "en": "Santiago"
+      },
+      {
+        "id": "o2",
+        "ru": "Богота",
+        "en": "Bogotá"
+      },
+      {
+        "id": "o3",
+        "ru": "Буэнос-Айрес",
+        "en": "Buenos Aires"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/pe.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_co",
+    "categoryId": "capitals",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Колумбии?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Америке."
+      },
+      "en": {
+        "question": "Which city is the capital of Colombia?",
+        "explanation": "The UN statistical classification places the country in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Богота",
+        "en": "Bogotá"
+      },
+      {
+        "id": "o1",
+        "ru": "Лима",
+        "en": "Lima"
+      },
+      {
+        "id": "o2",
+        "ru": "Буэнос-Айрес",
+        "en": "Buenos Aires"
+      },
+      {
+        "id": "o3",
+        "ru": "Монтевидео",
+        "en": "Montevideo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/co.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "capitals_m50_uy",
+    "categoryId": "capitals",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город является столицей Уругвая?",
+        "explanation": "По статистической классификации ООН страна относится к Южной Америке."
+      },
+      "en": {
+        "question": "Which city is the capital of Uruguay?",
+        "explanation": "The UN statistical classification places the country in South America."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монтевидео",
+        "en": "Montevideo"
+      },
+      {
+        "id": "o1",
+        "ru": "Буэнос-Айрес",
+        "en": "Buenos Aires"
+      },
+      {
+        "id": "o2",
+        "ru": "Сантьяго",
+        "en": "Santiago"
+      },
+      {
+        "id": "o3",
+        "ru": "Лима",
+        "en": "Lima"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://data.un.org/legacy/en/iso/uy.html",
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
   }
 ]

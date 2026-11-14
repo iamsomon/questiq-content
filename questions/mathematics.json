@@ -1318,5 +1318,885 @@
       "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology"
     ],
     "image": null
+  },
+  {
+    "id": "mathematics_m50_zero_power",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 8⁰?",
+        "explanation": "Любое ненулевое число в нулевой степени равно единице."
+      },
+      "en": {
+        "question": "What is 8⁰?",
+        "explanation": "Any nonzero number raised to the zeroth power equals one."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o1",
+        "ru": "0",
+        "en": "0"
+      },
+      {
+        "id": "o2",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o3",
+        "ru": "64",
+        "en": "64"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/1-2-exponents-and-scientific-notation"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_negative_power",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно 2⁻³?",
+        "explanation": "Отрицательная степень означает обратную величину: 2⁻³ = 1/2³."
+      },
+      "en": {
+        "question": "What is 2⁻³?",
+        "explanation": "A negative exponent gives a reciprocal: 2⁻³ = 1/2³."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1/8",
+        "en": "1/8"
+      },
+      {
+        "id": "o1",
+        "ru": "−8",
+        "en": "−8"
+      },
+      {
+        "id": "o2",
+        "ru": "−6",
+        "en": "−6"
+      },
+      {
+        "id": "o3",
+        "ru": "1/6",
+        "en": "1/6"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/1-2-exponents-and-scientific-notation"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_square_root",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен арифметический квадратный корень из 144?",
+        "explanation": "Арифметический корень неотрицателен, а 12 × 12 = 144."
+      },
+      "en": {
+        "question": "What is the principal square root of 144?",
+        "explanation": "The principal root is nonnegative, and 12 × 12 = 144."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "14",
+        "en": "14"
+      },
+      {
+        "id": "o2",
+        "ru": "72",
+        "en": "72"
+      },
+      {
+        "id": "o3",
+        "ru": "24",
+        "en": "24"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/1-3-radicals-and-rational-exponents"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_cube_root",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен кубический корень из −27?",
+        "explanation": "Нечётная степень сохраняет знак: (−3)³ = −27."
+      },
+      "en": {
+        "question": "What is the real cube root of −27?",
+        "explanation": "An odd power preserves the sign: (−3)³ = −27."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "−3",
+        "en": "−3"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "−9",
+        "en": "−9"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/1-3-radicals-and-rational-exponents"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_squares",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как разложить x² − 25 на множители?",
+        "explanation": "Используется разность квадратов: a² − b² = (a − b)(a + b)."
+      },
+      "en": {
+        "question": "How does x² − 25 factor?",
+        "explanation": "Use the difference of squares: a² − b² = (a − b)(a + b)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "(x − 5)(x + 5)",
+        "en": "(x − 5)(x + 5)"
+      },
+      {
+        "id": "o1",
+        "ru": "(x − 5)²",
+        "en": "(x − 5)²"
+      },
+      {
+        "id": "o2",
+        "ru": "(x − 25)(x + 1)",
+        "en": "(x − 25)(x + 1)"
+      },
+      {
+        "id": "o3",
+        "ru": "(x + 5)²",
+        "en": "(x + 5)²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/1-5-factoring-polynomials"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_linear_system",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Если x + y = 9 и x − y = 3, чему равно x?",
+        "explanation": "Сложение уравнений даёт 2x = 12."
+      },
+      "en": {
+        "question": "If x + y = 9 and x − y = 3, what is x?",
+        "explanation": "Adding the equations gives 2x = 12."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_inequality",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое условие равносильно −2x > 6?",
+        "explanation": "При делении неравенства на отрицательное число знак меняется."
+      },
+      "en": {
+        "question": "Which condition is equivalent to −2x > 6?",
+        "explanation": "Dividing an inequality by a negative number reverses its sign."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "x < −3",
+        "en": "x < −3"
+      },
+      {
+        "id": "o1",
+        "ru": "x > −3",
+        "en": "x > −3"
+      },
+      {
+        "id": "o2",
+        "ru": "x < 3",
+        "en": "x < 3"
+      },
+      {
+        "id": "o3",
+        "ru": "x > 3",
+        "en": "x > 3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_pythagoras",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова длина гипотенузы, если катеты прямоугольного треугольника равны 9 и 12 см?",
+        "explanation": "Сумма квадратов катетов равна 81 + 144 = 225. Её квадратный корень равен 15."
+      },
+      "en": {
+        "question": "How long is the hypotenuse of a right triangle with 9 and 12 cm legs?",
+        "explanation": "The sum of the squared legs is 81 + 144 = 225. Its square root is 15."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15 см",
+        "en": "15 cm"
+      },
+      {
+        "id": "o1",
+        "ru": "21 см",
+        "en": "21 cm"
+      },
+      {
+        "id": "o2",
+        "ru": "12 см",
+        "en": "12 cm"
+      },
+      {
+        "id": "o3",
+        "ru": "17 см",
+        "en": "17 cm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/elementary-algebra-2e/pages/3-4-solve-geometry-applications-triangles-rectangles-and-the-pythagorean-theorem"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_perimeter",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен периметр прямоугольника со сторонами 8 см и 3 см?",
+        "explanation": "Периметр включает две длинные и две короткие стороны: 2 × (8 + 3)."
+      },
+      "en": {
+        "question": "What is the perimeter of a rectangle with sides of 8 cm and 3 cm?",
+        "explanation": "The perimeter includes two long and two short sides: 2 × (8 + 3)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "22 см",
+        "en": "22 cm"
+      },
+      {
+        "id": "o1",
+        "ru": "24 см",
+        "en": "24 cm"
+      },
+      {
+        "id": "o2",
+        "ru": "11 см",
+        "en": "11 cm"
+      },
+      {
+        "id": "o3",
+        "ru": "19 см",
+        "en": "19 cm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/c-geometric-formulas"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_cube_surface",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова площадь поверхности куба с ребром 7 см?",
+        "explanation": "У куба шесть квадратных граней. Суммарная площадь равна 6 × 7² = 294 см²."
+      },
+      "en": {
+        "question": "What is the surface area of a cube with an edge length of 7 cm?",
+        "explanation": "A cube has six square faces. Their total area is 6 × 7² = 294 cm²."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "294 см²",
+        "en": "294 cm²"
+      },
+      {
+        "id": "o1",
+        "ru": "343 см²",
+        "en": "343 cm²"
+      },
+      {
+        "id": "o2",
+        "ru": "49 см²",
+        "en": "49 cm²"
+      },
+      {
+        "id": "o3",
+        "ru": "196 см²",
+        "en": "196 cm²"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/c-geometric-formulas"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_logarithm",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равен log₂ 32?",
+        "explanation": "Логарифм показывает степень основания: 2⁵ = 32."
+      },
+      "en": {
+        "question": "What is log₂ 32?",
+        "explanation": "A logarithm gives the exponent of its base: 2⁵ = 32."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o2",
+        "ru": "16",
+        "en": "16"
+      },
+      {
+        "id": "o3",
+        "ru": "8",
+        "en": "8"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/6-3-logarithmic-functions"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_arithmetic_sum",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равна сумма целых чисел от 1 до 20 включительно?",
+        "explanation": "Десять пар с суммой 21 дают 10 × 21 = 210."
+      },
+      "en": {
+        "question": "What is the sum of the integers from 1 through 20?",
+        "explanation": "Ten pairs each totalling 21 give 10 × 21 = 210."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "210",
+        "en": "210"
+      },
+      {
+        "id": "o1",
+        "ru": "200",
+        "en": "200"
+      },
+      {
+        "id": "o2",
+        "ru": "190",
+        "en": "190"
+      },
+      {
+        "id": "o3",
+        "ru": "220",
+        "en": "220"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/9-4-series-and-their-notations"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_range",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков размах набора чисел 3, 8, 8, 11?",
+        "explanation": "Размах — разность максимума и минимума: 11 − 3."
+      },
+      "en": {
+        "question": "What is the range of the numbers 3, 8, 8, 11?",
+        "explanation": "The range is the maximum minus the minimum: 11 − 3."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o1",
+        "ru": "11",
+        "en": "11"
+      },
+      {
+        "id": "o2",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o3",
+        "ru": "3",
+        "en": "3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://itl.nist.gov/div898/software/dataplot/refman2/auxillar/diffrang.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_mode",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова мода набора 2, 3, 3, 5, 7?",
+        "explanation": "Мода встречается чаще остальных значений."
+      },
+      "en": {
+        "question": "What is the mode of 2, 3, 3, 5, 7?",
+        "explanation": "The mode occurs more often than any other value."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o3",
+        "ru": "5",
+        "en": "5"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_percentage_points",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Доля выросла с 20% до 35%. На сколько процентных пунктов она выросла?",
+        "explanation": "Процентные пункты — разность самих процентных значений: 35 − 20."
+      },
+      "en": {
+        "question": "A share rose from 20% to 35%. How many percentage points did it rise?",
+        "explanation": "Percentage points measure the difference between percentages: 35 − 20."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15",
+        "en": "15"
+      },
+      {
+        "id": "o1",
+        "ru": "75",
+        "en": "75"
+      },
+      {
+        "id": "o2",
+        "ru": "55",
+        "en": "55"
+      },
+      {
+        "id": "o3",
+        "ru": "1,75",
+        "en": "1.75"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://service-manual.ons.gov.uk/content/numbers/percentages"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_compound",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Цена сначала выросла на 10%, затем упала на 10%. Какая доля начальной цены осталась?",
+        "explanation": "Множители перемножаются: 1,1 × 0,9 = 0,99."
+      },
+      "en": {
+        "question": "A price rose by 10% and then fell by 10%. What fraction of its original value remains?",
+        "explanation": "Multiply the factors: 1.1 × 0.9 = 0.99."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "99%",
+        "en": "99%"
+      },
+      {
+        "id": "o1",
+        "ru": "100%",
+        "en": "100%"
+      },
+      {
+        "id": "o2",
+        "ru": "90%",
+        "en": "90%"
+      },
+      {
+        "id": "o3",
+        "ru": "101%",
+        "en": "101%"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_fraction_division",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Чему равно (2/3) ÷ (4/5)?",
+        "explanation": "При делении на дробь умножают на обратную: (2/3) × (5/4)."
+      },
+      "en": {
+        "question": "What is (2/3) ÷ (4/5)?",
+        "explanation": "To divide by a fraction, multiply by its reciprocal: (2/3) × (5/4)."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5/6",
+        "en": "5/6"
+      },
+      {
+        "id": "o1",
+        "ru": "8/15",
+        "en": "8/15"
+      },
+      {
+        "id": "o2",
+        "ru": "6/5",
+        "en": "6/5"
+      },
+      {
+        "id": "o3",
+        "ru": "10/3",
+        "en": "10/3"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/prealgebra-2e/pages/4-2-multiply-and-divide-fractions"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_triangle_type",
+    "categoryId": "mathematics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют треугольник с тремя разными длинами сторон?",
+        "explanation": "Классификация здесь основана на длинах сторон, а не на величинах углов."
+      },
+      "en": {
+        "question": "What is a triangle with three different side lengths called?",
+        "explanation": "This classification uses side lengths rather than angle sizes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Разносторонний",
+        "en": "Scalene"
+      },
+      {
+        "id": "o1",
+        "ru": "Равносторонний",
+        "en": "Equilateral"
+      },
+      {
+        "id": "o2",
+        "ru": "Равнобедренный",
+        "en": "Isosceles"
+      },
+      {
+        "id": "o3",
+        "ru": "Невозможный",
+        "en": "Impossible"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.open.edu/openlearn/mod/oucontent/view.php?id=4246&section=2.1"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_straight_angle",
+    "categoryId": "mathematics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько градусов в развёрнутом угле?",
+        "explanation": "Его стороны образуют одну прямую с противоположными направлениями."
+      },
+      "en": {
+        "question": "How many degrees are in a straight angle?",
+        "explanation": "Its sides point in opposite directions along the same straight line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "180°",
+        "en": "180°"
+      },
+      {
+        "id": "o1",
+        "ru": "90°",
+        "en": "90°"
+      },
+      {
+        "id": "o2",
+        "ru": "270°",
+        "en": "270°"
+      },
+      {
+        "id": "o3",
+        "ru": "360°",
+        "en": "360°"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://math.mit.edu/~djk/calculus_beginners/chapter07/section01.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "mathematics_m50_complex_unit",
+    "categoryId": "mathematics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое равенство задаёт мнимую единицу i?",
+        "explanation": "Введение i позволяет работать с квадратными корнями отрицательных чисел."
+      },
+      "en": {
+        "question": "Which equation defines the imaginary unit i?",
+        "explanation": "Introducing i allows square roots of negative numbers to be handled."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "i² = −1",
+        "en": "i² = −1"
+      },
+      {
+        "id": "o1",
+        "ru": "i² = 1",
+        "en": "i² = 1"
+      },
+      {
+        "id": "o2",
+        "ru": "i = −1",
+        "en": "i = −1"
+      },
+      {
+        "id": "o3",
+        "ru": "i² = 0",
+        "en": "i² = 0"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/college-algebra-2e/pages/2-4-complex-numbers"
+    ],
+    "image": null
   }
 ]

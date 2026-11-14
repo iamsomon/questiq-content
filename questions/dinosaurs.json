@@ -438,5 +438,1765 @@
       "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
     ],
     "image": null
+  },
+  {
+    "id": "dinosaurs_m50_tyrannosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Тираннозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Tyrannosaurus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ящер-тиран",
+        "en": "Tyrant lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      },
+      {
+        "id": "o2",
+        "ru": "Подражающий курице",
+        "en": "Chicken mimic"
+      },
+      {
+        "id": "o3",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_tyrannosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил тираннозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 68–66 млн лет."
+      },
+      "en": {
+        "question": "When did Tyrannosaurus live?",
+        "explanation": "The museum dates the known fossils to about 68–66 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o1",
+        "ru": "Ранний мел",
+        "en": "Early Cretaceous"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Средняя юра",
+        "en": "Middle Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_brachiosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Брахиозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Brachiosaurus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плечевой ящер",
+        "en": "Arm lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Добрая мать-ящерица",
+        "en": "Good mother lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Шипастый ящер",
+        "en": "Spine lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_brachiosaurus_feature",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У брахиозавра передние ноги были длиннее задних. Как это влияло на положение плеч?",
+        "explanation": "Длинные передние ноги отразились в его названии."
+      },
+      "en": {
+        "question": "Brachiosaurus had longer forelegs than hind legs. Where were its shoulders relative to its hips?",
+        "explanation": "Its long forelegs inspired its name."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Выше бёдер",
+        "en": "Higher than the hips"
+      },
+      {
+        "id": "o1",
+        "ru": "На одной высоте с бёдрами",
+        "en": "Level with the hips"
+      },
+      {
+        "id": "o2",
+        "ru": "Ниже бёдер",
+        "en": "Lower than the hips"
+      },
+      {
+        "id": "o3",
+        "ru": "На высоте колен",
+        "en": "Level with the knees"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_iguanodon_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Игуанодон»?",
+        "explanation": "В справочнике музея указан интервал: ранний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Iguanodon mean?",
+        "explanation": "The museum directory places it in the Early Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      },
+      {
+        "id": "o1",
+        "ru": "Иной ящер",
+        "en": "Different lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Шипастый ящер",
+        "en": "Spine lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Подражающий страусу",
+        "en": "Ostrich mimic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_iguanodon_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил игуанодон?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 140–110 млн лет."
+      },
+      "en": {
+        "question": "When did Iguanodon live?",
+        "explanation": "The museum dates the known fossils to about 140–110 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ранний мел",
+        "en": "Early Cretaceous"
+      },
+      {
+        "id": "o1",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_diplodocus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Диплодок»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Diplodocus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Двойная балка",
+        "en": "Double beam"
+      },
+      {
+        "id": "o1",
+        "ru": "Обманчивый ящер",
+        "en": "Deceptive lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Рогатый ящер",
+        "en": "Horned lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Толстоголовый ящер",
+        "en": "Thick-headed lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_diplodocus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил диплодок?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 152–145 млн лет."
+      },
+      "en": {
+        "question": "When did Diplodocus live?",
+        "explanation": "The museum dates the known fossils to about 152–145 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o2",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Средняя юра",
+        "en": "Middle Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_ankylosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Анкилозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Ankylosaurus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Обманчивый ящер",
+        "en": "Deceptive lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Тяжёлый коготь",
+        "en": "Heavy claw"
+      },
+      {
+        "id": "o3",
+        "ru": "Подражающий курице",
+        "en": "Chicken mimic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_ankylosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил анкилозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 68–66 млн лет."
+      },
+      "en": {
+        "question": "When did Ankylosaurus live?",
+        "explanation": "The museum dates the known fossils to about 68–66 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o1",
+        "ru": "Средняя юра",
+        "en": "Middle Jurassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_allosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Аллозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Allosaurus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иной ящер",
+        "en": "Different lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Плотоядный бык",
+        "en": "Meat-eating bull"
+      },
+      {
+        "id": "o2",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      },
+      {
+        "id": "o3",
+        "ru": "Ящер-тиран",
+        "en": "Tyrant lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_allosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил аллозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 152–145 млн лет."
+      },
+      "en": {
+        "question": "When did Allosaurus live?",
+        "explanation": "The museum dates the known fossils to about 152–145 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранний мел",
+        "en": "Early Cretaceous"
+      },
+      {
+        "id": "o3",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_apatosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Апатозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Apatosaurus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обманчивый ящер",
+        "en": "Deceptive lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Около зауролофа",
+        "en": "Near Saurolophus"
+      },
+      {
+        "id": "o2",
+        "ru": "Иной ящер",
+        "en": "Different lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Подражающий курице",
+        "en": "Chicken mimic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_apatosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил апатозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 152–145 млн лет."
+      },
+      "en": {
+        "question": "When did Apatosaurus live?",
+        "explanation": "The museum dates the known fossils to about 152–145 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_baryonyx_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Барионикс»?",
+        "explanation": "В справочнике музея указан интервал: ранний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Baryonyx mean?",
+        "explanation": "The museum directory places it in the Early Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тяжёлый коготь",
+        "en": "Heavy claw"
+      },
+      {
+        "id": "o1",
+        "ru": "Около зауролофа",
+        "en": "Near Saurolophus"
+      },
+      {
+        "id": "o2",
+        "ru": "Плечистый ящер",
+        "en": "Arm lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_baryonyx_feature",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какое современное животное была похожа пасть барионикса?",
+        "explanation": "Музей указывает, что в рацион барионикса входила рыба."
+      },
+      "en": {
+        "question": "Which living animal had jaws most like those of Baryonyx?",
+        "explanation": "The museum lists fish among its foods."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крокодил",
+        "en": "Crocodile"
+      },
+      {
+        "id": "o1",
+        "ru": "Варан",
+        "en": "Monitor lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Игуана",
+        "en": "Iguana"
+      },
+      {
+        "id": "o3",
+        "ru": "Черепаха",
+        "en": "Turtle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_carnotaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Карнотавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Carnotaurus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плотоядный бык",
+        "en": "Meat-eating bull"
+      },
+      {
+        "id": "o1",
+        "ru": "Широкий ящер",
+        "en": "Broad lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Обманчивый ящер",
+        "en": "Deceptive lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Ящер-тиран",
+        "en": "Tyrant lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_carnotaurus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости карнотавра?",
+        "explanation": "У этого хищника были два рога на голове и очень маленькие передние конечности."
+      },
+      "en": {
+        "question": "In which of these countries have fossils of Carnotaurus been found?",
+        "explanation": "This predator had two horns on top of its head and very small forelimbs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o1",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o2",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o3",
+        "ru": "Перу",
+        "en": "Peru"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_ceratosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Цератозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Ceratosaurus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рогатый ящер",
+        "en": "Horned lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Ящер с двумя гребнями",
+        "en": "Two-crested lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Похититель яиц",
+        "en": "Egg thief"
+      },
+      {
+        "id": "o3",
+        "ru": "Около зауролофа",
+        "en": "Near Saurolophus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_ceratosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил цератозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 152–145 млн лет."
+      },
+      "en": {
+        "question": "When did Ceratosaurus live?",
+        "explanation": "The museum dates the known fossils to about 152–145 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранний мел",
+        "en": "Early Cretaceous"
+      },
+      {
+        "id": "o3",
+        "ru": "Средняя юра",
+        "en": "Middle Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_dilophosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Дилофозавр»?",
+        "explanation": "В справочнике музея указан интервал: ранняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Dilophosaurus mean?",
+        "explanation": "The museum directory places it in the Early Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ящер с двумя гребнями",
+        "en": "Two-crested lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Ящер-тиран",
+        "en": "Tyrant lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      },
+      {
+        "id": "o3",
+        "ru": "Добрая мать-ящерица",
+        "en": "Good mother lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_dilophosaurus_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил дилофозавр?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 184 млн лет."
+      },
+      "en": {
+        "question": "When did Dilophosaurus live?",
+        "explanation": "The museum dates the known fossils to about 184 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранний мел",
+        "en": "Early Cretaceous"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_gallimimus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Галлимим»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Gallimimus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подражающий курице",
+        "en": "Chicken mimic"
+      },
+      {
+        "id": "o1",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Шипастый ящер",
+        "en": "Spine lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Иной ящер",
+        "en": "Different lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_gallimimus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости галлимима?",
+        "explanation": "Этот динозавр передвигался на двух ногах."
+      },
+      "en": {
+        "question": "In which of these countries have fossils of Gallimimus been found?",
+        "explanation": "This dinosaur walked on two legs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      },
+      {
+        "id": "o1",
+        "ru": "Казахстан",
+        "en": "Kazakhstan"
+      },
+      {
+        "id": "o2",
+        "ru": "Индия",
+        "en": "India"
+      },
+      {
+        "id": "o3",
+        "ru": "Япония",
+        "en": "Japan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_kentrosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Кентрозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздняя юра."
+      },
+      "en": {
+        "question": "What does the dinosaur name Kentrosaurus mean?",
+        "explanation": "The museum directory places it in the Late Jurassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шипастый ящер",
+        "en": "Spiked lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Двойная балка",
+        "en": "Double beam"
+      },
+      {
+        "id": "o2",
+        "ru": "Игуаний зуб",
+        "en": "Iguana tooth"
+      },
+      {
+        "id": "o3",
+        "ru": "Ящер с двумя гребнями",
+        "en": "Two-crested lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_kentrosaurus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости кентрозавра?",
+        "explanation": "Кентрозавра относят к той же группе бронированных динозавров, что и стегозавра."
+      },
+      "en": {
+        "question": "In which of these countries have fossils of Kentrosaurus been found?",
+        "explanation": "Kentrosaurus belongs to the same armoured dinosaur group as Stegosaurus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Танзания",
+        "en": "Tanzania"
+      },
+      {
+        "id": "o1",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o2",
+        "ru": "Намибия",
+        "en": "Namibia"
+      },
+      {
+        "id": "o3",
+        "ru": "Египет",
+        "en": "Egypt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_maiasaura_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Майазавра»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Maiasaura mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Добрая мать-ящерица",
+        "en": "Good mother lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Около зауролофа",
+        "en": "Near Saurolophus"
+      },
+      {
+        "id": "o2",
+        "ru": "Похититель яиц",
+        "en": "Egg thief"
+      },
+      {
+        "id": "o3",
+        "ru": "Ящер-тиран",
+        "en": "Tyrant lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_maiasaura_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил майазавра?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 80–75 млн лет."
+      },
+      "en": {
+        "question": "When did Maiasaura live?",
+        "explanation": "The museum dates the known fossils to about 80–75 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o1",
+        "ru": "Средняя юра",
+        "en": "Middle Jurassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_oviraptor_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Овираптор»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Oviraptor mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Похититель яиц",
+        "en": "Egg thief"
+      },
+      {
+        "id": "o1",
+        "ru": "Обманчивый ящер",
+        "en": "Deceptive lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Толстоголовый ящер",
+        "en": "Thick-headed lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_oviraptor_period",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда жил овираптор?",
+        "explanation": "В справочнике музея возраст этих находок указан как примерно 85–75 млн лет."
+      },
+      "en": {
+        "question": "When did Oviraptor live?",
+        "explanation": "The museum dates the known fossils to about 85–75 million years ago."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поздний мел",
+        "en": "Late Cretaceous"
+      },
+      {
+        "id": "o1",
+        "ru": "Поздний триас",
+        "en": "Late Triassic"
+      },
+      {
+        "id": "o2",
+        "ru": "Ранняя юра",
+        "en": "Early Jurassic"
+      },
+      {
+        "id": "o3",
+        "ru": "Поздняя юра",
+        "en": "Late Jurassic"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_pachycephalosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Пахицефалозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Pachycephalosaurus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Толстоголовый ящер",
+        "en": "Thick-headed lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Рогатый ящер",
+        "en": "Horned lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Иной ящер",
+        "en": "Different lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Около зауролофа",
+        "en": "Near Saurolophus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_pachycephalosaurus_feature",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой части тела пахицефалозавра находился толстый костяной купол?",
+        "explanation": "Помимо купола, на голове у него были костяные выступы."
+      },
+      "en": {
+        "question": "Where on its body did Pachycephalosaurus have a thick bony dome?",
+        "explanation": "Its head had bony bumps as well as the dome."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "На голове",
+        "en": "On its head"
+      },
+      {
+        "id": "o1",
+        "ru": "На хвосте",
+        "en": "On its tail"
+      },
+      {
+        "id": "o2",
+        "ru": "На спине",
+        "en": "On its back"
+      },
+      {
+        "id": "o3",
+        "ru": "На груди",
+        "en": "On its chest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_parasaurolophus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Паразауролоф»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Parasaurolophus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Похожий на зауролофа",
+        "en": "Like Saurolophus"
+      },
+      {
+        "id": "o1",
+        "ru": "Плечистый ящер",
+        "en": "Arm lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Рогатый ящер",
+        "en": "Horned lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Широкий ящер",
+        "en": "Broad lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_parasaurolophus_feature",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая деталь выделялась на голове паразауролофа?",
+        "explanation": "Гребень был полым, и внутри него проходил канал от ноздрей."
+      },
+      "en": {
+        "question": "Which feature stood out on the head of Parasaurolophus?",
+        "explanation": "The crest was hollow, with a passage leading from the nostrils."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Длинный гребень",
+        "en": "A long crest"
+      },
+      {
+        "id": "o1",
+        "ru": "Три рога",
+        "en": "Three horns"
+      },
+      {
+        "id": "o2",
+        "ru": "Толстый купол",
+        "en": "A thick dome"
+      },
+      {
+        "id": "o3",
+        "ru": "Костяной воротник",
+        "en": "A bony frill"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_plateosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Платеозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний триас."
+      },
+      "en": {
+        "question": "What does the dinosaur name Plateosaurus mean?",
+        "explanation": "The museum directory places it in the Late Triassic."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плоский ящер",
+        "en": "Flat lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Толстоголовый ящер",
+        "en": "Thick-headed lizard"
+      },
+      {
+        "id": "o2",
+        "ru": "Плотоядный бык",
+        "en": "Meat-eating bull"
+      },
+      {
+        "id": "o3",
+        "ru": "Похититель яиц",
+        "en": "Egg thief"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_plateosaurus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости платеозавра?",
+        "explanation": "У платеозавра была пятипалая кисть с большим когтем на первом пальце."
+      },
+      "en": {
+        "question": "In which of these countries have fossils of Plateosaurus been found?",
+        "explanation": "Plateosaurus had five-fingered hands with a large thumb claw."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o1",
+        "ru": "Австрия",
+        "en": "Austria"
+      },
+      {
+        "id": "o2",
+        "ru": "Испания",
+        "en": "Spain"
+      },
+      {
+        "id": "o3",
+        "ru": "Италия",
+        "en": "Italy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_spinosaurus_name",
+    "categoryId": "dinosaurs",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает название динозавра «Спинозавр»?",
+        "explanation": "В справочнике музея указан интервал: поздний мел."
+      },
+      "en": {
+        "question": "What does the dinosaur name Spinosaurus mean?",
+        "explanation": "The museum directory places it in the Late Cretaceous."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ящер с шипами на спине",
+        "en": "Spine lizard"
+      },
+      {
+        "id": "o1",
+        "ru": "Подражающий страусу",
+        "en": "Ostrich mimic"
+      },
+      {
+        "id": "o2",
+        "ru": "Широкий ящер",
+        "en": "Broad lizard"
+      },
+      {
+        "id": "o3",
+        "ru": "Сросшийся ящер",
+        "en": "Fused lizard"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_spinosaurus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих стран находили окаменелости спинозавра?",
+        "explanation": "Зубы спинозавра были гладкими и коническими."
+      },
+      "en": {
+        "question": "In which of these countries have fossils of Spinosaurus been found?",
+        "explanation": "Spinosaurus had smooth, cone-shaped teeth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Алжир",
+        "en": "Algeria"
+      },
+      {
+        "id": "o2",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o3",
+        "ru": "Кения",
+        "en": "Kenya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_struthiomimus_country",
+    "categoryId": "dinosaurs",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На какой территории находили окаменелости струтиомима, по данным Музея естествознания в Лондоне?",
+        "explanation": "Музей описывает струтиомима как небольшого теропода."
+      },
+      "en": {
+        "question": "Where does London’s Natural History Museum list fossil finds of Struthiomimus?",
+        "explanation": "The museum describes it as a small theropod."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канада",
+        "en": "Canada"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Монголия",
+        "en": "Mongolia"
+      },
+      {
+        "id": "o3",
+        "ru": "Австралия",
+        "en": "Australia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "dinosaurs_m50_struthiomimus_feature",
+    "categoryId": "dinosaurs",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая птица напоминает струтиомима своим силуэтом?",
+        "explanation": "Длинный хвост отличал силуэт динозавра от силуэта современной птицы."
+      },
+      "en": {
+        "question": "Which bird did Struthiomimus resemble in silhouette?",
+        "explanation": "Its long tail sets its silhouette apart from the modern bird’s."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Страус",
+        "en": "Ostrich"
+      },
+      {
+        "id": "o1",
+        "ru": "Пеликан",
+        "en": "Pelican"
+      },
+      {
+        "id": "o2",
+        "ru": "Тукан",
+        "en": "Toucan"
+      },
+      {
+        "id": "o3",
+        "ru": "Пингвин",
+        "en": "Penguin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html"
+    ],
+    "image": null
   }
 ]

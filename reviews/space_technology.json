@@ -538,5 +538,365 @@
         "claim": "Correct answer: The equator. Its period matches Earth's rotation, so the satellite remains above one point on the equator."
       }
     ]
+  },
+  {
+    "id": "space_technology_m50_osiris",
+    "status": "approved",
+    "sha256": "7c8b7d3cf4dd3fb4fe3e622a111d6f429fb37453b010a8f7055a23828219fbb8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/osiris-rex/",
+        "location": "Mission highlights, sample acquisition and Earth return",
+        "claim": "Which asteroid supplied the sample OSIRIS-REx delivered to Earth in 2023? Bennu. The sample was collected in 2020 using the TAGSAM arm."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_dart",
+    "status": "approved",
+    "sha256": "a17db93c0d38f88880925dcb624c31481e166b005c06709060aa8cf587273ae8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/dart/",
+        "location": "Mission summary, target and kinetic impact test",
+        "claim": "Which asteroid moon was the target of DART's 2022 impact? Dimorphos. The experiment tested changing an orbit through a kinetic impact."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_chandra",
+    "status": "approved",
+    "sha256": "91853391ce6415f283da107b46a221d4f16e6238d5265ca1fd29edebaa5ba2eb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/chandra/",
+        "location": "Mission introduction, X-ray observations",
+        "claim": "Which band does the Chandra space observatory observe? X-ray. X-rays help astronomers observe regions where matter is extremely hot."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_kepler",
+    "status": "approved",
+    "sha256": "dc3db9ad4132cde752f9f15b4d5916437e91c1cece8540ea36f672bf731ac729",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/kepler/",
+        "location": "Mission overview, science findings and transit photometry",
+        "claim": "What objects was the Kepler telescope primarily designed to find? Exoplanets. It looked for slight dips in starlight as planets passed in front."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_galileo",
+    "status": "approved",
+    "sha256": "628af506067fe4ceeefc9ed1625cbc78265391d6166af5ee346c4b23a5605310",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/galileo/",
+        "location": "In Depth, arrival on 7 December 1995 and atmospheric probe",
+        "claim": "Which planet did the Galileo orbiter study from 1995? Jupiter. A separate mission probe entered the planet's atmosphere."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_magellan",
+    "status": "approved",
+    "sha256": "560c09e5e60cc402e3561d47ae12f3a4901a9d90a7beb95c101199359b59b279",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/magellan/",
+        "location": "In Depth, Venus radar mapping",
+        "claim": "Which planet did Magellan map using radar? Venus. Radar made it possible to study the surface through dense clouds."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_juno",
+    "status": "approved",
+    "sha256": "4e0f7d63b4f2a4cd933265a33f70f60c8711ca71205b51a25963c241dd780e3c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/juno/",
+        "location": "Mission overview, arrival and polar storms",
+        "claim": "Which planet did Juno reach in 2016? Jupiter. From orbit, the spacecraft discovered clusters of powerful storms close to the planet’s poles."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_soho",
+    "status": "approved",
+    "sha256": "f984726b05e700204316262ebb91cc0048026bcbcba0c02126c2147cecca5dfa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/soho/",
+        "location": "In Depth, joint ESA and NASA mission objectives",
+        "claim": "What does the SOHO observatory study? The Sun and its surroundings. SOHO is a joint ESA and NASA project."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_tess",
+    "status": "approved",
+    "sha256": "c7317bcfce2db9c9dc647d3eafc011b8c688b58d972d15429343ad97dc4351fb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/exoplanets/whats-a-transit/",
+        "location": "Transit explanation and TESS mission",
+        "claim": "Which phenomenon does TESS use to search for planets around other stars? Transits. A planet briefly blocks a small fraction of its star's light."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_spirit",
+    "status": "approved",
+    "sha256": "96ce78630123ebb11280ebd59874c3fb8c839d5490385201670bcd57c3443492",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/",
+        "location": "Mars Exploration Rovers, twin rovers and launches",
+        "claim": "Which rover was Spirit’s twin in NASA’s Mars Exploration Rovers programme? Opportunity. The two rovers launched in 2003 and landed in different regions of Mars."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_insight",
+    "status": "approved",
+    "sha256": "49f641ce012e21e60397d319a224462bd10780956cd187481a905f24f32d8f7b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/insight/",
+        "location": "Mission objectives, seismometer and Marsquake Data",
+        "claim": "What did InSight's seismometer record on Mars? Seismic vibrations. Studying marsquakes helps reveal the planet's interior."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_messenger",
+    "status": "approved",
+    "sha256": "22809a2d70daea122fee13c95a7ea348bceb9a6891288a581a1b7dd4c825a7e1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/messenger/",
+        "location": "In Depth, first Mercury orbiter and arrival in 2011",
+        "claim": "Which planet did MESSENGER become the first spacecraft to orbit? Mercury. It entered orbit in 2011."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_pioneer",
+    "status": "approved",
+    "sha256": "adc3283dd4190682a82db220e4e9598a1534912854463033521c6ea1e09ca3cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/pioneer-10/",
+        "location": "In Depth, Jupiter encounter in 1973",
+        "claim": "Which planet did Pioneer 10 fly past in 1973? Jupiter. The spacecraft returned close-up images and measurements of the giant's environment."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_mariner",
+    "status": "approved",
+    "sha256": "661a47aa6819c0792d6f84facb3a27ebf8724519c038fe4652ebdbef71d76c24",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/mariner-2/",
+        "location": "Mission introduction and Key Dates, first planetary encounter",
+        "claim": "Which planet did Mariner 2 successfully fly past in 1962? Venus. It was the first successful close spacecraft flyby of another planet."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_lro",
+    "status": "approved",
+    "sha256": "91c6f9c9a4340d58b120c9e6c43ec331ee2238ff7378c9018d3d4488e820bf3c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/lro/about/",
+        "location": "About LRO, lunar mapping and landing site selection",
+        "claim": "Which celestial body does Lunar Reconnaissance Orbiter map? The Moon. Its images help study terrain and select landing sites."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_stardust",
+    "status": "approved",
+    "sha256": "074c96f1636f0c4ba0cd6b9ea6cfb3a53ee31eddbb218ef08465d7c2ac45fb80",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/stardust/",
+        "location": "In Depth, collecting dust from Wild 2 with aerogel",
+        "claim": "From which comet’s coma did Stardust return dust to Earth? Wild 2. The particles were captured using aerogel."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_genesis",
+    "status": "approved",
+    "sha256": "886689229595e294e2c676a1678b57184a83b45e1ba0fc9ac3fa342c71d34882",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/genesis/",
+        "location": "Mission objective and In Depth, solar wind collectors",
+        "claim": "What did the Genesis spacecraft collect samples of? Solar wind. Collectors captured particles originating from the Sun."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_deep_impact",
+    "status": "approved",
+    "sha256": "9b9b0e8e289c62a46672cd080788afd6368dae7c65fd7232bc2aeaeac2d2d22e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/deep-impact-epoxi/",
+        "location": "Mission objective and Key Dates, Tempel 1 encounter",
+        "claim": "Which comet did Deep Impact's impactor strike in 2005? Tempel 1. Observing the ejected material helped investigate the comet's composition."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_ibex",
+    "status": "approved",
+    "sha256": "3ee66ab563e2a74f122818fbd4365a64f4160ca3fdd8d37bf2de96ae3f755f9e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/ibex/",
+        "location": "Mission introduction, energetic neutral atoms and heliosphere",
+        "claim": "What region does the spacecraft IBEX study? The heliosphere's boundary. The spacecraft builds maps using energetic neutral atoms."
+      }
+    ]
+  },
+  {
+    "id": "space_technology_m50_wise",
+    "status": "approved",
+    "sha256": "c4826a9eb15e8c7ba709bdafedf82b45fb7e89971016942becf155463933bc03",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NASA mission profiles and dates; independently checked target, mission objective and explanation",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://science.nasa.gov/mission/wise/",
+        "location": "Mission overview and Gallery, WISE all-sky infrared mosaic",
+        "claim": "In which band did WISE originally survey the whole sky? Infrared. Infrared observations were used to map the entire sky."
+      }
+    ]
   }
 ]
