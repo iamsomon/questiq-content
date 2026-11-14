@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1520,
-  "draftQuestions": 0,
+  "approvedQuestions": 1640,
+  "draftQuestions": 1040,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 8480,
+  "remainingQuestions": 8360,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
     {
       "id": "physics",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "biology",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -69,7 +69,7 @@
     {
       "id": "mathematics",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -106,27 +106,27 @@
     },
     {
       "id": "countries",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
       "id": "capitals",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -145,7 +145,7 @@
     {
       "id": "flags",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -202,7 +202,7 @@
     {
       "id": "ancient_world",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -221,7 +221,7 @@
     {
       "id": "middle_ages",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -240,7 +240,7 @@
     {
       "id": "modern_history",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -259,7 +259,7 @@
     {
       "id": "civilizations",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -297,7 +297,7 @@
     {
       "id": "islam",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -316,7 +316,7 @@
     {
       "id": "christianity",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -335,7 +335,7 @@
     {
       "id": "buddhism",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -373,7 +373,7 @@
     {
       "id": "mythology",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -392,7 +392,7 @@
     {
       "id": "animals",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -411,7 +411,7 @@
     {
       "id": "plants",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -430,7 +430,7 @@
     {
       "id": "oceans",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -449,7 +449,7 @@
     {
       "id": "dinosaurs",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -468,7 +468,7 @@
     {
       "id": "ecology",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -506,7 +506,7 @@
     {
       "id": "artificial_intelligence",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -525,7 +525,7 @@
     {
       "id": "inventions",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -544,7 +544,7 @@
     {
       "id": "internet",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -563,7 +563,7 @@
     {
       "id": "space_technology",
       "approved": 30,
-      "draft": 0,
+      "draft": 20,
       "humanApproved": 0,
       "difficulty": {
         "easy": 12,
@@ -639,7 +639,7 @@
     {
       "id": "music",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -658,7 +658,7 @@
     {
       "id": "cinema",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -677,7 +677,7 @@
     {
       "id": "football",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -696,7 +696,7 @@
     {
       "id": "basketball",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -714,27 +714,27 @@
     },
     {
       "id": "olympics",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 10,
+        "medium": 34,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 70,
+        "medium": 46,
+        "hard": 34
       }
     },
     {
       "id": "tennis",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -753,7 +753,7 @@
     {
       "id": "sports_records",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -772,7 +772,7 @@
     {
       "id": "food",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -791,7 +791,7 @@
     {
       "id": "health",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -810,7 +810,7 @@
     {
       "id": "cars",
       "approved": 20,
-      "draft": 0,
+      "draft": 30,
       "humanApproved": 0,
       "difficulty": {
         "easy": 8,
@@ -829,7 +829,7 @@
     {
       "id": "economics",
       "approved": 40,
-      "draft": 0,
+      "draft": 10,
       "humanApproved": 0,
       "difficulty": {
         "easy": 16,
@@ -848,7 +848,7 @@
     {
       "id": "human_body",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -867,7 +867,7 @@
     {
       "id": "video_games",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,
@@ -885,27 +885,27 @@
     },
     {
       "id": "cartoons",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
+        "easy": 24,
+        "medium": 24,
         "hard": 2
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
+        "easy": 56,
+        "medium": 56,
         "hard": 38
       }
     },
     {
       "id": "television",
       "approved": 10,
-      "draft": 0,
+      "draft": 40,
       "humanApproved": 0,
       "difficulty": {
         "easy": 4,

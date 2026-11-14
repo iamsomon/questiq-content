@@ -1318,5 +1318,885 @@
       "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits"
     ],
     "image": null
+  },
+  {
+    "id": "physics_m50_power",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют мощность?",
+        "explanation": "Один ватт соответствует одному джоулю в секунду."
+      },
+      "en": {
+        "question": "Which SI unit measures power?",
+        "explanation": "One watt is one joule per second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ватт",
+        "en": "Watt"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o2",
+        "ru": "Люмен",
+        "en": "Lumen"
+      },
+      {
+        "id": "o3",
+        "ru": "Грей",
+        "en": "Gray"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_charge",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют электрический заряд?",
+        "explanation": "Один кулон равен заряду, проходящему за секунду при токе один ампер."
+      },
+      "en": {
+        "question": "Which SI unit measures electric charge?",
+        "explanation": "One coulomb passes in one second at a current of one ampere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кулон",
+        "en": "Coulomb"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o2",
+        "ru": "Фарад",
+        "en": "Farad"
+      },
+      {
+        "id": "o3",
+        "ru": "Вебер",
+        "en": "Weber"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_voltage",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют электрическое напряжение?",
+        "explanation": "Разность потенциалов связывает энергию с переносимым зарядом."
+      },
+      "en": {
+        "question": "Which SI unit measures electric potential difference?",
+        "explanation": "Potential difference relates energy to transferred charge."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o1",
+        "ru": "Ватт",
+        "en": "Watt"
+      },
+      {
+        "id": "o2",
+        "ru": "Кулон",
+        "en": "Coulomb"
+      },
+      {
+        "id": "o3",
+        "ru": "Сименс",
+        "en": "Siemens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_resistance",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют электрическое сопротивление?",
+        "explanation": "Один ом соответствует отношению одного вольта к одному амперу."
+      },
+      "en": {
+        "question": "Which SI unit measures electrical resistance?",
+        "explanation": "One ohm is one volt divided by one ampere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ом",
+        "en": "Ohm"
+      },
+      {
+        "id": "o1",
+        "ru": "Сименс",
+        "en": "Siemens"
+      },
+      {
+        "id": "o2",
+        "ru": "Вольт",
+        "en": "Volt"
+      },
+      {
+        "id": "o3",
+        "ru": "Генри",
+        "en": "Henry"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_conductance",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют проводимость электрического участка цепи?",
+        "explanation": "Проводимость обратна электрическому сопротивлению."
+      },
+      "en": {
+        "question": "Which SI unit measures electrical conductance?",
+        "explanation": "Conductance is the reciprocal of resistance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сименс",
+        "en": "Siemens"
+      },
+      {
+        "id": "o1",
+        "ru": "Ом",
+        "en": "Ohm"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри",
+        "en": "Henry"
+      },
+      {
+        "id": "o3",
+        "ru": "Фарад",
+        "en": "Farad"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_capacitance",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют электрическую ёмкость?",
+        "explanation": "Ёмкость связывает накопленный заряд с разностью потенциалов."
+      },
+      "en": {
+        "question": "Which SI unit measures electrical capacitance?",
+        "explanation": "Capacitance relates stored charge to potential difference."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фарад",
+        "en": "Farad"
+      },
+      {
+        "id": "o1",
+        "ru": "Кулон",
+        "en": "Coulomb"
+      },
+      {
+        "id": "o2",
+        "ru": "Ом",
+        "en": "Ohm"
+      },
+      {
+        "id": "o3",
+        "ru": "Генри",
+        "en": "Henry"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_flux",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют магнитный поток?",
+        "explanation": "Производная единица выражается как вольт, умноженный на секунду."
+      },
+      "en": {
+        "question": "Which SI unit measures magnetic flux?",
+        "explanation": "The derived unit equals a volt multiplied by a second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вебер",
+        "en": "Weber"
+      },
+      {
+        "id": "o1",
+        "ru": "Тесла",
+        "en": "Tesla"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри",
+        "en": "Henry"
+      },
+      {
+        "id": "o3",
+        "ru": "Вольт",
+        "en": "Volt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_flux_density",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют магнитную индукцию?",
+        "explanation": "Одна тесла соответствует одному веберу на квадратный метр."
+      },
+      "en": {
+        "question": "Which SI unit measures magnetic flux density?",
+        "explanation": "One tesla equals one weber per square metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тесла",
+        "en": "Tesla"
+      },
+      {
+        "id": "o1",
+        "ru": "Вебер",
+        "en": "Weber"
+      },
+      {
+        "id": "o2",
+        "ru": "Генри",
+        "en": "Henry"
+      },
+      {
+        "id": "o3",
+        "ru": "Люкс",
+        "en": "Lux"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_inductance",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют индуктивность?",
+        "explanation": "Один генри выражается как вебер на ампер."
+      },
+      "en": {
+        "question": "Which SI unit measures inductance?",
+        "explanation": "One henry equals one weber per ampere."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генри",
+        "en": "Henry"
+      },
+      {
+        "id": "o1",
+        "ru": "Ом",
+        "en": "Ohm"
+      },
+      {
+        "id": "o2",
+        "ru": "Фарад",
+        "en": "Farad"
+      },
+      {
+        "id": "o3",
+        "ru": "Вебер",
+        "en": "Weber"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_activity",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют активность радиоактивного источника?",
+        "explanation": "Один беккерель означает одно ядерное превращение в секунду."
+      },
+      "en": {
+        "question": "Which SI unit measures the activity of a radioactive source?",
+        "explanation": "One becquerel represents one nuclear transformation per second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Беккерель",
+        "en": "Becquerel"
+      },
+      {
+        "id": "o1",
+        "ru": "Грей",
+        "en": "Gray"
+      },
+      {
+        "id": "o2",
+        "ru": "Зиверт",
+        "en": "Sievert"
+      },
+      {
+        "id": "o3",
+        "ru": "Катал",
+        "en": "Katal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_absorbed",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют поглощённую дозу ионизирующего излучения?",
+        "explanation": "Один грей равен одному джоулю поглощённой энергии на килограмм."
+      },
+      "en": {
+        "question": "Which SI unit measures absorbed dose of ionising radiation?",
+        "explanation": "One gray equals one joule of absorbed energy per kilogram."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Грей",
+        "en": "Gray"
+      },
+      {
+        "id": "o1",
+        "ru": "Зиверт",
+        "en": "Sievert"
+      },
+      {
+        "id": "o2",
+        "ru": "Беккерель",
+        "en": "Becquerel"
+      },
+      {
+        "id": "o3",
+        "ru": "Ватт",
+        "en": "Watt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_equivalent",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют эквивалентную дозу ионизирующего излучения?",
+        "explanation": "Эта величина учитывает тип излучения при оценке воздействия."
+      },
+      "en": {
+        "question": "Which SI unit measures dose equivalent of ionising radiation?",
+        "explanation": "This quantity accounts for radiation type when assessing its effect."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зиверт",
+        "en": "Sievert"
+      },
+      {
+        "id": "o1",
+        "ru": "Грей",
+        "en": "Gray"
+      },
+      {
+        "id": "o2",
+        "ru": "Беккерель",
+        "en": "Becquerel"
+      },
+      {
+        "id": "o3",
+        "ru": "Катал",
+        "en": "Katal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_angle",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют плоский угол?",
+        "explanation": "Радиан соответствует дуге, длина которой равна радиусу окружности."
+      },
+      "en": {
+        "question": "Which SI unit measures plane angle?",
+        "explanation": "One radian subtends an arc equal in length to the circle's radius."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Радиан",
+        "en": "Radian"
+      },
+      {
+        "id": "o1",
+        "ru": "Стерадиан",
+        "en": "Steradian"
+      },
+      {
+        "id": "o2",
+        "ru": "Градус",
+        "en": "Degree"
+      },
+      {
+        "id": "o3",
+        "ru": "Полный оборот",
+        "en": "Turn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_solid_angle",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют телесный угол?",
+        "explanation": "Телесный угол описывает угловой размер области в трёхмерном пространстве."
+      },
+      "en": {
+        "question": "Which SI unit measures solid angle?",
+        "explanation": "Solid angle describes the angular size of a region in three dimensions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стерадиан",
+        "en": "Steradian"
+      },
+      {
+        "id": "o1",
+        "ru": "Радиан",
+        "en": "Radian"
+      },
+      {
+        "id": "o2",
+        "ru": "Квадратный градус",
+        "en": "Square degree"
+      },
+      {
+        "id": "o3",
+        "ru": "Полный оборот",
+        "en": "Turn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_luminous_flux",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют световой поток?",
+        "explanation": "Люмен связан с канделой и стерадианом."
+      },
+      "en": {
+        "question": "Which SI unit measures luminous flux?",
+        "explanation": "The lumen is related to the candela and steradian."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Люмен",
+        "en": "Lumen"
+      },
+      {
+        "id": "o1",
+        "ru": "Люкс",
+        "en": "Lux"
+      },
+      {
+        "id": "o2",
+        "ru": "Кандела",
+        "en": "Candela"
+      },
+      {
+        "id": "o3",
+        "ru": "Ватт",
+        "en": "Watt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_illuminance",
+    "categoryId": "physics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют освещённость?",
+        "explanation": "Один люкс — это один люмен на квадратный метр."
+      },
+      "en": {
+        "question": "Which SI unit measures illuminance?",
+        "explanation": "One lux equals one lumen per square metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Люкс",
+        "en": "Lux"
+      },
+      {
+        "id": "o1",
+        "ru": "Люмен",
+        "en": "Lumen"
+      },
+      {
+        "id": "o2",
+        "ru": "Кандела",
+        "en": "Candela"
+      },
+      {
+        "id": "o3",
+        "ru": "Кандела на квадратный метр",
+        "en": "Candela per square metre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_catalysis",
+    "categoryId": "physics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют каталитическую активность?",
+        "explanation": "Катал выражают в молях в секунду."
+      },
+      "en": {
+        "question": "Which SI unit measures catalytic activity?",
+        "explanation": "A katal is expressed in moles per second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Катал",
+        "en": "Katal"
+      },
+      {
+        "id": "o1",
+        "ru": "Беккерель",
+        "en": "Becquerel"
+      },
+      {
+        "id": "o2",
+        "ru": "Сименс",
+        "en": "Siemens"
+      },
+      {
+        "id": "o3",
+        "ru": "Грей",
+        "en": "Gray"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_velocity",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют скорость поступательного движения?",
+        "explanation": "Скорость в метрах в секунду можно перевести в километры в час, умножив на 3,6."
+      },
+      "en": {
+        "question": "Which SI unit measures translational speed?",
+        "explanation": "Multiply a speed in metres per second by 3.6 to get kilometres per hour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метр в секунду",
+        "en": "Metre per second"
+      },
+      {
+        "id": "o1",
+        "ru": "Метр в секунду в квадрате",
+        "en": "Metre per second squared"
+      },
+      {
+        "id": "o2",
+        "ru": "Километр в час",
+        "en": "Kilometre per hour"
+      },
+      {
+        "id": "o3",
+        "ru": "Радиан в секунду",
+        "en": "Radian per second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_acceleration_unit",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют ускорение?",
+        "explanation": "Единица показывает изменение скорости за единицу времени."
+      },
+      "en": {
+        "question": "Which SI unit measures acceleration?",
+        "explanation": "The unit describes a change in velocity per unit time."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метр в секунду в квадрате",
+        "en": "Metre per second squared"
+      },
+      {
+        "id": "o1",
+        "ru": "Метр в секунду",
+        "en": "Metre per second"
+      },
+      {
+        "id": "o2",
+        "ru": "Радиан в секунду в квадрате",
+        "en": "Radian per second squared"
+      },
+      {
+        "id": "o3",
+        "ru": "Ньютон-секунда",
+        "en": "Newton-second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
+  },
+  {
+    "id": "physics_m50_density",
+    "categoryId": "physics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой единице СИ измеряют массовую плотность вещества?",
+        "explanation": "Плотность равна массе, делённой на занимаемый объём."
+      },
+      "en": {
+        "question": "Which SI unit measures mass density?",
+        "explanation": "Density is mass divided by occupied volume."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Килограмм на кубический метр",
+        "en": "Kilogram per cubic metre"
+      },
+      {
+        "id": "o1",
+        "ru": "Килограмм на квадратный метр",
+        "en": "Kilogram per square metre"
+      },
+      {
+        "id": "o2",
+        "ru": "Кубический метр на килограмм",
+        "en": "Cubic metre per kilogram"
+      },
+      {
+        "id": "o3",
+        "ru": "Килограмм на метр",
+        "en": "Kilogram per metre"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes"
+    ],
+    "image": null
   }
 ]

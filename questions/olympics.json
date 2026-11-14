@@ -438,5 +438,1765 @@
       "https://www.olympics.com/ioc/faq/history-and-origin-of-the-games/who-was-pierre-de-coubertin"
     ],
     "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1904",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1904 года?",
+        "explanation": "Страна проведения — США."
+      },
+      "en": {
+        "question": "Which city hosted the 1904 Summer Olympics?",
+        "explanation": "The host country was United States."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      },
+      {
+        "id": "o1",
+        "ru": "Амстердам",
+        "en": "Amsterdam"
+      },
+      {
+        "id": "o2",
+        "ru": "Рим",
+        "en": "Rome"
+      },
+      {
+        "id": "o3",
+        "ru": "Сидней",
+        "en": "Sydney"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1928",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1928 года?",
+        "explanation": "Страна проведения — Нидерланды."
+      },
+      "en": {
+        "question": "Which city hosted the 1928 Summer Olympics?",
+        "explanation": "The host country was Netherlands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Амстердам",
+        "en": "Amsterdam"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Пекин",
+        "en": "Beijing"
+      },
+      {
+        "id": "o3",
+        "ru": "Барселона",
+        "en": "Barcelona"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1936",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1936 года?",
+        "explanation": "Страна проведения — Германия."
+      },
+      "en": {
+        "question": "Which city hosted the 1936 Summer Olympics?",
+        "explanation": "The host country was Germany."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берлин",
+        "en": "Berlin"
+      },
+      {
+        "id": "o1",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o2",
+        "ru": "Монреаль",
+        "en": "Montreal"
+      },
+      {
+        "id": "o3",
+        "ru": "Сидней",
+        "en": "Sydney"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1952",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1952 года?",
+        "explanation": "Страна проведения — Финляндия."
+      },
+      "en": {
+        "question": "Which city hosted the 1952 Summer Olympics?",
+        "explanation": "The host country was Finland."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хельсинки",
+        "en": "Helsinki"
+      },
+      {
+        "id": "o1",
+        "ru": "Москва",
+        "en": "Moscow"
+      },
+      {
+        "id": "o2",
+        "ru": "Барселона",
+        "en": "Barcelona"
+      },
+      {
+        "id": "o3",
+        "ru": "Афины",
+        "en": "Athens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1968",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1968 года?",
+        "explanation": "Страна проведения — Мексика."
+      },
+      "en": {
+        "question": "Which city hosted the 1968 Summer Olympics?",
+        "explanation": "The host country was Mexico."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мехико",
+        "en": "Mexico City"
+      },
+      {
+        "id": "o1",
+        "ru": "Лос-Анджелес",
+        "en": "Los Angeles"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      },
+      {
+        "id": "o3",
+        "ru": "Пекин",
+        "en": "Beijing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1976",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1976 года?",
+        "explanation": "Страна проведения — Канада."
+      },
+      "en": {
+        "question": "Which city hosted the 1976 Summer Olympics?",
+        "explanation": "The host country was Canada."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монреаль",
+        "en": "Montreal"
+      },
+      {
+        "id": "o1",
+        "ru": "Париж",
+        "en": "Paris"
+      },
+      {
+        "id": "o2",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      },
+      {
+        "id": "o3",
+        "ru": "Рим",
+        "en": "Rome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1980",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1980 года?",
+        "explanation": "Страна проведения — СССР."
+      },
+      "en": {
+        "question": "Which city hosted the 1980 Summer Olympics?",
+        "explanation": "The host country was Soviet Union."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Москва",
+        "en": "Moscow"
+      },
+      {
+        "id": "o1",
+        "ru": "Сидней",
+        "en": "Sydney"
+      },
+      {
+        "id": "o2",
+        "ru": "Стокгольм",
+        "en": "Stockholm"
+      },
+      {
+        "id": "o3",
+        "ru": "Рим",
+        "en": "Rome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1988",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1988 года?",
+        "explanation": "Страна проведения — Республика Корея."
+      },
+      "en": {
+        "question": "Which city hosted the 1988 Summer Olympics?",
+        "explanation": "The host country was Republic of Korea."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сеул",
+        "en": "Seoul"
+      },
+      {
+        "id": "o1",
+        "ru": "Москва",
+        "en": "Moscow"
+      },
+      {
+        "id": "o2",
+        "ru": "Барселона",
+        "en": "Barcelona"
+      },
+      {
+        "id": "o3",
+        "ru": "Лондон",
+        "en": "London"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1992",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1992 года?",
+        "explanation": "Страна проведения — Испания."
+      },
+      "en": {
+        "question": "Which city hosted the 1992 Summer Olympics?",
+        "explanation": "The host country was Spain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Барселона",
+        "en": "Barcelona"
+      },
+      {
+        "id": "o1",
+        "ru": "Рио-де-Жанейро",
+        "en": "Rio de Janeiro"
+      },
+      {
+        "id": "o2",
+        "ru": "Атланта",
+        "en": "Atlanta"
+      },
+      {
+        "id": "o3",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_1996",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 1996 года?",
+        "explanation": "Страна проведения — США."
+      },
+      "en": {
+        "question": "Which city hosted the 1996 Summer Olympics?",
+        "explanation": "The host country was United States."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Атланта",
+        "en": "Atlanta"
+      },
+      {
+        "id": "o1",
+        "ru": "Берлин",
+        "en": "Berlin"
+      },
+      {
+        "id": "o2",
+        "ru": "Барселона",
+        "en": "Barcelona"
+      },
+      {
+        "id": "o3",
+        "ru": "Лос-Анджелес",
+        "en": "Los Angeles"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2000",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2000 года?",
+        "explanation": "Страна проведения — Австралия."
+      },
+      "en": {
+        "question": "Which city hosted the 2000 Summer Olympics?",
+        "explanation": "The host country was Australia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сидней",
+        "en": "Sydney"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      },
+      {
+        "id": "o2",
+        "ru": "Амстердам",
+        "en": "Amsterdam"
+      },
+      {
+        "id": "o3",
+        "ru": "Рио-де-Жанейро",
+        "en": "Rio de Janeiro"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2004",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2004 года?",
+        "explanation": "Страна проведения — Греция."
+      },
+      "en": {
+        "question": "Which city hosted the 2004 Summer Olympics?",
+        "explanation": "The host country was Greece."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o1",
+        "ru": "Атланта",
+        "en": "Atlanta"
+      },
+      {
+        "id": "o2",
+        "ru": "Москва",
+        "en": "Moscow"
+      },
+      {
+        "id": "o3",
+        "ru": "Рим",
+        "en": "Rome"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2008",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2008 года?",
+        "explanation": "Страна проведения — Китай."
+      },
+      "en": {
+        "question": "Which city hosted the 2008 Summer Olympics?",
+        "explanation": "The host country was China."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пекин",
+        "en": "Beijing"
+      },
+      {
+        "id": "o1",
+        "ru": "Мюнхен",
+        "en": "Munich"
+      },
+      {
+        "id": "o2",
+        "ru": "Амстердам",
+        "en": "Amsterdam"
+      },
+      {
+        "id": "o3",
+        "ru": "Лондон",
+        "en": "London"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2012",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2012 года?",
+        "explanation": "Страна проведения — Великобритания."
+      },
+      "en": {
+        "question": "Which city hosted the 2012 Summer Olympics?",
+        "explanation": "The host country was United Kingdom."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лондон",
+        "en": "London"
+      },
+      {
+        "id": "o1",
+        "ru": "Лос-Анджелес",
+        "en": "Los Angeles"
+      },
+      {
+        "id": "o2",
+        "ru": "Рио-де-Жанейро",
+        "en": "Rio de Janeiro"
+      },
+      {
+        "id": "o3",
+        "ru": "Афины",
+        "en": "Athens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2016",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2016 года?",
+        "explanation": "Страна проведения — Бразилия."
+      },
+      "en": {
+        "question": "Which city hosted the 2016 Summer Olympics?",
+        "explanation": "The host country was Brazil."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рио-де-Жанейро",
+        "en": "Rio de Janeiro"
+      },
+      {
+        "id": "o1",
+        "ru": "Сент-Луис",
+        "en": "St. Louis"
+      },
+      {
+        "id": "o2",
+        "ru": "Сеул",
+        "en": "Seoul"
+      },
+      {
+        "id": "o3",
+        "ru": "Токио",
+        "en": "Tokyo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_summer_2020",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал летние Олимпийские игры 2020 года?",
+        "explanation": "Из-за пандемии Игры сохранили название «2020», хотя прошли в 2021 году."
+      },
+      "en": {
+        "question": "Which city hosted the 2020 Summer Olympics?",
+        "explanation": "Because of the pandemic the Games retained the 2020 name but took place in 2021."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Токио",
+        "en": "Tokyo"
+      },
+      {
+        "id": "o1",
+        "ru": "Афины",
+        "en": "Athens"
+      },
+      {
+        "id": "o2",
+        "ru": "Атланта",
+        "en": "Atlanta"
+      },
+      {
+        "id": "o3",
+        "ru": "Берлин",
+        "en": "Berlin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.olympics.com/ioc/news/tokyo-2020-five-years-on-a-legacy-in-use-across-the-city"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1928",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1928 года?",
+        "explanation": "Страна проведения — Швейцария."
+      },
+      "en": {
+        "question": "Which city hosted the 1928 Winter Olympics?",
+        "explanation": "The host country was Switzerland."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Санкт-Мориц",
+        "en": "St. Moritz"
+      },
+      {
+        "id": "o1",
+        "ru": "Калгари",
+        "en": "Calgary"
+      },
+      {
+        "id": "o2",
+        "ru": "Лиллехаммер",
+        "en": "Lillehammer"
+      },
+      {
+        "id": "o3",
+        "ru": "Сараево",
+        "en": "Sarajevo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1952",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1952 года?",
+        "explanation": "Страна проведения — Норвегия."
+      },
+      "en": {
+        "question": "Which city hosted the 1952 Winter Olympics?",
+        "explanation": "The host country was Norway."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Осло",
+        "en": "Oslo"
+      },
+      {
+        "id": "o1",
+        "ru": "Саппоро",
+        "en": "Sapporo"
+      },
+      {
+        "id": "o2",
+        "ru": "Сараево",
+        "en": "Sarajevo"
+      },
+      {
+        "id": "o3",
+        "ru": "Калгари",
+        "en": "Calgary"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1972",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1972 года?",
+        "explanation": "Страна проведения — Япония."
+      },
+      "en": {
+        "question": "Which city hosted the 1972 Winter Olympics?",
+        "explanation": "The host country was Japan."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Саппоро",
+        "en": "Sapporo"
+      },
+      {
+        "id": "o1",
+        "ru": "Нагано",
+        "en": "Nagano"
+      },
+      {
+        "id": "o2",
+        "ru": "Санкт-Мориц",
+        "en": "St. Moritz"
+      },
+      {
+        "id": "o3",
+        "ru": "Лиллехаммер",
+        "en": "Lillehammer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1984",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1984 года?",
+        "explanation": "Страна проведения — Югославия."
+      },
+      "en": {
+        "question": "Which city hosted the 1984 Winter Olympics?",
+        "explanation": "The host country was Yugoslavia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сараево",
+        "en": "Sarajevo"
+      },
+      {
+        "id": "o1",
+        "ru": "Гренобль",
+        "en": "Grenoble"
+      },
+      {
+        "id": "o2",
+        "ru": "Лиллехаммер",
+        "en": "Lillehammer"
+      },
+      {
+        "id": "o3",
+        "ru": "Санкт-Мориц",
+        "en": "St. Moritz"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1988",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1988 года?",
+        "explanation": "Страна проведения — Канада."
+      },
+      "en": {
+        "question": "Which city hosted the 1988 Winter Olympics?",
+        "explanation": "The host country was Canada."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Калгари",
+        "en": "Calgary"
+      },
+      {
+        "id": "o1",
+        "ru": "Гренобль",
+        "en": "Grenoble"
+      },
+      {
+        "id": "o2",
+        "ru": "Саппоро",
+        "en": "Sapporo"
+      },
+      {
+        "id": "o3",
+        "ru": "Санкт-Мориц",
+        "en": "St. Moritz"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_winter_1998",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город принимал зимние Олимпийские игры 1998 года?",
+        "explanation": "Страна проведения — Япония."
+      },
+      "en": {
+        "question": "Which city hosted the 1998 Winter Olympics?",
+        "explanation": "The host country was Japan."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нагано",
+        "en": "Nagano"
+      },
+      {
+        "id": "o1",
+        "ru": "Лейк-Плэсид",
+        "en": "Lake Placid"
+      },
+      {
+        "id": "o2",
+        "ru": "Гренобль",
+        "en": "Grenoble"
+      },
+      {
+        "id": "o3",
+        "ru": "Кортина-д’Ампеццо",
+        "en": "Cortina d'Ampezzo"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_motto",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое слово МОК добавил к олимпийскому девизу в 2021 году?",
+        "explanation": "Новая часть девиза подчёркивает, что спорт объединяет людей."
+      },
+      "en": {
+        "question": "Which word did the IOC add to the Olympic motto in 2021?",
+        "explanation": "The addition highlights sport’s power to bring people together."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вместе",
+        "en": "Together"
+      },
+      {
+        "id": "o1",
+        "ru": "Дальше",
+        "en": "Further"
+      },
+      {
+        "id": "o2",
+        "ru": "Точнее",
+        "en": "More precisely"
+      },
+      {
+        "id": "o3",
+        "ru": "Выше",
+        "en": "Higher"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_composer",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал музыку олимпийского гимна для Игр 1896 года?",
+        "explanation": "Слова гимна написал греческий поэт Костис Паламас."
+      },
+      "en": {
+        "question": "Who composed the Olympic Anthem for the 1896 Games?",
+        "explanation": "Greek poet Kostis Palamas wrote the words."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спиридон Самарас",
+        "en": "Spyros Samaras"
+      },
+      {
+        "id": "o1",
+        "ru": "Ян Сибелиус",
+        "en": "Jean Sibelius"
+      },
+      {
+        "id": "o2",
+        "ru": "Эдвард Григ",
+        "en": "Edvard Grieg"
+      },
+      {
+        "id": "o3",
+        "ru": "Густав Малер",
+        "en": "Gustav Mahler"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_open_declaration",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто по олимпийскому протоколу объявляет Игры открытыми?",
+        "explanation": "Президент МОК и глава оргкомитета выступают с речами перед официальным открытием."
+      },
+      "en": {
+        "question": "Who formally declares the Olympic Games open under the ceremony protocol?",
+        "explanation": "The IOC president and the organising committee president speak before the official opening."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Глава принимающего государства",
+        "en": "The host country’s head of state"
+      },
+      {
+        "id": "o1",
+        "ru": "Президент МОК",
+        "en": "The IOC president"
+      },
+      {
+        "id": "o2",
+        "ru": "Мэр принимающего города",
+        "en": "The host city’s mayor"
+      },
+      {
+        "id": "o3",
+        "ru": "Глава оргкомитета",
+        "en": "The organising committee president"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_closing_parade",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как спортсмены идут на параде закрытия Олимпийских игр?",
+        "explanation": "Общий выход спортсменов символизирует дружбу участников Игр."
+      },
+      "en": {
+        "question": "How do athletes march in the Olympic closing ceremony?",
+        "explanation": "The shared entrance symbolises friendship among the athletes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вместе, без деления на сборные",
+        "en": "Together, without separating into national teams"
+      },
+      {
+        "id": "o1",
+        "ru": "По отдельным сборным",
+        "en": "In separate national teams"
+      },
+      {
+        "id": "o2",
+        "ru": "По группам видов спорта",
+        "en": "In groups by sport"
+      },
+      {
+        "id": "o3",
+        "ru": "По порядку завоёванных медалей",
+        "en": "In medal-table order"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_antique_prize",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что вручали победителям древних Олимпийских игр?",
+        "explanation": "Оливковый венок называли котиносом."
+      },
+      "en": {
+        "question": "What did winners receive at the ancient Olympic Games?",
+        "explanation": "The olive wreath was known as a kotinos."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Оливковый венок",
+        "en": "An olive wreath"
+      },
+      {
+        "id": "o1",
+        "ru": "Лавровый венок",
+        "en": "A laurel wreath"
+      },
+      {
+        "id": "o2",
+        "ru": "Венок из плюща",
+        "en": "An ivy wreath"
+      },
+      {
+        "id": "o3",
+        "ru": "Сосновый венок",
+        "en": "A pine wreath"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_athens_medal",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую медаль получил победитель на Афинских играх 1896 года?",
+        "explanation": "Бронза тогда полагалась за второе место, а за третье медаль не давали."
+      },
+      "en": {
+        "question": "What medal was awarded to a winner at Athens 1896?",
+        "explanation": "Bronze went to the runner-up, and there was no medal for third place."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Серебряную",
+        "en": "Silver"
+      },
+      {
+        "id": "o1",
+        "ru": "Золотую",
+        "en": "Gold"
+      },
+      {
+        "id": "o2",
+        "ru": "Бронзовую",
+        "en": "Bronze"
+      },
+      {
+        "id": "o3",
+        "ru": "Медную",
+        "en": "Copper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_ancient_truce",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Для чего древние греки объявляли олимпийское перемирие?",
+        "explanation": "О безопасности договаривались и для участников, и для зрителей."
+      },
+      "en": {
+        "question": "What was one purpose of the ancient Olympic Truce?",
+        "explanation": "The protection covered both competitors and spectators."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обеспечить безопасный путь на Игры и обратно",
+        "en": "To provide safe passage to and from the Games"
+      },
+      {
+        "id": "o1",
+        "ru": "Установить порядок выступлений",
+        "en": "To set the order of competition"
+      },
+      {
+        "id": "o2",
+        "ru": "Установить правила награждения",
+        "en": "To set the rules for awarding prizes"
+      },
+      {
+        "id": "o3",
+        "ru": "Определить судей на Играх",
+        "en": "To appoint judges for the Games"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_village",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где спортсмены из разных стран живут и отдыхают во время Олимпийских игр?",
+        "explanation": "В деревне есть общие места для питания и отдыха."
+      },
+      "en": {
+        "question": "Where do athletes from different countries live and relax during the Games?",
+        "explanation": "The village has shared dining and recreation spaces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В Олимпийской деревне",
+        "en": "In the Olympic Village"
+      },
+      {
+        "id": "o1",
+        "ru": "В пресс-центре",
+        "en": "In the media centre"
+      },
+      {
+        "id": "o2",
+        "ru": "На олимпийском стадионе",
+        "en": "In the Olympic stadium"
+      },
+      {
+        "id": "o3",
+        "ru": "В Олимпийском музее",
+        "en": "In the Olympic Museum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_art_contests",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой из этих дисциплин вручали олимпийские медали на конкурсах искусств 1912–1948 годов?",
+        "explanation": "Среди остальных дисциплин были живопись, скульптура, литература и музыка."
+      },
+      "en": {
+        "question": "Which of these disciplines earned medals in the Olympic art competitions from 1912 to 1948?",
+        "explanation": "The other disciplines included painting, sculpture, literature and music."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Архитектура",
+        "en": "Architecture"
+      },
+      {
+        "id": "o1",
+        "ru": "Кинематограф",
+        "en": "Filmmaking"
+      },
+      {
+        "id": "o2",
+        "ru": "Театр",
+        "en": "Theatre"
+      },
+      {
+        "id": "o3",
+        "ru": "Фотография",
+        "en": "Photography"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_chariots",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Музыка какого фильма прозвучала в номере с Роуэном Аткинсоном на открытии Лондона-2012?",
+        "explanation": "Тему исполнил Лондонский симфонический оркестр под управлением Саймона Рэттла."
+      },
+      "en": {
+        "question": "Which film’s music featured in Rowan Atkinson’s sketch at the London 2012 opening ceremony?",
+        "explanation": "The London Symphony Orchestra played the theme under Simon Rattle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "«Огненные колесницы»",
+        "en": "Chariots of Fire"
+      },
+      {
+        "id": "o1",
+        "ru": "«Рокки»",
+        "en": "Rocky"
+      },
+      {
+        "id": "o2",
+        "ru": "«Бегущий по лезвию»",
+        "en": "Blade Runner"
+      },
+      {
+        "id": "o3",
+        "ru": "«Амадей»",
+        "en": "Amadeus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_phelps_total",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей выиграл Майкл Фелпс с 2004 по 2016 год?",
+        "explanation": "Из них 23 были золотыми."
+      },
+      "en": {
+        "question": "How many Olympic medals did Michael Phelps win from 2004 to 2016?",
+        "explanation": "Twenty-three of his medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "28",
+        "en": "28"
+      },
+      {
+        "id": "o1",
+        "ru": "18",
+        "en": "18"
+      },
+      {
+        "id": "o2",
+        "ru": "23",
+        "en": "23"
+      },
+      {
+        "id": "o3",
+        "ru": "32",
+        "en": "32"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_nurmi_sport",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Пааво Нурми завоевал девять золотых олимпийских медалей?",
+        "explanation": "Всего с 1920 по 1928 год он завоевал 12 олимпийских медалей."
+      },
+      "en": {
+        "question": "In which sport did Paavo Nurmi win nine Olympic gold medals?",
+        "explanation": "He collected 12 Olympic medals in all from 1920 to 1928."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лёгкая атлетика",
+        "en": "Athletics"
+      },
+      {
+        "id": "o1",
+        "ru": "Велоспорт",
+        "en": "Cycling"
+      },
+      {
+        "id": "o2",
+        "ru": "Плавание",
+        "en": "Swimming"
+      },
+      {
+        "id": "o3",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_latynina_sport",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Лариса Латынина выиграла 18 олимпийских медалей?",
+        "explanation": "Половина её медалей была золотой."
+      },
+      "en": {
+        "question": "In which sport did Larisa Latynina win 18 Olympic medals?",
+        "explanation": "Half of her medals were gold."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спортивная гимнастика",
+        "en": "Artistic gymnastics"
+      },
+      {
+        "id": "o1",
+        "ru": "Прыжки в воду",
+        "en": "Diving"
+      },
+      {
+        "id": "o2",
+        "ru": "Лёгкая атлетика",
+        "en": "Athletics"
+      },
+      {
+        "id": "o3",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_mangiarotti_sport",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта итальянец Эдоардо Манджаротти завоевал 13 олимпийских медалей?",
+        "explanation": "В справочнике МОК его медали относятся к периоду с 1936 по 1960 год."
+      },
+      "en": {
+        "question": "In which sport did Italy’s Edoardo Mangiarotti win 13 Olympic medals?",
+        "explanation": "The IOC lists his medals over a span from 1936 to 1960."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фехтование",
+        "en": "Fencing"
+      },
+      {
+        "id": "o1",
+        "ru": "Стрельба",
+        "en": "Shooting"
+      },
+      {
+        "id": "o2",
+        "ru": "Велоспорт",
+        "en": "Cycling"
+      },
+      {
+        "id": "o3",
+        "ru": "Спортивная гимнастика",
+        "en": "Artistic gymnastics"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_fischer_sport",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какой вид спорта Биргит Фишер получила 12 олимпийских медалей?",
+        "explanation": "Свою первую и последнюю олимпийские медали она завоевала с разницей в 24 года."
+      },
+      "en": {
+        "question": "In which sport did Birgit Fischer earn 12 Olympic medals?",
+        "explanation": "Her first and last Olympic medals were 24 years apart."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гребля на байдарках и каноэ",
+        "en": "Canoe sprint"
+      },
+      {
+        "id": "o1",
+        "ru": "Академическая гребля",
+        "en": "Rowing"
+      },
+      {
+        "id": "o2",
+        "ru": "Парусный спорт",
+        "en": "Sailing"
+      },
+      {
+        "id": "o3",
+        "ru": "Плавание",
+        "en": "Swimming"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_torres_total",
+    "categoryId": "olympics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько олимпийских медалей выиграла пловчиха Дара Торрес с 1984 по 2008 год?",
+        "explanation": "Её олимпийские призовые выступления охватили 24 года."
+      },
+      "en": {
+        "question": "How many Olympic medals did swimmer Dara Torres win from 1984 to 2008?",
+        "explanation": "Her Olympic medal-winning career spanned 24 years."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "12",
+        "en": "12"
+      },
+      {
+        "id": "o1",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o2",
+        "ru": "10",
+        "en": "10"
+      },
+      {
+        "id": "o3",
+        "ru": "14",
+        "en": "14"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_felix_gold",
+    "categoryId": "olympics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько золотых олимпийских медалей выиграла Эллисон Феликс с 2004 по 2020 год?",
+        "explanation": "За эти Игры она завоевала 11 медалей всех достоинств."
+      },
+      "en": {
+        "question": "How many Olympic gold medals did Allyson Felix win across the 2004 to 2020 editions?",
+        "explanation": "She won 11 medals of all colours across those editions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "9",
+        "en": "9"
+      },
+      {
+        "id": "o2",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o3",
+        "ru": "11",
+        "en": "11"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "olympics_m50_taurasi_sport",
+    "categoryId": "olympics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком виде спорта Диана Таурази завоевала шесть золотых олимпийских медалей?",
+        "explanation": "Её золото охватывает шесть Игр с 2004 по 2024 год."
+      },
+      "en": {
+        "question": "In which sport did Diana Taurasi win six Olympic gold medals?",
+        "explanation": "Her gold medals span six Games from 2004 to 2024."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Баскетбол",
+        "en": "Basketball"
+      },
+      {
+        "id": "o1",
+        "ru": "Волейбол",
+        "en": "Volleyball"
+      },
+      {
+        "id": "o2",
+        "ru": "Гандбол",
+        "en": "Handball"
+      },
+      {
+        "id": "o3",
+        "ru": "Хоккей на траве",
+        "en": "Field hockey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf"
+    ],
+    "image": null
   }
 ]
