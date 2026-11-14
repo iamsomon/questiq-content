@@ -178,5 +178,725 @@
         "claim": "In which TV show did The Simpsons first appear as shorts in 1987? Answer: The Tracey Ullman Show. The standalone series premiered in 1989."
       }
     ]
+  },
+  {
+    "id": "television_m50_d_1990",
+    "status": "approved",
+    "sha256": "835aef3716e8b0f3b8652d9d24b507dff92cb83a580dc00bc9609665225a78c7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1990/outstanding-drama-series",
+        "location": "Television Academy 1990 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1990 Emmy for Outstanding Drama Series? Answer: L.A. Law. The nominees that year also included Twin Peaks."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1992",
+    "status": "approved",
+    "sha256": "01468adb1f89d0b66e65724259963a8228be9d9ecf5ccdfc9acf4b2e5f620053",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1992/outstanding-drama-series",
+        "location": "Television Academy 1992 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1992 Emmy for Outstanding Drama Series? Answer: Northern Exposure. The nominees that year also included Quantum Leap."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1993",
+    "status": "approved",
+    "sha256": "b1f031185d353be44633c08617e2f85322d4e02fd22c8253c16eb8fc22ce7fdd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1993/outstanding-drama-series",
+        "location": "Television Academy 1993 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1993 Emmy for Outstanding Drama Series? Answer: Picket Fences. The nominees that year also included Northern Exposure."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1995",
+    "status": "approved",
+    "sha256": "caa33fe598914b5975c9530690d04649b4755b5b3c897dfa8c89aa069287c59a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1995/outstanding-drama-series",
+        "location": "Television Academy 1995 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1995 Emmy for Outstanding Drama Series? Answer: NYPD Blue. The nominees that year also included The X-Files."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1996",
+    "status": "approved",
+    "sha256": "f9e1051a0f10cf358fe76c66d2ea3beef457c3bb82c4ffc64b3d7539a38c5d92",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1996/outstanding-drama-series",
+        "location": "Television Academy 1996 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1996 Emmy for Outstanding Drama Series? Answer: ER. The nominees that year also included The X-Files."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1997",
+    "status": "approved",
+    "sha256": "b414572da08d44972a1b8fdb4a724de4d4c33c4aa40195fdb6ac892adb60bf12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1997/outstanding-drama-series",
+        "location": "Television Academy 1997 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1997 Emmy for Outstanding Drama Series? Answer: Law & Order. The nominees that year also included The X-Files."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_1998",
+    "status": "approved",
+    "sha256": "93127652444e3bb6cb85ac252ea68cd9a09b0d772cdb68bb0cfe9902ef4753bc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1998/outstanding-drama-series",
+        "location": "Television Academy 1998 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 1998 Emmy for Outstanding Drama Series? Answer: The Practice. The nominees that year also included The X-Files."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2000",
+    "status": "approved",
+    "sha256": "b6334b481632c2fbc7ecad8dbed9373b4474fa25c9545eb2a3b8aca6ee03641b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2000/outstanding-drama-series",
+        "location": "Television Academy 2000 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2000 Emmy for Outstanding Drama Series? Answer: The West Wing. The nominees that year also included The Sopranos."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2004",
+    "status": "approved",
+    "sha256": "0cf76e149362e8ae5b094460310b256fec8a284e0ca38486c9d09b60b7183452",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2004/outstanding-drama-series",
+        "location": "Television Academy 2004 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2004 Emmy for Outstanding Drama Series? Answer: The Sopranos. The nominees that year also included Joan Of Arcadia."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2005",
+    "status": "approved",
+    "sha256": "410ec01c77a68d7770f6e1008157b9e3b6dd48ff48adca3bde615b9e7531ea7f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2005/outstanding-drama-series",
+        "location": "Television Academy 2005 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2005 Emmy for Outstanding Drama Series? Answer: Lost. The nominees that year also included The West Wing."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2006",
+    "status": "approved",
+    "sha256": "5e669e268a61ae75781a28470ac5ddc8fd519ca085edafaefdf892a28eb850b5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2006/outstanding-drama-series",
+        "location": "Television Academy 2006 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2006 Emmy for Outstanding Drama Series? Answer: 24. The nominees that year also included The Sopranos."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2008",
+    "status": "approved",
+    "sha256": "0204f2b8f13049d2d874a9b53a164a56c7e943d797db7ff9fa2e54c6f185e3e1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2008/outstanding-drama-series",
+        "location": "Television Academy 2008 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2008 Emmy for Outstanding Drama Series? Answer: Mad Men. The nominees that year also included Dexter."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2012",
+    "status": "approved",
+    "sha256": "0ac24436deca0ac54a99b784053c784dc580338c797c2591e70dbf1331d288fe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2012/outstanding-drama-series",
+        "location": "Television Academy 2012 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2012 Emmy for Outstanding Drama Series? Answer: Homeland. The nominees that year also included Downton Abbey."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2013",
+    "status": "approved",
+    "sha256": "8905f21fb818352ee3ef56b2ea8853369a308e4cff4583e9cd05ce31dc82f617",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2013/outstanding-drama-series",
+        "location": "Television Academy 2013 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2013 Emmy for Outstanding Drama Series? Answer: Breaking Bad. The nominees that year also included Homeland."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2015",
+    "status": "approved",
+    "sha256": "6942094a0b9b947ee7b15b286513eb623b06b316e27a0df5f2dc76c480fb959c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2015/outstanding-drama-series",
+        "location": "Television Academy 2015 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2015 Emmy for Outstanding Drama Series? Answer: Game Of Thrones. The nominees that year also included House of Cards."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2017",
+    "status": "approved",
+    "sha256": "8937350a87647c1ccb8ed110a8c34ded2d7f187c78d2a9f81ead3445317e4408",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2017/outstanding-drama-series",
+        "location": "Television Academy 2017 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2017 Emmy for Outstanding Drama Series? Answer: The Handmaid's Tale. The nominees that year also included Stranger Things."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2020",
+    "status": "approved",
+    "sha256": "eb9c89e36634a9ac41434612dab50761ac3148e17f4a23f78d902f71964bf87e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2020/outstanding-drama-series",
+        "location": "Television Academy 2020 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2020 Emmy for Outstanding Drama Series? Answer: Succession. The nominees that year also included Stranger Things."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2021",
+    "status": "approved",
+    "sha256": "4202b8608c09443a5b6c1fa4ae3b79388a020666c20b8c8a513a388d183dd14b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2021/outstanding-drama-series",
+        "location": "Television Academy 2021 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2021 Emmy for Outstanding Drama Series? Answer: The Crown. The nominees that year also included The Boys."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2024",
+    "status": "approved",
+    "sha256": "ab7a80ed1faec1cafd959f004de47071e084b1fff1a79d41ca8b5157187be18f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2024/outstanding-drama-series",
+        "location": "Television Academy 2024 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2024 Emmy for Outstanding Drama Series? Answer: Shōgun. The nominees that year also included Slow Horses."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_d_2025",
+    "status": "approved",
+    "sha256": "87eddc5a28d16ea62380179767f3be8cb55fac252dfe0bbd50cadf211538ed93",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2025/outstanding-drama-series",
+        "location": "Television Academy 2025 outstanding-drama-series: Winner badge and other nominees",
+        "claim": "Which show won the 2025 Emmy for Outstanding Drama Series? Answer: The Pitt. The nominees that year also included Slow Horses."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_1990",
+    "status": "approved",
+    "sha256": "1e19a3b2f6f7141a6f4017fe4b4beb0e9d7bed520be2ec4fb9794754e46638b1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1990/outstanding-comedy-series",
+        "location": "Television Academy 1990 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 1990 Emmy for Outstanding Comedy Series? Answer: Murphy Brown. The nominees that year also included The Wonder Years."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_1991",
+    "status": "approved",
+    "sha256": "5cd9c2394e5bf07c08b5e984f28ddf51ab44db7ff960c0e3ae7b5472c6862cd0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1991/outstanding-comedy-series",
+        "location": "Television Academy 1991 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 1991 Emmy for Outstanding Comedy Series? Answer: Cheers. The nominees that year also included The Wonder Years."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_1993",
+    "status": "approved",
+    "sha256": "ec7605766e22f79d7fb27a3de2d5e05c6a3955e1d54948f43ab81f2e9f10c57e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1993/outstanding-comedy-series",
+        "location": "Television Academy 1993 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 1993 Emmy for Outstanding Comedy Series? Answer: Seinfeld. The nominees that year also included The Larry Sanders Show."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_1994",
+    "status": "approved",
+    "sha256": "959757598695684261d5f721aeb4f2766f42901ae6fa857de181a522f9101c61",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1994/outstanding-comedy-series",
+        "location": "Television Academy 1994 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 1994 Emmy for Outstanding Comedy Series? Answer: Frasier. The nominees that year also included The Larry Sanders Show."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_1999",
+    "status": "approved",
+    "sha256": "29023c6c1e1fb57aadb868c32d0f1434f5206902dae46c0f9ff92f899b483f23",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/1999/outstanding-comedy-series",
+        "location": "Television Academy 1999 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 1999 Emmy for Outstanding Comedy Series? Answer: Ally McBeal. The nominees that year also included Sex And The City."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2000",
+    "status": "approved",
+    "sha256": "b9728a2d39c001af2d8faf843f784bc7c13c971efbe47524535e2035aac91de8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2000/outstanding-comedy-series",
+        "location": "Television Academy 2000 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2000 Emmy for Outstanding Comedy Series? Answer: Will & Grace. The nominees that year also included Sex And The City."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2001",
+    "status": "approved",
+    "sha256": "d811df7666259f8c1be7f38025176433da1451f66b475714e97889ea55928a6c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2001/outstanding-comedy-series",
+        "location": "Television Academy 2001 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2001 Emmy for Outstanding Comedy Series? Answer: Sex And The City. The nominees that year also included Malcolm In The Middle."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2002",
+    "status": "approved",
+    "sha256": "c334013226ede8e4d18487de5f93c1d2b9a5bd58f7f708fa00c23e5bf3c54edf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2002/outstanding-comedy-series",
+        "location": "Television Academy 2002 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2002 Emmy for Outstanding Comedy Series? Answer: Friends. The nominees that year also included Will & Grace."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2003",
+    "status": "approved",
+    "sha256": "dc7c0dfba3ad6c80faaba0dc0ed40a73312ee951a95ccf425c74bf19174118c0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2003/outstanding-comedy-series",
+        "location": "Television Academy 2003 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2003 Emmy for Outstanding Comedy Series? Answer: Everybody Loves Raymond. The nominees that year also included Sex And The City."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2004",
+    "status": "approved",
+    "sha256": "b85e787149043683466d979967876f00ae5a02ca2da4fd571b6e4e0894a2d3b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2004/outstanding-comedy-series",
+        "location": "Television Academy 2004 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2004 Emmy for Outstanding Comedy Series? Answer: Arrested Development. The nominees that year also included Sex And The City."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2006",
+    "status": "approved",
+    "sha256": "f2f4270675d4bab9ceb63148362dcad56697471b5dc9e5932af5ce990f2b03db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2006/outstanding-comedy-series",
+        "location": "Television Academy 2006 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2006 Emmy for Outstanding Comedy Series? Answer: The Office. The nominees that year also included Two And A Half Men."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2007",
+    "status": "approved",
+    "sha256": "f33a890c381823df34bc6d603d376bc0843bd2c1bf6fc3e0567c51ff5eb0fe97",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2007/outstanding-comedy-series",
+        "location": "Television Academy 2007 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2007 Emmy for Outstanding Comedy Series? Answer: 30 Rock. The nominees that year also included Ugly Betty."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2010",
+    "status": "approved",
+    "sha256": "9c8b323ded40519b08f990fe2c0eff196393f390f68c2a850b941b6a2c44a5f2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2010/outstanding-comedy-series",
+        "location": "Television Academy 2010 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2010 Emmy for Outstanding Comedy Series? Answer: Modern Family. The nominees that year also included Glee."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2015",
+    "status": "approved",
+    "sha256": "2cb57084d01e8932c01f1978bf100472fcd226eea76451799f7e1c1f54df53a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2015/outstanding-comedy-series",
+        "location": "Television Academy 2015 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2015 Emmy for Outstanding Comedy Series? Answer: Veep. The nominees that year also included Silicon Valley."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2018",
+    "status": "approved",
+    "sha256": "9590ed9afaa73145f66d91eed0fbf6df02b123726620643aa18f69bb2cc2e743",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2018/outstanding-comedy-series",
+        "location": "Television Academy 2018 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2018 Emmy for Outstanding Comedy Series? Answer: The Marvelous Mrs. Maisel. The nominees that year also included Curb Your Enthusiasm."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2019",
+    "status": "approved",
+    "sha256": "d44b9178b27fce665be0e648810c699c2a4d43eb03c427f9eddea93179d65f23",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2019/outstanding-comedy-series",
+        "location": "Television Academy 2019 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2019 Emmy for Outstanding Comedy Series? Answer: Fleabag. The nominees that year also included Schitt's Creek."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2020",
+    "status": "approved",
+    "sha256": "580cca5b8ac0d0e05df65a4ee8b0129240f7d71f6131cf64681c644defc4861d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2020/outstanding-comedy-series",
+        "location": "Television Academy 2020 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2020 Emmy for Outstanding Comedy Series? Answer: Schitt's Creek. The nominees that year also included The Good Place."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2021",
+    "status": "approved",
+    "sha256": "152ee87a00421fc474f3bbd2d935d47d5f68abde23faf624ba97f4fc51e0949b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2021/outstanding-comedy-series",
+        "location": "Television Academy 2021 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2021 Emmy for Outstanding Comedy Series? Answer: Ted Lasso. The nominees that year also included Hacks."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2023",
+    "status": "approved",
+    "sha256": "d65463545d68deac1e0b7e730fff4fd88219e36ce7dee5da8d82bdaf03763b98",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2023/outstanding-comedy-series",
+        "location": "Television Academy 2023 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2023 Emmy for Outstanding Comedy Series? Answer: The Bear. The nominees that year also included Only Murders In The Building."
+      }
+    ]
+  },
+  {
+    "id": "television_m50_c_2025",
+    "status": "approved",
+    "sha256": "2867a7f0a53d027cb0f882b7c7fd6b75b2c068a4f12c34f681fd6edd84087704",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read 40 Television Academy award lists, matched the winner and used same-year nominees as distractors.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.televisionacademy.com/awards/nominees-winners/2025/outstanding-comedy-series",
+        "location": "Television Academy 2025 outstanding-comedy-series: Winner badge and other nominees",
+        "claim": "Which show won the 2025 Emmy for Outstanding Comedy Series? Answer: The Studio. The nominees that year also included Nobody Wants This."
+      }
+    ]
   }
 ]
