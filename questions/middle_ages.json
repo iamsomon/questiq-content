@@ -878,5 +878,1325 @@
       "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368"
     ],
     "image": null
+  },
+  {
+    "id": "middle_ages_m50_verdun",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой договор разделил державу Каролингов на три части в 843 году?",
+        "explanation": "Договор заключили сыновья Людовика Благочестивого."
+      },
+      "en": {
+        "question": "Which treaty divided the Carolingian Empire into three parts in 843?",
+        "explanation": "The agreement was made by the sons of Louis the Pious."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Верденский договор",
+        "en": "Treaty of Verdun"
+      },
+      {
+        "id": "o1",
+        "ru": "Мерсенский договор",
+        "en": "Treaty of Meerssen"
+      },
+      {
+        "id": "o2",
+        "ru": "Рибмонский договор",
+        "en": "Treaty of Ribemont"
+      },
+      {
+        "id": "o3",
+        "ru": "Труаский договор",
+        "en": "Treaty of Troyes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_pepin",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой дар франкского короля стал основой Папской области?",
+        "explanation": "Дар закреплял за папой власть над землями в Италии."
+      },
+      "en": {
+        "question": "Which grant by a Frankish king laid the foundation for the Papal States?",
+        "explanation": "The grant gave the pope control of lands in Italy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пипинов дар",
+        "en": "Donation of Pepin"
+      },
+      {
+        "id": "o1",
+        "ru": "Миланский эдикт",
+        "en": "Edict of Milan"
+      },
+      {
+        "id": "o2",
+        "ru": "Вормсский конкордат",
+        "en": "Concordat of Worms"
+      },
+      {
+        "id": "o3",
+        "ru": "Константинов дар",
+        "en": "Donation of Constantine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_lindisfarne",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "На какой монастырь в Нортумбрии напали викинги?",
+        "explanation": "До нападения монастырь Линдисфарн был известным центром учёности."
+      },
+      "en": {
+        "question": "Which monastery in Northumbria was raided by Vikings?",
+        "explanation": "Before the raid, Lindisfarne was a renowned centre of learning."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Линдисфарн",
+        "en": "Lindisfarne"
+      },
+      {
+        "id": "o1",
+        "ru": "Уитби",
+        "en": "Whitby"
+      },
+      {
+        "id": "o2",
+        "ru": "Джарроу",
+        "en": "Jarrow"
+      },
+      {
+        "id": "o3",
+        "ru": "Уэрмут",
+        "en": "Wearmouth"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_clermont",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Где папа Урбан II призвал к крестовому походу в 1095 году?",
+        "explanation": "На соборе в Клермоне папа ответил на просьбу византийского императора о помощи."
+      },
+      "en": {
+        "question": "Where did Pope Urban II call for a crusade in 1095?",
+        "explanation": "At Clermont the pope answered a Byzantine emperor’s appeal for help."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клермон",
+        "en": "Clermont"
+      },
+      {
+        "id": "o1",
+        "ru": "Реймс",
+        "en": "Reims"
+      },
+      {
+        "id": "o2",
+        "ru": "Лион",
+        "en": "Lyon"
+      },
+      {
+        "id": "o3",
+        "ru": "Тулуза",
+        "en": "Toulouse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_alexios",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой византийский император попросил папу о помощи накануне Первого крестового похода?",
+        "explanation": "Алексей I отправил послов в 1095 году, когда Византии угрожало вторжение."
+      },
+      "en": {
+        "question": "Which Byzantine emperor appealed to the pope for help before the First Crusade?",
+        "explanation": "Alexios I sent envoys in 1095 as Byzantium faced the threat of invasion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Алексей I Комнин",
+        "en": "Alexios I Komnenos"
+      },
+      {
+        "id": "o1",
+        "ru": "Иоанн II Комнин",
+        "en": "John II Komnenos"
+      },
+      {
+        "id": "o2",
+        "ru": "Мануил I Комнин",
+        "en": "Manuel I Komnenos"
+      },
+      {
+        "id": "o3",
+        "ru": "Михаил VIII Палеолог",
+        "en": "Michael VIII Palaiologos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_schism",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Каким годом принято датировать Великий раскол между Восточной и Западной церквями?",
+        "explanation": "В тот год спор папских посланников с константинопольским патриархом сделал разделение заметнее."
+      },
+      "en": {
+        "question": "Which year conventionally marks the Great Schism between the Eastern and Western churches?",
+        "explanation": "A dispute between papal envoys and the patriarch of Constantinople deepened the division that year."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1054",
+        "en": "1054"
+      },
+      {
+        "id": "o1",
+        "ru": "1014",
+        "en": "1014"
+      },
+      {
+        "id": "o2",
+        "ru": "1095",
+        "en": "1095"
+      },
+      {
+        "id": "o3",
+        "ru": "1122",
+        "en": "1122"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00120/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_jerusalem",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой город захватили участники Первого крестового похода летом 1099 года?",
+        "explanation": "После завоевания здесь возникла столица Иерусалимского королевства."
+      },
+      "en": {
+        "question": "Which city did the First Crusade capture in the summer of 1099?",
+        "explanation": "Following the conquest it became the capital of the Kingdom of Jerusalem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иерусалим",
+        "en": "Jerusalem"
+      },
+      {
+        "id": "o1",
+        "ru": "Дамаск",
+        "en": "Damascus"
+      },
+      {
+        "id": "o2",
+        "ru": "Акра",
+        "en": "Acre"
+      },
+      {
+        "id": "o3",
+        "ru": "Антиохия",
+        "en": "Antioch"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_hattin",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто победил крестоносцев при Хаттине в 1187 году?",
+        "explanation": "Через несколько месяцев Иерусалим перешёл под власть Саладина."
+      },
+      "en": {
+        "question": "Who defeated the Crusaders at Hattin in 1187?",
+        "explanation": "Jerusalem fell to Saladin within a few months."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Саладин",
+        "en": "Saladin"
+      },
+      {
+        "id": "o1",
+        "ru": "Нур ад-Дин",
+        "en": "Nur al-Din"
+      },
+      {
+        "id": "o2",
+        "ru": "Бейбарс",
+        "en": "Baybars"
+      },
+      {
+        "id": "o3",
+        "ru": "Калаун",
+        "en": "Qalawun"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_richard",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой английский король договорился с Саладином о доступе паломников в Иерусалим?",
+        "explanation": "По соглашению город оставался под властью Саладина."
+      },
+      "en": {
+        "question": "Which English king reached an agreement with Saladin allowing pilgrims to visit Jerusalem?",
+        "explanation": "Under the agreement the city remained under Saladin’s rule."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ричард I",
+        "en": "Richard I"
+      },
+      {
+        "id": "o1",
+        "ru": "Генрих II",
+        "en": "Henry II"
+      },
+      {
+        "id": "o2",
+        "ru": "Иоанн Безземельный",
+        "en": "John of England"
+      },
+      {
+        "id": "o3",
+        "ru": "Эдуард I",
+        "en": "Edward I"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_outremer",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как французы называли государства крестоносцев в Восточном Средиземноморье?",
+        "explanation": "Слово означает «за морем»."
+      },
+      "en": {
+        "question": "What French name referred to the Crusader states in the eastern Mediterranean?",
+        "explanation": "The name means “overseas”."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Утремер",
+        "en": "Outremer"
+      },
+      {
+        "id": "o1",
+        "ru": "Лотарингия",
+        "en": "Lotharingia"
+      },
+      {
+        "id": "o2",
+        "ru": "Аквитания",
+        "en": "Aquitaine"
+      },
+      {
+        "id": "o3",
+        "ru": "Бургундия",
+        "en": "Burgundy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_zara",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой далматинский порт участники Четвёртого крестового похода атаковали по просьбе Венеции?",
+        "explanation": "Порт Зара был соперником Венеции. Папа осудил нападение."
+      },
+      "en": {
+        "question": "Which Dalmatian port did the Fourth Crusade attack at Venice’s request?",
+        "explanation": "Zara was a rival of Venice. The pope condemned the attack."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зара",
+        "en": "Zara"
+      },
+      {
+        "id": "o1",
+        "ru": "Сплит",
+        "en": "Split"
+      },
+      {
+        "id": "o2",
+        "ru": "Дубровник",
+        "en": "Dubrovnik"
+      },
+      {
+        "id": "o3",
+        "ru": "Трогир",
+        "en": "Trogir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00121/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_sack",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой город разграбили крестоносцы в 1204 году?",
+        "explanation": "После разграбления некоторые византийские силы закрепились в северо-западной Анатолии."
+      },
+      "en": {
+        "question": "Which city did Crusaders sack in 1204?",
+        "explanation": "After the sack, some Byzantine forces established themselves in northwestern Anatolia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Константинополь",
+        "en": "Constantinople"
+      },
+      {
+        "id": "o1",
+        "ru": "Салоники",
+        "en": "Thessaloniki"
+      },
+      {
+        "id": "o2",
+        "ru": "Никея",
+        "en": "Nicaea"
+      },
+      {
+        "id": "o3",
+        "ru": "Трапезунд",
+        "en": "Trebizond"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_ottoman_capture",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Когда османы взяли Константинополь и положили конец Византийской империи?",
+        "explanation": "Пушки помогли османам преодолеть мощные городские укрепления."
+      },
+      "en": {
+        "question": "When did the Ottomans capture Constantinople and bring the Byzantine Empire to an end?",
+        "explanation": "Cannons helped the Ottomans overcome the city’s formidable defences."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1453",
+        "en": "1453"
+      },
+      {
+        "id": "o1",
+        "ru": "1402",
+        "en": "1402"
+      },
+      {
+        "id": "o2",
+        "ru": "1439",
+        "en": "1439"
+      },
+      {
+        "id": "o3",
+        "ru": "1492",
+        "en": "1492"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00125/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_ankara",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой битве войско Тимура встретилось с армией Баязида I в 1402 году?",
+        "explanation": "Сражение произошло в Анатолии в июле."
+      },
+      "en": {
+        "question": "In which battle did Timur face Bayezid I’s army in 1402?",
+        "explanation": "The battle took place in Anatolia in July."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Битва при Анкаре",
+        "en": "Battle of Ankara"
+      },
+      {
+        "id": "o1",
+        "ru": "Битва при Никополе",
+        "en": "Battle of Nicopolis"
+      },
+      {
+        "id": "o2",
+        "ru": "Битва на Косовом поле",
+        "en": "Battle of Kosovo"
+      },
+      {
+        "id": "o3",
+        "ru": "Битва при Варне",
+        "en": "Battle of Varna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_nicopolis",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Где армия Баязида I разгромила крестоносцев на Дунае в 1396 году?",
+        "explanation": "На стороне Баязида сражались его сербские вассалы."
+      },
+      "en": {
+        "question": "Where did Bayezid I’s army defeat the Crusaders on the Danube in 1396?",
+        "explanation": "Bayezid’s Serbian vassals fought on his side."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Никополь",
+        "en": "Nicopolis"
+      },
+      {
+        "id": "o1",
+        "ru": "Белград",
+        "en": "Belgrade"
+      },
+      {
+        "id": "o2",
+        "ru": "Видин",
+        "en": "Vidin"
+      },
+      {
+        "id": "o3",
+        "ru": "Силистра",
+        "en": "Silistra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_kosovo",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой битве погибли османский султан Мурад I и сербский князь Лазарь?",
+        "explanation": "Битва произошла в 1389 году."
+      },
+      "en": {
+        "question": "In which battle did Ottoman sultan Murad I and Serbian prince Lazar both die?",
+        "explanation": "The battle took place in 1389."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Битва на Косовом поле",
+        "en": "Battle of Kosovo"
+      },
+      {
+        "id": "o1",
+        "ru": "Битва при Никополе",
+        "en": "Battle of Nicopolis"
+      },
+      {
+        "id": "o2",
+        "ru": "Битва при Анкаре",
+        "en": "Battle of Ankara"
+      },
+      {
+        "id": "o3",
+        "ru": "Битва при Варне",
+        "en": "Battle of Varna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00123/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_kurultai",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называлось собрание, подтвердившее власть Чингисхана над монголами в 1206 году?",
+        "explanation": "На такие собрания созывали сторонников предводителя, чтобы согласовать важные решения."
+      },
+      "en": {
+        "question": "What was the assembly that confirmed Genghis Khan’s rule over the Mongols in 1206 called?",
+        "explanation": "Such assemblies gathered a leader’s followers to agree on major decisions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Курултай",
+        "en": "Kurultai"
+      },
+      {
+        "id": "o1",
+        "ru": "Диван",
+        "en": "Divan"
+      },
+      {
+        "id": "o2",
+        "ru": "Вече",
+        "en": "Veche"
+      },
+      {
+        "id": "o3",
+        "ru": "Сейм",
+        "en": "Sejm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_yassa",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как назывался свод правил, который связывают с Чингисханом?",
+        "explanation": "В своде предусматривались правила против кражи и грабежа."
+      },
+      "en": {
+        "question": "What was the code of rules associated with Genghis Khan called?",
+        "explanation": "The code included rules against theft and robbery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Яса",
+        "en": "Yassa"
+      },
+      {
+        "id": "o1",
+        "ru": "Канун",
+        "en": "Kanun"
+      },
+      {
+        "id": "o2",
+        "ru": "Хаммурапи",
+        "en": "Hammurabi’s code"
+      },
+      {
+        "id": "o3",
+        "ru": "Салическая правда",
+        "en": "Salic Law"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_post_stations",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая сеть позволяла центральной власти Монгольской империи обмениваться сообщениями на больших расстояниях?",
+        "explanation": "Станции составляли часть центральной администрации, наряду со складами дани."
+      },
+      "en": {
+        "question": "What network let the central government of the Mongol Empire communicate over long distances?",
+        "explanation": "The stations were part of central administration alongside storehouses for tribute."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Почтовые станции",
+        "en": "Postal stations"
+      },
+      {
+        "id": "o1",
+        "ru": "Речные таможни",
+        "en": "River customs posts"
+      },
+      {
+        "id": "o2",
+        "ru": "Караванные рынки",
+        "en": "Caravan markets"
+      },
+      {
+        "id": "o3",
+        "ru": "Пограничные башни",
+        "en": "Frontier watchtowers"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00145/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_hulagu",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой монгольский правитель захватил Багдад и положил конец власти местного халифа?",
+        "explanation": "Разрушение города обострило отношения Хулагу с Берке."
+      },
+      "en": {
+        "question": "Which Mongol ruler captured Baghdad and ended the rule of its caliph?",
+        "explanation": "The destruction of the city worsened relations between Hulagu and Berke."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хулагу",
+        "en": "Hulagu"
+      },
+      {
+        "id": "o1",
+        "ru": "Бату",
+        "en": "Batu"
+      },
+      {
+        "id": "o2",
+        "ru": "Угэдэй",
+        "en": "Ögedei"
+      },
+      {
+        "id": "o3",
+        "ru": "Хубилай",
+        "en": "Kublai"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00146/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_berke",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой правитель Золотой Орды вступил в конфликт с Хулагу?",
+        "explanation": "Берке был младшим братом Бату."
+      },
+      "en": {
+        "question": "Which ruler of the Golden Horde came into conflict with Hulagu?",
+        "explanation": "Berke was Batu’s younger brother."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Берке",
+        "en": "Berke"
+      },
+      {
+        "id": "o1",
+        "ru": "Тохтамыш",
+        "en": "Tokhtamysh"
+      },
+      {
+        "id": "o2",
+        "ru": "Узбек-хан",
+        "en": "Öz Beg Khan"
+      },
+      {
+        "id": "o3",
+        "ru": "Джанибек",
+        "en": "Jani Beg"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00146/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_mamluks",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называли воинов, из которых выросла правящая элита султаната в Египте XIII века?",
+        "explanation": "Многих набирали среди тюркских народов Центральной Азии, а также на Кавказе и в Восточной Европе."
+      },
+      "en": {
+        "question": "What were the soldiers from whom the ruling elite of a thirteenth-century Egyptian sultanate emerged called?",
+        "explanation": "Many came from Turkic peoples in Central Asia, as well as the Caucasus and Eastern Europe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мамлюки",
+        "en": "Mamluks"
+      },
+      {
+        "id": "o1",
+        "ru": "Янычары",
+        "en": "Janissaries"
+      },
+      {
+        "id": "o2",
+        "ru": "Гулямы",
+        "en": "Ghilman"
+      },
+      {
+        "id": "o3",
+        "ru": "Сипахи",
+        "en": "Sipahis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_ming",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какая династия пришла к власти в Китае после падения Юань в 1368 году?",
+        "explanation": "Первый император новой династии принял имя Хунъу."
+      },
+      "en": {
+        "question": "Which dynasty took power in China after the fall of the Yuan in 1368?",
+        "explanation": "The new dynasty’s first emperor took the name Hongwu."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мин",
+        "en": "Ming"
+      },
+      {
+        "id": "o1",
+        "ru": "Сун",
+        "en": "Song"
+      },
+      {
+        "id": "o2",
+        "ru": "Тан",
+        "en": "Tang"
+      },
+      {
+        "id": "o3",
+        "ru": "Цин",
+        "en": "Qing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_zheng",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто командовал китайскими морскими экспедициями, начавшимися в 1405 году?",
+        "explanation": "Корабли ходили к берегам Индии, Аравии и Восточной Африки."
+      },
+      "en": {
+        "question": "Who commanded the Chinese maritime expeditions that began in 1405?",
+        "explanation": "The fleets reached India, Arabia and East Africa."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чжэн Хэ",
+        "en": "Zheng He"
+      },
+      {
+        "id": "o1",
+        "ru": "Ван Даюань",
+        "en": "Wang Dayuan"
+      },
+      {
+        "id": "o2",
+        "ru": "Кублай",
+        "en": "Kublai"
+      },
+      {
+        "id": "o3",
+        "ru": "Чжан Цянь",
+        "en": "Zhang Qian"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_yongle",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой император Мин отправил флот Чжэн Хэ в дальние плавания?",
+        "explanation": "Императора Юнлэ звали Чжу Ди."
+      },
+      "en": {
+        "question": "Which Ming emperor dispatched Zheng He’s fleet on distant expeditions?",
+        "explanation": "The Yongle emperor’s personal name was Zhu Di."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юнлэ",
+        "en": "Yongle"
+      },
+      {
+        "id": "o1",
+        "ru": "Хунъу",
+        "en": "Hongwu"
+      },
+      {
+        "id": "o2",
+        "ru": "Цзяньвэнь",
+        "en": "Jianwen"
+      },
+      {
+        "id": "o3",
+        "ru": "Сюаньдэ",
+        "en": "Xuande"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00124/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_mansa",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой правитель Мали посетил Каир по пути в Мекку в 1324–1325 годах?",
+        "explanation": "Манса Муса путешествовал с большим караваном и щедро раздавал золото в Египте."
+      },
+      "en": {
+        "question": "Which ruler of Mali visited Cairo on his way to Mecca in 1324–1325?",
+        "explanation": "Mansa Musa travelled with a large caravan and gave away substantial amounts of gold in Egypt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Манса Муса",
+        "en": "Mansa Musa"
+      },
+      {
+        "id": "o1",
+        "ru": "Сундиата Кейта",
+        "en": "Sundiata Keita"
+      },
+      {
+        "id": "o2",
+        "ru": "Сонни Али",
+        "en": "Sunni Ali"
+      },
+      {
+        "id": "o3",
+        "ru": "Аския Мухаммед",
+        "en": "Askia Muhammad"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_sundiata",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кто положил начало державе Мали, победив царство Сосо?",
+        "explanation": "Сундиата также овладел Кумби-Сале, важным городом региона."
+      },
+      "en": {
+        "question": "Who laid the foundations of the Mali Empire by defeating the Sosso Kingdom?",
+        "explanation": "Sundiata also took Koumbi Saleh, an important city in the region."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сундиата Кейта",
+        "en": "Sundiata Keita"
+      },
+      {
+        "id": "o1",
+        "ru": "Манса Муса",
+        "en": "Mansa Musa"
+      },
+      {
+        "id": "o2",
+        "ru": "Сонни Али",
+        "en": "Sunni Ali"
+      },
+      {
+        "id": "o3",
+        "ru": "Сумангур Канте",
+        "en": "Sumanguru Kanté"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_bure",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой ресурс приносили империи Мали месторождения Буре?",
+        "explanation": "Доступ к этим месторождениям был одним из источников богатства Мали наряду с земледелием и торговлей."
+      },
+      "en": {
+        "question": "What resource did the Bure deposits provide to the Mali Empire?",
+        "explanation": "The deposits were one source of Mali’s wealth alongside farming and trade."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Золото",
+        "en": "Gold"
+      },
+      {
+        "id": "o1",
+        "ru": "Медь",
+        "en": "Copper"
+      },
+      {
+        "id": "o2",
+        "ru": "Соль",
+        "en": "Salt"
+      },
+      {
+        "id": "o3",
+        "ru": "Железо",
+        "en": "Iron"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_mali_routes",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой город на торговых путях входил в средневековую державу Мали?",
+        "explanation": "Мали также контролировала Гао, Дженне и Уалату."
+      },
+      "en": {
+        "question": "Which trading city formed part of the medieval Mali Empire?",
+        "explanation": "Mali also controlled Gao, Djenné and Oualata."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тимбукту",
+        "en": "Timbuktu"
+      },
+      {
+        "id": "o1",
+        "ru": "Каир",
+        "en": "Cairo"
+      },
+      {
+        "id": "o2",
+        "ru": "Тунис",
+        "en": "Tunis"
+      },
+      {
+        "id": "o3",
+        "ru": "Фес",
+        "en": "Fez"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00150/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "middle_ages_m50_normandy_duchy",
+    "categoryId": "middle_ages",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой части Европы викинги основали герцогство Нормандия?",
+        "explanation": "Нормандия располагалась на севере Франции."
+      },
+      "en": {
+        "question": "In which part of Europe did Vikings establish the Duchy of Normandy?",
+        "explanation": "Normandy lay in northern France."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "На севере Франции",
+        "en": "Northern France"
+      },
+      {
+        "id": "o1",
+        "ru": "На юге Англии",
+        "en": "Southern England"
+      },
+      {
+        "id": "o2",
+        "ru": "На западе Ирландии",
+        "en": "Western Ireland"
+      },
+      {
+        "id": "o3",
+        "ru": "На востоке Испании",
+        "en": "Eastern Spain"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00118/index.cnxml"
+    ],
+    "image": null
   }
 ]

@@ -358,5 +358,545 @@
         "claim": "Which of these laureates was recognised in 1984 for nonviolent opposition to apartheid? Answer: Desmond Tutu. The laureate was born in 1931."
       }
     ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_569",
+    "status": "approved",
+    "sha256": "3b0b9931d0d74e03d7f7270ce8c6bb321f8b17ad09329fb86334029b18fc64e9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/lit/1901",
+        "location": "Nobel Prize API 2.1, Literature 1901, laureate 569, knownName and motivation",
+        "claim": "Who received the first Nobel Prize in Literature? Answer: Sully Prudhomme. In 1901 the Nobel committee recognised his poetry."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_462",
+    "status": "approved",
+    "sha256": "c399e1faee167fbe6428c8e895306ecc1e0f6b8473f48d40e378db3e12ec9931",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/pea/1901",
+        "location": "Nobel Prize API 2.1, Peace 1901, laureate 462, knownName and motivation",
+        "claim": "Which recipient of the first Nobel Peace Prize was recognised for helping wounded soldiers? Answer: Henry Dunant. Henry Dunant shared the 1901 prize with Frédéric Passy."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_161",
+    "status": "approved",
+    "sha256": "0ee6d3da14085c2d92bd19964b35e1daa5f0a2faa3b0caede651fb1b842735dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1902",
+        "location": "Nobel Prize API 2.1, Chemistry 1902, laureate 161, knownName and motivation",
+        "claim": "Who received the 1902 Nobel Prize in Chemistry for work on the synthesis of sugars and purines? Answer: Emil Fischer. The research was in organic chemistry."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_581",
+    "status": "approved",
+    "sha256": "b29c71bf2e41c0e08fba001509d13bcfddd5f99171a1bc130f9abdf33d1812af",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/lit/1911",
+        "location": "Nobel Prize API 2.1, Literature 1911, laureate 581, knownName and motivation",
+        "claim": "Whose plays were singled out by the 1911 Nobel Prize in Literature? Answer: Maurice Maeterlinck. The award also recognised the range of his literary work."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_16",
+    "status": "approved",
+    "sha256": "4fed713d2f6929a1c5ae9db1a7adcb53bfed25876aec4bc5d614b9b28d366ce2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/phy/1911",
+        "location": "Nobel Prize API 2.1, Physics 1911, laureate 16, knownName and motivation",
+        "claim": "Who received the 1911 Nobel Prize in Physics for research into the laws of thermal radiation? Answer: Wilhelm Wien. Thermal radiation carries energy away from heated objects."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_178",
+    "status": "approved",
+    "sha256": "3d673efc36e99de8b164c8131e113569daedcfe1a7f5a611868adb83079145f4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1920",
+        "location": "Nobel Prize API 2.1, Chemistry 1920, laureate 178, knownName and motivation",
+        "claim": "Who received the 1920 Nobel Prize in Chemistry for research in thermochemistry? Answer: Walther Nernst. Thermochemistry studies the heat effects of chemical changes."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_589",
+    "status": "approved",
+    "sha256": "a19ebbf1a06aea47c9a931965d2a602b5ec28cad1e25cc93e4d94b7c9c57fa76",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/lit/1920",
+        "location": "Nobel Prize API 2.1, Literature 1920, laureate 589, knownName and motivation",
+        "claim": "Which writer received the 1920 Nobel Prize for Growth of the Soil? Answer: Knut Hamsun. The award citation singles out this novel."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_484",
+    "status": "approved",
+    "sha256": "3810758bf978c2c5abdfcfe54d8c026901d746af7323a12ff8cbeaf8c720eff9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/pea/1920",
+        "location": "Nobel Prize API 2.1, Peace 1920, laureate 484, knownName and motivation",
+        "claim": "Who received the 1920 Nobel Peace Prize for helping establish the League of Nations? Answer: Léon Bourgeois. The citation also recognised his long work for peace and justice."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_188",
+    "status": "approved",
+    "sha256": "d6a49bcfdd657bd449aba470b364ace25bb6f4faa8218a448e3e5e9eda711537",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1930",
+        "location": "Nobel Prize API 2.1, Chemistry 1930, laureate 188, knownName and motivation",
+        "claim": "Who received the 1930 Nobel Prize in Chemistry for research on haemin and chlorophyll? Answer: Hans Fischer. The citation highlighted his synthesis of haemin."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_37",
+    "status": "approved",
+    "sha256": "5b24a6da69743bd615d00178a02d1e4a14b14149ebf4ee430275b171492e9a34",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/phy/1930",
+        "location": "Nobel Prize API 2.1, Physics 1930, laureate 37, knownName and motivation",
+        "claim": "Who received the 1930 Nobel Prize in Physics for research into light scattering? Answer: Chandrasekhara Venkata Raman. The effect he discovered bears his name."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_321",
+    "status": "approved",
+    "sha256": "b9683bd561d608c8bdfbd53c110602755de235c7d8353f1c09418f558d5ccd4c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/med/1930",
+        "location": "Nobel Prize API 2.1, Physiology or Medicine 1930, laureate 321, knownName and motivation",
+        "claim": "Who received a Nobel Prize in 1930 for discovering human blood groups? Answer: Karl Landsteiner. The discovery was recognised in Physiology or Medicine."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_511",
+    "status": "approved",
+    "sha256": "32c817c4ea6b1bbacf48801659bb1f482ec0d636b1056dd704a0cdcfabcdcf2f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/pea/1950",
+        "location": "Nobel Prize API 2.1, Peace 1950, laureate 511, knownName and motivation",
+        "claim": "Who received the 1950 Nobel Peace Prize for mediation in Palestine in 1948–1949? Answer: Ralph Bunche. The prize recognised his work as a mediator."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_351",
+    "status": "approved",
+    "sha256": "86b6202363db79d8346029d0a607517511c92ec0b12a405082acea56d1c5488f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/med/1950",
+        "location": "Nobel Prize API 2.1, Physiology or Medicine 1950, laureate 351, knownName and motivation",
+        "claim": "Which of these scientists shared the 1950 Nobel Prize for work on adrenal cortex hormones? Answer: Philip S. Hench. Hench shared the prize with Edward Kendall and Tadeus Reichstein."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_224",
+    "status": "approved",
+    "sha256": "96716d8f1c2d86b6fc42cc027c6ce71cbafa8cc59c7e0f7428e03e959b29c650",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1960",
+        "location": "Nobel Prize API 2.1, Chemistry 1960, laureate 224, knownName and motivation",
+        "claim": "Who received the Nobel Prize in Chemistry for developing carbon-14 dating? Answer: Willard F. Libby. The award came in 1960. The method is used in archaeology and geology."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_239",
+    "status": "approved",
+    "sha256": "192ba0c654ae226a53b21c1c0964e307659905d0af273c3c21bdbb23b2eb3f50",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1970",
+        "location": "Nobel Prize API 2.1, Chemistry 1970, laureate 239, knownName and motivation",
+        "claim": "Who received the 1970 Nobel Prize in Chemistry for discovering sugar nucleotides? Answer: Luis Leloir. The award also recognised their role in the formation of carbohydrates."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_528",
+    "status": "approved",
+    "sha256": "83de2ed605020347e51d3a759b3562159bc2de4e2e34c6f1021141f23d4ff4ab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/pea/1970",
+        "location": "Nobel Prize API 2.1, Peace 1970, laureate 528, knownName and motivation",
+        "claim": "Who received the 1970 Nobel Peace Prize for contributions to the Green Revolution? Answer: Norman Borlaug. The prize linked progress in agriculture with hope for better lives."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_91",
+    "status": "approved",
+    "sha256": "e1ca5d71327b4283693bb49d52360aa57c7c2db002cf0e96c81ebbe9408bd62b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/phy/1970",
+        "location": "Nobel Prize API 2.1, Physics 1970, laureate 91, knownName and motivation",
+        "claim": "Who was recognised by the 1970 Nobel Prize in Physics for work in magnetohydrodynamics? Answer: Hannes Alfvén. The work found applications in plasma physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_92",
+    "status": "approved",
+    "sha256": "61fc0324b4da6fecc24f6d7ac5d206cf756d54fa74e7a1a627f3f5083c99d8e6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/phy/1970",
+        "location": "Nobel Prize API 2.1, Physics 1970, laureate 92, knownName and motivation",
+        "claim": "Who shared the 1970 Nobel Prize in Physics for research on antiferromagnetism and ferrimagnetism? Answer: Louis Néel. Néel’s research found applications in solid-state physics."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_244",
+    "status": "approved",
+    "sha256": "03b262e9eb4e29beda49f2e574c8e58005b772a651485599eba35e30f7b9c1c0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1973",
+        "location": "Nobel Prize API 2.1, Chemistry 1973, laureate 244, knownName and motivation",
+        "claim": "Who shared the 1973 Nobel Prize in Chemistry for work on organometallic sandwich compounds? Answer: Ernst Otto Fischer. Fischer and Geoffrey Wilkinson carried out their research independently."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_694",
+    "status": "approved",
+    "sha256": "e2336c2f4a79c7f4e189c93836ab8155b20308bcb9b41b9553b5577a4610a6a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/eco/1980",
+        "location": "Nobel Prize API 2.1, Economic Sciences 1980, laureate 694, knownName and motivation",
+        "claim": "Who received the 1980 economics prize for developing econometric models? Answer: Lawrence R. Klein. The models were used to study economic fluctuations and policies."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_276",
+    "status": "approved",
+    "sha256": "1db4376498f5d4f6e9290b8f7f2e3e89790dc72f1072af0e553e6d8fa0b46a16",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1991",
+        "location": "Nobel Prize API 2.1, Chemistry 1991, laureate 276, knownName and motivation",
+        "claim": "Who received the 1991 Nobel Prize in Chemistry for advancing high-resolution NMR spectroscopy? Answer: Richard R. Ernst. NMR stands for nuclear magnetic resonance."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_707",
+    "status": "approved",
+    "sha256": "a977631b57aa10776bb3b6a2538868b607686470eec060b6cc1dbd7a0e7af5b5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/eco/1991",
+        "location": "Nobel Prize API 2.1, Economic Sciences 1991, laureate 707, knownName and motivation",
+        "claim": "Who received the 1991 economics prize for explaining the role of transaction costs and property rights? Answer: Ronald H. Coase. These ideas help explain how economic institutions are organised."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_141",
+    "status": "approved",
+    "sha256": "3352d905cd92a58f48953793b0ad403570e7583db8029422feb4a2539ff065cc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/phy/1991",
+        "location": "Nobel Prize API 2.1, Physics 1991, laureate 141, knownName and motivation",
+        "claim": "Which physicist won the 1991 Nobel Prize for extending the study of order to liquid crystals and polymers? Answer: Pierre-Gilles de Gennes. He showed how methods for simple systems could be applied to more complex materials."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_446",
+    "status": "approved",
+    "sha256": "bdcec7db6896f0c16a35265cd47ceb86b6f167e17921c4b378fe59fab5dcd313",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/med/1992",
+        "location": "Nobel Prize API 2.1, Physiology or Medicine 1992, laureate 446, knownName and motivation",
+        "claim": "Who shared the 1992 Nobel Prize for discovering reversible protein phosphorylation as a regulatory mechanism? Answer: Edmond H. Fischer. Fischer shared the prize with Edwin Krebs."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_281",
+    "status": "approved",
+    "sha256": "18227d912eac68c2068fc9639be1728918d696514470939e7a14ffbc01b74215",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1995",
+        "location": "Nobel Prize API 2.1, Chemistry 1995, laureate 281, knownName and motivation",
+        "claim": "Which of these scientists shared the 1995 Nobel Prize in Chemistry for research on atmospheric ozone? Answer: Paul J. Crutzen. Crutzen shared the prize with Mario Molina and Sherwood Rowland."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_714",
+    "status": "approved",
+    "sha256": "0a8a3fc3a6d250023ec55df773964c098e08befa84c5434bbb5783144d59c308",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/eco/1995",
+        "location": "Nobel Prize API 2.1, Economic Sciences 1995, laureate 714, knownName and motivation",
+        "claim": "Who received the 1995 economics prize for developing and applying rational expectations? Answer: Robert E. Lucas Jr.. His research influenced how economists analyse the wider economy."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_672",
+    "status": "approved",
+    "sha256": "3b3e6d33e75ceb25d5438676b4be512f6b0d09ccb2058925d1c8d74c9e80d6ad",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/lit/1995",
+        "location": "Nobel Prize API 2.1, Literature 1995, laureate 672, knownName and motivation",
+        "claim": "Which poet received the 1995 Nobel Prize in Literature? Answer: Seamus Heaney. The award recognised his lyricism and his attention to everyday life and the past."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_292",
+    "status": "approved",
+    "sha256": "18538dec845bc9d838ed8d2eb27c93b2bebab41e4b24b6e2d73f72ef4d5fa2d7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/che/1999",
+        "location": "Nobel Prize API 2.1, Chemistry 1999, laureate 292, knownName and motivation",
+        "claim": "Who received the 1999 Nobel Prize in Chemistry for using femtosecond spectroscopy to study reaction transition states? Answer: Ahmed Zewail. A femtosecond is one quadrillionth of a second."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_720",
+    "status": "approved",
+    "sha256": "38f783ee575dd2e8f570c5fdee73c381edca4561cfbccd81e86901b4ca6265b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/eco/1999",
+        "location": "Nobel Prize API 2.1, Economic Sciences 1999, laureate 720, knownName and motivation",
+        "claim": "Who received the 1999 economics prize for analysing exchange-rate regimes and optimum currency areas? Answer: Robert Mundell. The research examined monetary and fiscal policies under different exchange-rate systems."
+      }
+    ]
+  },
+  {
+    "id": "historical_figures_m50_nobel_734",
+    "status": "approved",
+    "sha256": "8191388d66a63d6c307ead6e232ff73de19c6fea06de83008fed9c066fa71bf4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Nobel Prize API award year, category, names, co-recipients and motivations and paraphrased the relevant facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.nobelprize.org/2.1/nobelPrize/lit/2000",
+        "location": "Nobel Prize API 2.1, Literature 2000, laureate 734, knownName and motivation",
+        "claim": "Who received the 2000 Nobel Prize in Literature for work that opened new paths for Chinese fiction and drama? Answer: Gao Xingjian. The award also recognised his inventive use of language."
+      }
+    ]
   }
 ]

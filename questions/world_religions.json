@@ -878,5 +878,1325 @@
       "https://pluralism.org/introduction-to-judaism"
     ],
     "image": null
+  },
+  {
+    "id": "world_religions_m50_passover",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой еврейский праздник посвящён освобождению из рабства в Египте?",
+        "explanation": "Его также называют Песахом."
+      },
+      "en": {
+        "question": "Which Jewish festival commemorates liberation from slavery in Egypt?",
+        "explanation": "The festival is also known as Pesach."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Песах",
+        "en": "Passover"
+      },
+      {
+        "id": "o1",
+        "ru": "Пурим",
+        "en": "Purim"
+      },
+      {
+        "id": "o2",
+        "ru": "Суккот",
+        "en": "Sukkot"
+      },
+      {
+        "id": "o3",
+        "ru": "Шавуот",
+        "en": "Shavuot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_purim",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой праздник связан с историей царицы Эстер и спасением евреев от Амана?",
+        "explanation": "В традиционном рассказе события происходят в Персии."
+      },
+      "en": {
+        "question": "Which Jewish holiday recalls Queen Esther and the deliverance from Haman?",
+        "explanation": "The traditional story takes place in Persia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пурим",
+        "en": "Purim"
+      },
+      {
+        "id": "o1",
+        "ru": "Песах",
+        "en": "Passover"
+      },
+      {
+        "id": "o2",
+        "ru": "Ханука",
+        "en": "Hanukkah"
+      },
+      {
+        "id": "o3",
+        "ru": "Суккот",
+        "en": "Sukkot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_shavuot",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой праздник в иудаизме отмечает дарование Торы на горе Синай?",
+        "explanation": "В этот день в синагогах читают Десять заповедей."
+      },
+      "en": {
+        "question": "Which Jewish holiday marks the giving of the Torah at Mount Sinai?",
+        "explanation": "The Ten Commandments are read in synagogues on this holiday."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шавуот",
+        "en": "Shavuot"
+      },
+      {
+        "id": "o1",
+        "ru": "Суккот",
+        "en": "Sukkot"
+      },
+      {
+        "id": "o2",
+        "ru": "Песах",
+        "en": "Passover"
+      },
+      {
+        "id": "o3",
+        "ru": "Ханука",
+        "en": "Hanukkah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_sukkot",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой еврейский праздник принято проводить время в сукке, временном укрытии?",
+        "explanation": "Сукка напоминает о пути из Египта в Землю обетованную."
+      },
+      "en": {
+        "question": "During which Jewish holiday is it customary to spend time in a sukkah, a temporary shelter?",
+        "explanation": "The sukkah recalls the journey from Egypt to the Promised Land."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Суккот",
+        "en": "Sukkot"
+      },
+      {
+        "id": "o1",
+        "ru": "Пурим",
+        "en": "Purim"
+      },
+      {
+        "id": "o2",
+        "ru": "Рош ха-Шана",
+        "en": "Rosh Hashanah"
+      },
+      {
+        "id": "o3",
+        "ru": "Шавуот",
+        "en": "Shavuot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_rosh_hashanah",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется еврейский Новый год?",
+        "explanation": "В еврейской традиции этот день также связан с темой суда."
+      },
+      "en": {
+        "question": "What is the Jewish New Year called?",
+        "explanation": "In Jewish tradition the day is also associated with judgment."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рош ха-Шана",
+        "en": "Rosh Hashanah"
+      },
+      {
+        "id": "o1",
+        "ru": "Йом-Кипур",
+        "en": "Yom Kippur"
+      },
+      {
+        "id": "o2",
+        "ru": "Шавуот",
+        "en": "Shavuot"
+      },
+      {
+        "id": "o3",
+        "ru": "Пурим",
+        "en": "Purim"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_yom_kippur",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется День искупления в иудаизме?",
+        "explanation": "С этим днём связаны пост, молитва и просьбы о прощении."
+      },
+      "en": {
+        "question": "What is the Jewish Day of Atonement called?",
+        "explanation": "Fasting, prayer and seeking forgiveness are associated with this day."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Йом-Кипур",
+        "en": "Yom Kippur"
+      },
+      {
+        "id": "o1",
+        "ru": "Рош ха-Шана",
+        "en": "Rosh Hashanah"
+      },
+      {
+        "id": "o2",
+        "ru": "Ханука",
+        "en": "Hanukkah"
+      },
+      {
+        "id": "o3",
+        "ru": "Песах",
+        "en": "Passover"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_hanukkah",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В какой еврейский праздник зажигают светильник восемь вечеров подряд?",
+        "explanation": "Праздник напоминает о повторном освящении Храма в Иерусалиме."
+      },
+      "en": {
+        "question": "During which Jewish holiday are lights kindled on eight successive evenings?",
+        "explanation": "The holiday commemorates the rededication of the Temple in Jerusalem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ханука",
+        "en": "Hanukkah"
+      },
+      {
+        "id": "o1",
+        "ru": "Пурим",
+        "en": "Purim"
+      },
+      {
+        "id": "o2",
+        "ru": "Суккот",
+        "en": "Sukkot"
+      },
+      {
+        "id": "o3",
+        "ru": "Шавуот",
+        "en": "Shavuot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.chabad.org/holidays/chanukah/article_cdo/aid/603798/jewish/How-to-Celebrate-Hanukkah.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_kesh",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Что означает кеш среди пяти символов веры посвящённых сикхов?",
+        "explanation": "Кеш относится к пяти признакам посвящения в сикхской традиции."
+      },
+      "en": {
+        "question": "What is kesh among the five articles of faith worn by initiated Sikhs?",
+        "explanation": "Kesh is one of the five signs of initiation in Sikh tradition."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нестриженые волосы",
+        "en": "Uncut hair"
+      },
+      {
+        "id": "o1",
+        "ru": "Гребень",
+        "en": "Comb"
+      },
+      {
+        "id": "o2",
+        "ru": "Стальной браслет",
+        "en": "Steel bracelet"
+      },
+      {
+        "id": "o3",
+        "ru": "Короткие штаны",
+        "en": "Short breeches"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.sikhcoalition.org/about-sikhs/identity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_kanga",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется гребень среди пяти символов веры посвящённых сикхов?",
+        "explanation": "Это небольшой гребень, который носят вместе с другими символами веры."
+      },
+      "en": {
+        "question": "What is the comb among the five articles of faith of initiated Sikhs called?",
+        "explanation": "It is a small comb worn along with the other articles of faith."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Канга",
+        "en": "Kanga"
+      },
+      {
+        "id": "o1",
+        "ru": "Кара",
+        "en": "Kara"
+      },
+      {
+        "id": "o2",
+        "ru": "Кеш",
+        "en": "Kesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Качера",
+        "en": "Kachera"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.sikhcoalition.org/about-sikhs/identity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_kara",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется стальной браслет среди пяти символов веры посвящённых сикхов?",
+        "explanation": "Кара относится к символам, которые носят после посвящения."
+      },
+      "en": {
+        "question": "What is the steel bracelet among the five articles of faith of initiated Sikhs called?",
+        "explanation": "The kara is one of the articles worn after initiation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кара",
+        "en": "Kara"
+      },
+      {
+        "id": "o1",
+        "ru": "Канга",
+        "en": "Kanga"
+      },
+      {
+        "id": "o2",
+        "ru": "Качера",
+        "en": "Kachera"
+      },
+      {
+        "id": "o3",
+        "ru": "Кеш",
+        "en": "Kesh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.sikhcoalition.org/about-sikhs/identity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_kirpan",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется сикхский символ веры в виде клинка?",
+        "explanation": "Кирпан входит в пятёрку символов, которые носят посвящённые сикхи."
+      },
+      "en": {
+        "question": "What is the Sikh article of faith shaped like a blade called?",
+        "explanation": "The kirpan is one of the five articles worn by initiated Sikhs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кирпан",
+        "en": "Kirpan"
+      },
+      {
+        "id": "o1",
+        "ru": "Кара",
+        "en": "Kara"
+      },
+      {
+        "id": "o2",
+        "ru": "Качера",
+        "en": "Kachera"
+      },
+      {
+        "id": "o3",
+        "ru": "Канга",
+        "en": "Kanga"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.sikhcoalition.org/about-sikhs/identity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_kachera",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называется предмет одежды из пяти символов веры посвящённых сикхов?",
+        "explanation": "Качера представляет собой короткие штаны."
+      },
+      "en": {
+        "question": "What is the garment among the five articles of faith of initiated Sikhs called?",
+        "explanation": "Kachera are short breeches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Качера",
+        "en": "Kachera"
+      },
+      {
+        "id": "o1",
+        "ru": "Канга",
+        "en": "Kanga"
+      },
+      {
+        "id": "o2",
+        "ru": "Кара",
+        "en": "Kara"
+      },
+      {
+        "id": "o3",
+        "ru": "Кирпан",
+        "en": "Kirpan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.sikhcoalition.org/about-sikhs/identity/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_krishna",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Воплощением какого божества считают Кришну во многих индуистских традициях?",
+        "explanation": "Вишну связан с сохранением мира."
+      },
+      "en": {
+        "question": "In many Hindu traditions, Krishna is described as an incarnation of which deity?",
+        "explanation": "Vishnu is associated with preserving the world."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вишну",
+        "en": "Vishnu"
+      },
+      {
+        "id": "o1",
+        "ru": "Шива",
+        "en": "Shiva"
+      },
+      {
+        "id": "o2",
+        "ru": "Брахма",
+        "en": "Brahma"
+      },
+      {
+        "id": "o3",
+        "ru": "Индра",
+        "en": "Indra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_brahma",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какого бога в индуистской триаде связывают с созданием мира?",
+        "explanation": "Сохранение мира в этой схеме связывают с Вишну."
+      },
+      "en": {
+        "question": "Which god in the Hindu triad is associated with creating the universe?",
+        "explanation": "In this scheme Vishnu is associated with preserving the world."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Брахма",
+        "en": "Brahma"
+      },
+      {
+        "id": "o1",
+        "ru": "Вишну",
+        "en": "Vishnu"
+      },
+      {
+        "id": "o2",
+        "ru": "Шива",
+        "en": "Shiva"
+      },
+      {
+        "id": "o3",
+        "ru": "Индра",
+        "en": "Indra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_samsara",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Каким словом в индийских религиозных традициях называют круг перерождений?",
+        "explanation": "С представлением о перерождении связано учение о последствиях поступков."
+      },
+      "en": {
+        "question": "Which term for the cycle of rebirth is used in Indian religious traditions?",
+        "explanation": "The idea of rebirth is connected with teachings about the consequences of actions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сансара",
+        "en": "Samsara"
+      },
+      {
+        "id": "o1",
+        "ru": "Карма",
+        "en": "Karma"
+      },
+      {
+        "id": "o2",
+        "ru": "Мокша",
+        "en": "Moksha"
+      },
+      {
+        "id": "o3",
+        "ru": "Дхарма",
+        "en": "Dharma"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_karma",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как в индуистской традиции называют связь поступков с их последствиями для следующих рождений?",
+        "explanation": "В этом учении значение имеют как добрые, так и дурные поступки."
+      },
+      "en": {
+        "question": "In Hindu tradition, what term connects actions to their consequences for later rebirths?",
+        "explanation": "Both good and bad actions matter in this teaching."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Карма",
+        "en": "Karma"
+      },
+      {
+        "id": "o1",
+        "ru": "Сансара",
+        "en": "Samsara"
+      },
+      {
+        "id": "o2",
+        "ru": "Мокша",
+        "en": "Moksha"
+      },
+      {
+        "id": "o3",
+        "ru": "Дхарма",
+        "en": "Dharma"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_moksha",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называют освобождение от круга перерождений в индуистской традиции?",
+        "explanation": "Круг, из которого стремятся освободиться, называют сансарой."
+      },
+      "en": {
+        "question": "What is release from the cycle of rebirth called in Hindu tradition?",
+        "explanation": "The cycle from which one seeks release is called samsara."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мокша",
+        "en": "Moksha"
+      },
+      {
+        "id": "o1",
+        "ru": "Дхарма",
+        "en": "Dharma"
+      },
+      {
+        "id": "o2",
+        "ru": "Карма",
+        "en": "Karma"
+      },
+      {
+        "id": "o3",
+        "ru": "Бхакти",
+        "en": "Bhakti"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_gita",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой индуистский текст учит действовать без привязанности к результату поступка?",
+        "explanation": "В приведённом наставлении важнее исполнить собственный долг, чем подражать чужому."
+      },
+      "en": {
+        "question": "Which Hindu text teaches action without attachment to its results?",
+        "explanation": "In the passage, doing one’s own duty matters more than copying another’s."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бхагавадгита",
+        "en": "Bhagavad Gita"
+      },
+      {
+        "id": "o1",
+        "ru": "Ригведа",
+        "en": "Rigveda"
+      },
+      {
+        "id": "o2",
+        "ru": "Рамаяна",
+        "en": "Ramayana"
+      },
+      {
+        "id": "o3",
+        "ru": "Вишну-пурана",
+        "en": "Vishnu Purana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_analects",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "В каком тексте собраны изречения, которые приписывают Конфуцию?",
+        "explanation": "Сборник составили после смерти учителя."
+      },
+      "en": {
+        "question": "Which text collects sayings attributed to Confucius?",
+        "explanation": "The collection was compiled after the teacher’s death."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лунь юй",
+        "en": "Analects"
+      },
+      {
+        "id": "o1",
+        "ru": "Дао дэ цзин",
+        "en": "Tao Te Ching"
+      },
+      {
+        "id": "o2",
+        "ru": "Чжуан-цзы",
+        "en": "Zhuangzi"
+      },
+      {
+        "id": "o3",
+        "ru": "Мэн-цзы",
+        "en": "Mengzi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_laozi",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какому мыслителю традиционно приписывают «Дао дэ цзин»?",
+        "explanation": "Этот текст стал одним из важных источников даосской мысли."
+      },
+      "en": {
+        "question": "Which thinker is traditionally credited with the Tao Te Ching?",
+        "explanation": "The text became an important source of Daoist thought."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лао-цзы",
+        "en": "Laozi"
+      },
+      {
+        "id": "o1",
+        "ru": "Конфуций",
+        "en": "Confucius"
+      },
+      {
+        "id": "o2",
+        "ru": "Хань Фэй-цзы",
+        "en": "Han Feizi"
+      },
+      {
+        "id": "o3",
+        "ru": "Мэн-цзы",
+        "en": "Mengzi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_wuwei",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называют даосский принцип недеяния или невмешательства?",
+        "explanation": "В политической мысли он предполагает, что правителю следует избегать лишнего вмешательства в жизнь людей."
+      },
+      "en": {
+        "question": "What is the Daoist principle of non-action or non-interference called?",
+        "explanation": "In political thought it suggests rulers should avoid needless interference in people’s lives."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "У-вэй",
+        "en": "Wuwei"
+      },
+      {
+        "id": "o1",
+        "ru": "Дао",
+        "en": "Dao"
+      },
+      {
+        "id": "o2",
+        "ru": "Ян",
+        "en": "Yang"
+      },
+      {
+        "id": "o3",
+        "ru": "Инь",
+        "en": "Yin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_dao",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какое слово в даосской традиции переводят как «путь»?",
+        "explanation": "Дао описывают как начало, пронизывающее человека и природу."
+      },
+      "en": {
+        "question": "Which term in Daoist tradition is translated as “the way”?",
+        "explanation": "Dao is described as an underlying influence in human life and nature."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дао",
+        "en": "Dao"
+      },
+      {
+        "id": "o1",
+        "ru": "У-вэй",
+        "en": "Wuwei"
+      },
+      {
+        "id": "o2",
+        "ru": "Инь",
+        "en": "Yin"
+      },
+      {
+        "id": "o3",
+        "ru": "Ян",
+        "en": "Yang"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_ahura",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Кого в зороастрийской традиции называют владыкой мудрости?",
+        "explanation": "Ахура-Мазду связывают с благим началом мироздания."
+      },
+      "en": {
+        "question": "Who is called the lord of wisdom in Zoroastrian tradition?",
+        "explanation": "Ahura Mazda is associated with the good principle of creation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ахура-Мазда",
+        "en": "Ahura Mazda"
+      },
+      {
+        "id": "o1",
+        "ru": "Ангра-Майнью",
+        "en": "Angra Mainyu"
+      },
+      {
+        "id": "o2",
+        "ru": "Воху-Мана",
+        "en": "Vohu Manah"
+      },
+      {
+        "id": "o3",
+        "ru": "Йима",
+        "en": "Yima"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00111/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_angra",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как в зороастрийских текстах называют разрушительный дух?",
+        "explanation": "В традиции этот дух противостоит Ахура-Мазде."
+      },
+      "en": {
+        "question": "What is the destructive spirit called in Zoroastrian texts?",
+        "explanation": "In the tradition this spirit opposes Ahura Mazda."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ангра-Майнью",
+        "en": "Angra Mainyu"
+      },
+      {
+        "id": "o1",
+        "ru": "Ахура-Мазда",
+        "en": "Ahura Mazda"
+      },
+      {
+        "id": "o2",
+        "ru": "Воху-Мана",
+        "en": "Vohu Manah"
+      },
+      {
+        "id": "o3",
+        "ru": "Йима",
+        "en": "Yima"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00111/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_gathas",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как называются древние песнопения, составляющие часть зороастрийской Ясны?",
+        "explanation": "Их делят на пять групп по стихотворному размеру."
+      },
+      "en": {
+        "question": "What are the ancient songs that form part of the Zoroastrian Yasna called?",
+        "explanation": "They are arranged in five groups by poetic metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гаты",
+        "en": "Gathas"
+      },
+      {
+        "id": "o1",
+        "ru": "Яшты",
+        "en": "Yashts"
+      },
+      {
+        "id": "o2",
+        "ru": "Упанишады",
+        "en": "Upanishads"
+      },
+      {
+        "id": "o3",
+        "ru": "Пураны",
+        "en": "Puranas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iranicaonline.org/articles/gathas-i-texts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_nowruz",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой весенний Новый год входит в число главных зороастрийских праздников?",
+        "explanation": "В традиционном календаре его отмечают наряду с шестью сезонными праздниками гаханбарами."
+      },
+      "en": {
+        "question": "Which spring New Year is among the major Zoroastrian festivals?",
+        "explanation": "The traditional calendar observes it alongside six seasonal feasts called gahanbars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Навруз",
+        "en": "Nowruz"
+      },
+      {
+        "id": "o1",
+        "ru": "Фравардиган",
+        "en": "Frawardigan"
+      },
+      {
+        "id": "o2",
+        "ru": "Сада",
+        "en": "Sada"
+      },
+      {
+        "id": "o3",
+        "ru": "Мехреган",
+        "en": "Mehrgan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iranicaonline.org/articles/festivals-index/festivals-i/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_gahanbar",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Сколько гаханбаров, сезонных праздников, включает традиционный зороастрийский календарь?",
+        "explanation": "Вместе с Наврузом они составляют семь главных обязательных праздников."
+      },
+      "en": {
+        "question": "How many seasonal feasts called gahanbars are in the traditional Zoroastrian calendar?",
+        "explanation": "Together with Nowruz they form seven principal obligatory feasts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o1",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o2",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o3",
+        "ru": "12",
+        "en": "12"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iranicaonline.org/articles/festivals-index/festivals-i/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_amaterasu",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Как звали богиню солнца в синтоистской традиции?",
+        "explanation": "С преданием об Аматэрасу связывали происхождение рода Ямато."
+      },
+      "en": {
+        "question": "What was the name of the sun goddess in Shinto tradition?",
+        "explanation": "The Yamato lineage was traditionally linked to Amaterasu."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аматэрасу",
+        "en": "Amaterasu"
+      },
+      {
+        "id": "o1",
+        "ru": "Идзанами",
+        "en": "Izanami"
+      },
+      {
+        "id": "o2",
+        "ru": "Коноханасакуя",
+        "en": "Konohanasakuya"
+      },
+      {
+        "id": "o3",
+        "ru": "Удзумэ",
+        "en": "Uzume"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00155/index.cnxml"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_itsukushima",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какое синтоистское святилище находится на одноимённом острове во Внутреннем Японском море?",
+        "explanation": "Постройки святилища образуют ансамбль между морем и горой Мисэн."
+      },
+      "en": {
+        "question": "Which Shinto shrine stands on an island of the same name in Japan’s Seto Inland Sea?",
+        "explanation": "The shrine buildings form a group between the sea and Mount Misen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ицукусима",
+        "en": "Itsukushima"
+      },
+      {
+        "id": "o1",
+        "ru": "Исе",
+        "en": "Ise"
+      },
+      {
+        "id": "o2",
+        "ru": "Хэйан",
+        "en": "Heian"
+      },
+      {
+        "id": "o3",
+        "ru": "Касуга",
+        "en": "Kasuga"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/776/"
+    ],
+    "image": null
+  },
+  {
+    "id": "world_religions_m50_soga",
+    "categoryId": "world_religions",
+    "type": "single_choice",
+    "revision": 1,
+    "difficulty": "medium",
+    "localizations": {
+      "ru": {
+        "question": "Какой род поддержал распространение буддизма при японском дворе в конце VI века?",
+        "explanation": "Из рода Сога происходила мать императрицы Суйко."
+      },
+      "en": {
+        "question": "Which clan supported Buddhism at the Japanese court in the late sixth century?",
+        "explanation": "Empress Suiko’s mother belonged to the Soga clan."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сога",
+        "en": "Soga"
+      },
+      {
+        "id": "o1",
+        "ru": "Мононобэ",
+        "en": "Mononobe"
+      },
+      {
+        "id": "o2",
+        "ru": "Накатоми",
+        "en": "Nakatomi"
+      },
+      {
+        "id": "o3",
+        "ru": "Фудзивара",
+        "en": "Fujiwara"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00155/index.cnxml"
+    ],
+    "image": null
   }
 ]

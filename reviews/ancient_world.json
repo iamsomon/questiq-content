@@ -188,5 +188,725 @@
       }
     ],
     "reviewNotes": "UNESCO gives discovery 1974 and describes warriors, horses and chariots. Other dates do not answer archaeological discovery: 1987 was inscription, not excavation discovery. Scope is army discovery, not when the already visible tomb mound became known. Both languages match."
+  },
+  {
+    "id": "ancient_world_m50_consul",
+    "status": "approved",
+    "sha256": "2a28522295d131b810484211191217dba4b6aaa91b6b84aa15d43e3024e607fb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for consul",
+        "claim": "What was the highest elected office of the Roman Republic, held by two officials at once? Answer: Consul. After 367 BCE, one of the two consuls had to be a plebeian."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_senate",
+    "status": "approved",
+    "sha256": "bd8116076abf31cb968e2931d71bdc75a9e0bc5e5bcbe9bf0856ce4d27aea133",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for senate",
+        "claim": "Which Roman Republican body directed foreign policy and controlled the spending of public funds? Answer: Senate. Former elected officials joined the Senate after serving their terms."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_patricians",
+    "status": "approved",
+    "sha256": "59f993171b1b1bd5434bb75c260c94d991d97cd0128a4dda3e8aefd5b5596f18",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for patricians",
+        "claim": "What was the hereditary elite of the early Roman Republic called? Answer: Patricians. In the early Republic this group had the exclusive right to hold public office."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_tribune_count",
+    "status": "approved",
+    "sha256": "73421ec446126e94d3a24fee95c1850cf735080106856937e7fd52ce5ae0026c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for plebs_assembly",
+        "claim": "How many tribunes of the plebs did the Plebeian Assembly elect each year? Answer: 10. Only plebeians could vote in this assembly."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_veto",
+    "status": "approved",
+    "sha256": "1f477e6da7c23ffce78c357d8afe250b3b1e855316bacd9b18a99ef5ef9a87f7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for veto",
+        "claim": "What word could a Roman tribune use to block a decision that harmed the plebeians? Answer: Veto. It means “I forbid” in Latin."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_dictator",
+    "status": "approved",
+    "sha256": "b46695656298536ae1de18945753da3c9551eecde08000a118db724189aa55ef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for dictator",
+        "claim": "Which Roman Republican office granted temporary emergency authority? Answer: Dictator. A dictator received extraordinary power to handle the crisis during the appointment."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_quaestor",
+    "status": "approved",
+    "sha256": "532df615cc102d5a00688d607f791fed22fbe69878d74cee85d15f7dedba72cd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for quaestor",
+        "claim": "Which Roman magistrate was responsible for public funds? Answer: Quaestor. The Tribal Assembly elected quaestors annually."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_censor",
+    "status": "approved",
+    "sha256": "64ff98c4d7fef97c2663aeb437c277ef357426b0079072c0ea69a8cb88239a85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for censor",
+        "claim": "Which Roman magistrate carried out the census and assessed citizens’ wealth? Answer: Censor. Assessing property was one of the census’s main purposes."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_twelve_tables",
+    "status": "approved",
+    "sha256": "bfd6e8e1b4ef5b3daab36a54c507795ad7a930b1d4b466ff87fe9d3e711106b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for twelve_tables",
+        "claim": "What was the early written code of the Roman Republic displayed in the Forum called? Answer: Laws of the Twelve Tables. Publishing the laws allowed citizens to see the rules that applied to them."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_hannibal",
+    "status": "approved",
+    "sha256": "4462cbb6e32645399c7e5f87d584dcec4a8f5527f8a95adcf98c3b8d9eb97983",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-1-the-roman-republic",
+        "location": "OpenStax World History Volume 1, The Roman Republic, CNXML module m00135; corresponding passage for hannibal",
+        "claim": "Which Carthaginian general crossed the Alps with elephants in the Second Punic War? Answer: Hannibal. His march into Italy began in the Iberian Peninsula."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_augustus",
+    "status": "approved",
+    "sha256": "101885807d1d6e4f3b88e41d8441660551757d857b42879ea5a5e5a0dbfc3586",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for augustus",
+        "claim": "What name was given to Octavian, who became Rome’s first emperor? Answer: Augustus. He kept several Republican institutions while concentrating power in his own hands."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_tiberius",
+    "status": "approved",
+    "sha256": "4c3e02d4e1573b478635bf151997a318bc3d59b466b547b0ea6d77f80e1f52cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for tiberius",
+        "claim": "Who succeeded Augustus as Roman emperor in AD 14? Answer: Tiberius. Tiberius was Augustus’s stepson and an experienced commander."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_claudius",
+    "status": "approved",
+    "sha256": "b5c4245a4895f78786b47425eb51e09aac5bae0ad0755b64ee6e4631327d0599",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for claudius",
+        "claim": "Under which emperor did Rome acquire its province of Britain? Answer: Claudius. The new province covered areas of present-day England and Wales."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_nero",
+    "status": "approved",
+    "sha256": "93c61058b3525b725cac0e72642cc19f2a5fb349c30c347eb96fc36d48bfca6b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for nero",
+        "claim": "Which emperor succeeded his great-uncle Claudius? Answer: Nero. Nero’s mother Agrippina played a prominent role early in his reign."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_vespasian",
+    "status": "approved",
+    "sha256": "6254f104b4b8b3e73f94b9ff239b164d0c589615d518fb1b54415339e21cda20",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for vespasian",
+        "claim": "Who secured power at the end of Rome’s Year of the Four Emperors? Answer: Vespasian. Vespasian reigned from AD 69 to 79 and took the title Augustus."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_actium",
+    "status": "approved",
+    "sha256": "474ad049d1e1828691c1f736a8796b2e0d50755fd662ddf0db0466a378a5bb7b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-2-the-age-of-augustus",
+        "location": "OpenStax World History Volume 1, The Age of Augustus, CNXML module m00136; corresponding passage for actium",
+        "claim": "In which naval battle did Octavian defeat the forces of Antony and Cleopatra in 31 BCE? Answer: Battle of Actium. The battle took place off northwestern Greece. Octavian then invaded Egypt."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_hadrian",
+    "status": "approved",
+    "sha256": "c874a93727f5e6c4d7968a06d6e6553a84e1e6bc6bc80f6c5f74814a3e8efbb6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+        "location": "OpenStax World History Volume 1, The Regions of Rome, CNXML module m00142; corresponding passage for hadrian",
+        "claim": "Which emperor gave his name to the Roman wall that marked a frontier in northern Britain? Answer: Hadrian. The Romans built the fortification in the early second century."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_annona",
+    "status": "approved",
+    "sha256": "58384ee42d2ce35fbeb37486244f7df7d3d67d53123ed632159ff7e74280196f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-3-the-roman-economy-trade-taxes-and-conquest",
+        "location": "OpenStax World History Volume 1, The Roman Economy: Trade, Taxes, and Conquest, CNXML module m00140; corresponding passage for annona",
+        "claim": "What was the system for distributing grain to the people of ancient Rome called? Answer: Annona. The emperor appointed a prefect to oversee grain delivery and distribution."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_diocletian",
+    "status": "approved",
+    "sha256": "2be766865d0df1cc7f39e7f69635f09727d78b2c69fc7aca06419690575c5130",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-3-the-roman-economy-trade-taxes-and-conquest",
+        "location": "OpenStax World History Volume 1, The Roman Economy: Trade, Taxes, and Conquest, CNXML module m00140; corresponding passage for diocletian",
+        "claim": "Which emperor tried to curb rising prices with a special edict in AD 301? Answer: Diocletian. The edict set maximum prices for a range of goods and services."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_constantine",
+    "status": "approved",
+    "sha256": "1745211d974b90d4ee8894809441f76e466013d2014e9d7a7a17c212af7c13a1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+        "location": "OpenStax World History Volume 1, Religion in the Roman Empire, CNXML module m00141; corresponding passage for constantine",
+        "claim": "Which emperor made Constantinople a new capital of the Roman Empire? Answer: Constantine I. Under Constantine, Christians were allowed to practise their religion openly."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_polis",
+    "status": "approved",
+    "sha256": "0866e23a9e8e841c942d7aa35362ea54372dace16ea8c28627c931d9b3a52293",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for polis",
+        "claim": "What did the ancient Greeks call an independent city-state? Answer: Polis. Each polis had its own government and religious cults."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_acropolis",
+    "status": "approved",
+    "sha256": "a23c438de82e63ed25f0db0f6591e35a307c0078514306aeeb60cb5a82c68f1b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for acropolis",
+        "claim": "What was the fortified hill in an ancient Greek town called? Answer: Acropolis. Inhabitants could take refuge there in times of danger."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_agora",
+    "status": "approved",
+    "sha256": "fb2b7399ae3105e918a2a941a1682509efc043dd3537396337d29a936fd5693b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for agora",
+        "claim": "What was the public square for assemblies and trade in a Greek polis called? Answer: Agora. The spread of coinage helped these squares develop as marketplaces."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_helots",
+    "status": "approved",
+    "sha256": "d0795cab3f0b6e7b6dde215e7ac6262a14504a186de7ebc214f38365913f9eab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for helots",
+        "claim": "What were the dependent farm workers on Spartan citizens’ estates called? Answer: Helots. Helots were tied to the land where their families worked for generations."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_solon",
+    "status": "approved",
+    "sha256": "ea55b9d3bcd5f941d5a6de1e6d9f1849e80a34c3f7eda8a521ac2fb51420fc4f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for solon",
+        "claim": "Which Athenian lawgiver began reforms in 594 BCE? Answer: Solon. Solon was also a poet and expressed his ideas about laws in verse."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_delian",
+    "status": "approved",
+    "sha256": "e91135d1f0db721590efab37791e03ee1a2d48a3a5a477f2059969c2f5bf6950",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for delian",
+        "claim": "Which alliance of Greek city-states originally had its headquarters on Delos? Answer: Delian League. Members could contribute ships or pay Athens to equip the fleet."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_peloponnesian",
+    "status": "approved",
+    "sha256": "bdf42df9fa8431defa042dad5d8f12020e82dc163468eeb5887fb31380ca4b4e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for peloponnesian",
+        "claim": "Which city-state led the Peloponnesian League? Answer: Sparta. Members retained self-government but followed Sparta’s lead on allies and enemies."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_alphabet",
+    "status": "approved",
+    "sha256": "4b18253814f1fa72c3ab6641cbda4f7a47414b18b561667fe388c5389ce7ef7c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "location": "OpenStax World History Volume 1, Ancient Greece, CNXML module m00133; corresponding passage for alphabet",
+        "claim": "Which alphabet provided the basis for ancient Greek writing? Answer: Phoenician. The alphabet spread through Mediterranean trading contacts."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_museon",
+    "status": "approved",
+    "sha256": "87da07d64b6724a03bf78ff34871d111c301c45533e30e0c484f15ff432d869c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-3-the-hellenistic-era",
+        "location": "OpenStax World History Volume 1, The Hellenistic Era, CNXML module m00134; corresponding passage for museon",
+        "claim": "In which city did the Ptolemies establish the Museon, a centre for science and literature? Answer: Alexandria. Museon means “home of the Muses” and gives us the word “museum”."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_hellenistic",
+    "status": "approved",
+    "sha256": "56f09c23c3a2eacdd015a67399424f11502f109ffa256cb37e332f2a476de9bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-3-the-hellenistic-era",
+        "location": "OpenStax World History Volume 1, The Hellenistic Era, CNXML module m00134; corresponding passage for hellenistic",
+        "claim": "What is the era that began after Alexander the Great’s death called? Answer: Hellenistic era. Greek and local traditions blended in the lands of his former empire during this era."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_mastaba",
+    "status": "approved",
+    "sha256": "04e9abc9c70daf55471e2f1d543bf2257ac86a106faf94d28ea1c37c8feee656",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for mastaba",
+        "claim": "What were Egyptian mastabas commonly made of before the age of pyramids? Answer: Mud brick. Mastabas served as tombs. The Step Pyramid developed this form."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_djoser",
+    "status": "approved",
+    "sha256": "d5fa6a2e9489422d93f1d9e11e8fdffee8b10a8145d692313df7b7a672c9fab4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for djoser",
+        "claim": "For which pharaoh was the Step Pyramid at Saqqara built? Answer: Djoser. Djoser’s pyramid consists of six steps."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_imhotep",
+    "status": "approved",
+    "sha256": "026bd7a330798cbc942fae7ef1f716f1f40005c050027f1a44a260020c6a2ef9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for imhotep",
+        "claim": "Who designed Pharaoh Djoser’s funerary complex? Answer: Imhotep. Imhotep surrounded the Step Pyramid with a complex that included temples."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_sneferu",
+    "status": "approved",
+    "sha256": "93a66d6c79ae5cf6cce86132e9e1b05413678d927787d12cb4e76f3c81d72464",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for sneferu",
+        "claim": "During whose reign was the Red Pyramid built? Answer: Sneferu. Its name comes from the reddish limestone exposed after the white facing was lost."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_old_kingdom",
+    "status": "approved",
+    "sha256": "377f361b7d4cf9c11cacc2399996fce9d7101176d42ac59e9a9cf81a9d253d16",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for old_kingdom",
+        "claim": "Which period of ancient Egypt produced the three main pyramids at Giza? Answer: Old Kingdom. The pyramids of Khufu, Khafre and Menkaure were built in the third millennium BCE."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_nomarch",
+    "status": "approved",
+    "sha256": "e7f45daa028ec52613a3acaee9497c286fde607ea4b35519e404019fc17b1eb7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for nomarch",
+        "claim": "What were regional governors in ancient Egypt called? Answer: Nomarchs. By the end of the Old Kingdom, some regional governors had gained considerable wealth and power."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_hieratic",
+    "status": "approved",
+    "sha256": "c8762d6690faf69f42084c4259e1695bae60116814928eb9bde9369b87fb9a85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for hieratic",
+        "claim": "What was the cursive form of Egyptian writing used for everyday records called? Answer: Hieratic. Scribes used it, for example, to issue receipts for trade."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_ka_ba",
+    "status": "approved",
+    "sha256": "f41e5cb58d825fbaeb13f6a888aca32265409727320b3cb6135a041e5052d484",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for ka_ba",
+        "claim": "Which two concepts in ancient Egyptian belief help explain the practice of mummification? Answer: Ka and Ba. Preserving the body was believed to matter for the continued existence of the Ka and Ba."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_pharaoh",
+    "status": "approved",
+    "sha256": "49f7e8cb3486b82d69a16b323284d3c53c49876ecdb11bafeb585e6b80815b57",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for red_limestone",
+        "claim": "What title is used for the ruler of ancient Egypt? Answer: Pharaoh. The large pyramids emerged under rulers of the Old Kingdom."
+      }
+    ]
+  },
+  {
+    "id": "ancient_world_m50_amenemhat",
+    "status": "approved",
+    "sha256": "6178f3cd3cf2b651c5242487436ba785632666a3bfae9ac7af46e33deb226ae6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Compared facts to the OpenStax chapters on Egypt, Greece, the Roman Republic and Roman Empire, and separately reviewed both locales and all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt",
+        "location": "OpenStax World History Volume 1, Ancient Egypt, CNXML module m00106; corresponding passage for amenemhat",
+        "claim": "Which former vizier became pharaoh and founded a dynasty during Egypt’s Middle Kingdom? Answer: Amenemhat I. Amenemhat’s dynasty ruled for about two centuries."
+      }
+    ]
   }
 ]

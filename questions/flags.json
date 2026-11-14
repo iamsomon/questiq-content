@@ -438,5 +438,1765 @@
       "https://www.royal.uk/union-jack"
     ],
     "image": null
+  },
+  {
+    "id": "flags_m50_nepal",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены два наложенных треугольных вымпела, белые солнце и луна?",
+        "explanation": "На верхнем треугольнике изображена луна, на нижнем — солнце."
+      },
+      "en": {
+        "question": "Which country’s flag features two stacked triangular pennants with a white sun and moon?",
+        "explanation": "The upper triangle bears the moon, and the lower one bears the sun."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o1",
+        "ru": "Бутан",
+        "en": "Bhutan"
+      },
+      {
+        "id": "o2",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o3",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/np.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_bhutan",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть белый дракон на диагонально разделённом жёлто-оранжевом поле?",
+        "explanation": "Дракона называют Друк, или Громовой дракон."
+      },
+      "en": {
+        "question": "Which country’s flag features a white dragon on a diagonally divided yellow and orange field?",
+        "explanation": "The emblem is called the Druk, or Thunder Dragon."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бутан",
+        "en": "Bhutan"
+      },
+      {
+        "id": "o1",
+        "ru": "Непал",
+        "en": "Nepal"
+      },
+      {
+        "id": "o2",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/bt.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_sri_lanka",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть золотой лев с мечом на бордовом поле?",
+        "explanation": "У древка находятся зелёная и оранжевая полосы."
+      },
+      "en": {
+        "question": "Which country’s flag features a golden lion carrying a sword on a maroon field?",
+        "explanation": "Green and orange stripes appear at the hoist."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шри-Ланка",
+        "en": "Sri Lanka"
+      },
+      {
+        "id": "o1",
+        "ru": "Бутан",
+        "en": "Bhutan"
+      },
+      {
+        "id": "o2",
+        "ru": "Бангладеш",
+        "en": "Bangladesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Пакистан",
+        "en": "Pakistan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/ce.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_mexico",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть орёл со змеёй, сидящий на кактусе в центре зелёно-бело-красного полотнища?",
+        "explanation": "Орёл со змеёй на кактусе входит в герб страны."
+      },
+      "en": {
+        "question": "Which country’s flag features an eagle with a snake on a cactus in the centre of a green-white-red flag?",
+        "explanation": "The eagle with a snake on a cactus is part of the national coat of arms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o1",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o2",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o3",
+        "ru": "Италия",
+        "en": "Italy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/north-america/mx.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_brazil",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть жёлтый ромб с синим звёздным кругом на зелёном поле?",
+        "explanation": "На белой ленте внутри круга находится девиз страны."
+      },
+      "en": {
+        "question": "Which country’s flag features a yellow diamond with a blue starry globe on a green field?",
+        "explanation": "A white band across the globe carries the national motto."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o3",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/br.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_argentina",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть золотое Солнце Мая между двумя голубыми горизонтальными полосами?",
+        "explanation": "Солнце имеет человеческое лицо и расположено на белой полосе."
+      },
+      "en": {
+        "question": "Which country’s flag features a golden Sun of May between two light-blue horizontal bands?",
+        "explanation": "The sun has a human face and sits in the white band."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o1",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      },
+      {
+        "id": "o2",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o3",
+        "ru": "Бразилия",
+        "en": "Brazil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ar.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_uruguay",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть Солнце Мая в белом верхнем углу у древка и девять чередующихся полос?",
+        "explanation": "У солнца 16 лучей, прямые и волнистые чередуются."
+      },
+      "en": {
+        "question": "Which country’s flag features the Sun of May in a white upper hoist canton with nine alternating stripes?",
+        "explanation": "The sun has 16 rays, alternating between straight and wavy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      },
+      {
+        "id": "o1",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      },
+      {
+        "id": "o2",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o3",
+        "ru": "Чили",
+        "en": "Chile"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/uy.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_chile",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть белая звезда в синем углу над сплошной красной нижней полосой?",
+        "explanation": "Синий квадрат у древка занимает только верхнюю половину по высоте."
+      },
+      "en": {
+        "question": "Which country’s flag features one white star in a blue canton above a full-width red lower stripe?",
+        "explanation": "The blue square at the hoist is only half the flag’s height."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o1",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o2",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ci.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_peru",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На государственном флаге какой страны герб расположен между двумя красными вертикальными полосами?",
+        "explanation": "На щите изображены викунья, хинное дерево и рог изобилия."
+      },
+      "en": {
+        "question": "Which country’s state flag has a coat of arms between two vertical red bands?",
+        "explanation": "The shield contains a vicuña, a cinchona tree and a cornucopia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перу",
+        "en": "Peru"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/pe.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_colombia",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть жёлтая верхняя полоса вдвое выше синей и красной, без герба?",
+        "explanation": "Жёлтая полоса занимает верхнюю половину полотнища."
+      },
+      "en": {
+        "question": "Which country’s flag features a yellow upper band twice as tall as each blue and red band, with no coat of arms?",
+        "explanation": "The yellow band occupies the upper half of the flag."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o1",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o2",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/co.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_ecuador",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны герб находится на жёлто-сине-красном фоне, причём жёлтая полоса занимает половину высоты?",
+        "explanation": "Герб отличает этот вариант от похожего жёлто-сине-красного флага Колумбии."
+      },
+      "en": {
+        "question": "Which country’s flag has a coat of arms on yellow, blue and red bands, with yellow taking up half the height?",
+        "explanation": "The coat of arms distinguishes this design from Colombia’s similar yellow, blue and red flag."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o1",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o2",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o3",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ec.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_venezuela",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть дуга из восьми белых звёзд на средней синей полосе?",
+        "explanation": "Восьмую звезду добавили в 2006 году."
+      },
+      "en": {
+        "question": "Which country’s flag features an arc of eight white stars on the middle blue stripe?",
+        "explanation": "The eighth star was added in 2006."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Венесуэла",
+        "en": "Venezuela"
+      },
+      {
+        "id": "o1",
+        "ru": "Колумбия",
+        "en": "Colombia"
+      },
+      {
+        "id": "o2",
+        "ru": "Эквадор",
+        "en": "Ecuador"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ve.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_paraguay",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны герб на лицевой стороне сменяется печатью казначейства на обороте?",
+        "explanation": "На одной стороне находится герб, на другой — печать казначейства со львом."
+      },
+      "en": {
+        "question": "Which country’s flag has its coat of arms on one side and its treasury seal on the reverse?",
+        "explanation": "One side bears the coat of arms, and the other the treasury seal with a lion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      },
+      {
+        "id": "o1",
+        "ru": "Нидерланды",
+        "en": "Netherlands"
+      },
+      {
+        "id": "o2",
+        "ru": "Россия",
+        "en": "Russia"
+      },
+      {
+        "id": "o3",
+        "ru": "Сербия",
+        "en": "Serbia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/pa.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_jamaica",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть золотой косой крест между чёрными и зелёными треугольниками?",
+        "explanation": "Чёрные поля находятся по сторонам, зелёные — сверху и снизу."
+      },
+      "en": {
+        "question": "Which country’s flag features a gold diagonal cross separating black and green triangles?",
+        "explanation": "Black fields are at the sides and green is at the top and bottom."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o3",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/jm.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_barbados",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть чёрная головка трезубца на золотистой средней полосе?",
+        "explanation": "По обе стороны центральной полосы находятся синие поля."
+      },
+      "en": {
+        "question": "Which country’s flag features a black trident head on a golden middle stripe?",
+        "explanation": "Blue bands flank the central stripe."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o1",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      },
+      {
+        "id": "o2",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o3",
+        "ru": "Антигуа и Барбуда",
+        "en": "Antigua and Barbuda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/bb.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_cuba",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть белая звезда в красном треугольнике и пять сине-белых полос?",
+        "explanation": "Треугольник расположен у древка."
+      },
+      "en": {
+        "question": "Which country’s flag features a white star in a red triangle and five blue-and-white stripes?",
+        "explanation": "The triangle sits at the hoist."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o2",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o3",
+        "ru": "Уругвай",
+        "en": "Uruguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/cu.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_antigua",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть восходящее жёлтое солнце над синей и белой полосами между красными секторами?",
+        "explanation": "Солнце изображено на чёрном фоне."
+      },
+      "en": {
+        "question": "Which country’s flag features a rising yellow sun above blue and white bands between red sections?",
+        "explanation": "The sun appears on a black background."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антигуа и Барбуда",
+        "en": "Antigua and Barbuda"
+      },
+      {
+        "id": "o1",
+        "ru": "Барбадос",
+        "en": "Barbados"
+      },
+      {
+        "id": "o2",
+        "ru": "Ямайка",
+        "en": "Jamaica"
+      },
+      {
+        "id": "o3",
+        "ru": "Белиз",
+        "en": "Belize"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/ac.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_belize",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены две человеческие фигуры в белом круге на синем поле?",
+        "explanation": "Круг содержит герб, а по краям полотнища проходят красные полосы."
+      },
+      "en": {
+        "question": "Which country’s flag features two human figures inside a white circle on a blue field?",
+        "explanation": "The circle contains the coat of arms and red stripes edge the flag."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o1",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o2",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o3",
+        "ru": "Перу",
+        "en": "Peru"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/bh.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_guatemala",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть герб с птицей кетцаль между двумя голубыми вертикальными полосами?",
+        "explanation": "На гербе птица находится над свитком."
+      },
+      "en": {
+        "question": "Which country’s flag features a coat of arms with a quetzal between two light-blue vertical stripes?",
+        "explanation": "The bird sits above a scroll in the coat of arms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гватемала",
+        "en": "Guatemala"
+      },
+      {
+        "id": "o1",
+        "ru": "Мексика",
+        "en": "Mexico"
+      },
+      {
+        "id": "o2",
+        "ru": "Белиз",
+        "en": "Belize"
+      },
+      {
+        "id": "o3",
+        "ru": "Аргентина",
+        "en": "Argentina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/gt.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_panama",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены четыре прямоугольника, два белых с красной и синей звёздами?",
+        "explanation": "Оставшиеся прямоугольники однотонные, синий и красный."
+      },
+      "en": {
+        "question": "Which country’s flag features four rectangles, two white ones bearing red and blue stars?",
+        "explanation": "The other rectangles are solid blue and red."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Панама",
+        "en": "Panama"
+      },
+      {
+        "id": "o1",
+        "ru": "Чили",
+        "en": "Chile"
+      },
+      {
+        "id": "o2",
+        "ru": "Куба",
+        "en": "Cuba"
+      },
+      {
+        "id": "o3",
+        "ru": "Парагвай",
+        "en": "Paraguay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/pm.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_sweden",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть жёлтый скандинавский крест на синем поле?",
+        "explanation": "Жёлтый и синий цвета взяты из шведского герба."
+      },
+      "en": {
+        "question": "Which country’s flag features a yellow Nordic cross on a blue field?",
+        "explanation": "The yellow and blue come from Sweden’s coat of arms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o1",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o2",
+        "ru": "Финляндия",
+        "en": "Finland"
+      },
+      {
+        "id": "o3",
+        "ru": "Исландия",
+        "en": "Iceland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/sw.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_finland",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны синий скандинавский крест расположен на белом поле?",
+        "explanation": "Вертикальная часть креста смещена к древку."
+      },
+      "en": {
+        "question": "Which country has a blue Nordic cross on a white field?",
+        "explanation": "The vertical arm of the cross is offset towards the hoist."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Финляндия",
+        "en": "Finland"
+      },
+      {
+        "id": "o1",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o2",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o3",
+        "ru": "Норвегия",
+        "en": "Norway"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/fi.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_iceland",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть красный скандинавский крест с белой каймой на синем фоне?",
+        "explanation": "Красный цвет связывают с вулканами, а белый — со снегом и льдом."
+      },
+      "en": {
+        "question": "Which country’s flag features a red Nordic cross edged in white on blue?",
+        "explanation": "Red is associated with volcanoes, while white represents snow and ice."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o1",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o2",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o3",
+        "ru": "Швеция",
+        "en": "Sweden"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/ic.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_norway",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть синий скандинавский крест с белой каймой на красном фоне?",
+        "explanation": "Белая кайма отделяет синий крест от красного поля."
+      },
+      "en": {
+        "question": "Which country’s flag features a blue Nordic cross edged in white on red?",
+        "explanation": "A white border separates the blue cross from the red field."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o1",
+        "ru": "Исландия",
+        "en": "Iceland"
+      },
+      {
+        "id": "o2",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o3",
+        "ru": "Финляндия",
+        "en": "Finland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/no.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_denmark",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть белый скандинавский крест на красном фоне?",
+        "explanation": "Этот флаг также называют Даннеброгом."
+      },
+      "en": {
+        "question": "Which country’s flag features a white Nordic cross on red?",
+        "explanation": "This flag is also called the Dannebrog."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дания",
+        "en": "Denmark"
+      },
+      {
+        "id": "o1",
+        "ru": "Швеция",
+        "en": "Sweden"
+      },
+      {
+        "id": "o2",
+        "ru": "Норвегия",
+        "en": "Norway"
+      },
+      {
+        "id": "o3",
+        "ru": "Исландия",
+        "en": "Iceland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/da.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_estonia",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены горизонтальные синяя, чёрная и белая полосы в таком порядке?",
+        "explanation": "Чёрная полоса проходит посередине."
+      },
+      "en": {
+        "question": "Which country’s flag features horizontal blue, black and white bands in that order?",
+        "explanation": "The black band runs through the middle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o1",
+        "ru": "Латвия",
+        "en": "Latvia"
+      },
+      {
+        "id": "o2",
+        "ru": "Литва",
+        "en": "Lithuania"
+      },
+      {
+        "id": "o3",
+        "ru": "Германия",
+        "en": "Germany"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/en.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_latvia",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть узкая белая горизонтальная полоса между двумя тёмно-красными?",
+        "explanation": "Белая полоса уже каждой красной."
+      },
+      "en": {
+        "question": "Which country’s flag features a narrow white horizontal band between two dark-red bands?",
+        "explanation": "The white band is narrower than either red band."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Латвия",
+        "en": "Latvia"
+      },
+      {
+        "id": "o1",
+        "ru": "Литва",
+        "en": "Lithuania"
+      },
+      {
+        "id": "o2",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o3",
+        "ru": "Австрия",
+        "en": "Austria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/lg.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_lithuania",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены горизонтальные жёлтая, зелёная и красная полосы в таком порядке?",
+        "explanation": "Зелёная полоса проходит посередине."
+      },
+      "en": {
+        "question": "Which country’s flag features horizontal yellow, green and red bands in that order?",
+        "explanation": "The green band runs through the middle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Литва",
+        "en": "Lithuania"
+      },
+      {
+        "id": "o1",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o2",
+        "ru": "Латвия",
+        "en": "Latvia"
+      },
+      {
+        "id": "o3",
+        "ru": "Гана",
+        "en": "Ghana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/lh.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_belgium",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены вертикальные чёрная, жёлтая и красная полосы от древка?",
+        "explanation": "Цвета связаны с гербом герцогства Брабант."
+      },
+      "en": {
+        "question": "Which country’s flag features vertical black, yellow and red stripes from the hoist?",
+        "explanation": "The colours come from the arms of the Duchy of Brabant."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бельгия",
+        "en": "Belgium"
+      },
+      {
+        "id": "o1",
+        "ru": "Германия",
+        "en": "Germany"
+      },
+      {
+        "id": "o2",
+        "ru": "Франция",
+        "en": "France"
+      },
+      {
+        "id": "o3",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/be.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_ireland",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены вертикальные зелёная, белая и оранжевая полосы от древка?",
+        "explanation": "У флага Кот-д’Ивуара те же цвета, но оранжевая и зелёная полосы поменяны местами."
+      },
+      "en": {
+        "question": "Which country’s flag features vertical green, white and orange stripes from the hoist?",
+        "explanation": "Côte d’Ivoire uses the same colours with the orange and green bands reversed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ирландия",
+        "en": "Ireland"
+      },
+      {
+        "id": "o1",
+        "ru": "Италия",
+        "en": "Italy"
+      },
+      {
+        "id": "o2",
+        "ru": "Кот-д’Ивуар",
+        "en": "Côte d’Ivoire"
+      },
+      {
+        "id": "o3",
+        "ru": "Франция",
+        "en": "France"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/ei.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_poland",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть белая верхняя и красная нижняя полосы на обычном флаге без герба?",
+        "explanation": "Белая и красная полосы отсылают к белому орлу на красном гербе."
+      },
+      "en": {
+        "question": "Which country’s flag features white above red on the standard flag without arms?",
+        "explanation": "The bands take their colours from the white eagle on the red coat of arms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o1",
+        "ru": "Индонезия",
+        "en": "Indonesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Монако",
+        "en": "Monaco"
+      },
+      {
+        "id": "o3",
+        "ru": "Украина",
+        "en": "Ukraine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/pl.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_ukraine",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны изображены две горизонтальные полосы, синяя вверху и жёлтая внизу, без эмблемы?",
+        "explanation": "Полосы равны по высоте."
+      },
+      "en": {
+        "question": "Which country’s flag features two horizontal bands, blue above yellow, without an emblem?",
+        "explanation": "The bands have equal height."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Украина",
+        "en": "Ukraine"
+      },
+      {
+        "id": "o1",
+        "ru": "Польша",
+        "en": "Poland"
+      },
+      {
+        "id": "o2",
+        "ru": "Эстония",
+        "en": "Estonia"
+      },
+      {
+        "id": "o3",
+        "ru": "Литва",
+        "en": "Lithuania"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/up.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_south_africa",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть зелёная Y-образная фигура между красным и синим полями?",
+        "explanation": "У древка Y-образная фигура охватывает чёрный треугольник."
+      },
+      "en": {
+        "question": "Which country’s flag features a green Y-shaped figure between red and blue fields?",
+        "explanation": "At the hoist the Y-shaped figure encloses a black triangle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o2",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o3",
+        "ru": "Мозамбик",
+        "en": "Mozambique"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/sf.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_kenya",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть щит масаи с копьями на чёрно-красно-зелёных полосах?",
+        "explanation": "У красной полосы узкие белые края."
+      },
+      "en": {
+        "question": "Which country’s flag features a Maasai shield and spears on black, red and green bands?",
+        "explanation": "The red band has narrow white edges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o1",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o3",
+        "ru": "Зимбабве",
+        "en": "Zimbabwe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/ke.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_ghana",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть чёрная пятиконечная звезда посередине золотой полосы красно-золотисто-зелёного флага?",
+        "explanation": "Чёрная звезда находится на средней жёлтой полосе."
+      },
+      "en": {
+        "question": "Which country’s flag features a black five-pointed star on the gold band of a red-gold-green flag?",
+        "explanation": "The black star sits in the central yellow band."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гана",
+        "en": "Ghana"
+      },
+      {
+        "id": "o1",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o2",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o3",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/gh.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_morocco",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть зелёная пятиконечная звезда из переплетённых линий на красном поле?",
+        "explanation": "Зелёный знак известен как печать Соломона."
+      },
+      "en": {
+        "question": "Which country’s flag features a green five-pointed interlaced star on red?",
+        "explanation": "The green emblem is known as Solomon’s seal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марокко",
+        "en": "Morocco"
+      },
+      {
+        "id": "o1",
+        "ru": "Тунис",
+        "en": "Tunisia"
+      },
+      {
+        "id": "o2",
+        "ru": "Турция",
+        "en": "Turkey"
+      },
+      {
+        "id": "o3",
+        "ru": "Алжир",
+        "en": "Algeria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/mo.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_botswana",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть чёрная полоса с тонкой белой каймой на светло-синем поле?",
+        "explanation": "Синий цвет связывают с дождевой водой."
+      },
+      "en": {
+        "question": "Which country’s flag features a black band edged thinly in white on light blue?",
+        "explanation": "The blue field represents rainwater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ботсвана",
+        "en": "Botswana"
+      },
+      {
+        "id": "o1",
+        "ru": "Кения",
+        "en": "Kenya"
+      },
+      {
+        "id": "o2",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Гана",
+        "en": "Ghana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/bc.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_seychelles",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны пять цветных полос расходятся лучами из нижнего угла у древка?",
+        "explanation": "Поля синее, жёлтое, красное, белое и зелёное."
+      },
+      "en": {
+        "question": "Which country’s flag has five bands radiating from the lower hoist corner?",
+        "explanation": "The fields are blue, yellow, red, white and green."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сейшелы",
+        "en": "Seychelles"
+      },
+      {
+        "id": "o1",
+        "ru": "Ботсвана",
+        "en": "Botswana"
+      },
+      {
+        "id": "o2",
+        "ru": "Мозамбик",
+        "en": "Mozambique"
+      },
+      {
+        "id": "o3",
+        "ru": "ЮАР",
+        "en": "South Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/se.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_australia",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны под британским флагом стоит большая белая звезда, а справа виден Южный Крест?",
+        "explanation": "Большую семиконечную звезду называют Звездой Содружества."
+      },
+      "en": {
+        "question": "Which country’s flag has a large white star below the Union Flag and the Southern Cross on the right?",
+        "explanation": "The large seven-pointed star is known as the Commonwealth Star."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o1",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      },
+      {
+        "id": "o2",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o3",
+        "ru": "Тувалу",
+        "en": "Tuvalu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/australia-oceania/as.json"
+    ],
+    "image": null
+  },
+  {
+    "id": "flags_m50_new_zealand",
+    "categoryId": "flags",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На флаге какой страны есть британский флаг в углу и четыре красные звезды с белой каймой?",
+        "explanation": "Четыре звезды обозначают созвездие Южный Крест."
+      },
+      "en": {
+        "question": "Which country’s flag features the Union Flag in the canton and four red stars edged in white?",
+        "explanation": "The four stars represent the Southern Cross."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Новая Зеландия",
+        "en": "New Zealand"
+      },
+      {
+        "id": "o1",
+        "ru": "Австралия",
+        "en": "Australia"
+      },
+      {
+        "id": "o2",
+        "ru": "Фиджи",
+        "en": "Fiji"
+      },
+      {
+        "id": "o3",
+        "ru": "Тувалу",
+        "en": "Tuvalu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/australia-oceania/nz.json"
+    ],
+    "image": null
   }
 ]

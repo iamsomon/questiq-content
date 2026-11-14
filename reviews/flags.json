@@ -178,5 +178,725 @@
         "location": "Official national-symbol description: symbol, colours, band arrangement or count of stars/crosses"
       }
     ]
+  },
+  {
+    "id": "flags_m50_nepal",
+    "status": "approved",
+    "sha256": "07685783e1e17a45ab3b855dc6bd939e91b0e1903ba8316f09cc0d7842f48398",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/np.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features two stacked triangular pennants with a white sun and moon? Answer: Nepal. The upper triangle bears the moon, and the lower one bears the sun."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_bhutan",
+    "status": "approved",
+    "sha256": "1a33c2eda055b711da7b764ac1c4553ee5861c9cd36168f96cf3d9b5ff1df299",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/bt.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a white dragon on a diagonally divided yellow and orange field? Answer: Bhutan. The emblem is called the Druk, or Thunder Dragon."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_sri_lanka",
+    "status": "approved",
+    "sha256": "fad38cbccee12682eba904a5c5a0e68ae8ef6e1904d0424b52568c78fb8b8153",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-asia/ce.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a golden lion carrying a sword on a maroon field? Answer: Sri Lanka. Green and orange stripes appear at the hoist."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_mexico",
+    "status": "approved",
+    "sha256": "44be80e517468d115d1edaa1ee61121c6dad9cd1a3e5372f0d74fba692571983",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/north-america/mx.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features an eagle with a snake on a cactus in the centre of a green-white-red flag? Answer: Mexico. The eagle with a snake on a cactus is part of the national coat of arms."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_brazil",
+    "status": "approved",
+    "sha256": "14edacbed7ae0668cfcedfb00b8ce1e34eaca4055ef887bd3c5bc925bcd9eeef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/br.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a yellow diamond with a blue starry globe on a green field? Answer: Brazil. A white band across the globe carries the national motto."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_argentina",
+    "status": "approved",
+    "sha256": "bf4fccc9de8de15c665a62d554e574b00da0c614d572547ef0adb34f646bcb4c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ar.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a golden Sun of May between two light-blue horizontal bands? Answer: Argentina. The sun has a human face and sits in the white band."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_uruguay",
+    "status": "approved",
+    "sha256": "d0e804ef09ad8497c5f7cb4f8df33de9f2a63909f3b003ae705dbc775a03efa1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/uy.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features the Sun of May in a white upper hoist canton with nine alternating stripes? Answer: Uruguay. The sun has 16 rays, alternating between straight and wavy."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_chile",
+    "status": "approved",
+    "sha256": "0e010a3b3c968eef073ef3bb799550e19ab1dc44485307e00f5cf9913c3bf15e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ci.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features one white star in a blue canton above a full-width red lower stripe? Answer: Chile. The blue square at the hoist is only half the flag’s height."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_peru",
+    "status": "approved",
+    "sha256": "656c7d2440d0b6dc1fa95ae872abd400c8a77c4164028e5c13bfe2fcd422f574",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/pe.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s state flag has a coat of arms between two vertical red bands? Answer: Peru. The shield contains a vicuña, a cinchona tree and a cornucopia."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_colombia",
+    "status": "approved",
+    "sha256": "cba567a992dcf0073b2663bb572edbe79ef4ceea3b6906a99fd710d7bbe12b92",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/co.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a yellow upper band twice as tall as each blue and red band, with no coat of arms? Answer: Colombia. The yellow band occupies the upper half of the flag."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_ecuador",
+    "status": "approved",
+    "sha256": "e150da836d88b8a45139ba7c923dd781a189626d60f88c44bfb7137bc00043ba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ec.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag has a coat of arms on yellow, blue and red bands, with yellow taking up half the height? Answer: Ecuador. The coat of arms distinguishes this design from Colombia’s similar yellow, blue and red flag."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_venezuela",
+    "status": "approved",
+    "sha256": "b3b2829075bd0ebe748c8d41c82bc1ad7738b3e8717fcd751f6d769093359527",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/ve.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features an arc of eight white stars on the middle blue stripe? Answer: Venezuela. The eighth star was added in 2006."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_paraguay",
+    "status": "approved",
+    "sha256": "baf95fb409a93935341bb806f9c8e65b01d0f200ca6398046d8d4f1069c26e65",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/south-america/pa.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag has its coat of arms on one side and its treasury seal on the reverse? Answer: Paraguay. One side bears the coat of arms, and the other the treasury seal with a lion."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_jamaica",
+    "status": "approved",
+    "sha256": "60cf2f5714274024ded770f1ddea94b7688151be0bbeb83f8aedf7dfbba39569",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/jm.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a gold diagonal cross separating black and green triangles? Answer: Jamaica. Black fields are at the sides and green is at the top and bottom."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_barbados",
+    "status": "approved",
+    "sha256": "29f6c5aec32a88c022c0dfba715805dd4b92f3412491d4e200090e8247709ec5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/bb.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a black trident head on a golden middle stripe? Answer: Barbados. Blue bands flank the central stripe."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_cuba",
+    "status": "approved",
+    "sha256": "4eb11b6658e465953c3ea8ec654bea1d77b227fb6892476ae94a3c4ecb78b34f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/cu.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a white star in a red triangle and five blue-and-white stripes? Answer: Cuba. The triangle sits at the hoist."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_antigua",
+    "status": "approved",
+    "sha256": "9925131391eab83320262a4bf48236056cbac828f706142138aaa90d993c1a52",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/ac.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a rising yellow sun above blue and white bands between red sections? Answer: Antigua and Barbuda. The sun appears on a black background."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_belize",
+    "status": "approved",
+    "sha256": "aaeccc5272265ed272532e607f24835ee552134692c95b91349809352b91a047",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/bh.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features two human figures inside a white circle on a blue field? Answer: Belize. The circle contains the coat of arms and red stripes edge the flag."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_guatemala",
+    "status": "approved",
+    "sha256": "4007f8258d321a89a9c903b419986899e0eab88245b6043e9fa531bfc8f58c34",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/gt.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a coat of arms with a quetzal between two light-blue vertical stripes? Answer: Guatemala. The bird sits above a scroll in the coat of arms."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_panama",
+    "status": "approved",
+    "sha256": "7b8d01932635d94436db679b467b7c580a943cf3d43dd3f996db3342f5bef420",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/central-america-n-caribbean/pm.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features four rectangles, two white ones bearing red and blue stars? Answer: Panama. The other rectangles are solid blue and red."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_sweden",
+    "status": "approved",
+    "sha256": "f797962078cfcb5acb92e1a925ea7bb991e02944d694f52de1551e2ab83afd06",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/sw.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a yellow Nordic cross on a blue field? Answer: Sweden. The yellow and blue come from Sweden’s coat of arms."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_finland",
+    "status": "approved",
+    "sha256": "bf4f88045e478063582b7dbb50672ee7b471ffdddcdbc514ee0e5a07814761cf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/fi.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country has a blue Nordic cross on a white field? Answer: Finland. The vertical arm of the cross is offset towards the hoist."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_iceland",
+    "status": "approved",
+    "sha256": "30b310a8fd6d4bdeafd241274f0b6d4d95476b7c44f42d2f61ee893410307ddf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/ic.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a red Nordic cross edged in white on blue? Answer: Iceland. Red is associated with volcanoes, while white represents snow and ice."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_norway",
+    "status": "approved",
+    "sha256": "f6960732819e19e4b59b1ffeac9558e16919d703b556a2379cc686b251e0448c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/no.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a blue Nordic cross edged in white on red? Answer: Norway. A white border separates the blue cross from the red field."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_denmark",
+    "status": "approved",
+    "sha256": "06a37abc060cabd347b0ff55dcdde0d59355bc8931319bb7498a04ad692b6265",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/da.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a white Nordic cross on red? Answer: Denmark. This flag is also called the Dannebrog."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_estonia",
+    "status": "approved",
+    "sha256": "c717574185b33a30116675f8ed60e8a2a111d1d87309c85d677f0053edb48128",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/en.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features horizontal blue, black and white bands in that order? Answer: Estonia. The black band runs through the middle."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_latvia",
+    "status": "approved",
+    "sha256": "faf5bacd08df48c2c0658a7a91d84a23e30eeb18393becc0843c7bf332e4493b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/lg.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a narrow white horizontal band between two dark-red bands? Answer: Latvia. The white band is narrower than either red band."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_lithuania",
+    "status": "approved",
+    "sha256": "872653149a89197daae4d286900f61140e50d83e00d94ac0448e186594ae70ee",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/lh.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features horizontal yellow, green and red bands in that order? Answer: Lithuania. The green band runs through the middle."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_belgium",
+    "status": "approved",
+    "sha256": "2a1a4387b68455d622f635a0d4d961a5a73fcfbbaafa76678792232de830ef3f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/be.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features vertical black, yellow and red stripes from the hoist? Answer: Belgium. The colours come from the arms of the Duchy of Brabant."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_ireland",
+    "status": "approved",
+    "sha256": "0412b300cbc0742bba3f496a953e61afe05197784b67d92f60f6cb7502ad2b6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/ei.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features vertical green, white and orange stripes from the hoist? Answer: Ireland. Côte d’Ivoire uses the same colours with the orange and green bands reversed."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_poland",
+    "status": "approved",
+    "sha256": "d9dd711d07ae6a180b4d0b27314e9ac459709d25c7f243bce62bc3a857242997",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/pl.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features white above red on the standard flag without arms? Answer: Poland. The bands take their colours from the white eagle on the red coat of arms."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_ukraine",
+    "status": "approved",
+    "sha256": "933bf0e8c212da620064a7bcdbca74ffe404a8657a65ede11832b77a07e22516",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/europe/up.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features two horizontal bands, blue above yellow, without an emblem? Answer: Ukraine. The bands have equal height."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_south_africa",
+    "status": "approved",
+    "sha256": "3dc653799e64d3094350ca7654eb2985ee13238bde897322af4cdf8d997f4e51",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/sf.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a green Y-shaped figure between red and blue fields? Answer: South Africa. At the hoist the Y-shaped figure encloses a black triangle."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_kenya",
+    "status": "approved",
+    "sha256": "fa9a2c51b206b845dc5d2bf8378c807ba482a3f0a383f3a56253b21bc317f617",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/ke.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a Maasai shield and spears on black, red and green bands? Answer: Kenya. The red band has narrow white edges."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_ghana",
+    "status": "approved",
+    "sha256": "27ed595a99a8fd490bc9a45ca4fc0299f098d7a833ab3f323713fc8d85513632",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/gh.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a black five-pointed star on the gold band of a red-gold-green flag? Answer: Ghana. The black star sits in the central yellow band."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_morocco",
+    "status": "approved",
+    "sha256": "fdaa968be4632df9192ec1743f3a8d68d4f75ec2d76d041b917415d6922a07ed",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/mo.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a green five-pointed interlaced star on red? Answer: Morocco. The green emblem is known as Solomon’s seal."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_botswana",
+    "status": "approved",
+    "sha256": "097e77bc2ead5b85f975e301acff019fb928ccfa691cd37c3a0d05ae642691c9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/bc.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features a black band edged thinly in white on light blue? Answer: Botswana. The blue field represents rainwater."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_seychelles",
+    "status": "approved",
+    "sha256": "980a8cf343e43f7b79d61b3d8434b214d084eb9fc8fd7518075f582c41689003",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/africa/se.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag has five bands radiating from the lower hoist corner? Answer: Seychelles. The fields are blue, yellow, red, white and green."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_australia",
+    "status": "approved",
+    "sha256": "c8ea06f6c0c1689f9a2377de936eecf887692aa0e71efc9fc367a11841eb7e66",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/australia-oceania/as.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag has a large white star below the Union Flag and the Southern Cross on the right? Answer: Australia. The large seven-pointed star is known as the Commonwealth Star."
+      }
+    ]
+  },
+  {
+    "id": "flags_m50_new_zealand",
+    "status": "approved",
+    "sha256": "84faeaf2efa5bc14fb8cfb692362f58d471b2fa501957ebbc766ea522d399016",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the 40 archived CIA flag records at the pinned commit and checked distinct country alternatives and descriptions in both languages.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://raw.githubusercontent.com/factbook/cache.factbook.json/d81154954b8bd62cb72473f9aa1e1a499945f836/australia-oceania/nz.json",
+        "location": "Archived CIA World Factbook profile, Government, field 320 Flag. Original country record preserved by factbook/cache.factbook.json.",
+        "claim": "Which country’s flag features the Union Flag in the canton and four red stars edged in white? Answer: New Zealand. The four stars represent the Southern Cross."
+      }
+    ]
   }
 ]

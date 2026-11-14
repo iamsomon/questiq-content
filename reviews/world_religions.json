@@ -358,5 +358,545 @@
         "claim": "Which concept describes the relationship between God and the people of Israel in Judaism? Answer: Covenant. The covenant connects religious tradition with obligations of the community."
       }
     ]
+  },
+  {
+    "id": "world_religions_m50_passover",
+    "status": "approved",
+    "sha256": "5a016b2863f01965204feaf22c3e4faeb7e1ffbca8566f82201a47c29b98c16c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (passover)",
+        "claim": "Which Jewish festival commemorates liberation from slavery in Egypt? Answer: Passover. The festival is also known as Pesach."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_purim",
+    "status": "approved",
+    "sha256": "81096d0de7a9bb581b844a9f3a8951a743d0920cb84e5fb3834a143289864c2b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (purim)",
+        "claim": "Which Jewish holiday recalls Queen Esther and the deliverance from Haman? Answer: Purim. The traditional story takes place in Persia."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_shavuot",
+    "status": "approved",
+    "sha256": "71c131fda37f889e498d8c6aa5fbed2b2e7e845ade02fbccdbae8d6e4b292838",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (shavuot)",
+        "claim": "Which Jewish holiday marks the giving of the Torah at Mount Sinai? Answer: Shavuot. The Ten Commandments are read in synagogues on this holiday."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_sukkot",
+    "status": "approved",
+    "sha256": "81d18cc2f272fe7c8c67c76a4055e06f69c0b4d41ed6d7c47ed9ac03d90cbaca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (sukkot)",
+        "claim": "During which Jewish holiday is it customary to spend time in a sukkah, a temporary shelter? Answer: Sukkot. The sukkah recalls the journey from Egypt to the Promised Land."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_rosh_hashanah",
+    "status": "approved",
+    "sha256": "68930f58819e97cf242bb78c999d4c70cb0641ae4b679028f07030ba36c0c34a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (rosh_hashanah)",
+        "claim": "What is the Jewish New Year called? Answer: Rosh Hashanah. In Jewish tradition the day is also associated with judgment."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_yom_kippur",
+    "status": "approved",
+    "sha256": "c932a1acd2142ed85c7939869e4817b2311e82c1a5edb47e084097dd704a6282",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/default_cdo/year/2026/jewish/holidays-2026.htm",
+        "location": "Chabad Jewish Holidays, corresponding festival description (yom_kippur)",
+        "claim": "What is the Jewish Day of Atonement called? Answer: Yom Kippur. Fasting, prayer and seeking forgiveness are associated with this day."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_hanukkah",
+    "status": "approved",
+    "sha256": "7749fb18688bbd5608cbed9218460907701d84386d20a4d43713c12536af87b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.chabad.org/holidays/chanukah/article_cdo/aid/603798/jewish/How-to-Celebrate-Hanukkah.htm",
+        "location": "Chabad, opening and When Is the Menorah Lit (hanukkah)",
+        "claim": "During which Jewish holiday are lights kindled on eight successive evenings? Answer: Hanukkah. The holiday commemorates the rededication of the Temple in Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_kesh",
+    "status": "approved",
+    "sha256": "a2dcba678ff0909d888c0dd29b0ffc759b8d95bc0351933f728e68a932ae0e41",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.sikhcoalition.org/about-sikhs/identity/",
+        "location": "Sikh Coalition, Identity, five articles of faith (kesh)",
+        "claim": "What is kesh among the five articles of faith worn by initiated Sikhs? Answer: Uncut hair. Kesh is one of the five signs of initiation in Sikh tradition."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_kanga",
+    "status": "approved",
+    "sha256": "91b4a03aed9c93718403776e36e3f0c9c845a81e36f831e4b25013526741000d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.sikhcoalition.org/about-sikhs/identity/",
+        "location": "Sikh Coalition, Identity, five articles of faith (kanga)",
+        "claim": "What is the comb among the five articles of faith of initiated Sikhs called? Answer: Kanga. It is a small comb worn along with the other articles of faith."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_kara",
+    "status": "approved",
+    "sha256": "ebafdef698aaee6a42191f41ae21f00e55e682586586010441729e6f3439e6c3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.sikhcoalition.org/about-sikhs/identity/",
+        "location": "Sikh Coalition, Identity, five articles of faith (kara)",
+        "claim": "What is the steel bracelet among the five articles of faith of initiated Sikhs called? Answer: Kara. The kara is one of the articles worn after initiation."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_kirpan",
+    "status": "approved",
+    "sha256": "3a6bfe5710fb15fd6bd3eceb929c399897e20de2e605b3b266f66d82b8d5f8db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.sikhcoalition.org/about-sikhs/identity/",
+        "location": "Sikh Coalition, Identity, five articles of faith (kirpan)",
+        "claim": "What is the Sikh article of faith shaped like a blade called? Answer: Kirpan. The kirpan is one of the five articles worn by initiated Sikhs."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_kachera",
+    "status": "approved",
+    "sha256": "bc367bf11126ae9a3dbc2bedf412b3bc541928d97fe6a87f6e27a46693284c60",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.sikhcoalition.org/about-sikhs/identity/",
+        "location": "Sikh Coalition, Identity, five articles of faith (kachera)",
+        "claim": "What is the garment among the five articles of faith of initiated Sikhs called? Answer: Kachera. Kachera are short breeches."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_krishna",
+    "status": "approved",
+    "sha256": "bfdac64d55f7df4cec5d17e9d69da136b887674f18fff09a9c89b0d3dcb49a60",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml",
+        "location": "OpenStax World History, The Indian Ocean World in the Early Middle Ages, Hindu traditions (krishna)",
+        "claim": "In many Hindu traditions, Krishna is described as an incarnation of which deity? Answer: Vishnu. Vishnu is associated with preserving the world."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_brahma",
+    "status": "approved",
+    "sha256": "7d51d205e50d0c7f72a8cb8c8ecd13716152a3b388b0d58c998e7b7ab61864b1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml",
+        "location": "OpenStax World History, The Indian Ocean World in the Early Middle Ages, Hindu traditions (brahma)",
+        "claim": "Which god in the Hindu triad is associated with creating the universe? Answer: Brahma. In this scheme Vishnu is associated with preserving the world."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_samsara",
+    "status": "approved",
+    "sha256": "72dcdd4b83748a3e129236de3afbe7473f8c3c1907fb3ef1ac083959102278d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml",
+        "location": "OpenStax World History, Vedic India to the Fall of the Maurya Empire (samsara)",
+        "claim": "Which term for the cycle of rebirth is used in Indian religious traditions? Answer: Samsara. The idea of rebirth is connected with teachings about the consequences of actions."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_karma",
+    "status": "approved",
+    "sha256": "7810c89ff0ac8db1f8cd840d5e3ae6eed30dc84a98df7d6f45f23c99e49fd1c1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml",
+        "location": "OpenStax World History, Vedic India to the Fall of the Maurya Empire (karma)",
+        "claim": "In Hindu tradition, what term connects actions to their consequences for later rebirths? Answer: Karma. Both good and bad actions matter in this teaching."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_moksha",
+    "status": "approved",
+    "sha256": "48c3e9165320d75a1d4d1c5cd41ebfee95ef8dbaeb200e5ee03ea3bff08b2c61",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00153/index.cnxml",
+        "location": "OpenStax World History, The Indian Ocean World in the Early Middle Ages, Hindu traditions (moksha)",
+        "claim": "What is release from the cycle of rebirth called in Hindu tradition? Answer: Moksha. The cycle from which one seeks release is called samsara."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_gita",
+    "status": "approved",
+    "sha256": "f553df59a978e7322f69cecd3a3bfaebfa93c24f5c9788066d602adeb2fe392c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00130/index.cnxml",
+        "location": "OpenStax World History, Vedic India to the Fall of the Maurya Empire (gita)",
+        "claim": "Which Hindu text teaches action without attachment to its results? Answer: Bhagavad Gita. In the passage, doing one’s own duty matters more than copying another’s."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_analects",
+    "status": "approved",
+    "sha256": "c11babcaa0b04cebdca682085d6556c1e981358d4db97d0f160b82f1ab849f44",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml",
+        "location": "OpenStax World History, Ancient China, passages on Confucianism and Daoism (analects)",
+        "claim": "Which text collects sayings attributed to Confucius? Answer: Analects. The collection was compiled after the teacher’s death."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_laozi",
+    "status": "approved",
+    "sha256": "5375edd36a8e58be90c9efadcd7539e4979d7a023a480e56bf98bce93dda1870",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml",
+        "location": "OpenStax World History, Ancient China, passages on Confucianism and Daoism (laozi)",
+        "claim": "Which thinker is traditionally credited with the Tao Te Ching? Answer: Laozi. The text became an important source of Daoist thought."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_wuwei",
+    "status": "approved",
+    "sha256": "b31034ae98c493f0c34514606110370cd08b098e6b6b0039a25cbe0f5e99b96b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml",
+        "location": "OpenStax World History, Ancient China, passages on Confucianism and Daoism (wuwei)",
+        "claim": "What is the Daoist principle of non-action or non-interference called? Answer: Wuwei. In political thought it suggests rulers should avoid needless interference in people’s lives."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_dao",
+    "status": "approved",
+    "sha256": "882283f62a7adb270cc4e9edebbfddba3f1a2feaa869fd925b5e8e9a5bc89fa5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00127/index.cnxml",
+        "location": "OpenStax World History, Ancient China, passages on Confucianism and Daoism (dao)",
+        "claim": "Which term in Daoist tradition is translated as “the way”? Answer: Dao. Dao is described as an underlying influence in human life and nature."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_ahura",
+    "status": "approved",
+    "sha256": "eac3aa6d0073596bdd0519d441e5b2ca107cdb276e0cb4e4e761dc87dcb659f9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00111/index.cnxml",
+        "location": "OpenStax World History, The Persian Empire, Zoroastrian tradition (ahura)",
+        "claim": "Who is called the lord of wisdom in Zoroastrian tradition? Answer: Ahura Mazda. Ahura Mazda is associated with the good principle of creation."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_angra",
+    "status": "approved",
+    "sha256": "49b64cd51015086c622dc1be36f18a47c4c0723173ab1bd0c7195abbd8f1c8dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00111/index.cnxml",
+        "location": "OpenStax World History, The Persian Empire, Zoroastrian tradition (angra)",
+        "claim": "What is the destructive spirit called in Zoroastrian texts? Answer: Angra Mainyu. In the tradition this spirit opposes Ahura Mazda."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_gathas",
+    "status": "approved",
+    "sha256": "f6439aa62ea6fb0144d67c9063d5eb1965311390ad56b4850b87e86c3b2ad9b7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iranicaonline.org/articles/gathas-i-texts/",
+        "location": "Encyclopaedia Iranica, Gathas, opening and five Gathas (gathas)",
+        "claim": "What are the ancient songs that form part of the Zoroastrian Yasna called? Answer: Gathas. They are arranged in five groups by poetic metre."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_nowruz",
+    "status": "approved",
+    "sha256": "83de14eec63dc149d68a18358f44692b7aee9e232dfdf92808b9d833c5bd91ad",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iranicaonline.org/articles/festivals-index/festivals-i/",
+        "location": "Encyclopaedia Iranica, Zoroastrian festivals and festival services (nowruz)",
+        "claim": "Which spring New Year is among the major Zoroastrian festivals? Answer: Nowruz. The traditional calendar observes it alongside six seasonal feasts called gahanbars."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_gahanbar",
+    "status": "approved",
+    "sha256": "af7e5a943c3f1a5c73d89b83877056a30ba24a4111433e9b44b404a76353f194",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iranicaonline.org/articles/festivals-index/festivals-i/",
+        "location": "Encyclopaedia Iranica, Zoroastrian festivals and festival services (gahanbar)",
+        "claim": "How many seasonal feasts called gahanbars are in the traditional Zoroastrian calendar? Answer: 6. Together with Nowruz they form seven principal obligatory feasts."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_amaterasu",
+    "status": "approved",
+    "sha256": "89631c1a4112c65e9a97cc7f84d2cc4c2a8a11cbb681c8e8006452a4f69a09de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00155/index.cnxml",
+        "location": "OpenStax World History, Border States: Sogdiana, Korea, and Japan, Shinto account (amaterasu)",
+        "claim": "What was the name of the sun goddess in Shinto tradition? Answer: Amaterasu. The Yamato lineage was traditionally linked to Amaterasu."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_itsukushima",
+    "status": "approved",
+    "sha256": "23e57558c00425eae74d13ded34229a22118f0970228144a5d9a0301d1537a20",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/776/",
+        "location": "UNESCO Itsukushima Shinto Shrine, description and Outstanding Universal Value (itsukushima)",
+        "claim": "Which Shinto shrine stands on an island of the same name in Japan’s Seto Inland Sea? Answer: Itsukushima. The shrine buildings form a group between the sea and Mount Misen."
+      }
+    ]
+  },
+  {
+    "id": "world_religions_m50_soga",
+    "status": "approved",
+    "sha256": "5858b60abc07218af2497a7b9d2d124642b500d6c1aa3d3f47409174d444f08d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the Chabad holiday descriptions, Sikh Coalition articles of faith, OpenStax chapters on Indian, Chinese and Persian traditions, Iranica entries and the UNESCO Itsukushima Shrine record.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://github.com/openstax/osbooks-world-history/blob/c0dd82697bc2c7cd355c942e778f215762768c43/modules/m00155/index.cnxml",
+        "location": "OpenStax World History, Border States: Sogdiana, Korea, and Japan, Shinto account (soga)",
+        "claim": "Which clan supported Buddhism at the Japanese court in the late sixth century? Answer: Soga. Empress Suiko’s mother belonged to the Soga clan."
+      }
+    ]
   }
 ]
