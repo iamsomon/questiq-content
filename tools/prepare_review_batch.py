@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Select a reproducible RU/EN review batch from the pinned Global-MMLU intake."""
 import argparse
+import ast
 from collections import Counter, defaultdict, deque
 import json
 from pathlib import Path
@@ -9,20 +10,23 @@ import re
 from content import ROOT, digest, encoded, inventory, normalized, require
 
 SUBJECT_GROUPS = {
-    'mathematics': 'elementary_mathematics high_school_mathematics high_school_statistics',
-    'physics': 'conceptual_physics high_school_physics',
-    'chemistry': 'high_school_chemistry',
-    'biology': 'high_school_biology',
+    'mathematics': ('elementary_mathematics high_school_mathematics high_school_statistics '
+                    'college_mathematics abstract_algebra formal_logic'),
+    'physics': 'conceptual_physics high_school_physics college_physics',
+    'chemistry': 'high_school_chemistry college_chemistry',
+    'biology': 'high_school_biology college_biology',
     'human_body': 'anatomy',
     'astronomy': 'astronomy',
-    'economics': 'high_school_microeconomics high_school_macroeconomics',
+    'economics': ('high_school_microeconomics high_school_macroeconomics econometrics '
+                  'professional_accounting management marketing'),
     'ancient_world': 'prehistory',
     'modern_history': 'high_school_european_history high_school_us_history',
-    'information_technology': 'high_school_computer_science',
+    'information_technology': 'high_school_computer_science college_computer_science',
     'artificial_intelligence': 'machine_learning',
     'civilizations': 'high_school_world_history',
-    'countries': 'high_school_geography',
+    'countries': 'high_school_geography global_facts',
     'world_religions': 'world_religions',
+    'miscellaneous': 'miscellaneous',
 }
 CATEGORY_BY_SUBJECT = {
     subject: category
@@ -38,6 +42,17 @@ AMBIGUOUS_OPTION = re.compile(
     r'^(?:все|ничего|ни один) (?:из перечисленного|из указанных|из вариантов|вышеперечисленное)',
     re.IGNORECASE,
 )
+
+
+def has_time_sensitive_annotation(value):
+    if isinstance(value, str):
+        try:
+            value = ast.literal_eval(value) if value else []
+        except (ValueError, SyntaxError):
+            return True
+    return value is not None and (
+        not isinstance(value, list) or any(str(item).casefold() != 'no' for item in value)
+    )
 
 
 def select_rows(root, count, already_queued):
@@ -70,11 +85,14 @@ def select_rows(root, count, already_queued):
         for line in stream:
             row = json.loads(line)
             category = CATEGORY_BY_SUBJECT.get(row['sourceSubject'])
-            if category not in known_categories:
+            if category not in known_categories and category != 'miscellaneous':
                 rejected['outside_selected_subjects'] += 1
                 continue
-            if row['riskFlags'] or any(
-                row['sourceAnnotations'][locale]['time_sensitive'] not in ('[]', '', None, [])
+            flags = row['riskFlags']
+            if any('empty_option' in flag or 'duplicate_options' in flag
+                   or 'missing_visual_context' in flag or 'specialist_medical' in flag
+                   for flag in flags) or any(
+                has_time_sensitive_annotation(row['sourceAnnotations'][locale]['time_sensitive'])
                 for locale in ('ru', 'en')
             ):
                 rejected['source_risk_flag'] += 1
@@ -95,7 +113,9 @@ def select_rows(root, count, already_queued):
             used_text.update(keys)
             by_category[category].append({
                 'candidateId': row['id'],
-                'categorySuggestion': category,
+                'categorySuggestion': None if category == 'miscellaneous' else category,
+                'sourceSubject': row['sourceSubject'],
+                'riskFlags': flags,
                 'status': 'needs_editorial_review',
                 'questions': row['questions'],
                 'options': row['options'],
@@ -138,7 +158,7 @@ def main():
         'candidates': len(rows),
         'editoriallyReviewed': 0,
         'published': 0,
-        'categorySuggestions': dict(sorted(Counter(r['categorySuggestion'] for r in rows).items())),
+        'categorySuggestions': dict(sorted(Counter(r['categorySuggestion'] or 'unassigned' for r in rows).items())),
         'excludedSourceRows': dict(sorted(rejected.items())),
         'batchSha256': digest(rows),
         'output': output.name,
