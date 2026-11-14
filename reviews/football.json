@@ -178,5 +178,725 @@
         "url": "https://www.theifab.com/laws/latest/the-field-of-play/"
       }
     ]
+  },
+  {
+    "id": "football_m50_minimum",
+    "status": "approved",
+    "sha256": "6d47ee8a293a5ec7983e8bde1e41b57edb3a6142461d7a177b871806812c8f61",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 3.1, Number of players",
+        "claim": "Under IFAB 2026/27, what is the minimum number of players a team needs for a match to continue? 7. A match cannot continue if a team has fewer than seven players."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_goalkeeper",
+    "status": "approved",
+    "sha256": "4943e57e527d79a0781eaa68395c73162d0f8bbb8770412c2d0fbf3ea995ba3c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 12.1, Handling the ball",
+        "claim": "Where may a goalkeeper handle the ball during ordinary play? In their own penalty area. Outside their own penalty area the goalkeeper has the ordinary handling restrictions."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_captain",
+    "status": "approved",
+    "sha256": "ad07004a95ef37ef28a92466840c08cf5e02857a3ca5a591c4b8e71cefbaf54a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 4.2, Compulsory equipment",
+        "claim": "How is a team captain identified on the field under IFAB laws? By an armband. The captain gains no special privileges concerning referee decisions."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_red",
+    "status": "approved",
+    "sha256": "58c5f4686d334756085ae2feba515418c63e8b10e08e4476a07ebed82e237528",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 12.4, Disciplinary action",
+        "claim": "Which card does a referee show to send a player off? Red. A sent-off player must leave the field and technical area."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_second_yellow",
+    "status": "approved",
+    "sha256": "f1fa5ab0227fe4ce5a68409ee0e5f150a382f4440673426a423b3c4a4d1f6530",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 12.4, Sending-off offences",
+        "claim": "What follows a player's second caution in the same match? Sending off. The referee shows a red card after the second yellow card."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_advantage",
+    "status": "approved",
+    "sha256": "f165db20041911652716eb1bcdc8da6127d2330e750ac405870260774aafef1b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 5.3, Advantage",
+        "claim": "What does playing advantage mean in football? Let play continue when it benefits the offended team. The referee can return to the offence if the expected advantage does not follow immediately."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_broken_crossbar",
+    "status": "approved",
+    "sha256": "0e6e78b2966b65e6cd5dcd764c27d187101cd30cc18d9b825e2dde29d935583b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.10, displaced or broken crossbar",
+        "claim": "How is play restarted after a broken crossbar has been repaired? A dropped ball. The match is abandoned if the crossbar cannot be repaired or replaced."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_throw_hands",
+    "status": "approved",
+    "sha256": "56560ce3b3d6de0b97c16121ac210175b262a0d6d3992b124d8fef38842df117",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 15.1, Procedure",
+        "claim": "How is a football throw-in delivered? With both hands from behind the head. The player must face the field."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_throw_feet",
+    "status": "approved",
+    "sha256": "035cec423b0c4a603d770a26ca3af8b40d4ef62f17dae181b99b2e8c34547844",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 15.1, Procedure",
+        "claim": "What foot position is required for an IFAB 2026/27 throw-in? Part of each foot on the line or ground outside it. The throw is taken where the ball left the field."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_throw_direct",
+    "status": "approved",
+    "sha256": "f6e2230bef2155ca1e6efbcb8442d94e2cf2cdfdfbd55e3282e0ac134179a27f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 15, The Throw-in",
+        "claim": "Can a goal be scored directly into the opponents' goal from a throw-in? No, a goal kick is awarded. A goal following a throw-in requires another player's touch."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_corner",
+    "status": "approved",
+    "sha256": "8e076e53e42d2d0a4e0d28aedb57ee98e7a8ee027116eafe831c879729c872cd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 17, The Corner Kick; Law 12.3, goalkeeper time limit",
+        "claim": "When does the referee award a corner after the ball crosses the goal line? The ball crossed the goal line off a defender without a goal. The whole ball must cross the line. A goalkeeper holding it for more than eight seconds is another reason to award a corner."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_goal_kick",
+    "status": "approved",
+    "sha256": "08e6402a25d1f33d5b6db24524e569bd0abf47eb87a5af1e9139237ff713d455",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 16, The Goal Kick",
+        "claim": "Who touched the ball last if it crossed the goal line without a goal and a goal kick was awarded? An attacking-team player. The defending team may take the kick from anywhere within its goal area."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_corner_motion",
+    "status": "approved",
+    "sha256": "b813215d00cbbe86430840ab8421b74bab2b4dad355d4870abe5ed81e8d4d6e4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 17.1, Procedure",
+        "claim": "When is the ball in play at a corner kick under the 2026/27 IFAB laws? When it is kicked and clearly moves. The ball may still be inside the corner area."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_offside_level",
+    "status": "approved",
+    "sha256": "bd2ebff77c33f3c892453e34932d9b6f842c6d313b893845cb8a9af9f6020e21",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 11.1, Offside position",
+        "claim": "An attacker is level with the second-last opponent when the pass is played. Are they in an offside position under the 2026/27 IFAB laws? No, level with the opponent is onside. An offside position normally requires being closer to goal than both the ball and the second-last opponent."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_offside_alone",
+    "status": "approved",
+    "sha256": "6e35f7b26864adfe0756f152910766c5e36a02439780550f5ba600162c2f8103",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 11.2, Offside offence",
+        "claim": "Is being in an offside position an offence by itself? No, involvement in active play is required. The referee can penalise a player in that position if they interfere with play."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_offside_throw",
+    "status": "approved",
+    "sha256": "e92e84c8142aec691553aee53b88a199a405d96d567fc906f1791a233fee06c7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 11.3, No offence",
+        "claim": "Is offside penalised when a player receives the ball directly from a throw-in? No. A throw-in is one of the offside exceptions."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_offside_restart",
+    "status": "approved",
+    "sha256": "eff56b795657fd4936bc33760b98909f4013b60fd19dd0702a1feb2879508cfb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 11.4, Offences and sanctions",
+        "claim": "How is play restarted after an offside offence? An indirect free kick. The kick is taken from the place of the offence."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_offside_active",
+    "status": "approved",
+    "sha256": "4b233a460eaac888e98f3e683cb5c1d12a39aced6357e3f9b71b49f68eb9c984",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 11.2, Offside offence",
+        "claim": "Which action can turn an offside position into an offence? Interfering with an opponent’s ability to play the ball. Blocking an opponent’s view of the ball is one example."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_indirect_signal",
+    "status": "approved",
+    "sha256": "6fc0ba427eeb7b785371d35bf294193d4b110a2e746e4b38169bd03581d44b8b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 13.1, Indirect free kick signal",
+        "claim": "How does a referee signal an indirect free kick? Raises an arm above the head. The raised arm distinguishes an indirect kick from a direct free kick."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_indirect_goal",
+    "status": "approved",
+    "sha256": "f55a0f172ed0e5acfe1bc685ccb1104659be61488023fdbb4fb900009df5180e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 13.1, Ball enters the goal",
+        "claim": "An indirect free kick enters the opponents' goal without any other touch. What is awarded? Goal kick. Such a goal requires a touch by another player."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_penalty_forward",
+    "status": "approved",
+    "sha256": "0e4ef98d8095a331f3a30e80956b352711ccd09d05a0a9583c275de41d28ed99",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 14.1, Procedure",
+        "claim": "In which direction must the ball move when a penalty kick is taken under the 2026/27 IFAB laws? Forward. A backheel is allowed if the ball moves forward."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_penalty_keeper",
+    "status": "approved",
+    "sha256": "e706b44553cc35f1d6d545aafea0df71340ba6c7c1dcba3d982f2c454120b9c3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 14.1, Procedure",
+        "claim": "Where must at least part of one goalkeeper foot be when a penalty is kicked under the 2026/27 IFAB laws? Touching, in line with, or behind the goal line. The goalkeeper must remain between the posts facing the kicker."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_penalty_feint",
+    "status": "approved",
+    "sha256": "e033a963eeed9ae4a68ea4366ba187b9c26e8bdae542bb17164e947aa350b457",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 14.2, Offences and sanctions",
+        "claim": "Which feint is prohibited for an IFAB 2026/27 penalty kick? Feinting to kick after completing the run-up. Feinting during the run-up itself is permitted."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_own_kickoff",
+    "status": "approved",
+    "sha256": "04a0de14d7f4cbc9b8684952a418380b84af2ddac074580c83a256f8b86abfd0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 8.1, Kick-off",
+        "claim": "A kick-off goes directly into the kicker’s own goal. How is play restarted? A corner kick for the opponents. A direct goal from the kick-off can only be scored against the opposing team."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_kickoff_play",
+    "status": "approved",
+    "sha256": "9332d5470536271f6060d045bbe1641ad6470da4bac412b787130ac91aa8fcb2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 8.1, Procedure",
+        "claim": "When is the ball in play at kick-off? When it has been kicked and clearly moves. Before the kick, the ball is stationary on the centre mark."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_free_kick_distance",
+    "status": "approved",
+    "sha256": "514a266a568dac1a82e5ab1d987a023b4075fd97f60922d3d3d1106de4e26686",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 13.2, Procedure",
+        "claim": "What is the normal minimum opponent distance at a free kick under the 2026/27 IFAB laws? 9.15 m. There is a specific exception for the defending goal line between the posts."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_wall_gap",
+    "status": "approved",
+    "sha256": "022a98e692553159e2c8ecdb7cf04be7b3d6c09836f95baa8dfb294b6a5a0d80",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 13.2, Procedure",
+        "claim": "How far must attackers stay from a defensive wall of three or more players at a free kick under the 2026/27 IFAB laws? At least 1 m. The restriction applies until the ball is in play."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_ball_circumference",
+    "status": "approved",
+    "sha256": "50e28011a5d424ec9d089bc15550f995dddde6731ac72d120f096407e6490541",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 2.1, Qualities and measurements",
+        "claim": "What is the permitted ball circumference for adult football under IFAB 2026/27? 68–70 cm. This concerns a standard-match ball, not youth modifications."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_ball_mass",
+    "status": "approved",
+    "sha256": "321a11c4c69b11ab35090f2fb12bd1864fe5eb009a8ef08d7d4ff3d99deccc9b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 2.1, Qualities and measurements",
+        "claim": "What must a ball weigh at the start of a standard IFAB 2026/27 match? 410–450 g. The laws separately specify ball circumference and pressure."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_posts_colour",
+    "status": "approved",
+    "sha256": "b159a4c4d3785aece6ff5f531e43abe24bbd24405d239251bd10354b6a5b3e9c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.10, Goals",
+        "claim": "What colour must standard football goalposts and crossbar be? White. The colour helps make the goal frame clearly distinguishable."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_crossbar_height",
+    "status": "approved",
+    "sha256": "a1f172e602a0bb0b1a43a8a901f8f6ac4b748efab12f800c1653ea2ce21c454c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.10, Goals",
+        "claim": "What is the height from the ground to the lower edge of a standard crossbar? 2.44 m. The crossbar and the posts must have the same width and depth."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_goal_area_depth",
+    "status": "approved",
+    "sha256": "e10c16752d3f11dfdbd782c7cc5b9eb56d0ce84134764a482d39d1dee75b962d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.5, The goal area",
+        "claim": "How far into the field does the goal area extend from the goal line? 5.5 m. It is the smaller of the two rectangular areas in front of goal."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_penalty_area_depth",
+    "status": "approved",
+    "sha256": "400c598b4ee86c91630afabb2e2007dfa230a576941937440a3f1e03ba943084",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.6, The penalty area",
+        "claim": "What is the depth of a standard football penalty area? 16.5 m. The distance is measured from the goal line."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_corner_flag",
+    "status": "approved",
+    "sha256": "be5d5bdfd969ed21e5f8b1615f4e39779702e892cb5814c30d9baaf8be23cee7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 1.8, Flagposts",
+        "claim": "What is the minimum corner-flagpost height under IFAB 2026/27? 1.5 m. The top of the flagpost must not be pointed."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_extra_time",
+    "status": "approved",
+    "sha256": "763de0d30e882fc53344c5dc978f0d0bad6e2898751ccdec9540ce3e7ead4c85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 10.2, Winning team",
+        "claim": "What is the maximum length of each of the two extra-time periods under IFAB? 15 minutes. Competition rules may provide for two equal extra-time periods."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_shootout_start",
+    "status": "approved",
+    "sha256": "f076a9a9bc3ba53feb0fe35a3978749a057ac87b041d2710ec1140aa02ee00f3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 10.3, During penalties",
+        "claim": "How many kicks per team are scheduled in the initial penalty shoot-out series? 5. The series can finish early if the opponent can no longer draw level."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_shootout_tie",
+    "status": "approved",
+    "sha256": "9213e07900d0f65e4db4277bb72b72679bf41511445804dddb1cf49a30e0526d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 10.3, During penalties",
+        "claim": "What happens if a shoot-out is level after each team's first five kicks? Kicks continue until one team leads after equal attempts. A single kick cannot decide it before the other team's corresponding attempt."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_sub_entry",
+    "status": "approved",
+    "sha256": "a2d5881f60f01adbfb05bf5fb7551b90c9067a92fceb553961bb1a1ca0fc7259",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 3.3, Substitution procedure",
+        "claim": "When may a substitute enter during an ordinary substitution under the 2026/27 IFAB laws? After the referee's signal and the replaced player's exit. The substitution is completed when the substitute enters the field."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_unsafe_accessory",
+    "status": "approved",
+    "sha256": "53f49f1b4aa6e6892d0d69d1a305329fc5dfe8c77ec2314642fda9577554b0ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 4.1, Safety",
+        "claim": "What must a player do with a dangerous accessory under the 2026/27 IFAB laws? Remove it. A safe accessory can be worn if it is securely covered."
+      }
+    ]
+  },
+  {
+    "id": "football_m50_shin_guards",
+    "status": "approved",
+    "sha256": "6738a19c9dcbab728ca0b0739677b70e92163fd2b8e5f20e08b9da97b07289af",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IFAB Laws of the Game 2026/27; checked governing law, question and choices against the fixed English edition",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en",
+        "location": "Law 4.2, Compulsory equipment",
+        "claim": "Which equipment protects a footballer's shins? Shin guards. Shin guards must be covered by socks."
+      }
+    ]
   }
 ]

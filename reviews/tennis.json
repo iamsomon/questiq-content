@@ -178,5 +178,730 @@
         "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
       }
     ]
+  },
+  {
+    "id": "tennis_m50_ace",
+    "status": "approved",
+    "sha256": "80f3d4b95306bef109c16a2261d48997fb367bb88c75d2590ecbc81b1580795f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "ACE",
+        "claim": "What is a legal serve that the receiver does not touch with their racket called? Ace. An ace immediately wins the point for the server."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_backhand",
+    "status": "approved",
+    "sha256": "41f87f370fde9ca60956043e472eb810054e40546385b3b1b7ecd06f1ed0fe6e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "BACKHAND",
+        "claim": "What is a stroke on a right-hander’s left side or a left-hander’s right side called? Backhand. It can be played with one or two hands."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_forehand",
+    "status": "approved",
+    "sha256": "f67b0a3026f3ac07e578e0aed888bbe7d870f2dc015c9445b9b50b3311385aea",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "FOREHAND",
+        "claim": "In tennis, what is a stroke on a right-hander's right side or a left-hander's left side called? Forehand. It differs from the opposite-side stroke, the backhand."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_volley",
+    "status": "approved",
+    "sha256": "0ec91cf1d187aba1670749ded1e9cd53a45c6593ef31623bf1ba33473fce5d9a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "VOLLEY",
+        "claim": "In tennis, what is a shot struck before the ball bounces on the court called? Volley. A serve cannot be returned this way."
+      },
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24e, return of serve",
+        "claim": "In tennis, what is a shot struck before the ball bounces on the court called? Volley. A serve cannot be returned this way."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_half_volley",
+    "status": "approved",
+    "sha256": "1a29eb5e6c6451aa41bf5c99d8571665b154865edb2d034d8ab8f4019de364dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "HALF-VOLLEY",
+        "claim": "In tennis, what is a shot struck almost immediately after the ball bounces called? Half-volley. The ball is met low on a short bounce."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_lob",
+    "status": "approved",
+    "sha256": "961df4694f74e9051c2da7b44ffa7a5b71a104cab9784c6a802d2ad3ce822d82",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "LOB",
+        "claim": "In tennis, what is a high shot lifting the ball over an opponent at the net called? Lob. It can be defensive or offensive."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_drop",
+    "status": "approved",
+    "sha256": "3041b7ca70d64d86e81354532a8d7586537d52e9ea8184a57362a84265b62e43",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "DROP SHOT",
+        "claim": "In tennis, what is a softly hit shot landing close to the net called? Drop shot. It is particularly useful when the opponent is far behind the baseline."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_smash",
+    "status": "approved",
+    "sha256": "485492f9533db1d69960380340a3e5c862c32fba2ac1b3fb771cb8ad27d5e5e7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "SMASH and OVERHEAD",
+        "claim": "In tennis, what is a powerful overhead stroke with a motion similar to a serve called? Smash. It often finishes a point after a high lob."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_slice",
+    "status": "approved",
+    "sha256": "65adb72fadbe365f42ecaffc468c8ceb1e0348e8e35cefbfe1f9f9077a86bd60",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "SLICE",
+        "claim": "In tennis, what is a shot giving the ball backspin called? Slice. The racket moves mainly from high to low."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_topspin",
+    "status": "approved",
+    "sha256": "71505ad9a269203fb12c23b7763a0b6a25f1fa531b037e6eb18d4cce29de463c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "TOPSPIN",
+        "claim": "In tennis, what is forward ball rotation produced by a low-to-high racket motion called? Topspin. The spin helps the ball dip inside the court."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_rally",
+    "status": "approved",
+    "sha256": "3cc13638b02bb021438acd009351472421eab2a151c4108083bb245d52a9262c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "RALLY",
+        "claim": "In tennis, what is a sequence of legal exchanges within a point called? Rally. It continues until one side wins the point."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_break",
+    "status": "approved",
+    "sha256": "a6c924fd09bdafc89bd6c46d1c4b3ad8ae790c7784cb90cc78f3966e402e2a83",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "SERVICE BREAK",
+        "claim": "In tennis, what is a game won by the receiving side called? Service break. Holding serve and breaking serve are different achievements."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_approach",
+    "status": "approved",
+    "sha256": "818a7f74d32fb858504ff4fab873975c9337b012036b197a3d91e03727b66868",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "APPROACH",
+        "claim": "In tennis, what is a shot followed by a move towards the net called? Approach shot. It helps prepare an attack from closer to the net."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_passing",
+    "status": "approved",
+    "sha256": "003e43c7bf710e962165d98ceaec41d57fe0c4e49c19d0bfc502a21a7be2ecd3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/content/dam/usta/content-fragments/tennis-service-center/assets/pdfs/Net-Generation-Practice-Plan-Red.pdf",
+        "location": "Mission: Control direction of passing shot",
+        "claim": "In tennis, what is a shot hit past an opponent positioned at the net called? Passing shot. Its aim is to prevent the opponent from making a volley."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_groundstroke",
+    "status": "approved",
+    "sha256": "064f1b52fb1fc553121fb823539e9ef016a2680ab68bb126f7972d2f1b2eeb76",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "GROUND STROKE",
+        "claim": "In tennis, what is a forehand or backhand struck after the ball bounces called? Groundstroke. Unlike a volley, the ball has already touched the court."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_baseline",
+    "status": "approved",
+    "sha256": "e38a6874cbd616df06c442e41b71363f1d9cc93d38c2051a6d66ab6ad4d91f69",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "BASELINE",
+        "claim": "In tennis, what is the back boundary of a tennis court called? Baseline. It runs parallel to the net."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_alley",
+    "status": "approved",
+    "sha256": "4d04995aad16e6dd8360e7e68365e58a7dbbe7ad4b8c4d684e52b9823aa6805d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "ALLEY",
+        "claim": "In tennis, what is the strip between the singles and doubles sidelines called? Doubles alley. This strip widens the playing area in doubles."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_receiver",
+    "status": "approved",
+    "sha256": "41ba2f1d2cf42a2609679ac5fcfa76057edca9afea70af28df249381814380ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "RECEIVER",
+        "claim": "In tennis, what is the player returning the serve called? Receiver. Serving and receiving rights follow a prescribed order."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_server",
+    "status": "approved",
+    "sha256": "834d4171f46a029c22e623dc48702a97179414ba1f5294a015bdd55ddca238ab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "SERVER",
+        "claim": "In tennis, what is the player putting the ball in play with a serve called? Server. The serve is delivered from behind the baseline."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_poach",
+    "status": "approved",
+    "sha256": "31fafcb3cd4e607ac6a879c2c99167638b3cc79ef2d57dab6545513562309734",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+        "location": "POACH",
+        "claim": "In tennis, what is intercepting at the net in doubles a ball that would normally go to a partner called? Poaching. This manoeuvre requires coordination between partners."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_doubles_width",
+    "status": "approved",
+    "sha256": "e0f0cddf10c7a01f7f1c142d65cd4d17ec25c2908440fe3b1305aa25965676ff",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 1, The Court",
+        "claim": "What is the doubles-court width under ITF 2026 rules? 10.97 m. The side alleys widen the singles court for doubles."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_net_centre",
+    "status": "approved",
+    "sha256": "ea47168ee1b209d7dafa044d7c413962fb056095ee960244dfe79e4f2d0708a5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 1, The Court",
+        "claim": "What is the net height at the centre of a tennis court under ITF 2026? 0.914 m. A centre strap maintains this height."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_singles_stick",
+    "status": "approved",
+    "sha256": "4b1088cad33f9f8e6bc4b19129e6c4461f1c605b289f69f4245f33b23ddf8dc2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 1, The Court",
+        "claim": "Where are singles sticks placed when a doubles net is used for singles under the 2026 ITF rules? 0.914 m outside the singles sidelines. The sticks support the net at a height of 1.07 m at those points."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_service_line",
+    "status": "approved",
+    "sha256": "3088dc9e6783e6492552a6d26daed5009ef759a87550c2658fd5790980a7edc2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 1, The Court",
+        "claim": "How far is the service line from the net under ITF 2026? 6.40 m. The line marks the back of the service box."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_first_point",
+    "status": "approved",
+    "sha256": "568afe4807683649c7c1c61c4dafb89f98eb85740ce55464e159dfceb4a8aa1f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 5a, Standard game",
+        "claim": "What is the score after the server wins the first point from 0–0 in a standard game? 15–love. The server’s score is called first in a standard game."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_best_of_five",
+    "status": "approved",
+    "sha256": "0ce29c360bfe6d01623f4dbae4f168801736daeb2b0a624bb8bf8983efcf23ab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 7, Score in a match",
+        "claim": "How many sets does a player need to win in a best-of-five match? 3. The match can finish after three, four or five sets."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_advantage",
+    "status": "approved",
+    "sha256": "34bc10c187fd0610d3c9b02d007ec7cc72c26eb65daaa3afc4356a1271d2c6a1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 5a, Standard game",
+        "claim": "What is a one-point lead after deuce in a standard game called? Advantage. Winning such a game requires a two-point lead."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_adv_lost",
+    "status": "approved",
+    "sha256": "f399ca79262c6a7464b9d40cfcebba1a4b879627afafad7d1c37c4b157f722d7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 5a, Standard game",
+        "claim": "What happens if a player with advantage after deuce loses the next point? The score returns to deuce. Neither side then has a two-point lead."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_tiebreak_target",
+    "status": "approved",
+    "sha256": "2c617745d8b053f89f540c1914bd92a6680c51f946842b3344c520f4921c3692",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 5b, Tie-break game",
+        "claim": "What is the minimum target score in a standard seven-point tie-break under the 2026 ITF rules? 7. A lead of at least two points is also required."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_serve_change",
+    "status": "approved",
+    "sha256": "5d43b996c0a06be4b92949283b1f8cf3e2753c6644386b3cb71481f7a9cde875",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 14, Order of service",
+        "claim": "When does serving normally alternate between opponents? After each game. A tie-break uses a different serving order."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_end_change",
+    "status": "approved",
+    "sha256": "2e89aaff45718f52ebe948255ded02eeb05cc2e092911bce7fb6112075a40fc6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 10, Change of ends",
+        "claim": "After which games do players normally change ends under the 2026 ITF rules? After the first and each subsequent odd game. A separate change-of-ends rule applies in a tie-break."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_second_serve",
+    "status": "approved",
+    "sha256": "2bdd111fea308fe99c60f81c728bdcde1f829a4c0899852190199c8654c2a164",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 20, Second service",
+        "claim": "How many service attempts does a player have for one point if there are no service lets? 2. A second serve follows a first-service fault."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_double_fault",
+    "status": "approved",
+    "sha256": "251fc611ac3ec642ad3cda543f491c8d89f1bdb15e3bf7712a3e902956f96d85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24a, Player loses point",
+        "claim": "What happens when both first and second serves are faults? The server loses the point. This is called a double fault."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_let_serve",
+    "status": "approved",
+    "sha256": "931db0a61c320210090d0fd57325e8a01a70df14efccb8d14eef6289120be98c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 22, The let during a service",
+        "claim": "A serve touches the net and lands in the correct box. What normally happens under ITF 2026? The serve is replayed. This is a service let, not a service fault."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_receive_volley",
+    "status": "approved",
+    "sha256": "36e8af1cf7db0bd9d931d1e95d19a1fd01f30a15eb654fe02b4094d25d39f8e7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24e, Player loses point",
+        "claim": "What happens in standard tennis if the receiver volleys a serve under the 2026 ITF rules? The receiver loses the point. The serve must bounce in the correct service box before the receiver can hit it."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_second_bounce",
+    "status": "approved",
+    "sha256": "23d5e797de66cdba690d89d1d7563b0b806e84f91422b578732b51254cd1db47",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24b, Player loses point",
+        "claim": "The ball bounces twice on a player's side before a return in standard tennis. Who loses the point under the 2026 ITF rules? That player. Wheelchair tennis has a separate two-bounce rule."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_net_touch",
+    "status": "approved",
+    "sha256": "6a96f9512fc42b0146a747b90c6d54a775433ee6e56ff10e0a93c83b73a757c7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24g, Player loses point",
+        "claim": "A player touches the net while the ball is in play. What is the normal ruling under the 2026 ITF rules? They lose the point. It also covers the racket or clothing touching the net."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_broken_ball",
+    "status": "approved",
+    "sha256": "8c2b7b68df00fdb20d955c91c725b5728da4fdaa695d641f5a8e2d2bf618ef09",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 3, The Ball, breakage",
+        "claim": "The ball breaks during a point. What happens under the 2026 ITF rules? The point is replayed. If the ball merely goes soft without breaking, the point stands."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_ball_body",
+    "status": "approved",
+    "sha256": "4b0212ef1fea17683c323511745e71dd0b486db2d336e103087b69df7ad97657",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 24i, Player loses point",
+        "claim": "A ball in play hits a player's body before the racket. What normally happens under the 2026 ITF rules? The player loses the point. The ball must be returned with a racket held in the hand."
+      }
+    ]
+  },
+  {
+    "id": "tennis_m50_service_toss",
+    "status": "approved",
+    "sha256": "a06a833a00e52254d14ea112976a8db0ba4549be417d82f98f3da44de955c848",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. ITF Rules of Tennis 2026 and USTA tennis terms and curriculum",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf",
+        "location": "Rule 19, Service fault, case 1",
+        "claim": "What can a player do after tossing the ball to serve if they decide against hitting it under the 2026 ITF rules? Catch the ball and start the service motion again. This is no service fault. The player may also let the ball bounce."
+      }
+    ]
   }
 ]

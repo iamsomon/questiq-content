@@ -438,5 +438,1765 @@
       "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
     ],
     "image": null
+  },
+  {
+    "id": "basketball_m50_dribble",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется перемещение мяча последовательными ударами об пол?",
+        "explanation": "Оно позволяет игроку передвигаться с контролируемым мячом."
+      },
+      "en": {
+        "question": "In basketball, what is moving the ball by repeatedly bouncing it on the floor called?",
+        "explanation": "It lets a player move while controlling the ball."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ведение",
+        "en": "Dribbling"
+      },
+      {
+        "id": "o1",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o2",
+        "ru": "Передача",
+        "en": "Pass"
+      },
+      {
+        "id": "o3",
+        "ru": "Поворот на опорной ноге",
+        "en": "Pivot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_rebound",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется овладение мячом после неудачного броска?",
+        "explanation": "Подбор может быть атакующим или защитным."
+      },
+      "en": {
+        "question": "In basketball, what is gaining the ball after a missed shot called?",
+        "explanation": "A rebound can be offensive or defensive."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o1",
+        "ru": "Перехват",
+        "en": "Steal"
+      },
+      {
+        "id": "o2",
+        "ru": "Блок-шот",
+        "en": "Blocked shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Передача",
+        "en": "Pass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/stats/help/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_assist",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется результативная передача партнёру, приводящая к попаданию?",
+        "explanation": "В статистике не каждая передача перед попаданием считается результативной."
+      },
+      "en": {
+        "question": "In basketball, what is a pass to a teammate that leads to a made basket called?",
+        "explanation": "Not every pass before a basket qualifies statistically."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ассист",
+        "en": "Assist"
+      },
+      {
+        "id": "o1",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o2",
+        "ru": "Перехват",
+        "en": "Steal"
+      },
+      {
+        "id": "o3",
+        "ru": "Заслон",
+        "en": "Screen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/assists/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_steal",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется действие защитника, приводящее к отбору мяча у соперника?",
+        "explanation": "Он может быть выполнен при передаче или ведении соперника."
+      },
+      "en": {
+        "question": "In basketball, what is a defender's action resulting in taking possession from an opponent called?",
+        "explanation": "It can occur during an opponent's pass or dribble."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перехват",
+        "en": "Steal"
+      },
+      {
+        "id": "o1",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o2",
+        "ru": "Блок-шот",
+        "en": "Blocked shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Перехват броска с нарушением",
+        "en": "Goaltending"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/stats/help/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_block",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется отражение защитником броска соперника?",
+        "explanation": "Блок-шот засчитывают защитнику, если он коснулся мяча при броске соперника и помешал попаданию."
+      },
+      "en": {
+        "question": "In basketball, what is a defender's deflection of an opponent's shot called?",
+        "explanation": "The defender touches the shot and prevents it from scoring."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Блок-шот",
+        "en": "Blocked shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Перехват передачи",
+        "en": "Steal of a pass"
+      },
+      {
+        "id": "o2",
+        "ru": "Подбор в защите",
+        "en": "Defensive rebound"
+      },
+      {
+        "id": "o3",
+        "ru": "Заслон",
+        "en": "Screen"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/stats/help/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_dunk",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется бросок, при котором игрок направляет мяч в кольцо рукой сверху?",
+        "explanation": "В статистике НБА для бросков сверху измеряют скорость мяча при проходе через кольцо."
+      },
+      "en": {
+        "question": "In basketball, what is a shot in which a player forces the ball down through the rim called?",
+        "explanation": "In the NBA dunk analysis, one measured feature is ball speed through the rim."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Данк",
+        "en": "Dunk"
+      },
+      {
+        "id": "o1",
+        "ru": "Лэй-ап",
+        "en": "Layup"
+      },
+      {
+        "id": "o2",
+        "ru": "Бросок крюком",
+        "en": "Hook shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Бросок в прыжке издали",
+        "en": "Long jump shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/news/a-deep-dive-into-how-nba-dunk-score-is-calculated"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_layup",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется близкий бросок снизу после прохода к корзине?",
+        "explanation": "Мяч часто направляют в корзину с использованием щита."
+      },
+      "en": {
+        "question": "What is the close-range shot using an upward release after driving to the basket called?",
+        "explanation": "The ball is often directed into the basket using the backboard."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лэй-ап",
+        "en": "Layup"
+      },
+      {
+        "id": "o1",
+        "ru": "Данк",
+        "en": "Dunk"
+      },
+      {
+        "id": "o2",
+        "ru": "Штрафной бросок",
+        "en": "Free throw"
+      },
+      {
+        "id": "o3",
+        "ru": "Бросок крюком",
+        "en": "Hook shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/suns/kids/jr-suns/basketball-101"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_pivot",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется поворот игрока с мячом при сохранении опорной ноги?",
+        "explanation": "Положение опорной ноги связано с правилом пробежки."
+      },
+      "en": {
+        "question": "In basketball, what is turning while holding the ball and keeping a pivot foot called?",
+        "explanation": "The pivot foot is governed by travelling rules."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поворот",
+        "en": "Pivot"
+      },
+      {
+        "id": "o1",
+        "ru": "Ведение",
+        "en": "Dribble"
+      },
+      {
+        "id": "o2",
+        "ru": "Пробежка",
+        "en": "Travelling"
+      },
+      {
+        "id": "o3",
+        "ru": "Остановка прыжком",
+        "en": "Jump stop"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_screen",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется законное занятие позиции, мешающее защитнику следовать за нападающим?",
+        "explanation": "Если при контакте ставящий заслон движется, заслон может быть незаконным."
+      },
+      "en": {
+        "question": "In basketball, what is legally taking a position that impedes a defender following an attacker called?",
+        "explanation": "A screener who is moving at the moment of contact can set an illegal screen."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Заслон",
+        "en": "Screen"
+      },
+      {
+        "id": "o1",
+        "ru": "Передача с отскоком",
+        "en": "Bounce pass"
+      },
+      {
+        "id": "o2",
+        "ru": "Поворот на опорной ноге",
+        "en": "Pivot"
+      },
+      {
+        "id": "o3",
+        "ru": "Перехват",
+        "en": "Steal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_fast_break",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется быстрая атака до построения защиты соперника?",
+        "explanation": "Часто он начинается после подбора или перехвата."
+      },
+      "en": {
+        "question": "In basketball, what is an attack launched before the opponents set their defence called?",
+        "explanation": "It often begins with a rebound or steal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Быстрый прорыв",
+        "en": "Fast break"
+      },
+      {
+        "id": "o1",
+        "ru": "Позиционная атака",
+        "en": "Half-court offence"
+      },
+      {
+        "id": "o2",
+        "ru": "Прессинг",
+        "en": "Press defence"
+      },
+      {
+        "id": "o3",
+        "ru": "Подбор в нападении",
+        "en": "Offensive rebound"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/suns/kids/jr-suns/basketball-101"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_zone",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется защита, при которой игроки отвечают преимущественно за участки площадки?",
+        "explanation": "Она отличается от постоянной персональной опеки конкретного соперника."
+      },
+      "en": {
+        "question": "In basketball, what is defence in which players are primarily responsible for court areas called?",
+        "explanation": "It differs from consistently marking a particular opponent."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зонная защита",
+        "en": "Zone defence"
+      },
+      {
+        "id": "o1",
+        "ru": "Персональная защита",
+        "en": "Man-to-man defence"
+      },
+      {
+        "id": "o2",
+        "ru": "Быстрый отрыв",
+        "en": "Fast break"
+      },
+      {
+        "id": "o3",
+        "ru": "Пик-н-ролл",
+        "en": "Pick-and-roll"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/zone/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_man_to_man",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется защита с персональной опекой соперников?",
+        "explanation": "У каждого защитника есть свой игрок, за которым он следит."
+      },
+      "en": {
+        "question": "In basketball, what is defence based on individually marking opponents called?",
+        "explanation": "Each defender generally has a specific opposing player to watch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Личная защита",
+        "en": "Man-to-man defence"
+      },
+      {
+        "id": "o1",
+        "ru": "Зонная защита",
+        "en": "Zone defence"
+      },
+      {
+        "id": "o2",
+        "ru": "Подбор в защите",
+        "en": "Defensive rebound"
+      },
+      {
+        "id": "o3",
+        "ru": "Позиционная атака",
+        "en": "Half-court offence"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cdn-uat.nba.com/news/detecting-zone-defense-measuring-impact"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_turnover",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется потеря владения, после которой мяч переходит сопернику?",
+        "explanation": "Причиной может быть неточная передача или нарушение."
+      },
+      "en": {
+        "question": "What is it called when the offence gives up possession of the ball to the defence?",
+        "explanation": "A bad pass or violation can cause one."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Потеря",
+        "en": "Turnover"
+      },
+      {
+        "id": "o1",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o2",
+        "ru": "Тайм-аут",
+        "en": "Time-out"
+      },
+      {
+        "id": "o3",
+        "ru": "Ассист",
+        "en": "Assist"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/stats/help/glossary"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_backcourt",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется половина площадки со своей корзиной?",
+        "explanation": "Правило возврата ограничивает возвращение туда мяча после установления контроля впереди."
+      },
+      "en": {
+        "question": "In basketball, what is the half of the court containing a team's own basket called?",
+        "explanation": "The backcourt rule restricts returning the ball there after establishing frontcourt control."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тыловая зона",
+        "en": "Backcourt"
+      },
+      {
+        "id": "o1",
+        "ru": "Передовая зона",
+        "en": "Frontcourt"
+      },
+      {
+        "id": "o2",
+        "ru": "Штрафная зона",
+        "en": "Restricted area"
+      },
+      {
+        "id": "o3",
+        "ru": "Трёхочковая зона",
+        "en": "Three-point area"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_centre_line",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "К какой зоне относится центральная линия площадки по правилам FIBA 2024?",
+        "explanation": "Линия идёт поперёк площадки между серединами боковых линий."
+      },
+      "en": {
+        "question": "Which area includes the centre line under the 2024 FIBA rules?",
+        "explanation": "The line runs across the court between the midpoints of the sidelines."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "К тыловой зоне",
+        "en": "The backcourt"
+      },
+      {
+        "id": "o1",
+        "ru": "К передовой зоне",
+        "en": "The frontcourt"
+      },
+      {
+        "id": "o2",
+        "ru": "К зоне трёхочкового броска обеих команд",
+        "en": "Both teams’ three-point areas"
+      },
+      {
+        "id": "o3",
+        "ru": "К участку за пределами площадки",
+        "en": "The out-of-bounds area"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_bounce_pass",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется передача с отскоком мяча от пола?",
+        "explanation": "Отскок помогает направить мяч к партнёру мимо рук защитника."
+      },
+      "en": {
+        "question": "In basketball, what is a pass that bounces off the floor called?",
+        "explanation": "The bounce can help send the ball past a defender's hands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Передача с отскоком",
+        "en": "Bounce pass"
+      },
+      {
+        "id": "o1",
+        "ru": "Передача от груди",
+        "en": "Chest pass"
+      },
+      {
+        "id": "o2",
+        "ru": "Передача сверху",
+        "en": "Overhead pass"
+      },
+      {
+        "id": "o3",
+        "ru": "Передача из-за спины",
+        "en": "Behind-the-back pass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/bounce-pass/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_chest_pass",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется передача двумя руками от груди?",
+        "explanation": "Мяч направляют партнёру выпрямлением рук."
+      },
+      "en": {
+        "question": "In basketball, what is a two-handed pass released from chest level called?",
+        "explanation": "The arms extend to send the ball to a teammate."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Передача от груди",
+        "en": "Chest pass"
+      },
+      {
+        "id": "o1",
+        "ru": "Передача с отскоком",
+        "en": "Bounce pass"
+      },
+      {
+        "id": "o2",
+        "ru": "Передача сверху",
+        "en": "Overhead pass"
+      },
+      {
+        "id": "o3",
+        "ru": "Передача из-за спины",
+        "en": "Behind-the-back pass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/chest-pass/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_alley_oop",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют комбинацию, в которой игрок ловит высокую передачу у кольца и забивает сверху ещё в прыжке?",
+        "explanation": "Партнёр ловит мяч и бросает до приземления."
+      },
+      "en": {
+        "question": "What is the play called when a player catches a high pass by the rim and dunks before landing?",
+        "explanation": "The teammate catches and shoots before landing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аллей-уп",
+        "en": "Alley-oop"
+      },
+      {
+        "id": "o1",
+        "ru": "Пик-н-ролл",
+        "en": "Pick-and-roll"
+      },
+      {
+        "id": "o2",
+        "ru": "Передача с отскоком",
+        "en": "Bounce pass"
+      },
+      {
+        "id": "o3",
+        "ru": "Бросок крюком",
+        "en": "Hook shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nba.com/news/a-deep-dive-into-how-nba-dunk-score-is-calculated"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_pick_roll",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется комбинация с заслоном и последующим движением поставившего его игрока к корзине?",
+        "explanation": "Игрок, поставивший заслон, может получить передачу в движении к корзине."
+      },
+      "en": {
+        "question": "In basketball, what is a screen followed by the screener moving towards the basket called?",
+        "explanation": "The screener can receive a pass while moving towards the basket."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пик-н-ролл",
+        "en": "Pick-and-roll"
+      },
+      {
+        "id": "o1",
+        "ru": "Пас и рывок к кольцу без заслона",
+        "en": "Give-and-go"
+      },
+      {
+        "id": "o2",
+        "ru": "Двойная опека",
+        "en": "Double team"
+      },
+      {
+        "id": "o3",
+        "ru": "Быстрый отрыв после подбора",
+        "en": "Fast break after a rebound"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/pick-and-roll/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_jump_shot",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в баскетболе называется бросок, выполняемый во время прыжка?",
+        "explanation": "Подъём помогает выполнить бросок поверх защиты."
+      },
+      "en": {
+        "question": "In basketball, what is a shot released during a jump called?",
+        "explanation": "The elevation helps the shooter release over defenders."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бросок в прыжке",
+        "en": "Jump shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Штрафной бросок с места",
+        "en": "Standing free throw"
+      },
+      {
+        "id": "o2",
+        "ru": "Передача сверху",
+        "en": "Overhead pass"
+      },
+      {
+        "id": "o3",
+        "ru": "Ведение с отскоком",
+        "en": "Dribbling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://jr.nba.com/jump-shot/"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_inside_arc",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько очков даёт обычное попадание с игры изнутри трёхочковой дуги по FIBA 2024?",
+        "explanation": "Стоимость определяется зоной, из которой выполнен бросок."
+      },
+      "en": {
+        "question": "How many points is a normal field goal from inside the three-point arc worth under FIBA 2024?",
+        "explanation": "The value depends on where the shot was released."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_line_out",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Игрок с мячом наступил на боковую линию. Где он находится по FIBA 2024?",
+        "explanation": "Граничные линии не входят в площадку."
+      },
+      "en": {
+        "question": "A player holding the ball steps on the sideline. Where is the player under FIBA 2024?",
+        "explanation": "Boundary lines are not part of the court."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "За пределами площадки",
+        "en": "Out of bounds"
+      },
+      {
+        "id": "o1",
+        "ru": "В пределах площадки",
+        "en": "In bounds"
+      },
+      {
+        "id": "o2",
+        "ru": "На нейтральной территории",
+        "en": "In a neutral zone"
+      },
+      {
+        "id": "o3",
+        "ru": "Только в передовой зоне",
+        "en": "Only in the frontcourt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_eight_seconds",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какое время команда должна перевести мяч из тыловой зоны в передовую по FIBA 2024?",
+        "explanation": "Отсчёт начинается при установленном контроле живого мяча в тыловой зоне."
+      },
+      "en": {
+        "question": "How long does a team have to move the ball from backcourt to frontcourt under FIBA 2024?",
+        "explanation": "The count begins with control of a live ball in the backcourt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "8 секунд",
+        "en": "8 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "5 секунд",
+        "en": "5 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "10 секунд",
+        "en": "10 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "14 секунд",
+        "en": "14 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_three_seconds",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько секунд обычно может стоять нападающий в штрафной зоне соперника, пока его команда владеет мячом в передовой зоне и часы идут?",
+        "explanation": "Правило действует при идущем игровом времени и предусматривает отдельные допуски."
+      },
+      "en": {
+        "question": "Under FIBA 2024, how long may an attacker normally stay in the opponents’ restricted area with frontcourt ball control and the clock running?",
+        "explanation": "It applies while the game clock runs and includes specific allowances."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3 секунды",
+        "en": "3 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "5 секунд",
+        "en": "5 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "8 секунд",
+        "en": "8 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "10 секунд",
+        "en": "10 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_throw_in",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какое время игрок должен выпустить мяч при вбрасывании по FIBA 2024?",
+        "explanation": "Отсчёт идёт после предоставления мяча в распоряжение игрока."
+      },
+      "en": {
+        "question": "How long does a player have to release a throw-in under FIBA 2024?",
+        "explanation": "The count starts when the ball is at the player's disposal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5 секунд",
+        "en": "5 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "3 секунды",
+        "en": "3 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "8 секунд",
+        "en": "8 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "12 секунд",
+        "en": "12 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_free_throw_time",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "За какое время выполняют штрафной бросок после получения мяча по FIBA 2024?",
+        "explanation": "Бросающий не должен касаться линии или площадки за ней до разрешённого момента."
+      },
+      "en": {
+        "question": "How long does a player have to release a free throw after receiving the ball under FIBA 2024?",
+        "explanation": "The shooter must not touch the line or court beyond it before the permitted moment."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5 секунд",
+        "en": "5 seconds"
+      },
+      {
+        "id": "o1",
+        "ru": "3 секунды",
+        "en": "3 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "8 секунд",
+        "en": "8 seconds"
+      },
+      {
+        "id": "o3",
+        "ru": "10 секунд",
+        "en": "10 seconds"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_timeout",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как долго длится обычный тайм-аут по FIBA 2024?",
+        "explanation": "Тайм-аут запрашивает тренер или первый помощник по установленной процедуре."
+      },
+      "en": {
+        "question": "How long is a normal time-out under FIBA 2024?",
+        "explanation": "A head coach or first assistant requests it through the prescribed procedure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1 минуту",
+        "en": "1 minute"
+      },
+      {
+        "id": "o1",
+        "ru": "30 секунд",
+        "en": "30 seconds"
+      },
+      {
+        "id": "o2",
+        "ru": "2 минуты",
+        "en": "2 minutes"
+      },
+      {
+        "id": "o3",
+        "ru": "3 минуты",
+        "en": "3 minutes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_timeouts_first",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько тайм-аутов доступно команде в первой половине матча FIBA 2024?",
+        "explanation": "Неиспользованные тайм-ауты нельзя переносить в следующую половину."
+      },
+      "en": {
+        "question": "How many time-outs does a team have in the first half under FIBA 2024?",
+        "explanation": "Unused time-outs cannot be carried into the next half."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_timeouts_carry",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Может ли команда перенести неиспользованный тайм-аут из первой половины матча FIBA 2024 в следующую?",
+        "explanation": "Та же норма запрещает переносить неиспользованные тайм-ауты в овертайм."
+      },
+      "en": {
+        "question": "Can a team carry an unused first-half time-out into the second half under the 2024 FIBA rules?",
+        "explanation": "The same rule prevents unused time-outs from carrying into overtime."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет, он сгорает",
+        "en": "No, it expires"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, но только один",
+        "en": "Yes, but only one"
+      },
+      {
+        "id": "o2",
+        "ru": "Да, если команда уступает",
+        "en": "Yes, if the team is behind"
+      },
+      {
+        "id": "o3",
+        "ru": "Да, если в первой половине не было ни одного тайм-аута",
+        "en": "Yes, if the team took none in the first half"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_timeout_overtime",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько тайм-аутов получает команда на каждый овертайм по FIBA 2024?",
+        "explanation": "Оставшиеся тайм-ауты предыдущих периодов не переносятся."
+      },
+      "en": {
+        "question": "How many time-outs does a team receive for each overtime under FIBA 2024?",
+        "explanation": "Unused time-outs from earlier periods are not carried over."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_opening",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как начинается первая четверть матча FIBA 2024?",
+        "explanation": "Позднейшие ситуации спорного мяча решают по правилу поочерёдного владения."
+      },
+      "en": {
+        "question": "How does the first quarter of a FIBA 2024 game begin?",
+        "explanation": "Later jump-ball situations use alternating possession."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спорным броском в центральном круге",
+        "en": "With a jump ball in the centre circle"
+      },
+      {
+        "id": "o1",
+        "ru": "Штрафным броском",
+        "en": "With a free throw"
+      },
+      {
+        "id": "o2",
+        "ru": "Вбрасыванием от лицевой",
+        "en": "With an endline throw-in"
+      },
+      {
+        "id": "o3",
+        "ru": "Трёхочковым броском без защиты",
+        "en": "With an uncontested three-pointer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_held_ball",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что определяет команду для вбрасывания после ситуации спорного мяча по FIBA 2024?",
+        "explanation": "После завершения такого вбрасывания стрелка меняет направление."
+      },
+      "en": {
+        "question": "What determines which team throws in after a held-ball situation under FIBA 2024?",
+        "explanation": "The arrow reverses after that throw-in is completed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стрелка поочерёдного владения",
+        "en": "The alternating-possession arrow"
+      },
+      {
+        "id": "o1",
+        "ru": "Повторный спорный бросок",
+        "en": "A new jump ball"
+      },
+      {
+        "id": "o2",
+        "ru": "Первое касание мяча",
+        "en": "The first player to touch the ball"
+      },
+      {
+        "id": "o3",
+        "ru": "Порядок подачи в четверти",
+        "en": "The order of throw-ins at quarter starts"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_arc",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков радиус основной трёхочковой дуги FIBA 2024?",
+        "explanation": "В углах площадки дуга соединяется с прямыми отрезками."
+      },
+      "en": {
+        "question": "What is the radius of the main FIBA 2024 three-point arc?",
+        "explanation": "Near the corners the arc joins straight segments."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6,75 м",
+        "en": "6.75 m"
+      },
+      {
+        "id": "o1",
+        "ru": "6,25 м",
+        "en": "6.25 m"
+      },
+      {
+        "id": "o2",
+        "ru": "7,24 м",
+        "en": "7.24 m"
+      },
+      {
+        "id": "o3",
+        "ru": "5,80 м",
+        "en": "5.80 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_centre_circle",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каков радиус центрального круга по FIBA 2024?",
+        "explanation": "Радиус измеряют до внешнего края линии круга."
+      },
+      "en": {
+        "question": "What is the centre-circle radius under FIBA 2024?",
+        "explanation": "The radius is measured to the outer edge of the circle line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1,80 м",
+        "en": "1.80 m"
+      },
+      {
+        "id": "o1",
+        "ru": "1,30 м",
+        "en": "1.30 m"
+      },
+      {
+        "id": "o2",
+        "ru": "2,45 м",
+        "en": "2.45 m"
+      },
+      {
+        "id": "o3",
+        "ru": "3,60 м",
+        "en": "3.60 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_basket_from_below",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что фиксируют по правилам FIBA 2024, если игрок направил мяч снизу вверх сквозь корзину?",
+        "explanation": "Обычное попадание засчитывают, когда мяч входит в корзину сверху."
+      },
+      "en": {
+        "question": "Under the 2024 FIBA rules, what happens if a player sends the entire ball up through the basket from below?",
+        "explanation": "A legal goal requires the ball to enter the basket from above."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нарушение",
+        "en": "A violation"
+      },
+      {
+        "id": "o1",
+        "ru": "Два очка",
+        "en": "Two points"
+      },
+      {
+        "id": "o2",
+        "ru": "Спорный мяч",
+        "en": "A held ball"
+      },
+      {
+        "id": "o3",
+        "ru": "Один штрафной бросок",
+        "en": "One free throw"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_shot_clock_release",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что должно произойти до сигнала окончания времени на бросок по FIBA 2024?",
+        "explanation": "После выпуска мяч должен коснуться кольца или попасть в корзину."
+      },
+      "en": {
+        "question": "What must happen before the shot-clock signal under FIBA 2024?",
+        "explanation": "After release the ball must touch the ring or enter the basket."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мяч должен покинуть руку бросающего",
+        "en": "The ball must leave the shooter's hand"
+      },
+      {
+        "id": "o1",
+        "ru": "Мяч обязан уже пройти сквозь сетку",
+        "en": "The ball must already pass through the net"
+      },
+      {
+        "id": "o2",
+        "ru": "Мяч должен коснуться пола",
+        "en": "The ball must touch the floor"
+      },
+      {
+        "id": "o3",
+        "ru": "Игрок обязан приземлиться",
+        "en": "The shooter must land"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_travel",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют незаконное перемещение ног игроком, держащим живой мяч?",
+        "explanation": "Правило учитывает опорную ногу и допустимые шаги."
+      },
+      "en": {
+        "question": "What is an illegal movement of the feet while holding a live ball called?",
+        "explanation": "The rule considers the pivot foot and permitted steps."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пробежка",
+        "en": "Travelling"
+      },
+      {
+        "id": "o1",
+        "ru": "Перехват",
+        "en": "Steal"
+      },
+      {
+        "id": "o2",
+        "ru": "Подбор",
+        "en": "Rebound"
+      },
+      {
+        "id": "o3",
+        "ru": "Блок-шот",
+        "en": "Block"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_double_dribble",
+    "categoryId": "basketball",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Игрок закончил ведение и без нового разрешающего события снова начал его. Что это по FIBA 2024?",
+        "explanation": "Новый дриблинг допустим лишь после перечисленных в правилах событий."
+      },
+      "en": {
+        "question": "A player ends a dribble and starts another without an event allowing it. What is this under FIBA 2024?",
+        "explanation": "Another dribble is allowed only after events specified by the rules."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Двойное ведение",
+        "en": "Double dribble"
+      },
+      {
+        "id": "o1",
+        "ru": "Законный финт",
+        "en": "Legal fake"
+      },
+      {
+        "id": "o2",
+        "ru": "Спорный мяч",
+        "en": "Held ball"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязательный тайм-аут",
+        "en": "Mandatory time-out"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_intentional_own",
+    "categoryId": "basketball",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Игрок намеренно забросил мяч в собственную корзину. Каково решение FIBA 2024?",
+        "explanation": "Это отличается от случайного попадания в собственную корзину."
+      },
+      "en": {
+        "question": "A player deliberately scores in their own basket. What is the FIBA 2024 ruling?",
+        "explanation": "This differs from an accidental own basket."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нарушение, попадание не засчитывается",
+        "en": "Violation, the basket does not count"
+      },
+      {
+        "id": "o1",
+        "ru": "Два очка сопернику",
+        "en": "Two points to the opponents"
+      },
+      {
+        "id": "o2",
+        "ru": "Три очка сопернику",
+        "en": "Three points to the opponents"
+      },
+      {
+        "id": "o3",
+        "ru": "Очко своей команде",
+        "en": "One point to their own team"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "basketball_m50_technical",
+    "categoryId": "basketball",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько штрафных бросков обычно назначают за технический фол по FIBA 2024?",
+        "explanation": "Технический фол относится к поведению, а не обязательно к физическому контакту."
+      },
+      "en": {
+        "question": "How many free throws are normally awarded for a technical foul under FIBA 2024?",
+        "explanation": "A technical foul concerns conduct and need not involve physical contact."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
+    ],
+    "image": null
   }
 ]

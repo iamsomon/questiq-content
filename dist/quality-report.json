@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1760,
+  "approvedQuestions": 1880,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 8240,
+  "remainingQuestions": 8120,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -676,40 +676,40 @@
     },
     {
       "id": "football",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 19,
+        "medium": 22,
+        "hard": 9
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 61,
+        "medium": 58,
+        "hard": 31
       }
     },
     {
       "id": "basketball",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -733,21 +733,21 @@
     },
     {
       "id": "tennis",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 18,
+        "medium": 22,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 62,
+        "medium": 58,
+        "hard": 30
       }
     },
     {
