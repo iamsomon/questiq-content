@@ -358,5 +358,550 @@
         "claim": "Whose story inspired Shostakovich's opera The Nose? Answer: Nikolai Gogol. As well as operas, Shostakovich wrote fifteen symphonies."
       }
     ]
+  },
+  {
+    "id": "music_m50_flute",
+    "status": "approved",
+    "sha256": "a20006b28cffa658f32e921f0f2e8a977fb26067877bd81db940542a70672899",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/mechanism002.html",
+        "location": "Embouchure hole: air directed across its edge",
+        "claim": "Which musical instrument is normally held sideways in an orchestra and played by blowing across an opening? Answer: Flute. The modern orchestral flute has no reed."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_clarinet",
+    "status": "approved",
+    "sha256": "063585d248aca58d3426bc2d053e2e3b86c04ceb1dec063943f1927f4b96414c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.yamaha.com/en/musical_instrument_guide/clarinet/play/",
+        "location": "Assembly and using the mouthpiece: reed on mouthpiece",
+        "claim": "Which musical instrument uses a single reed attached to a mouthpiece? Answer: Clarinet. The reed vibrates as air flows past it."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_bassoon",
+    "status": "approved",
+    "sha256": "8704abdf7ead370e8ae9381ced700cd541fc9695600962b9db252f1314b80f89",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.yamaha.com/en/musical_instrument_guide/bassoon/mechanism/",
+        "location": "A long tube folded in two; metal bocal and attached reed",
+        "claim": "Which musical instrument has a long folded bore and uses a double reed on a curved metal tube? Answer: Bassoon. Its low register makes it an important bass woodwind instrument."
+      },
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/bassoon/",
+        "location": "About: double reed",
+        "claim": "The bassoon uses a double reed."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_horn",
+    "status": "approved",
+    "sha256": "b8a3cae27dcedc024954488f665a0b3f57eb206dda4781459bccce0f630f0c83",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.yamaha.com/en/musical_instrument_guide/horn/play/play002.html",
+        "location": "Hand-stopping: right hand inside bell",
+        "claim": "When playing which brass instrument does a musician normally keep the right hand inside the bell? Answer: French horn. Hand position affects timbre and pitch."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_trombone",
+    "status": "approved",
+    "sha256": "2bc9e8ab6697be32bd14c6eb482aadc4e1e125f460280735d8563cb1f5d6c347",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+        "location": "Instrument introduction/construction; trombone",
+        "claim": "Which musical instrument normally changes air-column length using a slide? Answer: Trombone. The slide allows smooth movement between pitches."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_tuba",
+    "status": "approved",
+    "sha256": "6fd76091931b047f7e4abf329e2ca58b405e1d86529fe9a5435dfb3a4d73e8d9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/tuba/",
+        "location": "Instrument introduction/construction; tuba",
+        "claim": "Which musical instrument usually plays the lowest part in the standard orchestral brass section? Answer: Tuba. Its long tubing is related to its low range."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_harp",
+    "status": "approved",
+    "sha256": "4d3bd42bdce84deb6255b75dd44b8cb732d7977cbc50bb89c7200aaaefde1bb2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "location": "Instrument introduction/construction; harp",
+        "claim": "Which orchestral instrument in its modern concert version usually has 47 strings and seven pedals? Answer: Harp. The pedals change string pitches and allow chromatic notes."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_timpani",
+    "status": "approved",
+    "sha256": "262f2e9b778d54b45780ecc4fa1cbaacb995e7f8ce984ae6f46cfcf43c091618",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/timpani/",
+        "location": "Instrument introduction/construction; timpani",
+        "claim": "Which musical instrument consists of pitch-tuned kettledrums? Answer: Timpani. Changing head tension changes pitch."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_snare",
+    "status": "approved",
+    "sha256": "43bc03d9cb09446013a8f257c8645450c610008375d4abd59f73205f6b897db3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "location": "Instrument introduction/construction; snare",
+        "claim": "Which musical instrument has wires beneath the lower head that create a rattling sound? Answer: Snare drum. Wire tension affects the sound's character."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_xylophone",
+    "status": "approved",
+    "sha256": "0046521e2ab767d1a99dfe34a9b324976101c44ef185fe006aa1fc19483188a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "location": "Instrument introduction/construction; xylophone",
+        "claim": "Which musical instrument has wooden bars struck with mallets? Answer: Xylophone. Bar length is related to pitch."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_glockenspiel",
+    "status": "approved",
+    "sha256": "e0725d35dec4c9484bd7f5a046a847536a2c6e9edd091eea2f88f92154b149be",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "location": "Instrument introduction/construction; glockenspiel",
+        "claim": "Which musical instrument has metal bars and a high bell-like sound? Answer: Glockenspiel. The bar material distinguishes it from a xylophone."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_celesta",
+    "status": "approved",
+    "sha256": "26b7042b4c818f73329f1531caec4e3a18615fb55b882cf2a5fb711e9a75749b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.yamaha.com/en/musical_instrument_guide/celesta/mechanism/",
+        "location": "Metal sound bars struck by hammers under a keyboard",
+        "claim": "Which musical instrument resembles a small keyboard instrument but uses hammers striking metal plates? Answer: Celesta. Wooden resonator boxes sit beneath the metal bars."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_piccolo",
+    "status": "approved",
+    "sha256": "bfa0777caf44f6c8b16c10897c61bb24a991f6a9247af747a359e36e9575c6fb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "location": "Range: piccolo sounds one octave above written pitch",
+        "claim": "Which musical instrument is a small relative of the flute sounding an octave above the written pitch? Answer: Piccolo. It adds a very high register to the orchestra."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_cor_anglais",
+    "status": "approved",
+    "sha256": "496dffaad5c455237bdfa4ca632ffe71e5965a8c05ee55e3138f27bf84f5957c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/cor-anglais/",
+        "location": "Instrument introduction/construction; cor_anglais",
+        "claim": "Which musical instrument is an alto relative of the oboe with a pear-shaped bell? Answer: Cor anglais. Despite its name it is a woodwind rather than a brass instrument."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_contrabassoon",
+    "status": "approved",
+    "sha256": "f3e4bd9bff254c3aaec77b3042c9c879cc95465b2e6bbdf47dbaf01a9a6e8720",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/contrabassoon/",
+        "location": "Instrument introduction/construction; contrabassoon",
+        "claim": "Which musical instrument sounds an octave below a standard bassoon? Answer: Contrabassoon. It extends the low range of orchestral woodwinds."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_viola",
+    "status": "approved",
+    "sha256": "0719eb2d8e81419f0dcc8dc39f7f3198cb5ac9c9e202a78e96e74c3563c715fe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/viola/",
+        "location": "Instrument introduction/construction; viola",
+        "claim": "Which bowed instrument is larger than a violin and is the alto voice of the orchestral string family? Answer: Viola. Its lowest note is a fifth below the violin’s lowest note."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_cello",
+    "status": "approved",
+    "sha256": "ae9f88bc07e0a4c4bcd127293e66810b21471e4fbae84c7a522db628d0f8c159",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/cello/",
+        "location": "Instrument introduction/construction; cello",
+        "claim": "Which bowed instrument is the tenor voice of the string family and has strings tuned C, G, D and A? Answer: Cello. Its lowest string sounds an octave below the viola’s lowest string."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_double_bass",
+    "status": "approved",
+    "sha256": "2ddc25b2daf5cec2e4904980933272c087c82af4a279be34b094e13a99598e5a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/double-bass/",
+        "location": "Instrument introduction/construction; double_bass",
+        "claim": "Which musical instrument is the largest standard orchestral bowed string instrument? Answer: Double bass. It is played standing or seated on a high stool."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_triangle",
+    "status": "approved",
+    "sha256": "5eab86579a86e4aca3fe6b93274eb36e395bddc488e4d71db997ef7b71d33afb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "location": "Instrument introduction/construction; triangle",
+        "claim": "Which musical instrument is a bent metal bar struck with a beater? Answer: Triangle. Its ringing tone can carry through a dense orchestral texture."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_cymbals",
+    "status": "approved",
+    "sha256": "eb808739b15df753ccb93a262511508efb6d328d1f27f2240eae81e3ed7bf80c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "location": "Instrument introduction/construction; cymbals",
+        "claim": "Which musical instrument consists of metal plates struck together or with sticks? Answer: Cymbals. Size and playing technique affect the sound."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_swan",
+    "status": "approved",
+    "sha256": "0780a7b65905091a2ef9f7106b15c9e0bb3998229a64386a103227f0e9e8b407",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/selections-from-swan-lake",
+        "location": "Named composer heading and programme note on swan",
+        "claim": "Who composed the ballet Swan Lake? Answer: Pyotr Tchaikovsky. He also composed The Sleeping Beauty and The Nutcracker."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_magic_flute",
+    "status": "approved",
+    "sha256": "d40d015198f4805408c79c7bc420daac1c49b6a2c81f16a611cd6931c6f3b0d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/overture-to-the-magic-flute",
+        "location": "Named composer heading and programme note on magic flute",
+        "claim": "Who composed the opera The Magic Flute? Answer: Wolfgang Amadeus Mozart. It premiered in Vienna in 1791."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_four_seasons",
+    "status": "approved",
+    "sha256": "c7b158d01c7e704883fe329d8bc3b3b0d49397cfcc0c227e3c0f9da23a0fb671",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/the-four-seasons",
+        "location": "Named composer heading and programme note on four seasons",
+        "claim": "Who composed the violin concerto cycle The Four Seasons? Answer: Antonio Vivaldi. The four concertos depict spring, summer, autumn and winter."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_brandenburg",
+    "status": "approved",
+    "sha256": "fde6dc188578d48aa7a24fbab665dbe6638af6c8401e4c099360dd58a7a54a6a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/brandenburg-concertos-complete",
+        "location": "Named composer heading and programme note on brandenburg",
+        "claim": "Who composed the Brandenburg Concertos? Answer: Johann Sebastian Bach. The collection contains six instrumental concertos."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_peter_wolf",
+    "status": "approved",
+    "sha256": "aab832c2e92300d9d4a650792a5187cb707072eb4bd939d7226799c4a5352ca6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/peter-and-the-wolf",
+        "location": "Named composer heading and programme note on peter wolf",
+        "claim": "Who composed the symphonic tale Peter and the Wolf? Answer: Sergei Prokofiev. Characters are represented by particular orchestral instruments."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_carnival",
+    "status": "approved",
+    "sha256": "c2bec036048fafc4c5811d6456e35f3be9f814f8d01a6d36bb2d8b73918758e4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/the-carnival-of-the-animals",
+        "location": "Named composer heading and programme note on carnival",
+        "claim": "Who composed the suite The Carnival of the Animals? Answer: Camille Saint-Saëns. The Swan is a particularly famous movement from it."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_bolero",
+    "status": "approved",
+    "sha256": "de9309165de7dc07dacb427ab53c69a1a4de1a31b25bc79392ac15c36a72eed0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/bolero",
+        "location": "Named composer heading and programme note on bolero",
+        "claim": "Who composed the orchestral Boléro? Answer: Maurice Ravel. A snare-drum rhythmic pattern repeats throughout the work."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_carmen",
+    "status": "approved",
+    "sha256": "a57d580a6ea3c487d4fbf112566124198353e031abe8142410118d4bb33eb8a9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/carmen-ballet",
+        "location": "Named composer heading and programme note on carmen",
+        "claim": "Who composed the opera Carmen? Answer: Georges Bizet. One of its well-known numbers is the Habanera."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_aida",
+    "status": "approved",
+    "sha256": "d65328408217617b2f4529eb206da0832dd87a85095d544225a4fa81b13661c9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/aida",
+        "location": "Named composer heading and programme note on aida",
+        "claim": "Who composed the opera Aida? Answer: Giuseppe Verdi. Its story is set in ancient Egypt."
+      }
+    ]
+  },
+  {
+    "id": "music_m50_new_world",
+    "status": "approved",
+    "sha256": "5c0d6ea80748d5da8d9e18764b29a23b468b7132012bf994e74fe0a5284a6416",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read Philharmonia player instrument profiles, Yamaha instrument construction and playing guides and ten direct LA Philharmonic programme notes. Separate full RU/EN and comparable distractor pass; replaced unsupported construction details and corrected a language-specific cello abbreviation question.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.laphil.com/works/symphony-no-9-in-e-minor-op-95-b-178-from-the-new-world",
+        "location": "Named composer heading and programme note on new world",
+        "claim": "Who composed Symphony No. 9 From the New World? Answer: Antonín Dvořák. It was written while the composer was working in the United States."
+      }
+    ]
   }
 ]

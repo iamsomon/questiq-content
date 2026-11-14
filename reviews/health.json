@@ -358,5 +358,545 @@
         "claim": "What is an organism or agent capable of causing disease called? Answer: Pathogen. Pathogens include, for example, some bacteria and viruses."
       }
     ]
+  },
+  {
+    "id": "health_m50_epidemiology",
+    "status": "approved",
+    "sha256": "d915ed26efa45bf79af230547adf9baf26a2dddc6eb0518d67341adef59799cc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: epidemiology",
+        "claim": "Which science studies the distribution and causes of diseases in populations? Answer: Epidemiology. Its scope extends beyond infections to conditions such as noncommunicable diseases."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_incubation",
+    "status": "approved",
+    "sha256": "60e2d4f3b45a4fd966f25922419bacc195d0110246a44dd0b9a9f917a74f8cb3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: incubation",
+        "claim": "What is the time from infection to the appearance of symptoms called? Answer: Incubation period. Its duration differs between infections."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_pandemic",
+    "status": "approved",
+    "sha256": "628f33e3f6ba567012dfdbacba6d07d15568a82bff870c4d0dfa599137d27a21",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: pandemic",
+        "claim": "What is an epidemic spreading across several countries or continents called? Answer: Pandemic. The term describes geographic spread, not disease severity by itself."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_endemic",
+    "status": "approved",
+    "sha256": "2261356e497f529639fda4686cd069a34b145a43bff2544b9a071f2c371249f7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: endemic",
+        "claim": "What is the usual ongoing presence of a disease in a particular area called? Answer: Endemicity. The expected local level is distinguished from an unusual increase."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_epidemic",
+    "status": "approved",
+    "sha256": "346afff55f784003d280b4e8071211519305f068a102c2c9d6062097cf14c81b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: epidemic",
+        "claim": "What is disease occurrence clearly above the expected level called? Answer: Epidemic. Assessment depends on the area, time and usual case frequency."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_zoonosis",
+    "status": "approved",
+    "sha256": "7a41e5d601273b4e11c5981024b49cac56b5b0f1cd7ef2fffc842a801fc95178",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: zoonosis",
+        "claim": "What is an infection naturally transmitted between vertebrate animals and humans called? Answer: Zoonosis. Not every human disease has an animal source."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_vector",
+    "status": "approved",
+    "sha256": "077d452ada91906611c3fa04a7b8f1b2e091b891d264ca30c9fd2d2d2c1ee517",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: vector",
+        "claim": "What is a living carrier transmitting a pathogen between hosts called? Answer: Vector. For example, some mosquitoes transmit infectious agents."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_reservoir",
+    "status": "approved",
+    "sha256": "02d28aa44a373024cd3e6654641b87bdcd207e41e5d433b9fecf571851930cdf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: reservoir",
+        "claim": "What is the natural habitat where an infectious agent normally lives and multiplies called? Answer: Reservoir of infection. It may be animals, people or an environmental component."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_asymptomatic",
+    "status": "approved",
+    "sha256": "7dcaef4f6c4e3e7b6c5d548965055008244f0d40089f356ab095219936ab66b2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/asymptomatic",
+        "location": "NCI/NIH dictionary definition: asymptomatic",
+        "claim": "What is an infection course without apparent symptoms called? Answer: Asymptomatic infection. Absence of symptoms does not always mean absence of the agent."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_surveillance",
+    "status": "approved",
+    "sha256": "089cc5f2a18da238bc4cc623d5cce5e49dcdc5fb4c42ad1e488aeecf0fc73eb0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: surveillance",
+        "claim": "What is the ongoing collection and analysis of population health data to identify threats and plan responses called? Answer: Public-health surveillance. The data are also interpreted and shared with people responsible for public-health action."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_prevalence",
+    "status": "approved",
+    "sha256": "16c843da7d1ce6f7e17b05025fe36df08a71cb2cf6012a97c9b1b4787c207bcd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: prevalence",
+        "claim": "What is the proportion of a population with a condition at a specified time or period called? Answer: Prevalence. It includes existing cases rather than only new ones."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_incidence",
+    "status": "approved",
+    "sha256": "49b5ff867d11cffbbab3c09266df14c6a9209fa0c83e9e66297c827d114c6b08",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: incidence",
+        "claim": "What is the occurrence of new disease cases in a population over a period called? Answer: Incidence. It concerns new cases, unlike prevalence."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_case_control",
+    "status": "approved",
+    "sha256": "c4940dff08324d7638e7b9893812bf2a6f5a9b78a5f0ed90544e566e1c697589",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: case control",
+        "claim": "What is an observational study comparing people with and without a disease in terms of past exposures called? Answer: Case-control study. This design starts with cases and a control group and then compares their exposures."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_contact_tracing",
+    "status": "approved",
+    "sha256": "84df684837302e75de36f37169d93e87174b1e8f4092f8053732ca398c68d317",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/contact-tracing",
+        "location": "What is contact tracing: identification, listing and follow-up",
+        "claim": "What is identifying people who have been in contact with an infected person called? Answer: Contact tracing. It helps identify possible transmission chains."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_fomite",
+    "status": "approved",
+    "sha256": "6e1e54d53ff163025ac34b801c0a326c12f31feb4a0887af428bdefccbf76b80",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/infection-control/hcp/environmental-control/glossary.html",
+        "location": "Fomite: inanimate object serving in transmission",
+        "claim": "What is an inanimate object that can transmit an infectious agent called? Answer: Fomite. A contaminated object differs from a living vector."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_cohort",
+    "status": "approved",
+    "sha256": "19082d9588f87cf54b4563b7299a7d8afa3c079815df4ab5f5f52e3bdc6c146b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: cohort",
+        "claim": "What is a group sharing a characteristic or experience followed over time called? Answer: Cohort. Comparing groups helps investigate risk factors."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_risk_factor",
+    "status": "approved",
+    "sha256": "d2c0b16622f4f97178586b0647b9a46c8018da10b70e93e97740c93be8ab7c17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: risk factor",
+        "claim": "What is a characteristic or exposure associated with greater disease probability called? Answer: Risk factor. A statistical association alone does not prove causation."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_randomized",
+    "status": "approved",
+    "sha256": "c70d3c21ab0138b7fe870dbce755bc20c72a6a54129c45fcbe52aee96a489996",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/randomized-clinical-trial",
+        "location": "NCI/NIH dictionary definition: randomized-clinical-trial",
+        "claim": "What is a study assigning participants to groups by chance called? Answer: Randomised study. Random assignment helps reduce systematic differences between groups."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_placebo",
+    "status": "approved",
+    "sha256": "dfad5860914357d41c6abdac425f6c0defe3e8fde4e340b8bb3623e36179f284",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/placebo",
+        "location": "NCI/NIH dictionary definition: placebo",
+        "claim": "What is an intervention without the active component being studied, used for comparison called? Answer: Placebo. This control helps assess the effect of the intervention under study."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_bias",
+    "status": "approved",
+    "sha256": "14d7616db803e8decbe06fbeeadf5b3dea01211e75cc9e099cf3fd9d44a93c45",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cdc.gov/reproductive-health/glossary/",
+        "location": "Epidemiology glossary: bias",
+        "claim": "What is a systematic distortion in study results called? Answer: Bias. This distortion differs from random variation in the data."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_innate",
+    "status": "approved",
+    "sha256": "975626b8cdaa9a8315e5dc70ad8b762cf6a0e1d39023954d9e1e75aedf569903",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/innate-immunity",
+        "location": "NCI/NIH dictionary definition: innate-immunity",
+        "claim": "Which term means body defence acting rapidly without prior exposure to a particular pathogen? Answer: Innate immunity. Its barriers include skin and mucous membranes."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_adaptive",
+    "status": "approved",
+    "sha256": "0fc852f9ad7500fbc3d43c0501e7ed4a05cf8aac0322616d38e756a32a321730",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/acquired-immunity",
+        "location": "NCI/NIH dictionary definition: acquired-immunity",
+        "claim": "What is immunity in which the body develops its own response after infection or vaccination called? Answer: Adaptive immunity. It differs from receiving ready-made antibodies in passive immunity."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_b_cell",
+    "status": "approved",
+    "sha256": "8751bc7fd0ecd1151c364c45b049743c370273de6125c80439eaf9d2686cc4d6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/b-cell",
+        "location": "NCI/NIH dictionary definition: b-cell",
+        "claim": "Which type of lymphocyte is associated with antibody production? Answer: B lymphocyte. These cells develop from stem cells in the bone marrow."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_nk_cell",
+    "status": "approved",
+    "sha256": "f20ab4f18562e95afcf627aed6c0334cbfb816c7ebb3e2b285aa1cea45283e82",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/natural-killer-cell",
+        "location": "NCI/NIH dictionary definition: natural-killer-cell",
+        "claim": "Which immune cells are abbreviated NK? Answer: Natural killer cells. Their granules contain enzymes that can kill tumour cells and virus-infected cells."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_phagocytosis",
+    "status": "approved",
+    "sha256": "ef68e242c9f05184cbbef1ab2ff2e754ff4964b76b41bddf77c8e3063d1f1efc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/phagocytosis",
+        "location": "NCI/NIH dictionary definition: phagocytosis",
+        "claim": "Which term means a cell's engulfment of solid particles or microorganisms? Answer: Phagocytosis. The process removes foreign substances and dead cells."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_inflammation",
+    "status": "approved",
+    "sha256": "657ef7d242cb88c7ab089d8d89e333c6766c10375814754d95d6365c2903b49b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/inflammation",
+        "location": "NCI/NIH dictionary definition: inflammation",
+        "claim": "What is the body’s response to infection or injury involving release of substances that trigger a local immune response called? Answer: Inflammation. In its chronic form, the process does not stop when it should and can damage healthy tissue."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_passive",
+    "status": "approved",
+    "sha256": "94d7f24218be125f7655533a6db1b6e081ecc2e042c3919f62fd193a0fe90a4f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/acquired-immunity",
+        "location": "NCI/NIH dictionary definition: acquired-immunity",
+        "claim": "What is immunity in which a person receives ready-made antibodies rather than producing them called? Answer: Passive immunity. It differs from an active immune response made by the person’s own body."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_autoimmune",
+    "status": "approved",
+    "sha256": "b63a33a9b351d911aa87ebb685245d18ad2c95a5a0c1bb857235f7b09027a53c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/autoimmune-disease",
+        "location": "NCI/NIH dictionary definition: autoimmune-disease",
+        "claim": "Which term means a condition in which the immune system attacks the body's own tissues? Answer: Autoimmune disease. The distinction between self and foreign material breaks down."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_immunodeficiency",
+    "status": "approved",
+    "sha256": "de9791e9c8d52eedb0ef3223e1ac96f6c65cb840381cbfaae3f80a84621e6e50",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/immunodeficiency",
+        "location": "NCI/NIH dictionary definition: immunodeficiency",
+        "claim": "Which term means a condition with inadequate function of one or more immune defences? Answer: Immunodeficiency. The term describes a reduced ability to fight infections."
+      }
+    ]
+  },
+  {
+    "id": "health_m50_complement",
+    "status": "approved",
+    "sha256": "4c924a2551c320be39ce350cf379e3106d46ddac8f40b636a007d392e2ef1f66",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CDC epidemiology and environmental-control glossary entries, WHO contact tracing and NCI/NIH dictionary definitions. Replaced ambiguous outbreak/epidemic and cross-pack thymus duplicates; separate full RU/EN and answer-choice review.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/complement-protein",
+        "location": "NCI/NIH dictionary definition: complement-protein",
+        "claim": "Which arm of immune defence is a system of circulating proteins rather than a group of cells? Answer: Complement system. These proteins help defend against infections."
+      }
+    ]
   }
 ]
