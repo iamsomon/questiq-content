@@ -178,5 +178,725 @@
         "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf"
       }
     ]
+  },
+  {
+    "id": "basketball_m50_dribble",
+    "status": "approved",
+    "sha256": "d59d038dbdc3b42404ab99a546e8972136469189559bacde5998bf5017476f9c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 24.1, Dribbling",
+        "claim": "In basketball, what is moving the ball by repeatedly bouncing it on the floor called? Dribbling. It lets a player move while controlling the ball."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_rebound",
+    "status": "approved",
+    "sha256": "b0ac25cbf997bf77bd6a65f41621c22007d7d98e5cabf580c56f1f3fd4a8d2db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/stats/help/glossary",
+        "location": "REB, Rebounds",
+        "claim": "In basketball, what is gaining the ball after a missed shot called? Rebound. A rebound can be offensive or defensive."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_assist",
+    "status": "approved",
+    "sha256": "e8005e6a536ffd08ddabcd0c7e1f9e1e5dbb025b27a51f107dd67dccf7359170",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/assists/",
+        "location": "Assists, scoring play examples",
+        "claim": "In basketball, what is a pass to a teammate that leads to a made basket called? Assist. Not every pass before a basket qualifies statistically."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_steal",
+    "status": "approved",
+    "sha256": "0314b50f9cc45cae278f8666246d033d850235be2ae0c5b19ed9f5b7cb6a68e7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/stats/help/glossary",
+        "location": "STL, Steals",
+        "claim": "In basketball, what is a defender's action resulting in taking possession from an opponent called? Steal. It can occur during an opponent's pass or dribble."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_block",
+    "status": "approved",
+    "sha256": "1a292c325cb665dd131ba2da57697ebef27a95bebb6735edd275ae3f931752ee",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/stats/help/glossary",
+        "location": "BLK, Blocks",
+        "claim": "In basketball, what is a defender's deflection of an opponent's shot called? Blocked shot. The defender touches the shot and prevents it from scoring."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_dunk",
+    "status": "approved",
+    "sha256": "cdd6e3c33fc6128b8a3d2c457790fc98d38bf9690d09cddc5c9c33ec9e6c7f61",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/news/a-deep-dive-into-how-nba-dunk-score-is-calculated",
+        "location": "Dunk Score features, ball passing through the rim",
+        "claim": "In basketball, what is a shot in which a player forces the ball down through the rim called? Dunk. In the NBA dunk analysis, one measured feature is ball speed through the rim."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_layup",
+    "status": "approved",
+    "sha256": "bf45b6831a97d284b95906c9faaf2cbb585cd8c10fedbcbb5e4e58fb54972824",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/suns/kids/jr-suns/basketball-101",
+        "location": "Terminology, lay-up",
+        "claim": "What is the close-range shot using an upward release after driving to the basket called? Layup. The ball is often directed into the basket using the backboard."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_pivot",
+    "status": "approved",
+    "sha256": "0e459f505a623f99b33964a7c577d069aea59bda16bc92b8da2f1234c02355a5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 25.1.2, Pivot",
+        "claim": "In basketball, what is turning while holding the ball and keeping a pivot foot called? Pivot. The pivot foot is governed by travelling rules."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_screen",
+    "status": "approved",
+    "sha256": "85a96cd9cf34e2354a11b3334d7160493c1ed1a719df4c499bd73d86f5703fab",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 33.7, Screening: Legal and illegal",
+        "claim": "In basketball, what is legally taking a position that impedes a defender following an attacker called? Screen. A screener who is moving at the moment of contact can set an illegal screen."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_fast_break",
+    "status": "approved",
+    "sha256": "fd1eeea3fabca08715ad334e749fe0fef87a41b4056d044f01a92f30b949bd15",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/suns/kids/jr-suns/basketball-101",
+        "location": "Terminology, fast break",
+        "claim": "In basketball, what is an attack launched before the opponents set their defence called? Fast break. It often begins with a rebound or steal."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_zone",
+    "status": "approved",
+    "sha256": "4473c181e15f3314176ebb61e5068dae89443aa6785d4611098aa01cc5cc25cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/zone/",
+        "location": "Zone",
+        "claim": "In basketball, what is defence in which players are primarily responsible for court areas called? Zone defence. It differs from consistently marking a particular opponent."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_man_to_man",
+    "status": "approved",
+    "sha256": "25a8e744398917a97d5c5e44367d65edbbb2a88ade113d42317beee2bd93095c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cdn-uat.nba.com/news/detecting-zone-defense-measuring-impact",
+        "location": "Zone and man-to-man definitions",
+        "claim": "In basketball, what is defence based on individually marking opponents called? Man-to-man defence. Each defender generally has a specific opposing player to watch."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_turnover",
+    "status": "approved",
+    "sha256": "dbea3b043b5d3faeec65fc458a65249b07f942690d5d6d96342e0dfc09aacd27",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/stats/help/glossary",
+        "location": "TOV, Turnovers",
+        "claim": "What is it called when the offence gives up possession of the ball to the defence? Turnover. A bad pass or violation can cause one."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_backcourt",
+    "status": "approved",
+    "sha256": "a7bc82ef6b971367051ac5df82137bed2b2c52a40dd420a4edbde736c904e8e5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 2.3, Backcourt",
+        "claim": "In basketball, what is the half of the court containing a team's own basket called? Backcourt. The backcourt rule restricts returning the ball there after establishing frontcourt control."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_centre_line",
+    "status": "approved",
+    "sha256": "6377315df8a1c57689611521b60be16618c0424d9975d3e4fe71f984cdcd1f12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 2.5.2, Centre line",
+        "claim": "Which area includes the centre line under the 2024 FIBA rules? The backcourt. The line runs across the court between the midpoints of the sidelines."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_bounce_pass",
+    "status": "approved",
+    "sha256": "32a31ba2f7886d19a044d789b591f3bc6f2827e52429fc70d32cf6be8b9285b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/bounce-pass/",
+        "location": "Bounce Pass",
+        "claim": "In basketball, what is a pass that bounces off the floor called? Bounce pass. The bounce can help send the ball past a defender's hands."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_chest_pass",
+    "status": "approved",
+    "sha256": "c54e63acbf9320cb6466dd1332fc2a9edb3630e57f9164d28cc2a62de1b55ded",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/chest-pass/",
+        "location": "Chest Pass",
+        "claim": "In basketball, what is a two-handed pass released from chest level called? Chest pass. The arms extend to send the ball to a teammate."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_alley_oop",
+    "status": "approved",
+    "sha256": "c196fad2bed5e3fdbe3d07d4b54fe518cc4a8254c100ffc9a6191a2e2648c8f1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nba.com/news/a-deep-dive-into-how-nba-dunk-score-is-calculated",
+        "location": "Alley-oop and Self-Oop and Ball Speed Through the Rim",
+        "claim": "What is the play called when a player catches a high pass by the rim and dunks before landing? Alley-oop. The teammate catches and shoots before landing."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_pick_roll",
+    "status": "approved",
+    "sha256": "57330f01fba59dd0d26f7a12303400538429a5f36898f67c8c9c2935a8992459",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/pick-and-roll/",
+        "location": "Pick-and-Roll",
+        "claim": "In basketball, what is a screen followed by the screener moving towards the basket called? Pick-and-roll. The screener can receive a pass while moving towards the basket."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_jump_shot",
+    "status": "approved",
+    "sha256": "47ace4723d71e26fc9ec755ed4b0032710137c89f0451c0f1842ddded1385c53",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://jr.nba.com/jump-shot/",
+        "location": "Jump Shot",
+        "claim": "In basketball, what is a shot released during a jump called? Jump shot. The elevation helps the shooter release over defenders."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_inside_arc",
+    "status": "approved",
+    "sha256": "d670cbc42bafe2055e0720b8e9428040bd9b13a2d626a64f674f4959ee410a08",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 16.2.1, Value of a goal",
+        "claim": "How many points is a normal field goal from inside the three-point arc worth under FIBA 2024? 2. The value depends on where the shot was released."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_line_out",
+    "status": "approved",
+    "sha256": "3237c6d2dc200a4d17befb3517460bbfdc6d334120450d744fac12d7037c85c4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Articles 2.5.1 and 23.1, Player out of bounds",
+        "claim": "A player holding the ball steps on the sideline. Where is the player under FIBA 2024? Out of bounds. Boundary lines are not part of the court."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_eight_seconds",
+    "status": "approved",
+    "sha256": "79b6c24d034f3fb8e00d5fb9caea3314ad0a870aebaa767eff3429b2a9f48de5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 28.1.1, Backcourt control",
+        "claim": "How long does a team have to move the ball from backcourt to frontcourt under FIBA 2024? 8 seconds. The count begins with control of a live ball in the backcourt."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_three_seconds",
+    "status": "approved",
+    "sha256": "3449ce0910daee7056474cab9b0db5cb301029b0a6dbe02530b8b077a547692a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 26.1, 3 seconds",
+        "claim": "Under FIBA 2024, how long may an attacker normally stay in the opponents’ restricted area with frontcourt ball control and the clock running? 3 seconds. It applies while the game clock runs and includes specific allowances."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_throw_in",
+    "status": "approved",
+    "sha256": "f129f074e00667149bd1ace791266b53068beab5fd08f93c72a995c7afcd8aac",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 17.3.1, Throw-in restrictions",
+        "claim": "How long does a player have to release a throw-in under FIBA 2024? 5 seconds. The count starts when the ball is at the player's disposal."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_free_throw_time",
+    "status": "approved",
+    "sha256": "93244ddab9bf983768c561f80e4c284d79ded640269ff908a5db6f8b16648d96",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 43.2.3, Free-throw shooter",
+        "claim": "How long does a player have to release a free throw after receiving the ball under FIBA 2024? 5 seconds. The shooter must not touch the line or court beyond it before the permitted moment."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_timeout",
+    "status": "approved",
+    "sha256": "afdabb4f59fed24bf6aace8bc211b80c0c0ff9b6f00c94479fe73999c00bfaf4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 18.2.1, Duration",
+        "claim": "How long is a normal time-out under FIBA 2024? 1 minute. A head coach or first assistant requests it through the prescribed procedure."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_timeouts_first",
+    "status": "approved",
+    "sha256": "c80ba801a2da9dce531492b7a2e4881ea5cf17eb56c67090f52e47fd50f97021",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 18.2.5, First half",
+        "claim": "How many time-outs does a team have in the first half under FIBA 2024? 2. Unused time-outs cannot be carried into the next half."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_timeouts_carry",
+    "status": "approved",
+    "sha256": "9d7f28fbdc7ff0b29f29903ae82c65b05affc1f19342f7756eb4b04c6370908d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 18.2.6, Unused time-outs",
+        "claim": "Can a team carry an unused first-half time-out into the second half under the 2024 FIBA rules? No, it expires. The same rule prevents unused time-outs from carrying into overtime."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_timeout_overtime",
+    "status": "approved",
+    "sha256": "e97f17646de30d77af2eb8944958c8b68d9ee712e08feb0e93ae12e7a7dda3db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 18.2.5, Overtime",
+        "claim": "How many time-outs does a team receive for each overtime under FIBA 2024? 1. Unused time-outs from earlier periods are not carried over."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_opening",
+    "status": "approved",
+    "sha256": "5e3ce1f50177263abb3246f193124dd8adb84a0200e881d21a0b49a1975a689a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Articles 9.1 and 12.2, Start of the first quarter",
+        "claim": "How does the first quarter of a FIBA 2024 game begin? With a jump ball in the centre circle. Later jump-ball situations use alternating possession."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_held_ball",
+    "status": "approved",
+    "sha256": "0220bd3e42cd3c9f3d280b4234897fe9d4fb87c48097c9d51af29cba350ec5ad",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 12.6, Alternating possession",
+        "claim": "What determines which team throws in after a held-ball situation under FIBA 2024? The alternating-possession arrow. The arrow reverses after that throw-in is completed."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_arc",
+    "status": "approved",
+    "sha256": "b6fb88cf94286c66abc79257d5c19376c8817bd3abe4dac6097a6293cb78d673",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 2.5.4, Three-point goal area",
+        "claim": "What is the radius of the main FIBA 2024 three-point arc? 6.75 m. Near the corners the arc joins straight segments."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_centre_circle",
+    "status": "approved",
+    "sha256": "d96b308d93028ebd8d8591a59b157b6317c8caa99702a082a4c816654a4d622f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 2.5.2, Centre circle",
+        "claim": "What is the centre-circle radius under FIBA 2024? 1.80 m. The radius is measured to the outer edge of the circle line."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_basket_from_below",
+    "status": "approved",
+    "sha256": "1fcb0ea224f66e06fb2f4823b9ce86664a646d056b561ce0a2cf0147dd0ebf88",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 16.2.4, Ball passed through the basket from below",
+        "claim": "Under the 2024 FIBA rules, what happens if a player sends the entire ball up through the basket from below? A violation. A legal goal requires the ball to enter the basket from above."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_shot_clock_release",
+    "status": "approved",
+    "sha256": "d02dd712104a804db334bd41c2a1ece1f29e60178f3b5647628700cae7504756",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 29.1.2, Shot requirements",
+        "claim": "What must happen before the shot-clock signal under FIBA 2024? The ball must leave the shooter's hand. After release the ball must touch the ring or enter the basket."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_travel",
+    "status": "approved",
+    "sha256": "308371e2e3db34aff5d43ce773758fbc4ba8139a71c8a5559762e54ba296dcc4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 25.1.1, Travelling",
+        "claim": "What is an illegal movement of the feet while holding a live ball called? Travelling. The rule considers the pivot foot and permitted steps."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_double_dribble",
+    "status": "approved",
+    "sha256": "56fde4ca30a9369dfc7bd81d773cb677b40f3b2d341bff77aba7f902345368ba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 24.2, Second dribble",
+        "claim": "A player ends a dribble and starts another without an event allowing it. What is this under FIBA 2024? Double dribble. Another dribble is allowed only after events specified by the rules."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_intentional_own",
+    "status": "approved",
+    "sha256": "4432ad35374a36984f8ea4c9fe417399825ef0dd88606e51e241cfff3a23883d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 16.2.3, Deliberate own basket",
+        "claim": "A player deliberately scores in their own basket. What is the FIBA 2024 ruling? Violation, the basket does not count. This differs from an accidental own basket."
+      }
+    ]
+  },
+  {
+    "id": "basketball_m50_technical",
+    "status": "approved",
+    "sha256": "c220d0978afc24318e9673cc956d222bf6744cd73272e41e6c1040a5e32e53f4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. FIBA Official Basketball Rules 2024 articles and official NBA and Jr. NBA terminology",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
+        "location": "Article 36.3.2, Technical foul penalty",
+        "claim": "How many free throws are normally awarded for a technical foul under FIBA 2024? 1. A technical foul concerns conduct and need not involve physical contact."
+      }
+    ]
   }
 ]

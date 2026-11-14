@@ -438,5 +438,1765 @@
       "https://www.theifab.com/laws/latest/the-field-of-play/"
     ],
     "image": null
+  },
+  {
+    "id": "football_m50_minimum",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каково минимальное число игроков одной команды для продолжения матча по правилам IFAB 2026/27?",
+        "explanation": "Если в команде меньше семи игроков, матч не может продолжаться."
+      },
+      "en": {
+        "question": "Under IFAB 2026/27, what is the minimum number of players a team needs for a match to continue?",
+        "explanation": "A match cannot continue if a team has fewer than seven players."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o2",
+        "ru": "8",
+        "en": "8"
+      },
+      {
+        "id": "o3",
+        "ru": "9",
+        "en": "9"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_goalkeeper",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где вратарь может играть руками при обычном игровом эпизоде?",
+        "explanation": "За пределами своей штрафной вратарь подчиняется обычным ограничениям игры рукой."
+      },
+      "en": {
+        "question": "Where may a goalkeeper handle the ball during ordinary play?",
+        "explanation": "Outside their own penalty area the goalkeeper has the ordinary handling restrictions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В своей штрафной площади",
+        "en": "In their own penalty area"
+      },
+      {
+        "id": "o1",
+        "ru": "В любом месте своей половины",
+        "en": "Anywhere in their own half"
+      },
+      {
+        "id": "o2",
+        "ru": "Только во вратарской площади",
+        "en": "Only in the goal area"
+      },
+      {
+        "id": "o3",
+        "ru": "В любой штрафной площади",
+        "en": "In either penalty area"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_captain",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как по правилам IFAB обозначают капитана команды на поле?",
+        "explanation": "Капитан не получает особых привилегий в отношении решений судьи."
+      },
+      "en": {
+        "question": "How is a team captain identified on the field under IFAB laws?",
+        "explanation": "The captain gains no special privileges concerning referee decisions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Капитанской повязкой",
+        "en": "By an armband"
+      },
+      {
+        "id": "o1",
+        "ru": "Надписью на груди",
+        "en": "A mark on the front of the shirt"
+      },
+      {
+        "id": "o2",
+        "ru": "Особым номером",
+        "en": "A special shirt number"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязательной нашивкой на шортах",
+        "en": "A compulsory patch on the shorts"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_red",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую карточку судья показывает при удалении игрока?",
+        "explanation": "Удалённый игрок должен покинуть поле и техническую зону."
+      },
+      "en": {
+        "question": "Which card does a referee show to send a player off?",
+        "explanation": "A sent-off player must leave the field and technical area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Красную",
+        "en": "Red"
+      },
+      {
+        "id": "o1",
+        "ru": "Жёлтую",
+        "en": "Yellow"
+      },
+      {
+        "id": "o2",
+        "ru": "Синюю",
+        "en": "Blue"
+      },
+      {
+        "id": "o3",
+        "ru": "Белую",
+        "en": "White"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_second_yellow",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что следует после второго предупреждения одному игроку в том же матче?",
+        "explanation": "После второй жёлтой карточки судья показывает красную."
+      },
+      "en": {
+        "question": "What follows a player's second caution in the same match?",
+        "explanation": "The referee shows a red card after the second yellow card."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удаление",
+        "en": "Sending off"
+      },
+      {
+        "id": "o1",
+        "ru": "Временное удаление во всех соревнованиях",
+        "en": "A temporary dismissal in every competition"
+      },
+      {
+        "id": "o2",
+        "ru": "Новый отсчёт предупреждений",
+        "en": "A reset of the caution count"
+      },
+      {
+        "id": "o3",
+        "ru": "Замена без удаления",
+        "en": "A substitution with no sending-off"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_advantage",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает принцип преимущества в футболе?",
+        "explanation": "Если ожидаемое преимущество не реализуется сразу, судья может вернуться к нарушению."
+      },
+      "en": {
+        "question": "What does playing advantage mean in football?",
+        "explanation": "The referee can return to the offence if the expected advantage does not follow immediately."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Продолжить игру, если это выгодно пострадавшей команде",
+        "en": "Let play continue when it benefits the offended team"
+      },
+      {
+        "id": "o1",
+        "ru": "Остановить игру и назначить штрафной",
+        "en": "Stop play for a free kick"
+      },
+      {
+        "id": "o2",
+        "ru": "Продолжить, если это выгодно нарушившей команде",
+        "en": "Allow play to continue to benefit the offending team"
+      },
+      {
+        "id": "o3",
+        "ru": "Возобновить игру спорным мячом",
+        "en": "Restart play with a dropped ball"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_broken_crossbar",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как возобновляют игру, остановленную из-за поломки перекладины, если её удалось починить?",
+        "explanation": "Если починить или заменить перекладину невозможно, матч прекращают."
+      },
+      "en": {
+        "question": "How is play restarted after a broken crossbar has been repaired?",
+        "explanation": "The match is abandoned if the crossbar cannot be repaired or replaced."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спорным мячом",
+        "en": "A dropped ball"
+      },
+      {
+        "id": "o1",
+        "ru": "Ударом от ворот",
+        "en": "A goal kick"
+      },
+      {
+        "id": "o2",
+        "ru": "Свободным ударом",
+        "en": "An indirect free kick"
+      },
+      {
+        "id": "o3",
+        "ru": "Начальным ударом",
+        "en": "A kick-off"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_throw_hands",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как выполняют вбрасывание мяча из-за боковой линии?",
+        "explanation": "Игрок должен быть обращён лицом к полю."
+      },
+      "en": {
+        "question": "How is a football throw-in delivered?",
+        "explanation": "The player must face the field."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обеими руками из-за головы",
+        "en": "With both hands from behind the head"
+      },
+      {
+        "id": "o1",
+        "ru": "Одной рукой из-за головы",
+        "en": "With one hand from behind the head"
+      },
+      {
+        "id": "o2",
+        "ru": "Обеими руками снизу",
+        "en": "With both hands from below"
+      },
+      {
+        "id": "o3",
+        "ru": "Обеими руками от груди",
+        "en": "With both hands from the chest"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_throw_feet",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое положение ног требуется при вбрасывании по IFAB 2026/27?",
+        "explanation": "Вбрасывание выполняют с места, где мяч покинул поле."
+      },
+      "en": {
+        "question": "What foot position is required for an IFAB 2026/27 throw-in?",
+        "explanation": "The throw is taken where the ball left the field."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Часть каждой стопы на линии или земле за ней",
+        "en": "Part of each foot on the line or ground outside it"
+      },
+      {
+        "id": "o1",
+        "ru": "Одна стопа на земле, другая в воздухе",
+        "en": "One foot on the ground and the other airborne"
+      },
+      {
+        "id": "o2",
+        "ru": "Обе стопы полностью внутри поля",
+        "en": "Both feet wholly inside the field"
+      },
+      {
+        "id": "o3",
+        "ru": "Обе стопы обязательно на линии",
+        "en": "Both feet must touch the line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_throw_direct",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Можно ли забить гол непосредственно в ворота соперника вбрасыванием из-за боковой?",
+        "explanation": "Для гола после вбрасывания требуется касание другого игрока."
+      },
+      "en": {
+        "question": "Can a goal be scored directly into the opponents' goal from a throw-in?",
+        "explanation": "A goal following a throw-in requires another player's touch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет, назначается удар от ворот",
+        "en": "No, a goal kick is awarded"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, даже без других касаний",
+        "en": "Yes, even without another touch"
+      },
+      {
+        "id": "o2",
+        "ru": "Нет, вбрасывание повторяют",
+        "en": "No, the throw-in is retaken"
+      },
+      {
+        "id": "o3",
+        "ru": "Нет, назначается угловой",
+        "en": "No, a corner kick is awarded"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_corner",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда судья назначает угловой после выхода мяча за линию ворот?",
+        "explanation": "Мяч должен целиком выйти за линию. Есть и другое основание для углового: вратарь удержал мяч дольше восьми секунд."
+      },
+      "en": {
+        "question": "When does the referee award a corner after the ball crosses the goal line?",
+        "explanation": "The whole ball must cross the line. A goalkeeper holding it for more than eight seconds is another reason to award a corner."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мяч ушёл за линию ворот от защитника, но гола нет",
+        "en": "The ball crossed the goal line off a defender without a goal"
+      },
+      {
+        "id": "o1",
+        "ru": "Мяч ушёл за боковую от нападающего",
+        "en": "It crossed the touchline off an attacker"
+      },
+      {
+        "id": "o2",
+        "ru": "Вратарь поймал обычный навес",
+        "en": "The goalkeeper caught a normal cross"
+      },
+      {
+        "id": "o3",
+        "ru": "Мяч ударился о стойку и остался в поле",
+        "en": "It hit a post and stayed in play"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_goal_kick",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто последним касается мяча перед ударом от ворот, если мяч ушёл за линию ворот без гола?",
+        "explanation": "Защитники могут разыграть удар из любой точки своей площади ворот."
+      },
+      "en": {
+        "question": "Who touched the ball last if it crossed the goal line without a goal and a goal kick was awarded?",
+        "explanation": "The defending team may take the kick from anywhere within its goal area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игрок атакующей команды",
+        "en": "An attacking-team player"
+      },
+      {
+        "id": "o1",
+        "ru": "Игрок обороняющейся команды",
+        "en": "A defending-team player"
+      },
+      {
+        "id": "o2",
+        "ru": "Только главный судья",
+        "en": "Only the referee"
+      },
+      {
+        "id": "o3",
+        "ru": "Только вратарь защищающихся",
+        "en": "Only the defending goalkeeper"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_corner_motion",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда мяч вводится в игру при угловом ударе по IFAB 2026/27?",
+        "explanation": "Мяч может оставаться в пределах углового сектора."
+      },
+      "en": {
+        "question": "When is the ball in play at a corner kick under the 2026/27 IFAB laws?",
+        "explanation": "The ball may still be inside the corner area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Когда по нему ударили и он явно сдвинулся",
+        "en": "When it is kicked and clearly moves"
+      },
+      {
+        "id": "o1",
+        "ru": "Когда он покинул угловой сектор",
+        "en": "When it leaves the corner area"
+      },
+      {
+        "id": "o2",
+        "ru": "Когда его коснулся другой игрок",
+        "en": "When another player touches it"
+      },
+      {
+        "id": "o3",
+        "ru": "Когда он вошёл в штрафную",
+        "en": "When it enters the penalty area"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_offside_level",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Игрок находится на одной линии с предпоследним соперником в момент передачи. Считается ли это положением вне игры по правилам сезона 2026/27?",
+        "explanation": "Для положения вне игры игрок обычно должен быть ближе к линии ворот, чем мяч и предпоследний соперник."
+      },
+      "en": {
+        "question": "An attacker is level with the second-last opponent when the pass is played. Are they in an offside position under the 2026/27 IFAB laws?",
+        "explanation": "An offside position normally requires being closer to goal than both the ball and the second-last opponent."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет, положение на одной линии допустимо",
+        "en": "No, level with the opponent is onside"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, если игрок ближе к воротам, чем мяч",
+        "en": "Yes, if the player is closer to goal than the ball"
+      },
+      {
+        "id": "o2",
+        "ru": "Да, если соперник — вратарь",
+        "en": "Yes, if that opponent is the goalkeeper"
+      },
+      {
+        "id": "o3",
+        "ru": "Да, если передача сделана вперёд",
+        "en": "Yes, if the pass is played forwards"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_offside_alone",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Является ли само нахождение в положении вне игры нарушением?",
+        "explanation": "Судья может зафиксировать нарушение, если находящийся во вне игры игрок вмешался в эпизод."
+      },
+      "en": {
+        "question": "Is being in an offside position an offence by itself?",
+        "explanation": "The referee can penalise a player in that position if they interfere with play."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет, требуется участие в активной игре",
+        "en": "No, involvement in active play is required"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, при любом касании мяча партнёром",
+        "en": "Yes, whenever a teammate touches the ball"
+      },
+      {
+        "id": "o2",
+        "ru": "Да, если игрок находится в штрафной",
+        "en": "Yes, if the player is in the penalty area"
+      },
+      {
+        "id": "o3",
+        "ru": "Да, если мяч движется в сторону ворот",
+        "en": "Yes, if the ball is moving towards goal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_offside_throw",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Фиксируют ли вне игры при получении мяча непосредственно после вбрасывания?",
+        "explanation": "Вбрасывание входит в исключения правила вне игры."
+      },
+      "en": {
+        "question": "Is offside penalised when a player receives the ball directly from a throw-in?",
+        "explanation": "A throw-in is one of the offside exceptions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нет",
+        "en": "No"
+      },
+      {
+        "id": "o1",
+        "ru": "Да, если получатель ближе к воротам, чем защитники",
+        "en": "Yes, if the receiver is closer to goal than the defenders"
+      },
+      {
+        "id": "o2",
+        "ru": "Да, если вбрасывает партнёр",
+        "en": "Yes, if a teammate throws it"
+      },
+      {
+        "id": "o3",
+        "ru": "Да, если мяч направили вперёд",
+        "en": "Yes, if the ball was thrown forwards"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_offside_restart",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как возобновляют игру после нарушения правила «вне игры»?",
+        "explanation": "Удар выполняют с места нарушения."
+      },
+      "en": {
+        "question": "How is play restarted after an offside offence?",
+        "explanation": "The kick is taken from the place of the offence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Свободным ударом",
+        "en": "An indirect free kick"
+      },
+      {
+        "id": "o1",
+        "ru": "Штрафным ударом",
+        "en": "A direct free kick"
+      },
+      {
+        "id": "o2",
+        "ru": "Спорным мячом",
+        "en": "A dropped ball"
+      },
+      {
+        "id": "o3",
+        "ru": "Ударом от ворот",
+        "en": "A goal kick"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_offside_active",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое действие может превратить положение вне игры в нарушение?",
+        "explanation": "Например, игрок может перекрыть сопернику обзор мяча."
+      },
+      "en": {
+        "question": "Which action can turn an offside position into an offence?",
+        "explanation": "Blocking an opponent’s view of the ball is one example."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Помешать сопернику сыграть в мяч",
+        "en": "Interfering with an opponent’s ability to play the ball"
+      },
+      {
+        "id": "o1",
+        "ru": "Отойти от мяча, никому не мешая",
+        "en": "Moving away without interfering"
+      },
+      {
+        "id": "o2",
+        "ru": "Остаться на месте вдали от эпизода",
+        "en": "Staying clear of play"
+      },
+      {
+        "id": "o3",
+        "ru": "Вернуться за линию мяча до передачи",
+        "en": "Moving behind the ball before the pass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_indirect_signal",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как судья обозначает свободный удар, с которого нельзя забить без другого касания?",
+        "explanation": "Поднятая рука отличает свободный удар от прямого штрафного."
+      },
+      "en": {
+        "question": "How does a referee signal an indirect free kick?",
+        "explanation": "The raised arm distinguishes an indirect kick from a direct free kick."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поднимает руку над головой",
+        "en": "Raises an arm above the head"
+      },
+      {
+        "id": "o1",
+        "ru": "Указывает рукой в сторону ворот",
+        "en": "Points an arm towards the goal"
+      },
+      {
+        "id": "o2",
+        "ru": "Держит руки вытянутыми в стороны",
+        "en": "Holds both arms out sideways"
+      },
+      {
+        "id": "o3",
+        "ru": "Опускает руку и указывает на мяч",
+        "en": "Points down at the ball"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_indirect_goal",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч со свободного удара без других касаний попал в ворота соперника. Каково решение?",
+        "explanation": "Для такого гола нужно касание ещё одного игрока."
+      },
+      "en": {
+        "question": "An indirect free kick enters the opponents' goal without any other touch. What is awarded?",
+        "explanation": "Such a goal requires a touch by another player."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удар от ворот",
+        "en": "Goal kick"
+      },
+      {
+        "id": "o1",
+        "ru": "Гол",
+        "en": "A goal"
+      },
+      {
+        "id": "o2",
+        "ru": "Угловой",
+        "en": "A corner kick"
+      },
+      {
+        "id": "o3",
+        "ru": "Повторный свободный удар",
+        "en": "A retaken indirect free kick"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_penalty_forward",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком направлении должен двигаться мяч при ударе с пенальти по правилам сезона 2026/27?",
+        "explanation": "Удар пяткой допустим, если мяч при этом движется вперёд."
+      },
+      "en": {
+        "question": "In which direction must the ball move when a penalty kick is taken under the 2026/27 IFAB laws?",
+        "explanation": "A backheel is allowed if the ball moves forward."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вперёд",
+        "en": "Forward"
+      },
+      {
+        "id": "o1",
+        "ru": "Только назад",
+        "en": "Only backwards"
+      },
+      {
+        "id": "o2",
+        "ru": "Только строго вертикально",
+        "en": "Only vertically"
+      },
+      {
+        "id": "o3",
+        "ru": "Только вбок",
+        "en": "Only sideways"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_penalty_keeper",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где должна быть хотя бы часть одной стопы вратаря в момент удара с пенальти по правилам сезона 2026/27?",
+        "explanation": "Вратарь должен оставаться между стойками лицом к бьющему."
+      },
+      "en": {
+        "question": "Where must at least part of one goalkeeper foot be when a penalty is kicked under the 2026/27 IFAB laws?",
+        "explanation": "The goalkeeper must remain between the posts facing the kicker."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "На линии ворот, на её уровне или позади неё",
+        "en": "Touching, in line with, or behind the goal line"
+      },
+      {
+        "id": "o1",
+        "ru": "Обязательно обеими ногами на линии",
+        "en": "Both feet must touch the line"
+      },
+      {
+        "id": "o2",
+        "ru": "Как минимум одной ногой перед линией",
+        "en": "At least one foot must be in front of the line"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязательно обеими ногами позади линии",
+        "en": "Both feet must be behind the line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_penalty_feint",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая уловка при пенальти запрещена IFAB 2026/27?",
+        "explanation": "Обманные движения в ходе самого разбега допускаются."
+      },
+      "en": {
+        "question": "Which feint is prohibited for an IFAB 2026/27 penalty kick?",
+        "explanation": "Feinting during the run-up itself is permitted."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Имитация удара после завершения разбега",
+        "en": "Feinting to kick after completing the run-up"
+      },
+      {
+        "id": "o1",
+        "ru": "Замедление во время разбега",
+        "en": "Slowing down during the run-up"
+      },
+      {
+        "id": "o2",
+        "ru": "Удар пяткой вперёд",
+        "en": "A forward backheel"
+      },
+      {
+        "id": "o3",
+        "ru": "Удар после короткого разбега",
+        "en": "A kick after a short run-up"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_own_kickoff",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч с начального удара без других касаний попал в ворота команды, которая била. Как возобновят игру?",
+        "explanation": "Гол напрямую с начального удара можно забить только команде соперника."
+      },
+      "en": {
+        "question": "A kick-off goes directly into the kicker’s own goal. How is play restarted?",
+        "explanation": "A direct goal from the kick-off can only be scored against the opposing team."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Угловым ударом соперника",
+        "en": "A corner kick for the opponents"
+      },
+      {
+        "id": "o1",
+        "ru": "Ударом от ворот",
+        "en": "A goal kick"
+      },
+      {
+        "id": "o2",
+        "ru": "Повторным начальным ударом",
+        "en": "A retaken kick-off"
+      },
+      {
+        "id": "o3",
+        "ru": "Свободным ударом",
+        "en": "An indirect free kick"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_kickoff_play",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой момент мяч входит в игру после начального удара?",
+        "explanation": "До удара мяч неподвижен на центральной отметке."
+      },
+      "en": {
+        "question": "When is the ball in play at kick-off?",
+        "explanation": "Before the kick, the ball is stationary on the centre mark."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "После удара, когда мяч явно сдвинулся",
+        "en": "When it has been kicked and clearly moves"
+      },
+      {
+        "id": "o1",
+        "ru": "После касания второго игрока",
+        "en": "When a second player touches it"
+      },
+      {
+        "id": "o2",
+        "ru": "После выхода из центрального круга",
+        "en": "When it leaves the centre circle"
+      },
+      {
+        "id": "o3",
+        "ru": "После пересечения средней линии",
+        "en": "When it crosses the halfway line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_free_kick_distance",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Каково обычное минимальное расстояние соперников от мяча при штрафном ударе по правилам сезона 2026/27?",
+        "explanation": "Правила предусматривают отдельное исключение для линии собственных ворот между стойками."
+      },
+      "en": {
+        "question": "What is the normal minimum opponent distance at a free kick under the 2026/27 IFAB laws?",
+        "explanation": "There is a specific exception for the defending goal line between the posts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "9,15 м",
+        "en": "9.15 m"
+      },
+      {
+        "id": "o1",
+        "ru": "6 м",
+        "en": "6 m"
+      },
+      {
+        "id": "o2",
+        "ru": "11 м",
+        "en": "11 m"
+      },
+      {
+        "id": "o3",
+        "ru": "2 м",
+        "en": "2 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_wall_gap",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как далеко атакующие должны быть от стенки из трёх и более защитников при штрафном по правилам сезона 2026/27?",
+        "explanation": "Ограничение действует до ввода мяча в игру."
+      },
+      "en": {
+        "question": "How far must attackers stay from a defensive wall of three or more players at a free kick under the 2026/27 IFAB laws?",
+        "explanation": "The restriction applies until the ball is in play."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Не менее 1 м",
+        "en": "At least 1 m"
+      },
+      {
+        "id": "o1",
+        "ru": "Не менее 5 м",
+        "en": "At least 5 m"
+      },
+      {
+        "id": "o2",
+        "ru": "Не менее 10 м",
+        "en": "At least 10 m"
+      },
+      {
+        "id": "o3",
+        "ru": "Расстояние не ограничено",
+        "en": "No distance restriction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_ball_circumference",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова допустимая окружность мяча для взрослого футбола по IFAB 2026/27?",
+        "explanation": "Параметр относится к мячу стандартного матча, а не к детским модификациям."
+      },
+      "en": {
+        "question": "What is the permitted ball circumference for adult football under IFAB 2026/27?",
+        "explanation": "This concerns a standard-match ball, not youth modifications."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "68–70 см",
+        "en": "68–70 cm"
+      },
+      {
+        "id": "o1",
+        "ru": "58–60 см",
+        "en": "58–60 cm"
+      },
+      {
+        "id": "o2",
+        "ru": "78–80 см",
+        "en": "78–80 cm"
+      },
+      {
+        "id": "o3",
+        "ru": "48–50 см",
+        "en": "48–50 cm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_ball_mass",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько должен весить мяч в начале стандартного матча по IFAB 2026/27?",
+        "explanation": "Правила отдельно устанавливают окружность и давление мяча."
+      },
+      "en": {
+        "question": "What must a ball weigh at the start of a standard IFAB 2026/27 match?",
+        "explanation": "The laws separately specify ball circumference and pressure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "410–450 г",
+        "en": "410–450 g"
+      },
+      {
+        "id": "o1",
+        "ru": "380–420 г",
+        "en": "380–420 g"
+      },
+      {
+        "id": "o2",
+        "ru": "430–470 г",
+        "en": "430–470 g"
+      },
+      {
+        "id": "o3",
+        "ru": "460–500 г",
+        "en": "460–500 g"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_posts_colour",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какого цвета должны быть стойки и перекладина стандартных футбольных ворот?",
+        "explanation": "Цвет помогает сделать границы ворот хорошо различимыми."
+      },
+      "en": {
+        "question": "What colour must standard football goalposts and crossbar be?",
+        "explanation": "The colour helps make the goal frame clearly distinguishable."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Белого",
+        "en": "White"
+      },
+      {
+        "id": "o1",
+        "ru": "Красного",
+        "en": "Red"
+      },
+      {
+        "id": "o2",
+        "ru": "Жёлтого",
+        "en": "Yellow"
+      },
+      {
+        "id": "o3",
+        "ru": "Чёрного",
+        "en": "Black"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_crossbar_height",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова высота от земли до нижнего края перекладины стандартных ворот?",
+        "explanation": "По правилам перекладина имеет ту же ширину и глубину, что и стойки."
+      },
+      "en": {
+        "question": "What is the height from the ground to the lower edge of a standard crossbar?",
+        "explanation": "The crossbar and the posts must have the same width and depth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2,44 м",
+        "en": "2.44 m"
+      },
+      {
+        "id": "o1",
+        "ru": "2 м",
+        "en": "2 m"
+      },
+      {
+        "id": "o2",
+        "ru": "3,05 м",
+        "en": "3.05 m"
+      },
+      {
+        "id": "o3",
+        "ru": "2,75 м",
+        "en": "2.75 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_goal_area_depth",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На сколько метров в поле от линии ворот выступает вратарская площадь?",
+        "explanation": "Это меньшая из двух прямоугольных площадей перед воротами."
+      },
+      "en": {
+        "question": "How far into the field does the goal area extend from the goal line?",
+        "explanation": "It is the smaller of the two rectangular areas in front of goal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5,5 м",
+        "en": "5.5 m"
+      },
+      {
+        "id": "o1",
+        "ru": "9,15 м",
+        "en": "9.15 m"
+      },
+      {
+        "id": "o2",
+        "ru": "11 м",
+        "en": "11 m"
+      },
+      {
+        "id": "o3",
+        "ru": "16,5 м",
+        "en": "16.5 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_penalty_area_depth",
+    "categoryId": "football",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова глубина штрафной площади стандартного футбольного поля?",
+        "explanation": "Расстояние отмеряют от линии ворот."
+      },
+      "en": {
+        "question": "What is the depth of a standard football penalty area?",
+        "explanation": "The distance is measured from the goal line."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "16,5 м",
+        "en": "16.5 m"
+      },
+      {
+        "id": "o1",
+        "ru": "5,5 м",
+        "en": "5.5 m"
+      },
+      {
+        "id": "o2",
+        "ru": "11 м",
+        "en": "11 m"
+      },
+      {
+        "id": "o3",
+        "ru": "18,3 м",
+        "en": "18.3 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_corner_flag",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова минимальная высота углового флагштока по IFAB 2026/27?",
+        "explanation": "Верхушка флагштока не должна быть заострённой."
+      },
+      "en": {
+        "question": "What is the minimum corner-flagpost height under IFAB 2026/27?",
+        "explanation": "The top of the flagpost must not be pointed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "1,5 м",
+        "en": "1.5 m"
+      },
+      {
+        "id": "o1",
+        "ru": "0,5 м",
+        "en": "0.5 m"
+      },
+      {
+        "id": "o2",
+        "ru": "1 м",
+        "en": "1 m"
+      },
+      {
+        "id": "o3",
+        "ru": "2,5 м",
+        "en": "2.5 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_extra_time",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова максимальная длительность каждого из двух дополнительных таймов по IFAB?",
+        "explanation": "Регламент соревнования может предусматривать два равных дополнительных периода."
+      },
+      "en": {
+        "question": "What is the maximum length of each of the two extra-time periods under IFAB?",
+        "explanation": "Competition rules may provide for two equal extra-time periods."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15 минут",
+        "en": "15 minutes"
+      },
+      {
+        "id": "o1",
+        "ru": "10 минут",
+        "en": "10 minutes"
+      },
+      {
+        "id": "o2",
+        "ru": "20 минут",
+        "en": "20 minutes"
+      },
+      {
+        "id": "o3",
+        "ru": "30 минут",
+        "en": "30 minutes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_shootout_start",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько ударов каждой команды предусмотрено в начальной серии пенальти?",
+        "explanation": "Серия может закончиться раньше, если соперник уже не способен сравнять счёт."
+      },
+      "en": {
+        "question": "How many kicks per team are scheduled in the initial penalty shoot-out series?",
+        "explanation": "The series can finish early if the opponent can no longer draw level."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o1",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o2",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o3",
+        "ru": "10",
+        "en": "10"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_shootout_tie",
+    "categoryId": "football",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит после равного счёта по итогам первых пяти ударов каждой команды?",
+        "explanation": "Нельзя объявлять победу после единственного удара одной команды без ответной попытки."
+      },
+      "en": {
+        "question": "What happens if a shoot-out is level after each team's first five kicks?",
+        "explanation": "A single kick cannot decide it before the other team's corresponding attempt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удары продолжаются до преимущества после равного числа попыток",
+        "en": "Kicks continue until one team leads after equal attempts"
+      },
+      {
+        "id": "o1",
+        "ru": "Сразу бьют ещё по три удара",
+        "en": "Each team immediately takes three more kicks"
+      },
+      {
+        "id": "o2",
+        "ru": "Побеждает тот, кто первым забьёт, без ответного удара",
+        "en": "The first scorer wins without an answering kick"
+      },
+      {
+        "id": "o3",
+        "ru": "Новая серия из пяти ударов",
+        "en": "A new series of five kicks"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_sub_entry",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда запасной может выйти на поле при обычной замене по правилам сезона 2026/27?",
+        "explanation": "Замена завершается, когда запасной входит на поле."
+      },
+      "en": {
+        "question": "When may a substitute enter during an ordinary substitution under the 2026/27 IFAB laws?",
+        "explanation": "The substitution is completed when the substitute enters the field."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "После сигнала судьи и ухода заменяемого игрока",
+        "en": "After the referee's signal and the replaced player's exit"
+      },
+      {
+        "id": "o1",
+        "ru": "После сигнала, до ухода заменяемого",
+        "en": "After the signal, before the other player leaves"
+      },
+      {
+        "id": "o2",
+        "ru": "После ухода заменяемого, без сигнала",
+        "en": "After the other player leaves, without a signal"
+      },
+      {
+        "id": "o3",
+        "ru": "После возобновления игры",
+        "en": "After play has restarted"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_unsafe_accessory",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что обязан сделать игрок с опасным аксессуаром по правилу IFAB 2026/27?",
+        "explanation": "Безопасный аксессуар допускается, если он надёжно закрыт."
+      },
+      "en": {
+        "question": "What must a player do with a dangerous accessory under the 2026/27 IFAB laws?",
+        "explanation": "A safe accessory can be worn if it is securely covered."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Снять его",
+        "en": "Remove it"
+      },
+      {
+        "id": "o1",
+        "ru": "Закрыть его частью формы",
+        "en": "Cover it with part of the kit"
+      },
+      {
+        "id": "o2",
+        "ru": "Закрепить его спортивной лентой",
+        "en": "Secure it with sports tape"
+      },
+      {
+        "id": "o3",
+        "ru": "Оставить с разрешения капитана",
+        "en": "Keep it with the captain’s consent"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "football_m50_shin_guards",
+    "categoryId": "football",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой элемент экипировки защищает голени футболиста?",
+        "explanation": "Щитки должны быть закрыты гетрами."
+      },
+      "en": {
+        "question": "Which equipment protects a footballer's shins?",
+        "explanation": "Shin guards must be covered by socks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Щитки",
+        "en": "Shin guards"
+      },
+      {
+        "id": "o1",
+        "ru": "Наколенники",
+        "en": "Knee pads"
+      },
+      {
+        "id": "o2",
+        "ru": "Компрессионные гетры",
+        "en": "Compression socks"
+      },
+      {
+        "id": "o3",
+        "ru": "Голеностопные фиксаторы",
+        "en": "Ankle braces"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://downloads.theifab.com/downloads/laws-of-the-game-202627-single-pages?l=en"
+    ],
+    "image": null
   }
 ]

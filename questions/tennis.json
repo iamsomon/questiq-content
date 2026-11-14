@@ -438,5 +438,1766 @@
       "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
     ],
     "image": null
+  },
+  {
+    "id": "tennis_m50_ace",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется правильная подача, мяча после которой принимающий не коснулся ракеткой?",
+        "explanation": "Эйс сразу приносит очко подающему."
+      },
+      "en": {
+        "question": "What is a legal serve that the receiver does not touch with their racket called?",
+        "explanation": "An ace immediately wins the point for the server."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эйс",
+        "en": "Ace"
+      },
+      {
+        "id": "o1",
+        "ru": "Двойная ошибка",
+        "en": "Double fault"
+      },
+      {
+        "id": "o2",
+        "ru": "Переигровка подачи",
+        "en": "Service let"
+      },
+      {
+        "id": "o3",
+        "ru": "Подача с ошибкой заступа",
+        "en": "Foot fault"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_backhand",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется удар слева для правши и справа для левши?",
+        "explanation": "Его выполняют одной или двумя руками."
+      },
+      "en": {
+        "question": "What is a stroke on a right-hander’s left side or a left-hander’s right side called?",
+        "explanation": "It can be played with one or two hands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бэкхенд",
+        "en": "Backhand"
+      },
+      {
+        "id": "o1",
+        "ru": "Форхенд",
+        "en": "Forehand"
+      },
+      {
+        "id": "o2",
+        "ru": "Удар с лёта",
+        "en": "Volley"
+      },
+      {
+        "id": "o3",
+        "ru": "Смэш",
+        "en": "Smash"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_forehand",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар справа для правши и слева для левши?",
+        "explanation": "Он отличается от удара с противоположной стороны — бэкхенда."
+      },
+      "en": {
+        "question": "In tennis, what is a stroke on a right-hander's right side or a left-hander's left side called?",
+        "explanation": "It differs from the opposite-side stroke, the backhand."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Форхенд",
+        "en": "Forehand"
+      },
+      {
+        "id": "o1",
+        "ru": "Бэкхенд",
+        "en": "Backhand"
+      },
+      {
+        "id": "o2",
+        "ru": "Свеча",
+        "en": "Lob"
+      },
+      {
+        "id": "o3",
+        "ru": "Смэш",
+        "en": "Smash"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_volley",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар по мячу до его отскока от корта?",
+        "explanation": "Принимать подачу таким ударом нельзя."
+      },
+      "en": {
+        "question": "In tennis, what is a shot struck before the ball bounces on the court called?",
+        "explanation": "A serve cannot be returned this way."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удар с лёта",
+        "en": "Volley"
+      },
+      {
+        "id": "o1",
+        "ru": "Удар с отскока",
+        "en": "Groundstroke"
+      },
+      {
+        "id": "o2",
+        "ru": "Удар с полулёта",
+        "en": "Half-volley"
+      },
+      {
+        "id": "o3",
+        "ru": "Резаный удар после отскока",
+        "en": "Slice after the bounce"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html",
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_half_volley",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар почти сразу после отскока мяча от покрытия?",
+        "explanation": "Мяч встречают очень низко, на коротком отскоке."
+      },
+      "en": {
+        "question": "In tennis, what is a shot struck almost immediately after the ball bounces called?",
+        "explanation": "The ball is met low on a short bounce."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удар с полулёта",
+        "en": "Half-volley"
+      },
+      {
+        "id": "o1",
+        "ru": "Удар с лёта",
+        "en": "Volley"
+      },
+      {
+        "id": "o2",
+        "ru": "Подача",
+        "en": "Serve"
+      },
+      {
+        "id": "o3",
+        "ru": "Удар над головой",
+        "en": "Overhead"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_lob",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется высокий удар, перебрасывающий соперника у сетки?",
+        "explanation": "Он может быть защитным или атакующим."
+      },
+      "en": {
+        "question": "In tennis, what is a high shot lifting the ball over an opponent at the net called?",
+        "explanation": "It can be defensive or offensive."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Свеча",
+        "en": "Lob"
+      },
+      {
+        "id": "o1",
+        "ru": "Укороченный удар",
+        "en": "Drop shot"
+      },
+      {
+        "id": "o2",
+        "ru": "Удар с полулёта",
+        "en": "Half-volley"
+      },
+      {
+        "id": "o3",
+        "ru": "Выход к сетке после удара",
+        "en": "Approach shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_drop",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется мягкий укороченный удар с приземлением мяча близко к сетке?",
+        "explanation": "Он особенно полезен, когда соперник находится далеко за задней линией."
+      },
+      "en": {
+        "question": "In tennis, what is a softly hit shot landing close to the net called?",
+        "explanation": "It is particularly useful when the opponent is far behind the baseline."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Укороченный удар",
+        "en": "Drop shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Свеча",
+        "en": "Lob"
+      },
+      {
+        "id": "o2",
+        "ru": "Смэш",
+        "en": "Smash"
+      },
+      {
+        "id": "o3",
+        "ru": "Обводящий удар",
+        "en": "Passing shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_smash",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется сильный удар над головой, похожий по движению на подачу?",
+        "explanation": "Так часто завершают розыгрыш после высокой свечи."
+      },
+      "en": {
+        "question": "In tennis, what is a powerful overhead stroke with a motion similar to a serve called?",
+        "explanation": "It often finishes a point after a high lob."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Смэш",
+        "en": "Smash"
+      },
+      {
+        "id": "o1",
+        "ru": "Укороченный удар",
+        "en": "Drop shot"
+      },
+      {
+        "id": "o2",
+        "ru": "Удар с полулёта",
+        "en": "Half-volley"
+      },
+      {
+        "id": "o3",
+        "ru": "Свеча",
+        "en": "Lob"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_slice",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар с нижним вращением мяча?",
+        "explanation": "Ракетка движется преимущественно сверху вниз."
+      },
+      "en": {
+        "question": "In tennis, what is a shot giving the ball backspin called?",
+        "explanation": "The racket moves mainly from high to low."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Слайс",
+        "en": "Slice"
+      },
+      {
+        "id": "o1",
+        "ru": "Топспин",
+        "en": "Topspin"
+      },
+      {
+        "id": "o2",
+        "ru": "Плоский удар",
+        "en": "Flat shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Удар с боковым вращением",
+        "en": "Sidespin shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_topspin",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется верхнее вращение мяча после движения ракетки снизу вверх?",
+        "explanation": "Вращение помогает мячу опускаться в пределы корта."
+      },
+      "en": {
+        "question": "In tennis, what is forward ball rotation produced by a low-to-high racket motion called?",
+        "explanation": "The spin helps the ball dip inside the court."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Топспин",
+        "en": "Topspin"
+      },
+      {
+        "id": "o1",
+        "ru": "Нижнее вращение",
+        "en": "Backspin"
+      },
+      {
+        "id": "o2",
+        "ru": "Боковое вращение",
+        "en": "Sidespin"
+      },
+      {
+        "id": "o3",
+        "ru": "Удар без вращения",
+        "en": "Flat shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_rally",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется обмен ударами от подачи до завершения одного очка?",
+        "explanation": "Он продолжается до выигрыша очка одной стороной."
+      },
+      "en": {
+        "question": "In tennis, what is a sequence of legal exchanges within a point called?",
+        "explanation": "It continues until one side wins the point."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Розыгрыш",
+        "en": "Rally"
+      },
+      {
+        "id": "o1",
+        "ru": "Гейм",
+        "en": "Game"
+      },
+      {
+        "id": "o2",
+        "ru": "Сет",
+        "en": "Set"
+      },
+      {
+        "id": "o3",
+        "ru": "Подача",
+        "en": "Serve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_break",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется гейм, выигранный принимающей стороной?",
+        "explanation": "Выиграть собственную подачу и сделать брейк — разные задачи."
+      },
+      "en": {
+        "question": "In tennis, what is a game won by the receiving side called?",
+        "explanation": "Holding serve and breaking serve are different achievements."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Брейк",
+        "en": "Service break"
+      },
+      {
+        "id": "o1",
+        "ru": "Сетбол",
+        "en": "Set point"
+      },
+      {
+        "id": "o2",
+        "ru": "Переигровка",
+        "en": "Let"
+      },
+      {
+        "id": "o3",
+        "ru": "Выигрыш своей подачи",
+        "en": "Hold of serve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_approach",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар, после которого игрок выходит к сетке?",
+        "explanation": "Он помогает подготовить атаку с близкой позиции."
+      },
+      "en": {
+        "question": "In tennis, what is a shot followed by a move towards the net called?",
+        "explanation": "It helps prepare an attack from closer to the net."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удар с выходом к сетке",
+        "en": "Approach shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Свеча",
+        "en": "Lob"
+      },
+      {
+        "id": "o2",
+        "ru": "Смэш",
+        "en": "Smash"
+      },
+      {
+        "id": "o3",
+        "ru": "Подача",
+        "en": "Serve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_passing",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар мимо соперника, находящегося у сетки?",
+        "explanation": "Его цель — не дать сопернику выполнить удар с лёта."
+      },
+      "en": {
+        "question": "In tennis, what is a shot hit past an opponent positioned at the net called?",
+        "explanation": "Its aim is to prevent the opponent from making a volley."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обводящий удар",
+        "en": "Passing shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Удар с полулёта",
+        "en": "Half-volley"
+      },
+      {
+        "id": "o2",
+        "ru": "Укороченный удар",
+        "en": "Drop shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Вторая подача",
+        "en": "Second serve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/content/dam/usta/content-fragments/tennis-service-center/assets/pdfs/Net-Generation-Practice-Plan-Red.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_groundstroke",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется удар после отскока мяча, выполняемый справа или слева?",
+        "explanation": "В отличие от удара с лёта здесь мяч уже коснулся корта."
+      },
+      "en": {
+        "question": "In tennis, what is a forehand or backhand struck after the ball bounces called?",
+        "explanation": "Unlike a volley, the ball has already touched the court."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удар с отскока",
+        "en": "Groundstroke"
+      },
+      {
+        "id": "o1",
+        "ru": "Удар с лёта",
+        "en": "Volley"
+      },
+      {
+        "id": "o2",
+        "ru": "Подача",
+        "en": "Serve"
+      },
+      {
+        "id": "o3",
+        "ru": "Смэш с лёта",
+        "en": "Overhead volley"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_baseline",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется задняя граница теннисного корта?",
+        "explanation": "Она проходит параллельно сетке."
+      },
+      "en": {
+        "question": "In tennis, what is the back boundary of a tennis court called?",
+        "explanation": "It runs parallel to the net."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Задняя линия",
+        "en": "Baseline"
+      },
+      {
+        "id": "o1",
+        "ru": "Боковая линия",
+        "en": "Sideline"
+      },
+      {
+        "id": "o2",
+        "ru": "Линия подачи",
+        "en": "Service line"
+      },
+      {
+        "id": "o3",
+        "ru": "Центральная линия подачи",
+        "en": "Centre service line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_alley",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется полоса между одиночной и парной боковыми линиями?",
+        "explanation": "Эта полоса расширяет игровую зону в парном разряде."
+      },
+      "en": {
+        "question": "In tennis, what is the strip between the singles and doubles sidelines called?",
+        "explanation": "This strip widens the playing area in doubles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Парный коридор",
+        "en": "Doubles alley"
+      },
+      {
+        "id": "o1",
+        "ru": "Квадрат подачи",
+        "en": "Service box"
+      },
+      {
+        "id": "o2",
+        "ru": "Зона у задней линии",
+        "en": "Backcourt"
+      },
+      {
+        "id": "o3",
+        "ru": "Центральная линия",
+        "en": "Centre line"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_receiver",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется игрок, принимающий подачу?",
+        "explanation": "Право подачи и приёма меняется по установленному порядку."
+      },
+      "en": {
+        "question": "In tennis, what is the player returning the serve called?",
+        "explanation": "Serving and receiving rights follow a prescribed order."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Принимающий",
+        "en": "Receiver"
+      },
+      {
+        "id": "o1",
+        "ru": "Подающий",
+        "en": "Server"
+      },
+      {
+        "id": "o2",
+        "ru": "Линейный судья",
+        "en": "Line umpire"
+      },
+      {
+        "id": "o3",
+        "ru": "Судья на вышке",
+        "en": "Chair umpire"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_server",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется игрок, вводящий мяч в розыгрыш подачей?",
+        "explanation": "Подачу выполняют из-за задней линии."
+      },
+      "en": {
+        "question": "In tennis, what is the player putting the ball in play with a serve called?",
+        "explanation": "The serve is delivered from behind the baseline."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подающий",
+        "en": "Server"
+      },
+      {
+        "id": "o1",
+        "ru": "Принимающий",
+        "en": "Receiver"
+      },
+      {
+        "id": "o2",
+        "ru": "Линейный судья",
+        "en": "Line umpire"
+      },
+      {
+        "id": "o3",
+        "ru": "Судья на вышке",
+        "en": "Chair umpire"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_poach",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в теннисе называется перехват у сетки в паре мяча, предназначавшегося партнёру?",
+        "explanation": "Такой манёвр требует согласованной работы пары."
+      },
+      "en": {
+        "question": "In tennis, what is intercepting at the net in doubles a ball that would normally go to a partner called?",
+        "explanation": "This manoeuvre requires coordination between partners."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Перехват в парной игре",
+        "en": "Poaching"
+      },
+      {
+        "id": "o1",
+        "ru": "Смена сторон",
+        "en": "Change of ends"
+      },
+      {
+        "id": "o2",
+        "ru": "Укороченный удар",
+        "en": "Drop shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Выход к сетке после удара",
+        "en": "Approach shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usta.com/en/home/improve/tips-and-instruction/national/tennis-terms-definitions.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_doubles_width",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова ширина парного корта по правилам ITF 2026?",
+        "explanation": "Коридоры по бокам расширяют одиночный корт для парной игры."
+      },
+      "en": {
+        "question": "What is the doubles-court width under ITF 2026 rules?",
+        "explanation": "The side alleys widen the singles court for doubles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "10,97 м",
+        "en": "10.97 m"
+      },
+      {
+        "id": "o1",
+        "ru": "8,23 м",
+        "en": "8.23 m"
+      },
+      {
+        "id": "o2",
+        "ru": "12,80 м",
+        "en": "12.80 m"
+      },
+      {
+        "id": "o3",
+        "ru": "9,14 м",
+        "en": "9.14 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_net_centre",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какова высота сетки в центре теннисного корта по ITF 2026?",
+        "explanation": "В центре высоту удерживает специальный ремень."
+      },
+      "en": {
+        "question": "What is the net height at the centre of a tennis court under ITF 2026?",
+        "explanation": "A centre strap maintains this height."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "0,914 м",
+        "en": "0.914 m"
+      },
+      {
+        "id": "o1",
+        "ru": "1,07 м",
+        "en": "1.07 m"
+      },
+      {
+        "id": "o2",
+        "ru": "1,20 м",
+        "en": "1.20 m"
+      },
+      {
+        "id": "o3",
+        "ru": "0,75 м",
+        "en": "0.75 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_singles_stick",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где располагают одиночные подпорки сетки, если для одиночного матча используют парную сетку?",
+        "explanation": "Подпорки удерживают сетку на высоте 1,07 м в этих точках."
+      },
+      "en": {
+        "question": "Where are singles sticks placed when a doubles net is used for singles under the 2026 ITF rules?",
+        "explanation": "The sticks support the net at a height of 1.07 m at those points."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В 0,914 м снаружи от одиночных боковых линий",
+        "en": "0.914 m outside the singles sidelines"
+      },
+      {
+        "id": "o1",
+        "ru": "В 0,914 м внутри одиночных боковых линий",
+        "en": "0.914 m inside the singles sidelines"
+      },
+      {
+        "id": "o2",
+        "ru": "На задней линии",
+        "en": "On the baseline"
+      },
+      {
+        "id": "o3",
+        "ru": "В центре корта",
+        "en": "At the centre of the court"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_service_line",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком расстоянии от сетки находится линия подачи по ITF 2026?",
+        "explanation": "Линия ограничивает длину квадрата подачи."
+      },
+      "en": {
+        "question": "How far is the service line from the net under ITF 2026?",
+        "explanation": "The line marks the back of the service box."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "6,40 м",
+        "en": "6.40 m"
+      },
+      {
+        "id": "o1",
+        "ru": "5,80 м",
+        "en": "5.80 m"
+      },
+      {
+        "id": "o2",
+        "ru": "7,32 м",
+        "en": "7.32 m"
+      },
+      {
+        "id": "o3",
+        "ru": "4,57 м",
+        "en": "4.57 m"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_first_point",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют счёт после первого очка подающего при 0:0 в обычном гейме?",
+        "explanation": "В стандартном гейме первым объявляют счёт подающего."
+      },
+      "en": {
+        "question": "What is the score after the server wins the first point from 0–0 in a standard game?",
+        "explanation": "The server’s score is called first in a standard game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "15:0",
+        "en": "15–love"
+      },
+      {
+        "id": "o1",
+        "ru": "1:0",
+        "en": "1–love"
+      },
+      {
+        "id": "o2",
+        "ru": "10:0",
+        "en": "10–love"
+      },
+      {
+        "id": "o3",
+        "ru": "30:0",
+        "en": "30–love"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_best_of_five",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько сетов нужно выиграть, чтобы победить в теннисном матче из максимум пяти сетов?",
+        "explanation": "Такой матч может закончиться за три, четыре или пять сетов."
+      },
+      "en": {
+        "question": "How many sets does a player need to win in a best-of-five match?",
+        "explanation": "The match can finish after three, four or five sets."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o1",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o2",
+        "ru": "4",
+        "en": "4"
+      },
+      {
+        "id": "o3",
+        "ru": "5",
+        "en": "5"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_advantage",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют преимущество в одно очко после счёта «ровно» в обычном гейме?",
+        "explanation": "Для победы в таком гейме нужен отрыв в два очка."
+      },
+      "en": {
+        "question": "What is a one-point lead after deuce in a standard game called?",
+        "explanation": "Winning such a game requires a two-point lead."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Преимущество",
+        "en": "Advantage"
+      },
+      {
+        "id": "o1",
+        "ru": "Эйс",
+        "en": "Ace"
+      },
+      {
+        "id": "o2",
+        "ru": "Тай-брейк",
+        "en": "Tie-break"
+      },
+      {
+        "id": "o3",
+        "ru": "Сетбол без подачи",
+        "en": "A set point without serving"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_adv_lost",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой счёт объявляют, если игрок с преимуществом проиграл следующее очко?",
+        "explanation": "Ни одна сторона в этот момент не имеет отрыва в два очка."
+      },
+      "en": {
+        "question": "What happens if a player with advantage after deuce loses the next point?",
+        "explanation": "Neither side then has a two-point lead."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Снова «ровно»",
+        "en": "The score returns to deuce"
+      },
+      {
+        "id": "o1",
+        "ru": "Гейм немедленно проигран",
+        "en": "The game is immediately lost"
+      },
+      {
+        "id": "o2",
+        "ru": "Начинается новый сет",
+        "en": "A new set begins"
+      },
+      {
+        "id": "o3",
+        "ru": "Очко не учитывается",
+        "en": "The point is ignored"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_tiebreak_target",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "До какого минимума очков играют стандартный семиочковый тай-брейк?",
+        "explanation": "Для победы также необходим отрыв минимум в два очка."
+      },
+      "en": {
+        "question": "What is the minimum target score in a standard seven-point tie-break under the 2026 ITF rules?",
+        "explanation": "A lead of at least two points is also required."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "7",
+        "en": "7"
+      },
+      {
+        "id": "o1",
+        "ru": "5",
+        "en": "5"
+      },
+      {
+        "id": "o2",
+        "ru": "6",
+        "en": "6"
+      },
+      {
+        "id": "o3",
+        "ru": "10",
+        "en": "10"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_serve_change",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Когда в обычном матче меняется подающий между соперниками?",
+        "explanation": "В тай-брейке действует отдельный порядок смены подающего."
+      },
+      "en": {
+        "question": "When does serving normally alternate between opponents?",
+        "explanation": "A tie-break uses a different serving order."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "После каждого гейма",
+        "en": "After each game"
+      },
+      {
+        "id": "o1",
+        "ru": "После каждого очка",
+        "en": "After each point"
+      },
+      {
+        "id": "o2",
+        "ru": "Только после сета",
+        "en": "Only after each set"
+      },
+      {
+        "id": "o3",
+        "ru": "Только после брейка",
+        "en": "Only after a break"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_end_change",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "После каких геймов игроки обычно меняются сторонами корта?",
+        "explanation": "Для тай-брейка предусмотрено отдельное правило смены сторон."
+      },
+      "en": {
+        "question": "After which games do players normally change ends under the 2026 ITF rules?",
+        "explanation": "A separate change-of-ends rule applies in a tie-break."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "После первого и далее каждого нечётного",
+        "en": "After the first and each subsequent odd game"
+      },
+      {
+        "id": "o1",
+        "ru": "После каждого второго, начиная со второго",
+        "en": "After every even game from the second"
+      },
+      {
+        "id": "o2",
+        "ru": "Только после десятого",
+        "en": "Only after the tenth"
+      },
+      {
+        "id": "o3",
+        "ru": "После каждого очка",
+        "en": "After every point"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_second_serve",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько попыток подачи у игрока в одном розыгрыше, если переигровок не было?",
+        "explanation": "После ошибки первой подачи предоставляется вторая."
+      },
+      "en": {
+        "question": "How many service attempts does a player have for one point if there are no service lets?",
+        "explanation": "A second serve follows a first-service fault."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "2",
+        "en": "2"
+      },
+      {
+        "id": "o1",
+        "ru": "1",
+        "en": "1"
+      },
+      {
+        "id": "o2",
+        "ru": "3",
+        "en": "3"
+      },
+      {
+        "id": "o3",
+        "ru": "4",
+        "en": "4"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_double_fault",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит при ошибке и на первой, и на второй подаче?",
+        "explanation": "Это называется двойной ошибкой."
+      },
+      "en": {
+        "question": "What happens when both first and second serves are faults?",
+        "explanation": "This is called a double fault."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подающий проигрывает очко",
+        "en": "The server loses the point"
+      },
+      {
+        "id": "o1",
+        "ru": "Очко переигрывают без ограничений",
+        "en": "The point is replayed without limit"
+      },
+      {
+        "id": "o2",
+        "ru": "Подающий получает очко",
+        "en": "The server wins the point"
+      },
+      {
+        "id": "o3",
+        "ru": "Счёт сета обнуляют",
+        "en": "The set score is reset"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_let_serve",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Подача коснулась сетки и попала в правильный квадрат. Что обычно назначают по ITF 2026?",
+        "explanation": "Это let при подаче, а не ошибка подачи."
+      },
+      "en": {
+        "question": "A serve touches the net and lands in the correct box. What normally happens under ITF 2026?",
+        "explanation": "This is a service let, not a service fault."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подачу повторяют",
+        "en": "The serve is replayed"
+      },
+      {
+        "id": "o1",
+        "ru": "Подающий теряет очко",
+        "en": "The server loses the point"
+      },
+      {
+        "id": "o2",
+        "ru": "Принимающий теряет очко",
+        "en": "The receiver loses the point"
+      },
+      {
+        "id": "o3",
+        "ru": "Засчитывают эйс",
+        "en": "An ace is awarded"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_receive_volley",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что происходит, если принимающий в обычном розыгрыше отбивает подачу с лёта?",
+        "explanation": "Подача должна отскочить в нужном квадрате, прежде чем по ней можно ударить."
+      },
+      "en": {
+        "question": "What happens in standard tennis if the receiver volleys a serve under the 2026 ITF rules?",
+        "explanation": "The serve must bounce in the correct service box before the receiver can hit it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Принимающий проигрывает очко",
+        "en": "The receiver loses the point"
+      },
+      {
+        "id": "o1",
+        "ru": "Подающий проигрывает очко",
+        "en": "The server loses the point"
+      },
+      {
+        "id": "o2",
+        "ru": "Подачу повторяют",
+        "en": "The serve is replayed"
+      },
+      {
+        "id": "o3",
+        "ru": "Розыгрыш продолжается",
+        "en": "Play continues"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_second_bounce",
+    "categoryId": "tennis",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч дважды отскочил на стороне игрока до ответного удара в обычном теннисе. Кто проиграл очко?",
+        "explanation": "В теннисе на колясках действует отдельное правило двух отскоков."
+      },
+      "en": {
+        "question": "The ball bounces twice on a player's side before a return in standard tennis. Who loses the point under the 2026 ITF rules?",
+        "explanation": "Wheelchair tennis has a separate two-bounce rule."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Этот игрок",
+        "en": "That player"
+      },
+      {
+        "id": "o1",
+        "ru": "Соперник",
+        "en": "The opponent"
+      },
+      {
+        "id": "o2",
+        "ru": "Никто, очко повторяют",
+        "en": "Neither, it is replayed"
+      },
+      {
+        "id": "o3",
+        "ru": "Подающий независимо от стороны",
+        "en": "The server regardless of side"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_net_touch",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Игрок касается сетки, пока мяч в игре. Каково обычное решение?",
+        "explanation": "Это касается и контакта ракетки или одежды с сеткой."
+      },
+      "en": {
+        "question": "A player touches the net while the ball is in play. What is the normal ruling under the 2026 ITF rules?",
+        "explanation": "It also covers the racket or clothing touching the net."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Он проигрывает очко",
+        "en": "They lose the point"
+      },
+      {
+        "id": "o1",
+        "ru": "Он выигрывает очко",
+        "en": "They win the point"
+      },
+      {
+        "id": "o2",
+        "ru": "Всегда переигрывают",
+        "en": "The point is always replayed"
+      },
+      {
+        "id": "o3",
+        "ru": "Меняют мяч без изменения счёта",
+        "en": "The ball is changed with no scoring effect"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_broken_ball",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч лопнул в ходе розыгрыша. Что предписывают правила ITF 2026?",
+        "explanation": "Если мяч только стал мягким, сыгранное очко остаётся в силе."
+      },
+      "en": {
+        "question": "The ball breaks during a point. What happens under the 2026 ITF rules?",
+        "explanation": "If the ball merely goes soft without breaking, the point stands."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Очко переигрывают",
+        "en": "The point is replayed"
+      },
+      {
+        "id": "o1",
+        "ru": "Ведущий в счёте выигрывает очко",
+        "en": "The player ahead wins the point"
+      },
+      {
+        "id": "o2",
+        "ru": "Очко отдают подающему",
+        "en": "The point goes to the server"
+      },
+      {
+        "id": "o3",
+        "ru": "Очко отдают принимающему",
+        "en": "The point goes to the receiver"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_ball_body",
+    "categoryId": "tennis",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Мяч в игре попал в тело игрока до удара ракеткой. Что обычно происходит?",
+        "explanation": "Ответить на мяч нужно ракеткой, удерживаемой в руке."
+      },
+      "en": {
+        "question": "A ball in play hits a player's body before the racket. What normally happens under the 2026 ITF rules?",
+        "explanation": "The ball must be returned with a racket held in the hand."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игрок проигрывает очко",
+        "en": "The player loses the point"
+      },
+      {
+        "id": "o1",
+        "ru": "Игрок получает очко",
+        "en": "The player wins the point"
+      },
+      {
+        "id": "o2",
+        "ru": "Счёт не меняется никогда",
+        "en": "The score never changes"
+      },
+      {
+        "id": "o3",
+        "ru": "Всегда повторяют подачу",
+        "en": "The serve is always repeated"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "tennis_m50_service_toss",
+    "categoryId": "tennis",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что может сделать игрок, если подбросил мяч для подачи, но передумал по нему бить?",
+        "explanation": "Ошибки подачи здесь нет. Игрок может также дать мячу упасть на корт."
+      },
+      "en": {
+        "question": "What can a player do after tossing the ball to serve if they decide against hitting it under the 2026 ITF rules?",
+        "explanation": "This is no service fault. The player may also let the ball bounce."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поймать мяч и начать подачу заново",
+        "en": "Catch the ball and start the service motion again"
+      },
+      {
+        "id": "o1",
+        "ru": "Продолжить только второй подачей",
+        "en": "Proceed to the second serve only"
+      },
+      {
+        "id": "o2",
+        "ru": "Уступить очко",
+        "en": "Concede the point"
+      },
+      {
+        "id": "o3",
+        "ru": "Ввести мяч в игру после отскока",
+        "en": "Serve the ball after it bounces"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.itftennis.com/media/7221/2026-rules-of-tennis-english.pdf"
+    ],
+    "image": null
   }
 ]
