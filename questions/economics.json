@@ -1758,5 +1758,445 @@
       "https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html"
     ],
     "image": null
+  },
+  {
+    "id": "economics_m50_opportunity",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает ценность лучшей упущенной альтернативы при выборе?",
+        "explanation": "Она может включать время и другие ресурсы, а не только деньги."
+      },
+      "en": {
+        "question": "Which term means the value of the best alternative forgone when making a choice?",
+        "explanation": "It can include time and other resources, not just money."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Альтернативная стоимость",
+        "en": "Opportunity cost"
+      },
+      {
+        "id": "o1",
+        "ru": "Невозвратные издержки",
+        "en": "Sunk cost"
+      },
+      {
+        "id": "o2",
+        "ru": "Выручка",
+        "en": "Revenue"
+      },
+      {
+        "id": "o3",
+        "ru": "Прибыль",
+        "en": "Profit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/2-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_nominal",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает ВВП, рассчитанный в текущих ценах?",
+        "explanation": "Для сравнения объёма производства во времени обычно учитывают изменение цен."
+      },
+      "en": {
+        "question": "Which term means GDP measured at current prices?",
+        "explanation": "Comparing output volumes over time usually requires adjustment for price changes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Номинальный ВВП",
+        "en": "Nominal GDP"
+      },
+      {
+        "id": "o1",
+        "ru": "Реальный ВВП",
+        "en": "Real GDP"
+      },
+      {
+        "id": "o2",
+        "ru": "ВВП на душу населения",
+        "en": "GDP per capita"
+      },
+      {
+        "id": "o3",
+        "ru": "Потенциальный ВВП",
+        "en": "Potential GDP"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/19-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_real",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает ВВП с поправкой на изменение цен?",
+        "explanation": "Такая поправка помогает отделить рост выпуска от инфляции."
+      },
+      "en": {
+        "question": "Which term means GDP adjusted for price changes?",
+        "explanation": "This adjustment helps separate output growth from inflation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Реальный ВВП",
+        "en": "Real GDP"
+      },
+      {
+        "id": "o1",
+        "ru": "Номинальный ВВП",
+        "en": "Nominal GDP"
+      },
+      {
+        "id": "o2",
+        "ru": "Национальный долг",
+        "en": "National debt"
+      },
+      {
+        "id": "o3",
+        "ru": "Бюджетный дефицит",
+        "en": "Budget deficit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/19-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_fiscal",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает политику государства в области налогов и расходов?",
+        "explanation": "Через неё государство влияет на совокупный спрос."
+      },
+      "en": {
+        "question": "Which term means government policy concerning taxation and spending?",
+        "explanation": "It allows governments to influence aggregate demand."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бюджетно-налоговая политика",
+        "en": "Fiscal policy"
+      },
+      {
+        "id": "o1",
+        "ru": "Денежно-кредитная политика",
+        "en": "Monetary policy"
+      },
+      {
+        "id": "o2",
+        "ru": "Валютная политика",
+        "en": "Exchange-rate policy"
+      },
+      {
+        "id": "o3",
+        "ru": "Антимонопольная политика",
+        "en": "Competition policy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/30-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_monetary",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает политику центрального банка в области денег и процентных ставок?",
+        "explanation": "Её инструменты отличаются от решений о государственных налогах."
+      },
+      "en": {
+        "question": "Which term means central-bank policy concerning money and interest rates?",
+        "explanation": "Its tools differ from decisions about government taxes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Денежно-кредитная политика",
+        "en": "Monetary policy"
+      },
+      {
+        "id": "o1",
+        "ru": "Бюджетно-налоговая политика",
+        "en": "Fiscal policy"
+      },
+      {
+        "id": "o2",
+        "ru": "Таможенная политика",
+        "en": "Customs policy"
+      },
+      {
+        "id": "o3",
+        "ru": "Промышленная политика",
+        "en": "Industrial policy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/28-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_externality",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает влияние деятельности на третьих лиц, не учтённое в рыночной цене?",
+        "explanation": "Пример отрицательного эффекта — загрязнение окружающей среды."
+      },
+      "en": {
+        "question": "Which term means an effect on third parties not reflected in the market price?",
+        "explanation": "Pollution is an example of a negative externality."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Внешний эффект",
+        "en": "Externality"
+      },
+      {
+        "id": "o1",
+        "ru": "Альтернативные издержки",
+        "en": "Opportunity cost"
+      },
+      {
+        "id": "o2",
+        "ru": "Прибыль",
+        "en": "Profit"
+      },
+      {
+        "id": "o3",
+        "ru": "Выручка",
+        "en": "Revenue"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/12-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_public_good",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют благо, от использования которого трудно исключить людей и которое доступно другим даже после его использования одним человеком?",
+        "explanation": "Такие свойства называют неисключаемостью и несоперничеством в потреблении."
+      },
+      "en": {
+        "question": "What is a good called if people are difficult to exclude from using it and one person’s use does not reduce its availability to others?",
+        "explanation": "These properties are called non-excludability and non-rivalry."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Общественное благо",
+        "en": "Public good"
+      },
+      {
+        "id": "o1",
+        "ru": "Частное благо",
+        "en": "Private good"
+      },
+      {
+        "id": "o2",
+        "ru": "Клубное благо",
+        "en": "Club good"
+      },
+      {
+        "id": "o3",
+        "ru": "Общий ресурс",
+        "en": "Common resource"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/13-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_comparative",
+    "categoryId": "economics",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает способность производить товар с меньшими альтернативными издержками?",
+        "explanation": "Для взаимовыгодной торговли не обязательно иметь преимущество во всём."
+      },
+      "en": {
+        "question": "Which term means the ability to produce a good at lower opportunity cost?",
+        "explanation": "Mutually beneficial trade does not require an advantage in producing everything."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сравнительное преимущество",
+        "en": "Comparative advantage"
+      },
+      {
+        "id": "o1",
+        "ru": "Абсолютное преимущество",
+        "en": "Absolute advantage"
+      },
+      {
+        "id": "o2",
+        "ru": "Экономия на масштабе",
+        "en": "Economies of scale"
+      },
+      {
+        "id": "o3",
+        "ru": "Рыночная власть",
+        "en": "Market power"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/2-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_exchange",
+    "categoryId": "economics",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает цену одной валюты, выраженную в другой валюте?",
+        "explanation": "Он влияет на стоимость импорта и экспорта в разных валютах."
+      },
+      "en": {
+        "question": "Which term means the price of one currency expressed in another?",
+        "explanation": "It affects import and export prices across currencies."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Валютный курс",
+        "en": "Exchange rate"
+      },
+      {
+        "id": "o1",
+        "ru": "Процентная ставка",
+        "en": "Interest rate"
+      },
+      {
+        "id": "o2",
+        "ru": "Уровень инфляции",
+        "en": "Inflation rate"
+      },
+      {
+        "id": "o3",
+        "ru": "Налоговая ставка",
+        "en": "Tax rate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/19-key-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "economics_m50_elasticity",
+    "categoryId": "economics",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют отношение процентного изменения величины спроса к процентному изменению цены товара?",
+        "explanation": "Оно показывает, насколько чувствителен объём покупок к изменению цены."
+      },
+      "en": {
+        "question": "What is the ratio of the percentage change in quantity demanded to the percentage change in a good’s price called?",
+        "explanation": "It shows how responsive the quantity purchased is to a price change."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ценовая эластичность спроса",
+        "en": "Price elasticity of demand"
+      },
+      {
+        "id": "o1",
+        "ru": "Эластичность спроса по доходу",
+        "en": "Income elasticity of demand"
+      },
+      {
+        "id": "o2",
+        "ru": "Ценовая эластичность предложения",
+        "en": "Price elasticity of supply"
+      },
+      {
+        "id": "o3",
+        "ru": "Перекрёстная эластичность спроса",
+        "en": "Cross-price elasticity of demand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/principles-economics-3e/pages/5-key-terms"
+    ],
+    "image": null
   }
 ]

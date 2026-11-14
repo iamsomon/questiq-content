@@ -798,5 +798,185 @@
     ],
     "sourceRecordSha256": "0f4f7a1a425860add18696e1085e430178ce4254ef8bf42561ead5011f13dad6",
     "reviewNotes": "Reviewed the unique alphabetic code, currency identity and numeric code in ISO 4217 List One. Russian/English standardized names compared; fixed capitalization of США/ОАЭ, Kyrgyzstani spelling and Kazakhstani terminology. Other named currencies are different monetary units. No exchange rates, investment advice or exclusive-country claim."
+  },
+  {
+    "id": "economics_m50_opportunity",
+    "status": "approved",
+    "sha256": "c66ec9e7ba1297744e64a7c32921dc0b4653cc2ca9a09a8854af9dc57c44675f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/2-key-terms",
+        "location": "Key Terms: Opportunity cost",
+        "claim": "Which term means the value of the best alternative forgone when making a choice? Answer: Opportunity cost. It can include time and other resources, not just money."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_nominal",
+    "status": "approved",
+    "sha256": "2576a2a46b21087a402b0d77fbc4e3a59b2d5375fdd10b07a54f26e5df2286c4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/19-key-terms",
+        "location": "Key Terms: Nominal GDP",
+        "claim": "Which term means GDP measured at current prices? Answer: Nominal GDP. Comparing output volumes over time usually requires adjustment for price changes."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_real",
+    "status": "approved",
+    "sha256": "2832d5cfa1d054c7ba3a32579c3bd582600b03d69dd22875f0b73ad86a401364",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/19-key-terms",
+        "location": "Key Terms: Real GDP",
+        "claim": "Which term means GDP adjusted for price changes? Answer: Real GDP. This adjustment helps separate output growth from inflation."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_fiscal",
+    "status": "approved",
+    "sha256": "0eb5fd8576df02b358f9e0dc705526e572f584efca4f35575f57d06c02493f69",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/30-key-terms",
+        "location": "Key Terms: Fiscal policy",
+        "claim": "Which term means government policy concerning taxation and spending? Answer: Fiscal policy. It allows governments to influence aggregate demand."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_monetary",
+    "status": "approved",
+    "sha256": "c2ec004a48bd90ff9e7d5309aaf959a2ab9ea92ece5e0d755345aad19d053d8f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/28-key-terms",
+        "location": "Key Terms: Monetary policy",
+        "claim": "Which term means central-bank policy concerning money and interest rates? Answer: Monetary policy. Its tools differ from decisions about government taxes."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_externality",
+    "status": "approved",
+    "sha256": "8e0cf3e6c9d786e623074ce2f0d8e74395063c9b2f5367d9ad3396232ec748bc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/12-key-terms",
+        "location": "Key Terms: Externality",
+        "claim": "Which term means an effect on third parties not reflected in the market price? Answer: Externality. Pollution is an example of a negative externality."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_public_good",
+    "status": "approved",
+    "sha256": "461d6e4915a632b460468e975c6e2b07bfaca457a53b2f8755d7b4006949a931",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/13-key-terms",
+        "location": "Key Terms: Public good",
+        "claim": "What is a good called if people are difficult to exclude from using it and one person’s use does not reduce its availability to others? Answer: Public good. These properties are called non-excludability and non-rivalry."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_comparative",
+    "status": "approved",
+    "sha256": "64a749bfb22584d6c3cd839902e7ed56842d2710f32e9c5cd2e1b62bc52201c4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/2-key-terms",
+        "location": "Key Terms: Comparative advantage",
+        "claim": "Which term means the ability to produce a good at lower opportunity cost? Answer: Comparative advantage. Mutually beneficial trade does not require an advantage in producing everything."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_exchange",
+    "status": "approved",
+    "sha256": "6ae4af5e8d5f85c546da69e58f08d3e9acaa242a12bce34b348205f1f61ebbec",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/19-key-terms",
+        "location": "Key Terms: Exchange rate",
+        "claim": "Which term means the price of one currency expressed in another? Answer: Exchange rate. It affects import and export prices across currencies."
+      }
+    ]
+  },
+  {
+    "id": "economics_m50_elasticity",
+    "status": "approved",
+    "sha256": "74bf31d362318e68ab03e2ed72e5230011b2ca60c8be7ed0f20bc4c82b7103ed",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Economics 3e key-term chapters 2,5,12,13,19,28,30 read for the ten concepts. Original bilingual questions, comparable economic distractors and separate wording pass; no financial advice or textbook exercises copied.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-key-terms",
+        "location": "Key Terms: Price elasticity of demand",
+        "claim": "What is the ratio of the percentage change in quantity demanded to the percentage change in a good’s price called? Answer: Price elasticity of demand. It shows how responsive the quantity purchased is to a price change."
+      }
+    ]
   }
 ]

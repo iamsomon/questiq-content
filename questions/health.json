@@ -878,5 +878,1325 @@
       "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
     ],
     "image": null
+  },
+  {
+    "id": "health_m50_epidemiology",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая наука изучает распространение и причины заболеваний среди населения?",
+        "explanation": "Её предмет шире инфекционных болезней: например, она изучает и неинфекционные заболевания."
+      },
+      "en": {
+        "question": "Which science studies the distribution and causes of diseases in populations?",
+        "explanation": "Its scope extends beyond infections to conditions such as noncommunicable diseases."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпидемиология",
+        "en": "Epidemiology"
+      },
+      {
+        "id": "o1",
+        "ru": "Анатомия",
+        "en": "Anatomy"
+      },
+      {
+        "id": "o2",
+        "ru": "Гистология",
+        "en": "Histology"
+      },
+      {
+        "id": "o3",
+        "ru": "Биохимия",
+        "en": "Biochemistry"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_incubation",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется время от заражения до появления симптомов?",
+        "explanation": "Его длительность различается у разных инфекций."
+      },
+      "en": {
+        "question": "What is the time from infection to the appearance of symptoms called?",
+        "explanation": "Its duration differs between infections."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Инкубационный период",
+        "en": "Incubation period"
+      },
+      {
+        "id": "o1",
+        "ru": "Период выздоровления",
+        "en": "Recovery period"
+      },
+      {
+        "id": "o2",
+        "ru": "Период наблюдения",
+        "en": "Observation period"
+      },
+      {
+        "id": "o3",
+        "ru": "Период обострения",
+        "en": "Exacerbation period"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_pandemic",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется эпидемия, распространившаяся на несколько стран или континентов?",
+        "explanation": "Термин описывает масштаб распространения, а не сам по себе тяжесть болезни."
+      },
+      "en": {
+        "question": "What is an epidemic spreading across several countries or continents called?",
+        "explanation": "The term describes geographic spread, not disease severity by itself."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пандемия",
+        "en": "Pandemic"
+      },
+      {
+        "id": "o1",
+        "ru": "Эндемичность",
+        "en": "Endemicity"
+      },
+      {
+        "id": "o2",
+        "ru": "Спорадическая заболеваемость",
+        "en": "Sporadic disease"
+      },
+      {
+        "id": "o3",
+        "ru": "Бессимптомная инфекция",
+        "en": "Asymptomatic infection"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_endemic",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется обычное постоянное присутствие заболевания на определённой территории?",
+        "explanation": "Ожидаемый местный уровень отличают от необычного всплеска."
+      },
+      "en": {
+        "question": "What is the usual ongoing presence of a disease in a particular area called?",
+        "explanation": "The expected local level is distinguished from an unusual increase."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эндемичность",
+        "en": "Endemicity"
+      },
+      {
+        "id": "o1",
+        "ru": "Пандемия",
+        "en": "Pandemic"
+      },
+      {
+        "id": "o2",
+        "ru": "Эпидемия",
+        "en": "Epidemic"
+      },
+      {
+        "id": "o3",
+        "ru": "Эрадикация",
+        "en": "Eradication"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_epidemic",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется возникновение случаев заболевания заметно выше ожидаемого уровня?",
+        "explanation": "Оценка зависит от территории, периода и обычной частоты случаев."
+      },
+      "en": {
+        "question": "What is disease occurrence clearly above the expected level called?",
+        "explanation": "Assessment depends on the area, time and usual case frequency."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпидемия",
+        "en": "Epidemic"
+      },
+      {
+        "id": "o1",
+        "ru": "Эндемичность",
+        "en": "Endemicity"
+      },
+      {
+        "id": "o2",
+        "ru": "Спорадическая заболеваемость",
+        "en": "Sporadic disease"
+      },
+      {
+        "id": "o3",
+        "ru": "Эрадикация",
+        "en": "Eradication"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_zoonosis",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется инфекция, естественно передающаяся между позвоночными животными и людьми?",
+        "explanation": "Не каждое заболевание человека имеет животный источник."
+      },
+      "en": {
+        "question": "What is an infection naturally transmitted between vertebrate animals and humans called?",
+        "explanation": "Not every human disease has an animal source."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зооноз",
+        "en": "Zoonosis"
+      },
+      {
+        "id": "o1",
+        "ru": "Авитаминоз",
+        "en": "Vitamin deficiency"
+      },
+      {
+        "id": "o2",
+        "ru": "Аллергия",
+        "en": "Allergy"
+      },
+      {
+        "id": "o3",
+        "ru": "Аутоиммунное заболевание",
+        "en": "Autoimmune disease"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_vector",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется живой переносчик возбудителя между хозяевами?",
+        "explanation": "Например, некоторые комары переносят возбудителей инфекций."
+      },
+      "en": {
+        "question": "What is a living carrier transmitting a pathogen between hosts called?",
+        "explanation": "For example, some mosquitoes transmit infectious agents."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Переносчик",
+        "en": "Vector"
+      },
+      {
+        "id": "o1",
+        "ru": "Резервуар",
+        "en": "Reservoir"
+      },
+      {
+        "id": "o2",
+        "ru": "Возбудитель",
+        "en": "Pathogen"
+      },
+      {
+        "id": "o3",
+        "ru": "Восприимчивый хозяин",
+        "en": "Susceptible host"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_reservoir",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется естественная среда, в которой возбудитель обычно живёт и размножается?",
+        "explanation": "Это может быть популяция животных, люди или компоненты среды."
+      },
+      "en": {
+        "question": "What is the natural habitat where an infectious agent normally lives and multiplies called?",
+        "explanation": "It may be animals, people or an environmental component."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Резервуар инфекции",
+        "en": "Reservoir of infection"
+      },
+      {
+        "id": "o1",
+        "ru": "Входные ворота инфекции",
+        "en": "Portal of entry"
+      },
+      {
+        "id": "o2",
+        "ru": "Путь передачи",
+        "en": "Mode of transmission"
+      },
+      {
+        "id": "o3",
+        "ru": "Инкубационный период",
+        "en": "Incubation period"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_asymptomatic",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется течение инфекции без заметных симптомов?",
+        "explanation": "Отсутствие симптомов не всегда означает отсутствие возбудителя."
+      },
+      "en": {
+        "question": "What is an infection course without apparent symptoms called?",
+        "explanation": "Absence of symptoms does not always mean absence of the agent."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бессимптомная инфекция",
+        "en": "Asymptomatic infection"
+      },
+      {
+        "id": "o1",
+        "ru": "Тяжёлая инфекция",
+        "en": "Severe infection"
+      },
+      {
+        "id": "o2",
+        "ru": "Острая симптомная инфекция",
+        "en": "Acute symptomatic infection"
+      },
+      {
+        "id": "o3",
+        "ru": "Симптомное обострение",
+        "en": "Symptomatic exacerbation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/asymptomatic"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_surveillance",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется постоянный сбор и анализ данных о здоровье населения для выявления угроз и планирования мер?",
+        "explanation": "Данные также интерпретируют и передают тем, кто принимает меры в области здравоохранения."
+      },
+      "en": {
+        "question": "What is the ongoing collection and analysis of population health data to identify threats and plan responses called?",
+        "explanation": "The data are also interpreted and shared with people responsible for public-health action."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпидемиологический надзор",
+        "en": "Public-health surveillance"
+      },
+      {
+        "id": "o1",
+        "ru": "Рандомизированное испытание",
+        "en": "Randomised trial"
+      },
+      {
+        "id": "o2",
+        "ru": "Разовое обследование",
+        "en": "One-off examination"
+      },
+      {
+        "id": "o3",
+        "ru": "Индивидуальная диагностика",
+        "en": "Individual diagnosis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_prevalence",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется доля людей с определённым состоянием в популяции в заданный момент или период?",
+        "explanation": "Она включает уже имеющиеся случаи, а не только новые."
+      },
+      "en": {
+        "question": "What is the proportion of a population with a condition at a specified time or period called?",
+        "explanation": "It includes existing cases rather than only new ones."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Распространённость",
+        "en": "Prevalence"
+      },
+      {
+        "id": "o1",
+        "ru": "Заболеваемость новыми случаями",
+        "en": "Incidence"
+      },
+      {
+        "id": "o2",
+        "ru": "Летальность",
+        "en": "Case fatality"
+      },
+      {
+        "id": "o3",
+        "ru": "Смертность",
+        "en": "Mortality"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_incidence",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется появление новых случаев заболевания в популяции за период?",
+        "explanation": "Показатель относится к новым случаям, в отличие от распространённости."
+      },
+      "en": {
+        "question": "What is the occurrence of new disease cases in a population over a period called?",
+        "explanation": "It concerns new cases, unlike prevalence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Заболеваемость новыми случаями",
+        "en": "Incidence"
+      },
+      {
+        "id": "o1",
+        "ru": "Распространённость",
+        "en": "Prevalence"
+      },
+      {
+        "id": "o2",
+        "ru": "Летальность",
+        "en": "Case fatality"
+      },
+      {
+        "id": "o3",
+        "ru": "Смертность",
+        "en": "Mortality"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_case_control",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется наблюдательное исследование, сравнивающее людей с заболеванием и без него по прошлым воздействиям?",
+        "explanation": "В таком исследовании сначала выделяют заболевших и контрольную группу, а затем сопоставляют воздействия."
+      },
+      "en": {
+        "question": "What is an observational study comparing people with and without a disease in terms of past exposures called?",
+        "explanation": "This design starts with cases and a control group and then compares their exposures."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Исследование «случай — контроль»",
+        "en": "Case-control study"
+      },
+      {
+        "id": "o1",
+        "ru": "Когортное исследование",
+        "en": "Cohort study"
+      },
+      {
+        "id": "o2",
+        "ru": "Рандомизированное испытание",
+        "en": "Randomised trial"
+      },
+      {
+        "id": "o3",
+        "ru": "Экологическое исследование",
+        "en": "Ecological study"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_contact_tracing",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется выявление людей, контактировавших с заболевшим?",
+        "explanation": "Оно помогает установить возможные цепочки передачи."
+      },
+      "en": {
+        "question": "What is identifying people who have been in contact with an infected person called?",
+        "explanation": "It helps identify possible transmission chains."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отслеживание контактов",
+        "en": "Contact tracing"
+      },
+      {
+        "id": "o1",
+        "ru": "Случайная выборка",
+        "en": "Random sampling"
+      },
+      {
+        "id": "o2",
+        "ru": "Скрининг населения",
+        "en": "Population screening"
+      },
+      {
+        "id": "o3",
+        "ru": "Массовая вакцинация",
+        "en": "Mass vaccination"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.who.int/news-room/questions-and-answers/item/contact-tracing"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_fomite",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется неживой предмет, через который может передаваться возбудитель?",
+        "explanation": "Загрязнённый предмет отличается от живого переносчика."
+      },
+      "en": {
+        "question": "What is an inanimate object that can transmit an infectious agent called?",
+        "explanation": "A contaminated object differs from a living vector."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фомит",
+        "en": "Fomite"
+      },
+      {
+        "id": "o1",
+        "ru": "Переносчик",
+        "en": "Vector"
+      },
+      {
+        "id": "o2",
+        "ru": "Возбудитель",
+        "en": "Pathogen"
+      },
+      {
+        "id": "o3",
+        "ru": "Восприимчивый хозяин",
+        "en": "Susceptible host"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/infection-control/hcp/environmental-control/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_cohort",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется группа людей с общим признаком или опытом, наблюдаемая во времени?",
+        "explanation": "Сравнение групп помогает изучать факторы риска."
+      },
+      "en": {
+        "question": "What is a group sharing a characteristic or experience followed over time called?",
+        "explanation": "Comparing groups helps investigate risk factors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Когорта",
+        "en": "Cohort"
+      },
+      {
+        "id": "o1",
+        "ru": "Контрольная группа",
+        "en": "Control group"
+      },
+      {
+        "id": "o2",
+        "ru": "Случайная выборка",
+        "en": "Random sample"
+      },
+      {
+        "id": "o3",
+        "ru": "Случай заболевания",
+        "en": "Disease case"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_risk_factor",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется признак или воздействие, связанные с повышенной вероятностью заболевания?",
+        "explanation": "Статистическая связь сама по себе ещё не доказывает причинность."
+      },
+      "en": {
+        "question": "What is a characteristic or exposure associated with greater disease probability called?",
+        "explanation": "A statistical association alone does not prove causation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фактор риска",
+        "en": "Risk factor"
+      },
+      {
+        "id": "o1",
+        "ru": "Защитный фактор",
+        "en": "Protective factor"
+      },
+      {
+        "id": "o2",
+        "ru": "Диагностический критерий",
+        "en": "Diagnostic criterion"
+      },
+      {
+        "id": "o3",
+        "ru": "Критерий выздоровления",
+        "en": "Recovery criterion"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_randomized",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется исследование с распределением участников по группам случайным способом?",
+        "explanation": "Случайное распределение помогает уменьшать систематические различия групп."
+      },
+      "en": {
+        "question": "What is a study assigning participants to groups by chance called?",
+        "explanation": "Random assignment helps reduce systematic differences between groups."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рандомизированное исследование",
+        "en": "Randomised study"
+      },
+      {
+        "id": "o1",
+        "ru": "Когортное исследование",
+        "en": "Cohort study"
+      },
+      {
+        "id": "o2",
+        "ru": "Исследование «случай — контроль»",
+        "en": "Case-control study"
+      },
+      {
+        "id": "o3",
+        "ru": "Поперечное исследование",
+        "en": "Cross-sectional study"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/randomized-clinical-trial"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_placebo",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется вмешательство без изучаемого активного компонента, применяемое для сравнения?",
+        "explanation": "Такой контроль помогает оценить эффект исследуемого воздействия."
+      },
+      "en": {
+        "question": "What is an intervention without the active component being studied, used for comparison called?",
+        "explanation": "This control helps assess the effect of the intervention under study."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плацебо",
+        "en": "Placebo"
+      },
+      {
+        "id": "o1",
+        "ru": "Действующее вещество",
+        "en": "Active substance"
+      },
+      {
+        "id": "o2",
+        "ru": "Активный препарат сравнения",
+        "en": "Active comparator"
+      },
+      {
+        "id": "o3",
+        "ru": "Исследуемый препарат",
+        "en": "Investigational drug"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/placebo"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_bias",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется систематическое искажение результатов исследования?",
+        "explanation": "Такое искажение отличается от случайного разброса данных."
+      },
+      "en": {
+        "question": "What is a systematic distortion in study results called?",
+        "explanation": "This distortion differs from random variation in the data."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Систематическая ошибка",
+        "en": "Bias"
+      },
+      {
+        "id": "o1",
+        "ru": "Случайная ошибка",
+        "en": "Random error"
+      },
+      {
+        "id": "o2",
+        "ru": "Стандартная ошибка",
+        "en": "Standard error"
+      },
+      {
+        "id": "o3",
+        "ru": "Доверительный интервал",
+        "en": "Confidence interval"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cdc.gov/reproductive-health/glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_innate",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает защиту организма, действующую быстро и без предварительного знакомства с конкретным возбудителем?",
+        "explanation": "К её барьерам относятся кожа и слизистые."
+      },
+      "en": {
+        "question": "Which term means body defence acting rapidly without prior exposure to a particular pathogen?",
+        "explanation": "Its barriers include skin and mucous membranes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Врождённый иммунитет",
+        "en": "Innate immunity"
+      },
+      {
+        "id": "o1",
+        "ru": "Адаптивный иммунитет",
+        "en": "Adaptive immunity"
+      },
+      {
+        "id": "o2",
+        "ru": "Пассивный иммунитет",
+        "en": "Passive immunity"
+      },
+      {
+        "id": "o3",
+        "ru": "Поствакцинальный иммунитет",
+        "en": "Vaccine-induced immunity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/innate-immunity"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_adaptive",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется иммунитет, при котором организм сам формирует ответ после инфекции или вакцинации?",
+        "explanation": "Это отличается от получения готовых антител при пассивном иммунитете."
+      },
+      "en": {
+        "question": "What is immunity in which the body develops its own response after infection or vaccination called?",
+        "explanation": "It differs from receiving ready-made antibodies in passive immunity."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Адаптивный иммунитет",
+        "en": "Adaptive immunity"
+      },
+      {
+        "id": "o1",
+        "ru": "Врождённый иммунитет",
+        "en": "Innate immunity"
+      },
+      {
+        "id": "o2",
+        "ru": "Пассивный иммунитет",
+        "en": "Passive immunity"
+      },
+      {
+        "id": "o3",
+        "ru": "Неспецифическая защита",
+        "en": "Nonspecific defence"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/acquired-immunity"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_b_cell",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой тип лимфоцитов связан с выработкой антител?",
+        "explanation": "Эти клетки развиваются из стволовых клеток костного мозга."
+      },
+      "en": {
+        "question": "Which type of lymphocyte is associated with antibody production?",
+        "explanation": "These cells develop from stem cells in the bone marrow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "В-лимфоцит",
+        "en": "B lymphocyte"
+      },
+      {
+        "id": "o1",
+        "ru": "Т-лимфоцит",
+        "en": "T lymphocyte"
+      },
+      {
+        "id": "o2",
+        "ru": "Нейтрофил",
+        "en": "Neutrophil"
+      },
+      {
+        "id": "o3",
+        "ru": "Эритроцит",
+        "en": "Red blood cell"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/b-cell"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_nk_cell",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие клетки иммунной системы обозначают сокращением NK?",
+        "explanation": "Их гранулы содержат ферменты, способные уничтожать опухолевые и заражённые вирусом клетки."
+      },
+      "en": {
+        "question": "Which immune cells are abbreviated NK?",
+        "explanation": "Their granules contain enzymes that can kill tumour cells and virus-infected cells."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Естественные киллеры",
+        "en": "Natural killer cells"
+      },
+      {
+        "id": "o1",
+        "ru": "В-лимфоциты",
+        "en": "B lymphocytes"
+      },
+      {
+        "id": "o2",
+        "ru": "Т-лимфоциты",
+        "en": "T lymphocytes"
+      },
+      {
+        "id": "o3",
+        "ru": "Моноциты",
+        "en": "Monocytes"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/natural-killer-cell"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_phagocytosis",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает захват и поглощение клеткой твёрдых частиц или микроорганизмов?",
+        "explanation": "Так удаляются чужеродные вещества и погибшие клетки."
+      },
+      "en": {
+        "question": "Which term means a cell's engulfment of solid particles or microorganisms?",
+        "explanation": "The process removes foreign substances and dead cells."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фагоцитоз",
+        "en": "Phagocytosis"
+      },
+      {
+        "id": "o1",
+        "ru": "Экзоцитоз",
+        "en": "Exocytosis"
+      },
+      {
+        "id": "o2",
+        "ru": "Осмос",
+        "en": "Osmosis"
+      },
+      {
+        "id": "o3",
+        "ru": "Трансляция",
+        "en": "Translation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/phagocytosis"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_inflammation",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется ответ организма на инфекцию или повреждение с выделением веществ, запускающих местную защитную реакцию?",
+        "explanation": "При хронической форме этот процесс не прекращается вовремя и может повреждать здоровые ткани."
+      },
+      "en": {
+        "question": "What is the body’s response to infection or injury involving release of substances that trigger a local immune response called?",
+        "explanation": "In its chronic form, the process does not stop when it should and can damage healthy tissue."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Воспаление",
+        "en": "Inflammation"
+      },
+      {
+        "id": "o1",
+        "ru": "Свёртывание крови",
+        "en": "Blood clotting"
+      },
+      {
+        "id": "o2",
+        "ru": "Кроветворение",
+        "en": "Blood cell production"
+      },
+      {
+        "id": "o3",
+        "ru": "Терморегуляция",
+        "en": "Thermoregulation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/inflammation"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_passive",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется иммунитет, при котором человек получает готовые антитела, а не вырабатывает их сам?",
+        "explanation": "Он отличается от активного иммунного ответа самого организма."
+      },
+      "en": {
+        "question": "What is immunity in which a person receives ready-made antibodies rather than producing them called?",
+        "explanation": "It differs from an active immune response made by the person’s own body."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пассивный иммунитет",
+        "en": "Passive immunity"
+      },
+      {
+        "id": "o1",
+        "ru": "Активный иммунитет",
+        "en": "Active immunity"
+      },
+      {
+        "id": "o2",
+        "ru": "Клеточный иммунитет",
+        "en": "Cell-mediated immunity"
+      },
+      {
+        "id": "o3",
+        "ru": "Врождённый иммунитет",
+        "en": "Innate immunity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/acquired-immunity"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_autoimmune",
+    "categoryId": "health",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает состояние, при котором иммунная система атакует собственные ткани?",
+        "explanation": "Здесь нарушается различение собственного и чужеродного."
+      },
+      "en": {
+        "question": "Which term means a condition in which the immune system attacks the body's own tissues?",
+        "explanation": "The distinction between self and foreign material breaks down."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аутоиммунное заболевание",
+        "en": "Autoimmune disease"
+      },
+      {
+        "id": "o1",
+        "ru": "Бактериальная инфекция",
+        "en": "Bacterial infection"
+      },
+      {
+        "id": "o2",
+        "ru": "Вирусная инфекция",
+        "en": "Viral infection"
+      },
+      {
+        "id": "o3",
+        "ru": "Авитаминоз",
+        "en": "Vitamin deficiency"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/autoimmune-disease"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_immunodeficiency",
+    "categoryId": "health",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает состояние с недостаточной работой одного или нескольких звеньев иммунной защиты?",
+        "explanation": "Термин описывает ослабленную способность организма противостоять инфекциям."
+      },
+      "en": {
+        "question": "Which term means a condition with inadequate function of one or more immune defences?",
+        "explanation": "The term describes a reduced ability to fight infections."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иммунодефицит",
+        "en": "Immunodeficiency"
+      },
+      {
+        "id": "o1",
+        "ru": "Аллергия",
+        "en": "Allergy"
+      },
+      {
+        "id": "o2",
+        "ru": "Воспаление",
+        "en": "Inflammation"
+      },
+      {
+        "id": "o3",
+        "ru": "Аутоиммунная реакция",
+        "en": "Autoimmune reaction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/immunodeficiency"
+    ],
+    "image": null
+  },
+  {
+    "id": "health_m50_complement",
+    "categoryId": "health",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое звено иммунной защиты представляет собой систему циркулирующих белков, а не группу клеток?",
+        "explanation": "Эти белки участвуют в защите от инфекций."
+      },
+      "en": {
+        "question": "Which arm of immune defence is a system of circulating proteins rather than a group of cells?",
+        "explanation": "These proteins help defend against infections."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Система комплемента",
+        "en": "Complement system"
+      },
+      {
+        "id": "o1",
+        "ru": "Т-клеточное звено",
+        "en": "T-cell arm"
+      },
+      {
+        "id": "o2",
+        "ru": "В-клеточное звено",
+        "en": "B-cell arm"
+      },
+      {
+        "id": "o3",
+        "ru": "Нейтрофильное звено",
+        "en": "Neutrophil arm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/complement-protein"
+    ],
+    "image": null
   }
 ]

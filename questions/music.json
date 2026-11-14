@@ -878,5 +878,1326 @@
       "https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/WMI/OR_Resources.pdf"
     ],
     "image": null
+  },
+  {
+    "id": "music_m50_flute",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент в оркестре обычно держат поперёк и играют, направляя воздух на край отверстия?",
+        "explanation": "У современной оркестровой флейты нет трости."
+      },
+      "en": {
+        "question": "Which musical instrument is normally held sideways in an orchestra and played by blowing across an opening?",
+        "explanation": "The modern orchestral flute has no reed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Флейта",
+        "en": "Flute"
+      },
+      {
+        "id": "o1",
+        "ru": "Гобой",
+        "en": "Oboe"
+      },
+      {
+        "id": "o2",
+        "ru": "Кларнет",
+        "en": "Clarinet"
+      },
+      {
+        "id": "o3",
+        "ru": "Фагот",
+        "en": "Bassoon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/mechanism002.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_clarinet",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент использует одну трость, закреплённую на мундштуке?",
+        "explanation": "Трость колеблется при прохождении воздушного потока."
+      },
+      "en": {
+        "question": "Which musical instrument uses a single reed attached to a mouthpiece?",
+        "explanation": "The reed vibrates as air flows past it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кларнет",
+        "en": "Clarinet"
+      },
+      {
+        "id": "o1",
+        "ru": "Гобой",
+        "en": "Oboe"
+      },
+      {
+        "id": "o2",
+        "ru": "Фагот",
+        "en": "Bassoon"
+      },
+      {
+        "id": "o3",
+        "ru": "Флейта",
+        "en": "Flute"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.yamaha.com/en/musical_instrument_guide/clarinet/play/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_bassoon",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какого духового инструмента двойная трость крепится к изогнутой металлической трубке, ведущей в длинный сложенный канал?",
+        "explanation": "Его низкий регистр делает его важным басовым инструментом деревянной духовой группы."
+      },
+      "en": {
+        "question": "Which woodwind instrument has a double reed attached to a curved metal tube leading into a long folded bore?",
+        "explanation": "Its low register makes it an important bass instrument in the woodwind section."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фагот",
+        "en": "Bassoon"
+      },
+      {
+        "id": "o1",
+        "ru": "Гобой",
+        "en": "Oboe"
+      },
+      {
+        "id": "o2",
+        "ru": "Кларнет",
+        "en": "Clarinet"
+      },
+      {
+        "id": "o3",
+        "ru": "Флейта",
+        "en": "Flute"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.yamaha.com/en/musical_instrument_guide/bassoon/mechanism/",
+      "https://philharmonia.co.uk/resources/instruments/bassoon/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_horn",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "При игре на каком медном духовом инструменте исполнитель обычно держит правую руку в раструбе?",
+        "explanation": "Положение руки влияет на тембр и высоту звука."
+      },
+      "en": {
+        "question": "When playing which brass instrument does a musician normally keep the right hand inside the bell?",
+        "explanation": "Hand position affects timbre and pitch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Валторна",
+        "en": "French horn"
+      },
+      {
+        "id": "o1",
+        "ru": "Труба",
+        "en": "Trumpet"
+      },
+      {
+        "id": "o2",
+        "ru": "Тромбон",
+        "en": "Trombone"
+      },
+      {
+        "id": "o3",
+        "ru": "Туба",
+        "en": "Tuba"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.yamaha.com/en/musical_instrument_guide/horn/play/play002.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_trombone",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент обычно изменяет длину воздушного столба с помощью кулисы?",
+        "explanation": "Кулиса позволяет плавно переходить между высотами."
+      },
+      "en": {
+        "question": "Which musical instrument normally changes air-column length using a slide?",
+        "explanation": "The slide allows smooth movement between pitches."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тромбон",
+        "en": "Trombone"
+      },
+      {
+        "id": "o1",
+        "ru": "Труба",
+        "en": "Trumpet"
+      },
+      {
+        "id": "o2",
+        "ru": "Валторна",
+        "en": "French horn"
+      },
+      {
+        "id": "o3",
+        "ru": "Туба",
+        "en": "Tuba"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/trombone/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_tuba",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент обычно выполняет самую низкую партию стандартной оркестровой медной группы?",
+        "explanation": "Большая длина трубки связана с низким диапазоном."
+      },
+      "en": {
+        "question": "Which musical instrument usually plays the lowest part in the standard orchestral brass section?",
+        "explanation": "Its long tubing is related to its low range."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Туба",
+        "en": "Tuba"
+      },
+      {
+        "id": "o1",
+        "ru": "Труба",
+        "en": "Trumpet"
+      },
+      {
+        "id": "o2",
+        "ru": "Валторна",
+        "en": "French horn"
+      },
+      {
+        "id": "o3",
+        "ru": "Тромбон",
+        "en": "Trombone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/tuba/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_harp",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой оркестровый инструмент в современной концертной версии обычно имеет 47 струн и семь педалей?",
+        "explanation": "Педали меняют высоту звучания струн и позволяют играть хроматические ноты."
+      },
+      "en": {
+        "question": "Which orchestral instrument in its modern concert version usually has 47 strings and seven pedals?",
+        "explanation": "The pedals change string pitches and allow chromatic notes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Арфа",
+        "en": "Harp"
+      },
+      {
+        "id": "o1",
+        "ru": "Фортепиано",
+        "en": "Piano"
+      },
+      {
+        "id": "o2",
+        "ru": "Клавесин",
+        "en": "Harpsichord"
+      },
+      {
+        "id": "o3",
+        "ru": "Челеста",
+        "en": "Celesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/harp/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_timpani",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент представляет собой настроенные по высоте котлообразные барабаны?",
+        "explanation": "Натяжение мембраны позволяет менять высоту звука."
+      },
+      "en": {
+        "question": "Which musical instrument consists of pitch-tuned kettledrums?",
+        "explanation": "Changing head tension changes pitch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Литавры",
+        "en": "Timpani"
+      },
+      {
+        "id": "o1",
+        "ru": "Малый барабан",
+        "en": "Snare drum"
+      },
+      {
+        "id": "o2",
+        "ru": "Большой барабан",
+        "en": "Bass drum"
+      },
+      {
+        "id": "o3",
+        "ru": "Тамбурин",
+        "en": "Tambourine"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/timpani/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_snare",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент имеет под нижней мембраной струны, создающие характерный треск?",
+        "explanation": "Натяжение струн влияет на характер звучания."
+      },
+      "en": {
+        "question": "Which musical instrument has wires beneath the lower head that create a rattling sound?",
+        "explanation": "Wire tension affects the sound's character."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Малый барабан",
+        "en": "Snare drum"
+      },
+      {
+        "id": "o1",
+        "ru": "Литавры",
+        "en": "Timpani"
+      },
+      {
+        "id": "o2",
+        "ru": "Большой барабан",
+        "en": "Bass drum"
+      },
+      {
+        "id": "o3",
+        "ru": "Том-том",
+        "en": "Tom-tom"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/percussion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_xylophone",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент имеет деревянные пластинки, по которым ударяют палочками?",
+        "explanation": "Длина пластинки связана с высотой её звучания."
+      },
+      "en": {
+        "question": "Which musical instrument has wooden bars struck with mallets?",
+        "explanation": "Bar length is related to pitch."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ксилофон",
+        "en": "Xylophone"
+      },
+      {
+        "id": "o1",
+        "ru": "Вибрафон",
+        "en": "Vibraphone"
+      },
+      {
+        "id": "o2",
+        "ru": "Колокольчики",
+        "en": "Glockenspiel"
+      },
+      {
+        "id": "o3",
+        "ru": "Челеста",
+        "en": "Celesta"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/percussion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_glockenspiel",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент имеет металлические пластинки и высокий звонкий звук?",
+        "explanation": "Материал пластинок отличает его от ксилофона."
+      },
+      "en": {
+        "question": "Which musical instrument has metal bars and a high bell-like sound?",
+        "explanation": "The bar material distinguishes it from a xylophone."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Колокольчики",
+        "en": "Glockenspiel"
+      },
+      {
+        "id": "o1",
+        "ru": "Ксилофон",
+        "en": "Xylophone"
+      },
+      {
+        "id": "o2",
+        "ru": "Литавры",
+        "en": "Timpani"
+      },
+      {
+        "id": "o3",
+        "ru": "Тамтам",
+        "en": "Tam-tam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/percussion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_celesta",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент выглядит как небольшой клавишный инструмент, но молоточки ударяют по металлическим пластинкам?",
+        "explanation": "Под металлическими пластинками находятся деревянные резонаторы."
+      },
+      "en": {
+        "question": "Which musical instrument resembles a small keyboard instrument but uses hammers striking metal plates?",
+        "explanation": "Wooden resonator boxes sit beneath the metal bars."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Челеста",
+        "en": "Celesta"
+      },
+      {
+        "id": "o1",
+        "ru": "Фортепиано",
+        "en": "Piano"
+      },
+      {
+        "id": "o2",
+        "ru": "Клавесин",
+        "en": "Harpsichord"
+      },
+      {
+        "id": "o3",
+        "ru": "Орган",
+        "en": "Organ"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.yamaha.com/en/musical_instrument_guide/celesta/mechanism/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_piccolo",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент является маленьким родственником флейты и звучит на октаву выше записанного?",
+        "explanation": "Она добавляет оркестру очень высокий регистр."
+      },
+      "en": {
+        "question": "Which musical instrument is a small relative of the flute sounding an octave above the written pitch?",
+        "explanation": "It adds a very high register to the orchestra."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пикколо",
+        "en": "Piccolo"
+      },
+      {
+        "id": "o1",
+        "ru": "Альтовая флейта",
+        "en": "Alto flute"
+      },
+      {
+        "id": "o2",
+        "ru": "Басовая флейта",
+        "en": "Bass flute"
+      },
+      {
+        "id": "o3",
+        "ru": "Гобой",
+        "en": "Oboe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/flute/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_cor_anglais",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент является альтовым родственником гобоя и имеет грушевидный раструб?",
+        "explanation": "Несмотря на название, он относится к деревянным, а не медным духовым."
+      },
+      "en": {
+        "question": "Which musical instrument is an alto relative of the oboe with a pear-shaped bell?",
+        "explanation": "Despite its name it is a woodwind rather than a brass instrument."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Английский рожок",
+        "en": "Cor anglais"
+      },
+      {
+        "id": "o1",
+        "ru": "Фагот",
+        "en": "Bassoon"
+      },
+      {
+        "id": "o2",
+        "ru": "Кларнет",
+        "en": "Clarinet"
+      },
+      {
+        "id": "o3",
+        "ru": "Валторна",
+        "en": "French horn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/cor-anglais/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_contrabassoon",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент звучит на октаву ниже обычного фагота?",
+        "explanation": "Он расширяет низкий диапазон оркестровых деревянных духовых."
+      },
+      "en": {
+        "question": "Which musical instrument sounds an octave below a standard bassoon?",
+        "explanation": "It extends the low range of orchestral woodwinds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Контрафагот",
+        "en": "Contrabassoon"
+      },
+      {
+        "id": "o1",
+        "ru": "Бас-кларнет",
+        "en": "Bass clarinet"
+      },
+      {
+        "id": "o2",
+        "ru": "Английский рожок",
+        "en": "Cor anglais"
+      },
+      {
+        "id": "o3",
+        "ru": "Басовая флейта",
+        "en": "Bass flute"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/contrabassoon/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_viola",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой смычковый инструмент крупнее скрипки и считается альтовым голосом оркестровой струнной группы?",
+        "explanation": "Его самая низкая нота на квинту ниже самой низкой ноты скрипки."
+      },
+      "en": {
+        "question": "Which bowed instrument is larger than a violin and is the alto voice of the orchestral string family?",
+        "explanation": "Its lowest note is a fifth below the violin’s lowest note."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Альт",
+        "en": "Viola"
+      },
+      {
+        "id": "o1",
+        "ru": "Скрипка",
+        "en": "Violin"
+      },
+      {
+        "id": "o2",
+        "ru": "Виолончель",
+        "en": "Cello"
+      },
+      {
+        "id": "o3",
+        "ru": "Контрабас",
+        "en": "Double bass"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/viola/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_cello",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой смычковый инструмент считается теноровым голосом струнной группы и имеет струны до, соль, ре и ля?",
+        "explanation": "Его нижняя струна звучит на октаву ниже нижней струны альта."
+      },
+      "en": {
+        "question": "Which bowed instrument is the tenor voice of the string family and has strings tuned C, G, D and A?",
+        "explanation": "Its lowest string sounds an octave below the viola’s lowest string."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виолончель",
+        "en": "Cello"
+      },
+      {
+        "id": "o1",
+        "ru": "Контрабас",
+        "en": "Double bass"
+      },
+      {
+        "id": "o2",
+        "ru": "Альт",
+        "en": "Viola"
+      },
+      {
+        "id": "o3",
+        "ru": "Скрипка",
+        "en": "Violin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/cello/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_double_bass",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент является самым крупным стандартным оркестровым смычковым инструментом?",
+        "explanation": "На нём играют стоя или сидя на высоком стуле."
+      },
+      "en": {
+        "question": "Which musical instrument is the largest standard orchestral bowed string instrument?",
+        "explanation": "It is played standing or seated on a high stool."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Контрабас",
+        "en": "Double bass"
+      },
+      {
+        "id": "o1",
+        "ru": "Виолончель",
+        "en": "Cello"
+      },
+      {
+        "id": "o2",
+        "ru": "Альт",
+        "en": "Viola"
+      },
+      {
+        "id": "o3",
+        "ru": "Скрипка",
+        "en": "Violin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/double-bass/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_triangle",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент представляет собой согнутый металлический прут, по которому ударяют палочкой?",
+        "explanation": "Его звон может быть слышен сквозь плотное звучание оркестра."
+      },
+      "en": {
+        "question": "Which musical instrument is a bent metal bar struck with a beater?",
+        "explanation": "Its ringing tone can carry through a dense orchestral texture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Треугольник",
+        "en": "Triangle"
+      },
+      {
+        "id": "o1",
+        "ru": "Тамбурин",
+        "en": "Tambourine"
+      },
+      {
+        "id": "o2",
+        "ru": "Кастаньеты",
+        "en": "Castanets"
+      },
+      {
+        "id": "o3",
+        "ru": "Маракасы",
+        "en": "Maracas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/percussion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_cymbals",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой музыкальный инструмент состоит из металлических тарелок, которые ударяют друг о друга или палочками?",
+        "explanation": "Размер и способ игры меняют характер звука."
+      },
+      "en": {
+        "question": "Which musical instrument consists of metal plates struck together or with sticks?",
+        "explanation": "Size and playing technique affect the sound."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тарелки",
+        "en": "Cymbals"
+      },
+      {
+        "id": "o1",
+        "ru": "Кастаньеты",
+        "en": "Castanets"
+      },
+      {
+        "id": "o2",
+        "ru": "Том-томы",
+        "en": "Tom-toms"
+      },
+      {
+        "id": "o3",
+        "ru": "Деревянные коробочки",
+        "en": "Wood blocks"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://philharmonia.co.uk/resources/instruments/percussion/"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_swan",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал балет «Лебединое озеро»?",
+        "explanation": "Композитор создал также балеты «Спящая красавица» и «Щелкунчик»."
+      },
+      "en": {
+        "question": "Who composed the ballet Swan Lake?",
+        "explanation": "He also composed The Sleeping Beauty and The Nutcracker."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пётр Чайковский",
+        "en": "Pyotr Tchaikovsky"
+      },
+      {
+        "id": "o1",
+        "ru": "Морис Равель",
+        "en": "Maurice Ravel"
+      },
+      {
+        "id": "o2",
+        "ru": "Жорж Бизе",
+        "en": "Georges Bizet"
+      },
+      {
+        "id": "o3",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/selections-from-swan-lake"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_magic_flute",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал оперу «Волшебная флейта»?",
+        "explanation": "Премьера состоялась в Вене в 1791 году."
+      },
+      "en": {
+        "question": "Who composed the opera The Magic Flute?",
+        "explanation": "It premiered in Vienna in 1791."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вольфганг Амадей Моцарт",
+        "en": "Wolfgang Amadeus Mozart"
+      },
+      {
+        "id": "o1",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      },
+      {
+        "id": "o2",
+        "ru": "Морис Равель",
+        "en": "Maurice Ravel"
+      },
+      {
+        "id": "o3",
+        "ru": "Камиль Сен-Санс",
+        "en": "Camille Saint-Saëns"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/overture-to-the-magic-flute"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_four_seasons",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал цикл скрипичных концертов «Времена года»?",
+        "explanation": "Четыре концерта посвящены весне, лету, осени и зиме."
+      },
+      "en": {
+        "question": "Who composed the violin concerto cycle The Four Seasons?",
+        "explanation": "The four concertos depict spring, summer, autumn and winter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антонио Вивальди",
+        "en": "Antonio Vivaldi"
+      },
+      {
+        "id": "o1",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      },
+      {
+        "id": "o2",
+        "ru": "Морис Равель",
+        "en": "Maurice Ravel"
+      },
+      {
+        "id": "o3",
+        "ru": "Вольфганг Амадей Моцарт",
+        "en": "Wolfgang Amadeus Mozart"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/the-four-seasons"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_brandenburg",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал «Бранденбургские концерты»?",
+        "explanation": "Сборник включает шесть инструментальных концертов."
+      },
+      "en": {
+        "question": "Who composed the Brandenburg Concertos?",
+        "explanation": "The collection contains six instrumental concertos."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иоганн Себастьян Бах",
+        "en": "Johann Sebastian Bach"
+      },
+      {
+        "id": "o1",
+        "ru": "Сергей Прокофьев",
+        "en": "Sergei Prokofiev"
+      },
+      {
+        "id": "o2",
+        "ru": "Антонио Вивальди",
+        "en": "Antonio Vivaldi"
+      },
+      {
+        "id": "o3",
+        "ru": "Пётр Чайковский",
+        "en": "Pyotr Tchaikovsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/brandenburg-concertos-complete"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_peter_wolf",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал симфоническую сказку «Петя и волк»?",
+        "explanation": "Персонажам соответствуют определённые инструменты оркестра."
+      },
+      "en": {
+        "question": "Who composed the symphonic tale Peter and the Wolf?",
+        "explanation": "Characters are represented by particular orchestral instruments."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сергей Прокофьев",
+        "en": "Sergei Prokofiev"
+      },
+      {
+        "id": "o1",
+        "ru": "Антонио Вивальди",
+        "en": "Antonio Vivaldi"
+      },
+      {
+        "id": "o2",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      },
+      {
+        "id": "o3",
+        "ru": "Жорж Бизе",
+        "en": "Georges Bizet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/peter-and-the-wolf"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_carnival",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал сюиту «Карнавал животных»?",
+        "explanation": "Из неё особенно известна пьеса «Лебедь»."
+      },
+      "en": {
+        "question": "Who composed the suite The Carnival of the Animals?",
+        "explanation": "The Swan is a particularly famous movement from it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Камиль Сен-Санс",
+        "en": "Camille Saint-Saëns"
+      },
+      {
+        "id": "o1",
+        "ru": "Жорж Бизе",
+        "en": "Georges Bizet"
+      },
+      {
+        "id": "o2",
+        "ru": "Вольфганг Амадей Моцарт",
+        "en": "Wolfgang Amadeus Mozart"
+      },
+      {
+        "id": "o3",
+        "ru": "Антонин Дворжак",
+        "en": "Antonín Dvořák"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/the-carnival-of-the-animals"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_bolero",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал оркестровое «Болеро»?",
+        "explanation": "В произведении многократно повторяется ритмическая фигура малого барабана."
+      },
+      "en": {
+        "question": "Who composed the orchestral Boléro?",
+        "explanation": "A snare-drum rhythmic pattern repeats throughout the work."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Морис Равель",
+        "en": "Maurice Ravel"
+      },
+      {
+        "id": "o1",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      },
+      {
+        "id": "o2",
+        "ru": "Сергей Прокофьев",
+        "en": "Sergei Prokofiev"
+      },
+      {
+        "id": "o3",
+        "ru": "Камиль Сен-Санс",
+        "en": "Camille Saint-Saëns"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/bolero"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_carmen",
+    "categoryId": "music",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал оперу «Кармен»?",
+        "explanation": "Один из её известных номеров — «Хабанера»."
+      },
+      "en": {
+        "question": "Who composed the opera Carmen?",
+        "explanation": "One of its well-known numbers is the Habanera."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жорж Бизе",
+        "en": "Georges Bizet"
+      },
+      {
+        "id": "o1",
+        "ru": "Морис Равель",
+        "en": "Maurice Ravel"
+      },
+      {
+        "id": "o2",
+        "ru": "Иоганн Себастьян Бах",
+        "en": "Johann Sebastian Bach"
+      },
+      {
+        "id": "o3",
+        "ru": "Пётр Чайковский",
+        "en": "Pyotr Tchaikovsky"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/carmen-ballet"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_aida",
+    "categoryId": "music",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал оперу «Аида»?",
+        "explanation": "Её действие связано с Древним Египтом."
+      },
+      "en": {
+        "question": "Who composed the opera Aida?",
+        "explanation": "Its story is set in ancient Egypt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джузеппе Верди",
+        "en": "Giuseppe Verdi"
+      },
+      {
+        "id": "o1",
+        "ru": "Вольфганг Амадей Моцарт",
+        "en": "Wolfgang Amadeus Mozart"
+      },
+      {
+        "id": "o2",
+        "ru": "Камиль Сен-Санс",
+        "en": "Camille Saint-Saëns"
+      },
+      {
+        "id": "o3",
+        "ru": "Антонин Дворжак",
+        "en": "Antonín Dvořák"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/aida"
+    ],
+    "image": null
+  },
+  {
+    "id": "music_m50_new_world",
+    "categoryId": "music",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто написал симфонию № 9 «Из Нового Света»?",
+        "explanation": "Она была написана во время работы композитора в США."
+      },
+      "en": {
+        "question": "Who composed Symphony No. 9 From the New World?",
+        "explanation": "It was written while the composer was working in the United States."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Антонин Дворжак",
+        "en": "Antonín Dvořák"
+      },
+      {
+        "id": "o1",
+        "ru": "Камиль Сен-Санс",
+        "en": "Camille Saint-Saëns"
+      },
+      {
+        "id": "o2",
+        "ru": "Иоганн Себастьян Бах",
+        "en": "Johann Sebastian Bach"
+      },
+      {
+        "id": "o3",
+        "ru": "Вольфганг Амадей Моцарт",
+        "en": "Wolfgang Amadeus Mozart"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.laphil.com/works/symphony-no-9-in-e-minor-op-95-b-178-from-the-new-world"
+    ],
+    "image": null
   }
 ]

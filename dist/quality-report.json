@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 2220,
+  "approvedQuestions": 2290,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 7780,
+  "remainingQuestions": 7710,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -638,21 +638,21 @@
     },
     {
       "id": "music",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -790,21 +790,21 @@
     },
     {
       "id": "health",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -828,21 +828,21 @@
     },
     {
       "id": "economics",
-      "approved": 40,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 16,
-        "medium": 16,
-        "hard": 8
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 160,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 64,
-        "medium": 64,
-        "hard": 32
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
