@@ -1999,6 +1999,126 @@
     "revision": 1,
     "sha256": "8d102401fc49e04552ca35fa88fde3ec2f6c2c1e53f9994b80ad2225249bf25c"
   },
+  "cars_m50_abs": {
+    "revision": 1,
+    "sha256": "1a469a989302be3f538c6950423c660f6158a91d209566a77993bedab2a358e8"
+  },
+  "cars_m50_alternator": {
+    "revision": 1,
+    "sha256": "e59d6c17c06552a453fcadfd0b1a6e68ad62fde60382c7f7b9e454dd845b779b"
+  },
+  "cars_m50_brake_disc": {
+    "revision": 1,
+    "sha256": "5530bf7268f96c06f110533734add73a977a564ffa4454fc1d988418dc544648"
+  },
+  "cars_m50_camshaft": {
+    "revision": 1,
+    "sha256": "875a025273518727dde960b9ae95d6845915eba38e79089aa8dcf49384c8eeaa"
+  },
+  "cars_m50_catalyst": {
+    "revision": 1,
+    "sha256": "b96c6e4d5294a13d52818c4ff6b69ffcb2dce7b73045120fdd984ad6049ac614"
+  },
+  "cars_m50_compression": {
+    "revision": 1,
+    "sha256": "d724bfdc22c63c34f7b4572f35bcca2ae701b74764ab1898da7608daf0903994"
+  },
+  "cars_m50_connecting_rod": {
+    "revision": 1,
+    "sha256": "8b5a5b3b275fb9b1e70231337e92bce4d6438d9bcf8c642652435948e8cc7633"
+  },
+  "cars_m50_coolant": {
+    "revision": 1,
+    "sha256": "43542ebe8f13af970cfa1bd8aeb9926d0cfd984591dac43a719f041455a2349a"
+  },
+  "cars_m50_crankshaft": {
+    "revision": 1,
+    "sha256": "c5790f554ae4d49fbe67e2f08283abef529fd15ca42bb4a17d6c418c460a21ad"
+  },
+  "cars_m50_differential": {
+    "revision": 1,
+    "sha256": "b10d486c2043561a4fc96edf766dd342a0e52f776722cd76138b5272e7fa1afd"
+  },
+  "cars_m50_displacement": {
+    "revision": 1,
+    "sha256": "cc70719c8a8f4313052a4d75fc3e81f222f8f899afab95caf79ac1890c9d2e6d"
+  },
+  "cars_m50_esc": {
+    "revision": 1,
+    "sha256": "b53931fe700dac6896c807e4f400f3e5e58febafd33379f48450903c1c0ca223"
+  },
+  "cars_m50_flywheel": {
+    "revision": 1,
+    "sha256": "40649718f89f76853bbf62fef1bb7ac18db3a79fe0e8e0e1fcd0f854bd5fcb6c"
+  },
+  "cars_m50_injector": {
+    "revision": 1,
+    "sha256": "6bfdee4019d50aee55614025f2e8c69f9cf3e63b1b6eed9ada4b0b3e27913ca5"
+  },
+  "cars_m50_inlet_valve": {
+    "revision": 1,
+    "sha256": "ff3cce1ac2e64b1f9e97ccd0567c208c19e91ddf67c1c4ede997ae5e0bf1c9a2"
+  },
+  "cars_m50_intercooler": {
+    "revision": 1,
+    "sha256": "5ebe0397a27fd904d83e78b46eac1926d009c93348deb260b9c77ef645c3b043"
+  },
+  "cars_m50_octane": {
+    "revision": 1,
+    "sha256": "1d2d55a0c657d51a18d19b84f8c4bfcd9fd1cb55f547c5366de02916864e0faa"
+  },
+  "cars_m50_particulate": {
+    "revision": 1,
+    "sha256": "f7853b1138491f07ecefd0249ddda18395f6d7214e42cfefa4e1ca36d3dbcd22"
+  },
+  "cars_m50_piston": {
+    "revision": 1,
+    "sha256": "da295f943228350bcf75c0ad254dba93e8bb37e324b42857cc2578c74a47f9b9"
+  },
+  "cars_m50_radiator": {
+    "revision": 1,
+    "sha256": "259e1e50588722a0b4aeec83b0cf0c78c4134d856a54844e2909b88f7178a40d"
+  },
+  "cars_m50_shock_absorber": {
+    "revision": 1,
+    "sha256": "4efa793a5813dfdb32f51a6fcda7b38a7ac50681c2c68147f1bbd339e32466f8"
+  },
+  "cars_m50_spark": {
+    "revision": 1,
+    "sha256": "181bd2addd64370338003534db65175afeca2d79b3bb7d9608bd91729d7edd2a"
+  },
+  "cars_m50_starter": {
+    "revision": 1,
+    "sha256": "66d4282a74d0e35e137cac18c7365fb8beaafba680e5cd0497e7a7ab912d1ee3"
+  },
+  "cars_m50_suspension": {
+    "revision": 1,
+    "sha256": "46bc64bc0ed1748d990f08af8f6ebd1a8cd4aa2e03fdab2a96e92ac00288b6bf"
+  },
+  "cars_m50_tachometer": {
+    "revision": 1,
+    "sha256": "c98d172cd29d3e1730560c1e76969860152031fd5561a81c0ca2f2c72fa03c37"
+  },
+  "cars_m50_thermostat": {
+    "revision": 1,
+    "sha256": "3289ed28cac06763405d253029bca8b08f121c3d5a5d5a6fc8942e5a19af71f3"
+  },
+  "cars_m50_torque": {
+    "revision": 1,
+    "sha256": "f0a3de89caaffc221cb671d7416f969539fce164e2e3c2469ab6b61a558052b4"
+  },
+  "cars_m50_tpms": {
+    "revision": 1,
+    "sha256": "4c9f35bee9dad95fe2381d04bed4d047b98d46f8e6a79934f88bac9cf25a2278"
+  },
+  "cars_m50_turbo": {
+    "revision": 1,
+    "sha256": "de7e12cb42ff7aeb39a996512106b06804825b6b6536e0ef596cb50dc5b77503"
+  },
+  "cars_m50_water_pump": {
+    "revision": 1,
+    "sha256": "eeaa62d15b8e25ef52ef24e8449f2e6760f3f63a4f0747bc97d0eda10577feec"
+  },
   "cars_nov08_airbag": {
     "revision": 1,
     "sha256": "dd5cb38cacfd14d12a310e039606b8195c7e1015f778008a3dfc10330352df59"
@@ -9042,6 +9162,166 @@
   "video_games_guitar_hero_debut_0001": {
     "revision": 1,
     "sha256": "972caa2dc98b998c60c18a9566f8f2669485e65aff4d9c60d446c184306ef288"
+  },
+  "video_games_m50_aggro": {
+    "revision": 1,
+    "sha256": "382fae4102c502da0fbbef2c84ce3b37a2120001892945bbe9003d115a6b7fc7"
+  },
+  "video_games_m50_among_us": {
+    "revision": 1,
+    "sha256": "62d08214c94e630bbf2d5a702849ec84a54edab6f229a1219b2a2a6b8df27a19"
+  },
+  "video_games_m50_animal_crossing": {
+    "revision": 1,
+    "sha256": "476914c7a52c13672ee5e92698bc07bdaeb22eb55093ab3cedb5b0323c11f03c"
+  },
+  "video_games_m50_aoe": {
+    "revision": 1,
+    "sha256": "d3fa343d6906eddfb1e0351286735057bb6c919b8ffe6979c65dc8db04225e6d"
+  },
+  "video_games_m50_arpg": {
+    "revision": 1,
+    "sha256": "7096eaf529d827666c07648e3644b10e34087a4457dcbd2202906e1f8476fd73"
+  },
+  "video_games_m50_astro": {
+    "revision": 1,
+    "sha256": "36038641b0d1888cd4da9fd1f96dfbb2158af2336a9e0705a2c459a5aec196de"
+  },
+  "video_games_m50_buff": {
+    "revision": 1,
+    "sha256": "8e4667b82bf10c9eaac89837c7c2adc461c6a383810a85ddc29ff888377ae6dc"
+  },
+  "video_games_m50_crafting": {
+    "revision": 1,
+    "sha256": "fd208e1e908906fa955f1f6de943bed6419806bee46d94d52b2c785dc32bc259"
+  },
+  "video_games_m50_debuff": {
+    "revision": 1,
+    "sha256": "308359c99106011eacc395d30a08383f7a66af0ed554a3eb77958adfd76deefe"
+  },
+  "video_games_m50_dps": {
+    "revision": 1,
+    "sha256": "43fcc4e5ab23c568aa27b21e285c568896ac8b1e4fc7f07cd006c458c673ffbb"
+  },
+  "video_games_m50_easter_egg": {
+    "revision": 1,
+    "sha256": "fd3549b99bf6d3feef19aa25d42c063349b7a622647553f37a0d431fd3ab3b65"
+  },
+  "video_games_m50_fall_guys": {
+    "revision": 1,
+    "sha256": "4ce9db507a449f16a2ba02e94a3ea8a4fcbc412bd4794152e4c87ec4a426f773"
+  },
+  "video_games_m50_fast_travel": {
+    "revision": 1,
+    "sha256": "c328395eededd91fbc26610fb30033af64f653ef2c151e4a74a273c814dfd419"
+  },
+  "video_games_m50_fps": {
+    "revision": 1,
+    "sha256": "02782062017fa9a023a039bd863847b6f31ff963c9b01c227b5b5cbd1a54730b"
+  },
+  "video_games_m50_god_of_war": {
+    "revision": 1,
+    "sha256": "4b2d67bb1e051455f6d1d470ef5cb04a59ed9ea8c75f3f2689a4bda7c2fab57a"
+  },
+  "video_games_m50_horizon": {
+    "revision": 1,
+    "sha256": "e28e09ee84d3e963ae380582b42dec6669b4fc4e78239df849eac2dd467029eb"
+  },
+  "video_games_m50_hp": {
+    "revision": 1,
+    "sha256": "4a918612fd848c4a734e398b0dec1012d436308e98da3e26e273ce5fb4a9bf41"
+  },
+  "video_games_m50_hud": {
+    "revision": 1,
+    "sha256": "173723465aac177eba50afe57b3a328d32c3e06cb46019ef3732407d4bb53098"
+  },
+  "video_games_m50_kirby": {
+    "revision": 1,
+    "sha256": "7e571426739d6a3c50c7f5e84a95011374edf31b2998d6e75dfacdbdb1b3b2bc"
+  },
+  "video_games_m50_loot": {
+    "revision": 1,
+    "sha256": "60b267dd9773ce33edb071178e9239029356e6d5a2024b0a3f61baf04e7eb150"
+  },
+  "video_games_m50_mario": {
+    "revision": 1,
+    "sha256": "6208fac5b56176fdeac2e39d7278d8259c170f14fbdda74b94a9ee8ae75d5dc9"
+  },
+  "video_games_m50_metroid": {
+    "revision": 1,
+    "sha256": "e94a58bc81fd5dde37a38c9cc18168be11d6ecca1e826981a830c2e5bf6702a2"
+  },
+  "video_games_m50_minecraft": {
+    "revision": 1,
+    "sha256": "d0978f1880ac1d572ed8762eea0f47b53362814ace5f9e6b265a660306864c10"
+  },
+  "video_games_m50_mod": {
+    "revision": 1,
+    "sha256": "85ff9c7a7cb8b0c0b08a1c1ef41e0f4dcdf86d5e82cf36234db92fd6c068f5dc"
+  },
+  "video_games_m50_npc": {
+    "revision": 1,
+    "sha256": "b43c0a7109f9f0998f685a6fa3a849b8107033ac40362b5c4007ca04c55bc99f"
+  },
+  "video_games_m50_pikmin": {
+    "revision": 1,
+    "sha256": "5347f392894fa0e4121825d901ca7fb82aa9c6add13d6f579d0576290b5492f1"
+  },
+  "video_games_m50_pokemon": {
+    "revision": 1,
+    "sha256": "b8ec15360bdeaa0c2112798e793e841029be669d8aeaabe0c7e3bbed8ef48fdf"
+  },
+  "video_games_m50_portal": {
+    "revision": 1,
+    "sha256": "14bbd6c8ce229bd1301bf335e6bf36a431d1bc700d3559d7b21f086cee33e17d"
+  },
+  "video_games_m50_portal2": {
+    "revision": 1,
+    "sha256": "fda1708e52dcb43e7f10212847cecbd17b759b9a9b3e97becb4d72f074b46a12"
+  },
+  "video_games_m50_pve": {
+    "revision": 1,
+    "sha256": "87200453d714df4d89684cf338f61e5e27e5d75c2b2ce18bec695387b943f723"
+  },
+  "video_games_m50_pvp": {
+    "revision": 1,
+    "sha256": "405c28c93cffe0529753a88849ff0cba0c5a585a632e3ed75b1d17e8d5981648"
+  },
+  "video_games_m50_rocket_league": {
+    "revision": 1,
+    "sha256": "5572a6cc239143a899cf50813f95ec793863f5b5b0334f710503c63f047b7ee2"
+  },
+  "video_games_m50_rts": {
+    "revision": 1,
+    "sha256": "634624c490de9f7951f131bc74dfb490675b1b1234ff40bf2ebac55cbdd629de"
+  },
+  "video_games_m50_sonic": {
+    "revision": 1,
+    "sha256": "428475e6ce9457638ff99bea0aea17d7367881504d3ec4829f18455fb736adb1"
+  },
+  "video_games_m50_splatoon": {
+    "revision": 1,
+    "sha256": "1ef2e943f4673b882aae828f5e5307ff19b196183a58c0f72bf886a64a91c2b9"
+  },
+  "video_games_m50_stardew": {
+    "revision": 1,
+    "sha256": "cb5871f9fb2a54cb3b1c3a6d6d35e05f08de5bbee4a6fe6f3ac2d3010d9ca75e"
+  },
+  "video_games_m50_terraria": {
+    "revision": 1,
+    "sha256": "c8498b26ed83008222fe99b77a6f76286da7ca312f8fd2b7f9e7e903990ee899"
+  },
+  "video_games_m50_turn_based": {
+    "revision": 1,
+    "sha256": "56a24c3cf1c721bf7af745782bd40a8d604093d0bb00077cc639742c60fe8fa8"
+  },
+  "video_games_m50_xp": {
+    "revision": 1,
+    "sha256": "6899cd2198e482e2996895d08d7af4e703250b1a78434a1d8a4250973d369de0"
+  },
+  "video_games_m50_zelda": {
+    "revision": 1,
+    "sha256": "703656d07c6dc5743e89fe151cbfad8232297985f5ccf508e5f4a11bac09ef39"
   },
   "video_games_ps1_chip_0001": {
     "revision": 1,

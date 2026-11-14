@@ -358,5 +358,545 @@
         "claim": "Which liquid-fuel component is unnecessary in a typical BEV? Answer: Fuel pump. An all-electric car has no conventional petrol fuel system."
       }
     ]
+  },
+  {
+    "id": "cars_m50_piston",
+    "status": "approved",
+    "sha256": "da295f943228350bcf75c0ad254dba93e8bb37e324b42857cc2578c74a47f9b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, component/quantity piston",
+        "claim": "Which component moves back and forth inside an engine cylinder? Answer: Piston. Gas pressure transfers force through it to the connecting rod."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_crankshaft",
+    "status": "approved",
+    "sha256": "c5790f554ae4d49fbe67e2f08283abef529fd15ca42bb4a17d6c418c460a21ad",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, component/quantity crankshaft",
+        "claim": "Which shaft converts piston motion into rotation through connecting rods? Answer: Crankshaft. Its rotation is transmitted to the drivetrain."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_camshaft",
+    "status": "approved",
+    "sha256": "875a025273518727dde960b9ae95d6845915eba38e79089aa8dcf49384c8eeaa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, component/quantity camshaft",
+        "claim": "Which shaft uses lobes to control engine valve opening? Answer: Camshaft. Its timing is coordinated with piston position."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_spark",
+    "status": "approved",
+    "sha256": "181bd2addd64370338003534db65175afeca2d79b3bb7d9608bd91729d7edd2a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, component/quantity spark",
+        "claim": "Which device creates the spark that ignites the mixture in a petrol engine? Answer: Spark plug. The spark initiates combustion of the fuel-air mixture."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_injector",
+    "status": "approved",
+    "sha256": "6bfdee4019d50aee55614025f2e8c69f9cf3e63b1b6eed9ada4b0b3e27913ca5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 124, printed page 115: Fuel Injectors and ECU metering",
+        "claim": "Which device meters and injects fuel into an engine? Answer: Fuel injector. It sprays fuel to help form the mixture."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_turbo",
+    "status": "approved",
+    "sha256": "de7e12cb42ff7aeb39a996512106b06804825b6b6536e0ef596cb50dc5b77503",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.garrettmotion.com/knowledge-center-category/oem/what-is-a-turbo-and-how-does-it-work/",
+        "location": "Turbine drives compressor through a shaft",
+        "claim": "Which compressor is driven by a turbine powered by exhaust gases? Answer: Turbocharger. Boost allows more air to enter the cylinders."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_intercooler",
+    "status": "approved",
+    "sha256": "5ebe0397a27fd904d83e78b46eac1926d009c93348deb260b9c77ef645c3b043",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.garrettmotion.com/knowledge-center-category/oem/what-is-a-turbo-and-how-does-it-work/",
+        "location": "Compressed air passes through a charge-air cooler",
+        "claim": "What is the heat exchanger that cools air after a boost compressor called? Answer: Intercooler. Cooling makes the air denser."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_catalyst",
+    "status": "approved",
+    "sha256": "b96c6e4d5294a13d52818c4ff6b69ffcb2dce7b73045120fdd984ad6049ac614",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 120, printed page 111: catalyst",
+        "claim": "Which exhaust-system device chemically converts harmful substances into less harmful ones? Answer: Catalytic converter. A catalyst accelerates reactions that reduce pollutant emissions."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_particulate",
+    "status": "approved",
+    "sha256": "f7853b1138491f07ecefd0249ddda18395f6d7214e42cfefa4e1ca36d3dbcd22",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 142, component/quantity particulate",
+        "claim": "Which filter traps soot particles in a diesel engine’s exhaust system? Answer: Diesel particulate filter. Accumulated soot is removed during regeneration."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_differential",
+    "status": "approved",
+    "sha256": "b10d486c2043561a4fc96edf766dd342a0e52f776722cd76138b5272e7fa1afd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 80, printed page 71: differential",
+        "claim": "Which mechanism allows driven wheels to rotate at different speeds in a turn? Answer: Differential. On a turn the outer wheel travels farther than the inner wheel."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_thermostat",
+    "status": "approved",
+    "sha256": "3289ed28cac06763405d253029bca8b08f121c3d5a5d5a6fc8942e5a19af71f3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 119, printed page 110: Thermostat",
+        "claim": "Which heat-sensitive valve between the engine and radiator regulates coolant flow? Answer: Thermostat. Its operation depends on coolant temperature."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_flywheel",
+    "status": "approved",
+    "sha256": "40649718f89f76853bbf62fef1bb7ac18db3a79fe0e8e0e1fcd0f854bd5fcb6c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.energy.gov/sites/default/files/2026-04/DOE-HDBK-1018-93_VOL1.pdf",
+        "location": "PDF page 29, Flywheel: inertia smooths power strokes",
+        "claim": "Which heavy rotating component helps smooth an engine’s uneven rotation? Answer: Flywheel. It stores rotational kinetic energy."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_abs",
+    "status": "approved",
+    "sha256": "1a469a989302be3f538c6950423c660f6158a91d209566a77993bedab2a358e8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bosch-mobility.com/en/solutions/braking-systems/antilock-braking-system/",
+        "location": "ABS prevents wheel lock",
+        "claim": "Which system prevents prolonged wheel lock during braking? Answer: ABS. It regulates brake pressure using wheel-speed sensor signals."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_esc",
+    "status": "approved",
+    "sha256": "b53931fe700dac6896c807e4f400f3e5e58febafd33379f48450903c1c0ca223",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.bosch-mobility.com/en/solutions/braking-systems/electronic-stability-program/",
+        "location": "System operation and benefits: counters skidding",
+        "claim": "Which system helps a vehicle maintain its intended course when it risks skidding? Answer: ESC. It can selectively brake individual wheels."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_tpms",
+    "status": "approved",
+    "sha256": "4c9f35bee9dad95fe2381d04bed4d047b98d46f8e6a79934f88bac9cf25a2278",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhtsa.gov/vehicle-safety/tires",
+        "location": "Tire Pressure Monitoring System: pressure warning",
+        "claim": "Which system monitors the air pressure in a vehicle’s tyres? Answer: TPMS. It warns of underinflation."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_radiator",
+    "status": "approved",
+    "sha256": "259e1e50588722a0b4aeec83b0cf0c78c4134d856a54844e2909b88f7178a40d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 118, printed page 109: Radiator",
+        "claim": "Which engine heat exchanger transfers heat from coolant to the surrounding air? Answer: Radiator. Fins and thin tubes increase the surface area available for heat exchange."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_water_pump",
+    "status": "approved",
+    "sha256": "eeaa62d15b8e25ef52ef24e8449f2e6760f3f63a4f0747bc97d0eda10577feec",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 119, printed page 110: Water Pump",
+        "claim": "Which pump circulates coolant through the engine and radiator? Answer: Water pump. It is also called the coolant pump."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_tachometer",
+    "status": "approved",
+    "sha256": "c98d172cd29d3e1730560c1e76969860152031fd5561a81c0ca2f2c72fa03c37",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 106, printed page 97: tachometer",
+        "claim": "Which instrument displays engine rotational speed? Answer: Tachometer. Its scale is usually marked in revolutions per minute."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_torque",
+    "status": "approved",
+    "sha256": "f0a3de89caaffc221cb671d7416f969539fce164e2e3c2469ab6b61a558052b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 115, component/quantity torque",
+        "claim": "What is the turning effect of a force on a shaft called? Answer: Torque. Its SI unit is the newton-metre."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_displacement",
+    "status": "approved",
+    "sha256": "cc70719c8a8f4313052a4d75fc3e81f222f8f899afab95caf79ac1890c9d2e6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 115, component/quantity displacement",
+        "claim": "What is the combined volume swept by all of an engine’s pistons called? Answer: Engine displacement. It is often stated in litres or cubic centimetres."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_octane",
+    "status": "approved",
+    "sha256": "1d2d55a0c657d51a18d19b84f8c4bfcd9fd1cb55f547c5366de02916864e0faa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fueleconomy.gov/feg/octane.shtml",
+        "location": "What is octane rating: resistance to knock",
+        "claim": "Which measure describes petrol’s resistance to knocking? Answer: Octane rating. A higher number does not automatically mean more energy per litre."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_inlet_valve",
+    "status": "approved",
+    "sha256": "ff3cce1ac2e64b1f9e97ccd0567c208c19e91ddf67c1c4ede997ae5e0bf1c9a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, printed page 107: Inlet and Exhaust Valve",
+        "claim": "Which engine valve opens to admit air or an air-fuel mixture into a cylinder? Answer: Inlet valve. The exhaust valve instead lets burnt gases leave the cylinder."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_compression",
+    "status": "approved",
+    "sha256": "d724bfdc22c63c34f7b4572f35bcca2ae701b74764ab1898da7608daf0903994",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 115, component/quantity compression",
+        "claim": "What is the ratio of cylinder volume at bottom dead centre to that at top dead centre called? Answer: Compression ratio. It is a geometric ratio, not a pressure reading."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_coolant",
+    "status": "approved",
+    "sha256": "43542ebe8f13af970cfa1bd8aeb9926d0cfd984591dac43a719f041455a2349a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 119, component/quantity coolant",
+        "claim": "Which fluid carries heat from the engine to the radiator in a liquid cooling system? Answer: Coolant. It circulates through cooling-system passages."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_alternator",
+    "status": "approved",
+    "sha256": "e59d6c17c06552a453fcadfd0b1a6e68ad62fde60382c7f7b9e454dd845b779b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.denso-am.eu/products/rotating-electrics/alternator",
+        "location": "How alternators work",
+        "claim": "Which device generates electricity while an internal-combustion engine is running? Answer: Alternator. During normal driving it also charges the vehicle battery."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_starter",
+    "status": "approved",
+    "sha256": "66d4282a74d0e35e137cac18c7365fb8beaafba680e5cd0497e7a7ab912d1ee3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.denso-am.eu/products/rotating-electrics/starter",
+        "location": "How starters work",
+        "claim": "Which electric motor initially cranks an internal-combustion engine when starting? Answer: Starter motor. Its normal task ends once the engine starts."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_suspension",
+    "status": "approved",
+    "sha256": "46bc64bc0ed1748d990f08af8f6ebd1a8cd4aa2e03fdab2a96e92ac00288b6bf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 80, printed page 71: suspension",
+        "claim": "What is the system linking the wheels to the body and cushioning road impacts called? Answer: Suspension. It uses springs and damping devices."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_shock_absorber",
+    "status": "approved",
+    "sha256": "4efa793a5813dfdb32f51a6fcda7b38a7ac50681c2c68147f1bbd339e32466f8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.kyb.com/resources/shocks-struts-101/how-shocks-work/",
+        "location": "Shocks dampen spring rebound",
+        "claim": "Which suspension component damps spring oscillations and prevents prolonged bouncing after a bump? Answer: Shock absorber. It dissipates oscillation energy, often as heat."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_connecting_rod",
+    "status": "approved",
+    "sha256": "8b5a5b3b275fb9b1e70231337e92bce4d6438d9bcf8c642652435948e8cc7633",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 116, printed page 107: Connecting Rods",
+        "claim": "Which engine component connects the piston to the crankshaft? Answer: Connecting rod. It transfers force from the piston to the crankshaft."
+      }
+    ]
+  },
+  {
+    "id": "cars_m50_brake_disc",
+    "status": "approved",
+    "sha256": "5530bf7268f96c06f110533734add73a977a564ffa4454fc1d988418dc544648",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf",
+        "location": "PDF page 81, component/quantity brake_disc",
+        "claim": "Which rotating component is clamped by brake pads in a disc brake? Answer: Brake disc. Friction helps convert motion energy into heat."
+      }
+    ]
   }
 ]
