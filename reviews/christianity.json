@@ -358,5 +358,545 @@
         "claim": "Which relative does Mary visit after the Annunciation in the Gospel narrative? Answer: Elizabeth. Elizabeth is expecting the birth of John the Baptist in this narrative."
       }
     ]
+  },
+  {
+    "id": "christianity_m50_noah",
+    "status": "approved",
+    "sha256": "3408302a1e9f04318993f0eb5516d440fe911677d394297179f08439dc315ff1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Genesis 6:9–22",
+        "claim": "Who, in the biblical account, builds an ark before the flood? Answer: Noah. In the narrative the ark preserves his family and animals."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_moses",
+    "status": "approved",
+    "sha256": "c0257111e001b073ab8a4fa3648643b83eba599e3c5de84d28688813df696423",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Exodus 3:1–12",
+        "claim": "Who, in the biblical account, sees a burning bush that is not consumed? Answer: Moses. The scene concerns the call to lead the people out of Egypt."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_david",
+    "status": "approved",
+    "sha256": "83f1ff554c3f832c07bf9b06880b2544b23e99d28ec407e5084b79a363b8969e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "1 Samuel 17:40–50",
+        "claim": "Who, in the biblical account, defeats Goliath using a sling? Answer: David. The account contrasts a young protagonist with an experienced warrior."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_solomon",
+    "status": "approved",
+    "sha256": "684b1e1777d8b3f9031e453271cd977dc9b8a94df3a85c28a96f1d66fad59d84",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "1 Kings 3:5–14",
+        "claim": "Who, in the biblical account, asks God for wisdom to govern the people? Answer: Solomon. The request concerns discerning right and wrong."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_daniel",
+    "status": "approved",
+    "sha256": "d2aad4bc38cd50e3b5feb3fea20fb025454b8239ec92c67db30c6deca7d9b3ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Daniel 6:10–23",
+        "claim": "Who, in the biblical account, is placed in a den of lions? Answer: Daniel. The narrative connects the ordeal with faithfulness in prayer."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_jonah",
+    "status": "approved",
+    "sha256": "ecdd84cf14e28941e94d1b1541673af4e0e44a662e13616d567984a31cc286b3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Jonah 1:17–2:2",
+        "claim": "Who, in the biblical account, ends up inside a great fish? Answer: Jonah. The text says a great fish rather than necessarily identifying a whale."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_samson",
+    "status": "approved",
+    "sha256": "458cfc6bc6b079af164689c4cb86a0b01d66f4812e9f5a2cdc29b73bacf12219",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Judges 16:17–22",
+        "claim": "Who, in the biblical account, loses his strength after his hair is cut? Answer: Samson. His story appears in the Book of Judges."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_ruth",
+    "status": "approved",
+    "sha256": "8a8e68a0d446730534aaa6172d357aec81eea5576280e2c16d140fa82eda4556",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Ruth 1:14–18",
+        "claim": "Who, in the biblical account, chooses to stay with Naomi and go with her? Answer: Ruth. The book highlights the loyalty and bond between the two women."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_esther",
+    "status": "approved",
+    "sha256": "7200482e1d4da75c5eeb002f245d126065078a4f1885c6ae4633b23c8966ab18",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Esther 4:13–16",
+        "claim": "Which queen in the biblical account resolves to approach the king to protect her people, risking her life? Answer: Esther. The Book of Esther is set at the Persian royal court."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_job",
+    "status": "approved",
+    "sha256": "8947cdd9de39415a68d99d1f4d31623a7ce1ce23e000960992515ffd842b0f66",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Job 2:7–13",
+        "claim": "Who, in the biblical account, undergoes severe trials and discusses suffering with his friends? Answer: Job. The book raises questions about suffering and justice."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_peter",
+    "status": "approved",
+    "sha256": "e4681faeb82c2bd8ac2989f5672fbaf34f99ca4f224031387a9779ed7972a484",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Luke 22:54–62",
+        "claim": "Who in the Gospel account denies knowing Jesus three times before the rooster crows? Answer: Peter. The episode occurs after Jesus is arrested."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_thomas",
+    "status": "approved",
+    "sha256": "7af4748f3b16af6039aef0931b148774646ad7e487d99550787b6a5ce8c09c57",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "John 20:24–29",
+        "claim": "Who, in the biblical account, wants to see the risen Jesus' wounds? Answer: Thomas. The scene appears in the Gospel of John."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_judas",
+    "status": "approved",
+    "sha256": "ab0687619ba8a0775c69d626d314c247996e56b9d03eda5eda38d9f9df65a287",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Matthew 26:14–16",
+        "claim": "Who, in the biblical account, agrees to betray Jesus for thirty silver coins? Answer: Judas Iscariot. The Gospel of Matthew describes this agreement."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_zacchaeus",
+    "status": "approved",
+    "sha256": "f00ad1e616f3b55ae52290c37f4f79da092a3c25a52518dffdd4caf6927b0a93",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Luke 19:1–6",
+        "claim": "Who, in the biblical account, climbs a tree to see Jesus passing by? Answer: Zacchaeus. The account describes him as a chief tax collector."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_paul",
+    "status": "approved",
+    "sha256": "3ec325d1df9a497dabfe299a5b01e94e5e6d602c990e56b71b57dce0a2ae970e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Acts 9:1–9 and 13:9 (Saul/Paul)",
+        "claim": "Who, in the biblical account, undergoes a conversion on the road to Damascus? Answer: Paul (Saul). The event is described in the Acts of the Apostles."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_matthew",
+    "status": "approved",
+    "sha256": "72bbffb0969c31d02721b46d737d8ec4052c103deabae91bad8620e14d8ef965",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Matthew 9:9–10",
+        "claim": "Who, in the biblical account, is sitting at the tax booth when Jesus calls him? Answer: Matthew. The Gospel episode associates him with tax collecting."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_lazarus",
+    "status": "approved",
+    "sha256": "1abe14dd736514094bd869729b8507cfe31f44b0dc7f3e804d05a6f1aa6d959d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "John 11:1–2,38–44",
+        "claim": "Who, in the biblical account, comes out of the tomb at Jesus' call in Bethany? Answer: Lazarus. His sisters in the narrative are Martha and Mary."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_martha",
+    "status": "approved",
+    "sha256": "6757e92942bf69e94c93399b97ec3d2963598dc062041a28c72d130d2fb60d8c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Luke 10:38–42",
+        "claim": "Who, in the biblical account, attends to serving while her sister Mary listens to Jesus? Answer: Martha. The episode appears in the Gospel of Luke."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_samaritan",
+    "status": "approved",
+    "sha256": "fdc44d825d59310665205e10ebcef965ce9d8c7bf9380a2e1bca50bcc3775aec",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Luke 10:30–37",
+        "claim": "In Jesus’ parable about a traveller, who first stops and bandages the injured man’s wounds? Answer: A Samaritan. The Samaritan then takes him to an inn and pays for his care."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_prodigal",
+    "status": "approved",
+    "sha256": "2376051c5bf7b46b0dc1a2e1976819fefb73e5ac5f0bf3851621141b50577165",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Luke 15:20–32",
+        "claim": "Who, in the biblical account, warmly welcomes the returning prodigal son? Answer: His father. The parable contrasts his response with the older son's resentment."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_genesis",
+    "status": "approved",
+    "sha256": "7f5597e5bf6d8a09f06a32e77de490948f41e9b248767908c74ddf0a7fd8c7e7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Table of contents: first book Genesis; Genesis 1–2",
+        "claim": "Which book opens the Christian Bible? Answer: Genesis. It contains accounts of creation and the patriarchs."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_revelation",
+    "status": "approved",
+    "sha256": "74c63bc19b4c0b7fb4ea4b766f815ee1a2cf397054c9edc622a3ace8615ee631",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "New Testament table of contents: final book Revelation",
+        "claim": "Which book comes last in the commonly used order of New Testament books? Answer: Revelation. The book is also known as the Apocalypse."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_nt_books",
+    "status": "approved",
+    "sha256": "3125a80200ba9d9551c590033358f124fa340325bbe9d9c4dacce983725fb7de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "New Testament table of contents: 27 books from Matthew to Revelation",
+        "claim": "How many books are in the commonly accepted Christian New Testament? Answer: 27. This canon includes four Gospels, Acts, epistles and Revelation."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_acts_book",
+    "status": "approved",
+    "sha256": "54a47c1564225877c4d010b715a64070c6de57efc1d902e39f95d33a88cd0eb7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Acts 1,2,9,13–28: early community and journeys",
+        "claim": "Which New Testament book tells of the early community and the apostles' journeys? Answer: Acts of the Apostles. Peter and Paul have prominent roles in it."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_cana",
+    "status": "approved",
+    "sha256": "c535b82925368d79d9cb236e0aa7a26bd67c3aa54c8fd9f7fa82b705ad0616ff",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "John 2:1–11",
+        "claim": "What does Jesus turn into wine at Cana's wedding in the Gospel of John? Answer: Water. The event is called the first of Jesus' signs in this Gospel."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_loaves",
+    "status": "approved",
+    "sha256": "edf8d0c7cc650f9cf3bfac6e0c483c5b4142ea574510fb1db37a3fe63ad03796",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "John 6:8–13",
+        "claim": "Which foods feature in the account of feeding the five thousand? Answer: Bread and fish. The Gospels describe feeding a crowd from a small supply of food."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_sinai",
+    "status": "approved",
+    "sha256": "892b31c6305c540984d40cfdf3a687a8fe920788d2ff616dc970d8678c4b90d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Exodus 19:18–20:17",
+        "claim": "Which mountain is associated with Moses receiving the commandments in Exodus? Answer: Sinai. The mountain is central to the covenant narrative."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_olive",
+    "status": "approved",
+    "sha256": "67d2edf20d73d030bb1353b6a377b9a5cde851244cb57603a7dd131f6f801b3a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Genesis 8:8–12",
+        "claim": "Which bird brings Noah an olive leaf in Genesis? Answer: Dove. The leaf becomes a sign that the waters are receding."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_eden",
+    "status": "approved",
+    "sha256": "af5810647aa8876403d6c8448a2747f019fdd816632bef82a3b3405441bfe006",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Genesis 2:8–10",
+        "claim": "What is the garden in the account of Adam and Eve called? Answer: Eden. The image appears in the opening chapters of Genesis."
+      }
+    ]
+  },
+  {
+    "id": "christianity_m50_psalms",
+    "status": "approved",
+    "sha256": "a99d8a19da6ffd754417ef8edd358d611d186144aaf9cf881c006bf0fb70db87",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read primary biblical passages in the KJV text and USCCB for the named stories, compared book order and counted the 27 NT books. Separate bilingual and same-class choice pass; neutral textual attribution, no doctrinal assertion as historical proof.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/10.txt.utf-8",
+        "location": "Book of Psalms: Psalms 1,23,100,150",
+        "claim": "Which biblical book is a collection of prayers and songs? Answer: Psalms. It includes songs of praise, petition and thanksgiving."
+      }
+    ]
   }
 ]

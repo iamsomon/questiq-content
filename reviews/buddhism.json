@@ -358,5 +358,545 @@
         "claim": "What is the common cross-legged meditation posture called? Answer: Lotus posture. In art-historical terminology this posture is called padmasana."
       }
     ]
+  },
+  {
+    "id": "buddhism_m50_dhamma",
+    "status": "approved",
+    "sha256": "926805a64994730b76540ee3d4bf00f428fe7c07a87428e72d1ad5dfd5e49fef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry dhamma (doctrine and teaching)",
+        "claim": "Which Buddhist term means the Buddha's teaching as one of the Three Jewels? Answer: Dharma. The Pali form is Dhamma."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_sangha",
+    "status": "approved",
+    "sha256": "54f1ac186f27932337458248ba6ff032ef6cfc97d4bec54d0a8f46fed17846c5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry sangha; tiratana",
+        "claim": "Which Buddhist term means the Buddhist community, especially the monastic community? Answer: Sangha. It is one of the Three Jewels."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_triratna",
+    "status": "approved",
+    "sha256": "9d86ca999bbdd3e9a18bdfb5bef2a6ce9a9c7b70d299a73ac0b00c200dc9350b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry tiratana; tisarana",
+        "claim": "Which Buddhist term means the Buddha, Dharma and Sangha together? Answer: Three Jewels. Turning to them is called taking refuge."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_dukkha",
+    "status": "approved",
+    "sha256": "0b32ed9496a13eecc3020733f28a0dc79234ccf5f3c3b1e33275007993293616",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry dukkha; ariya-sacca",
+        "claim": "Which Buddhist term means unsatisfactoriness and suffering in the Four Noble Truths? Answer: Dukkha. The term is broader than physical pain alone."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_tanha",
+    "status": "approved",
+    "sha256": "6400bd58cb93fa3feb85e0df2506197a514dbbb7fcf5fe2fff1ac1fa51a3c88a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry tanha; ariya-sacca",
+        "claim": "Which Buddhist term means craving associated with the arising of suffering? Answer: Tanha. It is a key term in the second Noble Truth."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_anicca",
+    "status": "approved",
+    "sha256": "e75e765b1e79bdb33d9e01784e9cde1273295cad38387928b75fc75d6e4e4488",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Anicca",
+        "claim": "Which Buddhist term means the impermanence of conditioned phenomena? Answer: Anicca. It is one characteristic of existence in Buddhist analysis."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_anatta",
+    "status": "approved",
+    "sha256": "f155268082a0e0d82d2b5d326d7399a10ae6f120929090db51442bd5052bcff3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Anatta",
+        "claim": "Which Buddhist term means the absence of an unchanging independent self? Answer: Anatta. The term does not simply mean that a conventional person does not exist."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_samsara",
+    "status": "approved",
+    "sha256": "822975c9e43aa386c59b7f639cacd5eb27f51743d808f9279f3d8330a09a54b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Samsara",
+        "claim": "Which Buddhist term means the cycle of birth and death? Answer: Samsara. Liberation is understood as release from this cycle."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_metta",
+    "status": "approved",
+    "sha256": "fcf01e9313846f901f68e4713427fed078bf8abc135b2f0845364e8ae42ab0fe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Metta",
+        "claim": "Which Buddhist term means goodwill towards living beings? Answer: Metta. It is often translated as loving-kindness."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_karuna",
+    "status": "approved",
+    "sha256": "7c2fbe232fa73495ddca648d3a73ecc8e275b8fe0262149c3f15667e89849f56",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Karuna",
+        "claim": "Which Buddhist term means compassion for the suffering of other beings? Answer: Karuna. It is one of the four immeasurable attitudes."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_mudita",
+    "status": "approved",
+    "sha256": "e8b216d5dc00aea8af07abc707f695fadbf7f381f532d4f56ac38712ab8f8a48",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Mudita",
+        "claim": "Which Buddhist term means appreciative joy in others' well-being? Answer: Mudita. It contrasts with envy of another's success."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_upekkha",
+    "status": "approved",
+    "sha256": "314a89734a940187df4bc2e7d84fc1a76a809f53f4f3ac8a8f67af6c9a73ac5b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Upekkha",
+        "claim": "Which Buddhist term means equanimity without indifference? Answer: Upekkha. It is a balanced attitude rather than a lack of care."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_sila",
+    "status": "approved",
+    "sha256": "9dd13faa89ac2667af47e295c725e5ead331803bdbb4d9ea8aa1605bb908e6c1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry sila; threefold training",
+        "claim": "Which term means ethical discipline in the threefold training alongside concentration and wisdom? Answer: Sila. The ethical precepts are intended to restrain unskilful actions."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_samadhi",
+    "status": "approved",
+    "sha256": "4aee3f34252a28405e8369930f056ae3ea1e473f29752fe093d02a4635803f3a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Samadhi",
+        "claim": "Which Buddhist term means mental concentration? Answer: Samadhi. The term concerns steadiness and collected attention."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_panna",
+    "status": "approved",
+    "sha256": "494b8129b6990502be43c59169714167ced471ef3dc3b322a952632c98dfc09c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Pañña",
+        "claim": "Which term in the Pali Buddhist tradition means wisdom or insightful understanding? Answer: Pañña. The Sanskrit form is prajna."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_vinaya",
+    "status": "approved",
+    "sha256": "72960f061ab0a799e7adf0092368de3c9331084582f41b1f090aee354bafdccc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Vinaya",
+        "claim": "Which term in the Pali Buddhist tradition means monastic discipline and its rules? Answer: Vinaya. It is one of the traditional canon's three baskets."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_sutta",
+    "status": "approved",
+    "sha256": "78d1a90ce58b3b5594edc63afb49ffc64b161da51495d7f495db9fcb8f885857",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Sutta",
+        "claim": "In the Pali Buddhist tradition, what is a discourse or teaching text called? Answer: Sutta. The Sanskrit equivalent is sutra."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_tipitaka",
+    "status": "approved",
+    "sha256": "d46080b4e7a18245676ce422e41fdfaf1d0ef09c8b7d68d6f325bcf8f9d3b168",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Tipitaka",
+        "claim": "Which term in the Pali Buddhist tradition means the canon's three divisions known as baskets? Answer: Tipitaka. They are Vinaya, Sutta and Abhidhamma."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_abhidhamma",
+    "status": "approved",
+    "sha256": "28341244867628bc84894201d6d92f0c879a05a3822f8ab5924ab01b8cece27d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Abhidhamma",
+        "claim": "Which term in the Pali Buddhist tradition means the systematic analytical division of the Pali canon? Answer: Abhidhamma. It differs from the collections of discourses and monastic rules."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_bhikkhu",
+    "status": "approved",
+    "sha256": "4ee9e4da491149b406e4006d36c6f2440b4c8114559afaab25222c03d916fc16",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Bhikkhu",
+        "claim": "Which term in the Pali Buddhist tradition means a fully ordained Buddhist monk? Answer: Bhikkhu. The title refers to monastic status."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_bhikkhuni",
+    "status": "approved",
+    "sha256": "79eabfe703a699d74a311ff409075034f16313137880924ff4cb3f31a16b93ae",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Bhikkhuni",
+        "claim": "In the Pali Buddhist tradition, what is a fully ordained nun called? Answer: Bhikkhuni. The corresponding title for a monk is bhikkhu."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_upasaka",
+    "status": "approved",
+    "sha256": "434762b9362e00256ea230087f770c131efc746251db28bf0c6d3c9029288af0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry upasaka/upasika",
+        "claim": "Which term in the Pali Buddhist tradition means a male Buddhist lay follower? Answer: Upasaka. A lay follower has not taken full monastic ordination."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_arahant",
+    "status": "approved",
+    "sha256": "9ed659fb6c8b1984227aa0f537c0f945e11790433ac9f677ca51bccd03982fd6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Arahant",
+        "claim": "Which Buddhist term means a practitioner who has attained liberation in Theravada terminology? Answer: Arahant. Arahant is the Pali form of the title."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_bodhisatta",
+    "status": "approved",
+    "sha256": "ca886965ae229268309c3d2620fce46ef7dae40a29ac0be18c30677a3fc2544e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry bodhisatta; Sanskrit Bodhisattva",
+        "claim": "Which Buddhist term means a being aspiring to the full awakening of a Buddha? Answer: Bodhisattva. The Pali form is bodhisatta."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_jhana",
+    "status": "approved",
+    "sha256": "45a8dc3cb877f43871f9f5e1221bb7bfb6a679ceb8abe686dcc9373ed8c1aa2b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Jhana",
+        "claim": "Which term in the Pali Buddhist tradition means a state of deep meditative absorption? Answer: Jhana. The Sanskrit form is dhyana."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_vipassana",
+    "status": "approved",
+    "sha256": "7ab6f9669a4f9b25a0afc568ef7f8fe6aba92f0a441f429527ddd1ea6d2d878b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry Vipassana",
+        "claim": "Which Buddhist term means the practice of insight into the nature of phenomena? Answer: Vipassana. The term is often contrasted with calm, or samatha."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_dana",
+    "status": "approved",
+    "sha256": "f0df24f2c150cbd899b1e770cf9b8b70680f06e632c96b4520d29b7a0c9026df",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry dana",
+        "claim": "Which Buddhist term means generosity and giving without expecting repayment? Answer: Dana. Traditional practice can include offering food or other requisites to the monastic community."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_sati",
+    "status": "approved",
+    "sha256": "3677ddf044668709353b12a7168ea6482783c0a01c8f8ea85d63e738a84b068d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-sati/index.html",
+        "location": "Right Mindfulness: seventh factor of the Eightfold Path; four frames of reference",
+        "claim": "Which Buddhist term means mindfulness or attentive recollection? Answer: Sati. The term appears in one factor of the Eightfold Path."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_paticca",
+    "status": "approved",
+    "sha256": "f28eb18493efe9c052a05311a09eb38be5cf677bcb9ba878728ab705950bc688",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry paticca-samuppada",
+        "claim": "Which Buddhist term means the dependent arising of phenomena? Answer: Dependent origination. The Pali name is paticca-samuppada."
+      }
+    ]
+  },
+  {
+    "id": "buddhism_m50_kalyanamitta",
+    "status": "approved",
+    "sha256": "1556158e344c4b2d30e02f1a98520ae88f7d38ac23c7eec6f283cb79e86ac1b5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Access to Insight Pali glossary and Right Mindfulness text: read each named entry, qualified Pali/Theravada claims, replaced two unsupported rows and checked terms and all alternatives in RU/EN separately.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.accesstoinsight.org/glossary.html",
+        "location": "Glossary entry kalyanamitta",
+        "claim": "In Pali Buddhist terminology, what is an admirable friend or mentor in Dhamma called? Answer: Kalyanamitta. Such a person helps another study and practise the teaching."
+      }
+    ]
   }
 ]

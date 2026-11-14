@@ -878,5 +878,1325 @@
       "https://www.metmuseum.org/essays/recognizing-the-gods"
     ],
     "image": null
+  },
+  {
+    "id": "buddhism_m50_dhamma",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает учение Будды, входящее в Три драгоценности?",
+        "explanation": "На языке пали встречается форма «Дхамма»."
+      },
+      "en": {
+        "question": "Which Buddhist term means the Buddha's teaching as one of the Three Jewels?",
+        "explanation": "The Pali form is Dhamma."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дхарма",
+        "en": "Dharma"
+      },
+      {
+        "id": "o1",
+        "ru": "Сангха",
+        "en": "Sangha"
+      },
+      {
+        "id": "o2",
+        "ru": "Будда",
+        "en": "Buddha"
+      },
+      {
+        "id": "o3",
+        "ru": "Трипитака",
+        "en": "Tipitaka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_sangha",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает общину буддийских практикующих, особенно монашескую?",
+        "explanation": "Она входит в число Трёх драгоценностей."
+      },
+      "en": {
+        "question": "Which Buddhist term means the Buddhist community, especially the monastic community?",
+        "explanation": "It is one of the Three Jewels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сангха",
+        "en": "Sangha"
+      },
+      {
+        "id": "o1",
+        "ru": "Дхарма",
+        "en": "Dharma"
+      },
+      {
+        "id": "o2",
+        "ru": "Трипитака",
+        "en": "Tipitaka"
+      },
+      {
+        "id": "o3",
+        "ru": "Виная",
+        "en": "Vinaya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_triratna",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает Будду, Дхарму и Сангху вместе?",
+        "explanation": "Обращение к ним называется принятием прибежища."
+      },
+      "en": {
+        "question": "Which Buddhist term means the Buddha, Dharma and Sangha together?",
+        "explanation": "Turning to them is called taking refuge."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Три драгоценности",
+        "en": "Three Jewels"
+      },
+      {
+        "id": "o1",
+        "ru": "Четыре благородные истины",
+        "en": "Four Noble Truths"
+      },
+      {
+        "id": "o2",
+        "ru": "Восьмеричный путь",
+        "en": "Eightfold Path"
+      },
+      {
+        "id": "o3",
+        "ru": "Три корзины",
+        "en": "Three Baskets"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_dukkha",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает неудовлетворительность и страдание в учении о Четырёх благородных истинах?",
+        "explanation": "Термин шире, чем только физическая боль."
+      },
+      "en": {
+        "question": "Which Buddhist term means unsatisfactoriness and suffering in the Four Noble Truths?",
+        "explanation": "The term is broader than physical pain alone."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      },
+      {
+        "id": "o1",
+        "ru": "Танха",
+        "en": "Tanha"
+      },
+      {
+        "id": "o2",
+        "ru": "Метта",
+        "en": "Metta"
+      },
+      {
+        "id": "o3",
+        "ru": "Мудита",
+        "en": "Mudita"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_tanha",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает жажду или цепляющееся желание, связываемое с возникновением страдания?",
+        "explanation": "Это один из ключевых терминов второй благородной истины."
+      },
+      "en": {
+        "question": "Which Buddhist term means craving associated with the arising of suffering?",
+        "explanation": "It is a key term in the second Noble Truth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Танха",
+        "en": "Tanha"
+      },
+      {
+        "id": "o1",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      },
+      {
+        "id": "o2",
+        "ru": "Метта",
+        "en": "Metta"
+      },
+      {
+        "id": "o3",
+        "ru": "Упеккха",
+        "en": "Upekkha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_anicca",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает непостоянство обусловленных явлений?",
+        "explanation": "Это одна из характеристик существования в буддийском анализе."
+      },
+      "en": {
+        "question": "Which Buddhist term means the impermanence of conditioned phenomena?",
+        "explanation": "It is one characteristic of existence in Buddhist analysis."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аничча",
+        "en": "Anicca"
+      },
+      {
+        "id": "o1",
+        "ru": "Анатта",
+        "en": "Anatta"
+      },
+      {
+        "id": "o2",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_anatta",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает отсутствие неизменного независимого «я»?",
+        "explanation": "Термин не сводится к утверждению, что условная личность вообще не существует."
+      },
+      "en": {
+        "question": "Which Buddhist term means the absence of an unchanging independent self?",
+        "explanation": "The term does not simply mean that a conventional person does not exist."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Анатта",
+        "en": "Anatta"
+      },
+      {
+        "id": "o1",
+        "ru": "Аничча",
+        "en": "Anicca"
+      },
+      {
+        "id": "o2",
+        "ru": "Самадхи",
+        "en": "Samadhi"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_samsara",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает круговорот рождения и смерти?",
+        "explanation": "Освобождение рассматривается как выход из этого круговорота."
+      },
+      "en": {
+        "question": "Which Buddhist term means the cycle of birth and death?",
+        "explanation": "Liberation is understood as release from this cycle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сансара",
+        "en": "Samsara"
+      },
+      {
+        "id": "o1",
+        "ru": "Нирвана",
+        "en": "Nirvana"
+      },
+      {
+        "id": "o2",
+        "ru": "Джхана",
+        "en": "Jhana"
+      },
+      {
+        "id": "o3",
+        "ru": "Виная",
+        "en": "Vinaya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_metta",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает доброжелательность к живым существам?",
+        "explanation": "Её часто переводят как «любящая доброта»."
+      },
+      "en": {
+        "question": "Which Buddhist term means goodwill towards living beings?",
+        "explanation": "It is often translated as loving-kindness."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Метта",
+        "en": "Metta"
+      },
+      {
+        "id": "o1",
+        "ru": "Каруна",
+        "en": "Karuna"
+      },
+      {
+        "id": "o2",
+        "ru": "Мудита",
+        "en": "Mudita"
+      },
+      {
+        "id": "o3",
+        "ru": "Упеккха",
+        "en": "Upekkha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_karuna",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает сострадание к страданию других существ?",
+        "explanation": "Она входит в число четырёх безмерных состояний."
+      },
+      "en": {
+        "question": "Which Buddhist term means compassion for the suffering of other beings?",
+        "explanation": "It is one of the four immeasurable attitudes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Каруна",
+        "en": "Karuna"
+      },
+      {
+        "id": "o1",
+        "ru": "Мудита",
+        "en": "Mudita"
+      },
+      {
+        "id": "o2",
+        "ru": "Упеккха",
+        "en": "Upekkha"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_mudita",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает сорадование благополучию других?",
+        "explanation": "Она противопоставляется зависти к чужому успеху."
+      },
+      "en": {
+        "question": "Which Buddhist term means appreciative joy in others' well-being?",
+        "explanation": "It contrasts with envy of another's success."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мудита",
+        "en": "Mudita"
+      },
+      {
+        "id": "o1",
+        "ru": "Каруна",
+        "en": "Karuna"
+      },
+      {
+        "id": "o2",
+        "ru": "Упеккха",
+        "en": "Upekkha"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_upekkha",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает равностность без безразличия?",
+        "explanation": "Это уравновешенное отношение, а не отсутствие заботы."
+      },
+      "en": {
+        "question": "Which Buddhist term means equanimity without indifference?",
+        "explanation": "It is a balanced attitude rather than a lack of care."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Упеккха",
+        "en": "Upekkha"
+      },
+      {
+        "id": "o1",
+        "ru": "Танха",
+        "en": "Tanha"
+      },
+      {
+        "id": "o2",
+        "ru": "Мудита",
+        "en": "Mudita"
+      },
+      {
+        "id": "o3",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_sila",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин обозначает нравственную дисциплину в трёхчастном обучении наряду с сосредоточением и мудростью?",
+        "explanation": "Этические предписания направлены на воздержание от неблагих поступков."
+      },
+      "en": {
+        "question": "Which term means ethical discipline in the threefold training alongside concentration and wisdom?",
+        "explanation": "The ethical precepts are intended to restrain unskilful actions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шила",
+        "en": "Sila"
+      },
+      {
+        "id": "o1",
+        "ru": "Самадхи",
+        "en": "Samadhi"
+      },
+      {
+        "id": "o2",
+        "ru": "Пання",
+        "en": "Pañña"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_samadhi",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает сосредоточение ума?",
+        "explanation": "Термин относится к устойчивости и собранности внимания."
+      },
+      "en": {
+        "question": "Which Buddhist term means mental concentration?",
+        "explanation": "The term concerns steadiness and collected attention."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Самадхи",
+        "en": "Samadhi"
+      },
+      {
+        "id": "o1",
+        "ru": "Шила",
+        "en": "Sila"
+      },
+      {
+        "id": "o2",
+        "ru": "Пання",
+        "en": "Pañña"
+      },
+      {
+        "id": "o3",
+        "ru": "Дана",
+        "en": "Dana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_panna",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает мудрость или проницательное понимание?",
+        "explanation": "Санскритская форма термина — праджня."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means wisdom or insightful understanding?",
+        "explanation": "The Sanskrit form is prajna."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пання",
+        "en": "Pañña"
+      },
+      {
+        "id": "o1",
+        "ru": "Шила",
+        "en": "Sila"
+      },
+      {
+        "id": "o2",
+        "ru": "Самадхи",
+        "en": "Samadhi"
+      },
+      {
+        "id": "o3",
+        "ru": "Танха",
+        "en": "Tanha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_vinaya",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает монашескую дисциплину и её правила?",
+        "explanation": "Это одна из трёх «корзин» традиционного канона."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means monastic discipline and its rules?",
+        "explanation": "It is one of the traditional canon's three baskets."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Виная",
+        "en": "Vinaya"
+      },
+      {
+        "id": "o1",
+        "ru": "Сутта",
+        "en": "Sutta"
+      },
+      {
+        "id": "o2",
+        "ru": "Абхидхамма",
+        "en": "Abhidhamma"
+      },
+      {
+        "id": "o3",
+        "ru": "Джатака",
+        "en": "Jataka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_sutta",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в палийской буддийской традиции называется текст беседы или наставления?",
+        "explanation": "Санскритский аналог слова — сутра."
+      },
+      "en": {
+        "question": "In the Pali Buddhist tradition, what is a discourse or teaching text called?",
+        "explanation": "The Sanskrit equivalent is sutra."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сутта",
+        "en": "Sutta"
+      },
+      {
+        "id": "o1",
+        "ru": "Виная",
+        "en": "Vinaya"
+      },
+      {
+        "id": "o2",
+        "ru": "Абхидхамма",
+        "en": "Abhidhamma"
+      },
+      {
+        "id": "o3",
+        "ru": "Мудра",
+        "en": "Mudra"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_tipitaka",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает три раздела канона, называемые «корзинами»?",
+        "explanation": "Это Виная, Сутта и Абхидхамма."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means the canon's three divisions known as baskets?",
+        "explanation": "They are Vinaya, Sutta and Abhidhamma."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трипитака",
+        "en": "Tipitaka"
+      },
+      {
+        "id": "o1",
+        "ru": "Три драгоценности",
+        "en": "Three Jewels"
+      },
+      {
+        "id": "o2",
+        "ru": "Восьмеричный путь",
+        "en": "Eightfold Path"
+      },
+      {
+        "id": "o3",
+        "ru": "Четыре благородные истины",
+        "en": "Four Noble Truths"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_abhidhamma",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает систематический аналитический раздел палийского канона?",
+        "explanation": "Он отличается от собрания бесед и монашеских правил."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means the systematic analytical division of the Pali canon?",
+        "explanation": "It differs from the collections of discourses and monastic rules."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Абхидхамма",
+        "en": "Abhidhamma"
+      },
+      {
+        "id": "o1",
+        "ru": "Виная",
+        "en": "Vinaya"
+      },
+      {
+        "id": "o2",
+        "ru": "Сутта-питака",
+        "en": "Sutta Pitaka"
+      },
+      {
+        "id": "o3",
+        "ru": "Джатака",
+        "en": "Jataka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_bhikkhu",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает полностью посвящённого буддийского монаха?",
+        "explanation": "Это название относится к монашескому статусу."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means a fully ordained Buddhist monk?",
+        "explanation": "The title refers to monastic status."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бхиккху",
+        "en": "Bhikkhu"
+      },
+      {
+        "id": "o1",
+        "ru": "Упасака",
+        "en": "Upasaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Бхиккхуни",
+        "en": "Bhikkhuni"
+      },
+      {
+        "id": "o3",
+        "ru": "Упасика",
+        "en": "Upasika"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_bhikkhuni",
+    "categoryId": "buddhism",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в палийской буддийской традиции называют полностью посвящённую монахиню?",
+        "explanation": "Мужская форма монашеского названия — бхиккху."
+      },
+      "en": {
+        "question": "In the Pali Buddhist tradition, what is a fully ordained nun called?",
+        "explanation": "The corresponding title for a monk is bhikkhu."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бхиккхуни",
+        "en": "Bhikkhuni"
+      },
+      {
+        "id": "o1",
+        "ru": "Упасика",
+        "en": "Upasika"
+      },
+      {
+        "id": "o2",
+        "ru": "Бхиккху",
+        "en": "Bhikkhu"
+      },
+      {
+        "id": "o3",
+        "ru": "Упасака",
+        "en": "Upasaka"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_upasaka",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает буддийского последователя-мирянина?",
+        "explanation": "Мирянин не принимает полного монашеского посвящения."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means a male Buddhist lay follower?",
+        "explanation": "A lay follower has not taken full monastic ordination."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Упасака",
+        "en": "Upasaka"
+      },
+      {
+        "id": "o1",
+        "ru": "Бхиккху",
+        "en": "Bhikkhu"
+      },
+      {
+        "id": "o2",
+        "ru": "Бхиккхуни",
+        "en": "Bhikkhuni"
+      },
+      {
+        "id": "o3",
+        "ru": "Упасика",
+        "en": "Upasika"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_arahant",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает достигшего освобождения практикующего в терминологии тхеравады?",
+        "explanation": "Палийская форма названия — arahant."
+      },
+      "en": {
+        "question": "Which Buddhist term means a practitioner who has attained liberation in Theravada terminology?",
+        "explanation": "Arahant is the Pali form of the title."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Архат",
+        "en": "Arahant"
+      },
+      {
+        "id": "o1",
+        "ru": "Упасака",
+        "en": "Upasaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Бодхисаттва",
+        "en": "Bodhisattva"
+      },
+      {
+        "id": "o3",
+        "ru": "Саманера",
+        "en": "Samanera"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_bodhisatta",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает существо, стремящееся к полному пробуждению Будды?",
+        "explanation": "Палийская форма — bodhisatta."
+      },
+      "en": {
+        "question": "Which Buddhist term means a being aspiring to the full awakening of a Buddha?",
+        "explanation": "The Pali form is bodhisatta."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бодхисаттва",
+        "en": "Bodhisattva"
+      },
+      {
+        "id": "o1",
+        "ru": "Упасака",
+        "en": "Upasaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Саманера",
+        "en": "Samanera"
+      },
+      {
+        "id": "o3",
+        "ru": "Бхиккху",
+        "en": "Bhikkhu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_jhana",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин палийской буддийской традиции обозначает состояние глубокого медитативного погружения?",
+        "explanation": "Санскритская форма — дхьяна."
+      },
+      "en": {
+        "question": "Which term in the Pali Buddhist tradition means a state of deep meditative absorption?",
+        "explanation": "The Sanskrit form is dhyana."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Джхана",
+        "en": "Jhana"
+      },
+      {
+        "id": "o1",
+        "ru": "Дана",
+        "en": "Dana"
+      },
+      {
+        "id": "o2",
+        "ru": "Виная",
+        "en": "Vinaya"
+      },
+      {
+        "id": "o3",
+        "ru": "Сансара",
+        "en": "Samsara"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_vipassana",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает практику прозрения в природу явлений?",
+        "explanation": "Термин часто противопоставляют успокоению ума — саматхе."
+      },
+      "en": {
+        "question": "Which Buddhist term means the practice of insight into the nature of phenomena?",
+        "explanation": "The term is often contrasted with calm, or samatha."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Випассана",
+        "en": "Vipassana"
+      },
+      {
+        "id": "o1",
+        "ru": "Метта",
+        "en": "Metta"
+      },
+      {
+        "id": "o2",
+        "ru": "Джхана",
+        "en": "Jhana"
+      },
+      {
+        "id": "o3",
+        "ru": "Дана",
+        "en": "Dana"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_dana",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает щедрость и дарение без ожидания вознаграждения?",
+        "explanation": "В традиционной практике это может быть подношение пищи или других необходимых вещей монашеской общине."
+      },
+      "en": {
+        "question": "Which Buddhist term means generosity and giving without expecting repayment?",
+        "explanation": "Traditional practice can include offering food or other requisites to the monastic community."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дана",
+        "en": "Dana"
+      },
+      {
+        "id": "o1",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      },
+      {
+        "id": "o2",
+        "ru": "Танха",
+        "en": "Tanha"
+      },
+      {
+        "id": "o3",
+        "ru": "Аничча",
+        "en": "Anicca"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_sati",
+    "categoryId": "buddhism",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает памятование или осознанное присутствие?",
+        "explanation": "Термин входит в название одного из факторов восьмеричного пути."
+      },
+      "en": {
+        "question": "Which Buddhist term means mindfulness or attentive recollection?",
+        "explanation": "The term appears in one factor of the Eightfold Path."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сати",
+        "en": "Sati"
+      },
+      {
+        "id": "o1",
+        "ru": "Танха",
+        "en": "Tanha"
+      },
+      {
+        "id": "o2",
+        "ru": "Дуккха",
+        "en": "Dukkha"
+      },
+      {
+        "id": "o3",
+        "ru": "Аничча",
+        "en": "Anicca"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-sati/index.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_paticca",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой буддийский термин обозначает зависимое возникновение явлений?",
+        "explanation": "Палийское название — paticca-samuppada."
+      },
+      "en": {
+        "question": "Which Buddhist term means the dependent arising of phenomena?",
+        "explanation": "The Pali name is paticca-samuppada."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пратитья-самутпада",
+        "en": "Dependent origination"
+      },
+      {
+        "id": "o1",
+        "ru": "Пання",
+        "en": "Pañña"
+      },
+      {
+        "id": "o2",
+        "ru": "Сутта",
+        "en": "Sutta"
+      },
+      {
+        "id": "o3",
+        "ru": "Самадхи",
+        "en": "Samadhi"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "buddhism_m50_kalyanamitta",
+    "categoryId": "buddhism",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в палийской буддийской терминологии называют духовного друга или наставника в Дхамме?",
+        "explanation": "Такой человек помогает другому в изучении и практике учения."
+      },
+      "en": {
+        "question": "In Pali Buddhist terminology, what is an admirable friend or mentor in Dhamma called?",
+        "explanation": "Such a person helps another study and practise the teaching."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кальянамитта",
+        "en": "Kalyanamitta"
+      },
+      {
+        "id": "o1",
+        "ru": "Трипитака",
+        "en": "Tipitaka"
+      },
+      {
+        "id": "o2",
+        "ru": "Мудита",
+        "en": "Mudita"
+      },
+      {
+        "id": "o3",
+        "ru": "Аничча",
+        "en": "Anicca"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.accesstoinsight.org/glossary.html"
+    ],
+    "image": null
   }
 ]

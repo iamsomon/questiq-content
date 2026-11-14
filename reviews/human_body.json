@@ -188,5 +188,725 @@
       }
     ],
     "reviewNotes": "NIDDK explicitly names nephron as kidney filtering unit including glomerulus and tubule returning needed substances. Neuron, alveolus and osteon are structural units of other tissues. Both locales ask a unit, not the whole kidney or a single glomerulus."
+  },
+  {
+    "id": "human_body_m50_aorta",
+    "status": "approved",
+    "sha256": "5d534d90eadd1f69de6550121d466db0c8757567731b87e446d270e5a95a465d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways",
+        "location": "20.5 Circulatory Pathways, aorta",
+        "claim": "Which vessel carries blood directly from the left ventricle into systemic circulation? Answer: Aorta. It is the body's largest artery."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_vena_cava",
+    "status": "approved",
+    "sha256": "83c45f23e2a7883a8e1fee8caec81c4fbd43348095cf3d570b5f792ac0ccf1a4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways",
+        "location": "20.5 Circulatory Pathways",
+        "claim": "Which vessel returns blood from the lower body to the right atrium? Answer: Inferior vena cava. It is a vein of the systemic circulation."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_pulmonary_trunk",
+    "status": "approved",
+    "sha256": "c34e21364778fee81aee7fff9150fc3751fc041d13db5974c74a75e20c6581a7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways",
+        "location": "20.5 Pulmonary Circulation",
+        "claim": "Which vessel exits directly from the heart’s right ventricle? Answer: Pulmonary trunk. It then divides into the right and left pulmonary arteries."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_diaphragm",
+    "status": "approved",
+    "sha256": "04aab95baa9ed6c500e544fde04e5c43768e4d324b534796fab7792f448074e9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+        "location": "22.3 Process of Breathing",
+        "claim": "Which muscle contracts to increase chest-cavity volume during inhalation? Answer: Diaphragm. It separates the thoracic and abdominal cavities."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_epiglottis",
+    "status": "approved",
+    "sha256": "b301a5950d3c2a159c83560279e22f84156819ce607a1580ff82ef4003cdc25c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system",
+        "location": "22.1 Organs and Structures",
+        "claim": "Which cartilage helps cover the laryngeal opening during swallowing? Answer: Epiglottis. This cartilage helps direct food towards the oesophagus."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_trachea",
+    "status": "approved",
+    "sha256": "471e69e506892cb7413021cbda55a22ac1aece6ea7c04d56025e059519e07385",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system",
+        "location": "22.1 Trachea",
+        "claim": "Which organ carries air from the larynx to the main bronchi? Answer: Trachea. C-shaped cartilage rings help keep its lumen open."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_esophagus",
+    "status": "approved",
+    "sha256": "86c4aa56980b1c8ad646ce5023620733ee55b1006445ab4089423170093b6625",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-3-the-mouth-pharynx-and-esophagus",
+        "location": "23.3 Mouth, Pharynx, and Esophagus",
+        "claim": "Which organ moves food from the pharynx to the stomach? Answer: Oesophagus. Waves of contraction called peristalsis move food along it."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_stomach",
+    "status": "approved",
+    "sha256": "8d572085a2dc19ac02679e0070c7be0570842aa3ced843e0323ffe032ac0d0b0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach",
+        "location": "23.4 Stomach",
+        "claim": "Which organ secretes hydrochloric acid during digestion? Answer: Stomach. The acidic environment helps the enzyme pepsin work."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_pancreas",
+    "status": "approved",
+    "sha256": "29db158002a68eb6ffc166d00d2bb9662c50f5b1d6272cb120d765583b74c597",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+        "location": "23.6 Accessory Organs",
+        "claim": "Which gland produces insulin and digestive enzymes? Answer: Pancreas. This organ has both endocrine and exocrine functions."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_gallbladder",
+    "status": "approved",
+    "sha256": "5b2ef8be3a52001289912ecb73367ee5ffc6b95c7b3567e35d8a201149bd216f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
+        "location": "23.6 Gallbladder",
+        "claim": "Which organ stores and concentrates bile before its release into the intestine? Answer: Gallbladder. Bile itself is produced in the liver."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_colon",
+    "status": "approved",
+    "sha256": "835aab6b20c11836cebfc0a0915fb69df323c33f58bd636e5116865429902022",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines",
+        "location": "23.5 Small and Large Intestines",
+        "claim": "Which part of the intestine absorbs remaining water and helps form faeces? Answer: Large intestine. It follows the small intestine in the digestive tract."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_villi",
+    "status": "approved",
+    "sha256": "cd48adfafc5a0c5dba39b744a545573651f439ed0e57e0a7c2cfcc5c6491698b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines",
+        "location": "23.5 Small intestine histology",
+        "claim": "Which mucosal projection increases the absorptive surface of the small intestine? Answer: Intestinal villus. Villi contain blood and lymphatic vessels."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_ureter",
+    "status": "approved",
+    "sha256": "e61f0da53d80368c95023d42efdd103d8f94e6132d7ad4434c42b994596ce2cc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport",
+        "location": "25.2 Ureters and Urethra",
+        "claim": "Which tube carries urine from a kidney to the bladder? Answer: Ureter. Each kidney normally has its own ureter."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_urethra",
+    "status": "approved",
+    "sha256": "d187ca0677b6728b45ad5802a4c5e7f58a4df06b67f293c7f3c7cc9625d2c6f8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport",
+        "location": "25.2 Ureters and Urethra",
+        "claim": "Which tube carries urine from the bladder to outside the body? Answer: Urethra. It differs from the ureter, which connects a kidney to the bladder."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_cerebellum",
+    "status": "approved",
+    "sha256": "575876926292088f718cfc48ccbeed78550e7f00f7f0d6fa56685b41d10882ed",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+        "location": "13.2 Central Nervous System",
+        "claim": "Which brain region helps coordinate movements and maintain balance? Answer: Cerebellum. It lies behind the brainstem."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_medulla",
+    "status": "approved",
+    "sha256": "fc4750e739c4c7ace5f287b0b240bcdd87b069fd4e76f23a79b589ab17225420",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+        "location": "13.2 Brainstem",
+        "claim": "Which lowest part of the brainstem contains important centres for breathing and heart activity? Answer: Medulla oblongata. It connects higher brain regions with the spinal cord."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_spinal_cord",
+    "status": "approved",
+    "sha256": "3370889a1b7f815acddd88f3486c7db99f5ea4fdb5aea463521cdeaecad9ce26",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system",
+        "location": "13.2 Spinal cord",
+        "claim": "Which part of the central nervous system carries signals between the brain and body and participates in reflexes? Answer: Spinal cord. It is protected by the vertebrae."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_axon",
+    "status": "approved",
+    "sha256": "f8b990eec49a0b3511fd6aa709e6499340efeb44101f667ad8ae91debcd9a217",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue",
+        "location": "12.2 Nervous Tissue",
+        "claim": "Which neuronal process conducts a nerve impulse away from a neuron's cell body towards other cells? Answer: Axon. Its terminals can transmit signals through synapses."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_dendrite",
+    "status": "approved",
+    "sha256": "36dcf4fb99719d81ca7ae5f6b52433c6d29ab95627fa98a91b23e9b8cf1f52cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue",
+        "location": "12.2 Nervous Tissue",
+        "claim": "Which neuronal process usually receives signals and carries them towards a neuron's cell body? Answer: Dendrite. Branching increases the number of possible contacts."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_myelin",
+    "status": "approved",
+    "sha256": "1f5b6a04538e3a40c4ac841651d94180c8dfa40623594753dd7c943b680a1a9e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue",
+        "location": "12.2 Myelination",
+        "claim": "Which substance forms an insulating sheath around many axons? Answer: Myelin. This sheath helps speed nerve-impulse conduction."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_retina",
+    "status": "approved",
+    "sha256": "7f7106ec0979bf2809bdb7a11b323a651ca790933c69a6a69dbb8a2b5fbd97de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+        "location": "14.1 Sensory Perception",
+        "claim": "Which layer of the eye contains photoreceptors that convert light into neural signals? Answer: Retina. Rods and cones have different roles in detecting light."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_lens",
+    "status": "approved",
+    "sha256": "38811457fc9468d248a8f76786ef5caeb9f2420527f6f7779b6c7432d7a575bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+        "location": "14.1 Vision",
+        "claim": "Which part of the eye changes shape to focus an image on the retina? Answer: Lens. This focusing process is called accommodation."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_cornea",
+    "status": "approved",
+    "sha256": "c262be745c41765ac080197200c828d3f101c782bff86e7c4848cd119ddd71c1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+        "location": "14.1 Vision",
+        "claim": "Which part of the eye forms the transparent front part of the eye's outer coat? Answer: Cornea. It strongly refracts light entering the eye."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_eardrum",
+    "status": "approved",
+    "sha256": "3456defbc3508a9bc81649f1895003e738be94d9b1bf167a821b8edc0e0a40fe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+        "location": "14.1 Audition",
+        "claim": "Which membrane vibrates in response to sound and passes vibrations to the auditory ossicles? Answer: Tympanic membrane. It separates the external ear from the middle ear."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_stapes",
+    "status": "approved",
+    "sha256": "cdd252aa8cfcc122692489c66ec35dcf01775eeff23dd00fd369e84e67c188f0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception",
+        "location": "14.1 Auditory ossicles",
+        "claim": "Which auditory ossicle links the incus to the inner ear? Answer: Stapes. Its name refers to its stirrup-like shape."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_femur",
+    "status": "approved",
+    "sha256": "08dba89a6aebd74f324744d72639dfd5830417afb9fa977dbc389a036247f5bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb",
+        "location": "8.4 Bones of the Lower Limb",
+        "claim": "Which bone in the human body is the longest? Answer: Femur. It extends between the hip and knee joints."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_patella",
+    "status": "approved",
+    "sha256": "4031f3efede679a65128ae805906b5751bed536089afad174a3fc476c45baa88",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb",
+        "location": "8.4 Patella",
+        "claim": "Which bone lies at the front of the knee joint? Answer: Patella. This sesamoid bone lies in the quadriceps tendon."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_sternum",
+    "status": "approved",
+    "sha256": "8a48d674c3f9f48524eb7c9f7e7e7414556e0da9272f664787d2ff06755fd418",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-4-the-thoracic-cage",
+        "location": "7.4 Sternum and Rib Classifications",
+        "claim": "Which bone provides the anterior attachment for most ribs through cartilage? Answer: Sternum. Together with ribs and thoracic vertebrae it forms the thoracic cage."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_scapula",
+    "status": "approved",
+    "sha256": "8e5d6c177ba256cb9434950a55a04fdfcaed77f6348bd6442593ca57d46bd8b1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle",
+        "location": "8.1 Pectoral Girdle",
+        "claim": "Which bone forms the posterior part of the shoulder girdle? Answer: Scapula. It is a flat triangular bone."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_humerus",
+    "status": "approved",
+    "sha256": "7b2c2f159b43280ce3dc0599296e3c075612acf3a32b6658df00a70323033476",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb",
+        "location": "8.2 Bones of the Upper Limb",
+        "claim": "Which bone lies between the shoulder and elbow joints? Answer: Humerus. The forearm instead contains two bones, the radius and ulna."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_tendon",
+    "status": "approved",
+    "sha256": "dd12dfb38bf9c2ee2af379896b2a68216f65ba46a4c62e0e6dea0b2d152f9587",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle",
+        "location": "10.2 Skeletal Muscle",
+        "claim": "Which type of connective tissue usually connects muscle to bone? Answer: Tendon. It transmits the force of a contracting muscle."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_ligament",
+    "status": "approved",
+    "sha256": "c5d813225525c6375566b13cb89fa2a40fda83aae932319eb627d9e64fb29381",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints",
+        "location": "9.4 Synovial Joints",
+        "claim": "Which type of connective tissue usually connects bones to one another at a joint? Answer: Ligament. Ligaments help stabilise a joint."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_cartilage",
+    "status": "approved",
+    "sha256": "ae37a716da951e138a20890f092620c5f386ca659312fc2125161ed0c6ab0184",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints",
+        "location": "9.4 Synovial Joints",
+        "claim": "Which tissue covers articulating bone surfaces and reduces friction? Answer: Articular cartilage. Its smooth surface makes joint movement easier."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_epidermis",
+    "status": "approved",
+    "sha256": "efee64166c92d205b9a4cd5cbe327734f8c2b8e550de712bf07cfdb885d398bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+        "location": "5.1 Layers of the Skin",
+        "claim": "What is the outer layer of skin called? Answer: Epidermis. Its cells are continually renewed as they move towards the surface."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_dermis",
+    "status": "approved",
+    "sha256": "facd342487727699a74c69f6c1d8708d7ad424c73a07158f6ab2e4a50cf90cfb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin",
+        "location": "5.1 Layers of the Skin",
+        "claim": "What is the skin layer beneath the epidermis containing vessels, nerves and glands called? Answer: Dermis. This layer consists mainly of connective tissue."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_thyroid",
+    "status": "approved",
+    "sha256": "759876d447d8626c1f5f205948bf3581984b6f0a4d3ff064cad7718955f8b59c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland",
+        "location": "17.4 Thyroid Gland",
+        "claim": "Which gland lies in the neck and produces thyroid hormones? Answer: Thyroid gland. These hormones help regulate metabolism."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_adrenal",
+    "status": "approved",
+    "sha256": "30134f5e3ab029c34c409b845a7dc5e7fa7064d5bbc32e1d463c94047ab1f275",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands",
+        "location": "17.6 Adrenal Glands",
+        "claim": "Which gland lies above a kidney and includes a cortex and medulla? Answer: Adrenal gland. Its medulla secretes epinephrine, among other substances."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_pituitary",
+    "status": "approved",
+    "sha256": "b7709e12b583d1a0ae2dcd0409e05ff47c5ce53fb41479f2639eb143915087b1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus",
+        "location": "17.3 Pituitary Gland",
+        "claim": "Which gland is connected to the hypothalamus and regulates several endocrine glands? Answer: Pituitary gland. Its anterior and posterior lobes differ in structure and function."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_spleen",
+    "status": "approved",
+    "sha256": "502e96f366ffaa32a7043835d926a2943d31058ea17bd4b9f82281e8d1161bcf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems",
+        "location": "21.1 Anatomy of the Lymphatic and Immune Systems",
+        "claim": "Which organ filters blood and removes ageing red blood cells? Answer: Spleen. It also contributes to immune defence."
+      }
+    ]
+  },
+  {
+    "id": "human_body_m50_thymus",
+    "status": "approved",
+    "sha256": "6edb77748753059caa8a25b0ca7dff24a97ff2c3ac0eb238d3dfd0d5a09f060a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax Anatomy and Physiology 2e: actual chapters for each structure. Checked pathways, nerves, sensory organs, bones, tissues, endocrine and immune organs. Corrected pulmonary trunk vs arteries and supplied comparable anatomical alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems",
+        "location": "21.1 Thymus",
+        "claim": "Which organ is a site where T lymphocytes mature? Answer: Thymus. This organ is particularly active in childhood."
+      }
+    ]
   }
 ]

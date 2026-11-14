@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 2020,
+  "approvedQuestions": 2220,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 7980,
+  "remainingQuestions": 7780,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -296,59 +296,59 @@
     },
     {
       "id": "islam",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
       "id": "christianity",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
+        "easy": 22,
+        "medium": 24,
         "hard": 4
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
+        "easy": 58,
+        "medium": 56,
         "hard": 36
       }
     },
     {
       "id": "buddhism",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -657,21 +657,21 @@
     },
     {
       "id": "cinema",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -771,21 +771,21 @@
     },
     {
       "id": "food",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -847,21 +847,21 @@
     },
     {
       "id": "human_body",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
