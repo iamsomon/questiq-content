@@ -578,5 +578,365 @@
     ],
     "sourceRecordSha256": "a900fa04a561cb7f0bed90524c6cbf046c9a456bee213f9b148fe2282bb87242",
     "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "countries_m50_mexico",
+    "status": "approved",
+    "sha256": "ed266b07e4fde5fbc1390b79a9f7455a63389c2cd850d7888bfce6085bc287a5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Mexico",
+        "claim": "Which UN statistical subregion includes Mexico? Central America. In M49 this subregion is part of Latin America and the Caribbean."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_cuba",
+    "status": "approved",
+    "sha256": "941e06f2b9e3c1e899353d06503805b9e502fe61d8e32c1abcd2551fdbc0f04c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Cuba",
+        "claim": "Which UN statistical subregion includes Cuba? Caribbean. Jamaica belongs to the same UN subregion."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_chile",
+    "status": "approved",
+    "sha256": "0de0098539c3d35d152385ecb11d1df55ce8c9771d2dc3041b4b65e69f81131c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Chile",
+        "claim": "Which UN statistical subregion includes Chile? South America. The same group includes Peru and Argentina."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_argentina",
+    "status": "approved",
+    "sha256": "8cbb952cb929345f9c4e22bf1bec588adf28f1fd33283ef6d92ecd222934ba81",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Argentina",
+        "claim": "Which UN statistical subregion includes Argentina? South America. The UN places the country in the same American subregion as Uruguay."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_nigeria",
+    "status": "approved",
+    "sha256": "73bb1054d915d2dab0d51094643cb363b7f6f45935657e9e691556b9f460fb76",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Nigeria and Ghana",
+        "claim": "Which UN statistical subregion includes Nigeria? Western Africa. Ghana belongs to the same UN subregion."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_ghana",
+    "status": "approved",
+    "sha256": "b6fd1a8356a541cc95227d83c5cf40b473d0df33dae15a9c91a66c9e15699183",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Ghana and Senegal",
+        "claim": "Which UN statistical subregion includes Ghana? Western Africa. M49 also places Senegal in this subregion."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_cameroon",
+    "status": "approved",
+    "sha256": "3fc447513e39b5df23114b6506a96117365b0443fb79a71ae05690b139fd92ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Cameroon",
+        "claim": "Which UN statistical subregion includes Cameroon? Middle Africa. The M49 English name of this subregion is Middle Africa."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_angola",
+    "status": "approved",
+    "sha256": "6bc8f098e9a4fd9f02d991ea2cdf7e22b82b2b57a7f88d1364ed8fdfb86f97e2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Angola and DR Congo",
+        "claim": "Which UN statistical subregion includes Angola? Middle Africa. The UN also places the Democratic Republic of the Congo here."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_kenya",
+    "status": "approved",
+    "sha256": "3f71e5088f462487d3c170ffe4ed42331606d04742a4379b78bb9e180152b191",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Kenya and Tanzania",
+        "claim": "Which UN statistical subregion includes Kenya? Eastern Africa. Tanzania is in the same statistical grouping."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_ethiopia",
+    "status": "approved",
+    "sha256": "e215526e151d96fdd62a960b2a231ffb7f482740f0970c1c2e2093602b875e39",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Ethiopia; classification disclaimer",
+        "claim": "Which UN statistical subregion includes Ethiopia? Eastern Africa. The UN places Eritrea in the same subregion."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_botswana",
+    "status": "approved",
+    "sha256": "73f2ab28459b6af10a73bc02651c830d5957e3840708b224da622e1d0ebe2e8c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Botswana",
+        "claim": "Which UN statistical subregion includes Botswana? Southern Africa. Here Southern Africa names a subregion, not just the country South Africa."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_namibia",
+    "status": "approved",
+    "sha256": "00052a33daf2e267a7ebaa1077ff8ce1d9fa816d3235ea8ff5264b53964cacdc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Namibia, Lesotho, Eswatini",
+        "claim": "Which UN statistical subregion includes Namibia? Southern Africa. Lesotho and Eswatini also belong to this subregion."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_tunisia",
+    "status": "approved",
+    "sha256": "d35df3d54382c9b6ef997a90591f7daf145f59832d0c739bd724046777aaf1b6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Tunisia and Algeria",
+        "claim": "Which UN statistical subregion includes Tunisia? Northern Africa. The UN also places Algeria in this group."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_kazakhstan",
+    "status": "approved",
+    "sha256": "3b64741116e13b9e0f5cd606a667bd0b2b0960311444eedfa48833a67dee76b8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Kazakhstan",
+        "claim": "Which UN statistical subregion includes Kazakhstan? Central Asia. In UN statistics this subregion is part of Asia."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_tajikistan",
+    "status": "approved",
+    "sha256": "3f612173b74b510d88ef289d8a8a4f790699c22e3492674b3f5fbfe365002373",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Central Asia",
+        "claim": "Which UN statistical subregion includes Tajikistan? Central Asia. Kyrgyzstan, Uzbekistan and Turkmenistan are in the same group."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_mongolia",
+    "status": "approved",
+    "sha256": "930371795f7d072078343d4e004b5d87e413c802f16b2783c31597261c1af43a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Mongolia",
+        "claim": "Which UN statistical subregion includes Mongolia? Eastern Asia. The UN also places Japan and the Republic of Korea here."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_vietnam",
+    "status": "approved",
+    "sha256": "79e4e5dd8c1e5b47037ff3eb164f326c9d3e369d36006fbefdaf1523881a7210",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Viet Nam",
+        "claim": "Which UN statistical subregion includes Viet Nam? South-eastern Asia. Thailand and Cambodia are included in the same group."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_portugal",
+    "status": "approved",
+    "sha256": "72f2e6d8658eb7b8594ef4a33bf0ec2aa12984d43ddfc1d098c16bba7419180b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Portugal",
+        "claim": "Which UN statistical subregion includes Portugal? Southern Europe. The UN also places Spain and Italy here."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_sweden",
+    "status": "approved",
+    "sha256": "8850ae340c4334a974150996e997843407c0acd267886f276e809c912a40fd59",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Sweden",
+        "claim": "Which UN statistical subregion includes Sweden? Northern Europe. This statistical grouping also includes Finland and Denmark."
+      }
+    ]
+  },
+  {
+    "id": "countries_m50_vanuatu",
+    "status": "approved",
+    "sha256": "8d7883dab6896facbdb8adc00270c21f5eea8ae3f84d552252948626c408afdd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UN Statistics Division M49, Geographic Regions; verified country in the hierarchy and nearby regions used as choices",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "M49 table, Vanuatu",
+        "claim": "Which UN statistical subregion includes Vanuatu? Melanesia. Melanesia is a subregion of Oceania."
+      }
+    ]
   }
 ]

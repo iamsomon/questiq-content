@@ -178,5 +178,725 @@
         "claim": "What is the name of the probe robot WALL-E meets? Answer: EVE. She searches for evidence that Earth can support life again."
       }
     ]
+  },
+  {
+    "id": "cartoons_m50_cars0",
+    "status": "approved",
+    "sha256": "fa72981ffdb32fb8c8a540bc2bc10669b37d9c151ab23b93c71115e91b1bd1b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/cars",
+        "location": "Characters, Lightning McQueen",
+        "claim": "Which Cars character matches this clue: the race car and main character? Lightning McQueen. He starts the film as a rookie chasing the Piston Cup."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_cars1",
+    "status": "approved",
+    "sha256": "7f2c8e715b97763dadf2adca478f6a2e4087f51fc48c1a2e6155666cab4a1493",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/cars",
+        "location": "Characters, Mater",
+        "claim": "Which Cars character matches this clue: the tow truck and McQueen's friend? Mater. He lives in Radiator Springs."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_up0",
+    "status": "approved",
+    "sha256": "61eb5d89ffa718e156ab399a5e555eb0a95dc6560bb9074cf1a46f4b878d0499",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://movies.disney.com/up",
+        "location": "Characters, Carl Fredricksen",
+        "claim": "Which Up character matches this clue: the elderly owner of the balloon-lifted house? Carl Fredricksen. He used to sell balloons."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_up1",
+    "status": "approved",
+    "sha256": "18d1905d9c960a6fdbaa06a885dcff9dc95645365e792d5e66682a1287da99ef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://movies.disney.com/up",
+        "location": "Characters, Russell",
+        "claim": "Which Up character matches this clue: the young wilderness explorer aboard the flying house? Russell. The boy is caught on the porch when the house takes off."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_brave0",
+    "status": "approved",
+    "sha256": "eee059ebf911e201bcfbd4cd246fcc012241f77ab8dfa203a14a944b5127ef78",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/brave",
+        "location": "Characters, Merida",
+        "claim": "Which Brave character matches this clue: the princess skilled in archery? Merida. She inherited her love of archery from her father, King Fergus."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_brave1",
+    "status": "approved",
+    "sha256": "8a00cb1b780e601b4d7952a6f1a92f41283496006a661620eeacc12901ef80c9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/brave",
+        "location": "Characters, Elinor",
+        "claim": "Which Brave character matches this clue: the heroine's mother who is transformed into a bear? Elinor. Mother and daughter must work together to undo the spell."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_inside_out0",
+    "status": "approved",
+    "sha256": "711376b44217914bf38ef58f171d1abca0be3d26a04f823ed314ca0b3ff77e8e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/inside-out",
+        "location": "Characters, Riley",
+        "claim": "Which Inside Out character matches this clue: the girl whose emotions appear as characters? Riley. Her family’s move to San Francisco sets the story in motion."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_inside_out1",
+    "status": "approved",
+    "sha256": "1b49529bf6ad40f6fdc9739b39320a0a354ad9ebcb40275adcfcadfa75703f6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/inside-out",
+        "location": "Characters, Bing Bong",
+        "claim": "Which Inside Out character matches this clue: Riley's imaginary childhood friend? Bing Bong. He has features of both an elephant and a cat."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_coco0",
+    "status": "approved",
+    "sha256": "2d695561505daa292b5347d8a4543aa0fa08021d1ad7f75f83c488724e345268",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/coco",
+        "location": "Characters, Miguel",
+        "claim": "Which Coco character matches this clue: the boy who dreams of becoming a musician? Miguel. His family’s ban on music forces him to play in secret."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_coco1",
+    "status": "approved",
+    "sha256": "7fd3e58475534bcb6adf543fcbb3d5ef0c3b55e1fc66b906e65a58cdf1d5b80e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/coco",
+        "location": "Characters, Dante",
+        "claim": "Which Coco character matches this clue: the dog accompanying the main character? Dante. He is a Mexican Xoloitzcuintli."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_soul0",
+    "status": "approved",
+    "sha256": "65709d78b1da744f115b17de9dbd59cee28283dccc5c61630c0c46f49fdf344a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/soul",
+        "location": "Characters, Joe Gardner",
+        "claim": "Which Soul character matches this clue: the music teacher who dreams of playing jazz? Joe Gardner. He aspires to become a professional jazz pianist."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_soul1",
+    "status": "approved",
+    "sha256": "f828caad9de6fd5d2b5233181c6b06205b41a5b365c5ffe9e7b49cf3a4c95472",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/soul",
+        "location": "Characters, 22",
+        "claim": "Which Soul character matches this clue: the soul reluctant to go to Earth? 22. She has spent hundreds of years among souls preparing for life."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_luca0",
+    "status": "approved",
+    "sha256": "61e3b9f2d15fd3a450e925bbc249609fd6195e281c9c2409ba0eb5e33335c7d3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/luca",
+        "location": "Characters, Luca Paguro",
+        "claim": "Which Luca character matches this clue: the thirteen-year-old sea creature who herds fish on an underwater farm? Luca Paguro. He is especially curious about the world above the sea."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_luca1",
+    "status": "approved",
+    "sha256": "0d6db2abec1521e21e47a18924e320a5d194b556905e83868f5bc2c2dbb68d6b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/luca",
+        "location": "Characters, Alberto Scorfano",
+        "claim": "Which Luca character matches this clue: Luca’s friend who introduces him to life above the water? Alberto Scorfano. Like Luca, he keeps his underwater life a secret from humans."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_turning_red0",
+    "status": "approved",
+    "sha256": "a7e65d3b45eab0bfb81cc34fec7839d1d21987ced4856ba3ddd13620eb0994f2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/turning-red",
+        "location": "Characters, Mei Lee",
+        "claim": "Which Turning Red character matches this clue: the girl who turns into a giant red panda? Mei Lee. The change happens when she becomes too excited."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_turning_red1",
+    "status": "approved",
+    "sha256": "c05af47687c598ae760badb1f39ab49d1ad9d9e2753a9775ff7c9a0ac24c231b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/turning-red",
+        "location": "Characters, Ming",
+        "claim": "Which Turning Red character matches this clue: Mei's strict mother? Ming. She looks after the family temple in Toronto."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_elemental0",
+    "status": "approved",
+    "sha256": "f47d8a6773c4f4dcee49fdaae313c9bc5ecc1735b344f8ed669fb23108bb5f26",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/elemental",
+        "location": "Characters, Ember",
+        "claim": "Which Elemental character matches this clue: the heroine associated with fire? Ember. She grew up in a family that emigrated from Fire Land."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_elemental1",
+    "status": "approved",
+    "sha256": "7164ce8f652fe37c42fc30c1e291cce4f574593ab2d0aecd1d2b1f4011bac40d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/elemental",
+        "location": "Characters, Wade",
+        "claim": "Which Elemental character matches this clue: the character associated with water? Wade. Meeting him helps Ember see the city she grew up in differently."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_onward0",
+    "status": "approved",
+    "sha256": "5fc8e4110b3c8653bd37609816f0189319503ff2b02a2cac492147d430156528",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/onward",
+        "location": "Characters, Ian Lightfoot",
+        "claim": "Which Onward character matches this clue: the younger of the two elf brothers? Ian Lightfoot. He longs to meet the father who died before he was born."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_onward1",
+    "status": "approved",
+    "sha256": "434f75b07f7150fb864834efc81da61b875edd4af7ea3d3a0180390d18139e25",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/onward",
+        "location": "Characters, Barley Lightfoot",
+        "claim": "Which Onward character matches this clue: the older brother fascinated by magical adventures? Barley Lightfoot. The older brother is an avid tabletop role-player."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_lightyear0",
+    "status": "approved",
+    "sha256": "b89b09ba306ba331733fe6ee9e979160032750a9375bc17746ae6b49af070597",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/lightyear",
+        "location": "Characters, Sox",
+        "claim": "Which Lightyear character matches this clue: the robot cat helping Buzz? Sox. Buzz receives him as a companion to help him adjust after his return."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_lightyear1",
+    "status": "approved",
+    "sha256": "433c5d8e5a71a83733d2f419d1668594d88dfa0f07ee5e8b6bb7a660cf1156bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/lightyear",
+        "location": "Characters, Izzy Hawthorne",
+        "claim": "Which Lightyear character matches this clue: the leader of the Junior Zap Patrol volunteers? Izzy Hawthorne. She dreams of following her grandmother into the Space Rangers."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_the_good_dinosaur0",
+    "status": "approved",
+    "sha256": "55b63b96727f4cc343f5b91259e43aa2814416990177bfb4df3bdcbe3eb3c263",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/the-good-dinosaur",
+        "location": "Characters, Arlo",
+        "claim": "Which The Good Dinosaur character matches this clue: the young Apatosaurus lost far from home? Arlo. He is the youngest of his siblings."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_the_good_dinosaur1",
+    "status": "approved",
+    "sha256": "63df1719556ef511895930ee8f86679201325ab2647fd58112300c149dfba1cd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/the-good-dinosaur",
+        "location": "Characters, Spot",
+        "claim": "Which The Good Dinosaur character matches this clue: the human boy accompanying the dinosaur? Spot. He has lived in the wild for a long time and communicates through growls and grunts."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_finding_dory0",
+    "status": "approved",
+    "sha256": "9bba744996d8ea50dae3002dbc05ce5c9e515244e36d46561bae665c562a3b82",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/finding-dory",
+        "location": "Characters, Hank",
+        "claim": "Which Finding Dory character matches this clue: the octopus helping Dory? Hank. He has seven of his original eight arms."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_finding_dory1",
+    "status": "approved",
+    "sha256": "f75f32d67fb09952627078ad7f92eadae32ac00ed23e4dcd64b80b414dc71d14",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/finding-dory",
+        "location": "Characters, Destiny",
+        "claim": "Which Finding Dory character matches this clue: the whale shark at the marine institute? Destiny. She has poor eyesight."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_monsters_university0",
+    "status": "approved",
+    "sha256": "bb61ae0e67fa65d665fcac1c6cbfb021afa3fa4731bd53729fec1e25dc7ca4c1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/monsters-university",
+        "location": "Characters, Mike Wazowski",
+        "claim": "Which Monsters University character matches this clue: the student who has dreamed of being a scarer since childhood? Mike Wazowski. His goal is to work at Monsters, Inc."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_monsters_university1",
+    "status": "approved",
+    "sha256": "834cd026ec6e8674148e626c80a720b198c641ba9ffa337e23ad96259832d06e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/monsters-university",
+        "location": "Characters, Dean Hardscrabble",
+        "claim": "Which Monsters University character matches this clue: the strict head of the School of Scaring? Dean Hardscrabble. She was a renowned scarer herself."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_a_bugs_life0",
+    "status": "approved",
+    "sha256": "2d08248e7ea2c5103aeaa9e6de879d925394968a5bc6b4eb7657c38495a91da6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/a-bugs-life",
+        "location": "Characters, Flik",
+        "claim": "Which A Bug's Life character matches this clue: the inventor ant and main character? Flik. He sets out to find help for his colony."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_a_bugs_life1",
+    "status": "approved",
+    "sha256": "db5422c871140d2f29992b550781eed0136172bb8a667e6ae459e6e91b01aa69",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/a-bugs-life",
+        "location": "Characters, Hopper",
+        "claim": "Which A Bug's Life character matches this clue: the leader of the grasshoppers oppressing the ants? Hopper. He demands food from the ant colony."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_the_incredibles0",
+    "status": "approved",
+    "sha256": "7438b9df364bd41fe6340066ac4121997c4807541adc1766d2815dbe8cc538cc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/the-incredibles",
+        "location": "Characters, Bob Parr",
+        "claim": "Which The Incredibles character matches this clue: the father known as Mr. Incredible? Bob Parr. After leaving superhero work, he works for an insurance company."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_the_incredibles1",
+    "status": "approved",
+    "sha256": "dc8dc405f1745d6d38a2ca110ca8703965a140a90c27835de74e9d1214bae927",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/the-incredibles",
+        "location": "Characters, Helen Parr",
+        "claim": "Which The Incredibles character matches this clue: the mother known as Elastigirl? Helen Parr. She can stretch her body to great lengths."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_toy_story_30",
+    "status": "approved",
+    "sha256": "5886a8f8d45db55f26a683cb1fcc50a7a99ea911a9359168db6c9ad9e55186e2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story-3",
+        "location": "Characters, Lotso",
+        "claim": "Which Toy Story 3 character matches this clue: the pink teddy bear at the daycare centre? Lotso. The teddy bear smells of strawberries."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_toy_story_31",
+    "status": "approved",
+    "sha256": "5a810964c22a3d779953d8e41e1e9857c0db853749870175813174d2b6794ab6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story-3",
+        "location": "Characters, Bonnie",
+        "claim": "Which Toy Story 3 character matches this clue: the four-year-old girl who attends Sunnyside Daycare? Bonnie. She invents stories for her toys."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_toy_story_40",
+    "status": "approved",
+    "sha256": "b010917c9cc4276727818100a2816d3862c0375ba43f28df660bfdee2d7b4d1d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story-4",
+        "location": "Characters, Forky",
+        "claim": "Which Toy Story 4 character matches this clue: the toy made from a disposable spork? Forky. Bonnie made the toy herself."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_toy_story_41",
+    "status": "approved",
+    "sha256": "0aad977680c1d4ff6f5806d08bd5b5cb7d02ece8590aafcb7d3f12b424283ac8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/toy-story-4",
+        "location": "Characters, Gabby Gabby",
+        "claim": "Which Toy Story 4 character matches this clue: the doll in the antique shop? Gabby Gabby. Her voice box has a manufacturing defect."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_inside_out_20",
+    "status": "approved",
+    "sha256": "09b89ff6ccb8ea546ee4e2475788d0f94308970bd1d8ed603c080d7878a27e41",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/inside-out-2",
+        "location": "Characters, Anxiety",
+        "claim": "Which Inside Out 2 character matches this clue: the emotion who tries to prepare Riley for every bad outcome? Anxiety. She arrives as Riley enters her teenage years."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_inside_out_21",
+    "status": "approved",
+    "sha256": "eda5ec6178dc0eb2ed9bf922df618e57fbe1066f961ad935d74f1ed7571f293f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/inside-out-2",
+        "location": "Characters, Envy",
+        "claim": "Which Inside Out 2 character matches this clue: the tiny emotion who wants whatever everyone else has? Envy. She has trouble looking away from things she admires."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_incredibles_20",
+    "status": "approved",
+    "sha256": "9883297c8e487f2225942606cbb761f773e9d9861db7763ef2efea5d3557f9ef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/incredibles-2",
+        "location": "Characters, Edna Mode",
+        "claim": "Which Incredibles 2 character matches this clue: the designer who insists on keeping capes off supersuits? Edna Mode. She designs supersuits and chooses the technology that goes into them."
+      }
+    ]
+  },
+  {
+    "id": "cartoons_m50_incredibles_21",
+    "status": "approved",
+    "sha256": "9e932126baad5ab15dbaef7cb2581f5fce501a759cdea40ba7217c52259d3975",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Pixar character profiles and Disney synopsis for Up; checked roles, names, clues, choices, and additional plot details",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.pixar.com/incredibles-2",
+        "location": "Characters, Lucius Best",
+        "claim": "Which Incredibles 2 character matches this clue: Bob’s friend who can make ice with a flick of a finger? Lucius Best. His superhero name is Frozone."
+      }
+    ]
   }
 ]

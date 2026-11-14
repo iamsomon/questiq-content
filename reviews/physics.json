@@ -538,5 +538,365 @@
         "claim": "Correct answer: 3 A. Ohm's law gives I = V/R: 18/6 = 3 A."
       }
     ]
+  },
+  {
+    "id": "physics_m50_power",
+    "status": "approved",
+    "sha256": "6fcad881e9442973753ac6c083a56399538468427e019ef3bad81d2adbee6dbc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, watt",
+        "claim": "Which SI unit measures power? Watt. One watt is one joule per second."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_charge",
+    "status": "approved",
+    "sha256": "cc5d2364e85e200ec7cca0abf702bec6317456093515ed2dea064c8a7bd0ab40",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, coulomb",
+        "claim": "Which SI unit measures electric charge? Coulomb. One coulomb passes in one second at a current of one ampere."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_voltage",
+    "status": "approved",
+    "sha256": "12beed8460ab62385809c407bd7372b33f89730336d59472e68a0c1aa0c1ad37",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, volt",
+        "claim": "Which SI unit measures electric potential difference? Volt. Potential difference relates energy to transferred charge."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_resistance",
+    "status": "approved",
+    "sha256": "96838273924534ad2be8af21a8582e2324e48da337dc0b28f09a88877aaba5c0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, ohm",
+        "claim": "Which SI unit measures electrical resistance? Ohm. One ohm is one volt divided by one ampere."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_conductance",
+    "status": "approved",
+    "sha256": "fbed97ed0150896f4b05ebf3302b5785aee7fe08613ea55fd6cc97c3aea4084b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, siemens",
+        "claim": "Which SI unit measures electrical conductance? Siemens. Conductance is the reciprocal of resistance."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_capacitance",
+    "status": "approved",
+    "sha256": "04ab6544c4883f590050c41d348c43f9ccebd6facf5d9e7c2f816126ca036b4d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, farad",
+        "claim": "Which SI unit measures electrical capacitance? Farad. Capacitance relates stored charge to potential difference."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_flux",
+    "status": "approved",
+    "sha256": "53a1b2aa8dba6f728f2a0016fe8f6f2dfe76922106dec308c505100593eb4d6a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, weber",
+        "claim": "Which SI unit measures magnetic flux? Weber. The derived unit equals a volt multiplied by a second."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_flux_density",
+    "status": "approved",
+    "sha256": "385d793700524861ff6b0182495f97cba2ddd3179d5c402f0aaa3704d6638364",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, tesla",
+        "claim": "Which SI unit measures magnetic flux density? Tesla. One tesla equals one weber per square metre."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_inductance",
+    "status": "approved",
+    "sha256": "bc5ed1a35f2cf54914b656378a254fc5dc03b5ba5580ab9287d93c846be84b7b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, henry",
+        "claim": "Which SI unit measures inductance? Henry. One henry equals one weber per ampere."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_activity",
+    "status": "approved",
+    "sha256": "dc3b610d8ef18a4054beb8dd09ec4a565d8dce31ffcb2cc73d4a812887a93a89",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, becquerel",
+        "claim": "Which SI unit measures the activity of a radioactive source? Becquerel. One becquerel represents one nuclear transformation per second."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_absorbed",
+    "status": "approved",
+    "sha256": "6d8cff12e252ae002c46ed59f6b7b4b799daa1d481ae67174602880943697c64",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, gray",
+        "claim": "Which SI unit measures absorbed dose of ionising radiation? Gray. One gray equals one joule of absorbed energy per kilogram."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_equivalent",
+    "status": "approved",
+    "sha256": "c4b3b53a360fe743f0b9010772d7dde7510d28afcaeac7ff8a41eccdc2c25d02",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, sievert",
+        "claim": "Which SI unit measures dose equivalent of ionising radiation? Sievert. This quantity accounts for radiation type when assessing its effect."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_angle",
+    "status": "approved",
+    "sha256": "4ace711e1f54a24d080cc0beff9eb849df3702317f6a07c12c823b7fc6827762",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, radian",
+        "claim": "Which SI unit measures plane angle? Radian. One radian subtends an arc equal in length to the circle's radius."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_solid_angle",
+    "status": "approved",
+    "sha256": "4ceb2d7682638c3ff859594ec553b42d4e9ff6dfe79f997524eeefc5e8eccf17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, steradian",
+        "claim": "Which SI unit measures solid angle? Steradian. Solid angle describes the angular size of a region in three dimensions."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_luminous_flux",
+    "status": "approved",
+    "sha256": "7a0bcfc7a16e5843f232a1dcecf62617d5ab3ade9edb96224063550f8b74ff04",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, lumen",
+        "claim": "Which SI unit measures luminous flux? Lumen. The lumen is related to the candela and steradian."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_illuminance",
+    "status": "approved",
+    "sha256": "8b98da5e7bd13331b157a8b0e60fcdf1c71061c382a581f6df120377f52b4738",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, lux",
+        "claim": "Which SI unit measures illuminance? Lux. One lux equals one lumen per square metre."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_catalysis",
+    "status": "approved",
+    "sha256": "a0a94e45c9482c210ba559b0aa57d54012cddab2d7e7bfb0a7598375a7e38628",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 3, katal",
+        "claim": "Which SI unit measures catalytic activity? Katal. A katal is expressed in moles per second."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_velocity",
+    "status": "approved",
+    "sha256": "b859f13447d5997c3826ea3c0346fb5c433ac86a05cedbaf30292b4f192c31ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 2, speed",
+        "claim": "Which SI unit measures translational speed? Metre per second. Multiply a speed in metres per second by 3.6 to get kilometres per hour."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_acceleration_unit",
+    "status": "approved",
+    "sha256": "96c57414386fd3c9aac165939cde00e79305ef4961b7f7019019d159d567a555",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 2, acceleration",
+        "claim": "Which SI unit measures acceleration? Metre per second squared. The unit describes a change in velocity per unit time."
+      }
+    ]
+  },
+  {
+    "id": "physics_m50_density",
+    "status": "approved",
+    "sha256": "7fbae63a9da8a6f8788ef05993a126f9a79c49bf3965f9e62f5c0e8cdf046ff0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NIST SP 811, Chapter 4, Tables 2 and 3; verified unit assignment and equivalent expression",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "location": "Table 2, mass density",
+        "claim": "Which SI unit measures mass density? Kilogram per cubic metre. Density is mass divided by occupied volume."
+      }
+    ]
   }
 ]

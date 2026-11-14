@@ -178,5 +178,725 @@
         "claim": "Which international organisation did Pierre de Coubertin found in 1894? Answer: International Olympic Committee. He connected sport with education and peaceful cooperation."
       }
     ]
+  },
+  {
+    "id": "olympics_m50_summer_1904",
+    "status": "approved",
+    "sha256": "3244b3daa830f9bde0e608cdde27d40f9dda3fafc676fb12b76a6cdc873d7b8c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1904 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1904 Summer Olympics? St. Louis. The host country was United States."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1928",
+    "status": "approved",
+    "sha256": "38674461fd3fa8c5d9825297575b89afa01b6c3755dfcaf0c775970322df4994",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1928 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1928 Summer Olympics? Amsterdam. The host country was Netherlands."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1936",
+    "status": "approved",
+    "sha256": "708f4c7dee86e07419947e45ae4002882103526989bdcadf1a09ecd1be2ee25c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1936 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1936 Summer Olympics? Berlin. The host country was Germany."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1952",
+    "status": "approved",
+    "sha256": "c1ee9215b34adb428f39ce714d5294a00de036a4e20e9a1d6a5c9950f0b2bee6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1952 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1952 Summer Olympics? Helsinki. The host country was Finland."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1968",
+    "status": "approved",
+    "sha256": "ceb7254e532ebf9ca1f8483c2455424c7820eca7f86685813678a77370bdc60e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1968 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1968 Summer Olympics? Mexico City. The host country was Mexico."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1976",
+    "status": "approved",
+    "sha256": "71eba77e009b8d7e4dabf6052c3b2f73fc3844c76480a0c2ac0a1b9c3a41c7d6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1976 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1976 Summer Olympics? Montreal. The host country was Canada."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1980",
+    "status": "approved",
+    "sha256": "122d7d78e307b5b6330e8d2bb03b92f1663aa3eb716005ef3647ed401ca15197",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1980 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1980 Summer Olympics? Moscow. The host country was Soviet Union."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1988",
+    "status": "approved",
+    "sha256": "2a2bb0f1aa9ffee2f57d37e02c8ef93d86feb9d85ab588cd5bdbb896b78342a5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1988 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1988 Summer Olympics? Seoul. The host country was Republic of Korea."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1992",
+    "status": "approved",
+    "sha256": "d828aa9a864c4849110919ba784afd0bdba74fc7066afadef2b3837fcf79b895",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1992 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1992 Summer Olympics? Barcelona. The host country was Spain."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_1996",
+    "status": "approved",
+    "sha256": "38a510291f361bdd2be89c3ecaabb4b8893ebbec4020b3d953a0eb6025843fcb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1996 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 1996 Summer Olympics? Atlanta. The host country was United States."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2000",
+    "status": "approved",
+    "sha256": "c3afc945243fa472a9d8f722c10a6949d87276c1de40b8800471280e3c63ef5f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "2000 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2000 Summer Olympics? Sydney. The host country was Australia."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2004",
+    "status": "approved",
+    "sha256": "2474e440b4c518b853cacd4f05e1e3014e846a784a5b6549612447c25f31a8be",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "2004 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2004 Summer Olympics? Athens. The host country was Greece."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2008",
+    "status": "approved",
+    "sha256": "4b50d929ea03dd3b91b4ecd9c2c7e865b7b112e16e44ef39a72374c54b0521d1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "2008 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2008 Summer Olympics? Beijing. The host country was China."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2012",
+    "status": "approved",
+    "sha256": "52d628a1b8840f2cbf3e591bd1dfcd3d8ab3f0b284af97a9c23f908bb99aea20",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "2012 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2012 Summer Olympics? London. The host country was United Kingdom."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2016",
+    "status": "approved",
+    "sha256": "7a228741a4bfebd92d5c756f52e74ef9eefc0109f89aea3210b8e05459e29ee3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "2016 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2016 Summer Olympics? Rio de Janeiro. The host country was Brazil."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_summer_2020",
+    "status": "approved",
+    "sha256": "fca17e8463161a8728549b06b2229367b5b9f21ad8bdf03a080cac4f71c8c68b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.olympics.com/ioc/news/tokyo-2020-five-years-on-a-legacy-in-use-across-the-city",
+        "location": "2020 Summer Olympic Games, host city and country",
+        "claim": "Which city hosted the 2020 Summer Olympics? Tokyo. Because of the pandemic the Games retained the 2020 name but took place in 2021."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1928",
+    "status": "approved",
+    "sha256": "486827ddeab33475a338f175516d0c7d9d7c72590b2fb2edb65d7202327e3aa0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1928 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1928 Winter Olympics? St. Moritz. The host country was Switzerland."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1952",
+    "status": "approved",
+    "sha256": "040eb768d1cb211ec47bf29363319fe936aa7bf88a9380b1192dce88e3e498f3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1952 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1952 Winter Olympics? Oslo. The host country was Norway."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1972",
+    "status": "approved",
+    "sha256": "4ca2e1cb2df528cd3a5fa2874fca088bbd895ff6a6d2c4cb78819e2be9a5dc4e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1972 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1972 Winter Olympics? Sapporo. The host country was Japan."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1984",
+    "status": "approved",
+    "sha256": "2b7cc11e5d7df37b7737c3be84df5ebd293fb28d09dfd246767598e1e6b42479",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1984 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1984 Winter Olympics? Sarajevo. The host country was Yugoslavia."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1988",
+    "status": "approved",
+    "sha256": "fd07e17ba021309be82780bbb0a9d4a64245b9f1769c4726b5b9f7f2340ea8ba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1988 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1988 Winter Olympics? Calgary. The host country was Canada."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_winter_1998",
+    "status": "approved",
+    "sha256": "b17f39f7acce448012dde3c5ff2e22f123380742cfec0de218ba382ab5b38c6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "1998 Winter Olympic Games, host city",
+        "claim": "Which city hosted the 1998 Winter Olympics? Nagano. The host country was Japan."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_motto",
+    "status": "approved",
+    "sha256": "f3068b9f3aa79799aa96148c3d02b746a787e4aec2ffc06cb7f050044c9790cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, The Olympic motto",
+        "claim": "Which word did the IOC add to the Olympic motto in 2021? Together. The addition highlights sport’s power to bring people together."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_composer",
+    "status": "approved",
+    "sha256": "bfda3018234f48f3fe0885f0d7d494ac951f42dfa76238b7267db265adc980db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, Music and the Olympic Anthem",
+        "claim": "Who composed the Olympic Anthem for the 1896 Games? Spyros Samaras. Greek poet Kostis Palamas wrote the words."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_open_declaration",
+    "status": "approved",
+    "sha256": "67b30c15fdb86cb9cb7b952019db9d00cee7a435d7a5043c3cdeb6306155c422",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, Opening ceremony, Order of events",
+        "claim": "Who formally declares the Olympic Games open under the ceremony protocol? The host country’s head of state. The IOC president and the organising committee president speak before the official opening."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_closing_parade",
+    "status": "approved",
+    "sha256": "1a8e66b6bdc3b322952d10258ea3aacc56194b0d2939300287ab72fb51011c2e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, Closing ceremony, Parade of Athletes",
+        "claim": "How do athletes march in the Olympic closing ceremony? Together, without separating into national teams. The shared entrance symbolises friendship among the athletes."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_antique_prize",
+    "status": "approved",
+    "sha256": "5a5781c8b17e77c62dddc9788a96e2999fc2e41962cd21422b8f2e56615f9456",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, The Olympic medals, ancient prizes",
+        "claim": "What did winners receive at the ancient Olympic Games? An olive wreath. The olive wreath was known as a kotinos."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_athens_medal",
+    "status": "approved",
+    "sha256": "60894c7ab2d7143659443f317623a2d19054fe820dad5909dea989333b15931f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, The Olympic medals, Athens 1896",
+        "claim": "What medal was awarded to a winner at Athens 1896? Silver. Bronze went to the runner-up, and there was no medal for third place."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_ancient_truce",
+    "status": "approved",
+    "sha256": "7896f9bd59b22343fe3013be4a1736341901f04122ef51ee239841e8fb14cdc6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, The history of the Olympic Truce",
+        "claim": "What was one purpose of the ancient Olympic Truce? To provide safe passage to and from the Games. The protection covered both competitors and spectators."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_village",
+    "status": "approved",
+    "sha256": "41d044c2ed43bb3add80f9fb16aab4601cdc228e24b72d9ffdb9fd9d10dc2578",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 03, The Olympic Village",
+        "claim": "Where do athletes from different countries live and relax during the Games? In the Olympic Village. The village has shared dining and recreation spaces."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_art_contests",
+    "status": "approved",
+    "sha256": "152a9b64004439acd6030f2cdf8086e33271276203c4d2e043465211c135feeb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, Music and the Olympic Anthem, art competitions",
+        "claim": "Which of these disciplines earned medals in the Olympic art competitions from 1912 to 1948? Architecture. The other disciplines included painting, sculpture, literature and music."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_chariots",
+    "status": "approved",
+    "sha256": "91dbba84b4cf101640350c88ddad2eff7dea59e6bcb9b4cdf13aefe0585cd24e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf",
+        "location": "Section 02, Music and the Olympic Anthem, London 2012",
+        "claim": "Which film’s music featured in Rowan Atkinson’s sketch at the London 2012 opening ceremony? Chariots of Fire. The London Symphony Orchestra played the theme under Simon Rattle."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_phelps_total",
+    "status": "approved",
+    "sha256": "6e5aac367c84aed9168836a1d6709d6fa35502a6ab4d5fdefef574a9d57eadc5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, medal and gold medal totals, Michael Phelps",
+        "claim": "How many Olympic medals did Michael Phelps win from 2004 to 2016? 28. Twenty-three of his medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_nurmi_sport",
+    "status": "approved",
+    "sha256": "c66dadbc3b2d62a704ef0503d19c522a7cb503cec3a5c1d4f9f16e999018f96d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, medal and gold medal totals, Paavo Nurmi",
+        "claim": "In which sport did Paavo Nurmi win nine Olympic gold medals? Athletics. He collected 12 Olympic medals in all from 1920 to 1928."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_latynina_sport",
+    "status": "approved",
+    "sha256": "1fde13c805e1802d0ad7e4745303b3f6ce68e98de216f870ddeb59ae38baf77e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, medal and gold medal totals, Larisa Latynina",
+        "claim": "In which sport did Larisa Latynina win 18 Olympic medals? Artistic gymnastics. Half of her medals were gold."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_mangiarotti_sport",
+    "status": "approved",
+    "sha256": "0d40984e9579b1f2535355a4ba7c625c9ab39e3dc557955e7d75c80bec5b8ebd",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, Most medals won, Edoardo Mangiarotti",
+        "claim": "In which sport did Italy’s Edoardo Mangiarotti win 13 Olympic medals? Fencing. The IOC lists his medals over a span from 1936 to 1960."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_fischer_sport",
+    "status": "approved",
+    "sha256": "dd6e55128df9b1f03073e7ce4f15790d20a4913e346e7489be42513d839f661f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, Most medals won, Birgit Fischer-Schmidt",
+        "claim": "In which sport did Birgit Fischer earn 12 Olympic medals? Canoe sprint. Her first and last Olympic medals were 24 years apart."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_torres_total",
+    "status": "approved",
+    "sha256": "73c44c7deaed432ecdcbeab8c392c093023dde7901cdc838c9368b80d9e1ddfe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 1, Most medals won, Dara Torres",
+        "claim": "How many Olympic medals did swimmer Dara Torres win from 1984 to 2008? 12. Her Olympic medal-winning career spanned 24 years."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_felix_gold",
+    "status": "approved",
+    "sha256": "0d89514800d5ee431bc881719ad4cdeef3054d64c6d9b25e1b9eae2e1e52bdce",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Pages 1–2, medals by athlete, Allyson Felix",
+        "claim": "How many Olympic gold medals did Allyson Felix win across the 2004 to 2020 editions? 7. She won 11 medals of all colours across those editions."
+      }
+    ]
+  },
+  {
+    "id": "olympics_m50_taurasi_sport",
+    "status": "approved",
+    "sha256": "345faa376f86d4058fed545088f31d4d20ae3554b636178c88f77fb71e7ba164",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IOC OVEP historical host tables and sections on ceremonies, plus the IOC medals factsheet and the Tokyo 2020 retrospective",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Factsheets/Records-of-medals-at-the-Games-of-the-Olympiad.pdf",
+        "location": "Page 2, Most gold medals won, Diana Taurasi",
+        "claim": "In which sport did Diana Taurasi win six Olympic gold medals? Basketball. Her gold medals span six Games from 2004 to 2024."
+      }
+    ]
   }
 ]

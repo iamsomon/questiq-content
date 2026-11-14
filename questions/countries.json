@@ -1318,5 +1318,885 @@
       "https://whc.unesco.org/en/list/125/"
     ],
     "image": null
+  },
+  {
+    "id": "countries_m50_mexico",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Мексика?",
+        "explanation": "В схеме M49 этот субрегион входит в Латинскую Америку и Карибский бассейн."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Mexico?",
+        "explanation": "In M49 this subregion is part of Latin America and the Caribbean."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o1",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      },
+      {
+        "id": "o2",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_cuba",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Куба?",
+        "explanation": "К этому же субрегиону относится Ямайка."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Cuba?",
+        "explanation": "Jamaica belongs to the same UN subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o2",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_chile",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Чили?",
+        "explanation": "В той же группе находятся Перу и Аргентина."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Chile?",
+        "explanation": "The same group includes Peru and Argentina."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o2",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_argentina",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Аргентина?",
+        "explanation": "В группировке ООН страна находится в той же части Америки, что и Уругвай."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Argentina?",
+        "explanation": "The UN places the country in the same American subregion as Uruguay."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Америка",
+        "en": "South America"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Америка",
+        "en": "Central America"
+      },
+      {
+        "id": "o2",
+        "ru": "Карибский бассейн",
+        "en": "Caribbean"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Америка",
+        "en": "Northern America"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_nigeria",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Нигерия?",
+        "explanation": "В том же субрегионе ООН находится Гана."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Nigeria?",
+        "explanation": "Ghana belongs to the same UN subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Африка",
+        "en": "Northern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_ghana",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Гана?",
+        "explanation": "Схема M49 объединяет здесь и Сенегал."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Ghana?",
+        "explanation": "M49 also places Senegal in this subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_cameroon",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Камерун?",
+        "explanation": "В M49 этот субрегион называется Middle Africa."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Cameroon?",
+        "explanation": "The M49 English name of this subregion is Middle Africa."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_angola",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Ангола?",
+        "explanation": "ООН относит сюда и Демократическую Республику Конго."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Angola?",
+        "explanation": "The UN also places the Democratic Republic of the Congo here."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_kenya",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Кения?",
+        "explanation": "В той же статистической группе находится Танзания."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Kenya?",
+        "explanation": "Tanzania is in the same statistical grouping."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_ethiopia",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Эфиопия?",
+        "explanation": "В том же субрегионе ООН учитывает Эритрею."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Ethiopia?",
+        "explanation": "The UN places Eritrea in the same subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Северная Африка",
+        "en": "Northern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_botswana",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Ботсвана?",
+        "explanation": "Здесь «Южная Африка» — название субрегиона, а не только государства ЮАР."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Botswana?",
+        "explanation": "Here Southern Africa names a subregion, not just the country South Africa."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_namibia",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Намибия?",
+        "explanation": "В этом субрегионе также находятся Лесото и Эсватини."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Namibia?",
+        "explanation": "Lesotho and Eswatini also belong to this subregion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Африка",
+        "en": "Southern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_tunisia",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Тунис?",
+        "explanation": "ООН помещает в эту группу и Алжир."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Tunisia?",
+        "explanation": "The UN also places Algeria in this group."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная Африка",
+        "en": "Northern Africa"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Африка",
+        "en": "Western Africa"
+      },
+      {
+        "id": "o2",
+        "ru": "Центральная Африка",
+        "en": "Middle Africa"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Африка",
+        "en": "Eastern Africa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_kazakhstan",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Казахстан?",
+        "explanation": "В статистике ООН этот субрегион входит в Азию."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Kazakhstan?",
+        "explanation": "In UN statistics this subregion is part of Asia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Азия",
+        "en": "Western Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_tajikistan",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Таджикистан?",
+        "explanation": "В одной группе с ним находятся Кыргызстан, Узбекистан и Туркменистан."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Tajikistan?",
+        "explanation": "Kyrgyzstan, Uzbekistan and Turkmenistan are in the same group."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Азия",
+        "en": "Western Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_mongolia",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Монголия?",
+        "explanation": "В классификации ООН здесь также находятся Япония и Республика Корея."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Mongolia?",
+        "explanation": "The UN also places Japan and the Republic of Korea here."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Юго-Восточная Азия",
+        "en": "South-eastern Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_vietnam",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Вьетнам?",
+        "explanation": "В ту же группу включены Таиланд и Камбоджа."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Viet Nam?",
+        "explanation": "Thailand and Cambodia are included in the same group."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Юго-Восточная Азия",
+        "en": "South-eastern Asia"
+      },
+      {
+        "id": "o1",
+        "ru": "Центральная Азия",
+        "en": "Central Asia"
+      },
+      {
+        "id": "o2",
+        "ru": "Восточная Азия",
+        "en": "Eastern Asia"
+      },
+      {
+        "id": "o3",
+        "ru": "Южная Азия",
+        "en": "Southern Asia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_portugal",
+    "categoryId": "countries",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Португалия?",
+        "explanation": "ООН относит сюда также Испанию и Италию."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Portugal?",
+        "explanation": "The UN also places Spain and Italy here."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Южная Европа",
+        "en": "Southern Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Европа",
+        "en": "Western Europe"
+      },
+      {
+        "id": "o2",
+        "ru": "Северная Европа",
+        "en": "Northern Europe"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Европа",
+        "en": "Eastern Europe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_sweden",
+    "categoryId": "countries",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Швеция?",
+        "explanation": "Это статистическая группировка, включающая также Финляндию и Данию."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Sweden?",
+        "explanation": "This statistical grouping also includes Finland and Denmark."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная Европа",
+        "en": "Northern Europe"
+      },
+      {
+        "id": "o1",
+        "ru": "Западная Европа",
+        "en": "Western Europe"
+      },
+      {
+        "id": "o2",
+        "ru": "Южная Европа",
+        "en": "Southern Europe"
+      },
+      {
+        "id": "o3",
+        "ru": "Восточная Европа",
+        "en": "Eastern Europe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
+  },
+  {
+    "id": "countries_m50_vanuatu",
+    "categoryId": "countries",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой статистический субрегион ООН входит Вануату?",
+        "explanation": "Меланезия — один из субрегионов Океании."
+      },
+      "en": {
+        "question": "Which UN statistical subregion includes Vanuatu?",
+        "explanation": "Melanesia is a subregion of Oceania."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Меланезия",
+        "en": "Melanesia"
+      },
+      {
+        "id": "o1",
+        "ru": "Микронезия",
+        "en": "Micronesia"
+      },
+      {
+        "id": "o2",
+        "ru": "Полинезия",
+        "en": "Polynesia"
+      },
+      {
+        "id": "o3",
+        "ru": "Австралия и Новая Зеландия",
+        "en": "Australia and New Zealand"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://unstats.un.org/unsd/methodology/m49/"
+    ],
+    "image": null
   }
 ]

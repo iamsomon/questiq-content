@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 1520,
+  "approvedQuestions": 1640,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 8480,
+  "remainingQuestions": 8360,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
     {
       "id": "physics",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -106,21 +106,21 @@
     },
     {
       "id": "countries",
-      "approved": 30,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 12,
-        "medium": 12,
-        "hard": 6
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 170,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 68,
-        "medium": 68,
-        "hard": 34
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -714,21 +714,21 @@
     },
     {
       "id": "olympics",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
-        "hard": 2
+        "easy": 10,
+        "medium": 34,
+        "hard": 6
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 70,
+        "medium": 46,
+        "hard": 34
       }
     },
     {
@@ -885,20 +885,20 @@
     },
     {
       "id": "cartoons",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "medium": 4,
+        "easy": 24,
+        "medium": 24,
         "hard": 2
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
+        "easy": 56,
+        "medium": 56,
         "hard": 38
       }
     },
