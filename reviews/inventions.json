@@ -358,5 +358,545 @@
         "claim": "Which technology is associated with Akira Yoshino’s 2019 Nobel Prize? Answer: Lithium-ion batteries. Yoshino shared the prize with John Goodenough and Stanley Whittingham."
       }
     ]
+  },
+  {
+    "id": "inventions_m50_mouse",
+    "status": "approved",
+    "sha256": "9058b36b7812458192a0870a4945bf03a512c82130d04f566b8a13edf28a35ed",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1968/",
+        "location": "Computer History Museum timeline 1968, entry on Computer mouse",
+        "claim": "Which pointing device did Douglas Engelbart demonstrate in 1968? Answer: Computer mouse. At the same demonstration, his team showed people editing documents together."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_floppy",
+    "status": "approved",
+    "sha256": "b9e13f0c5fb91e3409048967acea2e2da034018520efcf96ce45ceeeda242df5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.ibm.com/history/floppy-disk",
+        "location": "Project Minnow and IBM floppy disk drive history",
+        "claim": "What was the flexible magnetic medium for which IBM began selling drives in 1971? Answer: Floppy disk. Early IBM floppy disks were eight inches across."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_ramac",
+    "status": "approved",
+    "sha256": "8e98f84e765c8c90295872d5a7ed94564f6c80ebb7968bbcd4b4926476d66ef2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1956/",
+        "location": "Computer History Museum timeline 1956, entry on IBM 305 RAMAC",
+        "claim": "Which 1956 IBM system stored data on a stack of magnetic disks? Answer: IBM 305 RAMAC. The drive contained 50 magnetically coated metal platters."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_altair",
+    "status": "approved",
+    "sha256": "0600c3eb4ae168218ccf38fdf09937e612769b4086336cd3945196f4384c86de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1975/",
+        "location": "Computer History Museum timeline 1975, entry on Altair 8800",
+        "claim": "Which microcomputer kit appeared on the cover of Popular Electronics in January 1975? Answer: Altair 8800. Bill Gates and Paul Allen licensed their BASIC interpreter for it."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_intel",
+    "status": "approved",
+    "sha256": "ac21c17f5a1c20514718a57d9268baa58633bcc006cd9e6ee1b68e82c56718e3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1971/",
+        "location": "Computer History Museum timeline 1971, entry on Intel 4004",
+        "claim": "What was the name of Intel’s four-bit microprocessor introduced in 1971? Answer: Intel 4004. The chip was developed for the Japanese calculator maker Busicom."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_appleii",
+    "status": "approved",
+    "sha256": "6a82a863e6a2be9b7806c60f5465b57d103ad125a7e5b2649176d80f1f706ffe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1977/",
+        "location": "Computer History Museum timeline 1977, entry on Apple II",
+        "claim": "Which Apple computer from 1977 could display colour graphics on a television? Answer: Apple II. It shipped with a cassette containing Breakout."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_trs80",
+    "status": "approved",
+    "sha256": "0ad82f416c03e2a5c17965e96750b5b7f865d215515fefe3550e1e1c46d27024",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1977/",
+        "location": "Computer History Museum timeline 1977, entry on TRS-80",
+        "claim": "Which desktop computer did Tandy introduce through Radio Shack in 1977? Answer: TRS-80. It used a Z80 processor and included a built-in BASIC interpreter."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_pet",
+    "status": "approved",
+    "sha256": "2aa2db0d2d1263fc398d3421287f64fa441a2aba42b80abd83f02692557c5188",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1977/",
+        "location": "Computer History Museum timeline 1977, entry on Commodore PET",
+        "claim": "Which 1977 Commodore computer came with a built-in Datasette drive? Answer: Commodore PET. The Datasette stored digital data on a cassette as an audio signal."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_ibmpc",
+    "status": "approved",
+    "sha256": "69a17f707a00c909d0c787184b33d64327e9accc77d6b5e6fab68b85171a2f54",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1981/",
+        "location": "Computer History Museum timeline 1981, entry on IBM PC",
+        "claim": "By what name is IBM’s Model 5150, introduced in 1981, better known? Answer: IBM PC. It used an Intel 8088 processor. Compatible machines from other manufacturers became known as IBM PC clones."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_mac",
+    "status": "approved",
+    "sha256": "bc9275dcfcf8cdf65e386e0e584481bbdb907d2560581825823e113c3067a829",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1984/",
+        "location": "Computer History Museum timeline 1984, entry on Macintosh",
+        "claim": "Which computer did Apple introduce in 1984 with a graphical interface and a mouse? Answer: Macintosh. It came with MacPaint for drawing and MacWrite for word processing."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_xerox",
+    "status": "approved",
+    "sha256": "b2bd20f3184770e40a86123c16238084159d88df9c6dc690846e25fe4e12a297",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1974/",
+        "location": "Computer History Museum timeline 1974, entry on Xerox Alto",
+        "claim": "Which Xerox PARC research computer ran the Bravo word processor? Answer: Xerox Alto. Bravo showed documents on screen much as they would appear when printed."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_visicalc",
+    "status": "approved",
+    "sha256": "f60f6ca2c9b95bae8af66449f76a792aaa01a4458f77867f6449eecbd6ec6cd8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1979/",
+        "location": "Computer History Museum timeline 1979, entry on VisiCalc",
+        "claim": "Which spreadsheet program from 1979 was first developed for the Apple II? Answer: VisiCalc. The program automatically recalculated dependent cells when the inputs changed."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_eniac",
+    "status": "approved",
+    "sha256": "0d179be8e8b870a9e92fcfddda8ccfb7f6289b117a93b505bd7dadaec686715d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1946/",
+        "location": "Computer History Museum timeline 1946, entry on ENIAC",
+        "claim": "Which machine built by John Mauchly and Presper Eckert was unveiled in 1946? Answer: ENIAC. ENIAC was programmed with switches and cables connecting its panels."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_z3",
+    "status": "approved",
+    "sha256": "473239b12f6e00306306eb8d3efa54d2efdd8aa3322544470aada81611293974",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1941/",
+        "location": "Computer History Museum timeline 1941, entry on Z3",
+        "claim": "Which relay-based computer did Konrad Zuse complete in 1941? Answer: Z3. It performed binary floating-point calculations."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_univac",
+    "status": "approved",
+    "sha256": "dfd636dba843763a7e7ade8411e3d3309f8ae32d153dcc412271fdaeb0e5f731",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1951/",
+        "location": "Computer History Museum timeline 1951, entry on UNIVAC I",
+        "claim": "Which commercial computer was first delivered to the US Census Bureau in 1951? Answer: UNIVAC I. It was built by Mauchly and Eckert, the designers of ENIAC."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_atari_800",
+    "status": "approved",
+    "sha256": "b2801060c958f603851ddd6c874cbcc97b61cb1c0b5c7b923757292fb5adb61a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1979/",
+        "location": "Computer History Museum timeline 1979, entry on Atari 800",
+        "claim": "Which model did Atari introduce in 1979 primarily as a home computer? Answer: Atari 800. The other model, the Atari 400, was designed primarily for games."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_cray",
+    "status": "approved",
+    "sha256": "f3c33d3a9e38cf90fef4d144b8555480cc907213dac8d59b6a815d945e435d52",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1976/",
+        "location": "Computer History Museum timeline 1976, entry on Cray-1",
+        "claim": "Which 1976 supercomputer had a cabinet shaped like the letter C? Answer: Cray-1. The curved shape helped shorten the internal wiring."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_deepblue",
+    "status": "approved",
+    "sha256": "c284011b7384493eecbf5c1876223077c706f1f1ac0b985465662d157534cbb6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1997/",
+        "location": "Computer History Museum timeline 1997, entry on Deep Blue",
+        "claim": "Which IBM chess computer defeated Garry Kasparov in a match in 1997? Answer: Deep Blue. It won two of the six games. Another three ended in draws."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_ethernet",
+    "status": "approved",
+    "sha256": "8121ad69ef13346f05e71c770d8710679850b06373e6a201bc82b98b56e1569b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1973/",
+        "location": "Computer History Museum timeline 1973, entry on Ethernet",
+        "claim": "Which local networking technology originated at Xerox PARC in 1973? Answer: Ethernet. Its designers adapted ideas from the wireless ALOHAnet to communication over a cable."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_cdrom",
+    "status": "approved",
+    "sha256": "ab70917dba0fb5ce6540f2f6d171519253bf11efda33a99c75e9e2d0f26df43e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1984/",
+        "location": "Computer History Museum timeline 1984, entry on CD-ROM",
+        "claim": "Which optical disc format for computer data appeared in 1984? Answer: CD-ROM. These discs were used for encyclopedias, games and other multimedia publications."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_c64",
+    "status": "approved",
+    "sha256": "86b55927fb334db1f3523d3aa1cc22c5b135c0c3d2aabc04b4d5c2a0ca7b2531",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1982/",
+        "location": "Computer History Museum timeline 1982, entry on Commodore 64",
+        "claim": "Which model with 64 KB of RAM did Commodore introduce in 1982? Answer: Commodore 64. Thousands of software titles were released for the machine."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_vic20",
+    "status": "approved",
+    "sha256": "ebdf7b969f597323c621a21cae8aef268ec0924bcd36ece171dc8c715453d74f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1980/",
+        "location": "Computer History Museum timeline 1980, entry on Commodore VIC-20",
+        "claim": "Which computer did Commodore release in 1980 as a more affordable successor to the PET? Answer: Commodore VIC-20. The VIC-20 was advertised by Star Trek actor William Shatner."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_osborne",
+    "status": "approved",
+    "sha256": "9aec0573554159488a181a62eaa7b3e2f69d4859585af471e3583118c60c91d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1981/",
+        "location": "Computer History Museum timeline 1981, entry on Osborne 1",
+        "claim": "Which portable computer from 1981 had a five-inch screen and two floppy drives? Answer: Osborne 1. It weighed around 11 kilograms and came with productivity software."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_pilot",
+    "status": "approved",
+    "sha256": "70f59644fb08d878ece0e86d760be0a61ef8e300c194cf7ee7f506f823b47db4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1996/",
+        "location": "Computer History Museum timeline 1996, entry on Palm Pilot",
+        "claim": "Which handheld organiser from 1996 recognised the handwritten symbols of Graffiti? Answer: Palm Pilot. It synchronised with a PC or Mac through a serial port."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_atari_vcs",
+    "status": "approved",
+    "sha256": "c400f0c096fab9fc1b06c7b4d635945de3e39c90eb3128efa6e6a04be02f23c1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1977/",
+        "location": "Computer History Museum timeline 1977, entry on Atari VCS",
+        "claim": "Which Atari console with interchangeable game cartridges was introduced in 1977? Answer: Atari VCS. The designers considered building in several games before deciding to use cartridges."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_pacman",
+    "status": "approved",
+    "sha256": "197e4cc6e4f8ab714b5b8e7f3c54c401f5d2ca7e8467627b9c5cdfc72c1a933c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pacman.com/en/history/",
+        "location": "Official PAC-MAN history, 1980 Japanese release and credits",
+        "claim": "Which arcade game designed by Toru Iwatani reached the Japanese public in 1980? Answer: Pac-Man. Shigeo Funaki programmed it, and Toshio Kai was responsible for sound."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_pong",
+    "status": "approved",
+    "sha256": "6d14b7c2f2a2879084079642ed24691fac6ee0df2fba27d2e97d4b13c6c7f83b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1972/",
+        "location": "Computer History Museum timeline 1972, entry on Pong",
+        "claim": "Which game based on table tennis did Al Alcorn design for Atari? Answer: Pong. Early cabinets were tested in bars in California."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_spacewar",
+    "status": "approved",
+    "sha256": "9953b7f540af33dfc6acda7d3013340f35c1a91c21ec900b6f3b685f9f54e863",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1962/",
+        "location": "Computer History Museum timeline 1962, entry on Spacewar!",
+        "claim": "What was the spaceship duel game developed on a PDP-1 in the early 1960s called? Answer: Spacewar!. Peter Samson’s program provided an accurate star field for the background."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_winchester",
+    "status": "approved",
+    "sha256": "ac65b9997bbc7a95f3d359d25586e9ee538b829a52dfc97b6bc1ee1f20d4dfe0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1973/",
+        "location": "Computer History Museum timeline 1973, entry on IBM 3340",
+        "claim": "Which 1973 IBM drive enclosed its heads and disks in a sealed removable module? Answer: IBM 3340. The design was known as Winchester. Its heads came to rest on the lubricated disk surface after power was switched off."
+      }
+    ]
+  },
+  {
+    "id": "inventions_m50_ferranti",
+    "status": "approved",
+    "sha256": "a391348b06f6ed2b0a600f41317280b7bd570417c9b2d4e4e3d160f6f39472f8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read the named Computer History Museum entries, IBM floppy disk history and Bandai Namco release history. Replaced unsupported facts and reviewed model-specific alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.computerhistory.org/timeline/1951/",
+        "location": "Computer History Museum timeline 1951, entry on Ferranti Mark I",
+        "claim": "Which commercial computer did the University of Manchester receive in 1951? Answer: Ferranti Mark I. The machine developed ideas from the experimental Manchester Baby and Manchester Mark I."
+      }
+    ]
   }
 ]

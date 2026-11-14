@@ -398,5 +398,545 @@
     ],
     "sourceRecordSha256": "48cbff561744aba97d40e6390ef110c996f77a669f4332bf00863859d0ee2bed",
     "reviewNotes": "Reviewed the bilingual property name, single State Party, initial inscription year and category in the authoritative catalog projection. Excluded transboundary/mixed sites, malformed/unequal labels, answer-revealing country names, ambiguous Iguaçu, and overseas-territory country ambiguity. Other State Parties from the same UNESCO region are distinct distractors. These are original factual questions, not republication of UNESCO descriptions or feeds."
+  },
+  {
+    "id": "civilizations_m50_machu",
+    "status": "approved",
+    "sha256": "2ad5d0536550488b34c98bf1f04fc0ea0894c07b1819da7d5c86921ee6ca39c8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/274/",
+        "location": "UNESCO Open Data World Heritage record 274: short description and statement of outstanding universal value",
+        "claim": "Which Inca city was built high in the Peruvian Andes? Answer: Machu Picchu. The stone walls and terraces of Machu Picchu rise amid mountain forest."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_angkor",
+    "status": "approved",
+    "sha256": "087e5f14395f2625b8aa3ba6972648753867b8d592dcb465265d078005186e1c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/668/",
+        "location": "UNESCO Open Data World Heritage record 668: short description and statement of outstanding universal value",
+        "claim": "Which complex contains the remains of Khmer capitals and the temple of Angkor Wat? Answer: Angkor. Angkor preserves ancient reservoirs and canals as well as temples."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_petra",
+    "status": "approved",
+    "sha256": "8e774f6ba0aed834954cae06b091ed713802d345ac2fd89dae45f98ad983d5e5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/326/",
+        "location": "UNESCO Open Data World Heritage record 326: short description and statement of outstanding universal value",
+        "claim": "Which Nabataean capital in Jordan was partly carved out of rock? Answer: Petra. Petra was a trading crossroads between Arabia, Egypt and Syria."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_chichen",
+    "status": "approved",
+    "sha256": "bc08ecc8ba96c1ac9decdd4a484ba36e9019a93053c4e64335560adcc08b2217",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/483/",
+        "location": "UNESCO Open Data World Heritage record 483: short description and statement of outstanding universal value",
+        "claim": "Which Maya city on the Yucatán Peninsula contains the pyramid of El Castillo? Answer: Chichen Itza. The site also contains El Caracol, a circular building used as an observatory."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_teotihuacan",
+    "status": "approved",
+    "sha256": "167d490c6f6224ffdeddb4fce98ba1eae1b01fab3fea06fd4f5276125356564a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/414/",
+        "location": "UNESCO Open Data World Heritage record 414: short description and statement of outstanding universal value",
+        "claim": "Which ancient Mexican city contains the Avenue of the Dead and the pyramids of the Sun and Moon? Answer: Teotihuacan. The city plan brought together temples, palaces and residential areas."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_tikal",
+    "status": "approved",
+    "sha256": "eed5fb0318dedea68bb9f0196dbaf6b271d97f75c6bbc859f24596312a4d65bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/64/",
+        "location": "UNESCO Open Data World Heritage record 64: short description and statement of outstanding universal value",
+        "claim": "Which Maya city with a Great Plaza survives in the forests of Guatemala? Answer: Tikal. Temples tower over Tikal’s plazas, and inscriptions record its dynastic history."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_copan",
+    "status": "approved",
+    "sha256": "a7ff674bf2b61e8770e302de9d513df9ef7b40761d3afbec9cadccc5bf939689",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/129/",
+        "location": "UNESCO Open Data World Heritage record 129: short description and statement of outstanding universal value",
+        "claim": "Which Maya city in Honduras contains the Hieroglyphic Stairway? Answer: Copán. The glyphs on the steps form one of the most significant surviving Maya inscriptions."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_palenque",
+    "status": "approved",
+    "sha256": "cebd28a7a749dad02c996bd335dcd519f81d9aba5ed414cd294946298970aa69",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/411/",
+        "location": "UNESCO Open Data World Heritage record 411: short description and statement of outstanding universal value",
+        "claim": "Which Maya city in Chiapas flourished in the seventh century and is known for its carved reliefs? Answer: Palenque. Reliefs at Palenque depict scenes from Maya mythology."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_uxmal",
+    "status": "approved",
+    "sha256": "07ff03e5f6cb1055eda3dd69fa2698f7ee8fa3adf513defcbcb65e890ac339f2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/791/",
+        "location": "UNESCO Open Data World Heritage record 791: short description and statement of outstanding universal value",
+        "claim": "Which Maya city contains the Pyramid of the Magician? Answer: Uxmal. The buildings at Uxmal preserve decorative work in the Puuc architectural style."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_nazca",
+    "status": "approved",
+    "sha256": "95725d4305e331d3a767ca626b2059f26fbcafa54f63528208900775a97da608",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/700/",
+        "location": "UNESCO Open Data World Heritage record 700: short description and statement of outstanding universal value",
+        "claim": "What are the ancient animal figures and geometric designs on the coastal plain south of Lima called? Answer: Nasca Lines. Some of the geometric lines extend for several kilometres."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_caral",
+    "status": "approved",
+    "sha256": "4c12a3ae2c4a2627186c6d6336db029e0558c1525e2527560e960ffd9c7f2b36",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1269/",
+        "location": "UNESCO Open Data World Heritage record 1269: short description and statement of outstanding universal value",
+        "claim": "Which ancient city in the Supe Valley is known for its platforms and sunken circular plazas? Answer: Caral. Excavations yielded a quipu, a system of knots for recording information."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_tiwanaku",
+    "status": "approved",
+    "sha256": "90d43760c4d4a57bb3ed7277f808bdb327c626d6d3af519c049aa0adfd708231",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/567/",
+        "location": "UNESCO Open Data World Heritage record 567: short description and statement of outstanding universal value",
+        "claim": "Which ancient city in Bolivia contains the Gateway of the Sun? Answer: Tiwanaku. Tiwanaku lies on the Altiplano near Lake Titicaca."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_easter",
+    "status": "approved",
+    "sha256": "91c304369d2fac6fc0ba1379bc1945cf6b7dcc7c1410305d32b904c7e2725d49",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/715/",
+        "location": "UNESCO Open Data World Heritage record 715: short description and statement of outstanding universal value",
+        "claim": "Which Polynesian island is home to the stone statues known as moai? Answer: Rapa Nui. Many moai were set on ceremonial platforms known as ahu."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_great_zimbabwe",
+    "status": "approved",
+    "sha256": "1b6f29a66653819d78261245776a0301538b607baaad29c913dac109fc2ff65c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/364/",
+        "location": "UNESCO Open Data World Heritage record 364: short description and statement of outstanding universal value",
+        "claim": "Which city of the Shona people left behind the stone complex called the Great Enclosure? Answer: Great Zimbabwe. The enclosure is elliptical and dates to the fourteenth century."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_aksum",
+    "status": "approved",
+    "sha256": "4c9f62b3be10e7ccb4c02d18b4ffe157cf83884ca62341d95f9e2b53a31936d4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/15/",
+        "location": "UNESCO Open Data World Heritage record 15: short description and statement of outstanding universal value",
+        "claim": "Which ancient Ethiopian city is known for tall stone stelae and royal tombs? Answer: Aksum. Ethiopian emperors continued to be crowned here after the city’s political decline."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_meroe",
+    "status": "approved",
+    "sha256": "fe2acc1efa941d25ec4270cd80280df54df10991b576cd07bd0979fdc3d1ab06",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1336/",
+        "location": "UNESCO Open Data World Heritage record 1336: short description and statement of outstanding universal value",
+        "claim": "Where in Sudan do pyramids built as tombs for Kushite rulers survive? Answer: Meroë. The burial grounds stand near the remains of a capital of the Kingdom of Kush."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_hattusa",
+    "status": "approved",
+    "sha256": "e13a37a67c5fa85b9720a3128fe2d1a993756f099928035b6f747e09900ea7b8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/377/",
+        "location": "UNESCO Open Data World Heritage record 377: short description and statement of outstanding universal value",
+        "claim": "Which Hittite capital in Anatolia is known for its Lion Gate? Answer: Hattusha. Rock reliefs survive at nearby Yazılıkaya."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_troy",
+    "status": "approved",
+    "sha256": "301ac0bd36cb6323e3ae7f6f4470b751b2d078fe097c19ba7bf8b3b2a99ff7c6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/849/",
+        "location": "UNESCO Open Data World Heritage record 849: short description and statement of outstanding universal value",
+        "claim": "Which city in the Iliad do archaeologists associate with the mound of Hisarlık? Answer: Troy. Archaeologists found layers of settlements from different eras here."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_ephesus",
+    "status": "approved",
+    "sha256": "667768fea991e181e323abea7a8ec4fc608cc15ef65e023ec061ceb303fe40bc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1018/",
+        "location": "UNESCO Open Data World Heritage record 1018: short description and statement of outstanding universal value",
+        "claim": "Which ancient city contained the Library of Celsus? Answer: Ephesus. Ephesus was a port. Its settlements moved west as the coastline receded."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_aphrodisias",
+    "status": "approved",
+    "sha256": "2115223755e49485edb13946e44f48ba87c41e3a8b70856c42587816d889d50b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/1519/",
+        "location": "UNESCO Open Data World Heritage record 1519: short description and statement of outstanding universal value",
+        "claim": "Which ancient city in Asia Minor was renowned for sculptures made of marble from nearby quarries? Answer: Aphrodisias. The quarries northeast of Aphrodisias are part of the same World Heritage property."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_hierapolis",
+    "status": "approved",
+    "sha256": "58bd45d597fca9e42f3de2601209932722835e060a06a2544c1b424973308dc4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/485/",
+        "location": "UNESCO Open Data World Heritage record 485: short description and statement of outstanding universal value",
+        "claim": "Which ancient city stood beside the white terraces of Pamukkale? Answer: Hierapolis. Minerals deposited by hot spring water formed the terraces."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_mycenae",
+    "status": "approved",
+    "sha256": "5d65d67d66f24e3fed27197078b6da7713194d2372c6a1cf7aece265cdb07c23",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/941/",
+        "location": "UNESCO Open Data World Heritage record 941: short description and statement of outstanding universal value",
+        "claim": "Which Bronze Age citadel in the Peloponnese contains the Lion Gate? Answer: Mycenae. UNESCO lists Mycenae and nearby Tiryns as a single World Heritage property."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_delos",
+    "status": "approved",
+    "sha256": "d13b2408c1d2056d6ec488fc877b6ea74a246d92b4696919eda1083dc61749eb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/530/",
+        "location": "UNESCO Open Data World Heritage record 530: short description and statement of outstanding universal value",
+        "claim": "Which Cycladic island housed a sanctuary of Apollo that attracted pilgrims from across Greece? Answer: Delos. The island was also a busy trading port."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_epidaurus",
+    "status": "approved",
+    "sha256": "1279d1ce1a1242e10c2aa39b12a5283fb752be7074bee2cb401d4a76cefc1593",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/491/",
+        "location": "UNESCO Open Data World Heritage record 491: short description and statement of outstanding universal value",
+        "claim": "Which Peloponnesian city has an ancient Greek theatre at its sanctuary of Asclepius? Answer: Epidaurus. The complex included buildings where the sick were treated."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_butrint",
+    "status": "approved",
+    "sha256": "8b918ac510910313ba5060e4915f03181c20ce301dc007bfca4e496673fabda4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/570/",
+        "location": "UNESCO Open Data World Heritage record 570: short description and statement of outstanding universal value",
+        "claim": "Which site in southern Albania was a Greek colony, a Roman city and a bishopric? Answer: Butrint. Butrint preserves an early Christian baptistery adapted from a Roman building."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_dougga",
+    "status": "approved",
+    "sha256": "7778f1938876d806613f329c1280f18f8e041d0b517db87d08ba2822abc9dd1a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/794/",
+        "location": "UNESCO Open Data World Heritage record 794: short description and statement of outstanding universal value",
+        "claim": "Which ancient Tunisian city preserves a Roman Capitol and a Libyco-Punic mausoleum? Answer: Dougga. Inscriptions from Dougga helped researchers decipher the ancient Libyan language."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_timgad",
+    "status": "approved",
+    "sha256": "07cdc001f4b2301e59608ba1074f6927709f139cd65c7b99c7bdd52f05064315",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/194/",
+        "location": "UNESCO Open Data World Heritage record 194: short description and statement of outstanding universal value",
+        "claim": "Which colony did Trajan found in AD 100 in what is now Algeria? Answer: Timgad. Timgad’s plan was organised around two main streets that crossed at right angles."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_volubilis",
+    "status": "approved",
+    "sha256": "8bc5f42f4a74db8c3b52b6dc1c3305f139fae8f4b42c004f7ddc9ebbfa884375",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/836/",
+        "location": "UNESCO Open Data World Heritage record 836: short description and statement of outstanding universal value",
+        "claim": "Which city in Morocco preserves mosaics and a triumphal arch from the Roman period? Answer: Volubilis. Volubilis was an important centre of the Roman province of Mauretania Tingitana."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_baalbek",
+    "status": "approved",
+    "sha256": "e620d7876eb89b9730501567bb3b0d7c0fb569688672641a4d8cb257d6750881",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/294/",
+        "location": "UNESCO Open Data World Heritage record 294: short description and statement of outstanding universal value",
+        "claim": "Which city in Lebanon preserves the monumental Roman temples of Jupiter and Bacchus? Answer: Baalbek. The columns around the main chamber of the Temple of Jupiter stood about 20 metres tall."
+      }
+    ]
+  },
+  {
+    "id": "civilizations_m50_palmyra",
+    "status": "approved",
+    "sha256": "1ec761a52603842523236170d5876d1918891efa6f70a3474a1d14428bc82e12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read all 30 World Heritage records in the official UNESCO Open Data export, corrected record IDs and checked site descriptions and alternatives by region.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://whc.unesco.org/en/list/23/",
+        "location": "UNESCO Open Data World Heritage record 23: short description and statement of outstanding universal value",
+        "claim": "Which ancient city in a Syrian oasis had a colonnaded street more than a kilometre long? Answer: Palmyra. The colonnade linked major public buildings across the city."
+      }
+    ]
   }
 ]

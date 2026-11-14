@@ -438,5 +438,1765 @@
       "https://www.disneyplus.com/explore/articles/the-simpsons-collection-guide"
     ],
     "image": null
+  },
+  {
+    "id": "television_m50_d_1990",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1990 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Твин Пикс»."
+      },
+      "en": {
+        "question": "Which show won the 1990 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Twin Peaks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Закон Лос-Анджелеса",
+        "en": "L.A. Law"
+      },
+      {
+        "id": "o1",
+        "ru": "Чайна-Бич",
+        "en": "China Beach"
+      },
+      {
+        "id": "o2",
+        "ru": "Квантовый скачок",
+        "en": "Quantum Leap"
+      },
+      {
+        "id": "o3",
+        "ru": "Тридцать-с-чем-то",
+        "en": "Thirtysomething"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1990/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1992",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1992 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Квантовый скачок»."
+      },
+      "en": {
+        "question": "Which show won the 1992 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Quantum Leap."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Северная сторона",
+        "en": "Northern Exposure"
+      },
+      {
+        "id": "o1",
+        "ru": "Я улечу",
+        "en": "I'll Fly Away"
+      },
+      {
+        "id": "o2",
+        "ru": "Закон Лос-Анджелеса",
+        "en": "L.A. Law"
+      },
+      {
+        "id": "o3",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1992/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1993",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1993 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Северная сторона»."
+      },
+      "en": {
+        "question": "Which show won the 1993 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Northern Exposure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Застава фехтовальщиков",
+        "en": "Picket Fences"
+      },
+      {
+        "id": "o1",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      },
+      {
+        "id": "o2",
+        "ru": "Тыл",
+        "en": "Homefront"
+      },
+      {
+        "id": "o3",
+        "ru": "Я улечу",
+        "en": "I'll Fly Away"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1993/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1995",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1995 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Секретные материалы»."
+      },
+      "en": {
+        "question": "Which show won the 1995 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The X-Files."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Полиция Нью-Йорка",
+        "en": "NYPD Blue"
+      },
+      {
+        "id": "o1",
+        "ru": "Надежда Чикаго",
+        "en": "Chicago Hope"
+      },
+      {
+        "id": "o2",
+        "ru": "Скорая помощь",
+        "en": "ER"
+      },
+      {
+        "id": "o3",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1995/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1996",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1996 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Секретные материалы»."
+      },
+      "en": {
+        "question": "Which show won the 1996 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The X-Files."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Скорая помощь",
+        "en": "ER"
+      },
+      {
+        "id": "o1",
+        "ru": "Надежда Чикаго",
+        "en": "Chicago Hope"
+      },
+      {
+        "id": "o2",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      },
+      {
+        "id": "o3",
+        "ru": "Полиция Нью-Йорка",
+        "en": "NYPD Blue"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1996/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1997",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1997 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Секретные материалы»."
+      },
+      "en": {
+        "question": "Which show won the 1997 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The X-Files."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      },
+      {
+        "id": "o1",
+        "ru": "Полиция Нью-Йорка",
+        "en": "NYPD Blue"
+      },
+      {
+        "id": "o2",
+        "ru": "Надежда Чикаго",
+        "en": "Chicago Hope"
+      },
+      {
+        "id": "o3",
+        "ru": "Скорая помощь",
+        "en": "ER"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1997/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_1998",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1998 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Секретные материалы»."
+      },
+      "en": {
+        "question": "Which show won the 1998 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The X-Files."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Практика",
+        "en": "The Practice"
+      },
+      {
+        "id": "o1",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      },
+      {
+        "id": "o2",
+        "ru": "Полиция Нью-Йорка",
+        "en": "NYPD Blue"
+      },
+      {
+        "id": "o3",
+        "ru": "Скорая помощь",
+        "en": "ER"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1998/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2000",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2000 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Клан Сопрано»."
+      },
+      "en": {
+        "question": "Which show won the 2000 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The Sopranos."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Западное крыло",
+        "en": "The West Wing"
+      },
+      {
+        "id": "o1",
+        "ru": "Скорая помощь",
+        "en": "ER"
+      },
+      {
+        "id": "o2",
+        "ru": "Практика",
+        "en": "The Practice"
+      },
+      {
+        "id": "o3",
+        "ru": "Закон и порядок",
+        "en": "Law & Order"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2000/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2004",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2004 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Новая Жанна Д’Арк»."
+      },
+      "en": {
+        "question": "Which show won the 2004 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Joan Of Arcadia."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Клан Сопрано",
+        "en": "The Sopranos"
+      },
+      {
+        "id": "o1",
+        "ru": "24 часа",
+        "en": "24"
+      },
+      {
+        "id": "o2",
+        "ru": "Западное крыло",
+        "en": "The West Wing"
+      },
+      {
+        "id": "o3",
+        "ru": "C.S.I. Место преступления",
+        "en": "CSI: Crime Scene Investigation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2004/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2005",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2005 году за лучший драматический сериал?",
+        "explanation": "Сериал «Западное крыло» тоже претендовал на эту награду."
+      },
+      "en": {
+        "question": "Which show won the 2005 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The West Wing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Остаться в живых",
+        "en": "Lost"
+      },
+      {
+        "id": "o1",
+        "ru": "Западное крыло",
+        "en": "The West Wing"
+      },
+      {
+        "id": "o2",
+        "ru": "24 часа",
+        "en": "24"
+      },
+      {
+        "id": "o3",
+        "ru": "Клиент всегда мёртв",
+        "en": "Six Feet Under"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2005/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2006",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2006 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Клан Сопрано»."
+      },
+      "en": {
+        "question": "Which show won the 2006 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The Sopranos."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "24 часа",
+        "en": "24"
+      },
+      {
+        "id": "o1",
+        "ru": "Западное крыло",
+        "en": "The West Wing"
+      },
+      {
+        "id": "o2",
+        "ru": "Анатомия страсти",
+        "en": "Grey's Anatomy"
+      },
+      {
+        "id": "o3",
+        "ru": "Доктор Хаус",
+        "en": "House"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2006/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2008",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2008 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Декстер»."
+      },
+      "en": {
+        "question": "Which show won the 2008 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Dexter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Безумцы",
+        "en": "Mad Men"
+      },
+      {
+        "id": "o1",
+        "ru": "Остаться в живых",
+        "en": "Lost"
+      },
+      {
+        "id": "o2",
+        "ru": "Юристы Бостона",
+        "en": "Boston Legal"
+      },
+      {
+        "id": "o3",
+        "ru": "Схватка",
+        "en": "Damages"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2008/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2012",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2012 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Аббатство Даунтон»."
+      },
+      "en": {
+        "question": "Which show won the 2012 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Downton Abbey."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Родина",
+        "en": "Homeland"
+      },
+      {
+        "id": "o1",
+        "ru": "Игра престолов",
+        "en": "Game Of Thrones"
+      },
+      {
+        "id": "o2",
+        "ru": "Подпольная империя",
+        "en": "Boardwalk Empire"
+      },
+      {
+        "id": "o3",
+        "ru": "Во все тяжкие",
+        "en": "Breaking Bad"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2012/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2013",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2013 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Родина»."
+      },
+      "en": {
+        "question": "Which show won the 2013 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Homeland."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Во все тяжкие",
+        "en": "Breaking Bad"
+      },
+      {
+        "id": "o1",
+        "ru": "Безумцы",
+        "en": "Mad Men"
+      },
+      {
+        "id": "o2",
+        "ru": "Аббатство Даунтон",
+        "en": "Downton Abbey"
+      },
+      {
+        "id": "o3",
+        "ru": "Игра престолов",
+        "en": "Game Of Thrones"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2013/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2015",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2015 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Карточный домик»."
+      },
+      "en": {
+        "question": "Which show won the 2015 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included House of Cards."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игра престолов",
+        "en": "Game Of Thrones"
+      },
+      {
+        "id": "o1",
+        "ru": "Родина",
+        "en": "Homeland"
+      },
+      {
+        "id": "o2",
+        "ru": "Лучше звоните Солу",
+        "en": "Better Call Saul"
+      },
+      {
+        "id": "o3",
+        "ru": "Аббатство Даунтон",
+        "en": "Downton Abbey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2015/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2017",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2017 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Очень странные дела»."
+      },
+      "en": {
+        "question": "Which show won the 2017 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Stranger Things."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рассказ служанки",
+        "en": "The Handmaid's Tale"
+      },
+      {
+        "id": "o1",
+        "ru": "Корона",
+        "en": "The Crown"
+      },
+      {
+        "id": "o2",
+        "ru": "Лучше звоните Солу",
+        "en": "Better Call Saul"
+      },
+      {
+        "id": "o3",
+        "ru": "Карточный домик",
+        "en": "House of Cards"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2017/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2020",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2020 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Очень странные дела»."
+      },
+      "en": {
+        "question": "Which show won the 2020 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Stranger Things."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Наследники",
+        "en": "Succession"
+      },
+      {
+        "id": "o1",
+        "ru": "Лучше звоните Солу",
+        "en": "Better Call Saul"
+      },
+      {
+        "id": "o2",
+        "ru": "Убивая Еву",
+        "en": "Killing Eve"
+      },
+      {
+        "id": "o3",
+        "ru": "Озарк",
+        "en": "Ozark"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2020/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2021",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2021 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Пацаны»."
+      },
+      "en": {
+        "question": "Which show won the 2021 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included The Boys."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Корона",
+        "en": "The Crown"
+      },
+      {
+        "id": "o1",
+        "ru": "Бриджертоны",
+        "en": "Bridgerton"
+      },
+      {
+        "id": "o2",
+        "ru": "Страна Лавкрафта",
+        "en": "Lovecraft Country"
+      },
+      {
+        "id": "o3",
+        "ru": "Поза",
+        "en": "Pose"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2021/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2024",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2024 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Медленные лошади»."
+      },
+      "en": {
+        "question": "Which show won the 2024 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Slow Horses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сёгун",
+        "en": "Shōgun"
+      },
+      {
+        "id": "o1",
+        "ru": "Задача трёх тел",
+        "en": "3 Body Problem"
+      },
+      {
+        "id": "o2",
+        "ru": "Фоллаут",
+        "en": "Fallout"
+      },
+      {
+        "id": "o3",
+        "ru": "Мистер и миссис Смит",
+        "en": "Mr. & Mrs. Smith"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2024/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_d_2025",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2025 году за лучший драматический сериал?",
+        "explanation": "Среди номинантов также был сериал «Медленные лошади»."
+      },
+      "en": {
+        "question": "Which show won the 2025 Emmy for Outstanding Drama Series?",
+        "explanation": "The nominees that year also included Slow Horses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Больница Питт",
+        "en": "The Pitt"
+      },
+      {
+        "id": "o1",
+        "ru": "Андор",
+        "en": "Andor"
+      },
+      {
+        "id": "o2",
+        "ru": "Рай",
+        "en": "Paradise"
+      },
+      {
+        "id": "o3",
+        "ru": "Разделение",
+        "en": "Severance"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2025/outstanding-drama-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_1990",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1990 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Чудесные годы»."
+      },
+      "en": {
+        "question": "Which show won the 1990 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included The Wonder Years."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мёрфи Браун",
+        "en": "Murphy Brown"
+      },
+      {
+        "id": "o1",
+        "ru": "Весёлая компания",
+        "en": "Cheers"
+      },
+      {
+        "id": "o2",
+        "ru": "Создавая женщину",
+        "en": "Designing Women"
+      },
+      {
+        "id": "o3",
+        "ru": "Золотые девочки",
+        "en": "The Golden Girls"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1990/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_1991",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1991 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Чудесные годы»."
+      },
+      "en": {
+        "question": "Which show won the 1991 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included The Wonder Years."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Весёлая компания",
+        "en": "Cheers"
+      },
+      {
+        "id": "o1",
+        "ru": "Мёрфи Браун",
+        "en": "Murphy Brown"
+      },
+      {
+        "id": "o2",
+        "ru": "Создавая женщину",
+        "en": "Designing Women"
+      },
+      {
+        "id": "o3",
+        "ru": "Золотые девочки",
+        "en": "The Golden Girls"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1991/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_1993",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1993 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Шоу Ларри Сандерса»."
+      },
+      "en": {
+        "question": "Which show won the 1993 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included The Larry Sanders Show."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сайнфелд",
+        "en": "Seinfeld"
+      },
+      {
+        "id": "o1",
+        "ru": "Мёрфи Браун",
+        "en": "Murphy Brown"
+      },
+      {
+        "id": "o2",
+        "ru": "Весёлая компания",
+        "en": "Cheers"
+      },
+      {
+        "id": "o3",
+        "ru": "Большой ремонт",
+        "en": "Home Improvement"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1993/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_1994",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1994 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Шоу Ларри Сандерса»."
+      },
+      "en": {
+        "question": "Which show won the 1994 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included The Larry Sanders Show."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фрейзер",
+        "en": "Frasier"
+      },
+      {
+        "id": "o1",
+        "ru": "Большой ремонт",
+        "en": "Home Improvement"
+      },
+      {
+        "id": "o2",
+        "ru": "Без ума от тебя",
+        "en": "Mad About You"
+      },
+      {
+        "id": "o3",
+        "ru": "Сайнфелд",
+        "en": "Seinfeld"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1994/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_1999",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 1999 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Секс в большом городе»."
+      },
+      "en": {
+        "question": "Which show won the 1999 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Sex And The City."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Элли Макбил",
+        "en": "Ally McBeal"
+      },
+      {
+        "id": "o1",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o2",
+        "ru": "Фрейзер",
+        "en": "Frasier"
+      },
+      {
+        "id": "o3",
+        "ru": "Друзья",
+        "en": "Friends"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/1999/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2000",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2000 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Секс в большом городе»."
+      },
+      "en": {
+        "question": "Which show won the 2000 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Sex And The City."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уилл и Грейс",
+        "en": "Will & Grace"
+      },
+      {
+        "id": "o1",
+        "ru": "Друзья",
+        "en": "Friends"
+      },
+      {
+        "id": "o2",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрейзер",
+        "en": "Frasier"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2000/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2001",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2001 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Малкольм в центре внимания»."
+      },
+      "en": {
+        "question": "Which show won the 2001 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Malcolm In The Middle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Секс в большом городе",
+        "en": "Sex And The City"
+      },
+      {
+        "id": "o1",
+        "ru": "Уилл и Грейс",
+        "en": "Will & Grace"
+      },
+      {
+        "id": "o2",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o3",
+        "ru": "Фрейзер",
+        "en": "Frasier"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2001/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2002",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2002 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Уилл и Грейс»."
+      },
+      "en": {
+        "question": "Which show won the 2002 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Will & Grace."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Друзья",
+        "en": "Friends"
+      },
+      {
+        "id": "o1",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      },
+      {
+        "id": "o2",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o3",
+        "ru": "Секс в большом городе",
+        "en": "Sex And The City"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2002/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2003",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2003 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Секс в большом городе»."
+      },
+      "en": {
+        "question": "Which show won the 2003 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Sex And The City."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o1",
+        "ru": "Уилл и Грейс",
+        "en": "Will & Grace"
+      },
+      {
+        "id": "o2",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      },
+      {
+        "id": "o3",
+        "ru": "Друзья",
+        "en": "Friends"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2003/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2004",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2004 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Секс в большом городе»."
+      },
+      "en": {
+        "question": "Which show won the 2004 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Sex And The City."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Замедленное развитие",
+        "en": "Arrested Development"
+      },
+      {
+        "id": "o1",
+        "ru": "Все любят Рэймонда",
+        "en": "Everybody Loves Raymond"
+      },
+      {
+        "id": "o2",
+        "ru": "Уилл и Грейс",
+        "en": "Will & Grace"
+      },
+      {
+        "id": "o3",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2004/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2006",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2006 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Два с половиной человека»."
+      },
+      "en": {
+        "question": "Which show won the 2006 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Two And A Half Men."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Офис",
+        "en": "The Office"
+      },
+      {
+        "id": "o1",
+        "ru": "Замедленное развитие",
+        "en": "Arrested Development"
+      },
+      {
+        "id": "o2",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      },
+      {
+        "id": "o3",
+        "ru": "Клиника",
+        "en": "Scrubs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2006/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2007",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2007 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Дурнушка Бетти»."
+      },
+      "en": {
+        "question": "Which show won the 2007 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Ugly Betty."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Студия 30",
+        "en": "30 Rock"
+      },
+      {
+        "id": "o1",
+        "ru": "Красавцы",
+        "en": "Entourage"
+      },
+      {
+        "id": "o2",
+        "ru": "Офис",
+        "en": "The Office"
+      },
+      {
+        "id": "o3",
+        "ru": "Два с половиной человека",
+        "en": "Two And A Half Men"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2007/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2010",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2010 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Хор»."
+      },
+      "en": {
+        "question": "Which show won the 2010 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Glee."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Американская семейка",
+        "en": "Modern Family"
+      },
+      {
+        "id": "o1",
+        "ru": "Студия 30",
+        "en": "30 Rock"
+      },
+      {
+        "id": "o2",
+        "ru": "Офис",
+        "en": "The Office"
+      },
+      {
+        "id": "o3",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2010/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2015",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2015 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Кремниевая долина»."
+      },
+      "en": {
+        "question": "Which show won the 2015 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Silicon Valley."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вице-президент",
+        "en": "Veep"
+      },
+      {
+        "id": "o1",
+        "ru": "Американская семейка",
+        "en": "Modern Family"
+      },
+      {
+        "id": "o2",
+        "ru": "Луи",
+        "en": "Louie"
+      },
+      {
+        "id": "o3",
+        "ru": "Парки и зоны отдыха",
+        "en": "Parks And Recreation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2015/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2018",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2018 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Умерь свой энтузиазм»."
+      },
+      "en": {
+        "question": "Which show won the 2018 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Curb Your Enthusiasm."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Удивительная миссис Мейзел",
+        "en": "The Marvelous Mrs. Maisel"
+      },
+      {
+        "id": "o1",
+        "ru": "Атланта",
+        "en": "Atlanta"
+      },
+      {
+        "id": "o2",
+        "ru": "Барри",
+        "en": "Barry"
+      },
+      {
+        "id": "o3",
+        "ru": "Черноватый",
+        "en": "Black-ish"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2018/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2019",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2019 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Шиттс Крик»."
+      },
+      "en": {
+        "question": "Which show won the 2019 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Schitt's Creek."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дрянь",
+        "en": "Fleabag"
+      },
+      {
+        "id": "o1",
+        "ru": "Удивительная миссис Мейзел",
+        "en": "The Marvelous Mrs. Maisel"
+      },
+      {
+        "id": "o2",
+        "ru": "Барри",
+        "en": "Barry"
+      },
+      {
+        "id": "o3",
+        "ru": "Матрёшка",
+        "en": "Russian Doll"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2019/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2020",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2020 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «В лучшем мире»."
+      },
+      "en": {
+        "question": "Which show won the 2020 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included The Good Place."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шиттс Крик",
+        "en": "Schitt's Creek"
+      },
+      {
+        "id": "o1",
+        "ru": "Умерь свой энтузиазм",
+        "en": "Curb Your Enthusiasm"
+      },
+      {
+        "id": "o2",
+        "ru": "Мёртв для меня",
+        "en": "Dead To Me"
+      },
+      {
+        "id": "o3",
+        "ru": "Белая ворона",
+        "en": "Insecure"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2020/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2021",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2021 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Хитрости»."
+      },
+      "en": {
+        "question": "Which show won the 2021 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Hacks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тед Лассо",
+        "en": "Ted Lasso"
+      },
+      {
+        "id": "o1",
+        "ru": "Черноватый",
+        "en": "Black-ish"
+      },
+      {
+        "id": "o2",
+        "ru": "Кобра Кай",
+        "en": "Cobra Kai"
+      },
+      {
+        "id": "o3",
+        "ru": "Эмили в Париже",
+        "en": "Emily In Paris"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2021/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2023",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2023 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Убийства в одном здании»."
+      },
+      "en": {
+        "question": "Which show won the 2023 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Only Murders In The Building."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медведь",
+        "en": "The Bear"
+      },
+      {
+        "id": "o1",
+        "ru": "Начальная школа «Эбботт»",
+        "en": "Abbott Elementary"
+      },
+      {
+        "id": "o2",
+        "ru": "Барри",
+        "en": "Barry"
+      },
+      {
+        "id": "o3",
+        "ru": "Обязанности присяжного",
+        "en": "Jury Duty"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2023/outstanding-comedy-series"
+    ],
+    "image": null
+  },
+  {
+    "id": "television_m50_c_2025",
+    "categoryId": "television",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сериал выиграл «Эмми» в 2025 году за лучший комедийный сериал?",
+        "explanation": "Среди номинантов также был сериал «Никто этого не хочет»."
+      },
+      "en": {
+        "question": "Which show won the 2025 Emmy for Outstanding Comedy Series?",
+        "explanation": "The nominees that year also included Nobody Wants This."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Киностудия",
+        "en": "The Studio"
+      },
+      {
+        "id": "o1",
+        "ru": "Медведь",
+        "en": "The Bear"
+      },
+      {
+        "id": "o2",
+        "ru": "Начальная школа «Эбботт»",
+        "en": "Abbott Elementary"
+      },
+      {
+        "id": "o3",
+        "ru": "Хитрости",
+        "en": "Hacks"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.televisionacademy.com/awards/nominees-winners/2025/outstanding-comedy-series"
+    ],
+    "image": null
   }
 ]

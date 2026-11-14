@@ -878,5 +878,1325 @@
       "https://whc.unesco.org/en/list/675/"
     ],
     "image": null
+  },
+  {
+    "id": "civilizations_m50_machu",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город инков построен высоко в перуанских Андах?",
+        "explanation": "Каменные стены и террасы Мачу-Пикчу поднимаются среди горного леса."
+      },
+      "en": {
+        "question": "Which Inca city was built high in the Peruvian Andes?",
+        "explanation": "The stone walls and terraces of Machu Picchu rise amid mountain forest."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мачу-Пикчу",
+        "en": "Machu Picchu"
+      },
+      {
+        "id": "o1",
+        "ru": "Чан-Чан",
+        "en": "Chan Chan"
+      },
+      {
+        "id": "o2",
+        "ru": "Караль",
+        "en": "Caral"
+      },
+      {
+        "id": "o3",
+        "ru": "Тиуанако",
+        "en": "Tiwanaku"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/274/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_angkor",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком комплексе сохранились столицы Кхмерской империи и храм Ангкор-Ват?",
+        "explanation": "Помимо храмов, в Ангкоре сохранились древние водохранилища и каналы."
+      },
+      "en": {
+        "question": "Which complex contains the remains of Khmer capitals and the temple of Angkor Wat?",
+        "explanation": "Angkor preserves ancient reservoirs and canals as well as temples."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ангкор",
+        "en": "Angkor"
+      },
+      {
+        "id": "o1",
+        "ru": "Паган",
+        "en": "Bagan"
+      },
+      {
+        "id": "o2",
+        "ru": "Боробудур",
+        "en": "Borobudur"
+      },
+      {
+        "id": "o3",
+        "ru": "Аюттхая",
+        "en": "Ayutthaya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/668/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_petra",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую столицу набатеев в Иордании частично высекли в скалах?",
+        "explanation": "Петра была узлом торговли между Аравией, Египтом и Сирией."
+      },
+      "en": {
+        "question": "Which Nabataean capital in Jordan was partly carved out of rock?",
+        "explanation": "Petra was a trading crossroads between Arabia, Egypt and Syria."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Петра",
+        "en": "Petra"
+      },
+      {
+        "id": "o1",
+        "ru": "Пальмира",
+        "en": "Palmyra"
+      },
+      {
+        "id": "o2",
+        "ru": "Баальбек",
+        "en": "Baalbek"
+      },
+      {
+        "id": "o3",
+        "ru": "Джераш",
+        "en": "Jerash"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/326/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_chichen",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе майя на Юкатане стоит пирамида Эль-Кастильо?",
+        "explanation": "Там же находится Эль-Караколь, круглая постройка, служившая обсерваторией."
+      },
+      "en": {
+        "question": "Which Maya city on the Yucatán Peninsula contains the pyramid of El Castillo?",
+        "explanation": "The site also contains El Caracol, a circular building used as an observatory."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Чичен-Ица",
+        "en": "Chichen Itza"
+      },
+      {
+        "id": "o1",
+        "ru": "Ушмаль",
+        "en": "Uxmal"
+      },
+      {
+        "id": "o2",
+        "ru": "Тикаль",
+        "en": "Tikal"
+      },
+      {
+        "id": "o3",
+        "ru": "Паленке",
+        "en": "Palenque"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/483/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_teotihuacan",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком древнем городе Мексики находятся Дорога мёртвых и пирамиды Солнца и Луны?",
+        "explanation": "Планировка города объединяла храмы, дворцы и жилые районы."
+      },
+      "en": {
+        "question": "Which ancient Mexican city contains the Avenue of the Dead and the pyramids of the Sun and Moon?",
+        "explanation": "The city plan brought together temples, palaces and residential areas."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Теотиуакан",
+        "en": "Teotihuacan"
+      },
+      {
+        "id": "o1",
+        "ru": "Чичен-Ица",
+        "en": "Chichen Itza"
+      },
+      {
+        "id": "o2",
+        "ru": "Паленке",
+        "en": "Palenque"
+      },
+      {
+        "id": "o3",
+        "ru": "Ушмаль",
+        "en": "Uxmal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/414/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_tikal",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город майя с Большой площадью сохранился среди лесов Гватемалы?",
+        "explanation": "Над площадями Тикаля возвышаются храмы, а надписи рассказывают о его правителях."
+      },
+      "en": {
+        "question": "Which Maya city with a Great Plaza survives in the forests of Guatemala?",
+        "explanation": "Temples tower over Tikal’s plazas, and inscriptions record its dynastic history."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тикаль",
+        "en": "Tikal"
+      },
+      {
+        "id": "o1",
+        "ru": "Копан",
+        "en": "Copán"
+      },
+      {
+        "id": "o2",
+        "ru": "Паленке",
+        "en": "Palenque"
+      },
+      {
+        "id": "o3",
+        "ru": "Чичен-Ица",
+        "en": "Chichen Itza"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/64/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_copan",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе майя в Гондурасе находится Иероглифическая лестница?",
+        "explanation": "Знаки на ступенях образуют одну из важнейших сохранившихся надписей майя."
+      },
+      "en": {
+        "question": "Which Maya city in Honduras contains the Hieroglyphic Stairway?",
+        "explanation": "The glyphs on the steps form one of the most significant surviving Maya inscriptions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Копан",
+        "en": "Copán"
+      },
+      {
+        "id": "o1",
+        "ru": "Тикаль",
+        "en": "Tikal"
+      },
+      {
+        "id": "o2",
+        "ru": "Ушмаль",
+        "en": "Uxmal"
+      },
+      {
+        "id": "o3",
+        "ru": "Паленке",
+        "en": "Palenque"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/129/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_palenque",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город майя в Чьяпасе достиг расцвета в VII веке и известен резными рельефами?",
+        "explanation": "Рельефы Паленке изображают сцены из мифологии майя."
+      },
+      "en": {
+        "question": "Which Maya city in Chiapas flourished in the seventh century and is known for its carved reliefs?",
+        "explanation": "Reliefs at Palenque depict scenes from Maya mythology."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Паленке",
+        "en": "Palenque"
+      },
+      {
+        "id": "o1",
+        "ru": "Тикаль",
+        "en": "Tikal"
+      },
+      {
+        "id": "o2",
+        "ru": "Копан",
+        "en": "Copán"
+      },
+      {
+        "id": "o3",
+        "ru": "Ушмаль",
+        "en": "Uxmal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/411/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_uxmal",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе майя стоит Пирамида Волшебника?",
+        "explanation": "На зданиях Ушмаля сохранились украшения в архитектурном стиле Пуук."
+      },
+      "en": {
+        "question": "Which Maya city contains the Pyramid of the Magician?",
+        "explanation": "The buildings at Uxmal preserve decorative work in the Puuc architectural style."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ушмаль",
+        "en": "Uxmal"
+      },
+      {
+        "id": "o1",
+        "ru": "Тикаль",
+        "en": "Tikal"
+      },
+      {
+        "id": "o2",
+        "ru": "Паленке",
+        "en": "Palenque"
+      },
+      {
+        "id": "o3",
+        "ru": "Копан",
+        "en": "Copán"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/791/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_nazca",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют древние рисунки животных и геометрических фигур на равнине южнее Лимы?",
+        "explanation": "Некоторые геометрические линии тянутся на несколько километров."
+      },
+      "en": {
+        "question": "What are the ancient animal figures and geometric designs on the coastal plain south of Lima called?",
+        "explanation": "Some of the geometric lines extend for several kilometres."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Линии Наска",
+        "en": "Nasca Lines"
+      },
+      {
+        "id": "o1",
+        "ru": "Резьба Чавина",
+        "en": "Chavín carvings"
+      },
+      {
+        "id": "o2",
+        "ru": "Рисунки Альты",
+        "en": "Alta rock carvings"
+      },
+      {
+        "id": "o3",
+        "ru": "Рисунки Тадрарт-Акакуса",
+        "en": "Tadrart Acacus rock art"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/700/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_caral",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой древний город в долине реки Супе известен платформами и углублёнными круглыми площадями?",
+        "explanation": "На раскопках нашли кипу, систему узлов для записи информации."
+      },
+      "en": {
+        "question": "Which ancient city in the Supe Valley is known for its platforms and sunken circular plazas?",
+        "explanation": "Excavations yielded a quipu, a system of knots for recording information."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Караль",
+        "en": "Caral"
+      },
+      {
+        "id": "o1",
+        "ru": "Чан-Чан",
+        "en": "Chan Chan"
+      },
+      {
+        "id": "o2",
+        "ru": "Мачу-Пикчу",
+        "en": "Machu Picchu"
+      },
+      {
+        "id": "o3",
+        "ru": "Тиуанако",
+        "en": "Tiwanaku"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1269/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_tiwanaku",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком древнем городе Боливии находятся Ворота Солнца?",
+        "explanation": "Тиуанако расположен на плоскогорье Альтиплано близ озера Титикака."
+      },
+      "en": {
+        "question": "Which ancient city in Bolivia contains the Gateway of the Sun?",
+        "explanation": "Tiwanaku lies on the Altiplano near Lake Titicaca."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тиуанако",
+        "en": "Tiwanaku"
+      },
+      {
+        "id": "o1",
+        "ru": "Караль",
+        "en": "Caral"
+      },
+      {
+        "id": "o2",
+        "ru": "Чан-Чан",
+        "en": "Chan Chan"
+      },
+      {
+        "id": "o3",
+        "ru": "Мачу-Пикчу",
+        "en": "Machu Picchu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/567/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_easter",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется полинезийский остров, где установлены каменные статуи моаи?",
+        "explanation": "Многие моаи ставили на церемониальных платформах, которые называют аху."
+      },
+      "en": {
+        "question": "Which Polynesian island is home to the stone statues known as moai?",
+        "explanation": "Many moai were set on ceremonial platforms known as ahu."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рапа-Нуи",
+        "en": "Rapa Nui"
+      },
+      {
+        "id": "o1",
+        "ru": "Таити",
+        "en": "Tahiti"
+      },
+      {
+        "id": "o2",
+        "ru": "Муреа",
+        "en": "Moorea"
+      },
+      {
+        "id": "o3",
+        "ru": "Мангарева",
+        "en": "Mangareva"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/715/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_great_zimbabwe",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город народа шона оставил после себя каменный комплекс «Большая ограда»?",
+        "explanation": "Ограда имеет форму эллипса и относится к XIV веку."
+      },
+      "en": {
+        "question": "Which city of the Shona people left behind the stone complex called the Great Enclosure?",
+        "explanation": "The enclosure is elliptical and dates to the fourteenth century."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Большой Зимбабве",
+        "en": "Great Zimbabwe"
+      },
+      {
+        "id": "o1",
+        "ru": "Аксум",
+        "en": "Aksum"
+      },
+      {
+        "id": "o2",
+        "ru": "Мероэ",
+        "en": "Meroë"
+      },
+      {
+        "id": "o3",
+        "ru": "Килва-Кисивани",
+        "en": "Kilwa Kisiwani"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/364/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_aksum",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой древний город Эфиопии известен высокими каменными стелами и царскими гробницами?",
+        "explanation": "Даже после упадка города здесь продолжали короновать эфиопских императоров."
+      },
+      "en": {
+        "question": "Which ancient Ethiopian city is known for tall stone stelae and royal tombs?",
+        "explanation": "Ethiopian emperors continued to be crowned here after the city’s political decline."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аксум",
+        "en": "Aksum"
+      },
+      {
+        "id": "o1",
+        "ru": "Мероэ",
+        "en": "Meroë"
+      },
+      {
+        "id": "o2",
+        "ru": "Адулис",
+        "en": "Adulis"
+      },
+      {
+        "id": "o3",
+        "ru": "Большой Зимбабве",
+        "en": "Great Zimbabwe"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/15/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_meroe",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Где в Судане сохранились пирамиды, служившие гробницами правителей Куша?",
+        "explanation": "Рядом с погребальными сооружениями сохранились остатки столицы царства Куш."
+      },
+      "en": {
+        "question": "Where in Sudan do pyramids built as tombs for Kushite rulers survive?",
+        "explanation": "The burial grounds stand near the remains of a capital of the Kingdom of Kush."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мероэ",
+        "en": "Meroë"
+      },
+      {
+        "id": "o1",
+        "ru": "Аксум",
+        "en": "Aksum"
+      },
+      {
+        "id": "o2",
+        "ru": "Лептис-Магна",
+        "en": "Leptis Magna"
+      },
+      {
+        "id": "o3",
+        "ru": "Волюбилис",
+        "en": "Volubilis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1336/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_hattusa",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая столица хеттов в Анатолии известна Львиными воротами?",
+        "explanation": "В окрестностях города сохранились скальные рельефы Язылыкая."
+      },
+      "en": {
+        "question": "Which Hittite capital in Anatolia is known for its Lion Gate?",
+        "explanation": "Rock reliefs survive at nearby Yazılıkaya."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хаттуса",
+        "en": "Hattusha"
+      },
+      {
+        "id": "o1",
+        "ru": "Троя",
+        "en": "Troy"
+      },
+      {
+        "id": "o2",
+        "ru": "Эфес",
+        "en": "Ephesus"
+      },
+      {
+        "id": "o3",
+        "ru": "Иераполь",
+        "en": "Hierapolis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/377/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_troy",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой город из «Илиады» археологи связывают с холмом Гиссарлык?",
+        "explanation": "Здесь нашли слои поселений, существовавших в разные эпохи."
+      },
+      "en": {
+        "question": "Which city in the Iliad do archaeologists associate with the mound of Hisarlık?",
+        "explanation": "Archaeologists found layers of settlements from different eras here."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Троя",
+        "en": "Troy"
+      },
+      {
+        "id": "o1",
+        "ru": "Микены",
+        "en": "Mycenae"
+      },
+      {
+        "id": "o2",
+        "ru": "Хаттуса",
+        "en": "Hattusha"
+      },
+      {
+        "id": "o3",
+        "ru": "Эфес",
+        "en": "Ephesus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/849/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_ephesus",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком античном городе находилась библиотека Цельса?",
+        "explanation": "Эфес был портом. По мере отступления берега поселения перемещались на запад."
+      },
+      "en": {
+        "question": "Which ancient city contained the Library of Celsus?",
+        "explanation": "Ephesus was a port. Its settlements moved west as the coastline receded."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эфес",
+        "en": "Ephesus"
+      },
+      {
+        "id": "o1",
+        "ru": "Афродисиас",
+        "en": "Aphrodisias"
+      },
+      {
+        "id": "o2",
+        "ru": "Иераполь",
+        "en": "Hierapolis"
+      },
+      {
+        "id": "o3",
+        "ru": "Делос",
+        "en": "Delos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1018/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_aphrodisias",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой античный город в Малой Азии прославился скульптурами из мрамора местных каменоломен?",
+        "explanation": "Каменоломни к северо-востоку от Афродисиаса входят в тот же памятник ЮНЕСКО."
+      },
+      "en": {
+        "question": "Which ancient city in Asia Minor was renowned for sculptures made of marble from nearby quarries?",
+        "explanation": "The quarries northeast of Aphrodisias are part of the same World Heritage property."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Афродисиас",
+        "en": "Aphrodisias"
+      },
+      {
+        "id": "o1",
+        "ru": "Эфес",
+        "en": "Ephesus"
+      },
+      {
+        "id": "o2",
+        "ru": "Иераполь",
+        "en": "Hierapolis"
+      },
+      {
+        "id": "o3",
+        "ru": "Перге",
+        "en": "Perge"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/1519/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_hierapolis",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой античный город стоял у белых террас Памуккале?",
+        "explanation": "Террасы образовали минеральные отложения из воды горячих источников."
+      },
+      "en": {
+        "question": "Which ancient city stood beside the white terraces of Pamukkale?",
+        "explanation": "Minerals deposited by hot spring water formed the terraces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иераполь",
+        "en": "Hierapolis"
+      },
+      {
+        "id": "o1",
+        "ru": "Эфес",
+        "en": "Ephesus"
+      },
+      {
+        "id": "o2",
+        "ru": "Перге",
+        "en": "Perge"
+      },
+      {
+        "id": "o3",
+        "ru": "Афродисиас",
+        "en": "Aphrodisias"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/485/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_mycenae",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой крепости бронзового века на Пелопоннесе находятся Львиные ворота?",
+        "explanation": "ЮНЕСКО включила Микены и соседний Тиринф в один объект Всемирного наследия."
+      },
+      "en": {
+        "question": "Which Bronze Age citadel in the Peloponnese contains the Lion Gate?",
+        "explanation": "UNESCO lists Mycenae and nearby Tiryns as a single World Heritage property."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Микены",
+        "en": "Mycenae"
+      },
+      {
+        "id": "o1",
+        "ru": "Тиринф",
+        "en": "Tiryns"
+      },
+      {
+        "id": "o2",
+        "ru": "Пилос",
+        "en": "Pylos"
+      },
+      {
+        "id": "o3",
+        "ru": "Орхомен",
+        "en": "Orchomenos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/941/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_delos",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком острове Киклад находилось святилище Аполлона, которое посещали паломники со всей Греции?",
+        "explanation": "Остров также был оживлённым торговым портом."
+      },
+      "en": {
+        "question": "Which Cycladic island housed a sanctuary of Apollo that attracted pilgrims from across Greece?",
+        "explanation": "The island was also a busy trading port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Делос",
+        "en": "Delos"
+      },
+      {
+        "id": "o1",
+        "ru": "Наксос",
+        "en": "Naxos"
+      },
+      {
+        "id": "o2",
+        "ru": "Парос",
+        "en": "Paros"
+      },
+      {
+        "id": "o3",
+        "ru": "Мелос",
+        "en": "Melos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/530/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_epidaurus",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе Пелопоннеса при святилище Асклепия сохранился древнегреческий театр?",
+        "explanation": "В комплекс входили постройки, где лечили больных."
+      },
+      "en": {
+        "question": "Which Peloponnesian city has an ancient Greek theatre at its sanctuary of Asclepius?",
+        "explanation": "The complex included buildings where the sick were treated."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпидавр",
+        "en": "Epidaurus"
+      },
+      {
+        "id": "o1",
+        "ru": "Коринф",
+        "en": "Corinth"
+      },
+      {
+        "id": "o2",
+        "ru": "Микены",
+        "en": "Mycenae"
+      },
+      {
+        "id": "o3",
+        "ru": "Олимпия",
+        "en": "Olympia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/491/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_butrint",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой памятник на юге Албании был греческой колонией, римским городом и центром епископства?",
+        "explanation": "В Бутринте сохранилась раннехристианская крещальня, устроенная в римской постройке."
+      },
+      "en": {
+        "question": "Which site in southern Albania was a Greek colony, a Roman city and a bishopric?",
+        "explanation": "Butrint preserves an early Christian baptistery adapted from a Roman building."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бутринт",
+        "en": "Butrint"
+      },
+      {
+        "id": "o1",
+        "ru": "Аполлония",
+        "en": "Apollonia"
+      },
+      {
+        "id": "o2",
+        "ru": "Дуррес",
+        "en": "Durrës"
+      },
+      {
+        "id": "o3",
+        "ru": "Биллис",
+        "en": "Byllis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/570/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_dougga",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком древнем городе Туниса сохранились римский Капитолий и ливийско-пунический мавзолей?",
+        "explanation": "Надписи из Дугги помогли исследователям расшифровать древний ливийский язык."
+      },
+      "en": {
+        "question": "Which ancient Tunisian city preserves a Roman Capitol and a Libyco-Punic mausoleum?",
+        "explanation": "Inscriptions from Dougga helped researchers decipher the ancient Libyan language."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дугга",
+        "en": "Dougga"
+      },
+      {
+        "id": "o1",
+        "ru": "Карфаген",
+        "en": "Carthage"
+      },
+      {
+        "id": "o2",
+        "ru": "Утика",
+        "en": "Utica"
+      },
+      {
+        "id": "o3",
+        "ru": "Сус",
+        "en": "Sousse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/794/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_timgad",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую колонию основал Траян в 100 году на месте нынешнего Алжира?",
+        "explanation": "План Тимгада строился вокруг двух пересекающихся под прямым углом улиц."
+      },
+      "en": {
+        "question": "Which colony did Trajan found in AD 100 in what is now Algeria?",
+        "explanation": "Timgad’s plan was organised around two main streets that crossed at right angles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тимгад",
+        "en": "Timgad"
+      },
+      {
+        "id": "o1",
+        "ru": "Джемила",
+        "en": "Djémila"
+      },
+      {
+        "id": "o2",
+        "ru": "Типаса",
+        "en": "Tipasa"
+      },
+      {
+        "id": "o3",
+        "ru": "Ламбезис",
+        "en": "Lambaesis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/194/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_volubilis",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе Марокко сохранились мозаики и триумфальная арка римской эпохи?",
+        "explanation": "Волюбилис был важным центром римской провинции Мавретания Тингитанская."
+      },
+      "en": {
+        "question": "Which city in Morocco preserves mosaics and a triumphal arch from the Roman period?",
+        "explanation": "Volubilis was an important centre of the Roman province of Mauretania Tingitana."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Волюбилис",
+        "en": "Volubilis"
+      },
+      {
+        "id": "o1",
+        "ru": "Ликсус",
+        "en": "Lixus"
+      },
+      {
+        "id": "o2",
+        "ru": "Сале",
+        "en": "Salé"
+      },
+      {
+        "id": "o3",
+        "ru": "Танжер",
+        "en": "Tangier"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/836/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_baalbek",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В каком городе Ливана сохранились огромные римские храмы Юпитера и Бахуса?",
+        "explanation": "Колонны вокруг главного помещения храма Юпитера достигали около 20 метров."
+      },
+      "en": {
+        "question": "Which city in Lebanon preserves the monumental Roman temples of Jupiter and Bacchus?",
+        "explanation": "The columns around the main chamber of the Temple of Jupiter stood about 20 metres tall."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Баальбек",
+        "en": "Baalbek"
+      },
+      {
+        "id": "o1",
+        "ru": "Тир",
+        "en": "Tyre"
+      },
+      {
+        "id": "o2",
+        "ru": "Библ",
+        "en": "Byblos"
+      },
+      {
+        "id": "o3",
+        "ru": "Сидон",
+        "en": "Sidon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/294/"
+    ],
+    "image": null
+  },
+  {
+    "id": "civilizations_m50_palmyra",
+    "categoryId": "civilizations",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой древний город в сирийском оазисе пересекала улица с колоннадой длиной более километра?",
+        "explanation": "Колоннада связывала главные общественные постройки города."
+      },
+      "en": {
+        "question": "Which ancient city in a Syrian oasis had a colonnaded street more than a kilometre long?",
+        "explanation": "The colonnade linked major public buildings across the city."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пальмира",
+        "en": "Palmyra"
+      },
+      {
+        "id": "o1",
+        "ru": "Босра",
+        "en": "Bosra"
+      },
+      {
+        "id": "o2",
+        "ru": "Апамея",
+        "en": "Apamea"
+      },
+      {
+        "id": "o3",
+        "ru": "Дура-Европос",
+        "en": "Dura-Europos"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://whc.unesco.org/en/list/23/"
+    ],
+    "image": null
   }
 ]
