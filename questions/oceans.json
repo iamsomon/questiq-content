@@ -1318,5 +1318,885 @@
       "https://oceanservice.noaa.gov/facts/seamounts.html"
     ],
     "image": null
+  },
+  {
+    "id": "oceans_m50_salinity",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется содержание растворённых солей в морской воде?",
+        "explanation": "Испарение и поступление пресной воды могут изменять её."
+      },
+      "en": {
+        "question": "What is the concentration of dissolved salts in seawater called?",
+        "explanation": "Evaporation and freshwater input can change it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Солёность",
+        "en": "Salinity"
+      },
+      {
+        "id": "o1",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o3",
+        "ru": "Саргассово море",
+        "en": "Sargasso Sea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.usgs.gov/faqs/why-ocean-salty"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_estuary",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется прибрежная зона смешения речной и морской воды?",
+        "explanation": "Такие зоны часто служат важными местами обитания молоди рыб."
+      },
+      "en": {
+        "question": "What is a coastal zone where river water mixes with seawater called?",
+        "explanation": "These areas often provide important nursery habitats for fish."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эстуарий",
+        "en": "Estuary"
+      },
+      {
+        "id": "o1",
+        "ru": "Морской снег",
+        "en": "Marine snow"
+      },
+      {
+        "id": "o2",
+        "ru": "Полынья",
+        "en": "Polynya"
+      },
+      {
+        "id": "o3",
+        "ru": "Квадратурный прилив",
+        "en": "Neap tide"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/estuary.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_shelf",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется подводное продолжение материка до выраженного перегиба дна?",
+        "explanation": "За бровкой шельфа обычно начинается более крутой материковый склон."
+      },
+      "en": {
+        "question": "What is the submerged continuation of a continent before the pronounced break in slope called?",
+        "explanation": "Beyond the shelf break a steeper continental slope usually begins."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Континентальный шельф",
+        "en": "Continental shelf"
+      },
+      {
+        "id": "o1",
+        "ru": "Подводный каньон",
+        "en": "Submarine canyon"
+      },
+      {
+        "id": "o2",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o3",
+        "ru": "Морской снег",
+        "en": "Marine snow"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_slope",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется крутая часть подводной окраины материка за шельфом?",
+        "explanation": "Он ведёт от мелководной окраины к большим глубинам."
+      },
+      "en": {
+        "question": "What is the steep part of a continental margin beyond the shelf called?",
+        "explanation": "It leads from the shallow margin towards greater depths."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Материковый склон",
+        "en": "Continental slope"
+      },
+      {
+        "id": "o1",
+        "ru": "Подводный каньон",
+        "en": "Submarine canyon"
+      },
+      {
+        "id": "o2",
+        "ru": "Пикноклин",
+        "en": "Pycnocline"
+      },
+      {
+        "id": "o3",
+        "ru": "Солёность",
+        "en": "Salinity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_abyssal",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется обширная ровная область глубоководного океанского дна?",
+        "explanation": "Осадки со временем сглаживают неровности её поверхности."
+      },
+      "en": {
+        "question": "What is a broad flat region of the deep ocean floor called?",
+        "explanation": "Sediments gradually smooth irregularities on its surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Абиссальная равнина",
+        "en": "Abyssal plain"
+      },
+      {
+        "id": "o1",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Квадратурный прилив",
+        "en": "Neap tide"
+      },
+      {
+        "id": "o3",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_bathymetry",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется изучение глубины и рельефа дна водоёмов?",
+        "explanation": "Батиметрические карты показывают подводные горы, впадины и равнины."
+      },
+      "en": {
+        "question": "What is the study of water depth and underwater terrain called?",
+        "explanation": "Bathymetric maps show underwater mountains, depressions and plains."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Батиметрия",
+        "en": "Bathymetry"
+      },
+      {
+        "id": "o1",
+        "ru": "Метеорология",
+        "en": "Meteorology"
+      },
+      {
+        "id": "o2",
+        "ru": "Астрометрия",
+        "en": "Astrometry"
+      },
+      {
+        "id": "o3",
+        "ru": "Дендрохронология",
+        "en": "Dendrochronology"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_atoll",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется кольцевой коралловый риф, окружающий лагуну?",
+        "explanation": "Такие образования часто связаны с погружением вулканического острова."
+      },
+      "en": {
+        "question": "What is a ring-shaped coral reef surrounding a lagoon called?",
+        "explanation": "Such formations are often associated with a sinking volcanic island."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Атолл",
+        "en": "Atoll"
+      },
+      {
+        "id": "o1",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o2",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o3",
+        "ru": "Полынья",
+        "en": "Polynya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/education/tutorial_corals/coral04_reefs.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_lagoon",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется водоём, отделённый от моря естественным барьером, например рифом или песчаной косой?",
+        "explanation": "Прибрежные лагуны обычно мельче лагун коралловых атоллов."
+      },
+      "en": {
+        "question": "What is a water body separated from the sea by a natural barrier such as a reef or sandbar called?",
+        "explanation": "Coastal lagoons are generally shallower than coral-atoll lagoons."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лагуна",
+        "en": "Lagoon"
+      },
+      {
+        "id": "o1",
+        "ru": "Саргассово море",
+        "en": "Sargasso Sea"
+      },
+      {
+        "id": "o2",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o3",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/lagoon.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_halocline",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется слой воды с быстрым изменением солёности по глубине?",
+        "explanation": "Название связано с градиентом солёности, а не температуры."
+      },
+      "en": {
+        "question": "What is a water layer where salinity changes rapidly with depth called?",
+        "explanation": "The name refers to a salinity gradient rather than a temperature gradient."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o1",
+        "ru": "Термоклин",
+        "en": "Thermocline"
+      },
+      {
+        "id": "o2",
+        "ru": "Кислородный минимум",
+        "en": "Oxygen minimum zone"
+      },
+      {
+        "id": "o3",
+        "ru": "Перемешанный слой",
+        "en": "Mixed layer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanmotion.org/html/background/ocean-vertical-structure.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_pycnocline",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется слой воды с быстрым изменением плотности по глубине?",
+        "explanation": "Плотность зависит, в частности, от температуры и солёности."
+      },
+      "en": {
+        "question": "What is a water layer where density changes rapidly with depth called?",
+        "explanation": "Density depends partly on temperature and salinity."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пикноклин",
+        "en": "Pycnocline"
+      },
+      {
+        "id": "o1",
+        "ru": "Перемешанный слой",
+        "en": "Mixed layer"
+      },
+      {
+        "id": "o2",
+        "ru": "Абиссальная равнина",
+        "en": "Abyssal plain"
+      },
+      {
+        "id": "o3",
+        "ru": "Зона прибоя",
+        "en": "Surf zone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanmotion.org/html/background/ocean-vertical-structure.htm"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_ekman_spiral",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется вызванный вращением Земли поворот направления ветрового течения с глубиной?",
+        "explanation": "Более глубокие слои движутся медленнее, а направление их движения постепенно меняется."
+      },
+      "en": {
+        "question": "What is the rotation-driven turning of a wind-induced current with depth called?",
+        "explanation": "Deeper layers move more slowly, and their direction gradually changes."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спираль Экмана",
+        "en": "Ekman spiral"
+      },
+      {
+        "id": "o1",
+        "ru": "Течение Гумбольдта",
+        "en": "Humboldt Current"
+      },
+      {
+        "id": "o2",
+        "ru": "Приливная волна",
+        "en": "Tidal wave"
+      },
+      {
+        "id": "o3",
+        "ru": "Термохалинная циркуляция",
+        "en": "Thermohaline circulation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/education/tutorial_currents/04currents4.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_coriolis",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется кажущееся отклонение движущейся воды в системе отсчёта вращающейся Земли?",
+        "explanation": "В Северном полушарии отклонение происходит вправо от движения."
+      },
+      "en": {
+        "question": "What is the apparent deflection of moving water in Earth's rotating reference frame called?",
+        "explanation": "In the Northern Hemisphere the deflection is to the right of motion."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эффект Кориолиса",
+        "en": "Coriolis effect"
+      },
+      {
+        "id": "o1",
+        "ru": "Закисление океана",
+        "en": "Ocean acidification"
+      },
+      {
+        "id": "o2",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o3",
+        "ru": "Лагуна",
+        "en": "Lagoon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_spring_tide",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется прилив с большим диапазоном при близком выстраивании Солнца, Земли и Луны?",
+        "explanation": "Английское spring здесь не означает время года."
+      },
+      "en": {
+        "question": "What is a large-range tide when the Sun, Earth and Moon are nearly aligned called?",
+        "explanation": "The word spring here does not refer to the season."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o1",
+        "ru": "Квадратурный прилив",
+        "en": "Neap tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Штормовой нагон",
+        "en": "Storm surge"
+      },
+      {
+        "id": "o3",
+        "ru": "Цунами",
+        "en": "Tsunami"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_neap_tide",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется прилив с меньшим диапазоном около первой и последней четвертей Луны?",
+        "explanation": "Притяжение Солнца и Луны частично ослабляет суммарный приливной эффект."
+      },
+      "en": {
+        "question": "What is a smaller-range tide near the first and last lunar quarters called?",
+        "explanation": "The solar and lunar pulls partly reduce the combined tidal effect."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Квадратурный прилив",
+        "en": "Neap tide"
+      },
+      {
+        "id": "o1",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Штормовой нагон",
+        "en": "Storm surge"
+      },
+      {
+        "id": "o3",
+        "ru": "Цунами",
+        "en": "Tsunami"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_rip",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется узкий поток воды, направленный от берега через прибойную зону?",
+        "explanation": "Это горизонтальный поток, а не течение, затягивающее под воду."
+      },
+      "en": {
+        "question": "What is a narrow flow of water moving away from shore through the surf zone called?",
+        "explanation": "It is a horizontal flow, not a current that pulls people underwater."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отбойное течение",
+        "en": "Rip current"
+      },
+      {
+        "id": "o1",
+        "ru": "Морской снег",
+        "en": "Marine snow"
+      },
+      {
+        "id": "o2",
+        "ru": "Подводный каньон",
+        "en": "Submarine canyon"
+      },
+      {
+        "id": "o3",
+        "ru": "Пикноклин",
+        "en": "Pycnocline"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/ripcurrent.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_sargasso",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется море в Атлантике, границы которого определяются течениями, а не берегами?",
+        "explanation": "Оно названо по плавающим водорослям саргассум."
+      },
+      "en": {
+        "question": "What is the Atlantic sea bounded by currents rather than coastlines called?",
+        "explanation": "It is named after floating Sargassum seaweed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Саргассово море",
+        "en": "Sargasso Sea"
+      },
+      {
+        "id": "o1",
+        "ru": "Карибское море",
+        "en": "Caribbean Sea"
+      },
+      {
+        "id": "o2",
+        "ru": "Балтийское море",
+        "en": "Baltic Sea"
+      },
+      {
+        "id": "o3",
+        "ru": "Средиземное море",
+        "en": "Mediterranean Sea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/sargassosea.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_acidification",
+    "categoryId": "oceans",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется снижение pH океана вследствие поглощения углекислого газа?",
+        "explanation": "Этот процесс затрудняет образование раковин у ряда организмов."
+      },
+      "en": {
+        "question": "What is the decline in ocean pH caused by carbon-dioxide uptake called?",
+        "explanation": "The process makes shell building harder for some organisms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Закисление океана",
+        "en": "Ocean acidification"
+      },
+      {
+        "id": "o1",
+        "ru": "Галоклин",
+        "en": "Halocline"
+      },
+      {
+        "id": "o2",
+        "ru": "Солёность",
+        "en": "Salinity"
+      },
+      {
+        "id": "o3",
+        "ru": "Полынья",
+        "en": "Polynya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/acidification.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_marine_snow",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют поток органических частиц, медленно опускающихся из верхних слоёв океана?",
+        "explanation": "Такие частицы служат пищей многим глубоководным организмам."
+      },
+      "en": {
+        "question": "What is the shower of organic debris sinking from upper ocean waters called?",
+        "explanation": "These particles provide food for many deep-sea organisms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Морской снег",
+        "en": "Marine snow"
+      },
+      {
+        "id": "o1",
+        "ru": "Квадратурный прилив",
+        "en": "Neap tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Закисление океана",
+        "en": "Ocean acidification"
+      },
+      {
+        "id": "o3",
+        "ru": "Экмановский перенос",
+        "en": "Ekman transport"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://oceanservice.noaa.gov/facts/marinesnow.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_chemosynthesis",
+    "categoryId": "oceans",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется образование органического вещества с использованием энергии химических реакций?",
+        "explanation": "Так могут существовать сообщества у гидротермальных источников без солнечного света."
+      },
+      "en": {
+        "question": "What is the production of organic matter using energy from chemical reactions called?",
+        "explanation": "This can support vent communities without sunlight."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хемосинтез",
+        "en": "Chemosynthesis"
+      },
+      {
+        "id": "o1",
+        "ru": "Эффект Кориолиса",
+        "en": "Coriolis effect"
+      },
+      {
+        "id": "o2",
+        "ru": "Материковый склон",
+        "en": "Continental slope"
+      },
+      {
+        "id": "o3",
+        "ru": "Экмановский перенос",
+        "en": "Ekman transport"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pmel.noaa.gov/eoi/nemo/explorer/concepts/chemosynthesis.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "oceans_m50_polynya",
+    "categoryId": "oceans",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется устойчивая область открытой воды среди морских льдов?",
+        "explanation": "Её могут поддерживать ветры, течения или поступление тепла."
+      },
+      "en": {
+        "question": "What is a persistent area of open water within sea ice called?",
+        "explanation": "Winds, currents or heat input can keep it open."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Полынья",
+        "en": "Polynya"
+      },
+      {
+        "id": "o1",
+        "ru": "Сизигийный прилив",
+        "en": "Spring tide"
+      },
+      {
+        "id": "o2",
+        "ru": "Континентальный шельф",
+        "en": "Continental shelf"
+      },
+      {
+        "id": "o3",
+        "ru": "Отбойное течение",
+        "en": "Rip current"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice"
+    ],
+    "image": null
   }
 ]

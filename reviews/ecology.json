@@ -538,5 +538,365 @@
         "claim": "Correct answer: Some supports life processes and dissipates as heat. Energy flows through an ecosystem with reduced availability rather than passing intact along the chain."
       }
     ]
+  },
+  {
+    "id": "ecology_m50_habitat",
+    "status": "approved",
+    "sha256": "b1aa7a8b9712b2a6b9970172b6c2c0c54a6c7c3a9d0cc93cd46a92e8827a3992",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/",
+        "location": "Glossary entry Habitat",
+        "claim": "Which term means the natural place where an organism lives? Answer: Habitat. It provides conditions and resources for the species."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_niche",
+    "status": "approved",
+    "sha256": "460925d2cd8b096743e032033dbcbf173d46c199e295b3171a83499924e72d23",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Predation and Herbivory; Competitive Exclusion Principle",
+        "claim": "Which term means a species' role in an ecosystem and how it uses resources? Answer: Ecological niche. Two species can live in one place but use different resources."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_endemic",
+    "status": "approved",
+    "sha256": "bddd5783c8dbed620751542a214d093a350c842b3615b4ef6906135205db3bb5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-key-terms",
+        "location": "Endemic species",
+        "claim": "Which term means a species naturally restricted to a particular geographic area? Answer: Endemic species. A restricted range can increase vulnerability to local changes."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_extinction",
+    "status": "approved",
+    "sha256": "34eefea6cc7c7e7ea368c58da67143c21af0a921c0e6a71e349d89ea6cf68640",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-key-terms",
+        "location": "Extinction",
+        "claim": "Which term means the complete disappearance of a species from Earth? Answer: Extinction. Losing one population does not always mean losing the entire species."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_in_situ",
+    "status": "approved",
+    "sha256": "0e8430f27f240f15b082ad53508d748530a9c8f336c117358475fe003a76a990",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/",
+        "location": "Glossary entry In situ conservation",
+        "claim": "Which term means protecting a species within its natural habitat? Answer: In situ conservation. Protecting a natural community in a reserve is one example."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_ex_situ",
+    "status": "approved",
+    "sha256": "09d7c48358c8d3615caffbd1a3c75251bf1b485be530378bced901d4c36aea3b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/",
+        "location": "Glossary entry Ex situ conservation",
+        "claim": "Which term means protecting a species outside its natural habitat? Answer: Ex situ conservation. Seed banks are one example."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_corridor",
+    "status": "approved",
+    "sha256": "d6b39e5b6cff237fdcd42944c0c32fef5388126f600463426f5e899a8904a9bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-4-preserving-biodiversity",
+        "location": "Conservation Preserves; Habitat Restoration",
+        "claim": "Which term means a habitat strip connecting separated natural areas? Answer: Ecological corridor. The connection helps organisms move between habitat patches."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_fragmentation",
+    "status": "approved",
+    "sha256": "a8c26c484164e0edb4af15d80e6cfcdf17a75ddb5e8349822d454ed13e45a35e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.gov.scot/publications/scottish-biodiversity-strategy-2045/pages/7/",
+        "location": "Glossary entry Habitat fragmentation",
+        "claim": "Which term means breaking a continuous habitat into isolated patches? Answer: Habitat fragmentation. Roads and construction can interrupt connections between populations."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_bioaccumulation",
+    "status": "approved",
+    "sha256": "a1e3f817cc5cc6b7aadcf97edea731cf4a52e859c019f5d90af4319d533eb0bc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/salish-sea/toxics-food-web",
+        "location": "Bioaccumulation and Biomagnification",
+        "claim": "Which term means the buildup of a substance within one organism over time? Answer: Bioaccumulation. This differs from concentration increasing up a food chain."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_nitrogen_fixation",
+    "status": "approved",
+    "sha256": "e4335125dac14d12cfd072add6ebb34b981bb923b497addf88ba04b76b2f335a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+        "location": "The Nitrogen Cycle",
+        "claim": "Which term means converting atmospheric nitrogen into compounds usable by organisms? Answer: Nitrogen fixation. Some bacteria and archaea play a major natural role."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_nitrification",
+    "status": "approved",
+    "sha256": "8955f92768e78fe5999028f0d437c0f4586694c2cbabf274b684abfae75b715b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+        "location": "The Nitrogen Cycle",
+        "claim": "Which term means microbial oxidation of ammonium through nitrite to nitrate? Answer: Nitrification. It is one stage of the nitrogen cycle."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_denitrification",
+    "status": "approved",
+    "sha256": "efdb86010658c7e6dd73abf978bb3a6a32ff5a5b3f038670aba14450e93727f9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+        "location": "The Nitrogen Cycle",
+        "claim": "Which term means microbial conversion of nitrate into gaseous nitrogen forms? Answer: Denitrification. The process returns nitrogen to the atmosphere."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_biomass",
+    "status": "approved",
+    "sha256": "00a46dda644541e0d2a79d8578595608967118dd58f8961be7de07d4bb0c2543",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/46-key-terms",
+        "location": "Biomass",
+        "claim": "What is the total mass of living organisms in a given area or volume called? Answer: Biomass. When comparing trophic levels, it is often expressed as mass per unit area."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_acid_rain",
+    "status": "approved",
+    "sha256": "74ff78741d906e48dc9f5fa048dad2baefffe0eb0878c8161c1cc2320d16d2dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.epa.gov/acidrain/what-acid-rain",
+        "location": "What is Acid Rain; What Causes Acid Rain",
+        "claim": "Which term means precipitation with increased acidity due to sulfur and nitrogen compounds? Answer: Acid precipitation. Pollutants can travel far from their emission source."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_restoration",
+    "status": "approved",
+    "sha256": "29448e2f07379b1106fc16d5b4bcc0bde407f200ea62262331b4a1b3c4074313",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/47-4-preserving-biodiversity",
+        "location": "Conservation Preserves; Habitat Restoration",
+        "claim": "Which term means helping degraded ecosystems recover? Answer: Ecological restoration. It can include restoring native species and water regimes."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_population_density",
+    "status": "approved",
+    "sha256": "f681921064f14579af1d5c187dff05d2225e93b957cbf629735ebbff0da17915",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-key-terms",
+        "location": "Population density",
+        "claim": "What is the number of population members per unit area or volume called? Answer: Population density. Equal population sizes can have different densities when their territories differ in size."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_phenology",
+    "status": "approved",
+    "sha256": "0cb3ebe0f810563b1348d6c8387d624bc06b22d5ceb229f48b1d4c2498de71ef",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.usanpn.org/about/phenology",
+        "location": "Why phenology: timing of life cycle events",
+        "claim": "Which term means the study of seasonal timing such as flowering and migration? Answer: Phenology. Changes in timing help track nature's response to climate."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_competition",
+    "status": "approved",
+    "sha256": "4282018af212ae500f21adebcd565147c162c82830a5ebf95522f4e6dacb7c68",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Predation and Herbivory; Competitive Exclusion Principle",
+        "claim": "Which term means an interaction between organisms using the same limited resource? Answer: Competition. It can occur within a species or between species."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_predation",
+    "status": "approved",
+    "sha256": "1ccb4b38282563e8ee49f4b5ebd3e8f5d44490ff81314bb80c6e89e640cb8ede",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Predation and Herbivory; Competitive Exclusion Principle",
+        "claim": "Which term means an interaction in which one organism captures and eats another? Answer: Predation. Predators can affect prey abundance and behaviour."
+      }
+    ]
+  },
+  {
+    "id": "ecology_m50_camouflage",
+    "status": "approved",
+    "sha256": "3de1830e8452fc262e403c011e26fd3a3b0ccd56be838c28a388fd03385c231d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. OpenStax chapters 44-47; Scottish government conservation glossary; EPA acid rain and bioaccumulation; USA National Phenology Network.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+        "location": "Predation and Herbivory; Competitive Exclusion Principle",
+        "claim": "Which term means colour or shape that makes an organism harder to detect? Answer: Camouflage. This trait can help both predators and prey."
+      }
+    ]
   }
 ]

@@ -538,5 +538,365 @@
         "claim": "Correct answer: Capsid. Some viruses also have an additional outer membrane envelope."
       }
     ]
+  },
+  {
+    "id": "biology_m50_homozygous",
+    "status": "approved",
+    "sha256": "9d3799b1cea35ae541230ee9af4799d540e2b525e1bf7e67b3c753867f87d096",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Homozygous",
+        "location": "Definition and narration: Homozygous",
+        "claim": "What is a state with two identical alleles of one gene called? Answer: Homozygosity. AA and aa are examples of this notation in a diploid organism."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_heterozygous",
+    "status": "approved",
+    "sha256": "b8fd59ece234ca79d952969edbbf2fc1ceb8234083840806984a7bb8fd6d6e8e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Heterozygous",
+        "location": "Definition and narration: Heterozygous",
+        "claim": "What is a state with two different alleles of one gene called? Answer: Heterozygosity. With two alleles this combination is often written Aa."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_autosome",
+    "status": "approved",
+    "sha256": "b4effbabab9202612a23dd6a8082a4e7a278f9d72eaf3d1d7e793263edcaa938",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Autosome",
+        "location": "Definition and narration: Autosome",
+        "claim": "What is a chromosome that is not a sex chromosome called? Answer: Autosome. Humans usually have 22 pairs of these chromosomes."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_centromere",
+    "status": "approved",
+    "sha256": "ebe1a623b801ea584910d1af4d53ad55fb18e7dad1b7665c3e85d7c919432a42",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Centromere",
+        "location": "Definition and narration: centromere protein assembly and spindle attachment",
+        "claim": "What is the chromosome region where the kinetochore assembles during division called? Answer: Centromere. It helps chromosomes separate correctly into daughter cells."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_telomere",
+    "status": "approved",
+    "sha256": "737e6f744f614890f98f38ec09f9c4ea5c6a52e09fb2ab691b69730fadc0b95b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Telomere",
+        "location": "Definition and narration: Telomere",
+        "claim": "What is a protective region at the end of a linear chromosome called? Answer: Telomere. Repeated sequences help protect chromosome ends."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_codon",
+    "status": "approved",
+    "sha256": "c9ba0edc397c2fe625c6d0fad9a33c86276f225c13f7c5cc801eecd38749e520",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Codon",
+        "location": "Definition and narration: Codon",
+        "claim": "What is an mRNA triplet specifying an amino acid or a stop signal called? Answer: Codon. The ribosome reads a coding sequence in nucleotide triplets."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_transcription",
+    "status": "approved",
+    "sha256": "e88cadb77fc6bbc83bfddba02e9001d87a7f88273d2552c108def4245ae2be85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Transcription",
+        "location": "Definition and narration: Transcription",
+        "claim": "What is the synthesis of RNA using a DNA template called? Answer: Transcription. This is one stage in expressing information stored in a gene."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_translation",
+    "status": "approved",
+    "sha256": "e043ece8047eadda7f738a68ad06d92fbb6727df4d2512221c89ab9ffa6d7546",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Translation",
+        "location": "Definition and narration: Translation",
+        "claim": "What is protein synthesis directed by an mRNA sequence called? Answer: Translation. Amino acids are joined into a polypeptide chain in this process."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_intron",
+    "status": "approved",
+    "sha256": "f07fbf290d8e7a4503b0de5e9250e3d823110a93596c4674faba9abad4745df0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Intron",
+        "location": "Definition and narration: Intron",
+        "claim": "What is a region removed from a primary RNA transcript during splicing called? Answer: Intron. Processing produces mature RNA with the exons joined."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_exon",
+    "status": "approved",
+    "sha256": "2c55f8ca7cae33d77da72cd96041f34cc5107e69835aca47daa1949299715f56",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Exon",
+        "location": "Definition and narration: Exon",
+        "claim": "What is a gene region retained in mature RNA after splicing called? Answer: Exon. Not every retained sequence necessarily encodes amino acids."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_plasmid",
+    "status": "approved",
+    "sha256": "be62b996ab7219bca263a269ad15fd1508dce219e0cb1182f7779ad681f27955",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Plasmid",
+        "location": "Definition and narration: Plasmid",
+        "claim": "What is a small circular DNA molecule often separate from a bacterial chromosome called? Answer: Plasmid. These molecules are used as DNA vectors in genetic engineering."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_karyotype",
+    "status": "approved",
+    "sha256": "df18724c808c2a5e5f5c5059b8e1b921996f89ebf2088c13bd2ce42fbc0f40a1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Karyotype",
+        "location": "Definition and narration: Karyotype",
+        "claim": "What is an organism's full chromosome set or an ordered image of it called? Answer: Karyotype. The image makes chromosome number and shape easier to compare."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_recombination",
+    "status": "approved",
+    "sha256": "c3a19a21515a3f23349b9b8ed79e1840cc54a73fc19df2985aafe54350e03829",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Homologous-Recombination",
+        "location": "Definition and narration: Homologous Recombination",
+        "claim": "What is DNA exchange that creates new combinations of genetic material called? Answer: Recombination. During meiosis exchange can occur between homologous chromosomes."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_haploid",
+    "status": "approved",
+    "sha256": "513bd08aae32ed40e18cb512754ce77621ead3afb22093fbb8eecc4bece865aa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Haploid",
+        "location": "Definition and narration: Haploid",
+        "claim": "What is a cell with one chromosome set called? Answer: Haploid cell. Human egg and sperm cells are normally examples."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_diploid",
+    "status": "approved",
+    "sha256": "a8328d700a171123264048f3e55c1f46f80b651c16bed80904ebc5e71285e2f9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Diploid",
+        "location": "Definition and narration: Diploid",
+        "claim": "What is a cell with two chromosome sets called? Answer: Diploid cell. One set is usually inherited from each parent."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_polygenic",
+    "status": "approved",
+    "sha256": "fb42c820cba1dc88b3d29ad9eb1839d63f3642da1d00845687b29d610d4ba1d8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Polygenic-Trait",
+        "location": "Definition and narration: Polygenic Trait",
+        "claim": "What is a trait influenced by multiple genes called? Answer: Polygenic trait. Human height is an example of a complex trait influenced by many genes."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_gene_flow",
+    "status": "approved",
+    "sha256": "0540c8207816eefcd7355da0eda2175d49818bb940ea10351231a4792c13fb63",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/gene-flow/",
+        "location": "Gene flow: migration and interbreeding; introduction of genetic variants",
+        "claim": "What is the transfer of gene variants between populations when migrants reproduce called? Answer: Gene flow. It can change allele frequencies in a population."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_genetic_drift",
+    "status": "approved",
+    "sha256": "41d27599c33922936e368c493b89a4d7f58234ca124246af65b4b39043090d64",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Genetic-Drift",
+        "location": "Definition and narration: Genetic Drift",
+        "claim": "What is a random change in allele frequencies across generations called? Answer: Genetic drift. Its effects are especially noticeable in small populations."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_proteome",
+    "status": "approved",
+    "sha256": "8a4e8d4e241ae13f78c2563d315935584d2e8034a6651259b9c7f3aa4d79a69e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.rockefeller.edu/proteomics/proteomics-glossary/",
+        "location": "PROTEOME definition; expression at a given time",
+        "claim": "What is the complete set of proteins of an organism, cell or tissue called? Answer: Proteome. The protein set depends on cell type and conditions."
+      }
+    ]
+  },
+  {
+    "id": "biology_m50_epigenetics",
+    "status": "approved",
+    "sha256": "98fb0b56f6e29ffb908b999d6ff36553537cd592bb07a0cc1894ba77f5eea40d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. NHGRI definitions and narration; Berkeley gene flow; Rockefeller proteome. Read the actual definitions and checked all alternatives.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Epigenetics",
+        "location": "Definition and narration: Epigenetics",
+        "claim": "What is the study of gene-activity changes without altering the DNA sequence itself called? Answer: Epigenetics. Chemical tags on DNA are one of the mechanisms studied."
+      }
+    ]
   }
 ]
