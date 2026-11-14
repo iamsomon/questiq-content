@@ -438,5 +438,1765 @@
       "https://www.playstation.com/en-ae/playstation-history/2000-ps2-psp/"
     ],
     "image": null
+  },
+  {
+    "id": "video_games_m50_npc",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает NPC?",
+        "explanation": "Такой персонаж не управляется непосредственно другим игроком."
+      },
+      "en": {
+        "question": "In video games, what does NPC mean?",
+        "explanation": "Such a character is not directly controlled by another player."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Неигровой персонаж",
+        "en": "Non-player character"
+      },
+      {
+        "id": "o1",
+        "ru": "Персонаж другого игрока",
+        "en": "Another player’s character"
+      },
+      {
+        "id": "o2",
+        "ru": "Сетевой профиль игрока",
+        "en": "An online player profile"
+      },
+      {
+        "id": "o3",
+        "ru": "Новая игровая кампания",
+        "en": "A new game campaign"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_hud",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает HUD?",
+        "explanation": "Индикаторы могут показывать здоровье, карту или количество боеприпасов."
+      },
+      "en": {
+        "question": "In video games, what does HUD mean?",
+        "explanation": "The display can show health, a map or ammunition."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Экранные индикаторы состояния",
+        "en": "An on-screen status display"
+      },
+      {
+        "id": "o1",
+        "ru": "Меню покупки игры",
+        "en": "A game purchase menu"
+      },
+      {
+        "id": "o2",
+        "ru": "Вступительный ролик",
+        "en": "An opening cutscene"
+      },
+      {
+        "id": "o3",
+        "ru": "Список установленных игр",
+        "en": "A list of installed games"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_xp",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает XP?",
+        "explanation": "Их часто используют для развития персонажа."
+      },
+      "en": {
+        "question": "In video games, what does XP mean?",
+        "explanation": "They are often used for character progression."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Очки опыта",
+        "en": "Experience points"
+      },
+      {
+        "id": "o1",
+        "ru": "Очки здоровья",
+        "en": "Health points"
+      },
+      {
+        "id": "o2",
+        "ru": "Очки маны",
+        "en": "Mana points"
+      },
+      {
+        "id": "o3",
+        "ru": "Урон в секунду",
+        "en": "Damage per second"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_hp",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает HP?",
+        "explanation": "Они отображают запас здоровья персонажа."
+      },
+      "en": {
+        "question": "In video games, what does HP mean?",
+        "explanation": "They represent a character's remaining health."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Очки здоровья",
+        "en": "Health points"
+      },
+      {
+        "id": "o1",
+        "ru": "Очки опыта",
+        "en": "Experience points"
+      },
+      {
+        "id": "o2",
+        "ru": "Урон в секунду",
+        "en": "Damage per second"
+      },
+      {
+        "id": "o3",
+        "ru": "Очки действия",
+        "en": "Action points"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_dps",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает DPS как боевая характеристика?",
+        "explanation": "Показатель позволяет сравнивать скорость нанесения урона."
+      },
+      "en": {
+        "question": "In video games, what does DPS as a combat statistic mean?",
+        "explanation": "The measure helps compare damage output rates."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Урон в секунду",
+        "en": "Damage per second"
+      },
+      {
+        "id": "o1",
+        "ru": "Урон за удар",
+        "en": "Damage per hit"
+      },
+      {
+        "id": "o2",
+        "ru": "Запас здоровья",
+        "en": "Health pool"
+      },
+      {
+        "id": "o3",
+        "ru": "Частота кадров",
+        "en": "Frame rate"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_aoe",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает AoE у способности?",
+        "explanation": "Такая способность может затронуть несколько целей в выбранной зоне."
+      },
+      "en": {
+        "question": "In video games, what does AoE for an ability mean?",
+        "explanation": "Such an ability can affect multiple targets within a selected area."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Область действия",
+        "en": "Area of effect"
+      },
+      {
+        "id": "o1",
+        "ru": "Время восстановления",
+        "en": "Cooldown"
+      },
+      {
+        "id": "o2",
+        "ru": "Скорость атаки",
+        "en": "Attack speed"
+      },
+      {
+        "id": "o3",
+        "ru": "Шанс критического удара",
+        "en": "Critical hit chance"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_crafting",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх называют крафтом?",
+        "explanation": "Игрок использует найденные материалы для получения новых предметов."
+      },
+      "en": {
+        "question": "What does crafting mean in video games?",
+        "explanation": "The player uses collected materials to create new items."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Создание предметов из ресурсов",
+        "en": "Making items from resources"
+      },
+      {
+        "id": "o1",
+        "ru": "Продажа готовых предметов",
+        "en": "Selling finished items"
+      },
+      {
+        "id": "o2",
+        "ru": "Покупка опыта за валюту",
+        "en": "Buying experience with currency"
+      },
+      {
+        "id": "o3",
+        "ru": "Смена имени героя",
+        "en": "Changing a character’s name"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_pvp",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает PvP?",
+        "explanation": "Соперником выступает другой человек."
+      },
+      "en": {
+        "question": "In video games, what does PvP mean?",
+        "explanation": "The opponent is another person."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игрок против игрока",
+        "en": "Player versus player"
+      },
+      {
+        "id": "o1",
+        "ru": "Игрок против окружения",
+        "en": "Player versus environment"
+      },
+      {
+        "id": "o2",
+        "ru": "Наблюдатель без участия",
+        "en": "A spectator without participation"
+      },
+      {
+        "id": "o3",
+        "ru": "Редактор игровых уровней",
+        "en": "A level editor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_pve",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает PvE?",
+        "explanation": "Противников и испытания задаёт сама игра."
+      },
+      "en": {
+        "question": "In video games, what does PvE mean?",
+        "explanation": "The game supplies opponents and challenges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Игрок против окружения",
+        "en": "Player versus environment"
+      },
+      {
+        "id": "o1",
+        "ru": "Игрок против игрока",
+        "en": "Player versus player"
+      },
+      {
+        "id": "o2",
+        "ru": "Наблюдатель без участия",
+        "en": "A spectator without participation"
+      },
+      {
+        "id": "o3",
+        "ru": "Редактор игровых уровней",
+        "en": "A level editor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_aggro",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает «агро» в контексте внимания врагов в видеоигре?",
+        "explanation": "Например, действие игрока может привлечь противника и заставить его атаковать."
+      },
+      "en": {
+        "question": "What does aggro mean in the context of enemy attention in a video game?",
+        "explanation": "For example, a player’s action may attract an enemy and make it attack."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Внимание и враждебная реакция противника",
+        "en": "An enemy’s attention and hostile response"
+      },
+      {
+        "id": "o1",
+        "ru": "Время восстановления способности",
+        "en": "An ability’s cooldown"
+      },
+      {
+        "id": "o2",
+        "ru": "Количество очков опыта",
+        "en": "The number of experience points"
+      },
+      {
+        "id": "o3",
+        "ru": "Качество найденной добычи",
+        "en": "The quality of collected loot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_easter_egg",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх называют «пасхалкой»?",
+        "explanation": "Разработчики добавляют такие детали как необязательные находки для внимательных игроков."
+      },
+      "en": {
+        "question": "What is an Easter egg in a video game?",
+        "explanation": "Developers add such details as optional discoveries for observant players."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Скрытую шутку, отсылку или секрет",
+        "en": "A hidden joke, reference or secret"
+      },
+      {
+        "id": "o1",
+        "ru": "Обязательное сюжетное задание",
+        "en": "A mandatory story quest"
+      },
+      {
+        "id": "o2",
+        "ru": "Точку автоматического сохранения",
+        "en": "An automatic save point"
+      },
+      {
+        "id": "o3",
+        "ru": "Условие победы в раунде",
+        "en": "A round’s victory condition"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_fast_travel",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает fast travel в игре с большим миром?",
+        "explanation": "Этот механизм позволяет не проходить один и тот же путь заново."
+      },
+      "en": {
+        "question": "What does fast travel mean in a large game world?",
+        "explanation": "The mechanic avoids repeatedly travelling the same route."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Быстрое перемещение между доступными точками",
+        "en": "Quick movement between available travel points"
+      },
+      {
+        "id": "o1",
+        "ru": "Увеличение скорости всех анимаций",
+        "en": "Increasing the speed of all animations"
+      },
+      {
+        "id": "o2",
+        "ru": "Автоматическое прохождение сюжета",
+        "en": "Automatic completion of the story"
+      },
+      {
+        "id": "o3",
+        "ru": "Ускорение смены дня и ночи",
+        "en": "Speeding up the day-night cycle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_mod",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает мод?",
+        "explanation": "Она может менять правила, уровни или внешний вид."
+      },
+      "en": {
+        "question": "In video games, what does a mod mean?",
+        "explanation": "It can change rules, levels or appearance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пользовательская модификация игры",
+        "en": "A user-created game modification"
+      },
+      {
+        "id": "o1",
+        "ru": "Копия сохранённого прохождения",
+        "en": "A copy of saved progress"
+      },
+      {
+        "id": "o2",
+        "ru": "Настройка громкости",
+        "en": "A volume setting"
+      },
+      {
+        "id": "o3",
+        "ru": "Запись игрового повтора",
+        "en": "A replay recording"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_buff",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что обычно означает «бафф» в видеоигре?",
+        "explanation": "Усиление может давать предмет или применённая способность."
+      },
+      "en": {
+        "question": "What does a buff usually mean in a video game?",
+        "explanation": "An item or ability can provide the boost."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Временное усиление характеристик",
+        "en": "A temporary boost to attributes"
+      },
+      {
+        "id": "o1",
+        "ru": "Снижение характеристик противника",
+        "en": "A reduction in an opponent’s attributes"
+      },
+      {
+        "id": "o2",
+        "ru": "Полное удаление персонажа",
+        "en": "Complete removal of a character"
+      },
+      {
+        "id": "o3",
+        "ru": "Сброс всех заданий",
+        "en": "Resetting all quests"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_debuff",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает «дебафф» как игровой эффект?",
+        "explanation": "Эффект может снижать атакующие или защитные возможности цели."
+      },
+      "en": {
+        "question": "What does a debuff mean as an in-game effect?",
+        "explanation": "The effect can reduce a target’s offensive or defensive capabilities."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ослабление характеристик или способностей",
+        "en": "A reduction in attributes or abilities"
+      },
+      {
+        "id": "o1",
+        "ru": "Получение дополнительной жизни",
+        "en": "Gaining an extra life"
+      },
+      {
+        "id": "o2",
+        "ru": "Повышение редкости предмета",
+        "en": "Increasing an item’s rarity"
+      },
+      {
+        "id": "o3",
+        "ru": "Открытие новой игровой области",
+        "en": "Unlocking a new game area"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_arpg",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой жанр объединяет ролевое развитие персонажа с активными сражениями в реальном времени?",
+        "explanation": "Сокращение ARPG происходит от action role-playing game."
+      },
+      "en": {
+        "question": "Which genre combines role-playing character development with active real-time combat?",
+        "explanation": "ARPG stands for action role-playing game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ролевой экшен (ARPG)",
+        "en": "Action role-playing game (ARPG)"
+      },
+      {
+        "id": "o1",
+        "ru": "Пошаговая стратегия",
+        "en": "Turn-based strategy"
+      },
+      {
+        "id": "o2",
+        "ru": "Гоночный симулятор",
+        "en": "Racing simulator"
+      },
+      {
+        "id": "o3",
+        "ru": "Карточная коллекционная игра",
+        "en": "Collectible card game"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_loot",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх обычно называют «лутом»?",
+        "explanation": "Часть такой добычи выпадает случайно, поэтому результаты могут различаться."
+      },
+      "en": {
+        "question": "What is usually called loot in video games?",
+        "explanation": "Some loot is awarded randomly, so the results can differ."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Добычу и получаемые предметы",
+        "en": "Collected rewards and items"
+      },
+      {
+        "id": "o1",
+        "ru": "Раскладку кнопок управления",
+        "en": "The control-button layout"
+      },
+      {
+        "id": "o2",
+        "ru": "Индикатор здоровья героя",
+        "en": "The character’s health indicator"
+      },
+      {
+        "id": "o3",
+        "ru": "Задержку сетевого соединения",
+        "en": "Network connection delay"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_rts",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает RTS?",
+        "explanation": "Действия сторон происходят без обязательного ожидания отдельных ходов."
+      },
+      "en": {
+        "question": "In video games, what does RTS mean?",
+        "explanation": "Players act without necessarily waiting for separate turns."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стратегия в реальном времени",
+        "en": "Real-time strategy"
+      },
+      {
+        "id": "o1",
+        "ru": "Пошаговая стратегия",
+        "en": "Turn-based strategy"
+      },
+      {
+        "id": "o2",
+        "ru": "Ролевая игра",
+        "en": "Role-playing game"
+      },
+      {
+        "id": "o3",
+        "ru": "Гоночный симулятор",
+        "en": "Racing simulator"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_fps",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что в видеоиграх означает FPS в названии жанра?",
+        "explanation": "В технической статистике те же буквы могут означать кадры в секунду."
+      },
+      "en": {
+        "question": "In video games, what does FPS as a genre abbreviation mean?",
+        "explanation": "In performance statistics the same letters can mean frames per second."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шутер от первого лица",
+        "en": "First-person shooter"
+      },
+      {
+        "id": "o1",
+        "ru": "Шутер от третьего лица",
+        "en": "Third-person shooter"
+      },
+      {
+        "id": "o2",
+        "ru": "Стратегия в реальном времени",
+        "en": "Real-time strategy"
+      },
+      {
+        "id": "o3",
+        "ru": "Пошаговая ролевая игра",
+        "en": "Turn-based role-playing game"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_turn_based",
+    "categoryId": "video_games",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что означает пошаговый режим сражения?",
+        "explanation": "Очередность отличает такой бой от непрерывного действия в реальном времени."
+      },
+      "en": {
+        "question": "What does turn-based combat mean?",
+        "explanation": "Taking turns distinguishes this combat from continuous real-time action."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Участники действуют по очереди",
+        "en": "Participants act in turn"
+      },
+      {
+        "id": "o1",
+        "ru": "Все действия выполняются одновременно",
+        "en": "All actions happen simultaneously"
+      },
+      {
+        "id": "o2",
+        "ru": "Персонажи всегда сражаются без команд",
+        "en": "Characters always fight without commands"
+      },
+      {
+        "id": "o3",
+        "ru": "Сражение заменяется видеороликом",
+        "en": "Combat is replaced by a cutscene"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_mario",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии Марио спасает принцессу Пич от Боузера?",
+        "explanation": "Одна из таких историй рассказана в Super Mario Odyssey."
+      },
+      "en": {
+        "question": "In which series does Mario rescue Princess Peach from Bowser?",
+        "explanation": "Super Mario Odyssey tells one such story."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Super Mario",
+        "en": "Super Mario"
+      },
+      {
+        "id": "o1",
+        "ru": "Portal",
+        "en": "Portal"
+      },
+      {
+        "id": "o2",
+        "ru": "Minecraft",
+        "en": "Minecraft"
+      },
+      {
+        "id": "o3",
+        "ru": "God of War",
+        "en": "God of War"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_zelda",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии игр Линк исследует королевство Хайрул?",
+        "explanation": "Линк — герой, которым управляет игрок; Зельда — другой персонаж этой серии."
+      },
+      "en": {
+        "question": "In which game series does Link explore the kingdom of Hyrule?",
+        "explanation": "Link is the player-controlled hero; Zelda is a different character in the series."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "The Legend of Zelda",
+        "en": "The Legend of Zelda"
+      },
+      {
+        "id": "o1",
+        "ru": "Kirby",
+        "en": "Kirby"
+      },
+      {
+        "id": "o2",
+        "ru": "Metroid",
+        "en": "Metroid"
+      },
+      {
+        "id": "o3",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_metroid",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии игр главная героиня — охотница за головами Самус Аран?",
+        "explanation": "В Metroid Dread её приключение происходит на планете ZDR."
+      },
+      "en": {
+        "question": "Which game series stars the bounty hunter Samus Aran?",
+        "explanation": "Her adventure in Metroid Dread takes place on planet ZDR."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Metroid",
+        "en": "Metroid"
+      },
+      {
+        "id": "o1",
+        "ru": "Portal 2",
+        "en": "Portal 2"
+      },
+      {
+        "id": "o2",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o3",
+        "ru": "Fall Guys",
+        "en": "Fall Guys"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/metroid-dread-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_kirby",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии розовый герой вдыхает врагов и копирует их способности?",
+        "explanation": "Копирование даёт герою разные способы сражаться и преодолевать препятствия."
+      },
+      "en": {
+        "question": "In which series does a pink hero inhale enemies and copy their abilities?",
+        "explanation": "Copying gives the hero different ways to fight and overcome obstacles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Kirby",
+        "en": "Kirby"
+      },
+      {
+        "id": "o1",
+        "ru": "Fall Guys",
+        "en": "Fall Guys"
+      },
+      {
+        "id": "o2",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o3",
+        "ru": "Terraria",
+        "en": "Terraria"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_animal_crossing",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии можно обустроить свою жизнь среди животных-соседей и встретить Тома Нука?",
+        "explanation": "Знакомство с жителями и обустройство собственного мира составляют важную часть игры."
+      },
+      "en": {
+        "question": "In which series can you build a life among animal neighbours and meet Tom Nook?",
+        "explanation": "Meeting villagers and shaping your own world are important parts of the game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o1",
+        "ru": "Metroid",
+        "en": "Metroid"
+      },
+      {
+        "id": "o2",
+        "ru": "Super Mario",
+        "en": "Super Mario"
+      },
+      {
+        "id": "o3",
+        "ru": "The Legend of Zelda",
+        "en": "The Legend of Zelda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://animal-crossing.com/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_splatoon",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии игроки соревнуются, закрашивая территорию цветными чернилами?",
+        "explanation": "В режиме Turf War побеждает команда, покрывшая больше земли своим цветом."
+      },
+      "en": {
+        "question": "In which series do players compete by covering territory with coloured ink?",
+        "explanation": "In Turf War, the team covering more ground in its colour wins."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Splatoon",
+        "en": "Splatoon"
+      },
+      {
+        "id": "o1",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o2",
+        "ru": "Pokémon",
+        "en": "Pokémon"
+      },
+      {
+        "id": "o3",
+        "ru": "Metroid",
+        "en": "Metroid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/splatoon-3-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_pikmin",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии маленькие растениеподобные существа помогают исследовать мир?",
+        "explanation": "Разные виды пикминов помогают справляться с разными задачами."
+      },
+      "en": {
+        "question": "In which series do small plantlike creatures help explore the world?",
+        "explanation": "Different Pikmin types help with different tasks."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Pikmin",
+        "en": "Pikmin"
+      },
+      {
+        "id": "o1",
+        "ru": "The Legend of Zelda",
+        "en": "The Legend of Zelda"
+      },
+      {
+        "id": "o2",
+        "ru": "Among Us",
+        "en": "Among Us"
+      },
+      {
+        "id": "o3",
+        "ru": "Super Mario",
+        "en": "Super Mario"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pikmin.nintendo.com/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_pokemon",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии тренеры ловят и обучают существ, среди которых есть Пикачу?",
+        "explanation": "В Pokémon: Let’s Go, Pikachu! Пикачу становится партнёром игрока."
+      },
+      "en": {
+        "question": "In which series do trainers catch and train creatures including Pikachu?",
+        "explanation": "In Pokémon: Let’s Go, Pikachu!, Pikachu becomes the player’s partner."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Pokémon",
+        "en": "Pokémon"
+      },
+      {
+        "id": "o1",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o2",
+        "ru": "Sonic the Hedgehog",
+        "en": "Sonic the Hedgehog"
+      },
+      {
+        "id": "o3",
+        "ru": "Kirby",
+        "en": "Kirby"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pokemon-lets-go-pikachu-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_sonic",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии встречаются Соник, Тейлз, Наклз и доктор Эггман?",
+        "explanation": "В Sonic Mania можно играть за Соника, Тейлза и Наклза."
+      },
+      "en": {
+        "question": "Which series features Sonic, Tails, Knuckles and Dr. Eggman?",
+        "explanation": "Sonic Mania lets players control Sonic, Tails and Knuckles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Sonic the Hedgehog",
+        "en": "Sonic the Hedgehog"
+      },
+      {
+        "id": "o1",
+        "ru": "Fall Guys",
+        "en": "Fall Guys"
+      },
+      {
+        "id": "o2",
+        "ru": "Animal Crossing",
+        "en": "Animal Crossing"
+      },
+      {
+        "id": "o3",
+        "ru": "Stardew Valley",
+        "en": "Stardew Valley"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/sonic-mania-switch/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_minecraft",
+    "categoryId": "video_games",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре мир состоит из блоков, которые можно добывать и размещать?",
+        "explanation": "Из блоков игрок строит сооружения и меняет окружение."
+      },
+      "en": {
+        "question": "In which game is the world made of blocks that can be mined and placed?",
+        "explanation": "Players use the blocks to build structures and change their surroundings."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Minecraft",
+        "en": "Minecraft"
+      },
+      {
+        "id": "o1",
+        "ru": "Splatoon",
+        "en": "Splatoon"
+      },
+      {
+        "id": "o2",
+        "ru": "Super Mario",
+        "en": "Super Mario"
+      },
+      {
+        "id": "o3",
+        "ru": "The Legend of Zelda",
+        "en": "The Legend of Zelda"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.minecraft.net/en-us/about-minecraft"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_portal",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой головоломке Valve 2007 года задачи решают с помощью пространственных порталов?",
+        "explanation": "Через порталы перемещаются как предметы, так и сам персонаж."
+      },
+      "en": {
+        "question": "In which 2007 Valve puzzle game are challenges solved using spatial portals?",
+        "explanation": "Objects and the player character can both move through the portals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Portal",
+        "en": "Portal"
+      },
+      {
+        "id": "o1",
+        "ru": "Portal 2",
+        "en": "Portal 2"
+      },
+      {
+        "id": "o2",
+        "ru": "Half-Life 2",
+        "en": "Half-Life 2"
+      },
+      {
+        "id": "o3",
+        "ru": "Left 4 Dead",
+        "en": "Left 4 Dead"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://store.steampowered.com/app/400/Portal/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_portal2",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой части серии Portal появился отдельный кооперативный сюжет для двух игроков?",
+        "explanation": "Кооперативная кампания имеет собственную историю и испытательные камеры."
+      },
+      "en": {
+        "question": "Which game in the Portal series introduced a separate two-player cooperative campaign?",
+        "explanation": "The cooperative campaign has its own story and test chambers."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Portal 2",
+        "en": "Portal 2"
+      },
+      {
+        "id": "o1",
+        "ru": "Portal",
+        "en": "Portal"
+      },
+      {
+        "id": "o2",
+        "ru": "Half-Life",
+        "en": "Half-Life"
+      },
+      {
+        "id": "o3",
+        "ru": "Half-Life 2",
+        "en": "Half-Life 2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://store.steampowered.com/app/620/Portal_2/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_stardew",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре герой получает в наследство старую ферму своего дедушки?",
+        "explanation": "На ферме можно выращивать культуры, разводить животных и обустраивать хозяйство."
+      },
+      "en": {
+        "question": "In which game does the player inherit their grandfather’s old farm?",
+        "explanation": "The farm can be developed by growing crops, raising animals and improving the property."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Stardew Valley",
+        "en": "Stardew Valley"
+      },
+      {
+        "id": "o1",
+        "ru": "Among Us",
+        "en": "Among Us"
+      },
+      {
+        "id": "o2",
+        "ru": "God of War",
+        "en": "God of War"
+      },
+      {
+        "id": "o3",
+        "ru": "Portal",
+        "en": "Portal"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.stardewvalley.net/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_terraria",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре можно копать, строить и сражаться во вновь создаваемых случайных мирах с видом сбоку?",
+        "explanation": "Мир можно изменять, добывая ресурсы и возводя постройки."
+      },
+      "en": {
+        "question": "In which side-view game can you dig, build and fight in randomly generated worlds?",
+        "explanation": "The world can be changed by mining resources and building structures."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Terraria",
+        "en": "Terraria"
+      },
+      {
+        "id": "o1",
+        "ru": "Portal",
+        "en": "Portal"
+      },
+      {
+        "id": "o2",
+        "ru": "Metroid Dread",
+        "en": "Metroid Dread"
+      },
+      {
+        "id": "o3",
+        "ru": "Rocket League",
+        "en": "Rocket League"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://store.steampowered.com/app/105600/Terraria/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_rocket_league",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре в футбол играют машины с ракетным ускорением?",
+        "explanation": "В основе состязания — автомобильное управление и командная игра с мячом."
+      },
+      "en": {
+        "question": "In which game do rocket-powered cars play football?",
+        "explanation": "The competition combines vehicle control with a team ball game."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Rocket League",
+        "en": "Rocket League"
+      },
+      {
+        "id": "o1",
+        "ru": "Among Us",
+        "en": "Among Us"
+      },
+      {
+        "id": "o2",
+        "ru": "Portal",
+        "en": "Portal"
+      },
+      {
+        "id": "o3",
+        "ru": "Metroid",
+        "en": "Metroid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://store.epicgames.com/p/rocket-league?lang=en-US"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_fall_guys",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре яркие персонажи соревнуются на полосах препятствий?",
+        "explanation": "Игроку нужно преодолевать препятствия и стараться пройти в следующие раунды."
+      },
+      "en": {
+        "question": "In which game do colourful characters compete on obstacle courses?",
+        "explanation": "Players overcome obstacles and try to qualify for later rounds."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Fall Guys",
+        "en": "Fall Guys"
+      },
+      {
+        "id": "o1",
+        "ru": "Horizon",
+        "en": "Horizon"
+      },
+      {
+        "id": "o2",
+        "ru": "Sonic the Hedgehog",
+        "en": "Sonic the Hedgehog"
+      },
+      {
+        "id": "o3",
+        "ru": "Minecraft",
+        "en": "Minecraft"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fallguys.com/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_among_us",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре члены экипажа пытаются вычислить самозванцев среди участников?",
+        "explanation": "Члены экипажа выполняют задания, а самозванцы пытаются им помешать."
+      },
+      "en": {
+        "question": "In which game do crewmates try to identify impostors among the players?",
+        "explanation": "Crewmates complete tasks while impostors try to stop them."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Among Us",
+        "en": "Among Us"
+      },
+      {
+        "id": "o1",
+        "ru": "Horizon",
+        "en": "Horizon"
+      },
+      {
+        "id": "o2",
+        "ru": "Terraria",
+        "en": "Terraria"
+      },
+      {
+        "id": "o3",
+        "ru": "Sonic the Hedgehog",
+        "en": "Sonic the Hedgehog"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.innersloth.com/games/among-us/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_astro",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой игре маленький робот Астро отправляется спасать других ботов?",
+        "explanation": "Приключение проходит на разных планетах с особыми способностями и испытаниями."
+      },
+      "en": {
+        "question": "In which game does the small robot Astro set out to rescue other bots?",
+        "explanation": "The adventure visits different planets with special abilities and challenges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Astro Bot",
+        "en": "Astro Bot"
+      },
+      {
+        "id": "o1",
+        "ru": "Rocket League",
+        "en": "Rocket League"
+      },
+      {
+        "id": "o2",
+        "ru": "Splatoon",
+        "en": "Splatoon"
+      },
+      {
+        "id": "o3",
+        "ru": "Horizon",
+        "en": "Horizon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/games/astro-bot/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_horizon",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии Элой путешествует по миру, населённому огромными машинами?",
+        "explanation": "Элой называют охотницей на машины."
+      },
+      "en": {
+        "question": "In which series does Aloy travel through a world inhabited by giant machines?",
+        "explanation": "Aloy is described as a machine hunter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Horizon",
+        "en": "Horizon"
+      },
+      {
+        "id": "o1",
+        "ru": "Among Us",
+        "en": "Among Us"
+      },
+      {
+        "id": "o2",
+        "ru": "God of War",
+        "en": "God of War"
+      },
+      {
+        "id": "o3",
+        "ru": "Portal 2",
+        "en": "Portal 2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/horizon/"
+    ],
+    "image": null
+  },
+  {
+    "id": "video_games_m50_god_of_war",
+    "categoryId": "video_games",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой серии игр один из главных героев — Кратос?",
+        "explanation": "В скандинавских приключениях рядом с ним часто находится его сын Атрей."
+      },
+      "en": {
+        "question": "In which game series is Kratos a main character?",
+        "explanation": "In the Norse adventures he is often accompanied by his son Atreus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "God of War",
+        "en": "God of War"
+      },
+      {
+        "id": "o1",
+        "ru": "Sonic the Hedgehog",
+        "en": "Sonic the Hedgehog"
+      },
+      {
+        "id": "o2",
+        "ru": "Pokémon",
+        "en": "Pokémon"
+      },
+      {
+        "id": "o3",
+        "ru": "Fall Guys",
+        "en": "Fall Guys"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.playstation.com/en-us/god-of-war/"
+    ],
+    "image": null
   }
 ]

@@ -878,5 +878,1325 @@
       "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work"
     ],
     "image": null
+  },
+  {
+    "id": "cars_m50_piston",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая деталь движется возвратно-поступательно внутри цилиндра двигателя?",
+        "explanation": "Давление газов передаёт через него усилие на шатун."
+      },
+      "en": {
+        "question": "Which component moves back and forth inside an engine cylinder?",
+        "explanation": "Gas pressure transfers force through it to the connecting rod."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поршень",
+        "en": "Piston"
+      },
+      {
+        "id": "o1",
+        "ru": "Шатун",
+        "en": "Connecting rod"
+      },
+      {
+        "id": "o2",
+        "ru": "Распределительный вал",
+        "en": "Camshaft"
+      },
+      {
+        "id": "o3",
+        "ru": "Маховик",
+        "en": "Flywheel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_crankshaft",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вал через шатуны преобразует движение поршней во вращение?",
+        "explanation": "От него вращение передаётся к трансмиссии."
+      },
+      "en": {
+        "question": "Which shaft converts piston motion into rotation through connecting rods?",
+        "explanation": "Its rotation is transmitted to the drivetrain."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Коленчатый вал",
+        "en": "Crankshaft"
+      },
+      {
+        "id": "o1",
+        "ru": "Распределительный вал",
+        "en": "Camshaft"
+      },
+      {
+        "id": "o2",
+        "ru": "Карданный вал",
+        "en": "Drive shaft"
+      },
+      {
+        "id": "o3",
+        "ru": "Полуось",
+        "en": "Axle shaft"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_camshaft",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вал с кулачками управляет открытием клапанов двигателя?",
+        "explanation": "Фазы его работы согласованы с положением поршней."
+      },
+      "en": {
+        "question": "Which shaft uses lobes to control engine valve opening?",
+        "explanation": "Its timing is coordinated with piston position."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Распределительный вал",
+        "en": "Camshaft"
+      },
+      {
+        "id": "o1",
+        "ru": "Коленчатый вал",
+        "en": "Crankshaft"
+      },
+      {
+        "id": "o2",
+        "ru": "Карданный вал",
+        "en": "Drive shaft"
+      },
+      {
+        "id": "o3",
+        "ru": "Полуось",
+        "en": "Axle shaft"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_spark",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство создаёт искру для воспламенения смеси в бензиновом двигателе?",
+        "explanation": "Искра запускает горение топливовоздушной смеси."
+      },
+      "en": {
+        "question": "Which device creates the spark that ignites the mixture in a petrol engine?",
+        "explanation": "The spark initiates combustion of the fuel-air mixture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Свеча зажигания",
+        "en": "Spark plug"
+      },
+      {
+        "id": "o1",
+        "ru": "Свеча накаливания",
+        "en": "Glow plug"
+      },
+      {
+        "id": "o2",
+        "ru": "Топливная форсунка",
+        "en": "Fuel injector"
+      },
+      {
+        "id": "o3",
+        "ru": "Датчик детонации",
+        "en": "Knock sensor"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_injector",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство дозирует и впрыскивает топливо в двигатель?",
+        "explanation": "Она распыляет топливо для образования смеси."
+      },
+      "en": {
+        "question": "Which device meters and injects fuel into an engine?",
+        "explanation": "It sprays fuel to help form the mixture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Топливная форсунка",
+        "en": "Fuel injector"
+      },
+      {
+        "id": "o1",
+        "ru": "Свеча зажигания",
+        "en": "Spark plug"
+      },
+      {
+        "id": "o2",
+        "ru": "Катушка зажигания",
+        "en": "Ignition coil"
+      },
+      {
+        "id": "o3",
+        "ru": "Радиатор",
+        "en": "Radiator"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_turbo",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой нагнетатель приводится во вращение турбиной, использующей отработавшие газы?",
+        "explanation": "Наддув позволяет подать в цилиндры больше воздуха."
+      },
+      "en": {
+        "question": "Which compressor is driven by a turbine powered by exhaust gases?",
+        "explanation": "Boost allows more air to enter the cylinders."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Турбокомпрессор",
+        "en": "Turbocharger"
+      },
+      {
+        "id": "o1",
+        "ru": "Механический нагнетатель",
+        "en": "Supercharger"
+      },
+      {
+        "id": "o2",
+        "ru": "Интеркулер",
+        "en": "Intercooler"
+      },
+      {
+        "id": "o3",
+        "ru": "Генератор",
+        "en": "Alternator"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.garrettmotion.com/knowledge-center-category/oem/what-is-a-turbo-and-how-does-it-work/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_intercooler",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется теплообменник, охлаждающий воздух после компрессора наддува?",
+        "explanation": "При охлаждении воздух становится плотнее."
+      },
+      "en": {
+        "question": "What is the heat exchanger that cools air after a boost compressor called?",
+        "explanation": "Cooling makes the air denser."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Интеркулер",
+        "en": "Intercooler"
+      },
+      {
+        "id": "o1",
+        "ru": "Каталитический нейтрализатор",
+        "en": "Catalytic converter"
+      },
+      {
+        "id": "o2",
+        "ru": "Сажевый фильтр",
+        "en": "Diesel particulate filter"
+      },
+      {
+        "id": "o3",
+        "ru": "Глушитель",
+        "en": "Silencer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.garrettmotion.com/knowledge-center-category/oem/what-is-a-turbo-and-how-does-it-work/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_catalyst",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство в выпускной системе химически преобразует вредные вещества в менее вредные?",
+        "explanation": "Катализатор ускоряет реакции, уменьшающие выбросы загрязнителей."
+      },
+      "en": {
+        "question": "Which exhaust-system device chemically converts harmful substances into less harmful ones?",
+        "explanation": "A catalyst accelerates reactions that reduce pollutant emissions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Каталитический нейтрализатор",
+        "en": "Catalytic converter"
+      },
+      {
+        "id": "o1",
+        "ru": "Резонатор",
+        "en": "Resonator"
+      },
+      {
+        "id": "o2",
+        "ru": "Глушитель",
+        "en": "Silencer"
+      },
+      {
+        "id": "o3",
+        "ru": "Впускной фильтр",
+        "en": "Intake filter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_particulate",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой фильтр задерживает сажевые частицы в выпускной системе дизеля?",
+        "explanation": "Накопившаяся сажа удаляется в процессе регенерации."
+      },
+      "en": {
+        "question": "Which filter traps soot particles in a diesel engine’s exhaust system?",
+        "explanation": "Accumulated soot is removed during regeneration."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сажевый фильтр",
+        "en": "Diesel particulate filter"
+      },
+      {
+        "id": "o1",
+        "ru": "Воздушный фильтр",
+        "en": "Air filter"
+      },
+      {
+        "id": "o2",
+        "ru": "Масляный фильтр",
+        "en": "Oil filter"
+      },
+      {
+        "id": "o3",
+        "ru": "Топливный фильтр",
+        "en": "Fuel filter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_differential",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой механизм позволяет ведущим колёсам вращаться с разной скоростью в повороте?",
+        "explanation": "В повороте внешнее колесо проходит больший путь, чем внутреннее."
+      },
+      "en": {
+        "question": "Which mechanism allows driven wheels to rotate at different speeds in a turn?",
+        "explanation": "On a turn the outer wheel travels farther than the inner wheel."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дифференциал",
+        "en": "Differential"
+      },
+      {
+        "id": "o1",
+        "ru": "Сцепление",
+        "en": "Clutch"
+      },
+      {
+        "id": "o2",
+        "ru": "Маховик",
+        "en": "Flywheel"
+      },
+      {
+        "id": "o3",
+        "ru": "Турбокомпрессор",
+        "en": "Turbocharger"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_thermostat",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термочувствительный клапан находится между двигателем и радиатором и регулирует поток охлаждающей жидкости?",
+        "explanation": "Его работа связана с температурой охлаждающей жидкости."
+      },
+      "en": {
+        "question": "Which heat-sensitive valve between the engine and radiator regulates coolant flow?",
+        "explanation": "Its operation depends on coolant temperature."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Термостат",
+        "en": "Thermostat"
+      },
+      {
+        "id": "o1",
+        "ru": "Впускной клапан",
+        "en": "Inlet valve"
+      },
+      {
+        "id": "o2",
+        "ru": "Выпускной клапан",
+        "en": "Exhaust valve"
+      },
+      {
+        "id": "o3",
+        "ru": "Редукционный клапан масла",
+        "en": "Oil pressure relief valve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_flywheel",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая массивная вращающаяся деталь помогает сгладить неравномерность вращения двигателя?",
+        "explanation": "Он запасает кинетическую энергию вращения."
+      },
+      "en": {
+        "question": "Which heavy rotating component helps smooth an engine’s uneven rotation?",
+        "explanation": "It stores rotational kinetic energy."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Маховик",
+        "en": "Flywheel"
+      },
+      {
+        "id": "o1",
+        "ru": "Распределительный вал",
+        "en": "Camshaft"
+      },
+      {
+        "id": "o2",
+        "ru": "Шатун",
+        "en": "Connecting rod"
+      },
+      {
+        "id": "o3",
+        "ru": "Поршень",
+        "en": "Piston"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.energy.gov/sites/default/files/2026-04/DOE-HDBK-1018-93_VOL1.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_abs",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется система, предотвращающая длительную блокировку колёс при торможении?",
+        "explanation": "Она регулирует тормозное давление по сигналам датчиков скорости колёс."
+      },
+      "en": {
+        "question": "Which system prevents prolonged wheel lock during braking?",
+        "explanation": "It regulates brake pressure using wheel-speed sensor signals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ABS",
+        "en": "ABS"
+      },
+      {
+        "id": "o1",
+        "ru": "ESC",
+        "en": "ESC"
+      },
+      {
+        "id": "o2",
+        "ru": "TPMS",
+        "en": "TPMS"
+      },
+      {
+        "id": "o3",
+        "ru": "ACC",
+        "en": "ACC"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bosch-mobility.com/en/solutions/braking-systems/antilock-braking-system/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_esc",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая система помогает автомобилю сохранять заданное направление движения при угрозе заноса?",
+        "explanation": "Она может избирательно подтормаживать отдельные колёса."
+      },
+      "en": {
+        "question": "Which system helps a vehicle maintain its intended course when it risks skidding?",
+        "explanation": "It can selectively brake individual wheels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ESC",
+        "en": "ESC"
+      },
+      {
+        "id": "o1",
+        "ru": "ABS",
+        "en": "ABS"
+      },
+      {
+        "id": "o2",
+        "ru": "TPMS",
+        "en": "TPMS"
+      },
+      {
+        "id": "o3",
+        "ru": "ACC",
+        "en": "ACC"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.bosch-mobility.com/en/solutions/braking-systems/electronic-stability-program/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_tpms",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая система контролирует давление воздуха в автомобильных шинах?",
+        "explanation": "Она предупреждает о недостаточном давлении."
+      },
+      "en": {
+        "question": "Which system monitors the air pressure in a vehicle’s tyres?",
+        "explanation": "It warns of underinflation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "TPMS",
+        "en": "TPMS"
+      },
+      {
+        "id": "o1",
+        "ru": "ABS",
+        "en": "ABS"
+      },
+      {
+        "id": "o2",
+        "ru": "ESC",
+        "en": "ESC"
+      },
+      {
+        "id": "o3",
+        "ru": "ACC",
+        "en": "ACC"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nhtsa.gov/vehicle-safety/tires"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_radiator",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой теплообменник двигателя передаёт тепло от охлаждающей жидкости окружающему воздуху?",
+        "explanation": "Рёбра и тонкие трубки увеличивают поверхность теплообмена."
+      },
+      "en": {
+        "question": "Which engine heat exchanger transfers heat from coolant to the surrounding air?",
+        "explanation": "Fins and thin tubes increase the surface area available for heat exchange."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Радиатор",
+        "en": "Radiator"
+      },
+      {
+        "id": "o1",
+        "ru": "Интеркулер",
+        "en": "Intercooler"
+      },
+      {
+        "id": "o2",
+        "ru": "Каталитический нейтрализатор",
+        "en": "Catalytic converter"
+      },
+      {
+        "id": "o3",
+        "ru": "Топливная форсунка",
+        "en": "Fuel injector"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_water_pump",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой насос обеспечивает циркуляцию охлаждающей жидкости через двигатель и радиатор?",
+        "explanation": "Его также называют насосом системы охлаждения или помпой."
+      },
+      "en": {
+        "question": "Which pump circulates coolant through the engine and radiator?",
+        "explanation": "It is also called the coolant pump."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Водяной насос",
+        "en": "Water pump"
+      },
+      {
+        "id": "o1",
+        "ru": "Масляный насос",
+        "en": "Oil pump"
+      },
+      {
+        "id": "o2",
+        "ru": "Топливный насос",
+        "en": "Fuel pump"
+      },
+      {
+        "id": "o3",
+        "ru": "Вакуумный насос",
+        "en": "Vacuum pump"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_tachometer",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой прибор показывает частоту вращения двигателя?",
+        "explanation": "Шкала обычно размечена в оборотах в минуту."
+      },
+      "en": {
+        "question": "Which instrument displays engine rotational speed?",
+        "explanation": "Its scale is usually marked in revolutions per minute."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тахометр",
+        "en": "Tachometer"
+      },
+      {
+        "id": "o1",
+        "ru": "Спидометр",
+        "en": "Speedometer"
+      },
+      {
+        "id": "o2",
+        "ru": "Одометр",
+        "en": "Odometer"
+      },
+      {
+        "id": "o3",
+        "ru": "Манометр",
+        "en": "Pressure gauge"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_torque",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется вращающее действие силы на вал?",
+        "explanation": "В СИ его выражают в ньютон-метрах."
+      },
+      "en": {
+        "question": "What is the turning effect of a force on a shaft called?",
+        "explanation": "Its SI unit is the newton-metre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крутящий момент",
+        "en": "Torque"
+      },
+      {
+        "id": "o1",
+        "ru": "Мощность",
+        "en": "Power"
+      },
+      {
+        "id": "o2",
+        "ru": "Частота вращения",
+        "en": "Rotational speed"
+      },
+      {
+        "id": "o3",
+        "ru": "Рабочий объём",
+        "en": "Engine displacement"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_displacement",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют суммарный объём, вытесняемый поршнями всех цилиндров двигателя?",
+        "explanation": "Его часто указывают в литрах или кубических сантиметрах."
+      },
+      "en": {
+        "question": "What is the combined volume swept by all of an engine’s pistons called?",
+        "explanation": "It is often stated in litres or cubic centimetres."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Рабочий объём двигателя",
+        "en": "Engine displacement"
+      },
+      {
+        "id": "o1",
+        "ru": "Объём камеры сгорания",
+        "en": "Clearance volume"
+      },
+      {
+        "id": "o2",
+        "ru": "Объём багажника",
+        "en": "Boot volume"
+      },
+      {
+        "id": "o3",
+        "ru": "Объём топливного бака",
+        "en": "Fuel tank capacity"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_octane",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой показатель характеризует стойкость бензина к детонации?",
+        "explanation": "Большее число не означает автоматически больше энергии в каждом литре."
+      },
+      "en": {
+        "question": "Which measure describes petrol’s resistance to knocking?",
+        "explanation": "A higher number does not automatically mean more energy per litre."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Октановое число",
+        "en": "Octane rating"
+      },
+      {
+        "id": "o1",
+        "ru": "Цетановое число",
+        "en": "Cetane number"
+      },
+      {
+        "id": "o2",
+        "ru": "Вязкость",
+        "en": "Viscosity"
+      },
+      {
+        "id": "o3",
+        "ru": "Плотность",
+        "en": "Density"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.fueleconomy.gov/feg/octane.shtml"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_inlet_valve",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой клапан двигателя открывается, чтобы впустить в цилиндр воздух или топливовоздушную смесь?",
+        "explanation": "Через выпускной клапан из цилиндра, напротив, выходят отработавшие газы."
+      },
+      "en": {
+        "question": "Which engine valve opens to admit air or an air-fuel mixture into a cylinder?",
+        "explanation": "The exhaust valve instead lets burnt gases leave the cylinder."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Впускной клапан",
+        "en": "Inlet valve"
+      },
+      {
+        "id": "o1",
+        "ru": "Выпускной клапан",
+        "en": "Exhaust valve"
+      },
+      {
+        "id": "o2",
+        "ru": "Клапан термостата",
+        "en": "Thermostat valve"
+      },
+      {
+        "id": "o3",
+        "ru": "Редукционный клапан масла",
+        "en": "Oil pressure relief valve"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_compression",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют отношение объёма цилиндра при нижнем положении поршня к объёму при верхнем положении?",
+        "explanation": "Это геометрическое отношение, а не показание давления."
+      },
+      "en": {
+        "question": "What is the ratio of cylinder volume at bottom dead centre to that at top dead centre called?",
+        "explanation": "It is a geometric ratio, not a pressure reading."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Степень сжатия",
+        "en": "Compression ratio"
+      },
+      {
+        "id": "o1",
+        "ru": "Передаточное число",
+        "en": "Gear ratio"
+      },
+      {
+        "id": "o2",
+        "ru": "Коэффициент избытка воздуха",
+        "en": "Air-fuel equivalence ratio"
+      },
+      {
+        "id": "o3",
+        "ru": "Степень форсировки",
+        "en": "Degree of engine uprating"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_coolant",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая жидкость переносит тепло от двигателя к радиатору в жидкостной системе охлаждения?",
+        "explanation": "Она циркулирует по каналам системы охлаждения."
+      },
+      "en": {
+        "question": "Which fluid carries heat from the engine to the radiator in a liquid cooling system?",
+        "explanation": "It circulates through cooling-system passages."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Охлаждающая жидкость",
+        "en": "Coolant"
+      },
+      {
+        "id": "o1",
+        "ru": "Моторное масло",
+        "en": "Engine oil"
+      },
+      {
+        "id": "o2",
+        "ru": "Тормозная жидкость",
+        "en": "Brake fluid"
+      },
+      {
+        "id": "o3",
+        "ru": "Топливо",
+        "en": "Fuel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_alternator",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство вырабатывает электричество во время работы двигателя внутреннего сгорания?",
+        "explanation": "Во время обычной езды он также заряжает автомобильный аккумулятор."
+      },
+      "en": {
+        "question": "Which device generates electricity while an internal-combustion engine is running?",
+        "explanation": "During normal driving it also charges the vehicle battery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Генератор",
+        "en": "Alternator"
+      },
+      {
+        "id": "o1",
+        "ru": "Стартер",
+        "en": "Starter motor"
+      },
+      {
+        "id": "o2",
+        "ru": "Аккумулятор",
+        "en": "Battery"
+      },
+      {
+        "id": "o3",
+        "ru": "Катушка зажигания",
+        "en": "Ignition coil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.denso-am.eu/products/rotating-electrics/alternator"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_starter",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой электромотор первоначально проворачивает двигатель внутреннего сгорания при запуске?",
+        "explanation": "После запуска двигателя его обычная задача завершается."
+      },
+      "en": {
+        "question": "Which electric motor initially cranks an internal-combustion engine when starting?",
+        "explanation": "Its normal task ends once the engine starts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стартер",
+        "en": "Starter motor"
+      },
+      {
+        "id": "o1",
+        "ru": "Генератор",
+        "en": "Alternator"
+      },
+      {
+        "id": "o2",
+        "ru": "Катушка зажигания",
+        "en": "Ignition coil"
+      },
+      {
+        "id": "o3",
+        "ru": "Топливный насос",
+        "en": "Fuel pump"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.denso-am.eu/products/rotating-electrics/starter"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_suspension",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется система, связывающая колёса с кузовом и смягчающая воздействие неровностей дороги?",
+        "explanation": "В ней работают упругие элементы и демпфирующие устройства."
+      },
+      "en": {
+        "question": "What is the system linking the wheels to the body and cushioning road impacts called?",
+        "explanation": "It uses springs and damping devices."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Подвеска",
+        "en": "Suspension"
+      },
+      {
+        "id": "o1",
+        "ru": "Трансмиссия",
+        "en": "Transmission"
+      },
+      {
+        "id": "o2",
+        "ru": "Система охлаждения",
+        "en": "Cooling system"
+      },
+      {
+        "id": "o3",
+        "ru": "Система смазки",
+        "en": "Lubrication system"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_shock_absorber",
+    "categoryId": "cars",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая деталь подвески гасит колебания пружин и не даёт автомобилю долго раскачиваться после неровности?",
+        "explanation": "Он рассеивает энергию колебаний, часто превращая её в тепло."
+      },
+      "en": {
+        "question": "Which suspension component damps spring oscillations and prevents prolonged bouncing after a bump?",
+        "explanation": "It dissipates oscillation energy, often as heat."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Амортизатор",
+        "en": "Shock absorber"
+      },
+      {
+        "id": "o1",
+        "ru": "Пружина",
+        "en": "Spring"
+      },
+      {
+        "id": "o2",
+        "ru": "Рычаг подвески",
+        "en": "Suspension arm"
+      },
+      {
+        "id": "o3",
+        "ru": "Ступица",
+        "en": "Wheel hub"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.kyb.com/resources/shocks-struts-101/how-shocks-work/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_connecting_rod",
+    "categoryId": "cars",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая деталь двигателя соединяет поршень с коленчатым валом?",
+        "explanation": "Через неё усилие от поршня передаётся коленчатому валу."
+      },
+      "en": {
+        "question": "Which engine component connects the piston to the crankshaft?",
+        "explanation": "It transfers force from the piston to the crankshaft."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шатун",
+        "en": "Connecting rod"
+      },
+      {
+        "id": "o1",
+        "ru": "Распределительный вал",
+        "en": "Camshaft"
+      },
+      {
+        "id": "o2",
+        "ru": "Коромысло",
+        "en": "Rocker arm"
+      },
+      {
+        "id": "o3",
+        "ru": "Маховик",
+        "en": "Flywheel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
+  },
+  {
+    "id": "cars_m50_brake_disc",
+    "categoryId": "cars",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая вращающаяся деталь зажимается тормозными колодками в дисковом тормозе?",
+        "explanation": "Трение помогает превращать энергию движения в тепло."
+      },
+      "en": {
+        "question": "Which rotating component is clamped by brake pads in a disc brake?",
+        "explanation": "Friction helps convert motion energy into heat."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тормозной диск",
+        "en": "Brake disc"
+      },
+      {
+        "id": "o1",
+        "ru": "Тормозной барабан",
+        "en": "Brake drum"
+      },
+      {
+        "id": "o2",
+        "ru": "Тормозной суппорт",
+        "en": "Brake caliper"
+      },
+      {
+        "id": "o3",
+        "ru": "Ступица",
+        "en": "Wheel hub"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804%20Automotive%20Class%20XI.pdf"
+    ],
+    "image": null
   }
 ]

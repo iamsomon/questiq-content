@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "approvedQuestions": 2290,
+  "approvedQuestions": 2360,
   "draftQuestions": 0,
   "playableCategories": 50,
   "humanApprovedQuestions": 0,
   "targetQuestions": 10000,
-  "remainingQuestions": 7710,
+  "remainingQuestions": 7640,
   "targetComplete": false,
   "revokedCount": 0,
   "categories": [
@@ -809,21 +809,21 @@
     },
     {
       "id": "cars",
-      "approved": 20,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 8,
-        "medium": 8,
-        "hard": 4
+        "easy": 20,
+        "medium": 20,
+        "hard": 10
       },
       "playable": true,
       "target": 200,
-      "remaining": 180,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 72,
-        "medium": 72,
-        "hard": 36
+        "easy": 60,
+        "medium": 60,
+        "hard": 30
       }
     },
     {
@@ -866,21 +866,21 @@
     },
     {
       "id": "video_games",
-      "approved": 10,
+      "approved": 50,
       "draft": 0,
       "humanApproved": 0,
       "difficulty": {
-        "easy": 4,
-        "hard": 2,
-        "medium": 4
+        "easy": 22,
+        "hard": 6,
+        "medium": 22
       },
       "playable": true,
       "target": 200,
-      "remaining": 190,
+      "remaining": 150,
       "difficultyRemaining": {
-        "easy": 76,
-        "medium": 76,
-        "hard": 38
+        "easy": 58,
+        "medium": 58,
+        "hard": 34
       }
     },
     {

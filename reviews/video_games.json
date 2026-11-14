@@ -178,5 +178,725 @@
         "claim": "Which accessory do players use in the karaoke series SingStar? Answer: Microphone. The series scored players’ vocal performances of familiar songs."
       }
     ]
+  },
+  {
+    "id": "video_games_m50_npc",
+    "status": "approved",
+    "sha256": "b43c0a7109f9f0998f685a6fa3a849b8107033ac40362b5c4007ca04c55bc99f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/",
+        "location": "NPC: non-player character controlled by the game",
+        "claim": "In video games, what does NPC mean? Answer: Non-player character. Such a character is not directly controlled by another player."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_hud",
+    "status": "approved",
+    "sha256": "173723465aac177eba50afe57b3a328d32c3e06cb46019ef3732407d4bb53098",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry HUD",
+        "claim": "In video games, what does HUD mean? Answer: An on-screen status display. The display can show health, a map or ammunition."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_xp",
+    "status": "approved",
+    "sha256": "6899cd2198e482e2996895d08d7af4e703250b1a78434a1d8a4250973d369de0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry XP",
+        "claim": "In video games, what does XP mean? Answer: Experience points. They are often used for character progression."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_hp",
+    "status": "approved",
+    "sha256": "4a918612fd848c4a734e398b0dec1012d436308e98da3e26e273ce5fb4a9bf41",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry HP",
+        "claim": "In video games, what does HP mean? Answer: Health points. They represent a character's remaining health."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_dps",
+    "status": "approved",
+    "sha256": "43fcc4e5ab23c568aa27b21e285c568896ac8b1e4fc7f07cd006c458c673ffbb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry DPS",
+        "claim": "In video games, what does DPS as a combat statistic mean? Answer: Damage per second. The measure helps compare damage output rates."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_aoe",
+    "status": "approved",
+    "sha256": "d3fa343d6906eddfb1e0351286735057bb6c919b8ffe6979c65dc8db04225e6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry AOE",
+        "claim": "In video games, what does AoE for an ability mean? Answer: Area of effect. Such an ability can affect multiple targets within a selected area."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_crafting",
+    "status": "approved",
+    "sha256": "fd208e1e908906fa955f1f6de943bed6419806bee46d94d52b2c785dc32bc259",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Crafting",
+        "claim": "What does crafting mean in video games? Answer: Making items from resources. The player uses collected materials to create new items."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_pvp",
+    "status": "approved",
+    "sha256": "405c28c93cffe0529753a88849ff0cba0c5a585a632e3ed75b1d17e8d5981648",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry PVP",
+        "claim": "In video games, what does PvP mean? Answer: Player versus player. The opponent is another person."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_pve",
+    "status": "approved",
+    "sha256": "87200453d714df4d89684cf338f61e5e27e5d75c2b2ce18bec695387b943f723",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry PVE",
+        "claim": "In video games, what does PvE mean? Answer: Player versus environment. The game supplies opponents and challenges."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_aggro",
+    "status": "approved",
+    "sha256": "382fae4102c502da0fbbef2c84ce3b37a2120001892945bbe9003d115a6b7fc7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Aggro",
+        "claim": "What does aggro mean in the context of enemy attention in a video game? Answer: An enemy’s attention and hostile response. For example, a player’s action may attract an enemy and make it attack."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_easter_egg",
+    "status": "approved",
+    "sha256": "fd3549b99bf6d3feef19aa25d42c063349b7a622647553f37a0d431fd3ab3b65",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Easter egg",
+        "claim": "What is an Easter egg in a video game? Answer: A hidden joke, reference or secret. Developers add such details as optional discoveries for observant players."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_fast_travel",
+    "status": "approved",
+    "sha256": "c328395eededd91fbc26610fb30033af64f653ef2c151e4a74a273c814dfd419",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Fast travel",
+        "claim": "What does fast travel mean in a large game world? Answer: Quick movement between available travel points. The mechanic avoids repeatedly travelling the same route."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_mod",
+    "status": "approved",
+    "sha256": "85ff9c7a7cb8b0c0b08a1c1ef41e0f4dcdf86d5e82cf36234db92fd6c068f5dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/",
+        "location": "Dictionary entry MOD",
+        "claim": "In video games, what does a mod mean? Answer: A user-created game modification. It can change rules, levels or appearance."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_buff",
+    "status": "approved",
+    "sha256": "8e4667b82bf10c9eaac89837c7c2adc461c6a383810a85ddc29ff888377ae6dc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Buff",
+        "claim": "What does a buff usually mean in a video game? Answer: A temporary boost to attributes. An item or ability can provide the boost."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_debuff",
+    "status": "approved",
+    "sha256": "308359c99106011eacc395d30a08383f7a66af0ed554a3eb77958adfd76deefe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry De-buff",
+        "claim": "What does a debuff mean as an in-game effect? Answer: A reduction in attributes or abilities. The effect can reduce a target’s offensive or defensive capabilities."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_arpg",
+    "status": "approved",
+    "sha256": "7096eaf529d827666c07648e3644b10e34087a4457dcbd2202906e1f8476fd73",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry ARPG",
+        "claim": "Which genre combines role-playing character development with active real-time combat? Answer: Action role-playing game (ARPG). ARPG stands for action role-playing game."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_loot",
+    "status": "approved",
+    "sha256": "60b267dd9773ce33edb071178e9239029356e6d5a2024b0a3f61baf04e7eb150",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Loot",
+        "claim": "What is usually called loot in video games? Answer: Collected rewards and items. Some loot is awarded randomly, so the results can differ."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_rts",
+    "status": "approved",
+    "sha256": "634624c490de9f7951f131bc74dfb490675b1b1234ff40bf2ebac55cbdd629de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/",
+        "location": "Dictionary entry RTS",
+        "claim": "In video games, what does RTS mean? Answer: Real-time strategy. Players act without necessarily waiting for separate turns."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_fps",
+    "status": "approved",
+    "sha256": "02782062017fa9a023a039bd863847b6f31ff963c9b01c227b5b5cbd1a54730b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry FPS",
+        "claim": "In video games, what does FPS as a genre abbreviation mean? Answer: First-person shooter. In performance statistics the same letters can mean frames per second."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_turn_based",
+    "status": "approved",
+    "sha256": "56a24c3cf1c721bf7af745782bd40a8d604093d0bb00077cc639742c60fe8fa8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/",
+        "location": "Glossary entry Turn-based",
+        "claim": "What does turn-based combat mean? Answer: Participants act in turn. Taking turns distinguishes this combat from continuous real-time action."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_mario",
+    "status": "approved",
+    "sha256": "6208fac5b56176fdeac2e39d7278d8259c170f14fbdda74b94a9ee8ae75d5dc9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
+        "location": "Publisher description: save Princess Peach from Bowser",
+        "claim": "In which series does Mario rescue Princess Peach from Bowser? Answer: Super Mario. Super Mario Odyssey tells one such story."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_zelda",
+    "status": "approved",
+    "sha256": "703656d07c6dc5743e89fe151cbfad8232297985f5ccf508e5f4a11bac09ef39",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+        "location": "Publisher description and Link’s abilities in Hyrule",
+        "claim": "In which game series does Link explore the kingdom of Hyrule? Answer: The Legend of Zelda. Link is the player-controlled hero; Zelda is a different character in the series."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_metroid",
+    "status": "approved",
+    "sha256": "e94a58bc81fd5dde37a38c9cc18168be11d6ecca1e826981a830c2e5bf6702a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+        "location": "Publisher description: bounty hunter Samus Aran on ZDR",
+        "claim": "Which game series stars the bounty hunter Samus Aran? Answer: Metroid. Her adventure in Metroid Dread takes place on planet ZDR."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_kirby",
+    "status": "approved",
+    "sha256": "7e571426739d6a3c50c7f5e84a95011374edf31b2998d6e75dfacdbdb1b3b2bc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/",
+        "location": "Kirby character description and copy abilities",
+        "claim": "In which series does a pink hero inhale enemies and copy their abilities? Answer: Kirby. Copying gives the hero different ways to fight and overcome obstacles."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_animal_crossing",
+    "status": "approved",
+    "sha256": "476914c7a52c13672ee5e92698bc07bdaeb22eb55093ab3cedb5b0323c11f03c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://animal-crossing.com/",
+        "location": "Official home: Tom Nook and animal villagers",
+        "claim": "In which series can you build a life among animal neighbours and meet Tom Nook? Answer: Animal Crossing. Meeting villagers and shaping your own world are important parts of the game."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_splatoon",
+    "status": "approved",
+    "sha256": "1ef2e943f4673b882aae828f5e5307ff19b196183a58c0f72bf886a64a91c2b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/splatoon-3-switch/",
+        "location": "Turf War: cover the most ground with ink",
+        "claim": "In which series do players compete by covering territory with coloured ink? Answer: Splatoon. In Turf War, the team covering more ground in its colour wins."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_pikmin",
+    "status": "approved",
+    "sha256": "5347f392894fa0e4121825d901ca7fb82aa9c6add13d6f579d0576290b5492f1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pikmin.nintendo.com/",
+        "location": "Official series page: plantlike partners and adventures",
+        "claim": "In which series do small plantlike creatures help explore the world? Answer: Pikmin. Different Pikmin types help with different tasks."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_pokemon",
+    "status": "approved",
+    "sha256": "b8ec15360bdeaa0c2112798e793e841029be669d8aeaabe0c7e3bbed8ef48fdf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/pokemon-lets-go-pikachu-switch/",
+        "location": "Publisher description: partner Pikachu, catch creatures, become trainer",
+        "claim": "In which series do trainers catch and train creatures including Pikachu? Answer: Pokémon. In Pokémon: Let’s Go, Pikachu!, Pikachu becomes the player’s partner."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_sonic",
+    "status": "approved",
+    "sha256": "428475e6ce9457638ff99bea0aea17d7367881504d3ec4829f18455fb736adb1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nintendo.com/us/store/products/sonic-mania-switch/",
+        "location": "Publisher description names three playable characters and Eggman",
+        "claim": "Which series features Sonic, Tails, Knuckles and Dr. Eggman? Answer: Sonic the Hedgehog. Sonic Mania lets players control Sonic, Tails and Knuckles."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_minecraft",
+    "status": "approved",
+    "sha256": "d0978f1880ac1d572ed8762eea0f47b53362814ace5f9e6b265a660306864c10",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.minecraft.net/en-us/about-minecraft",
+        "location": "About Minecraft: world, building and blocks",
+        "claim": "In which game is the world made of blocks that can be mined and placed? Answer: Minecraft. Players use the blocks to build structures and change their surroundings."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_portal",
+    "status": "approved",
+    "sha256": "14bbd6c8ce229bd1301bf335e6bf36a431d1bc700d3559d7b21f086cee33e17d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://store.steampowered.com/app/400/Portal/",
+        "location": "Release 10 Oct 2007 and About This Game: portals",
+        "claim": "In which 2007 Valve puzzle game are challenges solved using spatial portals? Answer: Portal. Objects and the player character can both move through the portals."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_portal2",
+    "status": "approved",
+    "sha256": "fda1708e52dcb43e7f10212847cecbd17b759b9a9b3e97becb4d72f074b46a12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://store.steampowered.com/app/620/Portal_2/",
+        "location": "About This Game: entirely separate two-player campaign",
+        "claim": "Which game in the Portal series introduced a separate two-player cooperative campaign? Answer: Portal 2. The cooperative campaign has its own story and test chambers."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_stardew",
+    "status": "approved",
+    "sha256": "cb5871f9fb2a54cb3b1c3a6d6d35e05f08de5bbee4a6fe6f3ac2d3010d9ca75e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.stardewvalley.net/",
+        "location": "Official introduction: grandfather’s farm and farming features",
+        "claim": "In which game does the player inherit their grandfather’s old farm? Answer: Stardew Valley. The farm can be developed by growing crops, raising animals and improving the property."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_terraria",
+    "status": "approved",
+    "sha256": "c8498b26ed83008222fe99b77a6f76286da7ca312f8fd2b7f9e7e903990ee899",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://store.steampowered.com/app/105600/Terraria/",
+        "location": "About This Game and Key Features: dig, build, fight, randomly generated worlds",
+        "claim": "In which side-view game can you dig, build and fight in randomly generated worlds? Answer: Terraria. The world can be changed by mining resources and building structures."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_rocket_league",
+    "status": "approved",
+    "sha256": "5572a6cc239143a899cf50813f95ec793863f5b5b0334f710503c63f047b7ee2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://store.epicgames.com/p/rocket-league?lang=en-US",
+        "location": "Publisher description: arcade-style soccer and cars",
+        "claim": "In which game do rocket-powered cars play football? Answer: Rocket League. The competition combines vehicle control with a team ball game."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_fall_guys",
+    "status": "approved",
+    "sha256": "4ce9db507a449f16a2ba02e94a3ea8a4fcbc412bd4794152e4c87ec4a426f773",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.fallguys.com/",
+        "location": "Official home: battle royale obstacle course game",
+        "claim": "In which game do colourful characters compete on obstacle courses? Answer: Fall Guys. Players overcome obstacles and try to qualify for later rounds."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_among_us",
+    "status": "approved",
+    "sha256": "62d08214c94e630bbf2d5a702849ec84a54edab6f229a1219b2a2a6b8df27a19",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.innersloth.com/games/among-us/",
+        "location": "Developer’s premise: teamwork, tasks, crewmates and impostors",
+        "claim": "In which game do crewmates try to identify impostors among the players? Answer: Among Us. Crewmates complete tasks while impostors try to stop them."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_astro",
+    "status": "approved",
+    "sha256": "36038641b0d1888cd4da9fd1f96dfbb2158af2336a9e0705a2c459a5aec196de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/games/astro-bot/",
+        "location": "Official description: Astro rescue mission and rescued bots",
+        "claim": "In which game does the small robot Astro set out to rescue other bots? Answer: Astro Bot. The adventure visits different planets with special abilities and challenges."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_horizon",
+    "status": "approved",
+    "sha256": "e28e09ee84d3e963ae380582b42dec6669b4fc4e78239df849eac2dd467029eb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/horizon/",
+        "location": "Official series page: machine hunter Aloy and machine encounters",
+        "claim": "In which series does Aloy travel through a world inhabited by giant machines? Answer: Horizon. Aloy is described as a machine hunter."
+      }
+    ]
+  },
+  {
+    "id": "video_games_m50_god_of_war",
+    "status": "approved",
+    "sha256": "4b2d67bb1e051455f6d1d470ef5cb04a59ed9ea8c75f3f2689a4bda7c2fab57a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Read PlayStation and SWGfL glossary entries and developer/publisher descriptions for each named title/series on Nintendo, Valve, Mojang, Epic, Innersloth and PlayStation official pages. Separate RU/EN and distractor review; replaced unsupported terms, corrected English question grammar and resolved Portal/Portal 2 ambiguity by date and campaign.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.playstation.com/en-us/god-of-war/",
+        "location": "Official series page: Kratos and his son Atreus",
+        "claim": "In which game series is Kratos a main character? Answer: God of War. In the Norse adventures he is often accompanied by his son Atreus."
+      }
+    ]
   }
 ]

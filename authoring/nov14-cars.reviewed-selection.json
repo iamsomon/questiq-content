@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-11-14",
+  "method": "agent_source_review",
+  "humanApproved": false,
+  "categories": {
+    "cars": "Read CBSE Automotive XI primary component definitions and quantities (PDF page locators), DOE flywheel section and manufacturer/gov guides from Garrett, Bosch, Denso, KYB and DOE/NHTSA. Replaced five unsupported draft rows; separately reviewed RU/EN and alternatives, including an ambiguity in catalytic filters."
+  },
+  "questionHashes": {
+    "cars_m50_piston": "da295f943228350bcf75c0ad254dba93e8bb37e324b42857cc2578c74a47f9b9",
+    "cars_m50_crankshaft": "c5790f554ae4d49fbe67e2f08283abef529fd15ca42bb4a17d6c418c460a21ad",
+    "cars_m50_camshaft": "875a025273518727dde960b9ae95d6845915eba38e79089aa8dcf49384c8eeaa",
+    "cars_m50_spark": "181bd2addd64370338003534db65175afeca2d79b3bb7d9608bd91729d7edd2a",
+    "cars_m50_injector": "6bfdee4019d50aee55614025f2e8c69f9cf3e63b1b6eed9ada4b0b3e27913ca5",
+    "cars_m50_turbo": "de7e12cb42ff7aeb39a996512106b06804825b6b6536e0ef596cb50dc5b77503",
+    "cars_m50_intercooler": "5ebe0397a27fd904d83e78b46eac1926d009c93348deb260b9c77ef645c3b043",
+    "cars_m50_catalyst": "b96c6e4d5294a13d52818c4ff6b69ffcb2dce7b73045120fdd984ad6049ac614",
+    "cars_m50_particulate": "f7853b1138491f07ecefd0249ddda18395f6d7214e42cfefa4e1ca36d3dbcd22",
+    "cars_m50_differential": "b10d486c2043561a4fc96edf766dd342a0e52f776722cd76138b5272e7fa1afd",
+    "cars_m50_thermostat": "3289ed28cac06763405d253029bca8b08f121c3d5a5d5a6fc8942e5a19af71f3",
+    "cars_m50_flywheel": "40649718f89f76853bbf62fef1bb7ac18db3a79fe0e8e0e1fcd0f854bd5fcb6c",
+    "cars_m50_abs": "1a469a989302be3f538c6950423c660f6158a91d209566a77993bedab2a358e8",
+    "cars_m50_esc": "b53931fe700dac6896c807e4f400f3e5e58febafd33379f48450903c1c0ca223",
+    "cars_m50_tpms": "4c9f35bee9dad95fe2381d04bed4d047b98d46f8e6a79934f88bac9cf25a2278",
+    "cars_m50_radiator": "259e1e50588722a0b4aeec83b0cf0c78c4134d856a54844e2909b88f7178a40d",
+    "cars_m50_water_pump": "eeaa62d15b8e25ef52ef24e8449f2e6760f3f63a4f0747bc97d0eda10577feec",
+    "cars_m50_tachometer": "c98d172cd29d3e1730560c1e76969860152031fd5561a81c0ca2f2c72fa03c37",
+    "cars_m50_torque": "f0a3de89caaffc221cb671d7416f969539fce164e2e3c2469ab6b61a558052b4",
+    "cars_m50_displacement": "cc70719c8a8f4313052a4d75fc3e81f222f8f899afab95caf79ac1890c9d2e6d",
+    "cars_m50_octane": "1d2d55a0c657d51a18d19b84f8c4bfcd9fd1cb55f547c5366de02916864e0faa",
+    "cars_m50_inlet_valve": "ff3cce1ac2e64b1f9e97ccd0567c208c19e91ddf67c1c4ede997ae5e0bf1c9a2",
+    "cars_m50_compression": "d724bfdc22c63c34f7b4572f35bcca2ae701b74764ab1898da7608daf0903994",
+    "cars_m50_coolant": "43542ebe8f13af970cfa1bd8aeb9926d0cfd984591dac43a719f041455a2349a",
+    "cars_m50_alternator": "e59d6c17c06552a453fcadfd0b1a6e68ad62fde60382c7f7b9e454dd845b779b",
+    "cars_m50_starter": "66d4282a74d0e35e137cac18c7365fb8beaafba680e5cd0497e7a7ab912d1ee3",
+    "cars_m50_suspension": "46bc64bc0ed1748d990f08af8f6ebd1a8cd4aa2e03fdab2a96e92ac00288b6bf",
+    "cars_m50_shock_absorber": "4efa793a5813dfdb32f51a6fcda7b38a7ac50681c2c68147f1bbd339e32466f8",
+    "cars_m50_connecting_rod": "8b5a5b3b275fb9b1e70231337e92bce4d6438d9bcf8c642652435948e8cc7633",
+    "cars_m50_brake_disc": "5530bf7268f96c06f110533734add73a977a564ffa4454fc1d988418dc544648"
+  }
+}
