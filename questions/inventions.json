@@ -878,5 +878,1325 @@
       "https://api.nobelprize.org/v1/laureate.json?id=978"
     ],
     "image": null
+  },
+  {
+    "id": "inventions_m50_mouse",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое устройство для управления указателем показал Дуглас Энгельбарт в 1968 году?",
+        "explanation": "На той же демонстрации его команда показала совместное редактирование документов."
+      },
+      "en": {
+        "question": "Which pointing device did Douglas Engelbart demonstrate in 1968?",
+        "explanation": "At the same demonstration, his team showed people editing documents together."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Компьютерная мышь",
+        "en": "Computer mouse"
+      },
+      {
+        "id": "o1",
+        "ru": "Световое перо",
+        "en": "Light pen"
+      },
+      {
+        "id": "o2",
+        "ru": "Трекбол",
+        "en": "Trackball"
+      },
+      {
+        "id": "o3",
+        "ru": "Графический планшет",
+        "en": "Graphics tablet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1968/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_floppy",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как назывался гибкий магнитный диск, для которого IBM начала продавать дисководы в 1971 году?",
+        "explanation": "Ранние дискеты IBM были диаметром восемь дюймов."
+      },
+      "en": {
+        "question": "What was the flexible magnetic medium for which IBM began selling drives in 1971?",
+        "explanation": "Early IBM floppy disks were eight inches across."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дискета",
+        "en": "Floppy disk"
+      },
+      {
+        "id": "o1",
+        "ru": "Магнитная лента",
+        "en": "Magnetic tape"
+      },
+      {
+        "id": "o2",
+        "ru": "Жёсткий диск",
+        "en": "Hard disk"
+      },
+      {
+        "id": "o3",
+        "ru": "Магнитный барабан",
+        "en": "Magnetic drum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.ibm.com/history/floppy-disk"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_ramac",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "В какой системе IBM 1956 года данные хранились на стопке магнитных дисков?",
+        "explanation": "В накопителе было 50 металлических пластин с магнитным покрытием."
+      },
+      "en": {
+        "question": "Which 1956 IBM system stored data on a stack of magnetic disks?",
+        "explanation": "The drive contained 50 magnetically coated metal platters."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "IBM 305 RAMAC",
+        "en": "IBM 305 RAMAC"
+      },
+      {
+        "id": "o1",
+        "ru": "IBM 650",
+        "en": "IBM 650"
+      },
+      {
+        "id": "o2",
+        "ru": "IBM 1401",
+        "en": "IBM 1401"
+      },
+      {
+        "id": "o3",
+        "ru": "IBM 7090",
+        "en": "IBM 7090"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1956/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_altair",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой микрокомпьютер для самостоятельной сборки появился на обложке Popular Electronics в январе 1975 года?",
+        "explanation": "Билл Гейтс и Пол Аллен лицензировали для него свой интерпретатор BASIC."
+      },
+      "en": {
+        "question": "Which microcomputer kit appeared on the cover of Popular Electronics in January 1975?",
+        "explanation": "Bill Gates and Paul Allen licensed their BASIC interpreter for it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Altair 8800",
+        "en": "Altair 8800"
+      },
+      {
+        "id": "o1",
+        "ru": "Apple I",
+        "en": "Apple I"
+      },
+      {
+        "id": "o2",
+        "ru": "IMSAI 8080",
+        "en": "IMSAI 8080"
+      },
+      {
+        "id": "o3",
+        "ru": "Kenbak-1",
+        "en": "Kenbak-1"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1975/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_intel",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как назывался четырёхразрядный микропроцессор Intel, представленный в 1971 году?",
+        "explanation": "Процессор разработали для японского производителя калькуляторов Busicom."
+      },
+      "en": {
+        "question": "What was the name of Intel’s four-bit microprocessor introduced in 1971?",
+        "explanation": "The chip was developed for the Japanese calculator maker Busicom."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Intel 4004",
+        "en": "Intel 4004"
+      },
+      {
+        "id": "o1",
+        "ru": "Intel 8008",
+        "en": "Intel 8008"
+      },
+      {
+        "id": "o2",
+        "ru": "Intel 8080",
+        "en": "Intel 8080"
+      },
+      {
+        "id": "o3",
+        "ru": "Intel 8086",
+        "en": "Intel 8086"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1971/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_appleii",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой компьютер Apple 1977 года выводил цветную графику на телевизор?",
+        "explanation": "В комплект входила кассета с игрой Breakout."
+      },
+      "en": {
+        "question": "Which Apple computer from 1977 could display colour graphics on a television?",
+        "explanation": "It shipped with a cassette containing Breakout."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Apple II",
+        "en": "Apple II"
+      },
+      {
+        "id": "o1",
+        "ru": "Apple I",
+        "en": "Apple I"
+      },
+      {
+        "id": "o2",
+        "ru": "Apple III",
+        "en": "Apple III"
+      },
+      {
+        "id": "o3",
+        "ru": "Apple Lisa",
+        "en": "Apple Lisa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1977/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_trs80",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой настольный компьютер компания Tandy представила через Radio Shack в 1977 году?",
+        "explanation": "В модели стоял процессор Z80, а интерпретатор BASIC уже был встроен."
+      },
+      "en": {
+        "question": "Which desktop computer did Tandy introduce through Radio Shack in 1977?",
+        "explanation": "It used a Z80 processor and included a built-in BASIC interpreter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "TRS-80",
+        "en": "TRS-80"
+      },
+      {
+        "id": "o1",
+        "ru": "Apple II",
+        "en": "Apple II"
+      },
+      {
+        "id": "o2",
+        "ru": "Commodore PET",
+        "en": "Commodore PET"
+      },
+      {
+        "id": "o3",
+        "ru": "Atari 800",
+        "en": "Atari 800"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1977/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_pet",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой компьютер Commodore 1977 года поставлялся со встроенным кассетным приводом Datasette?",
+        "explanation": "Datasette записывал цифровые данные на кассету в виде звукового сигнала."
+      },
+      "en": {
+        "question": "Which 1977 Commodore computer came with a built-in Datasette drive?",
+        "explanation": "The Datasette stored digital data on a cassette as an audio signal."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Commodore PET",
+        "en": "Commodore PET"
+      },
+      {
+        "id": "o1",
+        "ru": "Commodore 64",
+        "en": "Commodore 64"
+      },
+      {
+        "id": "o2",
+        "ru": "Commodore VIC-20",
+        "en": "Commodore VIC-20"
+      },
+      {
+        "id": "o3",
+        "ru": "Commodore Amiga 1000",
+        "en": "Commodore Amiga 1000"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1977/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_ibmpc",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Под каким названием известен компьютер IBM модели 5150, выпущенный в 1981 году?",
+        "explanation": "В нём использовался процессор Intel 8088. Совместимые компьютеры других производителей стали называть клонами IBM PC."
+      },
+      "en": {
+        "question": "By what name is IBM’s Model 5150, introduced in 1981, better known?",
+        "explanation": "It used an Intel 8088 processor. Compatible machines from other manufacturers became known as IBM PC clones."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "IBM PC",
+        "en": "IBM PC"
+      },
+      {
+        "id": "o1",
+        "ru": "IBM PC/XT",
+        "en": "IBM PC/XT"
+      },
+      {
+        "id": "o2",
+        "ru": "IBM PC/AT",
+        "en": "IBM PC/AT"
+      },
+      {
+        "id": "o3",
+        "ru": "IBM PS/2",
+        "en": "IBM PS/2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1981/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_mac",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой компьютер Apple представила в 1984 году с графическим интерфейсом и мышью?",
+        "explanation": "В комплект входили программы MacPaint для рисования и MacWrite для работы с текстом."
+      },
+      "en": {
+        "question": "Which computer did Apple introduce in 1984 with a graphical interface and a mouse?",
+        "explanation": "It came with MacPaint for drawing and MacWrite for word processing."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Macintosh",
+        "en": "Macintosh"
+      },
+      {
+        "id": "o1",
+        "ru": "Apple Lisa",
+        "en": "Apple Lisa"
+      },
+      {
+        "id": "o2",
+        "ru": "Apple IIe",
+        "en": "Apple IIe"
+      },
+      {
+        "id": "o3",
+        "ru": "Apple III",
+        "en": "Apple III"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1984/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_xerox",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "На каком исследовательском компьютере Xerox PARC работал текстовый редактор Bravo?",
+        "explanation": "На экране Bravo показывал документ примерно так, как тот выглядел при печати."
+      },
+      "en": {
+        "question": "Which Xerox PARC research computer ran the Bravo word processor?",
+        "explanation": "Bravo showed documents on screen much as they would appear when printed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Xerox Alto",
+        "en": "Xerox Alto"
+      },
+      {
+        "id": "o1",
+        "ru": "Xerox Star",
+        "en": "Xerox Star"
+      },
+      {
+        "id": "o2",
+        "ru": "Apple Lisa",
+        "en": "Apple Lisa"
+      },
+      {
+        "id": "o3",
+        "ru": "Macintosh",
+        "en": "Macintosh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1974/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_visicalc",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называлась электронная таблица 1979 года, которую сначала разработали для Apple II?",
+        "explanation": "Программа автоматически пересчитывала зависимые ячейки после изменения данных."
+      },
+      "en": {
+        "question": "Which spreadsheet program from 1979 was first developed for the Apple II?",
+        "explanation": "The program automatically recalculated dependent cells when the inputs changed."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "VisiCalc",
+        "en": "VisiCalc"
+      },
+      {
+        "id": "o1",
+        "ru": "Lotus 1-2-3",
+        "en": "Lotus 1-2-3"
+      },
+      {
+        "id": "o2",
+        "ru": "Microsoft Excel",
+        "en": "Microsoft Excel"
+      },
+      {
+        "id": "o3",
+        "ru": "SuperCalc",
+        "en": "SuperCalc"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1979/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_eniac",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую машину Джона Мокли и Преспера Эккерта представили публике в 1946 году?",
+        "explanation": "Для программирования ENIAC использовали провода между панелями и переключатели."
+      },
+      "en": {
+        "question": "Which machine built by John Mauchly and Presper Eckert was unveiled in 1946?",
+        "explanation": "ENIAC was programmed with switches and cables connecting its panels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ENIAC",
+        "en": "ENIAC"
+      },
+      {
+        "id": "o1",
+        "ru": "UNIVAC I",
+        "en": "UNIVAC I"
+      },
+      {
+        "id": "o2",
+        "ru": "EDVAC",
+        "en": "EDVAC"
+      },
+      {
+        "id": "o3",
+        "ru": "EDSAC",
+        "en": "EDSAC"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1946/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_z3",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую релейную вычислительную машину Конрад Цузе завершил в 1941 году?",
+        "explanation": "Машина выполняла двоичные вычисления с плавающей точкой."
+      },
+      "en": {
+        "question": "Which relay-based computer did Konrad Zuse complete in 1941?",
+        "explanation": "It performed binary floating-point calculations."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Z3",
+        "en": "Z3"
+      },
+      {
+        "id": "o1",
+        "ru": "Z1",
+        "en": "Z1"
+      },
+      {
+        "id": "o2",
+        "ru": "Z4",
+        "en": "Z4"
+      },
+      {
+        "id": "o3",
+        "ru": "Harvard Mark I",
+        "en": "Harvard Mark I"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1941/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_univac",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой коммерческий компьютер в 1951 году первым получил Бюро переписи населения США?",
+        "explanation": "Его создали Мокли и Эккерт, которые ранее спроектировали ENIAC."
+      },
+      "en": {
+        "question": "Which commercial computer was first delivered to the US Census Bureau in 1951?",
+        "explanation": "It was built by Mauchly and Eckert, the designers of ENIAC."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "UNIVAC I",
+        "en": "UNIVAC I"
+      },
+      {
+        "id": "o1",
+        "ru": "IBM 701",
+        "en": "IBM 701"
+      },
+      {
+        "id": "o2",
+        "ru": "Ferranti Mark I",
+        "en": "Ferranti Mark I"
+      },
+      {
+        "id": "o3",
+        "ru": "Whirlwind I",
+        "en": "Whirlwind I"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1951/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_atari_800",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую модель Atari представила в 1979 году прежде всего как домашний компьютер?",
+        "explanation": "Другую модель, Atari 400, ориентировали прежде всего на игры."
+      },
+      "en": {
+        "question": "Which model did Atari introduce in 1979 primarily as a home computer?",
+        "explanation": "The other model, the Atari 400, was designed primarily for games."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Atari 800",
+        "en": "Atari 800"
+      },
+      {
+        "id": "o1",
+        "ru": "Atari 400",
+        "en": "Atari 400"
+      },
+      {
+        "id": "o2",
+        "ru": "Atari 520ST",
+        "en": "Atari 520ST"
+      },
+      {
+        "id": "o3",
+        "ru": "Atari 1200XL",
+        "en": "Atari 1200XL"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1979/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_cray",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "У какого суперкомпьютера 1976 года корпус напоминал букву C?",
+        "explanation": "Изогнутая форма позволяла сократить длину внутренних проводов."
+      },
+      "en": {
+        "question": "Which 1976 supercomputer had a cabinet shaped like the letter C?",
+        "explanation": "The curved shape helped shorten the internal wiring."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Cray-1",
+        "en": "Cray-1"
+      },
+      {
+        "id": "o1",
+        "ru": "CDC 6600",
+        "en": "CDC 6600"
+      },
+      {
+        "id": "o2",
+        "ru": "IBM 7030 Stretch",
+        "en": "IBM 7030 Stretch"
+      },
+      {
+        "id": "o3",
+        "ru": "Cray-2",
+        "en": "Cray-2"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1976/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_deepblue",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой шахматный компьютер IBM выиграл матч у Гарри Каспарова в 1997 году?",
+        "explanation": "Он выиграл две партии из шести. Ещё три закончились вничью."
+      },
+      "en": {
+        "question": "Which IBM chess computer defeated Garry Kasparov in a match in 1997?",
+        "explanation": "It won two of the six games. Another three ended in draws."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Deep Blue",
+        "en": "Deep Blue"
+      },
+      {
+        "id": "o1",
+        "ru": "Deep Thought",
+        "en": "Deep Thought"
+      },
+      {
+        "id": "o2",
+        "ru": "Belle",
+        "en": "Belle"
+      },
+      {
+        "id": "o3",
+        "ru": "HiTech",
+        "en": "HiTech"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1997/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_ethernet",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая технология локальных сетей возникла в Xerox PARC в 1973 году?",
+        "explanation": "При её создании инженеры применили идеи беспроводной сети ALOHAnet к передаче данных по кабелю."
+      },
+      "en": {
+        "question": "Which local networking technology originated at Xerox PARC in 1973?",
+        "explanation": "Its designers adapted ideas from the wireless ALOHAnet to communication over a cable."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ethernet",
+        "en": "Ethernet"
+      },
+      {
+        "id": "o1",
+        "ru": "Token Ring",
+        "en": "Token Ring"
+      },
+      {
+        "id": "o2",
+        "ru": "ARCNET",
+        "en": "ARCNET"
+      },
+      {
+        "id": "o3",
+        "ru": "FDDI",
+        "en": "FDDI"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1973/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_cdrom",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой формат оптических дисков для компьютерных данных появился в 1984 году?",
+        "explanation": "Такие диски использовали для энциклопедий, игр и других мультимедийных изданий."
+      },
+      "en": {
+        "question": "Which optical disc format for computer data appeared in 1984?",
+        "explanation": "These discs were used for encyclopedias, games and other multimedia publications."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "CD-ROM",
+        "en": "CD-ROM"
+      },
+      {
+        "id": "o1",
+        "ru": "DVD-ROM",
+        "en": "DVD-ROM"
+      },
+      {
+        "id": "o2",
+        "ru": "Blu-ray",
+        "en": "Blu-ray"
+      },
+      {
+        "id": "o3",
+        "ru": "HD DVD",
+        "en": "HD DVD"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1984/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_c64",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую модель с 64 КБ оперативной памяти Commodore представила в 1982 году?",
+        "explanation": "Для этой модели выпустили тысячи программ."
+      },
+      "en": {
+        "question": "Which model with 64 KB of RAM did Commodore introduce in 1982?",
+        "explanation": "Thousands of software titles were released for the machine."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Commodore 64",
+        "en": "Commodore 64"
+      },
+      {
+        "id": "o1",
+        "ru": "Commodore VIC-20",
+        "en": "Commodore VIC-20"
+      },
+      {
+        "id": "o2",
+        "ru": "Commodore Plus/4",
+        "en": "Commodore Plus/4"
+      },
+      {
+        "id": "o3",
+        "ru": "Commodore 128",
+        "en": "Commodore 128"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1982/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_vic20",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой компьютер Commodore выпустила в 1980 году как более доступного преемника PET?",
+        "explanation": "В рекламе VIC-20 участвовал Уильям Шетнер, актёр из «Звёздного пути»."
+      },
+      "en": {
+        "question": "Which computer did Commodore release in 1980 as a more affordable successor to the PET?",
+        "explanation": "The VIC-20 was advertised by Star Trek actor William Shatner."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Commodore VIC-20",
+        "en": "Commodore VIC-20"
+      },
+      {
+        "id": "o1",
+        "ru": "Commodore 64",
+        "en": "Commodore 64"
+      },
+      {
+        "id": "o2",
+        "ru": "Commodore Plus/4",
+        "en": "Commodore Plus/4"
+      },
+      {
+        "id": "o3",
+        "ru": "Commodore Amiga 1000",
+        "en": "Commodore Amiga 1000"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1980/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_osborne",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой переносной компьютер 1981 года имел пятидюймовый экран и два дисковода?",
+        "explanation": "Машина весила около 11 килограммов и поставлялась с набором рабочих программ."
+      },
+      "en": {
+        "question": "Which portable computer from 1981 had a five-inch screen and two floppy drives?",
+        "explanation": "It weighed around 11 kilograms and came with productivity software."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Osborne 1",
+        "en": "Osborne 1"
+      },
+      {
+        "id": "o1",
+        "ru": "Compaq Portable",
+        "en": "Compaq Portable"
+      },
+      {
+        "id": "o2",
+        "ru": "Kaypro II",
+        "en": "Kaypro II"
+      },
+      {
+        "id": "o3",
+        "ru": "IBM Portable PC",
+        "en": "IBM Portable PC"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1981/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_pilot",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой карманный органайзер 1996 года распознавал рукописные знаки Graffiti?",
+        "explanation": "Данные синхронизировались с ПК или Mac через последовательный порт."
+      },
+      "en": {
+        "question": "Which handheld organiser from 1996 recognised the handwritten symbols of Graffiti?",
+        "explanation": "It synchronised with a PC or Mac through a serial port."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Palm Pilot",
+        "en": "Palm Pilot"
+      },
+      {
+        "id": "o1",
+        "ru": "Apple Newton",
+        "en": "Apple Newton"
+      },
+      {
+        "id": "o2",
+        "ru": "Psion Series 3",
+        "en": "Psion Series 3"
+      },
+      {
+        "id": "o3",
+        "ru": "Casio Zoomer",
+        "en": "Casio Zoomer"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1996/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_atari_vcs",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую приставку Atari выпустила в 1977 году со сменными игровыми картриджами?",
+        "explanation": "При разработке рассматривали вариант с несколькими встроенными играми. В итоге выбрали картриджи."
+      },
+      "en": {
+        "question": "Which Atari console with interchangeable game cartridges was introduced in 1977?",
+        "explanation": "The designers considered building in several games before deciding to use cartridges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Atari VCS",
+        "en": "Atari VCS"
+      },
+      {
+        "id": "o1",
+        "ru": "Atari 5200",
+        "en": "Atari 5200"
+      },
+      {
+        "id": "o2",
+        "ru": "Atari 7800",
+        "en": "Atari 7800"
+      },
+      {
+        "id": "o3",
+        "ru": "Atari Jaguar",
+        "en": "Atari Jaguar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1977/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_pacman",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую аркадную игру Тору Иватани представил в Японии в 1980 году?",
+        "explanation": "Программу написал Сигэо Фунаки, а звуком занимался Тосио Каи."
+      },
+      "en": {
+        "question": "Which arcade game designed by Toru Iwatani reached the Japanese public in 1980?",
+        "explanation": "Shigeo Funaki programmed it, and Toshio Kai was responsible for sound."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Pac-Man",
+        "en": "Pac-Man"
+      },
+      {
+        "id": "o1",
+        "ru": "Galaga",
+        "en": "Galaga"
+      },
+      {
+        "id": "o2",
+        "ru": "Dig Dug",
+        "en": "Dig Dug"
+      },
+      {
+        "id": "o3",
+        "ru": "Rally-X",
+        "en": "Rally-X"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pacman.com/en/history/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_pong",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какую игру по мотивам настольного тенниса Эл Алкорн создал для Atari?",
+        "explanation": "Первые автоматы проверяли в барах в Калифорнии."
+      },
+      "en": {
+        "question": "Which game based on table tennis did Al Alcorn design for Atari?",
+        "explanation": "Early cabinets were tested in bars in California."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Pong",
+        "en": "Pong"
+      },
+      {
+        "id": "o1",
+        "ru": "Breakout",
+        "en": "Breakout"
+      },
+      {
+        "id": "o2",
+        "ru": "Asteroids",
+        "en": "Asteroids"
+      },
+      {
+        "id": "o3",
+        "ru": "Centipede",
+        "en": "Centipede"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1972/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_spacewar",
+    "categoryId": "inventions",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называлась игра про дуэль космических кораблей, созданная на PDP-1 в начале 1960-х?",
+        "explanation": "Для фона использовали программу Питера Самсона, которая строила точную карту звёздного неба."
+      },
+      "en": {
+        "question": "What was the spaceship duel game developed on a PDP-1 in the early 1960s called?",
+        "explanation": "Peter Samson’s program provided an accurate star field for the background."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Spacewar!",
+        "en": "Spacewar!"
+      },
+      {
+        "id": "o1",
+        "ru": "Computer Space",
+        "en": "Computer Space"
+      },
+      {
+        "id": "o2",
+        "ru": "Asteroids",
+        "en": "Asteroids"
+      },
+      {
+        "id": "o3",
+        "ru": "Space Invaders",
+        "en": "Space Invaders"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1962/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_winchester",
+    "categoryId": "inventions",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой дисковый накопитель IBM 1973 года объединил головки и диски в съёмном герметичном модуле?",
+        "explanation": "Эту конструкцию называли Winchester. После выключения головки опускались на смазанную поверхность диска."
+      },
+      "en": {
+        "question": "Which 1973 IBM drive enclosed its heads and disks in a sealed removable module?",
+        "explanation": "The design was known as Winchester. Its heads came to rest on the lubricated disk surface after power was switched off."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "IBM 3340",
+        "en": "IBM 3340"
+      },
+      {
+        "id": "o1",
+        "ru": "IBM 350",
+        "en": "IBM 350"
+      },
+      {
+        "id": "o2",
+        "ru": "IBM 1301",
+        "en": "IBM 1301"
+      },
+      {
+        "id": "o3",
+        "ru": "IBM 2311",
+        "en": "IBM 2311"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1973/"
+    ],
+    "image": null
+  },
+  {
+    "id": "inventions_m50_ferranti",
+    "categoryId": "inventions",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой серийный компьютер получил Манчестерский университет в 1951 году?",
+        "explanation": "Машина развивала идеи экспериментальных компьютеров Manchester Baby и Manchester Mark I."
+      },
+      "en": {
+        "question": "Which commercial computer did the University of Manchester receive in 1951?",
+        "explanation": "The machine developed ideas from the experimental Manchester Baby and Manchester Mark I."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ferranti Mark I",
+        "en": "Ferranti Mark I"
+      },
+      {
+        "id": "o1",
+        "ru": "EDSAC",
+        "en": "EDSAC"
+      },
+      {
+        "id": "o2",
+        "ru": "LEO I",
+        "en": "LEO I"
+      },
+      {
+        "id": "o3",
+        "ru": "UNIVAC I",
+        "en": "UNIVAC I"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.computerhistory.org/timeline/1951/"
+    ],
+    "image": null
   }
 ]
