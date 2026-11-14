@@ -438,5 +438,1765 @@
       "https://annex.exploratorium.edu/cooking/candy/sugar.html"
     ],
     "image": null
+  },
+  {
+    "id": "food_m50_blanch",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется краткое погружение продукта в кипяток с последующим быстрым охлаждением?",
+        "explanation": "Приём помогает, например, ослабить кожицу некоторых овощей."
+      },
+      "en": {
+        "question": "What is briefly placing food in boiling water followed by rapid cooling called?",
+        "explanation": "It can help loosen the skins of some vegetables."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o1",
+        "ru": "Маринование",
+        "en": "Marinating"
+      },
+      {
+        "id": "o2",
+        "ru": "Тушение",
+        "en": "Braising"
+      },
+      {
+        "id": "o3",
+        "ru": "Пассерование",
+        "en": "Sweating"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_braise",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется медленное приготовление с небольшим количеством жидкости под крышкой, часто после обжаривания?",
+        "explanation": "Сочетаются сухой нагрев и последующее приготовление во влажной среде."
+      },
+      "en": {
+        "question": "What is slow covered cooking with a little liquid, often after browning called?",
+        "explanation": "Dry heat is combined with subsequent moist-heat cooking."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тушение",
+        "en": "Braising"
+      },
+      {
+        "id": "o1",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o2",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      },
+      {
+        "id": "o3",
+        "ru": "Приготовление во фритюре",
+        "en": "Deep-frying"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_poach",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется бережное приготовление в жидкости ниже активного кипения?",
+        "explanation": "Так часто готовят нежные продукты, например яйца или рыбу."
+      },
+      "en": {
+        "question": "What is gentle cooking in liquid below a vigorous boil called?",
+        "explanation": "Delicate foods such as eggs or fish are often cooked this way."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поширование",
+        "en": "Poaching"
+      },
+      {
+        "id": "o1",
+        "ru": "Обжаривание на сильном огне",
+        "en": "Searing"
+      },
+      {
+        "id": "o2",
+        "ru": "Приготовление во фритюре",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o3",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_steam",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется приготовление продукта горячим водяным паром?",
+        "explanation": "Продукт не должен быть полностью погружён в кипящую воду."
+      },
+      "en": {
+        "question": "What is cooking food with hot water vapour called?",
+        "explanation": "The food need not be submerged in boiling water."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      },
+      {
+        "id": "o1",
+        "ru": "Поширование",
+        "en": "Poaching"
+      },
+      {
+        "id": "o2",
+        "ru": "Тушение",
+        "en": "Braising"
+      },
+      {
+        "id": "o3",
+        "ru": "Приготовление конфи",
+        "en": "Confit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_deep_fry",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется обжаривание с полным погружением в горячий жир?",
+        "explanation": "Горячий жир передаёт тепло всей погружённой поверхности."
+      },
+      "en": {
+        "question": "What is frying food fully submerged in hot fat called?",
+        "explanation": "Hot fat transfers heat to the entire submerged surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фритюр",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o1",
+        "ru": "Соте",
+        "en": "Sautéing"
+      },
+      {
+        "id": "o2",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      },
+      {
+        "id": "o3",
+        "ru": "Тушение",
+        "en": "Braising"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_saute",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется быстрая жарка небольших кусочков в малом количестве жира?",
+        "explanation": "Сильный жар быстро подрумянивает небольшие кусочки."
+      },
+      "en": {
+        "question": "What is quickly frying small pieces in a small amount of fat called?",
+        "explanation": "High heat quickly browns the small pieces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соте",
+        "en": "Sautéing"
+      },
+      {
+        "id": "o1",
+        "ru": "Фритюр",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o2",
+        "ru": "Поширование",
+        "en": "Poaching"
+      },
+      {
+        "id": "o3",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_simmer",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется приготовление в жидкости с небольшими пузырьками без бурного кипения?",
+        "explanation": "Щадящий нагрев подходит для многих супов и соусов."
+      },
+      "en": {
+        "question": "What is cooking in liquid with small bubbles rather than a rolling boil called?",
+        "explanation": "Gentle heat suits many soups and sauces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медленная варка",
+        "en": "Simmering"
+      },
+      {
+        "id": "o1",
+        "ru": "Бурное кипение",
+        "en": "Boiling"
+      },
+      {
+        "id": "o2",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      },
+      {
+        "id": "o3",
+        "ru": "Приготовление конфи",
+        "en": "Confit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_reduce",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется выпаривание части жидкости для усиления вкуса и загущения?",
+        "explanation": "По мере ухода воды растворённые вещества становятся концентрированнее."
+      },
+      "en": {
+        "question": "What is evaporating some liquid to intensify flavour and thicken it called?",
+        "explanation": "Dissolved substances become more concentrated as water leaves."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Уваривание",
+        "en": "Reduction"
+      },
+      {
+        "id": "o1",
+        "ru": "Разбавление",
+        "en": "Dilution"
+      },
+      {
+        "id": "o2",
+        "ru": "Эмульгирование",
+        "en": "Emulsification"
+      },
+      {
+        "id": "o3",
+        "ru": "Процеживание",
+        "en": "Straining"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_emulsion",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется смесь двух обычно не смешивающихся жидкостей, например масла и воды?",
+        "explanation": "Майонез — пример смеси, стабилизированной эмульгатором."
+      },
+      "en": {
+        "question": "What is a mixture of two normally immiscible liquids, such as oil and water called?",
+        "explanation": "Mayonnaise is an example stabilised by an emulsifier."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эмульсия",
+        "en": "Emulsion"
+      },
+      {
+        "id": "o1",
+        "ru": "Суспензия",
+        "en": "Suspension"
+      },
+      {
+        "id": "o2",
+        "ru": "Раствор",
+        "en": "Solution"
+      },
+      {
+        "id": "o3",
+        "ru": "Пена",
+        "en": "Foam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_caramel",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется потемнение сахаров при нагревании?",
+        "explanation": "Для этой реакции не требуется присутствие белка."
+      },
+      "en": {
+        "question": "What is the browning of sugars when heated called?",
+        "explanation": "This reaction does not require protein."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Карамелизация",
+        "en": "Caramelisation"
+      },
+      {
+        "id": "o1",
+        "ru": "Реакция Майяра",
+        "en": "Maillard reaction"
+      },
+      {
+        "id": "o2",
+        "ru": "Ферментация",
+        "en": "Fermentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Клейстеризация",
+        "en": "Gelatinisation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_maillard",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется реакция сахаров с аминокислотами при нагреве, создающая поджаристые ароматы?",
+        "explanation": "Она отличается от потемнения чистого сахара."
+      },
+      "en": {
+        "question": "What is a heat-driven reaction between sugars and amino acids producing browned flavours called?",
+        "explanation": "It differs from browning pure sugar."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Реакция Майяра",
+        "en": "Maillard reaction"
+      },
+      {
+        "id": "o1",
+        "ru": "Карамелизация",
+        "en": "Caramelisation"
+      },
+      {
+        "id": "o2",
+        "ru": "Ферментация",
+        "en": "Fermentation"
+      },
+      {
+        "id": "o3",
+        "ru": "Эмульгирование",
+        "en": "Emulsification"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_ferment",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется преобразование пищевых веществ микроорганизмами?",
+        "explanation": "Так получают, например, йогурт и квашеную капусту."
+      },
+      "en": {
+        "question": "What is the transformation of food substances by microorganisms called?",
+        "explanation": "Yogurt and sauerkraut are examples of foods made this way."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ферментация",
+        "en": "Fermentation"
+      },
+      {
+        "id": "o1",
+        "ru": "Пастеризация",
+        "en": "Pasteurisation"
+      },
+      {
+        "id": "o2",
+        "ru": "Замораживание",
+        "en": "Freezing"
+      },
+      {
+        "id": "o3",
+        "ru": "Обезвоживание",
+        "en": "Dehydration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://isappscience.org/resource/what-are-fermented-foods/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_knead",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется механическая обработка теста растягиванием и складыванием?",
+        "explanation": "В пшеничном тесте это помогает развивать клейковинную сеть."
+      },
+      "en": {
+        "question": "What is working dough by stretching and folding it called?",
+        "explanation": "In wheat dough this helps develop the gluten network."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вымешивание",
+        "en": "Kneading"
+      },
+      {
+        "id": "o1",
+        "ru": "Просеивание",
+        "en": "Sifting"
+      },
+      {
+        "id": "o2",
+        "ru": "Процеживание",
+        "en": "Straining"
+      },
+      {
+        "id": "o3",
+        "ru": "Расстойка",
+        "en": "Proofing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_proof",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется выдержка дрожжевого теста для подъёма перед выпечкой?",
+        "explanation": "Газ, образующийся при брожении, увеличивает объём теста."
+      },
+      "en": {
+        "question": "What is resting yeast dough to let it rise before baking called?",
+        "explanation": "Gas produced by fermentation increases the dough's volume."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Расстойка",
+        "en": "Proofing"
+      },
+      {
+        "id": "o1",
+        "ru": "Вымешивание",
+        "en": "Kneading"
+      },
+      {
+        "id": "o2",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o3",
+        "ru": "Заваривание",
+        "en": "Scalding"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_roux",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется смесь муки и жира, прогретая для загущения соуса?",
+        "explanation": "Степень обжаривания влияет на цвет и вкус основы."
+      },
+      "en": {
+        "question": "What is a cooked flour-and-fat mixture used to thicken a sauce called?",
+        "explanation": "Cooking time affects the base's colour and flavour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ру",
+        "en": "Roux"
+      },
+      {
+        "id": "o1",
+        "ru": "Ганаш",
+        "en": "Ganache"
+      },
+      {
+        "id": "o2",
+        "ru": "Пралине",
+        "en": "Praline"
+      },
+      {
+        "id": "o3",
+        "ru": "Майонез",
+        "en": "Mayonnaise"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_bechamel",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется белый соус на молоке, загущённый смесью муки и жира?",
+        "explanation": "Он относится к классическим базовым соусам французской кухни."
+      },
+      "en": {
+        "question": "What is a white milk sauce thickened with a flour-and-fat mixture called?",
+        "explanation": "It is one of the classic French mother sauces."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бешамель",
+        "en": "Béchamel"
+      },
+      {
+        "id": "o1",
+        "ru": "Велуте",
+        "en": "Velouté"
+      },
+      {
+        "id": "o2",
+        "ru": "Голландский соус",
+        "en": "Hollandaise"
+      },
+      {
+        "id": "o3",
+        "ru": "Томатный соус",
+        "en": "Tomato sauce"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_julienne",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нарезка продукта тонкой длинной соломкой?",
+        "explanation": "Здесь речь о форме нарезки, а не о названии запечённого блюда."
+      },
+      "en": {
+        "question": "What is cutting food into thin matchstick-like strips called?",
+        "explanation": "Here the term refers to a cut rather than a baked dish name."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жюльен",
+        "en": "Julienne"
+      },
+      {
+        "id": "o1",
+        "ru": "Брюнуаз",
+        "en": "Brunoise"
+      },
+      {
+        "id": "o2",
+        "ru": "Македуан",
+        "en": "Macédoine"
+      },
+      {
+        "id": "o3",
+        "ru": "Шифонад",
+        "en": "Chiffonade"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_brunoise",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нарезка продукта очень мелкими ровными кубиками?",
+        "explanation": "Мелкие кубики часто получают из предварительно нарезанной соломки."
+      },
+      "en": {
+        "question": "What is cutting food into very small even cubes called?",
+        "explanation": "The small cubes are often cut from prepared fine strips."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Брюнуаз",
+        "en": "Brunoise"
+      },
+      {
+        "id": "o1",
+        "ru": "Жюльен",
+        "en": "Julienne"
+      },
+      {
+        "id": "o2",
+        "ru": "Шифонад",
+        "en": "Chiffonade"
+      },
+      {
+        "id": "o3",
+        "ru": "Батонне",
+        "en": "Bâtonnet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_chiffonade",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нарезка листовой зелени тонкими лентами?",
+        "explanation": "Листья удобно сначала сложить или свернуть."
+      },
+      "en": {
+        "question": "What is cutting leafy greens into thin ribbons called?",
+        "explanation": "The leaves can first be stacked or rolled."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шифонад",
+        "en": "Chiffonade"
+      },
+      {
+        "id": "o1",
+        "ru": "Брюнуаз",
+        "en": "Brunoise"
+      },
+      {
+        "id": "o2",
+        "ru": "Македуан",
+        "en": "Macédoine"
+      },
+      {
+        "id": "o3",
+        "ru": "Батонне",
+        "en": "Bâtonnet"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_puree",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется однородная измельчённая масса из продукта?",
+        "explanation": "Нужную текстуру получают измельчением или протиранием."
+      },
+      "en": {
+        "question": "What is a smooth mass made by finely processing food called?",
+        "explanation": "The texture is obtained by blending or sieving."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пюре",
+        "en": "Purée"
+      },
+      {
+        "id": "o1",
+        "ru": "Эмульсия",
+        "en": "Emulsion"
+      },
+      {
+        "id": "o2",
+        "ru": "Желе",
+        "en": "Jelly"
+      },
+      {
+        "id": "o3",
+        "ru": "Пена",
+        "en": "Foam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_sieve",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется удаление крупных частиц из муки или смеси через сито?",
+        "explanation": "У сухих ингредиентов это также помогает разбивать комки."
+      },
+      "en": {
+        "question": "What is passing flour or a mixture through a sieve to remove coarse particles called?",
+        "explanation": "With dry ingredients it also helps break up lumps."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Просеивание",
+        "en": "Sifting"
+      },
+      {
+        "id": "o1",
+        "ru": "Вымешивание",
+        "en": "Kneading"
+      },
+      {
+        "id": "o2",
+        "ru": "Растирание",
+        "en": "Creaming"
+      },
+      {
+        "id": "o3",
+        "ru": "Уваривание",
+        "en": "Reduction"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_papillote",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется приготовление рыбы или другой еды в закрытом конверте из пергамента?",
+        "explanation": "Этот способ часто используют для рыбы."
+      },
+      "en": {
+        "question": "What is cooking fish or other food in a sealed parchment parcel called?",
+        "explanation": "This technique is often used for fish."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ан папийот",
+        "en": "En papillote"
+      },
+      {
+        "id": "o1",
+        "ru": "Конфи",
+        "en": "Confit"
+      },
+      {
+        "id": "o2",
+        "ru": "Во фритюре",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o3",
+        "ru": "На гриле",
+        "en": "Grilling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_al_dente",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется состояние пасты, сохраняющей лёгкую упругость при укусе?",
+        "explanation": "Итальянское выражение буквально связано с ощущением «на зуб»."
+      },
+      "en": {
+        "question": "What is the state of pasta retaining a slight firmness when bitten called?",
+        "explanation": "The Italian expression literally refers to the feel to the tooth."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аль денте",
+        "en": "Al dente"
+      },
+      {
+        "id": "o1",
+        "ru": "Разваренная",
+        "en": "Overcooked"
+      },
+      {
+        "id": "o2",
+        "ru": "Недоготовленная с твёрдой сердцевиной",
+        "en": "Undercooked with a hard centre"
+      },
+      {
+        "id": "o3",
+        "ru": "Обжаренная до корочки",
+        "en": "Fried until crusty"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_mise",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется предварительная подготовка и раскладка ингредиентов перед готовкой?",
+        "explanation": "Так проще соблюдать порядок действий во время приготовления."
+      },
+      "en": {
+        "question": "What is preparing and arranging ingredients before cooking called?",
+        "explanation": "It makes the cooking sequence easier to follow."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мизанплас",
+        "en": "Mise en place"
+      },
+      {
+        "id": "o1",
+        "ru": "Деглазирование",
+        "en": "Deglazing"
+      },
+      {
+        "id": "o2",
+        "ru": "Расстойка",
+        "en": "Proofing"
+      },
+      {
+        "id": "o3",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_marinade",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется выдержка продукта в ароматной смеси перед приготовлением?",
+        "explanation": "Состав смеси влияет на вкус и поверхность продукта."
+      },
+      "en": {
+        "question": "What is soaking food in a seasoned mixture before cooking called?",
+        "explanation": "The mixture affects flavour and the food's surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Маринование",
+        "en": "Marinating"
+      },
+      {
+        "id": "o1",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o2",
+        "ru": "Тушение",
+        "en": "Braising"
+      },
+      {
+        "id": "o3",
+        "ru": "Поширование",
+        "en": "Poaching"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_glaze",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нанесение тонкого блестящего покрытия на продукт?",
+        "explanation": "Покрытие может быть сладким или несладким."
+      },
+      "en": {
+        "question": "What is applying a thin shiny coating to food called?",
+        "explanation": "The coating may be sweet or savoury."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Глазирование",
+        "en": "Glazing"
+      },
+      {
+        "id": "o1",
+        "ru": "Панирование",
+        "en": "Breading"
+      },
+      {
+        "id": "o2",
+        "ru": "Процеживание",
+        "en": "Straining"
+      },
+      {
+        "id": "o3",
+        "ru": "Шпигование",
+        "en": "Larding"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_zest",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется окрашенная наружная часть кожуры цитрусового плода?",
+        "explanation": "Белый слой под ней часто горчит."
+      },
+      "en": {
+        "question": "What is the coloured outer part of a citrus peel called?",
+        "explanation": "The white layer beneath it is often bitter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Цедра",
+        "en": "Zest"
+      },
+      {
+        "id": "o1",
+        "ru": "Альбедо",
+        "en": "Pith"
+      },
+      {
+        "id": "o2",
+        "ru": "Мякоть",
+        "en": "Flesh"
+      },
+      {
+        "id": "o3",
+        "ru": "Плодоножка",
+        "en": "Fruit stalk"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_deglaze",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется растворение поджаристых остатков на дне посуды добавленной жидкостью?",
+        "explanation": "Полученная жидкость может стать основой соуса."
+      },
+      "en": {
+        "question": "What is loosening browned pan residues by adding liquid called?",
+        "explanation": "The resulting liquid can become a sauce base."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Деглазирование",
+        "en": "Deglazing"
+      },
+      {
+        "id": "o1",
+        "ru": "Маринование",
+        "en": "Marinating"
+      },
+      {
+        "id": "o2",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o3",
+        "ru": "Приготовление конфи",
+        "en": "Confit"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_fold",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется бережное соединение смесей движениями снизу вверх?",
+        "explanation": "Приём помогает сохранить воздух во взбитой смеси."
+      },
+      "en": {
+        "question": "What is gently combining mixtures with bottom-to-top movements called?",
+        "explanation": "The technique helps preserve air in a whipped mixture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Складывание",
+        "en": "Folding"
+      },
+      {
+        "id": "o1",
+        "ru": "Взбивание",
+        "en": "Whisking"
+      },
+      {
+        "id": "o2",
+        "ru": "Вымешивание",
+        "en": "Kneading"
+      },
+      {
+        "id": "o3",
+        "ru": "Растирание",
+        "en": "Creaming"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_whisk",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется энергичное перемешивание венчиком с возможным насыщением воздухом?",
+        "explanation": "Так можно получать пену из сливок или белков."
+      },
+      "en": {
+        "question": "What is mixing vigorously with a whisk, potentially incorporating air called?",
+        "explanation": "It can produce foam from cream or egg whites."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Взбивание",
+        "en": "Whisking"
+      },
+      {
+        "id": "o1",
+        "ru": "Складывание",
+        "en": "Folding"
+      },
+      {
+        "id": "o2",
+        "ru": "Просеивание",
+        "en": "Sifting"
+      },
+      {
+        "id": "o3",
+        "ru": "Процеживание",
+        "en": "Straining"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_sear",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется быстрое интенсивное обжаривание поверхности продукта?",
+        "explanation": "Подрумянивание поверхности создаёт выраженный аромат и вкус."
+      },
+      "en": {
+        "question": "What is briefly browning a food's surface over intense heat called?",
+        "explanation": "Surface browning develops a strong aroma and flavour."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Обжаривание до корочки",
+        "en": "Searing"
+      },
+      {
+        "id": "o1",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o2",
+        "ru": "Тушение",
+        "en": "Braising"
+      },
+      {
+        "id": "o3",
+        "ru": "Поширование",
+        "en": "Poaching"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_butterfly",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется разрезание куска почти до конца и раскрытие его как книги?",
+        "explanation": "Так получают более тонкий и ровный по толщине пласт."
+      },
+      "en": {
+        "question": "What is cutting a piece almost through and opening it like a book called?",
+        "explanation": "This creates a thinner, more evenly thick piece."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Разделка «бабочкой»",
+        "en": "Butterflying"
+      },
+      {
+        "id": "o1",
+        "ru": "Шпигование",
+        "en": "Larding"
+      },
+      {
+        "id": "o2",
+        "ru": "Связывание",
+        "en": "Trussing"
+      },
+      {
+        "id": "o3",
+        "ru": "Панирование",
+        "en": "Breading"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_score",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нанесение неглубоких надрезов на поверхность продукта?",
+        "explanation": "Надрезы могут помогать раскрытию поверхности при нагреве."
+      },
+      "en": {
+        "question": "What is making shallow cuts on a food's surface called?",
+        "explanation": "Cuts can help the surface expand during cooking."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Надрезание",
+        "en": "Scoring"
+      },
+      {
+        "id": "o1",
+        "ru": "Шпигование",
+        "en": "Larding"
+      },
+      {
+        "id": "o2",
+        "ru": "Связывание",
+        "en": "Trussing"
+      },
+      {
+        "id": "o3",
+        "ru": "Филетирование",
+        "en": "Filleting"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_parboil",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется частичное отваривание перед следующим этапом приготовления?",
+        "explanation": "Продукт доводят до готовности уже другим способом."
+      },
+      "en": {
+        "question": "What is partly boiling food before another cooking stage called?",
+        "explanation": "Another method finishes cooking the food."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Предварительное отваривание",
+        "en": "Parboiling"
+      },
+      {
+        "id": "o1",
+        "ru": "Поширование",
+        "en": "Poaching"
+      },
+      {
+        "id": "o2",
+        "ru": "Деглазирование",
+        "en": "Deglazing"
+      },
+      {
+        "id": "o3",
+        "ru": "Варка на пару",
+        "en": "Steaming"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_confit",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется медленное приготовление продукта в жире при невысокой температуре?",
+        "explanation": "Классический пример — приготовленная таким способом утка."
+      },
+      "en": {
+        "question": "What is slow cooking food in fat at a relatively low temperature called?",
+        "explanation": "Duck cooked this way is a classic example."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Конфи",
+        "en": "Confit"
+      },
+      {
+        "id": "o1",
+        "ru": "Фритюр",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o2",
+        "ru": "Бланширование",
+        "en": "Blanching"
+      },
+      {
+        "id": "o3",
+        "ru": "Соте",
+        "en": "Sautéing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_bain_marie",
+    "categoryId": "food",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется нагрев посуды с продуктом через окружающую горячую воду?",
+        "explanation": "Вода делает нагрев более мягким и равномерным."
+      },
+      "en": {
+        "question": "What is heating a food container through surrounding hot water called?",
+        "explanation": "Water makes the heating gentler and more even."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Водяная баня",
+        "en": "Bain-marie"
+      },
+      {
+        "id": "o1",
+        "ru": "Прямое обжаривание",
+        "en": "Direct searing"
+      },
+      {
+        "id": "o2",
+        "ru": "Фритюр",
+        "en": "Deep-frying"
+      },
+      {
+        "id": "o3",
+        "ru": "Гриль",
+        "en": "Grilling"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_ganache",
+    "categoryId": "food",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется смесь шоколада и сливок, используемая для начинок и покрытий?",
+        "explanation": "Соотношение компонентов влияет на плотность после охлаждения."
+      },
+      "en": {
+        "question": "What is a chocolate-and-cream mixture used for fillings and coatings called?",
+        "explanation": "The ingredient ratio affects firmness after cooling."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ганаш",
+        "en": "Ganache"
+      },
+      {
+        "id": "o1",
+        "ru": "Бешамель",
+        "en": "Béchamel"
+      },
+      {
+        "id": "o2",
+        "ru": "Меренга",
+        "en": "Meringue"
+      },
+      {
+        "id": "o3",
+        "ru": "Крем патисьер",
+        "en": "Pastry cream"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.kingarthurbaking.com/recipes/chocolate-ganache-recipe"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_meringue",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется взбитая смесь яичных белков и сахара?",
+        "explanation": "Пузырьки воздуха удерживаются белковой структурой."
+      },
+      "en": {
+        "question": "What is a whipped mixture of egg whites and sugar called?",
+        "explanation": "Air bubbles are held in a protein structure."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Меренга",
+        "en": "Meringue"
+      },
+      {
+        "id": "o1",
+        "ru": "Ганаш",
+        "en": "Ganache"
+      },
+      {
+        "id": "o2",
+        "ru": "Пралине",
+        "en": "Praline"
+      },
+      {
+        "id": "o3",
+        "ru": "Крем патисьер",
+        "en": "Pastry cream"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_vinaigrette",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется соус-заправка на основе масла и уксуса?",
+        "explanation": "Это название заправки, а не обязательно овощного салата."
+      },
+      "en": {
+        "question": "What is a dressing based on oil and vinegar called?",
+        "explanation": "The name refers to a dressing, not necessarily a vegetable salad."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соус винегрет",
+        "en": "Vinaigrette"
+      },
+      {
+        "id": "o1",
+        "ru": "Бешамель",
+        "en": "Béchamel"
+      },
+      {
+        "id": "o2",
+        "ru": "Велуте",
+        "en": "Velouté"
+      },
+      {
+        "id": "o3",
+        "ru": "Голландский соус",
+        "en": "Hollandaise"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/"
+    ],
+    "image": null
+  },
+  {
+    "id": "food_m50_umami",
+    "categoryId": "food",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется вкус, связанный, в частности, с глутаматом?",
+        "explanation": "Его относят к основным вкусам наряду со сладким и солёным."
+      },
+      "en": {
+        "question": "What is the taste associated partly with glutamate called?",
+        "explanation": "It is classed as a basic taste alongside sweet and salty."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Умами",
+        "en": "Umami"
+      },
+      {
+        "id": "o1",
+        "ru": "Кислый",
+        "en": "Sour"
+      },
+      {
+        "id": "o2",
+        "ru": "Сладкий",
+        "en": "Sweet"
+      },
+      {
+        "id": "o3",
+        "ru": "Горький",
+        "en": "Bitter"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.nidcd.nih.gov/glossary/umami"
+    ],
+    "image": null
   }
 ]

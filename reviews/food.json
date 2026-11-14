@@ -178,5 +178,725 @@
         "claim": "Which two simple sugars make up a sucrose molecule? Answer: Glucose and fructose. A little acid can help split sucrose into these components."
       }
     ]
+  },
+  {
+    "id": "food_m50_blanch",
+    "status": "approved",
+    "sha256": "07cffb631ca82b0f8f5c0173d5c0fbfc4e30e5d19c008a5384ac20c037aa089f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Blanching",
+        "claim": "What is briefly placing food in boiling water followed by rapid cooling called? Answer: Blanching. It can help loosen the skins of some vegetables."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_braise",
+    "status": "approved",
+    "sha256": "ccee1ea4dd5c19d6ef419ac78fcef1a2650d472bc1f30e34b455e50a090d1638",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Braising",
+        "claim": "What is slow covered cooking with a little liquid, often after browning called? Answer: Braising. Dry heat is combined with subsequent moist-heat cooking."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_poach",
+    "status": "approved",
+    "sha256": "33d0fd400be6a06781b231665b3c77bfbc781ebf944cd4a1d66ca88294cfa9b0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Poaching",
+        "claim": "What is gentle cooking in liquid below a vigorous boil called? Answer: Poaching. Delicate foods such as eggs or fish are often cooked this way."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_steam",
+    "status": "approved",
+    "sha256": "3e38594bd61722002e5658e6f0f88f9c790a8e1e7d85983e45786b4d8e919c09",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Steaming",
+        "claim": "What is cooking food with hot water vapour called? Answer: Steaming. The food need not be submerged in boiling water."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_deep_fry",
+    "status": "approved",
+    "sha256": "5e6f809cc23d357e02dc48424048292c8a29250a8d43f730ba2598e7a5bfc715",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Deep-frying",
+        "claim": "What is frying food fully submerged in hot fat called? Answer: Deep-frying. Hot fat transfers heat to the entire submerged surface."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_saute",
+    "status": "approved",
+    "sha256": "0027ff6210c63e9f54e837da65a0a8b42ec8b30b418dec813d49df10d3344baa",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Sautéing",
+        "claim": "What is quickly frying small pieces in a small amount of fat called? Answer: Sautéing. High heat quickly browns the small pieces."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_simmer",
+    "status": "approved",
+    "sha256": "5abb611d0fdefb757c6914e88064a119084984c75b08e4ba4d666a3a464aa07c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Simmering",
+        "claim": "What is cooking in liquid with small bubbles rather than a rolling boil called? Answer: Simmering. Gentle heat suits many soups and sauces."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_reduce",
+    "status": "approved",
+    "sha256": "1ddc1b9d838a92ab38828284109ecfee242754b6e3f0e626225772b96b7f55c4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Reduction",
+        "claim": "What is evaporating some liquid to intensify flavour and thicken it called? Answer: Reduction. Dissolved substances become more concentrated as water leaves."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_emulsion",
+    "status": "approved",
+    "sha256": "04886802c345935200720bff4404ff83f6b439fde96a868a4de6f2d1b12bde63",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Emulsion",
+        "claim": "What is a mixture of two normally immiscible liquids, such as oil and water called? Answer: Emulsion. Mayonnaise is an example stabilised by an emulsifier."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_caramel",
+    "status": "approved",
+    "sha256": "30d98653c75c65ccba3958a114319d8de199707a02a46b995851715ff2069bb3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/",
+        "location": "Heat: caramelization and Maillard reaction",
+        "claim": "What is the browning of sugars when heated called? Answer: Caramelisation. This reaction does not require protein."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_maillard",
+    "status": "approved",
+    "sha256": "a0787999819a24be0027744bc26b06ead805887c9ac2747574c0abea516d0170",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/",
+        "location": "Heat: caramelization and Maillard reaction",
+        "claim": "What is a heat-driven reaction between sugars and amino acids producing browned flavours called? Answer: Maillard reaction. It differs from browning pure sugar."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_ferment",
+    "status": "approved",
+    "sha256": "30662b4da25ac3438093144d18a0f0977a75d51ebcfc7bad608b56ac2bd058bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://isappscience.org/resource/what-are-fermented-foods/",
+        "location": "Microbial growth and enzymatic conversions; yogurt and sauerkraut",
+        "claim": "What is the transformation of food substances by microorganisms called? Answer: Fermentation. Yogurt and sauerkraut are examples of foods made this way."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_knead",
+    "status": "approved",
+    "sha256": "f69118698f80fac7e59bcd630a18ff266d51f63f7dbd22af819f03960077171f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Kneading",
+        "claim": "What is working dough by stretching and folding it called? Answer: Kneading. In wheat dough this helps develop the gluten network."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_proof",
+    "status": "approved",
+    "sha256": "297d44422e97b7cfc22ece3bc3ccf731c4cbee9672ae9a50d591c907e40e7714",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Proofing",
+        "claim": "What is resting yeast dough to let it rise before baking called? Answer: Proofing. Gas produced by fermentation increases the dough's volume."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_roux",
+    "status": "approved",
+    "sha256": "427d4642be6b519a397e508c2fe5da18fd5692000f0945c2822408662038172c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Roux",
+        "claim": "What is a cooked flour-and-fat mixture used to thicken a sauce called? Answer: Roux. Cooking time affects the base's colour and flavour."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_bechamel",
+    "status": "approved",
+    "sha256": "30ee121ca95f7e40c180c9f9a61a71b34f6a5ceebe4fab4231ed6d90dc362def",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Béchamel",
+        "claim": "What is a white milk sauce thickened with a flour-and-fat mixture called? Answer: Béchamel. It is one of the classic French mother sauces."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_julienne",
+    "status": "approved",
+    "sha256": "142bc572132783524840caa3a89cbc9e938007eaaf2ffa6d20449ff8544703e3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Julienne",
+        "claim": "What is cutting food into thin matchstick-like strips called? Answer: Julienne. Here the term refers to a cut rather than a baked dish name."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_brunoise",
+    "status": "approved",
+    "sha256": "c0e0db5081396d55776995c10548bc0a2e3fc8a268662a6a83c6507dceb89a1c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Brunoise",
+        "claim": "What is cutting food into very small even cubes called? Answer: Brunoise. The small cubes are often cut from prepared fine strips."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_chiffonade",
+    "status": "approved",
+    "sha256": "efe42b7c889d00ea2269128b179fdc59eee7706c45318439053ed893de8bf8f0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Chiffonade",
+        "claim": "What is cutting leafy greens into thin ribbons called? Answer: Chiffonade. The leaves can first be stacked or rolled."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_puree",
+    "status": "approved",
+    "sha256": "0c3a8ebe94e3479376b18093544b855d19195a1a55567ad1d95f78663b8ff0a1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Purée",
+        "claim": "What is a smooth mass made by finely processing food called? Answer: Purée. The texture is obtained by blending or sieving."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_sieve",
+    "status": "approved",
+    "sha256": "598d488015003be5bcf2993d1d6b9f026bdae68bf5332fcfa373babdb755312b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Sifting",
+        "claim": "What is passing flour or a mixture through a sieve to remove coarse particles called? Answer: Sifting. With dry ingredients it also helps break up lumps."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_papillote",
+    "status": "approved",
+    "sha256": "81d323edf5714c45e8788b34af69b9ef4e4452856984325b6fc7c047bfac98b6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry En Papillote",
+        "claim": "What is cooking fish or other food in a sealed parchment parcel called? Answer: En papillote. This technique is often used for fish."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_al_dente",
+    "status": "approved",
+    "sha256": "0dec2877a9cfdeb13a5e7462da66bc9122455513f1c68299f90133da1a5e2c14",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Al dente",
+        "claim": "What is the state of pasta retaining a slight firmness when bitten called? Answer: Al dente. The Italian expression literally refers to the feel to the tooth."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_mise",
+    "status": "approved",
+    "sha256": "99e9c8d2a0575b4e0b53f98d4db342cd973a3b4ec0b6ae119959470d601c1b17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Mise en place",
+        "claim": "What is preparing and arranging ingredients before cooking called? Answer: Mise en place. It makes the cooking sequence easier to follow."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_marinade",
+    "status": "approved",
+    "sha256": "2c5bf9dc79d0cb0e13f8858e98d53279b8982415dd38db82358e4cd205d1fbaf",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Marinating",
+        "claim": "What is soaking food in a seasoned mixture before cooking called? Answer: Marinating. The mixture affects flavour and the food's surface."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_glaze",
+    "status": "approved",
+    "sha256": "3c0883f5a3ce4a2cd524f231f4da6a705d43949aadc52d1fac6b6e205a865ceb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Glazing",
+        "claim": "What is applying a thin shiny coating to food called? Answer: Glazing. The coating may be sweet or savoury."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_zest",
+    "status": "approved",
+    "sha256": "93c977d3eb54f8ef40f959c54451bace43295c3e4aa4d56450e40371d4158573",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Zest",
+        "claim": "What is the coloured outer part of a citrus peel called? Answer: Zest. The white layer beneath it is often bitter."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_deglaze",
+    "status": "approved",
+    "sha256": "e7d614a30c12c7521322e1c584a23f708a1992d05489f2d4d2fc2d61ac1a6c92",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Deglazing",
+        "claim": "What is loosening browned pan residues by adding liquid called? Answer: Deglazing. The resulting liquid can become a sauce base."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_fold",
+    "status": "approved",
+    "sha256": "d16e127ad06cc66500259832fffb6aa5064a7c3808fbf88ee01bbb0cd61adeb0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Folding",
+        "claim": "What is gently combining mixtures with bottom-to-top movements called? Answer: Folding. The technique helps preserve air in a whipped mixture."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_whisk",
+    "status": "approved",
+    "sha256": "2bef59597a12ad24df0822c6458367c89974428dd1abdb68b20d7e5f52e4ebb7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Whisking",
+        "claim": "What is mixing vigorously with a whisk, potentially incorporating air called? Answer: Whisking. It can produce foam from cream or egg whites."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_sear",
+    "status": "approved",
+    "sha256": "7bf91b4a1442a42944c4966eb300476c8dd0c2c183bdf8b12f63dbb44110ac12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/recipes/four-elements-of-flavor-salt-fat-acid-and-heat/",
+        "location": "Heat: caramelization and Maillard reaction",
+        "claim": "What is briefly browning a food's surface over intense heat called? Answer: Searing. Surface browning develops a strong aroma and flavour."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_butterfly",
+    "status": "approved",
+    "sha256": "8b5ec2c17de83bfb469cc15a54445730837e3242cfdaf1009a7d87bb6632c6b9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Butterflying",
+        "claim": "What is cutting a piece almost through and opening it like a book called? Answer: Butterflying. This creates a thinner, more evenly thick piece."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_score",
+    "status": "approved",
+    "sha256": "772bc6d388ee25bed6ad660e10fa5945646ab800e94b89d11f488c03de628469",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Scoring",
+        "claim": "What is making shallow cuts on a food's surface called? Answer: Scoring. Cuts can help the surface expand during cooking."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_parboil",
+    "status": "approved",
+    "sha256": "b50c84121d1b476dec68577c011711d68d7ff8ff80ece91bb592b8f4a1ab6aa2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Parboiling",
+        "claim": "What is partly boiling food before another cooking stage called? Answer: Parboiling. Another method finishes cooking the food."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_confit",
+    "status": "approved",
+    "sha256": "06e517b9ad606a02d65334cd56a0fc645d00c66d529a71beaab5fa87b0193d17",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Confit",
+        "claim": "What is slow cooking food in fat at a relatively low temperature called? Answer: Confit. Duck cooked this way is a classic example."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_bain_marie",
+    "status": "approved",
+    "sha256": "2a4cdfc1974fe153ce73ddba8b6fea7cfdad94d6739851e5a30027b8641cb7e1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Bain-marie",
+        "claim": "What is heating a food container through surrounding hot water called? Answer: Bain-marie. Water makes the heating gentler and more even."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_ganache",
+    "status": "approved",
+    "sha256": "70fb9782b75dd14b6cd313010485ab9654f7deeb3e52d1bc04d19039eedd9244",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.kingarthurbaking.com/recipes/chocolate-ganache-recipe",
+        "location": "Chocolate and cream; varying chocolate percentage for firmness",
+        "claim": "What is a chocolate-and-cream mixture used for fillings and coatings called? Answer: Ganache. The ingredient ratio affects firmness after cooling."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_meringue",
+    "status": "approved",
+    "sha256": "938efc8c2964b00024aa1225bef0b7cccf30b85ef7c8fb1c25b51e8d83862c95",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Meringue",
+        "claim": "What is a whipped mixture of egg whites and sugar called? Answer: Meringue. Air bubbles are held in a protein structure."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_vinaigrette",
+    "status": "approved",
+    "sha256": "09cf6273878895ef694ca91eb37f77e3ac046a17fdf96d562da410e0dae4259a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.escoffier.edu/blog/culinary-arts/the-essential-glossary-of-cooking-terms-for-the-culinary-arts/",
+        "location": "Culinary glossary entry Vinaigrette",
+        "claim": "What is a dressing based on oil and vinegar called? Answer: Vinaigrette. The name refers to a dressing, not necessarily a vegetable salad."
+      }
+    ]
+  },
+  {
+    "id": "food_m50_umami",
+    "status": "approved",
+    "sha256": "0dead2cc99a36844a278187e5c75f4abee05e5c4346ad595a39e2381c0481116",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Escoffier professional glossary and flavor science; ISAPP fermentation; King Arthur Baking ganache and NIH umami. Separate wording/distractor pass removed ambiguous mixtures and corrected a grammatical error.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nidcd.nih.gov/glossary/umami",
+        "location": "Umami definition: L-glutamate salts",
+        "claim": "What is the taste associated partly with glutamate called? Answer: Umami. It is classed as a basic taste alongside sweet and salty."
+      }
+    ]
   }
 ]

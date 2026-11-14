@@ -878,5 +878,1325 @@
       "https://www.oscars.org/oscars/ceremonies/2011"
     ],
     "image": null
+  },
+  {
+    "id": "cinema_m50_close_up",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает план, в котором лицо или предмет занимают большую часть кадра?",
+        "explanation": "Такой масштаб помогает выделить эмоцию или деталь."
+      },
+      "en": {
+        "question": "Which filmmaking term means a shot in which a face or object fills most of the frame?",
+        "explanation": "This scale helps emphasise an emotion or a detail."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Крупный план",
+        "en": "Close-up"
+      },
+      {
+        "id": "o1",
+        "ru": "Общий план",
+        "en": "Long shot"
+      },
+      {
+        "id": "o2",
+        "ru": "Средний план",
+        "en": "Medium shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Аэросъёмка",
+        "en": "Aerial shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_long_shot",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает план, показывающий человека целиком вместе со значительной частью окружения?",
+        "explanation": "Он помогает понять положение героя в пространстве."
+      },
+      "en": {
+        "question": "Which filmmaking term means a shot showing a whole person and a substantial part of the surroundings?",
+        "explanation": "It helps establish a character's position within a setting."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Общий план",
+        "en": "Long shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Крупный план",
+        "en": "Close-up"
+      },
+      {
+        "id": "o2",
+        "ru": "Средний план",
+        "en": "Medium shot"
+      },
+      {
+        "id": "o3",
+        "ru": "Деталь",
+        "en": "Extreme close-up"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_pan",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает поворот камеры в горизонтальной плоскости из неподвижной точки?",
+        "explanation": "Камера поворачивается, но её опора не перемещается по площадке."
+      },
+      "en": {
+        "question": "Which filmmaking term means horizontal camera rotation from a fixed position?",
+        "explanation": "The camera rotates without its support travelling across the set."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Панорамирование",
+        "en": "Pan"
+      },
+      {
+        "id": "o1",
+        "ru": "Вертикальное панорамирование",
+        "en": "Tilt"
+      },
+      {
+        "id": "o2",
+        "ru": "Зум",
+        "en": "Zoom"
+      },
+      {
+        "id": "o3",
+        "ru": "Движение на тележке",
+        "en": "Dolly shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_tilt",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает поворот камеры вверх или вниз из неподвижной точки?",
+        "explanation": "Так можно постепенно показать высокий объект."
+      },
+      "en": {
+        "question": "Which filmmaking term means vertical camera rotation up or down from a fixed position?",
+        "explanation": "It can gradually reveal a tall subject."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вертикальное панорамирование",
+        "en": "Tilt"
+      },
+      {
+        "id": "o1",
+        "ru": "Горизонтальное панорамирование",
+        "en": "Pan"
+      },
+      {
+        "id": "o2",
+        "ru": "Зум",
+        "en": "Zoom"
+      },
+      {
+        "id": "o3",
+        "ru": "Движение на тележке",
+        "en": "Dolly shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_dolly",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает физическое перемещение камеры на колёсной платформе?",
+        "explanation": "В отличие от зума при этом меняется положение камеры."
+      },
+      "en": {
+        "question": "Which filmmaking term means physically moving a camera on a wheeled platform?",
+        "explanation": "Unlike a zoom, this changes the camera's position."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Движение на тележке",
+        "en": "Dolly shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Зум",
+        "en": "Zoom"
+      },
+      {
+        "id": "o2",
+        "ru": "Горизонтальное панорамирование",
+        "en": "Pan"
+      },
+      {
+        "id": "o3",
+        "ru": "Вертикальное панорамирование",
+        "en": "Tilt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_zoom",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает изменение масштаба изображения путём изменения фокусного расстояния объектива?",
+        "explanation": "Камера при этом может оставаться на месте."
+      },
+      "en": {
+        "question": "Which filmmaking term means changing image size by changing the lens's focal length?",
+        "explanation": "The camera can remain stationary during this change."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Зум",
+        "en": "Zoom"
+      },
+      {
+        "id": "o1",
+        "ru": "Движение на тележке",
+        "en": "Dolly shot"
+      },
+      {
+        "id": "o2",
+        "ru": "Горизонтальное панорамирование",
+        "en": "Pan"
+      },
+      {
+        "id": "o3",
+        "ru": "Вертикальное панорамирование",
+        "en": "Tilt"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_storyboard",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает последовательность рисунков, заранее показывающих будущие кадры?",
+        "explanation": "Она помогает согласовать композицию и ход сцены до съёмки."
+      },
+      "en": {
+        "question": "Which filmmaking term means a sequence of drawings that plans future shots?",
+        "explanation": "It helps plan composition and scene progression before filming."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Раскадровка",
+        "en": "Storyboard"
+      },
+      {
+        "id": "o1",
+        "ru": "Сценарий",
+        "en": "Screenplay"
+      },
+      {
+        "id": "o2",
+        "ru": "Съёмочный график",
+        "en": "Shooting schedule"
+      },
+      {
+        "id": "o3",
+        "ru": "Монтажный лист",
+        "en": "Edit decision list"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_screenplay",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает письменную основу фильма с действием и диалогами?",
+        "explanation": "Он описывает происходящее, а не только произносимые реплики."
+      },
+      "en": {
+        "question": "Which filmmaking term means a film's written plan containing action and dialogue?",
+        "explanation": "It describes action as well as spoken lines."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сценарий",
+        "en": "Screenplay"
+      },
+      {
+        "id": "o1",
+        "ru": "Раскадровка",
+        "en": "Storyboard"
+      },
+      {
+        "id": "o2",
+        "ru": "Съёмочный график",
+        "en": "Shooting schedule"
+      },
+      {
+        "id": "o3",
+        "ru": "Логлайн",
+        "en": "Logline"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_voice_over",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает речь, звучащую поверх изображения и не произносимую видимым в этот момент персонажем?",
+        "explanation": "Такой приём часто используют для повествования или комментария."
+      },
+      "en": {
+        "question": "Which filmmaking term means speech heard over images without being spoken by an on-screen character at that moment?",
+        "explanation": "It is often used for narration or commentary."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Закадровый голос",
+        "en": "Voice-over"
+      },
+      {
+        "id": "o1",
+        "ru": "Синхронная реплика в кадре",
+        "en": "On-screen dialogue"
+      },
+      {
+        "id": "o2",
+        "ru": "Музыкальная тема",
+        "en": "Musical theme"
+      },
+      {
+        "id": "o3",
+        "ru": "Фоновый шум",
+        "en": "Ambient sound"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_foley",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает запись исполненных вручную бытовых шумов в соответствии с изображением?",
+        "explanation": "Шаги и шорох одежды могут записываться отдельно после съёмки."
+      },
+      "en": {
+        "question": "Which filmmaking term means recording performed everyday sounds to match the picture?",
+        "explanation": "Footsteps and clothing rustles may be recorded separately after filming."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Шумовое озвучивание",
+        "en": "Foley"
+      },
+      {
+        "id": "o1",
+        "ru": "Перезапись диалогов",
+        "en": "ADR"
+      },
+      {
+        "id": "o2",
+        "ru": "Сведение",
+        "en": "Sound mixing"
+      },
+      {
+        "id": "o3",
+        "ru": "Запись музыки",
+        "en": "Score recording"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_adr",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает перезапись реплик актёром после съёмки для замены исходного диалога?",
+        "explanation": "Новая запись должна совпадать с экранной речью по времени."
+      },
+      "en": {
+        "question": "Which filmmaking term means rerecording an actor's lines after filming to replace the original dialogue?",
+        "explanation": "The new recording must match the timing of the on-screen speech."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "ADR",
+        "en": "ADR"
+      },
+      {
+        "id": "o1",
+        "ru": "Шумовое озвучивание",
+        "en": "Foley"
+      },
+      {
+        "id": "o2",
+        "ru": "Запись музыки",
+        "en": "Score recording"
+      },
+      {
+        "id": "o3",
+        "ru": "Сведение",
+        "en": "Sound mixing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/what-is-adr-in-film/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_montage",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает сборку фильма из отдельных снятых фрагментов?",
+        "explanation": "Порядок и длительность кадров влияют на ритм и смысл."
+      },
+      "en": {
+        "question": "Which filmmaking term means assembling a film from separately recorded shots?",
+        "explanation": "Shot order and duration affect rhythm and meaning."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монтаж",
+        "en": "Editing"
+      },
+      {
+        "id": "o1",
+        "ru": "Раскадровка",
+        "en": "Storyboarding"
+      },
+      {
+        "id": "o2",
+        "ru": "Кастинг",
+        "en": "Casting"
+      },
+      {
+        "id": "o3",
+        "ru": "Колоризация",
+        "en": "Colorization"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/what-is-film-editing-definition/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_cross_cutting",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает чередование кадров двух линий действия, часто происходящих одновременно?",
+        "explanation": "Так можно связать удалённые друг от друга события."
+      },
+      "en": {
+        "question": "Which filmmaking term means alternating shots between two lines of action, often occurring simultaneously?",
+        "explanation": "It can connect events taking place far apart."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Параллельный монтаж",
+        "en": "Cross-cutting"
+      },
+      {
+        "id": "o1",
+        "ru": "Флешбэк",
+        "en": "Flashback"
+      },
+      {
+        "id": "o2",
+        "ru": "Стоп-кадр",
+        "en": "Freeze frame"
+      },
+      {
+        "id": "o3",
+        "ru": "Затемнение",
+        "en": "Fade-out"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_flashback",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает сцену, переносящую повествование к более ранним событиям?",
+        "explanation": "Хронологический порядок истории при этом намеренно нарушается."
+      },
+      "en": {
+        "question": "Which filmmaking term means a scene that takes the narrative back to earlier events?",
+        "explanation": "The story's chronological order is deliberately interrupted."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Флешбэк",
+        "en": "Flashback"
+      },
+      {
+        "id": "o1",
+        "ru": "Флешфорвард",
+        "en": "Flash-forward"
+      },
+      {
+        "id": "o2",
+        "ru": "Параллельный монтаж",
+        "en": "Cross-cutting"
+      },
+      {
+        "id": "o3",
+        "ru": "Таймлапс",
+        "en": "Time-lapse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_macguffin",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает объект или цель, запускающие действия героев, но не обязательно важные сами по себе?",
+        "explanation": "Термин часто связывают с фильмами Альфреда Хичкока."
+      },
+      "en": {
+        "question": "Which filmmaking term means an object or goal that motivates characters without necessarily mattering in itself?",
+        "explanation": "The term is often associated with Alfred Hitchcock's films."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Макгаффин",
+        "en": "MacGuffin"
+      },
+      {
+        "id": "o1",
+        "ru": "Камео",
+        "en": "Cameo"
+      },
+      {
+        "id": "o2",
+        "ru": "Логлайн",
+        "en": "Logline"
+      },
+      {
+        "id": "o3",
+        "ru": "Эпилог",
+        "en": "Epilogue"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_diegetic",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает звук, источник которого существует внутри мира фильма?",
+        "explanation": "Радиоприёмник, который слышат герои, — пример такого источника."
+      },
+      "en": {
+        "question": "Which filmmaking term means sound whose source exists within the film's story world?",
+        "explanation": "A radio that characters can hear is an example."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диегетический звук",
+        "en": "Diegetic sound"
+      },
+      {
+        "id": "o1",
+        "ru": "Недиегетический звук",
+        "en": "Non-diegetic sound"
+      },
+      {
+        "id": "o2",
+        "ru": "Музыка к титрам",
+        "en": "Credits music"
+      },
+      {
+        "id": "o3",
+        "ru": "Закадровый авторский комментарий",
+        "en": "External narration"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_nondiegetic",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает музыку сопровождения, которую герои внутри сцены не слышат?",
+        "explanation": "Она может передавать настроение зрителю, оставаясь за пределами мира героев."
+      },
+      "en": {
+        "question": "Which filmmaking term means background score that characters in the scene cannot hear?",
+        "explanation": "It can convey mood to the audience while remaining outside the characters' world."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Недиегетическая музыка",
+        "en": "Non-diegetic music"
+      },
+      {
+        "id": "o1",
+        "ru": "Музыка из радио в сцене",
+        "en": "Music from a radio in the scene"
+      },
+      {
+        "id": "o2",
+        "ru": "Песня героя в кадре",
+        "en": "A character singing on screen"
+      },
+      {
+        "id": "o3",
+        "ru": "Звук оркестра в сцене",
+        "en": "An orchestra playing in the scene"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_aspect_ratio",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает отношение ширины кадра к его высоте?",
+        "explanation": "Например, запись 16:9 описывает форму изображения."
+      },
+      "en": {
+        "question": "Which filmmaking term means the ratio of a frame's width to its height?",
+        "explanation": "For example, 16:9 describes the image's shape."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соотношение сторон",
+        "en": "Aspect ratio"
+      },
+      {
+        "id": "o1",
+        "ru": "Фокусное расстояние",
+        "en": "Focal length"
+      },
+      {
+        "id": "o2",
+        "ru": "Частота кадров",
+        "en": "Frame rate"
+      },
+      {
+        "id": "o3",
+        "ru": "Глубина резкости",
+        "en": "Depth of field"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_chroma",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает замену однотонного фона, например зелёного, другим изображением?",
+        "explanation": "Цвет фона помогает отделить объект при обработке."
+      },
+      "en": {
+        "question": "Which filmmaking term means replacing a solid-colour background, such as green, with another image?",
+        "explanation": "The background colour helps isolate the subject in post-production."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хромакей",
+        "en": "Chroma key"
+      },
+      {
+        "id": "o1",
+        "ru": "Ротоскопирование",
+        "en": "Rotoscoping"
+      },
+      {
+        "id": "o2",
+        "ru": "Колоризация",
+        "en": "Colorization"
+      },
+      {
+        "id": "o3",
+        "ru": "Стоп-моушен",
+        "en": "Stop motion"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_stop_motion",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает покадровую съёмку объектов с небольшим изменением их положения между кадрами?",
+        "explanation": "При воспроизведении неподвижные объекты кажутся движущимися."
+      },
+      "en": {
+        "question": "Which filmmaking term means photographing objects one frame at a time while slightly moving them between frames?",
+        "explanation": "On playback the stationary objects appear to move."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стоп-моушен",
+        "en": "Stop motion"
+      },
+      {
+        "id": "o1",
+        "ru": "Ротоскопирование",
+        "en": "Rotoscoping"
+      },
+      {
+        "id": "o2",
+        "ru": "Захват движения",
+        "en": "Motion capture"
+      },
+      {
+        "id": "o3",
+        "ru": "Таймлапс",
+        "en": "Time-lapse"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_spaghetti_western",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют вестерны, которые итальянские кинематографисты снимали преимущественно в Италии и Испании в 1960-х?",
+        "explanation": "Это название связывает американский жанр с итальянской кинотрадицией."
+      },
+      "en": {
+        "question": "What are the westerns made by Italian filmmakers mainly in Italy and Spain in the 1960s called?",
+        "explanation": "The name links an American genre with Italian filmmaking."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спагетти-вестерн",
+        "en": "Spaghetti western"
+      },
+      {
+        "id": "o1",
+        "ru": "Фильм нуар",
+        "en": "Film noir"
+      },
+      {
+        "id": "o2",
+        "ru": "Мюзикл",
+        "en": "Musical"
+      },
+      {
+        "id": "o3",
+        "ru": "Пеплум",
+        "en": "Peplum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_noir",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает мрачное криминальное кино с нравственной неоднозначностью и контрастным освещением?",
+        "explanation": "Само французское название означает «чёрный фильм»."
+      },
+      "en": {
+        "question": "Which filmmaking term means dark crime cinema associated with moral ambiguity and high-contrast lighting?",
+        "explanation": "The French name literally means black film."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фильм нуар",
+        "en": "Film noir"
+      },
+      {
+        "id": "o1",
+        "ru": "Мюзикл",
+        "en": "Musical"
+      },
+      {
+        "id": "o2",
+        "ru": "Пародия",
+        "en": "Parody"
+      },
+      {
+        "id": "o3",
+        "ru": "Спагетти-вестерн",
+        "en": "Spaghetti western"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_mockumentary",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют вымышленный комедийный фильм, стилизованный под документальное кино?",
+        "explanation": "Такой фильм использует узнаваемые документальные приёмы для пародии."
+      },
+      "en": {
+        "question": "What is a fictional comedy made in the style of a documentary called?",
+        "explanation": "It uses recognisable documentary techniques for parody."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мокьюментари",
+        "en": "Mockumentary"
+      },
+      {
+        "id": "o1",
+        "ru": "Байопик",
+        "en": "Biopic"
+      },
+      {
+        "id": "o2",
+        "ru": "Киноконцерт",
+        "en": "Concert film"
+      },
+      {
+        "id": "o3",
+        "ru": "Кинохроника",
+        "en": "Newsreel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_melodrama",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется жанр с подчёркнуто сильными чувствами героев, личными испытаниями и пафосом?",
+        "explanation": "Исторически этот термин связывал драматическое действие с музыкальным сопровождением."
+      },
+      "en": {
+        "question": "Which genre emphasises characters’ intense emotions, personal hardship and pathos?",
+        "explanation": "Historically the term linked dramatic action with musical accompaniment."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мелодрама",
+        "en": "Melodrama"
+      },
+      {
+        "id": "o1",
+        "ru": "Вестерн",
+        "en": "Western"
+      },
+      {
+        "id": "o2",
+        "ru": "Фарс",
+        "en": "Farce"
+      },
+      {
+        "id": "o3",
+        "ru": "Пародия",
+        "en": "Parody"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_biopic",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает художественный фильм о жизни реального человека?",
+        "explanation": "Название образовано от английского biographical picture."
+      },
+      "en": {
+        "question": "Which filmmaking term means a dramatised film about a real person's life?",
+        "explanation": "The name is shortened from biographical picture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Байопик",
+        "en": "Biopic"
+      },
+      {
+        "id": "o1",
+        "ru": "Мокьюментари",
+        "en": "Mockumentary"
+      },
+      {
+        "id": "o2",
+        "ru": "Кинохроника",
+        "en": "Newsreel"
+      },
+      {
+        "id": "o3",
+        "ru": "Киноконцерт",
+        "en": "Concert film"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_aerial_shot",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют кадр, снятый с большой высоты — например, с самолёта или дрона?",
+        "explanation": "Такой кадр может показать зрителю место действия целиком."
+      },
+      "en": {
+        "question": "What is a shot filmed from high above, for example from a plane or drone, called?",
+        "explanation": "Such a shot can show the audience the overall setting."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аэросъёмка",
+        "en": "Aerial shot"
+      },
+      {
+        "id": "o1",
+        "ru": "Нижний ракурс",
+        "en": "Low-angle shot"
+      },
+      {
+        "id": "o2",
+        "ru": "Крупный план",
+        "en": "Close-up"
+      },
+      {
+        "id": "o3",
+        "ru": "Съёмка через плечо",
+        "en": "Over-the-shoulder shot"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_slate",
+    "categoryId": "cinema",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает табличку с номером сцены и дубля, используемую перед съёмкой кадра?",
+        "explanation": "Хлопок помогает синхронизировать отдельно записанные звук и изображение."
+      },
+      "en": {
+        "question": "Which filmmaking term means a board showing scene and take numbers before a shot?",
+        "explanation": "The clap helps synchronise separately recorded sound and picture."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кинохлопушка",
+        "en": "Clapperboard"
+      },
+      {
+        "id": "o1",
+        "ru": "Телесуфлёр",
+        "en": "Teleprompter"
+      },
+      {
+        "id": "o2",
+        "ru": "Экспонометр",
+        "en": "Light meter"
+      },
+      {
+        "id": "o3",
+        "ru": "Видоискатель",
+        "en": "Viewfinder"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/how-to-use-a-film-slate/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_blocking",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает планирование перемещений и позиций актёров в сцене?",
+        "explanation": "Расположение исполнителей согласуют с камерой и светом."
+      },
+      "en": {
+        "question": "Which filmmaking term means planning actors' movements and positions within a scene?",
+        "explanation": "Performers' positions are coordinated with camera and lighting."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мизансценирование",
+        "en": "Blocking"
+      },
+      {
+        "id": "o1",
+        "ru": "Кастинг",
+        "en": "Casting"
+      },
+      {
+        "id": "o2",
+        "ru": "Монтаж",
+        "en": "Editing"
+      },
+      {
+        "id": "o3",
+        "ru": "Сведение",
+        "en": "Sound mixing"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_continuity",
+    "categoryId": "cinema",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой кинематографический термин обозначает согласованность деталей и действия между соседними кадрами?",
+        "explanation": "Реквизит и положение актёра не должны случайно меняться при склейке."
+      },
+      "en": {
+        "question": "Which filmmaking term means consistency of details and action between adjacent shots?",
+        "explanation": "Props and an actor's position should not change accidentally across a cut."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Монтажная непрерывность",
+        "en": "Continuity"
+      },
+      {
+        "id": "o1",
+        "ru": "Параллельный монтаж",
+        "en": "Cross-cutting"
+      },
+      {
+        "id": "o2",
+        "ru": "Раскадровка",
+        "en": "Storyboarding"
+      },
+      {
+        "id": "o3",
+        "ru": "Колоризация",
+        "en": "Colorization"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
+  },
+  {
+    "id": "cinema_m50_location",
+    "categoryId": "cinema",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называют место, выбранное для съёмки сцены: например, улицу, дом или природный ландшафт?",
+        "explanation": "Съёмочная локация может находиться как на улице, так и внутри здания."
+      },
+      "en": {
+        "question": "What is a place chosen to film a scene, such as a street, house or landscape, called?",
+        "explanation": "A filming location can be either outdoors or indoors."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Съёмочная локация",
+        "en": "Location"
+      },
+      {
+        "id": "o1",
+        "ru": "Раскадровка",
+        "en": "Storyboard"
+      },
+      {
+        "id": "o2",
+        "ru": "Съёмочный план",
+        "en": "Shooting schedule"
+      },
+      {
+        "id": "o3",
+        "ru": "Монтажная склейка",
+        "en": "Edit point"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.studiobinder.com/blog/movie-film-terms/"
+    ],
+    "image": null
   }
 ]

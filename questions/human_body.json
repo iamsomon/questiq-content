@@ -446,5 +446,1765 @@
       "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work"
     ],
     "image": null
+  },
+  {
+    "id": "human_body_m50_aorta",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сосуд несёт кровь непосредственно из левого желудочка в большой круг кровообращения?",
+        "explanation": "Это самая крупная артерия организма."
+      },
+      "en": {
+        "question": "Which vessel carries blood directly from the left ventricle into systemic circulation?",
+        "explanation": "It is the body's largest artery."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аорта",
+        "en": "Aorta"
+      },
+      {
+        "id": "o1",
+        "ru": "Лёгочный ствол",
+        "en": "Pulmonary trunk"
+      },
+      {
+        "id": "o2",
+        "ru": "Лёгочная вена",
+        "en": "Pulmonary vein"
+      },
+      {
+        "id": "o3",
+        "ru": "Верхняя полая вена",
+        "en": "Superior vena cava"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_vena_cava",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сосуд возвращает кровь от нижней части тела в правое предсердие?",
+        "explanation": "Она относится к венам большого круга кровообращения."
+      },
+      "en": {
+        "question": "Which vessel returns blood from the lower body to the right atrium?",
+        "explanation": "It is a vein of the systemic circulation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Нижняя полая вена",
+        "en": "Inferior vena cava"
+      },
+      {
+        "id": "o1",
+        "ru": "Верхняя полая вена",
+        "en": "Superior vena cava"
+      },
+      {
+        "id": "o2",
+        "ru": "Воротная вена",
+        "en": "Hepatic portal vein"
+      },
+      {
+        "id": "o3",
+        "ru": "Лёгочная вена",
+        "en": "Pulmonary vein"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_pulmonary_trunk",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой сосуд выходит непосредственно из правого желудочка сердца?",
+        "explanation": "Далее он делится на правую и левую лёгочные артерии."
+      },
+      "en": {
+        "question": "Which vessel exits directly from the heart’s right ventricle?",
+        "explanation": "It then divides into the right and left pulmonary arteries."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лёгочный ствол",
+        "en": "Pulmonary trunk"
+      },
+      {
+        "id": "o1",
+        "ru": "Аорта",
+        "en": "Aorta"
+      },
+      {
+        "id": "o2",
+        "ru": "Верхняя полая вена",
+        "en": "Superior vena cava"
+      },
+      {
+        "id": "o3",
+        "ru": "Лёгочная вена",
+        "en": "Pulmonary vein"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_diaphragm",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая мышца, сокращаясь, увеличивает объём грудной полости при вдохе?",
+        "explanation": "Она отделяет грудную полость от брюшной."
+      },
+      "en": {
+        "question": "Which muscle contracts to increase chest-cavity volume during inhalation?",
+        "explanation": "It separates the thoracic and abdominal cavities."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Диафрагма",
+        "en": "Diaphragm"
+      },
+      {
+        "id": "o1",
+        "ru": "Прямая мышца живота",
+        "en": "Rectus abdominis"
+      },
+      {
+        "id": "o2",
+        "ru": "Внутренняя межрёберная мышца",
+        "en": "Internal intercostal muscle"
+      },
+      {
+        "id": "o3",
+        "ru": "Поперечная мышца живота",
+        "en": "Transversus abdominis"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_epiglottis",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой хрящ помогает закрывать вход в гортань при глотании?",
+        "explanation": "Этот хрящ помогает направить пищу в пищевод."
+      },
+      "en": {
+        "question": "Which cartilage helps cover the laryngeal opening during swallowing?",
+        "explanation": "This cartilage helps direct food towards the oesophagus."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Надгортанник",
+        "en": "Epiglottis"
+      },
+      {
+        "id": "o1",
+        "ru": "Мягкое нёбо",
+        "en": "Soft palate"
+      },
+      {
+        "id": "o2",
+        "ru": "Щитовидный хрящ",
+        "en": "Thyroid cartilage"
+      },
+      {
+        "id": "o3",
+        "ru": "Нёбный язычок",
+        "en": "Uvula"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_trachea",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган проводит воздух от гортани к главным бронхам?",
+        "explanation": "Хрящевые полукольца помогают сохранять её просвет открытым."
+      },
+      "en": {
+        "question": "Which organ carries air from the larynx to the main bronchi?",
+        "explanation": "C-shaped cartilage rings help keep its lumen open."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Трахея",
+        "en": "Trachea"
+      },
+      {
+        "id": "o1",
+        "ru": "Пищевод",
+        "en": "Oesophagus"
+      },
+      {
+        "id": "o2",
+        "ru": "Глотка",
+        "en": "Pharynx"
+      },
+      {
+        "id": "o3",
+        "ru": "Альвеолярный проток",
+        "en": "Alveolar duct"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_esophagus",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган перемещает пищу из глотки в желудок?",
+        "explanation": "Продвижение обеспечивают волны сокращений — перистальтика."
+      },
+      "en": {
+        "question": "Which organ moves food from the pharynx to the stomach?",
+        "explanation": "Waves of contraction called peristalsis move food along it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пищевод",
+        "en": "Oesophagus"
+      },
+      {
+        "id": "o1",
+        "ru": "Трахея",
+        "en": "Trachea"
+      },
+      {
+        "id": "o2",
+        "ru": "Двенадцатиперстная кишка",
+        "en": "Duodenum"
+      },
+      {
+        "id": "o3",
+        "ru": "Гортань",
+        "en": "Larynx"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-3-the-mouth-pharynx-and-esophagus"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_stomach",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган выделяет соляную кислоту в процессе пищеварения?",
+        "explanation": "Кислая среда помогает работе фермента пепсина."
+      },
+      "en": {
+        "question": "Which organ secretes hydrochloric acid during digestion?",
+        "explanation": "The acidic environment helps the enzyme pepsin work."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Желудок",
+        "en": "Stomach"
+      },
+      {
+        "id": "o1",
+        "ru": "Печень",
+        "en": "Liver"
+      },
+      {
+        "id": "o2",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      },
+      {
+        "id": "o3",
+        "ru": "Жёлчный пузырь",
+        "en": "Gallbladder"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_pancreas",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая железа вырабатывает инсулин и пищеварительные ферменты?",
+        "explanation": "У этого органа есть и эндокринная, и внешнесекреторная функции."
+      },
+      "en": {
+        "question": "Which gland produces insulin and digestive enzymes?",
+        "explanation": "This organ has both endocrine and exocrine functions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      },
+      {
+        "id": "o1",
+        "ru": "Печень",
+        "en": "Liver"
+      },
+      {
+        "id": "o2",
+        "ru": "Щитовидная железа",
+        "en": "Thyroid gland"
+      },
+      {
+        "id": "o3",
+        "ru": "Гипофиз",
+        "en": "Pituitary gland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_gallbladder",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган накапливает и концентрирует желчь перед её поступлением в кишечник?",
+        "explanation": "Желчь при этом образуется в печени."
+      },
+      "en": {
+        "question": "Which organ stores and concentrates bile before its release into the intestine?",
+        "explanation": "Bile itself is produced in the liver."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Жёлчный пузырь",
+        "en": "Gallbladder"
+      },
+      {
+        "id": "o1",
+        "ru": "Печень",
+        "en": "Liver"
+      },
+      {
+        "id": "o2",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      },
+      {
+        "id": "o3",
+        "ru": "Желудок",
+        "en": "Stomach"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_colon",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой отдел кишечника всасывает оставшуюся воду и участвует в формировании кала?",
+        "explanation": "Она следует за тонкой кишкой в пищеварительном тракте."
+      },
+      "en": {
+        "question": "Which part of the intestine absorbs remaining water and helps form faeces?",
+        "explanation": "It follows the small intestine in the digestive tract."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Толстая кишка",
+        "en": "Large intestine"
+      },
+      {
+        "id": "o1",
+        "ru": "Желудок",
+        "en": "Stomach"
+      },
+      {
+        "id": "o2",
+        "ru": "Пищевод",
+        "en": "Oesophagus"
+      },
+      {
+        "id": "o3",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_villi",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вырост слизистой увеличивает поверхность всасывания в тонкой кишке?",
+        "explanation": "Внутри ворсинок проходят кровеносные и лимфатические сосуды."
+      },
+      "en": {
+        "question": "Which mucosal projection increases the absorptive surface of the small intestine?",
+        "explanation": "Villi contain blood and lymphatic vessels."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кишечная ворсинка",
+        "en": "Intestinal villus"
+      },
+      {
+        "id": "o1",
+        "ru": "Пилорический сфинктер",
+        "en": "Pyloric sphincter"
+      },
+      {
+        "id": "o2",
+        "ru": "Бокаловидная клетка",
+        "en": "Goblet cell"
+      },
+      {
+        "id": "o3",
+        "ru": "Гастральная железа",
+        "en": "Gastric gland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_ureter",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой канал проводит мочу от почки к мочевому пузырю?",
+        "explanation": "От каждой почки обычно отходит свой мочеточник."
+      },
+      "en": {
+        "question": "Which tube carries urine from a kidney to the bladder?",
+        "explanation": "Each kidney normally has its own ureter."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мочеточник",
+        "en": "Ureter"
+      },
+      {
+        "id": "o1",
+        "ru": "Мочеиспускательный канал",
+        "en": "Urethra"
+      },
+      {
+        "id": "o2",
+        "ru": "Почечная артерия",
+        "en": "Renal artery"
+      },
+      {
+        "id": "o3",
+        "ru": "Почечная вена",
+        "en": "Renal vein"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_urethra",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой канал выводит мочу из мочевого пузыря наружу?",
+        "explanation": "Его не следует путать с мочеточником, соединяющим почку и пузырь."
+      },
+      "en": {
+        "question": "Which tube carries urine from the bladder to outside the body?",
+        "explanation": "It differs from the ureter, which connects a kidney to the bladder."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мочеиспускательный канал",
+        "en": "Urethra"
+      },
+      {
+        "id": "o1",
+        "ru": "Мочеточник",
+        "en": "Ureter"
+      },
+      {
+        "id": "o2",
+        "ru": "Почечная лоханка",
+        "en": "Renal pelvis"
+      },
+      {
+        "id": "o3",
+        "ru": "Собирательная трубочка",
+        "en": "Collecting duct"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_cerebellum",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой отдел мозга участвует в координации движений и поддержании равновесия?",
+        "explanation": "Он расположен позади ствола мозга."
+      },
+      "en": {
+        "question": "Which brain region helps coordinate movements and maintain balance?",
+        "explanation": "It lies behind the brainstem."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Мозжечок",
+        "en": "Cerebellum"
+      },
+      {
+        "id": "o1",
+        "ru": "Гипоталамус",
+        "en": "Hypothalamus"
+      },
+      {
+        "id": "o2",
+        "ru": "Эпифиз",
+        "en": "Pineal gland"
+      },
+      {
+        "id": "o3",
+        "ru": "Таламус",
+        "en": "Thalamus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_medulla",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой нижний отдел ствола головного мозга содержит важные центры дыхания и сердечной деятельности?",
+        "explanation": "Он соединяет вышележащие отделы мозга со спинным мозгом."
+      },
+      "en": {
+        "question": "Which lowest part of the brainstem contains important centres for breathing and heart activity?",
+        "explanation": "It connects higher brain regions with the spinal cord."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Продолговатый мозг",
+        "en": "Medulla oblongata"
+      },
+      {
+        "id": "o1",
+        "ru": "Средний мозг",
+        "en": "Midbrain"
+      },
+      {
+        "id": "o2",
+        "ru": "Таламус",
+        "en": "Thalamus"
+      },
+      {
+        "id": "o3",
+        "ru": "Мозжечок",
+        "en": "Cerebellum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_spinal_cord",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая часть центральной нервной системы проводит сигналы между головным мозгом и телом и участвует в рефлексах?",
+        "explanation": "Его защищают позвонки позвоночного столба."
+      },
+      "en": {
+        "question": "Which part of the central nervous system carries signals between the brain and body and participates in reflexes?",
+        "explanation": "It is protected by the vertebrae."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Спинной мозг",
+        "en": "Spinal cord"
+      },
+      {
+        "id": "o1",
+        "ru": "Мозжечок",
+        "en": "Cerebellum"
+      },
+      {
+        "id": "o2",
+        "ru": "Мозолистое тело",
+        "en": "Corpus callosum"
+      },
+      {
+        "id": "o3",
+        "ru": "Гипоталамус",
+        "en": "Hypothalamus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_axon",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой отросток нейрона проводит нервный импульс от тела нейрона к другим клеткам?",
+        "explanation": "На его окончаниях сигнал может передаваться через синапсы."
+      },
+      "en": {
+        "question": "Which neuronal process conducts a nerve impulse away from a neuron's cell body towards other cells?",
+        "explanation": "Its terminals can transmit signals through synapses."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аксон",
+        "en": "Axon"
+      },
+      {
+        "id": "o1",
+        "ru": "Дендрит",
+        "en": "Dendrite"
+      },
+      {
+        "id": "o2",
+        "ru": "Ядро",
+        "en": "Nucleus"
+      },
+      {
+        "id": "o3",
+        "ru": "Тело нейрона",
+        "en": "Cell body"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_dendrite",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой отросток нейрона обычно принимает сигналы и направляет их к телу нейрона?",
+        "explanation": "Разветвления увеличивают число возможных контактов."
+      },
+      "en": {
+        "question": "Which neuronal process usually receives signals and carries them towards a neuron's cell body?",
+        "explanation": "Branching increases the number of possible contacts."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дендрит",
+        "en": "Dendrite"
+      },
+      {
+        "id": "o1",
+        "ru": "Аксон",
+        "en": "Axon"
+      },
+      {
+        "id": "o2",
+        "ru": "Миелин",
+        "en": "Myelin"
+      },
+      {
+        "id": "o3",
+        "ru": "Перехват Ранвье",
+        "en": "Node of Ranvier"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_myelin",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какое вещество образует изолирующую оболочку вокруг многих аксонов?",
+        "explanation": "Такая оболочка помогает ускорять проведение нервного импульса."
+      },
+      "en": {
+        "question": "Which substance forms an insulating sheath around many axons?",
+        "explanation": "This sheath helps speed nerve-impulse conduction."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Миелин",
+        "en": "Myelin"
+      },
+      {
+        "id": "o1",
+        "ru": "Синовиальная жидкость",
+        "en": "Synovial fluid"
+      },
+      {
+        "id": "o2",
+        "ru": "Кератин",
+        "en": "Keratin"
+      },
+      {
+        "id": "o3",
+        "ru": "Гемоглобин",
+        "en": "Haemoglobin"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-2-nervous-tissue"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_retina",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая оболочка глаза содержит фоторецепторы, преобразующие свет в нервные сигналы?",
+        "explanation": "Палочки и колбочки выполняют разные задачи при восприятии света."
+      },
+      "en": {
+        "question": "Which layer of the eye contains photoreceptors that convert light into neural signals?",
+        "explanation": "Rods and cones have different roles in detecting light."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сетчатка",
+        "en": "Retina"
+      },
+      {
+        "id": "o1",
+        "ru": "Роговица",
+        "en": "Cornea"
+      },
+      {
+        "id": "o2",
+        "ru": "Склера",
+        "en": "Sclera"
+      },
+      {
+        "id": "o3",
+        "ru": "Хрусталик",
+        "en": "Lens"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_lens",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая часть глаза меняет форму для фокусировки изображения на сетчатке?",
+        "explanation": "Этот процесс настройки фокуса называют аккомодацией."
+      },
+      "en": {
+        "question": "Which part of the eye changes shape to focus an image on the retina?",
+        "explanation": "This focusing process is called accommodation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хрусталик",
+        "en": "Lens"
+      },
+      {
+        "id": "o1",
+        "ru": "Роговица",
+        "en": "Cornea"
+      },
+      {
+        "id": "o2",
+        "ru": "Сетчатка",
+        "en": "Retina"
+      },
+      {
+        "id": "o3",
+        "ru": "Склера",
+        "en": "Sclera"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_cornea",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая часть глаза образует прозрачную переднюю часть наружной оболочки глаза?",
+        "explanation": "Она сильно преломляет поступающий в глаз свет."
+      },
+      "en": {
+        "question": "Which part of the eye forms the transparent front part of the eye's outer coat?",
+        "explanation": "It strongly refracts light entering the eye."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Роговица",
+        "en": "Cornea"
+      },
+      {
+        "id": "o1",
+        "ru": "Склера",
+        "en": "Sclera"
+      },
+      {
+        "id": "o2",
+        "ru": "Радужка",
+        "en": "Iris"
+      },
+      {
+        "id": "o3",
+        "ru": "Сетчатка",
+        "en": "Retina"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_eardrum",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая перепонка вибрирует под действием звука и передаёт колебания слуховым косточкам?",
+        "explanation": "Она отделяет наружное ухо от среднего."
+      },
+      "en": {
+        "question": "Which membrane vibrates in response to sound and passes vibrations to the auditory ossicles?",
+        "explanation": "It separates the external ear from the middle ear."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Барабанная перепонка",
+        "en": "Tympanic membrane"
+      },
+      {
+        "id": "o1",
+        "ru": "Евстахиева труба",
+        "en": "Eustachian tube"
+      },
+      {
+        "id": "o2",
+        "ru": "Улитка",
+        "en": "Cochlea"
+      },
+      {
+        "id": "o3",
+        "ru": "Ушная раковина",
+        "en": "Auricle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_stapes",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая слуховая косточка соединяет наковальню с внутренним ухом?",
+        "explanation": "Её название связано с формой, напоминающей стремя."
+      },
+      "en": {
+        "question": "Which auditory ossicle links the incus to the inner ear?",
+        "explanation": "Its name refers to its stirrup-like shape."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Стремечко",
+        "en": "Stapes"
+      },
+      {
+        "id": "o1",
+        "ru": "Молоточек",
+        "en": "Malleus"
+      },
+      {
+        "id": "o2",
+        "ru": "Носовая кость",
+        "en": "Nasal bone"
+      },
+      {
+        "id": "o3",
+        "ru": "Скуловая кость",
+        "en": "Zygomatic bone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_femur",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая кость человеческого тела самая длинная?",
+        "explanation": "Она соединяет тазобедренный и коленный суставы."
+      },
+      "en": {
+        "question": "Which bone in the human body is the longest?",
+        "explanation": "It extends between the hip and knee joints."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бедренная кость",
+        "en": "Femur"
+      },
+      {
+        "id": "o1",
+        "ru": "Плечевая кость",
+        "en": "Humerus"
+      },
+      {
+        "id": "o2",
+        "ru": "Большеберцовая кость",
+        "en": "Tibia"
+      },
+      {
+        "id": "o3",
+        "ru": "Малоберцовая кость",
+        "en": "Fibula"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_patella",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая кость располагается спереди коленного сустава?",
+        "explanation": "Эта сесамовидная кость находится в сухожилии четырёхглавой мышцы."
+      },
+      "en": {
+        "question": "Which bone lies at the front of the knee joint?",
+        "explanation": "This sesamoid bone lies in the quadriceps tendon."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Надколенник",
+        "en": "Patella"
+      },
+      {
+        "id": "o1",
+        "ru": "Лопатка",
+        "en": "Scapula"
+      },
+      {
+        "id": "o2",
+        "ru": "Таранная кость",
+        "en": "Talus"
+      },
+      {
+        "id": "o3",
+        "ru": "Пяточная кость",
+        "en": "Calcaneus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_sternum",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая кость служит передним местом прикрепления большинства рёбер через хрящи?",
+        "explanation": "Вместе с рёбрами и грудными позвонками она образует грудную клетку."
+      },
+      "en": {
+        "question": "Which bone provides the anterior attachment for most ribs through cartilage?",
+        "explanation": "Together with ribs and thoracic vertebrae it forms the thoracic cage."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Грудина",
+        "en": "Sternum"
+      },
+      {
+        "id": "o1",
+        "ru": "Ключица",
+        "en": "Clavicle"
+      },
+      {
+        "id": "o2",
+        "ru": "Лопатка",
+        "en": "Scapula"
+      },
+      {
+        "id": "o3",
+        "ru": "Подъязычная кость",
+        "en": "Hyoid bone"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-4-the-thoracic-cage"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_scapula",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая кость образует заднюю часть плечевого пояса?",
+        "explanation": "Это плоская кость треугольной формы."
+      },
+      "en": {
+        "question": "Which bone forms the posterior part of the shoulder girdle?",
+        "explanation": "It is a flat triangular bone."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лопатка",
+        "en": "Scapula"
+      },
+      {
+        "id": "o1",
+        "ru": "Ключица",
+        "en": "Clavicle"
+      },
+      {
+        "id": "o2",
+        "ru": "Грудина",
+        "en": "Sternum"
+      },
+      {
+        "id": "o3",
+        "ru": "Плечевая кость",
+        "en": "Humerus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_humerus",
+    "categoryId": "human_body",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая кость находится между плечевым и локтевым суставами?",
+        "explanation": "В предплечье находятся уже две другие кости — лучевая и локтевая."
+      },
+      "en": {
+        "question": "Which bone lies between the shoulder and elbow joints?",
+        "explanation": "The forearm instead contains two bones, the radius and ulna."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Плечевая кость",
+        "en": "Humerus"
+      },
+      {
+        "id": "o1",
+        "ru": "Лучевая кость",
+        "en": "Radius"
+      },
+      {
+        "id": "o2",
+        "ru": "Локтевая кость",
+        "en": "Ulna"
+      },
+      {
+        "id": "o3",
+        "ru": "Ключица",
+        "en": "Clavicle"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_tendon",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вид соединительной ткани обычно соединяет мышцу с костью?",
+        "explanation": "Оно передаёт силу сокращающейся мышцы."
+      },
+      "en": {
+        "question": "Which type of connective tissue usually connects muscle to bone?",
+        "explanation": "It transmits the force of a contracting muscle."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Сухожилие",
+        "en": "Tendon"
+      },
+      {
+        "id": "o1",
+        "ru": "Связка",
+        "en": "Ligament"
+      },
+      {
+        "id": "o2",
+        "ru": "Суставной хрящ",
+        "en": "Articular cartilage"
+      },
+      {
+        "id": "o3",
+        "ru": "Надкостница",
+        "en": "Periosteum"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_ligament",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вид соединительной ткани обычно соединяет кости друг с другом в суставе?",
+        "explanation": "Связки помогают стабилизировать сустав."
+      },
+      "en": {
+        "question": "Which type of connective tissue usually connects bones to one another at a joint?",
+        "explanation": "Ligaments help stabilise a joint."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Связка",
+        "en": "Ligament"
+      },
+      {
+        "id": "o1",
+        "ru": "Сухожилие",
+        "en": "Tendon"
+      },
+      {
+        "id": "o2",
+        "ru": "Надкостница",
+        "en": "Periosteum"
+      },
+      {
+        "id": "o3",
+        "ru": "Суставной хрящ",
+        "en": "Articular cartilage"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_cartilage",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой вид ткани покрывает суставные поверхности костей и снижает трение?",
+        "explanation": "Его гладкая поверхность облегчает движение в суставе."
+      },
+      "en": {
+        "question": "Which tissue covers articulating bone surfaces and reduces friction?",
+        "explanation": "Its smooth surface makes joint movement easier."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Суставной хрящ",
+        "en": "Articular cartilage"
+      },
+      {
+        "id": "o1",
+        "ru": "Надкостница",
+        "en": "Periosteum"
+      },
+      {
+        "id": "o2",
+        "ru": "Суставная капсула",
+        "en": "Articular capsule"
+      },
+      {
+        "id": "o3",
+        "ru": "Костный мозг",
+        "en": "Bone marrow"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_epidermis",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется наружный слой кожи?",
+        "explanation": "Его клетки постоянно обновляются по мере продвижения к поверхности."
+      },
+      "en": {
+        "question": "What is the outer layer of skin called?",
+        "explanation": "Its cells are continually renewed as they move towards the surface."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эпидермис",
+        "en": "Epidermis"
+      },
+      {
+        "id": "o1",
+        "ru": "Дерма",
+        "en": "Dermis"
+      },
+      {
+        "id": "o2",
+        "ru": "Гиподерма",
+        "en": "Hypodermis"
+      },
+      {
+        "id": "o3",
+        "ru": "Фасция",
+        "en": "Fascia"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_dermis",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется слой кожи под эпидермисом, содержащий сосуды, нервы и железы?",
+        "explanation": "Этот слой состоит преимущественно из соединительной ткани."
+      },
+      "en": {
+        "question": "What is the skin layer beneath the epidermis containing vessels, nerves and glands called?",
+        "explanation": "This layer consists mainly of connective tissue."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Дерма",
+        "en": "Dermis"
+      },
+      {
+        "id": "o1",
+        "ru": "Эпидермис",
+        "en": "Epidermis"
+      },
+      {
+        "id": "o2",
+        "ru": "Роговой слой",
+        "en": "Stratum corneum"
+      },
+      {
+        "id": "o3",
+        "ru": "Базальный слой",
+        "en": "Stratum basale"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_thyroid",
+    "categoryId": "human_body",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая железа расположена на шее и вырабатывает тиреоидные гормоны?",
+        "explanation": "Эти гормоны участвуют в регуляции обмена веществ."
+      },
+      "en": {
+        "question": "Which gland lies in the neck and produces thyroid hormones?",
+        "explanation": "These hormones help regulate metabolism."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Щитовидная железа",
+        "en": "Thyroid gland"
+      },
+      {
+        "id": "o1",
+        "ru": "Гипофиз",
+        "en": "Pituitary gland"
+      },
+      {
+        "id": "o2",
+        "ru": "Надпочечник",
+        "en": "Adrenal gland"
+      },
+      {
+        "id": "o3",
+        "ru": "Эпифиз",
+        "en": "Pineal gland"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_adrenal",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая железа расположена над почкой и включает кору и мозговое вещество?",
+        "explanation": "Его мозговое вещество выделяет, в частности, адреналин."
+      },
+      "en": {
+        "question": "Which gland lies above a kidney and includes a cortex and medulla?",
+        "explanation": "Its medulla secretes epinephrine, among other substances."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Надпочечник",
+        "en": "Adrenal gland"
+      },
+      {
+        "id": "o1",
+        "ru": "Гипофиз",
+        "en": "Pituitary gland"
+      },
+      {
+        "id": "o2",
+        "ru": "Щитовидная железа",
+        "en": "Thyroid gland"
+      },
+      {
+        "id": "o3",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_pituitary",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая железа соединена с гипоталамусом и регулирует работу ряда эндокринных желёз?",
+        "explanation": "Передняя и задняя доли различаются по строению и функциям."
+      },
+      "en": {
+        "question": "Which gland is connected to the hypothalamus and regulates several endocrine glands?",
+        "explanation": "Its anterior and posterior lobes differ in structure and function."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Гипофиз",
+        "en": "Pituitary gland"
+      },
+      {
+        "id": "o1",
+        "ru": "Щитовидная железа",
+        "en": "Thyroid gland"
+      },
+      {
+        "id": "o2",
+        "ru": "Надпочечник",
+        "en": "Adrenal gland"
+      },
+      {
+        "id": "o3",
+        "ru": "Поджелудочная железа",
+        "en": "Pancreas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_spleen",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган фильтрует кровь и удаляет стареющие эритроциты?",
+        "explanation": "Она также участвует в иммунной защите."
+      },
+      "en": {
+        "question": "Which organ filters blood and removes ageing red blood cells?",
+        "explanation": "It also contributes to immune defence."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Селезёнка",
+        "en": "Spleen"
+      },
+      {
+        "id": "o1",
+        "ru": "Тимус",
+        "en": "Thymus"
+      },
+      {
+        "id": "o2",
+        "ru": "Лимфатический узел",
+        "en": "Lymph node"
+      },
+      {
+        "id": "o3",
+        "ru": "Жёлчный пузырь",
+        "en": "Gallbladder"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    ],
+    "image": null
+  },
+  {
+    "id": "human_body_m50_thymus",
+    "categoryId": "human_body",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой орган служит местом созревания Т-лимфоцитов?",
+        "explanation": "Этот орган особенно активен в детстве."
+      },
+      "en": {
+        "question": "Which organ is a site where T lymphocytes mature?",
+        "explanation": "This organ is particularly active in childhood."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тимус",
+        "en": "Thymus"
+      },
+      {
+        "id": "o1",
+        "ru": "Селезёнка",
+        "en": "Spleen"
+      },
+      {
+        "id": "o2",
+        "ru": "Лимфатический узел",
+        "en": "Lymph node"
+      },
+      {
+        "id": "o3",
+        "ru": "Миндалина",
+        "en": "Tonsil"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    ],
+    "image": null
   }
 ]

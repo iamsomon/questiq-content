@@ -878,5 +878,1326 @@
       "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam"
     ],
     "image": null
+  },
+  {
+    "id": "islam_m50_adhan",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает призыв к обязательной молитве?",
+        "explanation": "Призыв традиционно произносит муэдзин."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means the call to prescribed prayer?",
+        "explanation": "The call is traditionally delivered by a muezzin."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Азан",
+        "en": "Adhan"
+      },
+      {
+        "id": "o1",
+        "ru": "Сухур",
+        "en": "Suhur"
+      },
+      {
+        "id": "o2",
+        "ru": "Ифтар",
+        "en": "Iftar"
+      },
+      {
+        "id": "o3",
+        "ru": "Ихрам",
+        "en": "Ihram"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_madrasa",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется традиционное мусульманское учебное заведение?",
+        "explanation": "Это место учёбы, в отличие от минбара — кафедры для проповедей."
+      },
+      "en": {
+        "question": "What is a traditional Muslim institution of learning called?",
+        "explanation": "It is a place of learning, unlike a minbar, which is a pulpit."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Медресе",
+        "en": "Madrasa"
+      },
+      {
+        "id": "o1",
+        "ru": "Мечеть",
+        "en": "Mosque"
+      },
+      {
+        "id": "o2",
+        "ru": "Минбар",
+        "en": "Minbar"
+      },
+      {
+        "id": "o3",
+        "ru": "Минарет",
+        "en": "Minaret"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_wudu",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется малое ритуальное омовение водой в исламской традиции?",
+        "explanation": "Омовение относится к ритуальной подготовке к молитве."
+      },
+      "en": {
+        "question": "In Islamic tradition, what is the minor ritual ablution with water called?",
+        "explanation": "Ablution forms part of ritual preparation for prayer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вуду",
+        "en": "Wudu"
+      },
+      {
+        "id": "o1",
+        "ru": "Гусль",
+        "en": "Ghusl"
+      },
+      {
+        "id": "o2",
+        "ru": "Таяммум",
+        "en": "Tayammum"
+      },
+      {
+        "id": "o3",
+        "ru": "Ихрам",
+        "en": "Ihram"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_ihram",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется особое ритуальное состояние паломника во время хаджа или умры?",
+        "explanation": "Оно предполагает особые правила одежды и поведения."
+      },
+      "en": {
+        "question": "What is the special ritual state entered for Hajj or Umrah called?",
+        "explanation": "It involves particular rules of clothing and conduct."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ихрам",
+        "en": "Ihram"
+      },
+      {
+        "id": "o1",
+        "ru": "Икама",
+        "en": "Iqama"
+      },
+      {
+        "id": "o2",
+        "ru": "Ифтар",
+        "en": "Iftar"
+      },
+      {
+        "id": "o3",
+        "ru": "Вуду",
+        "en": "Wudu"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_tafsir",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает толкование Корана?",
+        "explanation": "Эта область занимается смыслом и контекстом коранического текста."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means interpretation of the Qur'an?",
+        "explanation": "This field studies the meaning and context of the Qur'anic text."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Тафсир",
+        "en": "Tafsir"
+      },
+      {
+        "id": "o1",
+        "ru": "Таджвид",
+        "en": "Tajwid"
+      },
+      {
+        "id": "o2",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o3",
+        "ru": "Фикх",
+        "en": "Fiqh"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_fatwa",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется религиозно-правовое заключение, которое даёт муфтий?",
+        "explanation": "Заключение касается определённого вопроса исламского права."
+      },
+      "en": {
+        "question": "What is a religious legal opinion issued by a mufti called?",
+        "explanation": "The opinion addresses a particular question of Islamic law."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фетва",
+        "en": "Fatwa"
+      },
+      {
+        "id": "o1",
+        "ru": "Тафсир",
+        "en": "Tafsir"
+      },
+      {
+        "id": "o2",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o3",
+        "ru": "Вакф",
+        "en": "Waqf"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_waqf",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется имущество, безвозвратно выделенное на благотворительные или общественно полезные цели в исламской традиции?",
+        "explanation": "Доход такого имущества может поддерживать школы, помощь нуждающимся и другие учреждения."
+      },
+      "en": {
+        "question": "In Islamic tradition, what is property permanently dedicated to a charitable purpose called?",
+        "explanation": "Its income can support schools, aid for people in need and other institutions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Вакф",
+        "en": "Waqf"
+      },
+      {
+        "id": "o1",
+        "ru": "Мазхаб",
+        "en": "Madhhab"
+      },
+      {
+        "id": "o2",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o3",
+        "ru": "Микат",
+        "en": "Miqat"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_isnad",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает цепочку передатчиков сообщения хадиса?",
+        "explanation": "Цепочку отличают от самого текста сообщения."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means the chain of transmitters of a hadith?",
+        "explanation": "The chain is distinguished from the report's actual text."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o1",
+        "ru": "Матн",
+        "en": "Matn"
+      },
+      {
+        "id": "o2",
+        "ru": "Тафсир",
+        "en": "Tafsir"
+      },
+      {
+        "id": "o3",
+        "ru": "Фетва",
+        "en": "Fatwa"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_ijma",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин исламского права означает согласие, или консенсус?",
+        "explanation": "Это понятие относится к согласованному правовому мнению."
+      },
+      "en": {
+        "question": "Which term in Islamic jurisprudence means consensus?",
+        "explanation": "The concept refers to agreement on a legal position."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иджма",
+        "en": "Ijma"
+      },
+      {
+        "id": "o1",
+        "ru": "Кияс",
+        "en": "Qiyas"
+      },
+      {
+        "id": "o2",
+        "ru": "Иджтихад",
+        "en": "Ijtihad"
+      },
+      {
+        "id": "o3",
+        "ru": "Тафсир",
+        "en": "Tafsir"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_fiqh",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает исламскую правоведческую науку?",
+        "explanation": "Термин относится к человеческому осмыслению религиозно-правовых норм."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means Islamic jurisprudence?",
+        "explanation": "The term concerns human understanding of religious legal norms."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фикх",
+        "en": "Fiqh"
+      },
+      {
+        "id": "o1",
+        "ru": "Тафсир",
+        "en": "Tafsir"
+      },
+      {
+        "id": "o2",
+        "ru": "Таджвид",
+        "en": "Tajwid"
+      },
+      {
+        "id": "o3",
+        "ru": "Иснад",
+        "en": "Isnad"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_iftar",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает вечернюю трапезу разговения во время поста?",
+        "explanation": "Она связана с завершением дневного поста после захода солнца."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means the evening meal that breaks a fast?",
+        "explanation": "It marks the end of the day's fast after sunset."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ифтар",
+        "en": "Iftar"
+      },
+      {
+        "id": "o1",
+        "ru": "Сухур",
+        "en": "Suhur"
+      },
+      {
+        "id": "o2",
+        "ru": "Ихрам",
+        "en": "Ihram"
+      },
+      {
+        "id": "o3",
+        "ru": "Икама",
+        "en": "Iqama"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/islam-glossary-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_iqama",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется призыв, объявляющий о непосредственном начале обязательной молитвы?",
+        "explanation": "Он отличается от азана, который заранее призывает на молитву."
+      },
+      "en": {
+        "question": "What is the call announcing that an obligatory prayer is about to begin called?",
+        "explanation": "It differs from the adhan, which calls people to prayer in advance."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Икама",
+        "en": "Iqama"
+      },
+      {
+        "id": "o1",
+        "ru": "Азан",
+        "en": "Adhan"
+      },
+      {
+        "id": "o2",
+        "ru": "Ифтар",
+        "en": "Iftar"
+      },
+      {
+        "id": "o3",
+        "ru": "Ихрам",
+        "en": "Ihram"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_eid_fitr",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает праздник завершения поста месяца Рамадан?",
+        "explanation": "Его также называют праздником разговения, или Ураза-байрамом."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means the festival marking the end of Ramadan fasting?",
+        "explanation": "It is also known as the festival of breaking the fast."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ид аль-Фитр",
+        "en": "Eid al-Fitr"
+      },
+      {
+        "id": "o1",
+        "ru": "Ид аль-Адха",
+        "en": "Eid al-Adha"
+      },
+      {
+        "id": "o2",
+        "ru": "Ашура",
+        "en": "Ashura"
+      },
+      {
+        "id": "o3",
+        "ru": "Мавлид",
+        "en": "Mawlid"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_qadi",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как в исламской правовой традиции называется судья?",
+        "explanation": "Кади рассматривает дела и выносит судебные решения."
+      },
+      "en": {
+        "question": "What is a judge in the Islamic legal tradition called?",
+        "explanation": "A qadi hears cases and delivers judicial decisions."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кади",
+        "en": "Qadi"
+      },
+      {
+        "id": "o1",
+        "ru": "Муэдзин",
+        "en": "Muezzin"
+      },
+      {
+        "id": "o2",
+        "ru": "Хаттат",
+        "en": "Calligrapher"
+      },
+      {
+        "id": "o3",
+        "ru": "Мухаддис",
+        "en": "Muhaddith"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_qiyas",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин исламского права обозначает рассуждение по аналогии?",
+        "explanation": "Этот метод сопоставляет рассматриваемый случай с уже известным правовым случаем."
+      },
+      "en": {
+        "question": "Which term in Islamic jurisprudence means reasoning by analogy?",
+        "explanation": "The method compares a case with an established legal case."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кияс",
+        "en": "Qiyas"
+      },
+      {
+        "id": "o1",
+        "ru": "Иджма",
+        "en": "Ijma"
+      },
+      {
+        "id": "o2",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o3",
+        "ru": "Икама",
+        "en": "Iqama"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_sadaqa",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает добровольную благотворительную помощь?",
+        "explanation": "Её отличают от обязательного закята."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means voluntary charitable giving?",
+        "explanation": "It is distinguished from obligatory zakat."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Садака",
+        "en": "Sadaqa"
+      },
+      {
+        "id": "o1",
+        "ru": "Закят",
+        "en": "Zakat"
+      },
+      {
+        "id": "o2",
+        "ru": "Харадж",
+        "en": "Kharaj"
+      },
+      {
+        "id": "o3",
+        "ru": "Джизья",
+        "en": "Jizya"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_miqat",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется установленная граница, где паломник входит в состояние ихрама?",
+        "explanation": "Микаты связаны с подготовкой к хаджу или умре."
+      },
+      "en": {
+        "question": "What is a designated boundary for entering the state of ihram called?",
+        "explanation": "Miqats are associated with preparations for Hajj or Umrah."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Микат",
+        "en": "Miqat"
+      },
+      {
+        "id": "o1",
+        "ru": "Михраб",
+        "en": "Mihrab"
+      },
+      {
+        "id": "o2",
+        "ru": "Минбар",
+        "en": "Minbar"
+      },
+      {
+        "id": "o3",
+        "ru": "Сахн",
+        "en": "Sahn"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_kaaba",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какой термин в исламской традиции обозначает кубическое святилище в центре Заповедной мечети в Мекке?",
+        "explanation": "На неё ориентировано направление мусульманской молитвы."
+      },
+      "en": {
+        "question": "In Islamic tradition, which term means the cubic sanctuary at the centre of Mecca's Sacred Mosque?",
+        "explanation": "Muslim prayer is oriented towards it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Кааба",
+        "en": "Kaaba"
+      },
+      {
+        "id": "o1",
+        "ru": "Купол Скалы",
+        "en": "Dome of the Rock"
+      },
+      {
+        "id": "o2",
+        "ru": "Мечеть Пророка",
+        "en": "Prophet’s Mosque"
+      },
+      {
+        "id": "o3",
+        "ru": "Мечеть аль-Акса",
+        "en": "Al-Aqsa Mosque"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://pluralism.org/islam-glossary-terms"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_ijtihad",
+    "categoryId": "islam",
+    "difficulty": "hard",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется самостоятельное правовое рассуждение квалифицированного исламского учёного?",
+        "explanation": "Термин относится к работе над правовыми вопросами, а не к молитвенному призыву."
+      },
+      "en": {
+        "question": "What is independent legal reasoning by a qualified Islamic scholar called?",
+        "explanation": "The term concerns legal questions rather than the call to prayer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иджтихад",
+        "en": "Ijtihad"
+      },
+      {
+        "id": "o1",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o2",
+        "ru": "Икама",
+        "en": "Iqama"
+      },
+      {
+        "id": "o3",
+        "ru": "Азан",
+        "en": "Adhan"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_sajda",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется земной поклон в мусульманской молитве?",
+        "explanation": "При земном поклоне молящийся касается лбом земли."
+      },
+      "en": {
+        "question": "What is a prostration in Muslim prayer called?",
+        "explanation": "In prostration, the worshipper places the forehead on the ground."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Суджуд (саджда)",
+        "en": "Sujud (sajda)"
+      },
+      {
+        "id": "o1",
+        "ru": "Руку",
+        "en": "Ruku"
+      },
+      {
+        "id": "o2",
+        "ru": "Кыям",
+        "en": "Qiyam"
+      },
+      {
+        "id": "o3",
+        "ru": "Ташаххуд",
+        "en": "Tashahhud"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_chapters",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько сур содержит Коран?",
+        "explanation": "Суры различаются по длине и делятся на аяты."
+      },
+      "en": {
+        "question": "How many surahs does the Qur'an contain?",
+        "explanation": "Surahs vary in length and are divided into ayahs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "114",
+        "en": "114"
+      },
+      {
+        "id": "o1",
+        "ru": "99",
+        "en": "99"
+      },
+      {
+        "id": "o2",
+        "ru": "66",
+        "en": "66"
+      },
+      {
+        "id": "o3",
+        "ru": "150",
+        "en": "150"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_opening",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая сура открывает Коран?",
+        "explanation": "Название связано с открытием или началом."
+      },
+      "en": {
+        "question": "Which surah opens the Qur'an?",
+        "explanation": "The name is associated with opening or beginning."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аль-Фатиха",
+        "en": "Al-Fatihah"
+      },
+      {
+        "id": "o1",
+        "ru": "Аль-Бакара",
+        "en": "Al-Baqarah"
+      },
+      {
+        "id": "o2",
+        "ru": "Юсуф",
+        "en": "Yusuf"
+      },
+      {
+        "id": "o3",
+        "ru": "Марьям",
+        "en": "Maryam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_longest",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая сура Корана самая длинная по числу аятов?",
+        "explanation": "Она расположена второй и содержит 286 аятов."
+      },
+      "en": {
+        "question": "Which Qur'anic surah has the most ayahs?",
+        "explanation": "It is the second surah and contains 286 ayahs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аль-Бакара",
+        "en": "Al-Baqarah"
+      },
+      {
+        "id": "o1",
+        "ru": "Аль-Фатиха",
+        "en": "Al-Fatihah"
+      },
+      {
+        "id": "o2",
+        "ru": "Аль-Каусар",
+        "en": "Al-Kawthar"
+      },
+      {
+        "id": "o3",
+        "ru": "Аль-Ихляс",
+        "en": "Al-Ikhlas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_ayah",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется отдельный стих Корана?",
+        "explanation": "Несколько аятов составляют суру."
+      },
+      "en": {
+        "question": "What is an individual Qur'anic verse called?",
+        "explanation": "A surah consists of multiple ayahs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Аят",
+        "en": "Ayah"
+      },
+      {
+        "id": "o1",
+        "ru": "Сура",
+        "en": "Surah"
+      },
+      {
+        "id": "o2",
+        "ru": "Иснад",
+        "en": "Isnad"
+      },
+      {
+        "id": "o3",
+        "ru": "Минбар",
+        "en": "Minbar"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_maryam",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая сура названа именем матери Исы?",
+        "explanation": "Это девятнадцатая сура; в Коране Иса назван сыном Марьям."
+      },
+      "en": {
+        "question": "Which surah is named after the mother of Isa?",
+        "explanation": "It is the nineteenth surah; the Qur’an identifies Isa as the son of Maryam."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марьям",
+        "en": "Maryam"
+      },
+      {
+        "id": "o1",
+        "ru": "Юсуф",
+        "en": "Yusuf"
+      },
+      {
+        "id": "o2",
+        "ru": "Юнус",
+        "en": "Yunus"
+      },
+      {
+        "id": "o3",
+        "ru": "Худ",
+        "en": "Hud"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://quran.com/3/45",
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_musa",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому библейскому имени соответствует кораническое имя Муса?",
+        "explanation": "Рассказы о нём представлены во многих сурах."
+      },
+      "en": {
+        "question": "Which biblical name corresponds to the Qur'anic name Musa?",
+        "explanation": "Accounts of him appear in many surahs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Моисей",
+        "en": "Moses"
+      },
+      {
+        "id": "o1",
+        "ru": "Иосиф",
+        "en": "Joseph"
+      },
+      {
+        "id": "o2",
+        "ru": "Ной",
+        "en": "Noah"
+      },
+      {
+        "id": "o3",
+        "ru": "Давид",
+        "en": "David"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://quran.com/2/136"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_isa",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому имени соответствует имя Иса в Коране?",
+        "explanation": "Коран называет его сыном Марьям."
+      },
+      "en": {
+        "question": "Which name corresponds to Isa in the Qur'an?",
+        "explanation": "The Qur'an calls him the son of Maryam."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иисус",
+        "en": "Jesus"
+      },
+      {
+        "id": "o1",
+        "ru": "Исаак",
+        "en": "Isaac"
+      },
+      {
+        "id": "o2",
+        "ru": "Иосиф",
+        "en": "Joseph"
+      },
+      {
+        "id": "o3",
+        "ru": "Иаков",
+        "en": "Jacob"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://quran.com/2/136"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_nuh",
+    "categoryId": "islam",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому библейскому имени соответствует кораническое имя Нух?",
+        "explanation": "Одна из сур носит его имя."
+      },
+      "en": {
+        "question": "Which biblical name corresponds to the Qur'anic name Nuh?",
+        "explanation": "One surah bears his name."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ной",
+        "en": "Noah"
+      },
+      {
+        "id": "o1",
+        "ru": "Иов",
+        "en": "Job"
+      },
+      {
+        "id": "o2",
+        "ru": "Иона",
+        "en": "Jonah"
+      },
+      {
+        "id": "o3",
+        "ru": "Соломон",
+        "en": "Solomon"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_ibrahim",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому библейскому имени соответствует кораническое имя Ибрахим?",
+        "explanation": "Его имя носит четырнадцатая сура."
+      },
+      "en": {
+        "question": "Which biblical name corresponds to the Qur'anic name Ibrahim?",
+        "explanation": "The fourteenth surah bears his name."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Авраам",
+        "en": "Abraham"
+      },
+      {
+        "id": "o1",
+        "ru": "Аарон",
+        "en": "Aaron"
+      },
+      {
+        "id": "o2",
+        "ru": "Исаак",
+        "en": "Isaac"
+      },
+      {
+        "id": "o3",
+        "ru": "Исмаил",
+        "en": "Ishmael"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
+  },
+  {
+    "id": "islam_m50_yusuf",
+    "categoryId": "islam",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какому библейскому имени соответствует имя Юсуф?",
+        "explanation": "Истории Юсуфа посвящена двенадцатая сура."
+      },
+      "en": {
+        "question": "Which biblical name corresponds to Yusuf?",
+        "explanation": "The twelfth surah tells Yusuf's story."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иосиф",
+        "en": "Joseph"
+      },
+      {
+        "id": "o1",
+        "ru": "Иисус",
+        "en": "Jesus"
+      },
+      {
+        "id": "o2",
+        "ru": "Иаков",
+        "en": "Jacob"
+      },
+      {
+        "id": "o3",
+        "ru": "Иона",
+        "en": "Jonah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://api.quran.com/api/v4/chapters?language=en"
+    ],
+    "image": null
   }
 ]

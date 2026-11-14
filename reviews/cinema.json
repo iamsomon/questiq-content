@@ -358,5 +358,545 @@
         "claim": "Who won Directing for The King's Speech at the 2011 Academy Awards? Answer: Tom Hooper. The ceremony's Best Picture winner was The King's Speech."
       }
     ]
+  },
+  {
+    "id": "cinema_m50_close_up",
+    "status": "approved",
+    "sha256": "a657adb2e5fb6c0d2485651d4dd1b2802d31500dec377b958e18f1a86cce9961",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Close-up",
+        "claim": "Which filmmaking term means a shot in which a face or object fills most of the frame? Answer: Close-up. This scale helps emphasise an emotion or a detail."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_long_shot",
+    "status": "approved",
+    "sha256": "39ad5436dd337aa59ff68be17d779b682adc5184dab42a3351ea1a5f4582f636",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Long shot",
+        "claim": "Which filmmaking term means a shot showing a whole person and a substantial part of the surroundings? Answer: Long shot. It helps establish a character's position within a setting."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_pan",
+    "status": "approved",
+    "sha256": "e6b5398a81d34d859b4fd64c20577e78a86e5dd2c8c60861be5d4005e91d7382",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Pan",
+        "claim": "Which filmmaking term means horizontal camera rotation from a fixed position? Answer: Pan. The camera rotates without its support travelling across the set."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_tilt",
+    "status": "approved",
+    "sha256": "3d558566c0775e6b428f14a0ee5537bbad9efd606b09c7611e33c004c9df3aa0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Tilt",
+        "claim": "Which filmmaking term means vertical camera rotation up or down from a fixed position? Answer: Tilt. It can gradually reveal a tall subject."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_dolly",
+    "status": "approved",
+    "sha256": "f708039433615ca0c5ef30000dcd9f451b127de4df2b7ed5815029e9fff22f80",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Dolly shot",
+        "claim": "Which filmmaking term means physically moving a camera on a wheeled platform? Answer: Dolly shot. Unlike a zoom, this changes the camera's position."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_zoom",
+    "status": "approved",
+    "sha256": "a2fbbf709af2f7269cbef8027dad8a85c5535b1c5bf36d8ee90a956d8f6c2ce1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Zoom",
+        "claim": "Which filmmaking term means changing image size by changing the lens's focal length? Answer: Zoom. The camera can remain stationary during this change."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_storyboard",
+    "status": "approved",
+    "sha256": "4d522ef78393afd3044d099bc818f5b54052aaa98e3bfbd078356527860c4bcc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Storyboard",
+        "claim": "Which filmmaking term means a sequence of drawings that plans future shots? Answer: Storyboard. It helps plan composition and scene progression before filming."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_screenplay",
+    "status": "approved",
+    "sha256": "80d1aa0843a1b8a8b8821ef98eb7dd4791d1cd6cab8245bc754f1d691468ab7d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Screenplay",
+        "claim": "Which filmmaking term means a film's written plan containing action and dialogue? Answer: Screenplay. It describes action as well as spoken lines."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_voice_over",
+    "status": "approved",
+    "sha256": "cc25b45341d2df57d7f6a3d9a78b886698d82c6835e00895836a975a5ccf42d3",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Voice-over",
+        "claim": "Which filmmaking term means speech heard over images without being spoken by an on-screen character at that moment? Answer: Voice-over. It is often used for narration or commentary."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_foley",
+    "status": "approved",
+    "sha256": "5135497b1c43a521a79470e5aba20da7f77364761c207d0262a0f003c5129be0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Foley Artist",
+        "claim": "Which filmmaking term means recording performed everyday sounds to match the picture? Answer: Foley. Footsteps and clothing rustles may be recorded separately after filming."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_adr",
+    "status": "approved",
+    "sha256": "d56ec5866da736472eaa8e761947609bce38de268981742cd5219f0a9b53c5ff",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/what-is-adr-in-film/",
+        "location": "Automated dialogue replacement: rerecording dialogue after production",
+        "claim": "Which filmmaking term means rerecording an actor's lines after filming to replace the original dialogue? Answer: ADR. The new recording must match the timing of the on-screen speech."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_montage",
+    "status": "approved",
+    "sha256": "613a602ee60c07aee5a6d872c78ad3e246bc3a74ff4074060598c1b0bad93e59",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/what-is-film-editing-definition/",
+        "location": "Film editing definition and editor tasks: assembly, pace and narrative",
+        "claim": "Which filmmaking term means assembling a film from separately recorded shots? Answer: Editing. Shot order and duration affect rhythm and meaning."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_cross_cutting",
+    "status": "approved",
+    "sha256": "595974217775b820a20d323c3d9011cf24a6e09bb7e09457e9219eb981b70428",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Cross-cutting",
+        "claim": "Which filmmaking term means alternating shots between two lines of action, often occurring simultaneously? Answer: Cross-cutting. It can connect events taking place far apart."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_flashback",
+    "status": "approved",
+    "sha256": "7cb5fdcbc0d43ad7b7b99d4c6f0f3bd519da9f020f3190d9040eb8f96f8cf58e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Flashback",
+        "claim": "Which filmmaking term means a scene that takes the narrative back to earlier events? Answer: Flashback. The story's chronological order is deliberately interrupted."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_macguffin",
+    "status": "approved",
+    "sha256": "af55749af03ed011d0f846755bf589db6d6323639a34b3e98a3a0db5431d2557",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: MacGuffin",
+        "claim": "Which filmmaking term means an object or goal that motivates characters without necessarily mattering in itself? Answer: MacGuffin. The term is often associated with Alfred Hitchcock's films."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_diegetic",
+    "status": "approved",
+    "sha256": "c58e33feaaff8a2eba90a8e9833c2e3b29a129dc5b5e0f351f9cd9b306dfd79a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Diegetic sound",
+        "claim": "Which filmmaking term means sound whose source exists within the film's story world? Answer: Diegetic sound. A radio that characters can hear is an example."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_nondiegetic",
+    "status": "approved",
+    "sha256": "e34dd7c84d5ce02c51b22c21053f89c88a8f0c7b1e6e5069161510da05f732fe",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Non-diegetic music",
+        "claim": "Which filmmaking term means background score that characters in the scene cannot hear? Answer: Non-diegetic music. It can convey mood to the audience while remaining outside the characters' world."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_aspect_ratio",
+    "status": "approved",
+    "sha256": "0e3255f99aeeb8b3057fc1ee0bc054e02dcab83442b15ff2161777593e5280de",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Aspect ratio",
+        "claim": "Which filmmaking term means the ratio of a frame's width to its height? Answer: Aspect ratio. For example, 16:9 describes the image's shape."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_chroma",
+    "status": "approved",
+    "sha256": "92e63a52d0768d983559b972fb268fa60cf8f34faf284c9631d599db542e7489",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Blue Screen: chroma-keying",
+        "claim": "Which filmmaking term means replacing a solid-colour background, such as green, with another image? Answer: Chroma key. The background colour helps isolate the subject in post-production."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_stop_motion",
+    "status": "approved",
+    "sha256": "6ba90335469eb4bb076a84ea3b042386c6d1cee2579d2c12e1cde727f7235a38",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Stop motion",
+        "claim": "Which filmmaking term means photographing objects one frame at a time while slightly moving them between frames? Answer: Stop motion. On playback the stationary objects appear to move."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_spaghetti_western",
+    "status": "approved",
+    "sha256": "a50049583f2209cc454c0d949c01b1f2a0398010e5b6b06674c24aa40dadda3b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Spaghetti Western",
+        "claim": "What are the westerns made by Italian filmmakers mainly in Italy and Spain in the 1960s called? Answer: Spaghetti western. The name links an American genre with Italian filmmaking."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_noir",
+    "status": "approved",
+    "sha256": "6d5bebce14b8f2c83f097b3d4137deebf7b650feb95a830010e7f6fd59bfc33c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Film noir",
+        "claim": "Which filmmaking term means dark crime cinema associated with moral ambiguity and high-contrast lighting? Answer: Film noir. The French name literally means black film."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_mockumentary",
+    "status": "approved",
+    "sha256": "2a3633a58e45cb5cce7e5268100b9a3ee10da776eaa7da55404046f064aa5f21",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Mockumentary",
+        "claim": "What is a fictional comedy made in the style of a documentary called? Answer: Mockumentary. It uses recognisable documentary techniques for parody."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_melodrama",
+    "status": "approved",
+    "sha256": "df56baa161ce2846a961e0bc410df7c49c3d62e94dc63cb4175cdfc6a84b8eac",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Melodrama",
+        "claim": "Which genre emphasises characters’ intense emotions, personal hardship and pathos? Answer: Melodrama. Historically the term linked dramatic action with musical accompaniment."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_biopic",
+    "status": "approved",
+    "sha256": "116544a934e2a89995ca364683d88f220434df71ac77900b474afa19a2c4991d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Biopic",
+        "claim": "Which filmmaking term means a dramatised film about a real person's life? Answer: Biopic. The name is shortened from biographical picture."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_aerial_shot",
+    "status": "approved",
+    "sha256": "3b969b1c58867f932ab656758884656675636e7b2e0f144b31392b2a363b969d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Aerial Shot",
+        "claim": "What is a shot filmed from high above, for example from a plane or drone, called? Answer: Aerial shot. Such a shot can show the audience the overall setting."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_slate",
+    "status": "approved",
+    "sha256": "f6e2fd15c2655c7edca86af519dd16dc6b3721428747774e5de59dc1a90986e7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/how-to-use-a-film-slate/",
+        "location": "What is a film slate; identification and synchronization of audio and picture",
+        "claim": "Which filmmaking term means a board showing scene and take numbers before a shot? Answer: Clapperboard. The clap helps synchronise separately recorded sound and picture."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_blocking",
+    "status": "approved",
+    "sha256": "059c566e3d9a35453a20e133fd54252ab06d04db04925fd60429f118d16057f4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Blocking",
+        "claim": "Which filmmaking term means planning actors' movements and positions within a scene? Answer: Blocking. Performers' positions are coordinated with camera and lighting."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_continuity",
+    "status": "approved",
+    "sha256": "9c44fa806bccc05756e6d485652964f5c0e22116693e1f66aba1b730988ee3cc",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Continuity",
+        "claim": "Which filmmaking term means consistency of details and action between adjacent shots? Answer: Continuity. Props and an actor's position should not change accidentally across a cut."
+      }
+    ]
+  },
+  {
+    "id": "cinema_m50_location",
+    "status": "approved",
+    "sha256": "dee4e3bcc2ad5fa41f651b131ac1e6a72a8d8c32a73f8df3619e5e4a541ced29",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. StudioBinder film terminology and original editing, slate and ADR guides. Read relevant entries and checked the RU/EN terms and comparable alternatives. Replaced unsupported genre rows with verified aerial-shot, melodrama, mockumentary and spaghetti-western facts.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.studiobinder.com/blog/movie-film-terms/",
+        "location": "Glossary entry: Location: interiors and exteriors",
+        "claim": "What is a place chosen to film a scene, such as a street, house or landscape, called? Answer: Location. A filming location can be either outdoors or indoors."
+      }
+    ]
   }
 ]

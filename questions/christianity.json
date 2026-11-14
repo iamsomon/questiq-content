@@ -878,5 +878,1325 @@
       "https://www.metmuseum.org/essays/life-of-jesus-of-nazareth"
     ],
     "image": null
+  },
+  {
+    "id": "christianity_m50_noah",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, строит ковчег перед потопом?",
+        "explanation": "В повествовании ковчег сохраняет семью героя и животных."
+      },
+      "en": {
+        "question": "Who, in the biblical account, builds an ark before the flood?",
+        "explanation": "In the narrative the ark preserves his family and animals."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Ной",
+        "en": "Noah"
+      },
+      {
+        "id": "o1",
+        "ru": "Авраам",
+        "en": "Abraham"
+      },
+      {
+        "id": "o2",
+        "ru": "Моисей",
+        "en": "Moses"
+      },
+      {
+        "id": "o3",
+        "ru": "Иосиф",
+        "en": "Joseph"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_moses",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, видит горящий, но не сгорающий куст?",
+        "explanation": "Сцена связана с призванием вывести народ из Египта."
+      },
+      "en": {
+        "question": "Who, in the biblical account, sees a burning bush that is not consumed?",
+        "explanation": "The scene concerns the call to lead the people out of Egypt."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Моисей",
+        "en": "Moses"
+      },
+      {
+        "id": "o1",
+        "ru": "Аарон",
+        "en": "Aaron"
+      },
+      {
+        "id": "o2",
+        "ru": "Иисус Навин",
+        "en": "Joshua"
+      },
+      {
+        "id": "o3",
+        "ru": "Илия",
+        "en": "Elijah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_david",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, побеждает Голиафа с помощью пращи?",
+        "explanation": "Рассказ противопоставляет молодого героя опытному воину."
+      },
+      "en": {
+        "question": "Who, in the biblical account, defeats Goliath using a sling?",
+        "explanation": "The account contrasts a young protagonist with an experienced warrior."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Давид",
+        "en": "David"
+      },
+      {
+        "id": "o1",
+        "ru": "Саул",
+        "en": "Saul"
+      },
+      {
+        "id": "o2",
+        "ru": "Соломон",
+        "en": "Solomon"
+      },
+      {
+        "id": "o3",
+        "ru": "Самуил",
+        "en": "Samuel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_solomon",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, просит у Бога мудрости для управления народом?",
+        "explanation": "Просьба связана с умением различать добро и зло."
+      },
+      "en": {
+        "question": "Who, in the biblical account, asks God for wisdom to govern the people?",
+        "explanation": "The request concerns discerning right and wrong."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Соломон",
+        "en": "Solomon"
+      },
+      {
+        "id": "o1",
+        "ru": "Саул",
+        "en": "Saul"
+      },
+      {
+        "id": "o2",
+        "ru": "Давид",
+        "en": "David"
+      },
+      {
+        "id": "o3",
+        "ru": "Ровоам",
+        "en": "Rehoboam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_daniel",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, оказывается во рву со львами?",
+        "explanation": "Повествование связывает испытание с верностью молитве."
+      },
+      "en": {
+        "question": "Who, in the biblical account, is placed in a den of lions?",
+        "explanation": "The narrative connects the ordeal with faithfulness in prayer."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Даниил",
+        "en": "Daniel"
+      },
+      {
+        "id": "o1",
+        "ru": "Иезекииль",
+        "en": "Ezekiel"
+      },
+      {
+        "id": "o2",
+        "ru": "Иеремия",
+        "en": "Jeremiah"
+      },
+      {
+        "id": "o3",
+        "ru": "Исаия",
+        "en": "Isaiah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_jonah",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, оказывается внутри большой рыбы?",
+        "explanation": "В тексте говорится о большой рыбе, без обязательного уточнения «кит»."
+      },
+      "en": {
+        "question": "Who, in the biblical account, ends up inside a great fish?",
+        "explanation": "The text says a great fish rather than necessarily identifying a whale."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иона",
+        "en": "Jonah"
+      },
+      {
+        "id": "o1",
+        "ru": "Иоиль",
+        "en": "Joel"
+      },
+      {
+        "id": "o2",
+        "ru": "Амос",
+        "en": "Amos"
+      },
+      {
+        "id": "o3",
+        "ru": "Осия",
+        "en": "Hosea"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_samson",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, теряет силу после того, как ему обрезают волосы?",
+        "explanation": "Его история изложена в Книге Судей."
+      },
+      "en": {
+        "question": "Who, in the biblical account, loses his strength after his hair is cut?",
+        "explanation": "His story appears in the Book of Judges."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Самсон",
+        "en": "Samson"
+      },
+      {
+        "id": "o1",
+        "ru": "Гедеон",
+        "en": "Gideon"
+      },
+      {
+        "id": "o2",
+        "ru": "Иеффай",
+        "en": "Jephthah"
+      },
+      {
+        "id": "o3",
+        "ru": "Самуил",
+        "en": "Samuel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_ruth",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, решает остаться с Ноеминью и следовать за ней?",
+        "explanation": "Книга подчёркивает верность и связь двух женщин."
+      },
+      "en": {
+        "question": "Who, in the biblical account, chooses to stay with Naomi and go with her?",
+        "explanation": "The book highlights the loyalty and bond between the two women."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Руфь",
+        "en": "Ruth"
+      },
+      {
+        "id": "o1",
+        "ru": "Есфирь",
+        "en": "Esther"
+      },
+      {
+        "id": "o2",
+        "ru": "Ревекка",
+        "en": "Rebekah"
+      },
+      {
+        "id": "o3",
+        "ru": "Мириам",
+        "en": "Miriam"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_esther",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая царица в библейском повествовании решает просить царя о защите своего народа, рискуя жизнью?",
+        "explanation": "События Книги Есфири разворачиваются при персидском царском дворе."
+      },
+      "en": {
+        "question": "Which queen in the biblical account resolves to approach the king to protect her people, risking her life?",
+        "explanation": "The Book of Esther is set at the Persian royal court."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Есфирь",
+        "en": "Esther"
+      },
+      {
+        "id": "o1",
+        "ru": "Руфь",
+        "en": "Ruth"
+      },
+      {
+        "id": "o2",
+        "ru": "Девора",
+        "en": "Deborah"
+      },
+      {
+        "id": "o3",
+        "ru": "Сарра",
+        "en": "Sarah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_job",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, проходит тяжёлые испытания, обсуждая страдание со своими друзьями?",
+        "explanation": "Книга ставит вопросы о страдании и справедливости."
+      },
+      "en": {
+        "question": "Who, in the biblical account, undergoes severe trials and discusses suffering with his friends?",
+        "explanation": "The book raises questions about suffering and justice."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иов",
+        "en": "Job"
+      },
+      {
+        "id": "o1",
+        "ru": "Даниил",
+        "en": "Daniel"
+      },
+      {
+        "id": "o2",
+        "ru": "Иосиф",
+        "en": "Joseph"
+      },
+      {
+        "id": "o3",
+        "ru": "Неемия",
+        "en": "Nehemiah"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_peter",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто в евангельском повествовании трижды говорит, что не знает Иисуса, прежде чем пропоёт петух?",
+        "explanation": "Эпизод происходит после ареста Иисуса."
+      },
+      "en": {
+        "question": "Who in the Gospel account denies knowing Jesus three times before the rooster crows?",
+        "explanation": "The episode occurs after Jesus is arrested."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Пётр",
+        "en": "Peter"
+      },
+      {
+        "id": "o1",
+        "ru": "Андрей",
+        "en": "Andrew"
+      },
+      {
+        "id": "o2",
+        "ru": "Фома",
+        "en": "Thomas"
+      },
+      {
+        "id": "o3",
+        "ru": "Иоанн",
+        "en": "John"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_thomas",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, хочет увидеть раны воскресшего Иисуса?",
+        "explanation": "Сцена описана в Евангелии от Иоанна."
+      },
+      "en": {
+        "question": "Who, in the biblical account, wants to see the risen Jesus' wounds?",
+        "explanation": "The scene appears in the Gospel of John."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Фома",
+        "en": "Thomas"
+      },
+      {
+        "id": "o1",
+        "ru": "Пётр",
+        "en": "Peter"
+      },
+      {
+        "id": "o2",
+        "ru": "Филипп",
+        "en": "Philip"
+      },
+      {
+        "id": "o3",
+        "ru": "Андрей",
+        "en": "Andrew"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_judas",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, соглашается выдать Иисуса за тридцать серебряных монет?",
+        "explanation": "Об этом соглашении рассказывает Евангелие от Матфея."
+      },
+      "en": {
+        "question": "Who, in the biblical account, agrees to betray Jesus for thirty silver coins?",
+        "explanation": "The Gospel of Matthew describes this agreement."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Иуда Искариот",
+        "en": "Judas Iscariot"
+      },
+      {
+        "id": "o1",
+        "ru": "Симон Зилот",
+        "en": "Simon the Zealot"
+      },
+      {
+        "id": "o2",
+        "ru": "Иаков Зеведеев",
+        "en": "James son of Zebedee"
+      },
+      {
+        "id": "o3",
+        "ru": "Филипп",
+        "en": "Philip"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_zacchaeus",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, поднимается на дерево, чтобы увидеть проходящего Иисуса?",
+        "explanation": "В рассказе он назван начальником мытарей."
+      },
+      "en": {
+        "question": "Who, in the biblical account, climbs a tree to see Jesus passing by?",
+        "explanation": "The account describes him as a chief tax collector."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Закхей",
+        "en": "Zacchaeus"
+      },
+      {
+        "id": "o1",
+        "ru": "Никодим",
+        "en": "Nicodemus"
+      },
+      {
+        "id": "o2",
+        "ru": "Матфей",
+        "en": "Matthew"
+      },
+      {
+        "id": "o3",
+        "ru": "Вартимей",
+        "en": "Bartimaeus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_paul",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, переживает обращение на пути в Дамаск?",
+        "explanation": "Событие описано в Деяниях апостолов."
+      },
+      "en": {
+        "question": "Who, in the biblical account, undergoes a conversion on the road to Damascus?",
+        "explanation": "The event is described in the Acts of the Apostles."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Павел (Савл)",
+        "en": "Paul (Saul)"
+      },
+      {
+        "id": "o1",
+        "ru": "Пётр",
+        "en": "Peter"
+      },
+      {
+        "id": "o2",
+        "ru": "Варнава",
+        "en": "Barnabas"
+      },
+      {
+        "id": "o3",
+        "ru": "Тимофей",
+        "en": "Timothy"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_matthew",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, сидит у места сбора податей, когда Иисус призывает его?",
+        "explanation": "Евангельский эпизод связывает его с профессией сборщика налогов."
+      },
+      "en": {
+        "question": "Who, in the biblical account, is sitting at the tax booth when Jesus calls him?",
+        "explanation": "The Gospel episode associates him with tax collecting."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Матфей",
+        "en": "Matthew"
+      },
+      {
+        "id": "o1",
+        "ru": "Пётр",
+        "en": "Peter"
+      },
+      {
+        "id": "o2",
+        "ru": "Филипп",
+        "en": "Philip"
+      },
+      {
+        "id": "o3",
+        "ru": "Фома",
+        "en": "Thomas"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_lazarus",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, выходит из гробницы по призыву Иисуса в Вифании?",
+        "explanation": "Его сестёр в повествовании зовут Марфа и Мария."
+      },
+      "en": {
+        "question": "Who, in the biblical account, comes out of the tomb at Jesus' call in Bethany?",
+        "explanation": "His sisters in the narrative are Martha and Mary."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Лазарь",
+        "en": "Lazarus"
+      },
+      {
+        "id": "o1",
+        "ru": "Стефан",
+        "en": "Stephen"
+      },
+      {
+        "id": "o2",
+        "ru": "Закхей",
+        "en": "Zacchaeus"
+      },
+      {
+        "id": "o3",
+        "ru": "Никодим",
+        "en": "Nicodemus"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_martha",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, занимается угощением, пока её сестра Мария слушает Иисуса?",
+        "explanation": "Этот эпизод находится в Евангелии от Луки."
+      },
+      "en": {
+        "question": "Who, in the biblical account, attends to serving while her sister Mary listens to Jesus?",
+        "explanation": "The episode appears in the Gospel of Luke."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Марфа",
+        "en": "Martha"
+      },
+      {
+        "id": "o1",
+        "ru": "Елисавета",
+        "en": "Elizabeth"
+      },
+      {
+        "id": "o2",
+        "ru": "Мария Магдалина",
+        "en": "Mary Magdalene"
+      },
+      {
+        "id": "o3",
+        "ru": "Анна",
+        "en": "Anna"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_samaritan",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто в притче Иисуса о путнике первым останавливается и перевязывает раненому раны?",
+        "explanation": "Самарянин затем отвозит его в гостиницу и оплачивает уход."
+      },
+      "en": {
+        "question": "In Jesus’ parable about a traveller, who first stops and bandages the injured man’s wounds?",
+        "explanation": "The Samaritan then takes him to an inn and pays for his care."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Самарянин",
+        "en": "A Samaritan"
+      },
+      {
+        "id": "o1",
+        "ru": "Священник",
+        "en": "A priest"
+      },
+      {
+        "id": "o2",
+        "ru": "Левит",
+        "en": "A Levite"
+      },
+      {
+        "id": "o3",
+        "ru": "Разбойник",
+        "en": "A robber"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_prodigal",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Кто, согласно библейскому повествованию, радушно встречает вернувшегося блудного сына?",
+        "explanation": "Притча противопоставляет его реакцию недовольству старшего сына."
+      },
+      "en": {
+        "question": "Who, in the biblical account, warmly welcomes the returning prodigal son?",
+        "explanation": "The parable contrasts his response with the older son's resentment."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Отец",
+        "en": "His father"
+      },
+      {
+        "id": "o1",
+        "ru": "Старший брат",
+        "en": "His older brother"
+      },
+      {
+        "id": "o2",
+        "ru": "Сосед",
+        "en": "His neighbour"
+      },
+      {
+        "id": "o3",
+        "ru": "Хозяин свиней",
+        "en": "The owner of the pigs"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_genesis",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая книга открывает христианскую Библию?",
+        "explanation": "В ней находятся повествования о сотворении мира и патриархах."
+      },
+      "en": {
+        "question": "Which book opens the Christian Bible?",
+        "explanation": "It contains accounts of creation and the patriarchs."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Бытие",
+        "en": "Genesis"
+      },
+      {
+        "id": "o1",
+        "ru": "Исход",
+        "en": "Exodus"
+      },
+      {
+        "id": "o2",
+        "ru": "Псалтирь",
+        "en": "Psalms"
+      },
+      {
+        "id": "o3",
+        "ru": "Откровение",
+        "en": "Revelation"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_revelation",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая книга стоит последней в общепринятом порядке книг Нового Завета?",
+        "explanation": "Другое её название — Апокалипсис."
+      },
+      "en": {
+        "question": "Which book comes last in the commonly used order of New Testament books?",
+        "explanation": "The book is also known as the Apocalypse."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Откровение",
+        "en": "Revelation"
+      },
+      {
+        "id": "o1",
+        "ru": "Деяния",
+        "en": "Acts"
+      },
+      {
+        "id": "o2",
+        "ru": "Евангелие от Матфея",
+        "en": "Gospel of Matthew"
+      },
+      {
+        "id": "o3",
+        "ru": "Евангелие от Луки",
+        "en": "Gospel of Luke"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_nt_books",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Сколько книг содержит Новый Завет в общепринятом христианском каноне?",
+        "explanation": "В этот канон входят четыре Евангелия, Деяния апостолов, послания и Откровение."
+      },
+      "en": {
+        "question": "How many books are in the commonly accepted Christian New Testament?",
+        "explanation": "This canon includes four Gospels, Acts, epistles and Revelation."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "27",
+        "en": "27"
+      },
+      {
+        "id": "o1",
+        "ru": "24",
+        "en": "24"
+      },
+      {
+        "id": "o2",
+        "ru": "39",
+        "en": "39"
+      },
+      {
+        "id": "o3",
+        "ru": "66",
+        "en": "66"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_acts_book",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая книга Нового Завета повествует о ранней общине и путешествиях апостолов?",
+        "explanation": "В ней важное место занимают Пётр и Павел."
+      },
+      "en": {
+        "question": "Which New Testament book tells of the early community and the apostles' journeys?",
+        "explanation": "Peter and Paul have prominent roles in it."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Деяния апостолов",
+        "en": "Acts of the Apostles"
+      },
+      {
+        "id": "o1",
+        "ru": "Послание к Евреям",
+        "en": "Hebrews"
+      },
+      {
+        "id": "o2",
+        "ru": "Откровение",
+        "en": "Revelation"
+      },
+      {
+        "id": "o3",
+        "ru": "Евангелие от Луки",
+        "en": "Gospel of Luke"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_cana",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Что Иисус превращает в вино на свадьбе в Кане по Евангелию от Иоанна?",
+        "explanation": "Событие названо первым из знамений Иисуса в этом Евангелии."
+      },
+      "en": {
+        "question": "What does Jesus turn into wine at Cana's wedding in the Gospel of John?",
+        "explanation": "The event is called the first of Jesus' signs in this Gospel."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Воду",
+        "en": "Water"
+      },
+      {
+        "id": "o1",
+        "ru": "Молоко",
+        "en": "Milk"
+      },
+      {
+        "id": "o2",
+        "ru": "Масло",
+        "en": "Oil"
+      },
+      {
+        "id": "o3",
+        "ru": "Мёд",
+        "en": "Honey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_loaves",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какие продукты фигурируют в рассказе о насыщении пяти тысяч?",
+        "explanation": "Евангелия описывают насыщение множества людей небольшим запасом пищи."
+      },
+      "en": {
+        "question": "Which foods feature in the account of feeding the five thousand?",
+        "explanation": "The Gospels describe feeding a crowd from a small supply of food."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Хлеб и рыба",
+        "en": "Bread and fish"
+      },
+      {
+        "id": "o1",
+        "ru": "Мясо и рис",
+        "en": "Meat and rice"
+      },
+      {
+        "id": "o2",
+        "ru": "Сыр и оливки",
+        "en": "Cheese and olives"
+      },
+      {
+        "id": "o3",
+        "ru": "Яблоки и мёд",
+        "en": "Apples and honey"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_sinai",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "С какой горой связано получение Моисеем заповедей в Книге Исход?",
+        "explanation": "Гора занимает центральное место в повествовании о завете."
+      },
+      "en": {
+        "question": "Which mountain is associated with Moses receiving the commandments in Exodus?",
+        "explanation": "The mountain is central to the covenant narrative."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Синай",
+        "en": "Sinai"
+      },
+      {
+        "id": "o1",
+        "ru": "Олимп",
+        "en": "Olympus"
+      },
+      {
+        "id": "o2",
+        "ru": "Арарат",
+        "en": "Ararat"
+      },
+      {
+        "id": "o3",
+        "ru": "Кармил",
+        "en": "Carmel"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_olive",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая птица приносит Ною оливковый лист в Книге Бытия?",
+        "explanation": "Лист становится признаком того, что вода убывает."
+      },
+      "en": {
+        "question": "Which bird brings Noah an olive leaf in Genesis?",
+        "explanation": "The leaf becomes a sign that the waters are receding."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Голубь",
+        "en": "Dove"
+      },
+      {
+        "id": "o1",
+        "ru": "Ворон",
+        "en": "Raven"
+      },
+      {
+        "id": "o2",
+        "ru": "Орёл",
+        "en": "Eagle"
+      },
+      {
+        "id": "o3",
+        "ru": "Перепел",
+        "en": "Quail"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_eden",
+    "categoryId": "christianity",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Как называется сад в повествовании об Адаме и Еве?",
+        "explanation": "Этот образ описан в начальных главах Книги Бытия."
+      },
+      "en": {
+        "question": "What is the garden in the account of Adam and Eve called?",
+        "explanation": "The image appears in the opening chapters of Genesis."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Эдем",
+        "en": "Eden"
+      },
+      {
+        "id": "o1",
+        "ru": "Гефсимания",
+        "en": "Gethsemane"
+      },
+      {
+        "id": "o2",
+        "ru": "Вифания",
+        "en": "Bethany"
+      },
+      {
+        "id": "o3",
+        "ru": "Голгофа",
+        "en": "Golgotha"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
+  },
+  {
+    "id": "christianity_m50_psalms",
+    "categoryId": "christianity",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "revision": 1,
+    "localizations": {
+      "ru": {
+        "question": "Какая книга Библии представляет собой собрание молитв и песнопений?",
+        "explanation": "В ней есть тексты разных жанров: хвалебные, просительные и благодарственные."
+      },
+      "en": {
+        "question": "Which biblical book is a collection of prayers and songs?",
+        "explanation": "It includes songs of praise, petition and thanksgiving."
+      }
+    },
+    "options": [
+      {
+        "id": "o0",
+        "ru": "Псалтирь",
+        "en": "Psalms"
+      },
+      {
+        "id": "o1",
+        "ru": "Числа",
+        "en": "Numbers"
+      },
+      {
+        "id": "o2",
+        "ru": "Есфирь",
+        "en": "Esther"
+      },
+      {
+        "id": "o3",
+        "ru": "Деяния",
+        "en": "Acts"
+      }
+    ],
+    "correctOptionId": "o0",
+    "sources": [
+      "https://www.gutenberg.org/ebooks/10.txt.utf-8"
+    ],
+    "image": null
   }
 ]

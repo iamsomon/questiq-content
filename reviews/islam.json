@@ -358,5 +358,550 @@
         "claim": "Between which hills is one of the Mecca pilgrimage rites performed? Answer: Safa and Marwa. The rite recalls the tradition concerning Ishmael and his mother."
       }
     ]
+  },
+  {
+    "id": "islam_m50_adhan",
+    "status": "approved",
+    "sha256": "3696d0ea4023ec116513eb3b110d3d8be84bc09567e4747eb1f7da04b33bfb12",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry adhan",
+        "claim": "In Islamic tradition, which term means the call to prescribed prayer? Answer: Adhan. The call is traditionally delivered by a muezzin."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_madrasa",
+    "status": "approved",
+    "sha256": "54f590a29f0a9036d5d53dc1b43d7c89ca6b51408ac15bb68d7e2ba40e2d7fca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry madrasa",
+        "claim": "What is a traditional Muslim institution of learning called? Answer: Madrasa. It is a place of learning, unlike a minbar, which is a pulpit."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_wudu",
+    "status": "approved",
+    "sha256": "dd6a3d3d6db48a16a0d0505ba4c551ad102b39dce2627f2d17be46259eb6a59b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry wudu",
+        "claim": "In Islamic tradition, what is the minor ritual ablution with water called? Answer: Wudu. Ablution forms part of ritual preparation for prayer."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_ihram",
+    "status": "approved",
+    "sha256": "f25161954a87622cceaddf8b6f278db22ec5cb1c145c06e2e1889b20beb95724",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry ihram",
+        "claim": "What is the special ritual state entered for Hajj or Umrah called? Answer: Ihram. It involves particular rules of clothing and conduct."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_tafsir",
+    "status": "approved",
+    "sha256": "5ae559916c38756913dc354d662d3fb20c857522eb23eef778bd8df70d3170c6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry tafsir",
+        "claim": "In Islamic tradition, which term means interpretation of the Qur'an? Answer: Tafsir. This field studies the meaning and context of the Qur'anic text."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_fatwa",
+    "status": "approved",
+    "sha256": "e9d09849fa4bf975193b520b59b689974f5dc9e1c094ccef8706c062aaf498ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry fatwa",
+        "claim": "What is a religious legal opinion issued by a mufti called? Answer: Fatwa. The opinion addresses a particular question of Islamic law."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_waqf",
+    "status": "approved",
+    "sha256": "25b5bcf6beaac9d845db3cdca519b259aa5484d85037b25b911945f49869516f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry waqf",
+        "claim": "In Islamic tradition, what is property permanently dedicated to a charitable purpose called? Answer: Waqf. Its income can support schools, aid for people in need and other institutions."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_isnad",
+    "status": "approved",
+    "sha256": "dfd9367c94a9517c329bc112c9ecb53bb04e95f2f711fe41e22e6615751241cb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry isnad",
+        "claim": "In Islamic tradition, which term means the chain of transmitters of a hadith? Answer: Isnad. The chain is distinguished from the report's actual text."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_ijma",
+    "status": "approved",
+    "sha256": "d7ec9db8fc660804949175915ebb8fba8a108820a498a936cdd6914df2b0fd75",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry ijma",
+        "claim": "Which term in Islamic jurisprudence means consensus? Answer: Ijma. The concept refers to agreement on a legal position."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_fiqh",
+    "status": "approved",
+    "sha256": "c80e6b3bd457d5d7e8f1f721160baa7555b7584d277df7c827632061744cbd47",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry fiqh",
+        "claim": "In Islamic tradition, which term means Islamic jurisprudence? Answer: Fiqh. The term concerns human understanding of religious legal norms."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_iftar",
+    "status": "approved",
+    "sha256": "6afa96ca54269d9b163df79bbefd8ea6c7d0dc8854130dfd8d98a7f4740141d0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/islam-glossary-terms",
+        "location": "Glossary: iftar, meal after sundown in Ramadan",
+        "claim": "In Islamic tradition, which term means the evening meal that breaks a fast? Answer: Iftar. It marks the end of the day's fast after sunset."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_iqama",
+    "status": "approved",
+    "sha256": "cbd599955382fc86c14d216dc533169ee476462297d9ce7f86d5a50110e63d61",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry iqama",
+        "claim": "What is the call announcing that an obligatory prayer is about to begin called? Answer: Iqama. It differs from the adhan, which calls people to prayer in advance."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_eid_fitr",
+    "status": "approved",
+    "sha256": "7af3c084e158b80079302134b0a529bcf96f9612549face761c639fdfc2430d6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry eid_fitr",
+        "claim": "In Islamic tradition, which term means the festival marking the end of Ramadan fasting? Answer: Eid al-Fitr. It is also known as the festival of breaking the fast."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_qadi",
+    "status": "approved",
+    "sha256": "261b6eeff79aed95e84e267a5c18918f15bfc5ce8138eb898f9312af6ff45760",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry qadi",
+        "claim": "What is a judge in the Islamic legal tradition called? Answer: Qadi. A qadi hears cases and delivers judicial decisions."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_qiyas",
+    "status": "approved",
+    "sha256": "222e4eb2b8e24772dcf9af0aa15fe1d4e5360ab52afe9c5933a091834282b6ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry qiyas",
+        "claim": "Which term in Islamic jurisprudence means reasoning by analogy? Answer: Qiyas. The method compares a case with an established legal case."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_sadaqa",
+    "status": "approved",
+    "sha256": "db42798818fa47231df50f7c992d08e448f5840273092822fef95817e537c618",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry sadaqa",
+        "claim": "In Islamic tradition, which term means voluntary charitable giving? Answer: Sadaqa. It is distinguished from obligatory zakat."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_miqat",
+    "status": "approved",
+    "sha256": "3f2086d6886fcfc9f5e259b6c3674df6678249509e7ee31dd0f02d3080462a93",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry miqat",
+        "claim": "What is a designated boundary for entering the state of ihram called? Answer: Miqat. Miqats are associated with preparations for Hajj or Umrah."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_kaaba",
+    "status": "approved",
+    "sha256": "341e688cdd83d0f1b78481ac73942ce1346b81c20cb4f8da5a26f3df5ceee484",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://pluralism.org/islam-glossary-terms",
+        "location": "Glossary: Ka’bah in Makkah",
+        "claim": "In Islamic tradition, which term means the cubic sanctuary at the centre of Mecca's Sacred Mosque? Answer: Kaaba. Muslim prayer is oriented towards it."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_ijtihad",
+    "status": "approved",
+    "sha256": "8ed7d2894695e21693f6411cb70b275c3c35f58cd1222a67690bc4c7dca74314",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry ijtihad",
+        "claim": "What is independent legal reasoning by a qualified Islamic scholar called? Answer: Ijtihad. The term concerns legal questions rather than the call to prayer."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_sajda",
+    "status": "approved",
+    "sha256": "aee19a1df17a43b1b3228ff12ee0e378d175165f837621337e1c4ef949c9b240",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "Glossary entry sajda",
+        "claim": "What is a prostration in Muslim prayer called? Answer: Sujud (sajda). In prostration, the worshipper places the forehead on the ground."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_chapters",
+    "status": "approved",
+    "sha256": "c49d41ac2873030ee17bea5264a7215239ebc700324518f86fb1b8ad962af897",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; chapters",
+        "claim": "How many surahs does the Qur'an contain? Answer: 114. Surahs vary in length and are divided into ayahs."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_opening",
+    "status": "approved",
+    "sha256": "f7b09cb6456642f57694fe02bdbcea2d89dcffa6e320c0f478a5b7c046655b9b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; opening",
+        "claim": "Which surah opens the Qur'an? Answer: Al-Fatihah. The name is associated with opening or beginning."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_longest",
+    "status": "approved",
+    "sha256": "8d15ed1a523e38d0dc0025e14d06b05aded4a21074a0398326ae6e19b36c1f31",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; longest",
+        "claim": "Which Qur'anic surah has the most ayahs? Answer: Al-Baqarah. It is the second surah and contains 286 ayahs."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_ayah",
+    "status": "approved",
+    "sha256": "0f575a7c55b6c7ee6683a95b5521d394bffeaae6262f6227a4dd0b3f029eb3d1",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.iium.edu.my/deed/lawbase/maliki_fiqh/usulgloss.html",
+        "location": "ayat: a verse of the Qur’an",
+        "claim": "What is an individual Qur'anic verse called? Answer: Ayah. A surah consists of multiple ayahs."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_maryam",
+    "status": "approved",
+    "sha256": "240cbe5976cd2311cb313a12c1cfa49e0a6d3e6e7a69cf75996d76094747c7bb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://quran.com/3/45",
+        "location": "3:45 Isa son of Maryam; surah Maryam is chapter 19",
+        "claim": "Which surah is named after the mother of Isa? Answer: Maryam. It is the nineteenth surah; the Qur’an identifies Isa as the son of Maryam."
+      },
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter 19 record: name Maryam, translated name Mary",
+        "claim": "Chapter 19 is named Maryam."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_musa",
+    "status": "approved",
+    "sha256": "789bb4368fd64f0d05288f339d3e2db7631034ea952aa1d43c00ff3238129e0e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://quran.com/2/136",
+        "location": "2:136 Arabic names Musa and Isa alongside their English translation",
+        "claim": "Which biblical name corresponds to the Qur'anic name Musa? Answer: Moses. Accounts of him appear in many surahs."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_isa",
+    "status": "approved",
+    "sha256": "74429e109d2a932c82793d4f620434efd4c99a6b68c31db3aaf8fbfec6a298c6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://quran.com/2/136",
+        "location": "2:136 Arabic names Musa and Isa alongside their English translation",
+        "claim": "Which name corresponds to Isa in the Qur'an? Answer: Jesus. The Qur'an calls him the son of Maryam."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_nuh",
+    "status": "approved",
+    "sha256": "5d276adce4909a307dae44301d2639e22bdc7de762a6192f681e27a1d558f5d0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; nuh",
+        "claim": "Which biblical name corresponds to the Qur'anic name Nuh? Answer: Noah. One surah bears his name."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_ibrahim",
+    "status": "approved",
+    "sha256": "3ff767f57d3e3a80e37541b52755036b818fb075801e4511f961b11ca1512ab9",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; ibrahim",
+        "claim": "Which biblical name corresponds to the Qur'anic name Ibrahim? Answer: Abraham. The fourteenth surah bears his name."
+      }
+    ]
+  },
+  {
+    "id": "islam_m50_yusuf",
+    "status": "approved",
+    "sha256": "6288197d8b6bac5f67b4296537f77ed81f555c4183f66d4461b81ed4fcb11463",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. IIUM legal glossary, Harvard Pluralism glossary and Quran Foundation chapter metadata and 2:136/3:45. Read exact source entries; replaced unsupported terms, checked all alternatives and edited RU/EN wording independently of drafting.",
+    "languageReviewer": "Codex separate RU/EN wording, answer and distractor pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://api.quran.com/api/v4/chapters?language=en",
+        "location": "Chapter metadata: ordered 114 entries, verse counts and translated names; yusuf",
+        "claim": "Which biblical name corresponds to Yusuf? Answer: Joseph. The twelfth surah tells Yusuf's story."
+      }
+    ]
   }
 ]
