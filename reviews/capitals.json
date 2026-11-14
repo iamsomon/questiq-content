@@ -178,5 +178,925 @@
         "location": "World Bank country API: capitalCity, latitude and longitude for the country row; hemispheres derived from signed coordinates"
       }
     ]
+  },
+  {
+    "id": "capitals_m50_tj",
+    "status": "approved",
+    "sha256": "eea9cd86b58c4b8b0b400686141b655a2552c7f4cf84c9346f79f21f9a99d679",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/tj.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Tajikistan? Answer: Dushanbe. The UN statistical classification places the country in Central Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Tajikistan? Answer: Dushanbe. The UN statistical classification places the country in Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_uz",
+    "status": "approved",
+    "sha256": "71ecca54a2ebc841bb826ee95044ac932a4baf0bad7c73e0bfad6c35112f03f4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/uz.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Uzbekistan? Answer: Tashkent. The UN statistical classification places the country in Central Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Uzbekistan? Answer: Tashkent. The UN statistical classification places the country in Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_kg",
+    "status": "approved",
+    "sha256": "68509973efc5afff8f2f79037c2c21e6e4d7d26c601948f84ecb525d70c14e28",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/kg.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Kyrgyzstan? Answer: Bishkek. The UN statistical classification places the country in Central Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Kyrgyzstan? Answer: Bishkek. The UN statistical classification places the country in Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_kz",
+    "status": "approved",
+    "sha256": "54de3d7a79b2e3e062c543f808cd33111458de2787fdd78dbb00b799e21d8945",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/kz.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Kazakhstan? Answer: Astana. The UN statistical classification places the country in Central Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Kazakhstan? Answer: Astana. The UN statistical classification places the country in Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_tm",
+    "status": "approved",
+    "sha256": "f0ced3a340480352117e70f5205af6388d247c242d298ec8c400fa292ce0452b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/tm.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Turkmenistan? Answer: Ashgabat. The UN statistical classification places the country in Central Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Turkmenistan? Answer: Ashgabat. The UN statistical classification places the country in Central Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_es",
+    "status": "approved",
+    "sha256": "162cf5f07e2581b7be793b2d4a24ac6b0660955095bdee2d2011ed113733a38c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/es.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Spain? Answer: Madrid. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Spain? Answer: Madrid. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_pt",
+    "status": "approved",
+    "sha256": "941da56bee8abce2d9a819739eeb57288dabf37b3308f7774c8c4b5f94ef832a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/pt.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Portugal? Answer: Lisbon. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Portugal? Answer: Lisbon. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_it",
+    "status": "approved",
+    "sha256": "f55dc8cfe6eaefc3c2780accba4ccf21d499063f0fbb4a51490de31bfc6c268b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/it.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Italy? Answer: Rome. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Italy? Answer: Rome. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_gr",
+    "status": "approved",
+    "sha256": "80177121b709f179cc5896368a87a966ba4575efd7967855a846a1f0d47066d7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/gr.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Greece? Answer: Athens. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Greece? Answer: Athens. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_at",
+    "status": "approved",
+    "sha256": "ea159e3e5a548fb504000a3d31a129f7445d782b2608b62d05ef1b2600ba9b5f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/at.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Austria? Answer: Vienna. The UN statistical classification places the country in Western Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Austria? Answer: Vienna. The UN statistical classification places the country in Western Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_pl",
+    "status": "approved",
+    "sha256": "6a0ef07c25c433670761f8c0a08cbe90fd42a29c1a66d0b49688791800470c34",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/pl.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Poland? Answer: Warsaw. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Poland? Answer: Warsaw. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_cz",
+    "status": "approved",
+    "sha256": "8ebd256feb9045815cd8d2169c54ea8b32d62532f00f717544610b923b19078f",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/cz.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Czechia? Answer: Prague. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Czechia? Answer: Prague. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_sk",
+    "status": "approved",
+    "sha256": "dd9085d99c14b8e3a50656f6eb147d49be35e3399439db24a59698b7f42a9edb",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/sk.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Slovakia? Answer: Bratislava. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Slovakia? Answer: Bratislava. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_hu",
+    "status": "approved",
+    "sha256": "1028809bae1a3bfe3d7c7c37fea54a60a5b7ec8d6ca1b5d12da0e216875af0b4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/hu.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Hungary? Answer: Budapest. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Hungary? Answer: Budapest. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_ro",
+    "status": "approved",
+    "sha256": "7b49760f4e4274cf0aef08505ac89fe36dc7e92cc7634c9e338eea17cdade834",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/ro.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Romania? Answer: Bucharest. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Romania? Answer: Bucharest. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_bg",
+    "status": "approved",
+    "sha256": "8d6a655a53d7583e26fb957b7227c4d3ac61ee4b41e3c88ac93866c2081abb18",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/bg.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Bulgaria? Answer: Sofia. The UN statistical classification places the country in Eastern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Bulgaria? Answer: Sofia. The UN statistical classification places the country in Eastern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_no",
+    "status": "approved",
+    "sha256": "ad8472cd467a67443a3d929b969a0d6612e1043d81a3ed0e652e2c1dba7b0f6d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/no.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Norway? Answer: Oslo. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Norway? Answer: Oslo. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_se",
+    "status": "approved",
+    "sha256": "c87a64d6c3ddb75431a230f9f80929125e27e010a36b9ff9fa5570ba7b25796a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/se.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Sweden? Answer: Stockholm. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Sweden? Answer: Stockholm. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_fi",
+    "status": "approved",
+    "sha256": "b45bf311b24a0eb4fe404b74f4760a3e010b9c898f4ea4c9a8d9b7a7876f2e83",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/fi.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Finland? Answer: Helsinki. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Finland? Answer: Helsinki. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_dk",
+    "status": "approved",
+    "sha256": "416580ff246661a9510be20c66fe8feac3340b580ad2fd814c07a0af8c9b06f7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/dk.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Denmark? Answer: Copenhagen. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Denmark? Answer: Copenhagen. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_is",
+    "status": "approved",
+    "sha256": "193732d2cbfc88a20d64ff519c31f80804bf08dd780c4f524b3123f8288bb497",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/is.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Iceland? Answer: Reykjavik. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Iceland? Answer: Reykjavik. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_ie",
+    "status": "approved",
+    "sha256": "7a31e6556f340589bf6f62fc81a727fd59e54ca2f5136a5de90aca1482d45078",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/ie.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Ireland? Answer: Dublin. The UN statistical classification places the country in Northern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Ireland? Answer: Dublin. The UN statistical classification places the country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_be",
+    "status": "approved",
+    "sha256": "3449c950a8ce2f0c3b74f8d907af3086d9c2d37ccba2764317d10386698e1e41",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/be.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Belgium? Answer: Brussels. The UN statistical classification places the country in Western Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Belgium? Answer: Brussels. The UN statistical classification places the country in Western Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_rs",
+    "status": "approved",
+    "sha256": "3d7d03c9636cdce5494d06291c526baf56a31a80cb4d9fa302954631011b2209",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/rs.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Serbia? Answer: Belgrade. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Serbia? Answer: Belgrade. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_hr",
+    "status": "approved",
+    "sha256": "5f16d2fa2850b44ca500d51efa41e76fc8772f09acaa7cf781679147c1dbd4d2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/hr.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Croatia? Answer: Zagreb. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Croatia? Answer: Zagreb. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_si",
+    "status": "approved",
+    "sha256": "1f55a0051ebea6d1afacdd1812ae53185c76170275223bdb0c749554b3c82987",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/si.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Slovenia? Answer: Ljubljana. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Slovenia? Answer: Ljubljana. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_al",
+    "status": "approved",
+    "sha256": "9e0fa0041822a1945957547de14a089cd861bf8f5430ddf29c40a11b739f3410",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/al.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Albania? Answer: Tirana. The UN statistical classification places the country in Southern Europe."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Albania? Answer: Tirana. The UN statistical classification places the country in Southern Europe."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_mn",
+    "status": "approved",
+    "sha256": "49244a82cf1b5b7cb7fd400986d4e12b1690cb55949dd9986a16c2413f4eca53",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/mn.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Mongolia? Answer: Ulaanbaatar. The UN statistical classification places the country in Eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Mongolia? Answer: Ulaanbaatar. The UN statistical classification places the country in Eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_kr",
+    "status": "approved",
+    "sha256": "4647e4eddf835049b79138d07801cd604b00c8a63f7220da43c84c04d5d5d886",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/kr.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of the Republic of Korea? Answer: Seoul. The UN statistical classification places the country in Eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of the Republic of Korea? Answer: Seoul. The UN statistical classification places the country in Eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_vn",
+    "status": "approved",
+    "sha256": "886465eaf2902762aee01c219a618f9c104f950a55c8cd28cd9ad75aa4e607be",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/vn.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Viet Nam? Answer: Hanoi. The UN statistical classification places the country in South-eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Viet Nam? Answer: Hanoi. The UN statistical classification places the country in South-eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_th",
+    "status": "approved",
+    "sha256": "6a0ca9af9148b1fab21a834ae7faf0b501bc51e2d7966e15ff7d95532b2cb2ae",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/th.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Thailand? Answer: Bangkok. The UN statistical classification places the country in South-eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Thailand? Answer: Bangkok. The UN statistical classification places the country in South-eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_kh",
+    "status": "approved",
+    "sha256": "7a0ec10631a1985c70c505384214f7609cf525bdd09d0bc7bebcb8c1d7df9834",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/kh.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Cambodia? Answer: Phnom Penh. The UN statistical classification places the country in South-eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Cambodia? Answer: Phnom Penh. The UN statistical classification places the country in South-eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_la",
+    "status": "approved",
+    "sha256": "b2b252177d25abbd56132f4e1fe0f96607bb20147300929814970ed4fdc5f03d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/la.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Laos? Answer: Vientiane. The UN statistical classification places the country in South-eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Laos? Answer: Vientiane. The UN statistical classification places the country in South-eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_ph",
+    "status": "approved",
+    "sha256": "7a57414c3a33e2e616d7d6876e6f635122882e27acd9c66cc8852c4e7e2cd983",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/ph.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of the Philippines? Answer: Manila. The UN statistical classification places the country in South-eastern Asia."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of the Philippines? Answer: Manila. The UN statistical classification places the country in South-eastern Asia."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_nz",
+    "status": "approved",
+    "sha256": "888d5ca17340be2d02b25a6fb8171c114592927092ac096a870e696189491f59",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/nz.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of New Zealand? Answer: Wellington. The UN statistical classification places the country in Australia and New Zealand."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of New Zealand? Answer: Wellington. The UN statistical classification places the country in Australia and New Zealand."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_ar",
+    "status": "approved",
+    "sha256": "dfa7df2b23b66b63c5526484c1ccaeb13602c9a35b1c9f6619c9a0beadd13eb5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/ar.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Argentina? Answer: Buenos Aires. The UN statistical classification places the country in South America."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Argentina? Answer: Buenos Aires. The UN statistical classification places the country in South America."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_cl",
+    "status": "approved",
+    "sha256": "a98477f5647642bf0b5d532402cae885bc1ec79eb56a9f8b6544568858e5616e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/cl.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Chile? Answer: Santiago. The UN statistical classification places the country in South America."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Chile? Answer: Santiago. The UN statistical classification places the country in South America."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_pe",
+    "status": "approved",
+    "sha256": "dde4d5ef9d921225a1785e554b77103e83eece4d2520725b6fa4a17d76f719c8",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/pe.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Peru? Answer: Lima. The UN statistical classification places the country in South America."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Peru? Answer: Lima. The UN statistical classification places the country in South America."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_co",
+    "status": "approved",
+    "sha256": "ea31f81671b519d59d188d00742575c2c00b2e0233db1e06e4c07b7b3837d80c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/co.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Colombia? Answer: Bogotá. The UN statistical classification places the country in South America."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Colombia? Answer: Bogotá. The UN statistical classification places the country in South America."
+      }
+    ]
+  },
+  {
+    "id": "capitals_m50_uy",
+    "status": "approved",
+    "sha256": "8ffa664384641038c668dbf37d6c16cacf82d06d7c6277f29e474196f462f89d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. UNData country profiles and UNSD M49 geographic regions; capital checked against official profile field and World Bank data",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://data.un.org/legacy/en/iso/uy.html",
+        "location": "Country profile, General Information, Capital city",
+        "claim": "Which city is the capital of Uruguay? Answer: Montevideo. The UN statistical classification places the country in South America."
+      },
+      {
+        "url": "https://unstats.un.org/unsd/methodology/m49/",
+        "location": "Geographic Regions, country and immediate parent region",
+        "claim": "Which city is the capital of Uruguay? Answer: Montevideo. The UN statistical classification places the country in South America."
+      }
+    ]
   }
 ]

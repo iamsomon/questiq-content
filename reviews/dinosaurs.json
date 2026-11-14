@@ -178,5 +178,725 @@
         "claim": "Which of these animals was not a dinosaur? Answer: Dimetrodon. Dimetrodon belonged to a different evolutionary branch and lived before dinosaurs."
       }
     ]
+  },
+  {
+    "id": "dinosaurs_m50_tyrannosaurus_name",
+    "status": "approved",
+    "sha256": "ddf2d4dbaa4c2ba19e48408c1916eca2c53faf4e08f27654ffa8a12561afd751",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Tyrannosaurus mean? Tyrant lizard. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_tyrannosaurus_period",
+    "status": "approved",
+    "sha256": "e45e14043424aa9ad5861c07cae788ffa8871102f35988a4cdc32781a9613a7c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Tyrannosaurus live? Late Cretaceous. The museum dates the known fossils to about 68–66 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_brachiosaurus_name",
+    "status": "approved",
+    "sha256": "bd10db8aac90da3e1882a4aa1d7d993dae09496ab63aa43cae140c8eebf66c13",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Brachiosaurus mean? Arm lizard. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_brachiosaurus_feature",
+    "status": "approved",
+    "sha256": "8015de2d085e5324e034c87710634c0f9d0466987fb9ea73eb5a7e97348b27b7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html",
+        "location": "Dino Directory, Appearance, elongated forelimbs",
+        "claim": "Brachiosaurus had longer forelegs than hind legs. Where were its shoulders relative to its hips? Higher than the hips. Its long forelegs inspired its name."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_iguanodon_name",
+    "status": "approved",
+    "sha256": "5b0c7572c00c780e4c00b41f0bc9a36951af425deb5898414487b89431953e1b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Iguanodon mean? Iguana tooth. The museum directory places it in the Early Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_iguanodon_period",
+    "status": "approved",
+    "sha256": "5a4a9bc866c9e2953aca1f3ef24d10b43e45037bbe66a4782d9c7718b834384d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Iguanodon live? Early Cretaceous. The museum dates the known fossils to about 140–110 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_diplodocus_name",
+    "status": "approved",
+    "sha256": "5678027bc80e6f039e6de85015954dc828e91a515462d00945574185d25fd885",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Diplodocus mean? Double beam. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_diplodocus_period",
+    "status": "approved",
+    "sha256": "52a4c3c30e0380caf3e6e02419678e54fdc85e3e92681c72e129d19a18e53d36",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Diplodocus live? Late Jurassic. The museum dates the known fossils to about 152–145 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_ankylosaurus_name",
+    "status": "approved",
+    "sha256": "32d824c8a655fdba1ad52388c026a096e00ceec8a82b582741c4850a575660db",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Ankylosaurus mean? Fused lizard. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_ankylosaurus_period",
+    "status": "approved",
+    "sha256": "28bc07da47b5f2da398acd533c872caab372f2ca242f4cc700cec0a27f4c8a84",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Ankylosaurus live? Late Cretaceous. The museum dates the known fossils to about 68–66 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_allosaurus_name",
+    "status": "approved",
+    "sha256": "99a0637cc776a98bf1e9e230f658a5b2f6054a06eb6a050578881c04e5ed06f0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Allosaurus mean? Different lizard. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_allosaurus_period",
+    "status": "approved",
+    "sha256": "b68f61370b7940217c6f85f51254f61d4920c78c15d0dfebf7d3e4adebb96b0d",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Allosaurus live? Late Jurassic. The museum dates the known fossils to about 152–145 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_apatosaurus_name",
+    "status": "approved",
+    "sha256": "b09ecabf1c5ae308cd8813d5461f2e0fdc0c12809f7eba99686285f2a4b3d42b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Apatosaurus mean? Deceptive lizard. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_apatosaurus_period",
+    "status": "approved",
+    "sha256": "34ad8af947c4462e0fcb9dd02094e4c3a30949f98e82f2fe86d3071b26001636",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Apatosaurus live? Late Jurassic. The museum dates the known fossils to about 152–145 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_baryonyx_name",
+    "status": "approved",
+    "sha256": "8e7f7cdc3e423d63c82dd8340e8ddb5f3683bb8d0cc84793ad1e22f9a1640e75",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Baryonyx mean? Heavy claw. The museum directory places it in the Early Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_baryonyx_feature",
+    "status": "approved",
+    "sha256": "7936eb45b672900ca700fa80767aa1025c4fac57eebe26e496037221a9904fa4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html",
+        "location": "Dino Directory, Appearance and Food",
+        "claim": "Which living animal had jaws most like those of Baryonyx? Crocodile. The museum lists fish among its foods."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_carnotaurus_name",
+    "status": "approved",
+    "sha256": "632b1e3640e77ccf0ce1ca68c70a29ac7ff9182926ac650370d00db9b240fa40",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Carnotaurus mean? Meat-eating bull. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_carnotaurus_country",
+    "status": "approved",
+    "sha256": "b53255559a02fba736e23eac99a52e511d726373b58ca24a237e947046c9d6a2",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html",
+        "location": "Dino Directory, Found in and Description",
+        "claim": "In which of these countries have fossils of Carnotaurus been found? Argentina. This predator had two horns on top of its head and very small forelimbs."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_ceratosaurus_name",
+    "status": "approved",
+    "sha256": "cd99297ee6387be691c5d516ad9ed3a5e3bc6e39107610d68528f2fc81bdae85",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Ceratosaurus mean? Horned lizard. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_ceratosaurus_period",
+    "status": "approved",
+    "sha256": "3f3593d06601e558b602042bfde4869284951c7c5ea0932d8d13d111b8efef39",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Ceratosaurus live? Late Jurassic. The museum dates the known fossils to about 152–145 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_dilophosaurus_name",
+    "status": "approved",
+    "sha256": "13d52df96de1878ac8c269484cc44ad1e3d318808aa863dcb3b816e2e527e3ca",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Dilophosaurus mean? Two-crested lizard. The museum directory places it in the Early Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_dilophosaurus_period",
+    "status": "approved",
+    "sha256": "4edeca295087219bd8f01c8b2b92ac18424084d7b3bb247f22d2c7149e39d00c",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Dilophosaurus live? Early Jurassic. The museum dates the known fossils to about 184 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_gallimimus_name",
+    "status": "approved",
+    "sha256": "ca0458f08c3e5b22d353c1ea4b45f9c621eb5b5f17efa344312040ef99435c06",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Gallimimus mean? Chicken mimic. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_gallimimus_country",
+    "status": "approved",
+    "sha256": "bc91c11a9223821f8e6434ae43350b399f002d604573509da6550a2aab1c9360",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html",
+        "location": "Dino Directory, Found in and Description",
+        "claim": "In which of these countries have fossils of Gallimimus been found? Mongolia. This dinosaur walked on two legs."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_kentrosaurus_name",
+    "status": "approved",
+    "sha256": "01c55623653ac87e17a361d4dd5435f0eaa88b1ed71ffff6a32c61f25dd14d81",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Kentrosaurus mean? Spiked lizard. The museum directory places it in the Late Jurassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_kentrosaurus_country",
+    "status": "approved",
+    "sha256": "c23dc7b27b86867e79faf0d6ded154fcc61fec31e7846fc3bab500663971dda7",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html",
+        "location": "Dino Directory, Found in and Description",
+        "claim": "In which of these countries have fossils of Kentrosaurus been found? Tanzania. Kentrosaurus belongs to the same armoured dinosaur group as Stegosaurus."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_maiasaura_name",
+    "status": "approved",
+    "sha256": "031a5ce72a1fa46528b4232ce1c63531012936f838c1166c0fe50b09f3804e05",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Maiasaura mean? Good mother lizard. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_maiasaura_period",
+    "status": "approved",
+    "sha256": "309ec98aa183ef4a4d6fdaca5dc654232f2a457e5ad618e3e1064062b1c06787",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Maiasaura live? Late Cretaceous. The museum dates the known fossils to about 80–75 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_oviraptor_name",
+    "status": "approved",
+    "sha256": "8ace24cf369e10fb7567178fbc7747bb655bf9d495e105988a00abb5807a4fb5",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Oviraptor mean? Egg thief. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_oviraptor_period",
+    "status": "approved",
+    "sha256": "4c97d4f9a23024fc4d380b79024f8c10745757349f62364b0bbb1270a5a0093a",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html",
+        "location": "Dino Directory: When it lived",
+        "claim": "When did Oviraptor live? Late Cretaceous. The museum dates the known fossils to about 85–75 million years ago."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_pachycephalosaurus_name",
+    "status": "approved",
+    "sha256": "2bd928acae09f41be94b500b0343e15bff822db02b8d1a9a491065ffa2aca398",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Pachycephalosaurus mean? Thick-headed lizard. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_pachycephalosaurus_feature",
+    "status": "approved",
+    "sha256": "bcd4969129b33940c13f0f156982ae05ebf4130bb9d9dfd738d77455eadc1fba",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html",
+        "location": "Dino Directory, Appearance, dome",
+        "claim": "Where on its body did Pachycephalosaurus have a thick bony dome? On its head. Its head had bony bumps as well as the dome."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_parasaurolophus_name",
+    "status": "approved",
+    "sha256": "9619c7fad7755d8683000acf9fda0188b8aba1fd0a7640e3cb10d68fdef03cc0",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Parasaurolophus mean? Like Saurolophus. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_parasaurolophus_feature",
+    "status": "approved",
+    "sha256": "f83dff7691b01c38376f5a3e3258d518da92dd7739a73af08cdca068fdf410a4",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html",
+        "location": "Dino Directory, Appearance, head crest",
+        "claim": "Which feature stood out on the head of Parasaurolophus? A long crest. The crest was hollow, with a passage leading from the nostrils."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_plateosaurus_name",
+    "status": "approved",
+    "sha256": "b44ff49c1448e428da672cbf924a07cc10e1b9d5248ec53b1629b92eee140cf6",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Plateosaurus mean? Flat lizard. The museum directory places it in the Late Triassic."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_plateosaurus_country",
+    "status": "approved",
+    "sha256": "3c9cda09ffc4c4fc58affae101bd78de8f7f6cc92924c7b42ff5a52bf299829b",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html",
+        "location": "Dino Directory, Found in and Description",
+        "claim": "In which of these countries have fossils of Plateosaurus been found? Germany. Plateosaurus had five-fingered hands with a large thumb claw."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_spinosaurus_name",
+    "status": "approved",
+    "sha256": "370e523e506ec96d7453eb4019334fc0277d4e6868d84e113e1ebb605c0e7603",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html",
+        "location": "Dino Directory: Name meaning",
+        "claim": "What does the dinosaur name Spinosaurus mean? Spine lizard. The museum directory places it in the Late Cretaceous."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_spinosaurus_country",
+    "status": "approved",
+    "sha256": "df9258407fff95880c0d914528a569c3640ee8ae07fc9bf13be926e5827d900e",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html",
+        "location": "Dino Directory, Found in and Description",
+        "claim": "In which of these countries have fossils of Spinosaurus been found? Morocco. Spinosaurus had smooth, cone-shaped teeth."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_struthiomimus_country",
+    "status": "approved",
+    "sha256": "2cb945530e9f0d55e4d2c00c9a4cf7d8b9bc88b1cd410bf4548156aa84453f36",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html",
+        "location": "Dino Directory, Found in and Type of dinosaur",
+        "claim": "Where does London’s Natural History Museum list fossil finds of Struthiomimus? Canada. The museum describes it as a small theropod."
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs_m50_struthiomimus_feature",
+    "status": "approved",
+    "sha256": "a21906e328eb58e3317e5b2feb330844cce28790ee095a388a04483b12f3a001",
+    "author": "Codex original bilingual questions",
+    "factReviewer": "Codex separate source pass. Natural History Museum Dino Directory species profiles; etymology, geological period, fossils or anatomy",
+    "languageReviewer": "Codex separate RU/EN wording and choice pass",
+    "checkedAt": "2026-11-14",
+    "method": "agent_source_review",
+    "humanApproved": false,
+    "sourceChecks": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html",
+        "location": "Dino Directory, Appearance, resemblance to an ostrich",
+        "claim": "Which bird did Struthiomimus resemble in silhouette? Ostrich. Its long tail sets its silhouette apart from the modern bird’s."
+      }
+    ]
   }
 ]
